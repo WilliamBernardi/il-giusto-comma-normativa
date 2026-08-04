@@ -1,0 +1,89 @@
+name: corpus-refresh
+
+on:
+  schedule:
+    - cron: '30 3 * * *'
+  workflow_dispatch:
+    inputs:
+      collection:
+        description: 'Refresh only this collection (name as in manifest.json)'
+        required: false
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: corpus-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Refresh changed collections
+        id: refresh
+        env:
+          COLLECTION: ${{ inputs.collection || '' }}
+          COMMIT_MSG: ${{ runner.temp }}/commit-msg.txt
+        run: |
+          chmod +x tools/corpus-build
+          args=(--changed-only --output "$GITHUB_WORKSPACE" \
+                --registry "$GITHUB_WORKSPACE/tools/registry/must_have.json" \
+                --verify --cache-dir "$RUNNER_TEMP/cache" \
+                --commit-msg-file "$COMMIT_MSG")
+          if [ -n "$COLLECTION" ]; then args+=(--collection "$COLLECTION"); fi
+          set +e
+          "$GITHUB_WORKSPACE/tools/corpus-build" "${args[@]}"
+          rc=$?
+          set -e
+          echo "corpus-build exit code: $rc"
+          echo "rc=$rc" >> "$GITHUB_OUTPUT"
+
+      # Commit successful collections even when the run was partial (rc=3:
+      # >=1 collection failed but the rest refreshed); a failed collection is
+      # retried on the next run. rc=2 (verify gate) never commits.
+      - name: Commit and push if changed
+        if: always()
+        env:
+          COMMIT_MSG: ${{ runner.temp }}/commit-msg.txt
+          RC: ${{ steps.refresh.outputs.rc }}
+        run: |
+          failed=0
+          if [ "$RC" = "2" ]; then
+            echo "verify gate failed — no commit"
+            exit 1
+          fi
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "corpus is up to date"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -A
+            if [ -s "$COMMIT_MSG" ]; then
+              git commit -F "$COMMIT_MSG"
+            else
+              git commit -m "build: refresh corpus from Normattiva Open Data"
+            fi
+            pushed=0
+            for attempt in 1 2 3; do
+              if git push; then
+                pushed=1
+                break
+              fi
+              sleep 10
+            done
+            if [ "$pushed" = "0" ]; then
+              echo "push failed after retries"
+              failed=1
+            fi
+          fi
+          if [ -n "$RC" ] && [ "$RC" != "0" ]; then
+            echo "corpus-build exited $RC — partial refresh, see logs"
+            failed=1
+          fi
+          exit $failed

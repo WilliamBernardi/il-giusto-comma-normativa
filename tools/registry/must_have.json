@@ -1,0 +1,367 @@
+{
+  "version": 1,
+  "updated": "2026-08-02",
+  "note": "Calibrated from the first corpus-build run of the official Codici VIGENTE AKN collection (2026-08-01 zip). Windows: min=actual-15, max=actual+25 to allow amendment-driven growth while catching regressions.",
+  "entries": [
+    {
+      "urn": "urn:nir:stato:regio.decreto:1942-03-16;262",
+      "codice_redazionale": "042U0262",
+      "name": "Codice Civile",
+      "expected_articles_min": 3267,
+      "expected_articles_max": 3307,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1930-10-19;1398",
+      "codice_redazionale": "030U1398",
+      "name": "Codice Penale",
+      "expected_articles_min": 984,
+      "expected_articles_max": 1024,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2006-04-03;152",
+      "codice_redazionale": "006G0171",
+      "name": "Codice ambiente (D.Lgs 152/2006)",
+      "expected_articles_min": 428,
+      "expected_articles_max": 468,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2025-11-27;184",
+      "codice_redazionale": "",
+      "name": "Codice degli incentivi",
+      "expected_articles_min": 13,
+      "expected_articles_max": 53,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2004-01-22;42",
+      "codice_redazionale": "004G0066",
+      "name": "Codice dei beni culturali e del paesaggio",
+      "expected_articles_min": 180,
+      "expected_articles_max": 220,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2023-03-31;36",
+      "codice_redazionale": "",
+      "name": "Codice dei contratti pubblici (D.Lgs 36/2023)",
+      "expected_articles_min": 513,
+      "expected_articles_max": 553,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2016-04-18;50",
+      "codice_redazionale": "",
+      "name": "Codice dei contratti pubblici (D.Lgs 50/2016)",
+      "expected_articles_min": 207,
+      "expected_articles_max": 247,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2006-04-11;198",
+      "codice_redazionale": "006G0216",
+      "name": "Codice dei contratti pubblici 2006",
+      "expected_articles_min": 59,
+      "expected_articles_max": 99,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2017-07-03;117",
+      "codice_redazionale": "",
+      "name": "Codice del Terzo settore",
+      "expected_articles_min": 90,
+      "expected_articles_max": 130,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2005-09-06;206",
+      "codice_redazionale": "005G0232",
+      "name": "Codice del consumo",
+      "expected_articles_min": 227,
+      "expected_articles_max": 267,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2010-07-02;104",
+      "codice_redazionale": "010G0127",
+      "name": "Codice del processo amministrativo",
+      "expected_articles_min": 152,
+      "expected_articles_max": 192,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2011-05-23;79",
+      "codice_redazionale": "011G0123",
+      "name": "Codice del turismo",
+      "expected_articles_min": 66,
+      "expected_articles_max": 106,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2019-01-12;14",
+      "codice_redazionale": "",
+      "name": "Codice della crisi dimpresa e dellinsolvenza",
+      "expected_articles_min": 400,
+      "expected_articles_max": 440,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2016-08-26;174",
+      "codice_redazionale": "",
+      "name": "Codice della giustizia contabile",
+      "expected_articles_min": 238,
+      "expected_articles_max": 278,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1942-03-30;327",
+      "codice_redazionale": "042U0327",
+      "name": "Codice della navigazione",
+      "expected_articles_min": 1343,
+      "expected_articles_max": 1383,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:1992-12-31;546",
+      "codice_redazionale": "093G0007",
+      "name": "Codice della proprieta industriale",
+      "expected_articles_min": 79,
+      "expected_articles_max": 119,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2005-02-10;30",
+      "codice_redazionale": "005G0055",
+      "name": "Codice della proprieta industriale (aggiornato)",
+      "expected_articles_min": 276,
+      "expected_articles_max": 316,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2018-01-02;1",
+      "codice_redazionale": "",
+      "name": "Codice della protezione civile",
+      "expected_articles_min": 36,
+      "expected_articles_max": 76,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:2010-10-05;207",
+      "codice_redazionale": "010G0226",
+      "name": "Codice dellamministrazione digitale",
+      "expected_articles_min": 344,
+      "expected_articles_max": 384,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2005-03-07;82",
+      "codice_redazionale": "005G0104",
+      "name": "Codice dellamministrazione digitale (D.Lgs 82/2005)",
+      "expected_articles_min": 108,
+      "expected_articles_max": 148,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2005-09-07;209",
+      "codice_redazionale": "005G0233",
+      "name": "Codice delle assicurazioni private",
+      "expected_articles_min": 598,
+      "expected_articles_max": 638,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2003-08-01;259",
+      "codice_redazionale": "003G0280",
+      "name": "Codice delle comunicazioni elettroniche",
+      "expected_articles_min": 340,
+      "expected_articles_max": 380,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2011-09-06;159",
+      "codice_redazionale": "011G0201",
+      "name": "Codice delle leggi antimafia",
+      "expected_articles_min": 124,
+      "expected_articles_max": 164,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2005-07-18;171",
+      "codice_redazionale": "005G0200",
+      "name": "Codice delle pari opportunita",
+      "expected_articles_min": 82,
+      "expected_articles_max": 122,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2006-04-12;163",
+      "codice_redazionale": "006G0184",
+      "name": "Codice dellordinamento militare",
+      "expected_articles_min": 297,
+      "expected_articles_max": 337,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2010-03-15;66",
+      "codice_redazionale": "010G0089",
+      "name": "Codice dellordinamento militare (D.Lgs 66/2010)",
+      "expected_articles_min": 2526,
+      "expected_articles_max": 2566,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1940-10-28;1443",
+      "codice_redazionale": "040U1443",
+      "name": "Codice di procedura civile",
+      "expected_articles_min": 1044,
+      "expected_articles_max": 1084,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1988-09-22;447",
+      "codice_redazionale": "088G0492",
+      "name": "Codice di procedura penale",
+      "expected_articles_min": 891,
+      "expected_articles_max": 931,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-29;156",
+      "codice_redazionale": "073U0156",
+      "name": "Codice penale militare di guerra",
+      "expected_articles_min": 402,
+      "expected_articles_max": 442,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-15;328",
+      "codice_redazionale": "052U0328",
+      "name": "Codice penale militare di pace",
+      "expected_articles_min": 543,
+      "expected_articles_max": 583,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-16;495",
+      "codice_redazionale": "092G0531",
+      "name": "Codice postale e telecomunicazioni",
+      "expected_articles_min": 394,
+      "expected_articles_max": 434,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:2003-06-30;196",
+      "codice_redazionale": "003G0218",
+      "name": "Codice privacy (D.Lgs 196/2003)",
+      "expected_articles_min": 307,
+      "expected_articles_max": 347,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1941-02-20;303",
+      "codice_redazionale": "041U0303",
+      "name": "Codici penali militari di pace e di guerra",
+      "expected_articles_min": 728,
+      "expected_articles_max": 768,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1942-03-30;318",
+      "codice_redazionale": "042U0318",
+      "name": "Disposizioni attuazione codice civile",
+      "expected_articles_min": 300,
+      "expected_articles_max": 340,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1941-12-18;1368",
+      "codice_redazionale": "041U1368",
+      "name": "Disposizioni attuazione codice procedura civile",
+      "expected_articles_min": 293,
+      "expected_articles_max": 333,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:regio.decreto:1941-09-09;1023",
+      "codice_redazionale": "041U1023",
+      "name": "Disposizioni coordinamento codici penali militari",
+      "expected_articles_min": 43,
+      "expected_articles_max": 83,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:1989-07-28;271",
+      "codice_redazionale": "089G0340",
+      "name": "Norme attuazione codice procedura penale",
+      "expected_articles_min": 310,
+      "expected_articles_max": 350,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:stato:decreto.legislativo:1992-04-30;285",
+      "codice_redazionale": "092G0306",
+      "name": "Nuovo codice della strada",
+      "expected_articles_min": 251,
+      "expected_articles_max": 291,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:ministero.grazia.e.giustizia:decreto:1989-09-30;334",
+      "codice_redazionale": "089G0411",
+      "name": "Regolamento attuazione processo amministrativo",
+      "expected_articles_min": 21,
+      "expected_articles_max": 61,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    },
+    {
+      "urn": "urn:nir:ministero.sviluppo.economico:decreto:2010-01-13;33",
+      "codice_redazionale": "010G0044",
+      "name": "Regolamento attuazione proprieta industriale",
+      "expected_articles_min": 68,
+      "expected_articles_max": 108,
+      "preamble_only_ok": false,
+      "source_preferred": "normattiva"
+    }
+  ]
+}
