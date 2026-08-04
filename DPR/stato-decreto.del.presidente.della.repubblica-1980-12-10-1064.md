@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1064
+data: 1980-12-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-10;1064
+codice_redazionale: 080U1064
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 dicembre 1980
+                1064
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Donato e di S. Sisto, in Sassari.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 dicembre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Sassari 30 aprile 1979, relativo all'unione acque principaliter delle parrocchie di S. Donato e di S. Sisto, in Sassari.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 25 febbraio 1981
+ Registro n. 4 Interno, foglio n. 160
+

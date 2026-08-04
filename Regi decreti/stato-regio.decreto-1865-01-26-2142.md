@@ -1,0 +1,104 @@
+---
+tipo: REGIO DECRETO
+numero: 2142
+data: 1865-01-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1865-01-26;2142
+codice_redazionale: 065U2142
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:27Z
+---
+
+REGIO DECRETO
+                26 gennaio 1865
+                2142
+                Col quale sono stabilite le norme di servizio ed i rapporti fra la Guardia Nazionale e le Autorita' Militari. (065U2142)
+
+Entrata in vigore del provvedimento: 25/02/1865
+
+## - TITOLO I. Concorso della Guardia Nazionale nel servizio di piazza.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## - TITOLO II. Servizio misto per tutela dell'ordine pubblico.
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## - TITOLO III. Parate, riviste, scorte d'onore, onori funebri, ecc.
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

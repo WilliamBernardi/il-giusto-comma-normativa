@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 6034
+data: 1870-11-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1870-11-17;6034
+codice_redazionale: 070U6034
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:38Z
+---
+
+REGIO DECRETO
+                17 novembre 1870
+                6034
+                Col quale sono pubblicati nella Provincia di Roma la Legge ed il Regolamento consolare, i Decreti velatici alla concessione e revoca dell'exequatur agli Agenti delle Potenze estere, ed il Decreto sui passaporti. (070U6034)
+
+Entrata in vigore del provvedimento: 13/12/1870
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+

@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 529
+data: 1979-02-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-02-12;529
+codice_redazionale: 079U0529
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 febbraio 1979
+                529
+                Rettifica al decreto del Presidente della Repubblica 31 ottobre 1977, n. 1260, concernente modificazioni allo statuto dell'Universita' cattolica del Sacro Cuore di Milano.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' cattolica del Sacro Cuore di Milano, approvato con regio decreto 20 aprile 1939, n. 1163 e modificato con regio decreto 26 ottobre 1940, n. 2030, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduto il decreto del Presidente della Repubblica 31 ottobre 1977, n. 1260, con il quale sono state apportate, tra l'altro, modifiche all'ordinamento della scuola di specializzazione in otorinolaringoiatria, presso la facolta' di medicina e chirurgia dell'Universita' cattolica del Sacro Cuore di Milano;
+ Considerato che con il suddetto decreto del Presidente della Repubblica 31 ottobre 1977, n. 1260, e' stato soppresso erroneamente l'intero settimo comma dell'art. 106 relativo alla scuola di specializzazione in otorinolaringoiatria dell'Universita' del Sacro Cuore di Milano anziche' la sola frase: "Non sono ammesse abbreviazioni di corso salvo decisioni particolari in merito da parte del consiglio di facolta'", come richiesto dai competenti organi accademici;
+ Riconosciuta di conseguenza la necessita' di apportare le dovute rettifiche al suddetto provvedimento;
+
+ Decreta:
+
+ Il decreto presidenziale del 31 ottobre 1977, n. 1260, e' rettificato nel senso che deve ritenersi soppresso non l'intero settimo comma dell'art. 106 della scuola di specializzazione in otorinolaringoiatria dell'Universita' cattolica del Sacro Cuore di Milano, bensi' esclusivamente la prima frase: "Non sono ammesse abbreviazioni di corso, salvo decisioni particolari in merito da parte del consiglio di facolta'", come richiesto dai competenti organi accademici.
+

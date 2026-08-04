@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 762
+data: 1968-05-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-05-23;762
+codice_redazionale: 068U0762
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 maggio 1968
+                762
+                Erezione in ente morale dell'associazione "Istituto monsignor Edoardo Alberto Fabozzi", con sede in Napoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 maggio 1968, col quale, sulla proposta del Ministro per l'interno, l'associazione "Istituto monsignor Edoardo Alberto Fabozzi", con sede in Napoli, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 11 luglio 1968
+ Atti del Governo, registro n. 220, foglio n. 100. - GRECO
+

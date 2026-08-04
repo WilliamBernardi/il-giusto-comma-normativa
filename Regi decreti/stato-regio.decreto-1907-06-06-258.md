@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+data: 1907-06-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1907-06-06;258
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:40Z
+---
+
+REGIO DECRETO
+                06 giugno 1907
+                CCLVIII
+                Con cui l'asilo infantile di Villa d'Adda (Bergamo) e' eretto in ente morale e viene approvato lo statuto organico relativo. (0700258R)
+
+Entrata in vigore del provvedimento: 06/08/1907
+
+## Art. 1.
+
+Con cui l'asilo infantile di Villa d'Adda (Bergamo) e' eretto in ente morale e viene approvato lo statuto organico relativo. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Orlando. 
+ 
+ Registrato alla Corte dei conti addi' 13 luglio 1907. 
+ 
+ Reg. 35. Atti del Governo a f. 125.
+

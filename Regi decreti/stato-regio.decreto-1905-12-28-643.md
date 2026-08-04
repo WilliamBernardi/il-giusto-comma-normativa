@@ -1,0 +1,49 @@
+---
+tipo: REGIO DECRETO
+numero: 643
+data: 1905-12-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1905-12-28;643
+codice_redazionale: 005U0643
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:16Z
+---
+
+REGIO DECRETO
+                28 dicembre 1905
+                643
+                Che dichiara monumento nazionale una tomba in Quinto Fiorentino. (005U0643)
+
+Entrata in vigore del provvedimento: 16/02/1906
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Considerata l'importanza archeologica della antichissima tomba a cupola, esistente sotto il casino della villa «La Mula» a Quinto Fiorentino; 
+ 
+ Visto il parere della Commissione centrale per i monumenti e le opere di antichita' e d'arte; 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; 
+ 
+ Abbiamo decretato o decretiamo: 
+ 
+ La tomba a cupola nella villa «La Mula» a Quinto Fiorentino e' dichiarata monumento nazionale. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 dicembre 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Errico De Marinis. 
+ 
+ Visto, Il guardasigilli: C. Finocchiaro-Aprile.
+

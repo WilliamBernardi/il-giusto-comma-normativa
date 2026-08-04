@@ -1,0 +1,470 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 574
+data: 1988-07-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1988-07-15;574
+codice_redazionale: 088G0454
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2026-06-20
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:15Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 luglio 1988
+                574
+                ((Norme di attuazione dello
+Statuto speciale per la regione Trentino-Alto Adige in materia di uso
+della lingua tedesca e della lingua ladina nei rapporti con la
+pubblica amministrazione e nei procedimenti giudiziari.))
+
+Entrata in vigore del decreto: 9-11-1989
+
+Sentita la Commissione paritetica per le norme di attuazione, prevista dal predetto art. 107;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri dell'interno, del tesoro, di grazia e giustizia, delle finanze, per la funzione pubblica e per gli affari generali ed i problemi istituzionali;
+
+## - Capo I CAMPO DI APPLICAZIONE
+
+## Art. 1.
+
+Anche per le forze di polizia che fanno parte delle Forze armate e per il personale della Polizia di Stato che e' soggetto ad ordinamenti di tipo militare, la lingua soggiace alle disposizioni del presente decreto in tutti i casi in cui vengono compiuti atti che riguardano l'attivita' di polizia in genere, ovvero sono destinati ad avviare un'azione penale o comunque provochino una sanzione.
+
+## Art. 1-bis. — (Le disposizioni del presente decreto si applicano a tutte le persone fisiche e giuridiche, a prescindere dalla loro nazionalita', residenza, domicilio o sede)
+
+
+
+## Art. 2.
+
+((
+
+Presso i concessionari di servizi di pubblico interesse svolti in provincia di Bolzano l'attivita' deve essere organizzata in modo che sia garantito l'uso delle due lingue italiana e tedesca secondo le norme del presente decreto. Il personale occorrente a tal fine deve essere in possesso del requisito di cui al titolo I del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni.
+
+Ai fini del presente decreto sono concessionari di servizi di pubblico interesse i soggetti che gestiscono servizi che rientrano nelle attribuzioni o nella disponibilita' di enti pubblici, nonche' quelli in atto ad essi equiparati.
+
+Nei formulari degli atti relativi alla assicurazione obbligatoria deve essere garantito l'uso congiunto delle lingue italiana e tedesca.
+
+Per le assunzioni, a qualsiasi titolo effettuate, anche a tempo determinato, di personale, nelle societa' o enti comunque denominati o strutturati che abbiano assunto o assumano in concessione esclusiva o parziale la gestione di servizi che al 1 gennaio 1991 erano esercitati sia dalle amministrazioni statali, comprese quelle ad ordinamento autonomo soggette alle norme del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modifiche ed integrazioni, sia da enti pubblici economici, e' richiesto il requisito previsto dal titolo I del menzionato decreto del Presidente della Repubblica 26 luglio 1976, n. 752. Il medesimo requisito e', altresi', richiesto per i trasferimenti di personale da sedi o uffici in altre province ad uffici situati in provincia di Bolzano.
+
+L'inosservanza delle disposizioni di cui ai commi precedenti comporta la sanzione amministrativa del pagamento di una somma da lire un milione a lire cinque milioni. Alla applicazione di detta sanzione provvede il commissario del Governo. Si applicano le disposizioni di cui alle sezioni prima e seconda del capo primo della legge 24 novembre 1981, n. 689, e successive modifiche ed integrazioni. In caso di recidiva l'autorita' competente al rilascio della concessione puo' disporre la sospensione della concessione per un periodo non superiore ad un anno ovvero puo' escludere il concessionario dalle procedure di rilascio, anche temporaneo, della relativa concessione.
+
+Il personale presso i concessionari in possesso dell'attestato di cui al titolo I del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, o che abbia superato l'esame di seconda lingua a norma della legge 23 ottobre 1961, n. 1165, deve essere munito di un segno di identificazione facilmente visibile. L'inosservanza delle disposizioni del presente comma comporta la sanzione amministrativa del pagamento di una somma fino a 200.000 lire. Alla applicazione della sanzione provvede il commissario del Governo. Si applicano le disposizioni di cui alle sezioni prima e seconda del capo primo della legge 24 novembre 1981, n. 689, e successive modifiche ed integrazioni.
+
+))
+
+## - Capo II DISPOSIZIONI GENERALI
+
+## Art. 3.
+
+Gli organi, gli uffici e i concessionari indicati nell'art. 1 devono predisporre o adeguare le strutture organizzative al fine di consentire l'uso dell'una e dell'altra lingua.
+
+A tal fine devono essere predisposti i mezzi tecnici e quelli documentali nelle due lingue purche' si tratti di mezzi che per legge, regolamento o contratto, debbano essere forniti o predisposti dagli organi, dagli uffici e dai concessionari di cui all'art. 1.
+
+Presso gli organi, gli uffici ed i concessionari suddetti deve essere affisso l'avviso relativo alla ((facolta' degli interessati)) di usare la lingua del gruppo di appartenenza, con l'indicazione delle forme di tutela e delle relative sanzioni per il caso di indebito rifiuto, omissione o ritardo nell'osservanza delle disposizioni del presente decreto.
+
+## Art. 4.
+
+A norma dell'ultimo comma dell'art. 100 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, l'uso congiunto delle lingue italiana e tedesca da parte degli organi, uffici e concessionari di cui all'art. 1, e' prescritto per gli atti destinati alla generalita' ((delle persone)), per gli atti individuali destinati ad uso pubblico e per gli atti destinati a pluralita' di uffici.
+
+Per la redazione congiunta nelle due lingue degli atti di cui alla lettera b) del comma 2 non puo' essere posto a carico degli interessati alcun onere aggiuntivo di spese.
+
+Negli atti scritti i due testi vengono riportati uno a fianco all'altro. Tali testi devono avere la stessa evidenza e lo stesso rilievo tipografico.
+
+## Art. 5.
+
+Gli atti e i provvedimenti per i quali e' prescritta la pubblicazione nella Gazzetta Ufficiale della Repubblica italiana, emanati dagli organi, dagli uffici e dai concessionari indicati nell'art. 1, nonche' dalle persone fisiche o giuridiche, dalle societa', dalle associazioni, dalle fondazioni, dai comitati e dai soggetti in genere, residenti o aventi sede nella provincia di Bolzano, devono essere pubblicati nelle due lingue nel Bollettino ufficiale della regione Trentino-Alto Adige.
+
+Degli atti e dei provvedimenti amministrativi, diversi dai regolamenti, delle amministrazioni dello Stato e degli enti pubblici aventi sede fuori della regione, che interessano la provincia di Bolzano, viene data notizia con avviso in lingua tedesca inserito nello stesso numero della Gazzetta Ufficiale nel quale e' pubblicato l'atto nel testo italiano.
+
+L'Ufficio pubblicazione leggi e decreti presso il Ministero di grazia e giustizia cura la pubblicazione dell'avviso su richiesta della provincia di Bolzano, la quale fornisce il testo dell'avviso stesso in lingua tedesca con la tempestivita' necessaria ad assicurare la regolare pubblicazione dell'atto nella Gazzetta Ufficiale.
+
+L'esame degli atti in pubblicazione, ai fini di cui ai commi 2 e 3, e' compiuto presso l'Ufficio pubblicazione leggi e decreti da un incaricato della provincia di Bolzano secondo modalita' da concordare tra la provincia stessa ed il Ministero di grazia e giustizia.
+
+La pubblicazione integrale in lingua tedesca degli atti e dei provvedimenti dei quali e' dato avviso nella Gazzetta Ufficiale viene effettuata nel Bollettino ufficiale della regione Trentino-Alto Adige, ferma la loro entrata in vigore.
+
+Sono eseguite nelle due lingue le pubblicazioni nel fascicolo regionale del Bollettino ufficiale delle societa' per azioni o in altri casi di pubblicazione prescritta da leggi o regolamenti in analoghi bollettini o fogli ufficiali a carattere regionale o provinciale, ovvero nel Bollettino ufficiale della regione ove manchino edizioni locali di bollettini a carattere nazionale, i quali, comunque, dovranno dare notizia dell'avvenuta pubblicazione nel Bollettino ufficiale della regione.
+
+La redazione nelle due lingue degli atti o dei provvedimenti, ai fini delle pubblicazioni indicate nei commi 1 e 6, e' effettuata a cura degli organi, degli uffici, dei concessionari o dei soggetti tenuti alla pubblicazione.
+
+Le spese, dovute dai soggetti privati per le pubblicazioni previste dal presente articolo, non possono essere superiori a quelle richieste per la pubblicazione in una sola lingua.
+
+## Art. 6.
+
+Il relativo testo viene trasmesso al commissario del Governo e alla giunta provinciale di Bolzano per eventuali modifiche ed integrazioni. Trascorso il termine di ((sessanta giorni)) senza osservazioni, il testo si intende approvato.
+
+I testi in lingua italiana e tedesca delle leggi, dei regolamenti, degli atti e dei provvedimenti di cui ai commi 1, 2 e 6 dell'art. 5, da pubblicare nel Bollettino ufficiale della regione, devono essere rispettivamente redatti o tradotti osservando la terminologia determinata in base alle norme del presente articolo.
+
+La commissione determina le modalita' per l'assolvimento dei suoi compiti e puo' proporre alla provincia di Bolzano la nomina temporanea di consulenti specializzati nei settori giuridico, amministrativo e tecnico. Essa si avvale per l'espletamento delle sue funzioni di personale ed attrezzature posti a disposizione dalla provincia di Bolzano.
+
+Ai componenti della commissione spetta il compenso per le commissioni di esame della provincia, che viene corrisposto dalla provincia stessa salvo il rimborso da parte dello Stato di una quota pari alla meta' della spesa.
+
+## - Capo III RAPPORTI CON GLI ORGANI E GLI UFFICI DELLA PUBBLICA AMMINISTRAZIONE E CON I CONCESSIONARI DI SERVIZI DI PUBBLICO INTERESSE.
+
+## Art. 7.
+
+Gli organi, gli uffici e i concessionari indicati nell'art. 1 i quali ricevono istanze, domande, denunce o dichiarazioni sono tenuti a formulare gli atti e i provvedimenti e ad eseguire le prescritte comunicazioni o notificazioni nella lingua usata dal richiedente, denunciante o dichiarante ove questo ne sia il destinatario.
+
+Qualora l'istanza, la domanda, la denuncia e la dichiarazione siano formulate oralmente e non verbalizzate deve essere attestata la lingua usata dal richiedente salvo che la risposta sia immediata.
+
+Per gli atti o i provvedimenti da emettere, comunicare o notificare a loro iniziativa, gli organi, gli uffici ed i concessionari di cui al comma 1, usano la lingua presunta del destinatario, adeguandosi, in ogni caso, nei rapporti orali, alla lingua usata dall'interlocutore.
+
+Gli organi, gli uffici ed i concessionari, di cui al comma 1, che nell'esercizio delle rispettive funzioni o attivita' di istituto sono tenuti a trasmettere, comunicare o notificare gli atti o i provvedimenti da essi emessi in lingua tedesca, ad amministrazioni o enti pubblici situati in altre province dello Stato, devono provvedere a loro cura e spese alla traduzione in lingua italiana degli atti o provvedimenti medesimi.
+
+## Art. 8. — null
+
+2. L'eccezione puo' essere sollevata anche oralmente dinanzi all'organo, ufficio o concessionario che ha emesso l'atto o il provvedimento o dal quale proviene la comunicazione o la notificazione, nel termine perentorio di dieci giorni da quello in cui l'interessato ne ha avuto conoscenza o da quello in cui la comunicazione o la notificazione viene eseguita. Se l'eccezione e' proposta oralmente, l'incaricato di un pubblico servizio provvede a redigere apposito verbale. 
+ 3. L'eccezione puo' essere proposta, nello stesso termine e con le stesse modalita', davanti al sindaco o ad un suo delegato del comune di residenza dell'interessato, quando l'atto, il provvedimento, la comunicazione o la notificazione siano stati emessi da organi, uffici o concessionari che abbiano sede in altro comune. In tal caso la dichiarazione scritta dell'interessato o il verbale che la contiene sono, immediatamente, trasmessi, a cura del comune, all'organo, ufficio o concessionario competente. 
+ 4. L'eccezione puo' essere altresi' sollevata direttamente all'ufficiale notificante il quale ne fa menzione nella relazione di notifica. 
+ 5. L'eccezione di nullita' sospende gli effetti dell'atto. 
+ 6. L'organo, l'ufficio o il concessionario, accertata la fondatezza della eccezione, provvede, a sua cura e spese, alla rinnovazione nella lingua richiesta ed alla notificazione o comunicazione dell'atto o del provvedimento nel termine perentorio di dieci giorni decorrenti da quello in cui esso ha avuto conoscenza della eccezione. 
+I termini di decadenza o di prescrizione sono in tal caso prorogati fino alla data della notifica o comunicazione dell'atto tempestivamente rinnovato. 
+ 7. In caso di infondatezza della eccezione l'organo, l'ufficio o il concessionario, nello stesso termine perentorio di dieci giorni, da' notizia del rigetto all'interessato e da quel momento l'atto riprende a produrre i suoi effetti. 
+ 8. L'inutile decorso del termine di dieci giorni indicato nei commi 6 e 7 determina comunque la inefficacia dell'atto. 
+
+                            
+                                ((Gli interessati))
+
+## Art. 9.
+
+Nei casi previsti dall'art. 8 e sempre che l'organo, l'ufficio o il concessionario non abbia gia' accolto l'eccezione, l'interessato deve dimostrare l'appartenenza al gruppo linguistico mediante la produzione del certificato di cui all'art. 18 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni.
+
+La produzione del certificato deve avvenire nel termine di dieci giorni di cui al comma 2 dell'art. 8.
+
+Nell'ipotesi di cui al comma 1 dell'art. 7 l'interessato e' esentato dal fornire la prova di cui comma 2 del presente articolo.
+
+In mancanza della tempestiva produzione del certificato la eccezione di nullita' va rigettata e l'atto continua a produrre i suoi effetti nella lingua in cui e' stato redatto.
+
+## Art. 10. — null
+
+2. Il ricorso puo' essere proposto, anche verbalmente, davanti alla cancelleria della sezione che provvede a redigere il processo verbale; il presidente della sezione autonoma fissa, con proprio decreto, l'udienza nella quale sara' trattato il ricorso. 
+ 3. Il ricorso puo' essere proposto, con le stesse modalita', anche dai soggetti contemplati nell'art. 92 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e alle condizioni ivi stabilite. 
+ 4. Il ricorso, con il pedissequo decreto, e' comunicato almeno dieci giorni prima dell'udienza all'organo, all'ufficio o al concessionario controinteressati, nonche' all'istante. 
+ 5. Le parti possono stare in giudizio anche personalmente davanti alla sezione e possono presentare memorie non oltre i cinque giorni liberi prima dell'udienza. La sezione decide in camera di consiglio, entro sessanta giorni dalla presentazione del ricorso, sentite le parti, se comparse. 
+ 6. La sezione, quando pronuncia la nullita' dell'atto impugnato, stabilisce anche d'ufficio se la nullita' si estende a determinati atti connessi o conseguenti. L'organo, l'ufficio o il concessionario provvede alla rinnovazione dell'atto annullato entro venti giorni dalla comunicazione della decisione. 
+ 7. La sezione, in ogni caso, condanna la parte soccombente alle spese di giudizio. 
+ 8. Gli atti del procedimento sono esenti da spese di ufficio, bollo, tasse e diritti di ogni specie. 
+ 9. Le eccezioni sull'uso della lingua non possono essere proposte congiuntamente ad altri motivi di gravame.
+
+## Art. 11.
+
+Fermo restando quando disposto dall'art. 7, nonche' dall'ultimo comma dell'art. 100 dello statuto per quanto attiene agli ordinamenti di tipo militare, il personale dipendente dagli organi, dagli uffici, dagli enti e dai concessionari indicati nell'art. 1 che abbiano sede nella provincia di Bolzano, ha facolta' di usare nello svolgimento delle rispettive funzioni e attivita', compresi i corsi di addestramento che si svolgano nella regione Trentino-Alto Adige, la lingua italiana o tedesca e non gli puo' essere richiesto di effettuare traduzioni nell'altra lingua se non quando e' prescritto da leggi o regolamenti.
+
+La stessa facolta' spetta al personale dei contingenti di cui al secondo comma dell'art. 1 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni, limitatamente alle funzioni e attivita' destinate a produrre effetti nella provincia di Bolzano.
+
+Gli atti e i provvedimenti relativi al rapporto di impiego o di lavoro del personale di cui al comma 1 sono redatti nelle lingue italiana e tedesca se emessi dagli organi, uffici, enti e concessionari indicati nell'art. 1 e redatti in lingua italiana e tradotti in lingua tedesca se emessi da amministrazioni o enti pubblici aventi sede fuori della regione quando l'interessato e' appartenente al gruppo linguistico tedesco.
+
+## Art. 12.
+
+Agli uffici, enti e reparti militari o di tipo militare, aventi sede nella provincia di Bolzano o aventi competenza regionale con sede in Trento si applicano, nei rapporti esterni, le disposizioni di cui agli articoli 3, 4, 5, 6, 7, 8, 9 e 10.
+
+A tal fine essi si avvalgono di proprio personale, compreso quello di leva, con adeguata conoscenza della lingua italiana e tedesca, e del personale amministrativo dei Ministeri di appartenenza.
+
+## - Capo IV RAPPORTI CON GLI UFFICI GIUDIZIARI E CON GLI ORGANI GIURISDIZIONALI
+
+## Art. 13.
+
+((
+
+Gli uffici e gli organi giudiziari indicati nell'articolo 1 devono servirsi, nei rapporti con gli interessati e nei relativi atti, della lingua usata dal richiedente, salvo quanto disposto negli articoli seguenti.
+
+))
+
+## Art. 14.
+
+In caso di arresto in flagranza, di fermo o di esecuzione di una misura cautelare personale ovvero di un altro atto posto in essere nei confronti di una persona presente, gli ufficiali e gli agenti di polizia giudiziaria procedenti, oltre ad uniformarsi ai doveri indicati rispettivamente negli articoli 386 e 293 del codice di procedura penale, devono chiedere alla persona sottoposta alla misura cautelare personale ovvero destinataria di altro atto ((quale sia la sua lingua materna, italiana o tedesca)). Qualora la detta persona effettui la richiesta dichiarazione, gli atti sono redatti nella lingua indicata. 
+ 2.PERIODO SOPPRESSO DAL D.LGS. 13 GIUGNO 2005, N. 124. Ove l'interessato si rifiuti di rispondere, si procede o si continua a procedere nella presunta lingua materna da determinarsi in base alla notoria appartenenza della persona stessa ad un gruppo linguistico ovvero in base ad altri elementi eventualmente gia' acquisiti. 
+ 3. Tutti gli atti gia' formati in sede di indagini preliminari che fanno parte del fascicolo del pubblico ministero redatti in una lingua diversa da quella dichiarata al comma 2 sono tradotti nella lingua materna indicata se devono essere messi a disposizione dell'indagato.
+
+## Art. 15.
+
+Il pubblico ministero dopo aver iscritto il nome della persona alla quale il reato e' attribuito nel registro previsto dall'articolo 335 del codice di procedura penale, forma gli atti ((nella presunta lingua materna, italiana o tedesca, della persona sottoposta alle indagini)), da determinare in base ai criteri di cui al comma 2 dell'articolo 14. 
+ 2.Quando la persona sottoposta alle indagini a seguito di notificazione dell'informazione di garanzia o in virtu' della notificazione o comunicazione di altri atti formali equipollenti abbia avuto conoscenza dell'avvio delle indagini e della lingua in cui esse sono state fino a quel momento condotte, ha facolta' di richiedere, entro il termine perentorio di giorni quindici dalla notificazione o comunicazione, con dichiarazione resa al pubblico ministero personalmente o mediante atto scritto con firma autenticata dal difensore, che il procedimento prosegua nell'altra lingua. 
+ 3. Il pubblico ministero, quando procede all'interrogatorio di una persona sottoposta a misura cautelare ovvero ad altro atto al quale la predetta interviene personalmente e la medesima non abbia avuto la possibilita' di effettuare la dichiarazione prevista dal comma 2, deve chiedere all'interessato ((quale sia la sua lingua materna, italiana o tedesca)). Qualora la persona interessata effettui la richiesta dichiarazione, la lingua indicata dovra' essere usata nell'ulteriore corso del procedimento. Ove la persona si rifiuti di rispondere, si procede con la lingua nella quale sono stati formati gli atti precedenti. 
+ 4. Quando le indagini proseguono in lingua diversa da quella precedentemente usata, il pubblico ministero dispone la traduzione degli atti posti in essere fino a quel momento. 
+ 4-bis.I documenti contenuti nel fascicolo del pubblico ministero, nonche' le consulenze tecniche e le perizie che siano in lingua diversa da quella del procedimento sono tradotte a richiesta di parte.
+
+## Art. 16.
+
+L'udienza preliminare ed il giudizio, anche abbreviato, si svolgono nella lingua individuata secondo la disciplina dettata dagli articoli 14 e 15.
+
+Gli interventi orali con i quali si sollevano questioni preliminari o si svolgono le difese, se svolti da difensori di fiducia di madrelingua diversa dalla lingua del processo, possono essere pronunciati nella predetta madrelingua e sono ((immediatamente tradotti e verbalizzati nella lingua del processo)). 
+ ((3.L'interrogatorio o l'esame dell'imputato si svolge, a sua richiesta, nella lingua indicata ai sensi dell'articolo 14, comma 1, se diversa dalla lingua del processo, e viene immediatamente tradotta e verbalizzata nella lingua del processo. 
+ 4. L'audizione dei testimoni, consulenti tecnici e periti viene svolta nella lingua da essi prescelta ed e' immediatamente tradotta e verbalizzata nella lingua del processo. 
+ 5. La persona offesa e le parti diverse dall'imputato e dalla parte civile non rilevano ai fini della determinazione della lingua del processo. Esse vengono sentite nella lingua prescelta, con immediata traduzione e verbalizzazione nella lingua del processo. 
+ 6. Nei casi di cui ai commi 2, 3, 4 e 5 la verbalizzazione avviene nella sola lingua utilizzata, qualora la parte che ha interesse alla traduzione vi abbia rinunciato. 
+ 7. I documenti prodotti dalle parti nel giudizio, nonche' le consulenze tecniche e le perizie che siano in lingua diversa da quella del processo, sono tradotti a richiesta di parte.))
+
+## Art. 17.
+
+La persona sottoposta alle indagini o l'imputato puo' chiedere, con dichiarazione resa personalmente all'autorita' procedente o fatta alla medesima pervenire per atto scritto anche tramite il difensore, che la prosecuzione del procedimento abbia luogo nell'altra lingua.
+Tale dichiarazione non puo' intervenire prima del decorso di 24 ore dalla conclusione dell'interrogatorio ((,nei casi di arresto in flagranza, di fermo o di esecuzione di una misura cautelare personale, ovvero del decorso di 24 ore dall'esecuzione degli altri atti di cui al comma 1 dell'articolo 14.))
+
+Tale dichiarazione e' ammessa una sola volta nel corso del procedimento di primo grado e deve intervenire non oltre l'apertura del dibattimento ovvero, in caso di richiesta di giudizio abbreviato, non oltre la formulazione di tale richiesta.
+
+La variazione della lingua del processo non richiede la traduzione degli atti formati precedentemente.
+
+## Art. 17-bis.
+
+La lingua del processo osservata nella fase conclusiva del giudizio di primo grado si estende al giudizio di appello.
+All'imputato e', tuttavia, data facolta' di richiedere, per una sola volta, la prosecuzione del giudizio di secondo grado nell'altra lingua. Ove appellante sia l'imputato, la relativa facolta' deve essere esercitata, a pena di decadenza, con dichiarazione esplicita sottoscritta personalmente dall'imputato nell'atto di appello o stesa in calce al medesimo; in tal caso lo stesso atto di appello dovra' essere redatto nella nuova lingua scelta. In caso di impugnazione proposta dal pubblico ministero, la medesima facolta' deve essere esercitata dall'imputato, a pena di decadenza, non oltre l'apertura del dibattimento di appello, con dichiarazione esplicita resa alla Corte personalmente o mediante atto scritto con firma autenticata dal difensore. Non sono ammessi atti equipollenti.
+
+L'ottenuta variazione della lingua del processo non richiede la traduzione degli atti gia' formati.
+
+L'esame dell'imputato si svolge, a sua richiesta, nella lingua materna, se diversa dalla lingua del processo, ((e viene immediatamente tradotta e verbalizzata nellalingua del processo, salva rinuncia delle parti. In tal caso viene verbalizzata nella sola lingua utilizzata)).
+
+## Art. 17-ter.
+
+((
+
+Le disposizioni degli articoli 14 e seguenti si osservano, in quanto applicabili, anche nei casi di rimessione disciplinati dagli articoli 45 e seguenti del codice di procedura penale.
+
+))
+
+## Art. 17-quater.
+
+((
+
+Il procedimento di esecuzione si svolge nell'ultima lingua del processo di merito conclusosi con sentenza, passata in giudicato.
+Nei procedimenti di esecuzione che si svolgono nella provincia di Bolzano, anche se a seguito di sentenze passate in giudicato emesse da autorita' giudiziarie fuori dalla regione Trentino-Alto Adige, si applicano gli articoli 14 e seguenti in quanto applicabili.
+
+Il condannato puo' chiedere di essere sentito, nei casi previsti dalla legge, nella lingua materna, se diversa da quella del processo, con verbalizzazione nella lingua del processo.
+
+Al condannato cui siano stati consegnati l'ordine di esecuzione ed il decreto di sospensione di cui all'articolo 656, comma 5, del codice di procedura penale nella lingua di cui al comma 1 e che si professi di madrelingua diversa e' in ogni caso riconosciuta la facolta' di richiedere al pubblico ministero, senza formalita', la traduzione degli atti in tal ultima lingua, senza che cio' comporti la sospensione del termine utile per la presentazione dell'istanza volta ad ottenere la concessione di una misura alternativa alla detenzione.
+
+))
+
+## Art. 18.
+
+((
+
+Il processo nel quale gli imputati o la parte civile utilizzano una lingua diversa e' bilingue.
+
+Il processo diviene monolingue se tutte le parti dichiarano di scegliere la stessa lingua.
+
+))
+
+## Art. 18-bis. — ((1. L'osservanza delle disposizioni di cui agli articoli 14, comma 1, 15, commi 2 e 3, 16, commi da 1 a 5, 17, 17-bis, l7-ter, 17-quater, 18 e 18-ter e' prescritta a pena di nullita' assoluta, ai sensi dell'articolo 179 del codice di procedura penale. 
+ 2. L'inosservanza delle disposizioni di cui agli articoli 14, comma 3, 15, commi 4 e 5, 16, comma 7, e' prescritta a pena di nullita', ai sensi dell'articolo 181 del codice di procedura penale. La dichiarazione di nullita' comporta l'obbligo di traduzione, senza regressione del procedimento allo stato e grado in cui e' stato compiuto l'atto nullo. 
+ 3. L'errata individuazione, ad opera dell'autorita' procedente, della lingua presunta nelle ipotesi previste dagli articoli 14, comma 2, e 15, comma 1, non comporta alcuna nullita'.))
+
+## Art. 18-ter.
+
+((
+
+Nei casi previsti dall'articolo 109, comma 2, del codice di procedura penale, per assicurare l'effettivita' della difesa, l'autorita' giudiziaria, nell'individuare il difensore di ufficio o nel designare il sostituto del difensore a norma dell'articolo 97, comma 4, del codice di procedura penale, assegna il difensore d'ufficio conformemente all'appartenenza linguistica dell'imputato.
+
+))
+
+## Art. 19.
+
+Nella provincia di Bolzano, per la inclusione negli elenchi comunali dei giudici popolari della corte d'assise e della corte d'assise d'appello, e' richiesto anche il requisito della conoscenza della lingua italiana e della lingua tedesca, risultante dal possesso dell'attestato di cui al terzo comma dell'art. 4 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni, corrispondente ad un titolo di studio non inferiore a quello richiesto per l'iscrizione negli elenchi stessi.
+
+Negli elenchi per la corte d'assise d'appello predisposti dai comuni della provincia di Trento viene indicato, per i singoli nominativi, l'eventuale possesso del requisito di cui al comma 1.
+
+I giudizi di appello avverso le sentenze della corte d'assise con sede in provincia di Bolzano sono raggruppati in unica sessione e per essi il collegio e' costituito con giudici popolari che siano in possesso del requisito di cui al comma 1.
+
+A tal fine si procede alla estrazione, ai sensi degli articoli 25 e 27 della legge 10 aprile 1951, n. 287, e successive modificazioni, dei giudici popolari ordinari e supplenti in possesso del requisito di cui al comma 1, escludendo quelli che non lo siano, fino al raggiungimento del numero prescritto.
+
+((
+
+L'osservanza delle disposizioni dettate nei precedenti commi e' prescritta a pena di nullita' ai sensi dell'articolo 178, comma 1, lettera a), del codice di procedura penale.
+
+))
+
+## Art. 20.
+
+((1. Nel processo civile ciascuna parte ha facolta' di scegliere la lingua per la redazione dei propri atti processuali. La scelta avviene per effetto della redazione nell'una o nell'altra lingua dell'atto introduttivo del giudizio o della comparsa di risposta o degli atti aventi funzione equipollente. 
+ 2.Quando l'atto introduttivo di un giudizio e la comparsa di risposta ovvero gli atti equipollenti sono redatti nella stessa lingua, il processo e' monolingue. In caso contrario il processo e' bilingue. 
+ 3. Nel processo bilingue ciascuna parte usa la lingua dalla stessa scelta. I provvedimenti del giudice sono pronunciati e redatti in entrambe le lingue, salvo che vi rinunci, entro l'udienza in cui e' richiesta l'emissione del provvedimento, la parte che vi abbia interesse. Gli atti e documenti di parte sono redatti nella lingua italiana o tedesca, senza obbligo di traduzione a cura e spese d'ufficio. Nel processo bilingue le parti non residenti o non aventi sede nella provincia di Bolzano possono, entro il termine perentorio di trenta giorni dalla comunicazione o dal deposito di atti e documenti, chiedere al giudice che siano tradotti nell'altra lingua in tutto o in parte a cura e spese dell'ufficio. Il giudice puo' escludere in tutto o in parte la traduzione di documenti depositati dalle parti, ove ritenuti manifestamente irrilevanti. 
+ 4. Se il terzo chiamato in causa, il terzo interveniente o il successore di una delle parti si costituiscono in giudizio con una comparsa redatta in lingua diversa da quella in cui fino a tale momento si e' svolto il processo, si applicano le disposizioni sul processo bilingue. 
+ 5. Il processo prosegue monolingue se tutte le parti costituite dichiarano di scegliere la stessa lingua. La dichiarazione e' fatta dalla parte o dal suo procuratore speciale in ogni stato e grado del giudizio, verbalmente in udienza o mediante atto sottoscritto e notificato alle altre parti, ed e' irrevocabile. 
+ 6. In caso di riunione di piu' processi anteriormente svoltisi come processi monolingue ma in lingue diverse, le parti costituite in uno dei processi possono aderire alla scelta della lingua dell'altro processo. La dichiarazione di adesione e' fatta dalla parte o dal suo procuratore speciale in ogni stato e grado del giudizio, verbalmente in udienza o mediante atto sottoscritto e notificato alle altre parti. La dichiarazione di adesione e' irrevocabile. 
+ 7. Nel processo bilingue le deduzioni delle parti sono verbalizzate nella lingua da esse scelta. Il verbale deve essere redatto in due lingue qualora la parte che vi abbia interesse o il suo procuratore speciale lo richieda espressamente nell'udienza stessa. 
+ 8. Gli atti ed i documenti notificati ad istanza di parte debbono essere tradotti nella lingua italiana o tedesca ove il destinatario, entro il termine perentorio di giorni quindici dalla data della notificazione, richieda la traduzione con atto da notificare alla parte istante a mezzo ufficiale giudiziario; la traduzione degli atti e dei documenti a cura di parte e' notificata entro i successivi quindici giorni, nei modi e nelle forme prescritti per l'originale.
+La richiesta di traduzione interrompe i termini che ricominciano a decorrere dalla notifica della traduzione. Tale disciplina si applica anche ai provvedimenti concessi senza preventivo contraddittorio e ai relativi ricorsi. Nei casi di eccezionale urgenza il giudice puo' autorizzare l'esecuzione provvisoria anche in pendenza del termine, su istanza di parte. 
+ 9. Gli atti e documenti in lingua tedesca notificati fuori del territorio della provincia di Bolzano devono essere accompagnati dalla traduzione in lingua italiana. 
+ 10. Nel processo monolingue e in quello bilingue i testimoni vengono interrogati e rispondono nella lingua da loro prescelta e la verbalizzazione avviene in tale lingua. Le deposizioni verbalizzate nella lingua prescelta dai testimoni sono tradotte a cura e spese dell'ufficio qualora la parte che vi abbia interesse o il suo procuratore speciale lo richieda nell'udienza stessa. 
+ 11. Nel processo monolingue e in quello bilingue il consulente tecnico usa la lingua da lui scelta. La sua relazione e' tradotta a cura e spese dell'ufficio, qualora la parte che vi abbia interesse o il suo procuratore speciale lo richieda espressamente entro il termine perentorio di trenta giorni dalla comunicazione del deposito. 
+ 12. Nel processo monolingue le sentenze e gli altri provvedimenti del giudice sono redatti nella lingua del processo. Nel processo bilingue le sentenze sono redatte nella lingua italiana e nella lingua tedesca, salvo che vi rinunci la parte che vi abbia interesse.
+Tale rinuncia deve essere formulata dalle parti o dai loro procuratori speciali entro l'udienza di precisazione delle conclusioni. Per la redazione delle sentenze e degli altri provvedimenti in forma bilingue il giudice puo' avvalersi dell'ausilio degli interpreti-traduttori addetti all'ufficio giudiziario. I termini stabiliti dalle vigenti disposizioni processuali per il deposito delle sentenze e degli altri provvedimenti da parte del giudice si intendono osservati con il deposito in cancelleria della minuta redatta in una delle due lingue.))
+                                ((6))
+
+## Art. 20-bis.
+
+Nei procedimenti di volontaria giurisdizione dinanzi al tribunale per i minorenni avviati d'ufficio, l'atto iniziale del procedimento e' redatto nella lingua presunta del soggetto destinatario del provvedimento. ((Nei procedimenti avviati su impulso di parte si applicano le disposizioni contenute nell'articolo 20, in quanto compatibili.))
+
+Il processo prosegue monolingue se i genitori del minore scelgono la medesima lingua, in caso contrario il processo e' bilingue.
+
+In ogni caso il minore deve essere sempre ascoltato nella lingua materna.
+
+## Art. 20-ter.
+
+((
+
+Nei procedimenti diversi dal processo ordinario di cognizione si applicano le disposizioni di cui all'articolo 20, in quanto compatibili.
+
+))
+
+## Art. 21.
+
+((
+
+Nel processo civile la pubblica amministrazione attrice usa la lingua presunta del convenuto identificandola ai sensi dell'articolo 7; successivamente si adegua alla diversa lingua scelta dal convenuto con il primo atto difensivo.
+
+Il giudice, qualora richiesto dalla parte alla prima udienza, ordina la rinnovazione dell'atto di citazione nella lingua del convenuto, fissando una nuova udienza di prima comparizione.
+
+La pubblica amministrazione convenuta in giudizio si uniforma alla lingua usata dall'attore o dal ricorrente.
+
+))
+
+## Art. 22.
+
+((
+
+Le disposizioni degli articoli 13 e seguenti del presente capo si osservano anche quando la competenza sia devoluta in applicazione dell'articolo 25 del codice di procedura civile.
+
+))
+
+## Art. 23.
+
+Nei procedimenti davanti agli organi giurisdizionali amministrativi ((, contabili)) e tributari di cui alle lettere b) e c) del comma 1 dell'art. 1 si osservano le disposizioni di cui agli articoli 13, 20 e 21, in quanto ((compatibili)).
+
+## Art. 23-bis. — ((1. La violazione delle disposizioni di cui agli articoli 20, 20-bis, 20-ter e 21, relative e consequenziali alla scelta e all'uso della lingua produce la nullita' rilevabile d'ufficio di tutti gli atti, anche successivi, redatti nella lingua diversa, salve le disposizioni dell'articolo 161, primo comma, del codice di procedura civile. L'impugnazione della sentenza per far valere la suddetta nullita' puo' essere proposta solo dalla parte nel cui interesse e' stabilito l'uso della lingua omesso.))
+
+## Art. 24.
+
+Nei procedimenti innanzi agli organi giurisdizionali ordinari, amministrativi e, contabili e tributari, non compresi nelle disposizioni di cui all'art. 1, ((gli interessati)) hanno facolta' di rendere la loro dichiarazioni o deposizioni in lingua tedesca.
+
+## Art. 25.
+
+((
+
+Le sentenze e i provvedimenti del giudice oggetto di impugnazione, nonche' i verbali d'udienza in lingua tedesca, che devono essere trasmessi ad organi giurisdizionali situati fuori della regione Trentino-Alto Adige o depositati presso gli stessi per lo svolgimento di procedimenti di impugnazione o di altri procedimenti nei casi previsti dalla legge, devono essere tradotti in lingua italiana a cura e spese degli uffici giudiziari che provvedono alla trasmissione. Gli obblighi procedurali a carico delle parti sono assolti mediante deposito della sentenza o del provvedimento del giudice redatti in lingua tedesca. Gli altri atti processuali ed i documenti contenuti nel fascicolo d'ufficio devono essere tradotti, a cura e spese degli uffici giudiziari che provvedono alla trasmissione, solo su specifica richiesta dei suddetti organi giurisdizionali.
+
+))
+
+## Art. 26.
+
+Gli atti compiuti dagli organi giurisdizionali della provincia di Bolzano, su richiesta di autorita' giudiziarie site fuori della provincia stessa, se redatti in lingua tedesca devono essere tradotti in lingua italiana a cura dell'organo richiesto.
+
+## Art. 27.
+
+Quando una sentenza o un altro provvedimento del giudice sono per legge soggetti a forme di pubblicita' particolari, l'ufficio provvede a tale incombenza nelle due lingue.
+
+## Art. 28.
+
+Le schede del casellario giudiziale di Bolzano sono compilate congiuntamente in lingua italiana e tedesca da parte dell'apposito ufficio presso la procura della Repubblica di Bolzano.
+
+I certificati del casellario giudiziale di Bolzano sono rilasciati nella lingua richiesta dall'interessato.
+
+((Gli interessati)) possono chiedere all'ufficio del casellario presso la procura della Repubblica di Bolzano il certificato anche se di competenza di altre procure. In tal caso l'ufficio di Bolzano richiede detto certificato alla procura competente e lo rilascia nella lingua richiesta dall'interessato.
+
+## - Capo V UFFICI DI STATO CIVILE, UFFICI TAVOLARI ED ATTI NOTARILI
+
+## Art. 29.
+
+Nella provincia di Bolzano gli atti dello stato civile e le iscrizioni eseguite negli uffici tavolari e catastali sono contestualmente formati, in doppio originale, in lingua italiana e tedesca.
+
+Fatto salvo quanto disposto dall'art. 4, gli estratti di cui all'art. 184 dell'ordinamento dello stato civile ed i certificati relativi sono rilasciati nella lingua richiesta.
+
+## Art. 30.
+
+Nella provincia di Bolzano gli atti notarili in genere e quelli, ad essi equiparati, di qualunque contenuto e forma comprese le autentiche ed inclusi quelli soggetti a pubblicita', sono redatti a scelta delle parti in lingua italiana o in lingua tedesca.
+
+Qualora le parti ne facciano richiesta, gli atti sono redatti in ambedue le lingue, uno di seguito all'altro oppure uno di fianco all'altro, e le sottoscrizioni sono apposte una volta sola in calce ai due testi.
+
+I documenti di qualsiasi genere provenienti dall'estero e redatti in una delle due lingue italiana o tedesca, ove vengano allegati ad uno degli atti di cui al comma 1 non sono tradotti nell'altra lingua, salvo diversa volonta' delle parti.
+
+Gli atti redatti nella sola lingua tedesca dei quali deve essere fatto uso in altre parti del territorio nazionale e fuori del campo di applicazione dell'art. 1 sono accompagnati dalla traduzione in lingua italiana, dichiarata conforme dal notaio o da altro pubblico ufficiale abilitato a ricevere gli atti stessi.
+
+## Art. 31.
+
+Per ottenere l'assegnazione di una sede nella provincia di Bolzano ((e per l'esercizio nella stessa Provincia delle funzioni notarili ai sensi dell'articolo 26, secondo comma, della legge 16 febbraio 1913, n. 89, e successive modifiche,)) al notaio e' richiesta la conoscenza della lingua italiana e di quella tedesca, accertata ai sensi delle disposizioni di cui al titolo I del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modifiche.
+
+Le sedi notarili in provincia di Bolzano sono assegnate ai candidati risultati vincitori nei concorsi nazionali e in possesso dell'attestato di bilinguismo di cui al comma 1. In caso di permanenza di sedi vacanti, i posti sono coperti con trasferimenti di notai in esercizio ovvero, in subordine, con nomina di candidati risultati idonei in detti concorsi nazionali e in possesso del predetto attestato di bilinguismo.
+
+Qualora i posti vacanti non vengano coperti con le procedure di cui al comma 2, sono banditi dal Ministero della giustizia appositi concorsi cui possono partecipare candidati in possesso del medesimo attestato di bilinguismo. La commissione d'esame di cui agli articoli 13 e 14 del regio decreto 14 novembre 1926, n. 1953, e' composta da cinque membri che conoscano adeguatamente la lingua italiana e la lingua tedesca, scelti da un elenco predisposto dal Ministero della giustizia, sentito il Consiglio nazionale del notariato. Le prove si svolgono a Roma con i medesimi criteri e procedure previsti per i concorsi nazionali e devono tenere conto delle particolari discipline in materia di diritto civile e amministrativo vigenti nella provincia di Bolzano. I notai nominati a seguito di concorsi nazionali nei quali sono risultati idonei e i notai nominati a seguito dell'apposito concorso di cui al presente comma, assegnati ad una sede nella provincia di Bolzano, possono essere trasferiti ad altra sede sita nella medesima provincia solo dopo tre anni dall'assegnazione e ad altra sede sita fuori dalla provincia solo dopo dieci anni dalla assegnazione stessa.
+
+## - Capo VI DISPOSIZIONI VARIE
+
+## Art. 32. — (Gli interessati hanno facolta' di usare la lingua ladina
+
+) nei rapporti orali e scritti con gli uffici della pubblica amministrazione, con esclusione delle Forze armate e delle Forze di polizia, siti nelle localita' ladine della stessa provincia, con gli enti locali e le istituzioni scolastiche di dette localita', con gli uffici della provincia che svolgono funzioni esclusivamente o prevalentemente nell'interesse delle popolazioni ladine, anche se siti fuori delle suddette localita', nonche' con i concessionari di cui all'art. 2 che operano esclusivamente nelle localita' ladine.
+
+Le amministrazioni ed i concessionari di cui al comma 1 sono tenuti a rispondere oralmente in ladino ovvero per iscritto in lingua italiana e tedesca, seguite dal testo in lingua ladina.
+
+Gli atti di cui all'articolo 4 emanati dalle amministrazioni di cui al comma 1 sono redatti in italiano e tedesco, seguiti dal testo in ladino. La regione e la provincia di Bolzano provvedono alla pubblicazione degli atti normativi e delle circolari di diretto interesse della popolazione ladina residente in provincia di Bolzano nella lingua ladina. Tale pubblicazione e' di norma contemporanea al testo in lingua italiana e tedesca e, comunque, non successiva a trenta giorni dalla data di pubblicazione del testo in lingua italiana e tedesca, ferma la loro entrata in vigore. Le carte di identita' sono redatte in lingua italiana, tedesca e ladina, nei territori comunali di: Ortisei Val Gardena, S. Cristina Val Gardena, Selva di Val Gardena, Corvara in Badia, Badia, La Valle, San Martino in Badia, Marebbe, nonche' per le frazioni di Oltretorrente, Roncadizza e Bulla del Comune di Castelrotto (BZ).
+
+((Resta fermo il diritto dell'interessato)) di essere esaminato e interrogato, nei processi svolgentisi nella provincia di Bolzano, nella sua madrelingua con l'ausilio dell'interprete, sia nel processo di lingua italiana che in quello di lingua tedesca. Ai fini dell'applicazione del capo IV del presente decreto, il predetto ((interessato)) ha la facolta' di usare la lingua tedesca anziche' quella italiana. Nei procedimenti davanti al giudice di pace competente per i territori delle localita' ladine della provincia diBolzano e' consentito l'uso della lingua ladina. Nell'assegnazione dell'incarico di giudice di pace competente per i territori delle localita' ladine della provincia di Bolzano deve essere riconosciuta la precedenza assoluta a coloro che sono a conoscenza della lingua ladina accertata ai sensi del decreto del Presidente della Repubblica 26 luglio 1976, n. 752. Per tali procedimenti davanti al giudice di pace la regione Trentino-Alto Adige assicura gli interventi organizzativi e finanziari occorrenti.
+
+Nelle adunanze degli organi elettivi degli enti locali delle localita' ladine della provincia di Bolzano i membri di tali organi possono usare la lingua ladina negli interventi orali, con, a richiesta, la immediata traduzione in lingua italiana o tedesca, qualora vi siano membri dei suddetti organi che dichiarino di non conoscere la lingua ladina. I relativi processi verbali sono redatti congiuntamente in lingua italiana, tedesca e ladina.
+
+Nei rapporti con gli uffici della pubblica amministrazione siti nella provincia di Bolzano ((la persona)) di lingua ladina puo' usare la lingua italiana o quella tedesca.
+
+## Art. 33.
+
+((
+
+Allo scopo di assicurare il rispetto delle norme del presente decreto da parte delle Forze di polizia indicate all'articolo 16 della legge 1° aprile 1981, n. 121, nel reclutamento del personale deve essere riservata, in base al fabbisogno di personale occorrente per l'espletamento dei compiti di istituto, una aliquota di posti per i candidati che abbiano adeguata conoscenza della lingua italiana e di quella tedesca. Tale requisito risulta, per ciascun livello, dal possesso del corrispondente attestato previsto dall'articolo 4 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni. Ai suddetti candidati non e' richiesto il requisito di cui all'articolo 2199, commi 1 e 5, del decreto legislativo 15 marzo 2010, n. 66.
+
+))
+
+Nelle corrispondenti prove selettive viene applicata la disposizione dell'art. 20 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni.
+
+Gli arruolati a norma del comma 1 vengono destinati nei comandi e uffici della provincia di Bolzano o in quelli aventi competenza regionale e non possono essere trasferiti ad altra sede se non a domanda o per motivate esigenze di servizio ((, fermo quanto previsto dall'articolo 3 del presente decreto.)).
+
+Ove non venga coperta l'aliquota di cui al comma 1, per il personale destinato a prestare servizio in provincia di Bolzano debbono essere organizzati corsi di preparazione linguistica alle prove d'esame per il conseguimento dell'attestato di cui al comma 1.
+
+Il Ministero dell'interno seguira' la direttiva politica di mantenere in provincia di Bolzano i cittadini dei diversi gruppi linguistici della provincia che entrassero a far parte delle forze dell'ordine, fatte salve eventuali sanzioni disciplinari individuali che comportino il trasferimento.
+
+## Art. 34.
+
+Le societa', le associazioni, i comitati fanno uso della lingua prescelta dai loro legali rappresentanti.
+
+## Art. 35.
+
+L'elenco telefonico degli utenti della provincia di Bolzano e' redatto, a norma dell'art. 287 del testo unico approvato con decreto del Presidente della Repubblica 29 marzo 1972, n. 156, distintamente in lingua italiana e in lingua tedesca e, comunque, in un unico volume.
+
+Nel testo in lingua tedesca sono inserite anche le indicazioni relative agli uffici della pubblica amministrazione e degli enti pubblici con sede in provincia di Trento e con competenza regionale.
+
+## Art. 36.
+
+((
+
+Le etichette e gli stampati illustrativi delle specialita' medicinali e dei preparati galenici erogabili dal Servizio sanitario nazionale, posti o mantenuti in commercio in provincia di Bolzano, devono essere redatti congiuntamente nelle due lingue italiana e tedesca. A tal fine, per ottenere l'autorizzazione all'immissione in commercio di detti farmaci le etichette e gli stampati illustrativi devono essere redatti nelle due lingue.
+
+2. Qualora i farmaci di cui al comma 1 siano posti o mantenuti in commercio in provincia di Bolzano con etichettatura o foglio illustrativo difformi da quelli approvati dal Ministero della sanita' ai sensi del medesimo comma, il Ministro della sanita', con provvedimento motivato, intima al titolare dell'autorizzazione all'immissione in commercio l'adeguamento dell'etichettatura o del foglio illustrativo, stabilendo un termine per l'adempimento non superiore a sei mesi. In caso di mancata ottemperanza entro il termine indicato, il Ministro della sanita' sospende l'autorizzazione all'immissione in commercio del medicinale fino all'adempimento.
+Restano ferme le sanzioni previste dall'articolo 8 del decreto legislativo 30 dicembre 1992, n. 540. ))
+
+((5))
+
+---------------------
+                            AGGIORNAMENTO (5)
+                            
+ Il D.Lgs. 29 maggio 2001, n. 283, ha disposto (con l'art. 14, comma 2) che "L'adeguamento dell'etichettatura e del foglio illustrativo delle specialita' medicinali e dei preparati galenici di cui al comma 1 dell'articolo 36 del decreto del Presidente della Repubblica 15 luglio 1988, n. 574, come modificato dal presente articolo, gia' in commercio alla data di entrata in vigore del presente decreto, deve realizzarsi entro sei mesi a decorrere dalla medesima data."
+
+## Art. 36-bis.
+
+Nella circoscrizione di Bolzano gli esami per l'abilitazione all'esercizio della professione forense hanno luogo presso la sezione distaccata in Bolzano della corte d'appello di Trento. Fermo restando quanto previsto ((dalla disciplina legislativa statale vigente)), la commissione esaminatrice e' composta di quattro membri titolari e quattro supplenti, che conoscano adeguatamente la lingua italiana e la lingua tedesca. Due membri devono appartenere al gruppo di lingua italiana e due al gruppo di lingua tedesca. ((Nell'ambito della commissione esaminatrice, il componente docente puo' essere nominato, come membro titolare o supplente, anche tra i docenti di materie giuridiche italiane presso universita' austriache che abbiano concluso un accordo con un'universita' italiana ai sensi dell'accordo tra la Repubblica italiana e la Repubblica d'Austria sulla collaborazione interuniversitaria, firmato a Vienna il 20 agosto 1982, al quale e' stata data esecuzione con il decreto del Presidente della Repubblica 5 febbraio 1983, n. 98.))
+
+## Art. 37.
+
+L'inosservanza delle disposizioni del presente decreto costituisce per il pubblico dipendente violazione dei doveri di ufficio perseguibile in via disciplinare, fatta salva, quando ne ricorrono le condizioni, l'applicazione dell'art. 328 del codice penale.
+
+## Art. 38.
+
+Tutte le traduzioni previste dal presente decreto sono esenti da bollo ed eseguite a cura e spese dell'ufficio. Esse recano la sottoscrizione del traduttore, la data e il timbro dell'ufficio.
+
+In tutti i casi in cui il presente decreto prevede che siano fatte traduzioni o redazioni in lingua italiana o tedesca devono restare invariati i nomi delle persone.
+
+## Art. 39.
+
+Il presente decreto entra in vigore sei mesi dopo la sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+Le norme di cui agli articoli 8 e 9 avranno effetto dal giorno successivo a quello dell'insediamento della sezione autonoma di Bolzano del tribunale regionale di giustizia amministrativa.
+
+Le disposizioni contenute nell'articolo 1, comma 2, e nel capo IV del presente decreto entrano in vigore quattro anni dopo la data di pubblicazione del decreto stesso.
+

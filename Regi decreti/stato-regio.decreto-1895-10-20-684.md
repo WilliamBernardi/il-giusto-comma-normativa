@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-10-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-10-20;684
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:48Z
+---
+
+REGIO DECRETO
+                20 ottobre 1895
+                DCLXXXIV
+                Con cui il pio istituto di prestiti e risparmi in Gorgoglione (Potenza), e' concentrato nella congregazione di carita', di detto comune. (9500684R)
+
+Entrata in vigore del provvedimento: 01/01/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

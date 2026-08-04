@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2817
+data: 1923-12-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-12-23;2817
+codice_redazionale: 023U2817
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:33Z
+---
+
+REGIO DECRETO
+                23 dicembre 1923
+                2817
+                Validita' delle decisioni emesse dalla Commissione superiore per l'accertamento e la liquidazione dei danni di guerra sedente in Venezia. (023U2817)
+
+Entrata in vigore del provvedimento: 10/01/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

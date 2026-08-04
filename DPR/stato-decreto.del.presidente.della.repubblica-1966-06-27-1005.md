@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1005
+data: 1966-06-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-06-27;1005
+codice_redazionale: 066U1005
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 giugno 1966
+                1005
+                Autorizzazione all'Associazione nazionale combattenti e reduci ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 giugno 1966, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale combattenti e reduci, viene autorizzata ad acquistare dal reverendo don Niccolo' Stacchini, per il prezzo di lire 4.000.000 (quattromilioni) - come da atto a rogito dott.
+ Giorgio Favilli, notaio in Radda in Chianti in data 4 aprile 1961, n. 1891 repertorio, n. 354 racc. - un appartamento di civile abitazione, sito in Siena, piazza Matteotti n. 20, composto di otto vani ed accessori al terzo piano, da destinare a sede della locale Federazione provinciale dell'Associazione anzidetta.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 novembre 1966
+ Atti del Governo registro n. 207, foglio n. 51. - VILLA
+

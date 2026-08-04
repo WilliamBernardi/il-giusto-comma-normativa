@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 146
+data: 1970-02-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-02-02;146
+codice_redazionale: 070U0146
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 febbraio 1970
+                146
+                Autorizzazione alla Lega nazionale per la difesa del cane, con sede in Milano, ad accettare un lascito.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 febbraio 1970, col quale, sulla proposta del Ministro per la sanita', la Lega nazionale per la difesa del cane, con sede in Milano, viene autorizzata ad accettare il lascito disposto dalla defunta Bertozzi Emilia vedova Foti, con testamento olografo in data 16 ottobre 1966, pubblicato con atto 31 gennaio 1967 del dott. Aurelio Cinque notaio in Roma, consistente nella somma di L. 1.000.000.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 10 aprile 1970
+ Atti del Governo, registro n. 234, foglio n. 107. - CARUSO
+

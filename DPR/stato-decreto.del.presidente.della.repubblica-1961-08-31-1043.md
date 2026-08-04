@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1043
+data: 1961-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-31;1043
+codice_redazionale: 061U1043
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1961
+                1043
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Sergio Martire, in Borgo San Sergio, del comune di Trieste.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 agosto 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trieste in data 29 dicembre 1959, integrato con dichiarazione del 2 maggio 1961, relativo alla elezione della parrocchia di San Sergio Martire, in Borgo San Sergio, del comune di Trieste, e sono stati istituiti quattro uffici coadiutorali nella parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registro alla Corte dei conti, addi' 10 ottobre 1961
+ Atti del Governo, registro n. 140, foglio n. 157. - VILLA
+

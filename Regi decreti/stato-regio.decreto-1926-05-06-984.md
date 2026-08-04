@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 984
+data: 1926-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1926-05-06;984
+codice_redazionale: 026U0984
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:47Z
+---
+
+REGIO DECRETO
+                06 maggio 1926
+                984
+                Approvazione dello statuto della Congregazione di carita' di Visinada. (026U0984)
+
+Entrata in vigore del provvedimento: 07/07/1926
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

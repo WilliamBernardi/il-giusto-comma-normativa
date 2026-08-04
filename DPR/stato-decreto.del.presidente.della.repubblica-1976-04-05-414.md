@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 414
+data: 1976-04-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-04-05;414
+codice_redazionale: 076U0414
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 aprile 1976
+                414
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria di Nazareth, in S. Giovanni in Marignano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 aprile 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Rimini 1 ottobre 1968, integrato con due dichiarazioni 10 dicembre 1974 e 30 aprile 1975, relativo all'erezione della parrocchia di Maria di Nazareth, in frazione Montalbano del comune di S. Giovanni in Marignano (Forli).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 9 giugno 1976
+ Atti di Governo, registro n. 6, foglio n. 57
+

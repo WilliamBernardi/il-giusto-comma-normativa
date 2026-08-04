@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 823
+data: 1912-07-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1912-07-22;823
+codice_redazionale: 012U0823
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:35Z
+---
+
+REGIO DECRETO
+                22 luglio 1912
+                823
+                Relativo a chiamata alle armi, per istruzione, di militari in congedo illimitato. (012U0823)
+
+Entrata in vigore del provvedimento: 16/08/1912
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

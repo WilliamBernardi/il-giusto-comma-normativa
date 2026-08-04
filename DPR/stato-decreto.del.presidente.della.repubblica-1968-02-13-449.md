@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 449
+data: 1968-02-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-13;449
+codice_redazionale: 068U0449
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 febbraio 1968
+                449
+                Autorizzazione all'accettazione di una donazione disposta, a favore dello Stato, dal comune di Sagliano Micca.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 febbraio 1968, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta, a favore dello Stato, dal comune di Sagliano Micca, con atto per notar Piero Barbera di Andorno Micca 11 gennaio 1966, n. 14756 di repertorio, dell'immobile costituente la casa natale di Pietro Micca, dichiarata monumento nazionale fin dal 1906.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 aprile 1968
+ Atti del Governo, registro n. 218, foglio n. 126. - GRECO
+

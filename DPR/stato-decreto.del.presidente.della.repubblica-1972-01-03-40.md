@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 40
+data: 1972-01-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-03;40
+codice_redazionale: 072U0040
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 gennaio 1972
+                40
+                Autorizzazione all'associazione "Alpenverein S&#252;dtirol AVS", con sede
+in Bolzano, ad acquistare un complesso immobiliare.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 gennaio 1972, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'associazione "Alpenverein Südtirol AVS", con sede in Bolzano, viene autorizzata ad acquistare, al prezzo di L. 11.000.000, il complesso immobiliare "Rifugio Tre Scarperi", sito nel comune di S.
+ Candido (catasto di Brunico, foglio n. 21, partita tavolare 102/II, particella 268) di proprieta' dell'Ente nazionale Mario di Carpegna. 
+ 
+Visto, il Guardasigilli: COLOMBO 
+ Registrato alla Corte dei conti, addi' 29 febbraio 1972 
+ Atti del Governo, registro n. 247, foglio n. 80. - VALENTINI
+

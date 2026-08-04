@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 83
+data: 1931-01-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1931-01-26;83
+codice_redazionale: 031U0083
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:12:57Z
+---
+
+REGIO DECRETO
+                26 gennaio 1931
+                83
+                Importo massimo della cauzione definitiva per l'esercizio delle agenzie private per il recapito di espressi in loco. (031U0083)
+
+Entrata in vigore del provvedimento: 27/02/1931
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

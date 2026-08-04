@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 987
+data: 1971-07-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-19;987
+codice_redazionale: 071U0987
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 luglio 1971
+                987
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Francesco d'Assisi, in Pachino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 luglio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Noto in data 1 gennaio 1968, integrato con dichiarazioni del 9 febbraio successivo e 25 novembre 1970, relativo alla erezione della parrocchia di S. Francesco d'Assisi, in Pachino (Siracusa).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 18 novembre 1971
+ Atti del Governo, registro n. 245, foglio n. 71. - CARUSO
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1880-04-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-04-22;2637
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:20Z
+---
+
+REGIO DECRETO
+                22 aprile 1880
+                MMDCXXXVII
+                Che erige in corpo morale l'asilo infantile Ricciardi del comune di Miglionico (Potenza), e ne approva lo statuto. (8002637R)
+
+Entrata in vigore del provvedimento: 25/08/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

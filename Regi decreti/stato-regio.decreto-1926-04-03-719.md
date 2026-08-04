@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 719
+data: 1926-04-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1926-04-03;719
+codice_redazionale: 026U0719
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:51Z
+---
+
+REGIO DECRETO
+                03 aprile 1926
+                719
+                Erezione in Ente morale dell'Opera pia «Ospedaletto di pronto soccorso», in Vagli Sotto. (026U0719)
+
+Entrata in vigore del provvedimento: 22/05/1926
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

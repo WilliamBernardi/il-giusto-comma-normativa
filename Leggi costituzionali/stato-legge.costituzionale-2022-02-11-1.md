@@ -1,0 +1,48 @@
+---
+tipo: LEGGE COSTITUZIONALE
+numero: 1
+data: 2022-02-11
+titolo: ""
+urn: urn:nir:stato:legge.costituzionale:2022-02-11;1
+vigente: true
+source: normattiva-opendata
+collection: Leggi costituzionali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:39:08Z
+---
+
+LEGGE COSTITUZIONALE
+                11 febbraio 2022
+                1
+                Modifiche agli articoli 9 e 41 della Costituzione in materia di tutela dell'ambiente. (22G00019)
+
+Entrata in vigore del provvedimento: 09/03/2022
+
+La Camera dei deputati ed il Senato della Repubblica, in seconda votazione e con la maggioranza dei due terzi dei componenti di ciascuna Assemblea, hanno approvato;
+            
+            
+                IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                Promulga la seguente legge costituzionale:
+
+## Art. 1.
+
+All'articolo 9 della Costituzione e' aggiunto, in fine, il seguente comma: 
+ «Tutela l'ambiente, la biodiversita' e gli ecosistemi, anche nell'interesse delle future generazioni. La legge dello Stato disciplina i modi e le forme di tutela degli animali».
+
+## Art. 2.
+
+## Art. 3.
+
+La legge dello Stato che disciplina i modi e le forme di tutela degli animali, di cui all'articolo 9 della Costituzione, come modificato dall'articolo 1 della presente legge costituzionale, si applica alle regioni a statuto speciale e alle Province autonome di Trento e di Bolzano nei limiti delle competenze legislative ad esse riconosciute dai rispettivi statuti. 
+ La presente legge costituzionale, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ 
+ Data a Roma, addi' 11 febbraio 2022 
+ 
+ MATTARELLA 
+ 
+ Draghi, Presidente del Consiglio dei ministri 
+ 
+Visto, il Guardasigilli: Cartabia
+

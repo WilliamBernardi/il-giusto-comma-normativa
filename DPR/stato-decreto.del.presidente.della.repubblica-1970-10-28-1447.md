@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1447
+data: 1970-10-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-28;1447
+codice_redazionale: 070U1447
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 ottobre 1970
+                1447
+                Approvazione dello statuto del Consorzio per il nucleo di sviluppo industriale di Vibo Valentia.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il testo unico delle leggi sul Mezzogiorno, decreto del Presidente della Repubblica 30 giugno 1967, n. 1523;
+ Visto l'atto del notaio dott. Nicola Faccioli, notaio in Vibo Valentia, iscritto nel ruolo del collegio notarile di Vibo Valentia, del 10 maggio 1969, rep. 25467, con il quale e' stato costituito il Consorzio per il nucleo di sviluppo industriale di Vibo Valentia e ne e' stato determinato lo statuto;
+ Visto l'atto del notaio avv. Marcello Gualtieri, notaio in Catanzaro, iscritto nel ruolo del collegio notarile di Catanzaro del 19 febbraio 1970, rep. 90804, con il quale e' stato modificato l'originario statuto;
+ Vista la deliberazione del 10 luglio 1970 del comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvato lo statuto del Consorzio per il nucleo di sviluppo industriale di Vibo Valentia, ente di diritto pubblico a norma dell'art. 145 del testo unico delle leggi sul Mezzogiorno, decreto del Presidente della Repubblica 30 giugno 1967, n. 1523.
+

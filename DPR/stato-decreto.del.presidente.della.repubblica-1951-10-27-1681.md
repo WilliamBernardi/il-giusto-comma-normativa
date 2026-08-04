@@ -1,0 +1,38 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1681
+data: 1951-10-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-27;1681
+codice_redazionale: 051U1681
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 ottobre 1951
+                1681
+                Modificazioni allo statuto dell'Universita' degli studi di Firenze.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Firenze, approvato con il regio decreto 5 maggio 1939, n. 1165 e modificato con i regi decreti 12 ottobre 1939, n. 1712; 27 aprile 1942, n. 467; 24 ottobre 1942, n. 1439, e con decreti del Presidente della Repubblica 11 giugno 1950, n. 616; 30 ottobre 1950, n. 1127; 30 giugno 1951, n. 957, e 30 ottobre 1950, n. 1304;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione.
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Firenze, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:
+ Attuale art. 9. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di:
+ 10) "Esegesi delle fonti del diritto italiano".
+

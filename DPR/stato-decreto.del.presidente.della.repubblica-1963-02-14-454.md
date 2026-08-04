@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 454
+data: 1963-02-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-02-14;454
+codice_redazionale: 063U0454
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 febbraio 1963
+                454
+                Riconoscimento della personalita' giuridica della Casa Religiosa della Compagnia di Gesu', denominata "Istituto Massimiliano Massimo", con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 febbraio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa religiosa della Compagnia di Gesu', denominata "Istituto Massimiliano Massimo", con sede in Roma.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 28 marzo 1963
+ Atti del Governo, registro n. 167, foglio n. 11. - VILLA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 414
+data: 1956-03-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-21;414
+codice_redazionale: 056U0414
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 marzo 1956
+                414
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della Nativita' della B. M. Vergine, in frazione Rubbio del comune di Bassano del Grappa (Vicenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 marzo 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Padova in data 13 giugno 1951, integrato con dichiarazione del 10 maggio 1952, relativo alla erezione della parrocchia della Nativita' della B. M. Vergine, in frazione Rubbio del comune di Bassano del Grappa (Vicenza), e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 15 maggio 1956
+ Atti del Governo, registro n. 97, foglio n. 160. - CARLOMAGNO
+

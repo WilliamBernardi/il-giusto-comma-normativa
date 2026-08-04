@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 67
+data: 1950-01-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;67
+codice_redazionale: 050U0067
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 gennaio 1950
+                67
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Marco Evangelista, in Borgo San Marco del comune di Cetraro (Cosenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di San Marco e Bisignano in data 1 maggio 1949, integrato con due postille 1 agosto 1949 e con dichiarazione 15 maggio 1949, relativo alla erezione della parrocchia San Marco Evangelista, in Borgo San Marco del comune di Cetraro (Cosenza).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 6 marzo 1950
+

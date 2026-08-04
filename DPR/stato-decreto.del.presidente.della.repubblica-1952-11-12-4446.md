@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4446
+data: 1952-11-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-12;4446
+codice_redazionale: 052U4446
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 novembre 1952
+                4446
+                Inclusione di alcuni territori delle province di Asti, Milano, Verona e Vercelli nell'elenco dei Comuni da assoggettare alla disciplina delle acque sotterranee.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici, approvato con regio decreto 11 dicembre 1933, n. 1775;
+ Ritenuta la necessita' di dichiarare soggetti a tutela della pubblica Amministrazione i territori indicati nella parte dispositiva del presente decreto;
+ Visto l'art. 87 della Costituzione;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per i lavori pubblici, di concerto col Ministro per l'agricoltura e le foreste;
+
+ Decreta:
+
+ Ai sensi e per gli effetti dell'art. 94 del testo unico 11 dicembre 1933, n. 1775, la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione nei seguenti territori:
+ a) territorio del comune di Ferrere (provincia di Asti);
+ b) territorio di quella parte del comune di San Damiano di Asti (provincia di Asti) che resta a ponente della linea Ponte Caminella-Cascina Martinetti);
+ c) territorio del comune di Villafranca d'Asti (provincia di Asti);
+ d) territorio del comune di Busto Garolfo (provincia di Milano);
+ e) territorio del comune di Bardolino (provincia di Verona);
+ f) territorio del comune di Caresanablot (provincia di Vercelli);
+ g) territorio del comune di Vercelli.
+

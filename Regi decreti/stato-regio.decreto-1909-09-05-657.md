@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 657
+data: 1909-09-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-09-05;657
+codice_redazionale: 009U0657
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:53Z
+---
+
+REGIO DECRETO
+                05 settembre 1909
+                657
+                Che nomina i membri del Consiglio d'amministrazione della Cassa nazionale di previdenza per la invalidita' e la vecchiaia degli operai. (009U0657)
+
+Entrata in vigore del provvedimento: 16/10/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

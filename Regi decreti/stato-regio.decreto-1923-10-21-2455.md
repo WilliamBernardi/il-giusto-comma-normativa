@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2455
+data: 1923-10-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-10-21;2455
+codice_redazionale: 023U2455
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:47Z
+---
+
+REGIO DECRETO
+                21 ottobre 1923
+                2455
+                Erezione in Ente morale della Casa del soldato, in Torino. (023U2455)
+
+Entrata in vigore del provvedimento: 22/12/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

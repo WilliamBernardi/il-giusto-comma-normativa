@@ -1,0 +1,55 @@
+---
+tipo: REGIO DECRETO
+numero: 1329
+data: 1930-09-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-09-07;1329
+codice_redazionale: 030U1329
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:42Z
+---
+
+REGIO DECRETO
+                07 settembre 1930
+                1329
+                Autorizzazione al comune di Petralia Sottana a modificare la denominazione della frazione Castellana Calcarelli in «Castellana Sicula». (030U1329)
+
+Entrata in vigore del provvedimento: 16/10/1930
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Veduta la deliberazione 1° luglio 1930, con cui il podesta' di Petralia Sottana, in seguito ad analoga proposta del Ministero delle comunicazioni (Direzione generale delle poste e dei telegrafi), ha stabilito, al fine di evitare disguidi di corrispondenza, di modificare la denominazione della frazione Castellana Calcarelli in «Castellana Sicula»; 
+ 
+ Veduto il parere favorevole espresso dal Rettorato della provincia di Palermo con deliberazione 6 agosto 1930; 
+ 
+ Veduti il testo unico della legge comunale e provinciale approvato con R. decreto 4 febbraio 1915, n. 148, il R. decreto 30 dicembre 1923, n. 2839, la legge 4 febbraio 1926, numero 237, il R. decreto-legge 3 settembre 1926, n. 1910, convertito nella legge 2 giugno 1927, n. 957, nonche' la legge 27 dicembre 1928, n. 2962; 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il comune di Petralia Sottana, in provincia di Palermo, e' autorizzato a modificare la denominazione della frazione Castellana Calcarelli in «Castellana Sicula». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 settembre 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 settembre 1930 - Anno VIII 
+ 
+ Atti del Governo, registro 300, foglio 99. - Mancini.
+

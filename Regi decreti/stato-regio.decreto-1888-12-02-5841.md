@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5841
+data: 1888-12-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-12-02;5841
+codice_redazionale: 088U5841
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:57Z
+---
+
+REGIO DECRETO
+                02 dicembre 1888
+                5841
+                Che costituisce in Sezione elettorale autonoma il comune di Oltrepovo (Bergamo) (088U5841)
+
+Entrata in vigore del provvedimento: 04/01/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,41 @@
+---
+tipo: REGIO DECRETO
+numero: 229
+data: 1935-01-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-01-21;229
+codice_redazionale: 035U0229
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:54Z
+---
+
+REGIO DECRETO
+                21 gennaio 1935
+                229
+                Dichiarazione formale dei fini di 5 Confraternite della provincia di Chieti. (035U0229)
+
+Entrata in vigore del provvedimento: 11/04/1935
+
+## Art. 1.
+
+N.
+
+R. decreto 21 gennaio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi delle seguenti Confraternite della provincia di Chieti: 
+ 
+ 1. Casalincontrada - Confraternita di Maria SS. delle Grazie. 
+ 
+ 2. Chieti - Confraternita della SS. Trinita' dei Pellegrini. 
+ 
+ 3. Chieti - Confraternita del Monte dei Morti. 
+ 
+ 4. Chieti - Confraternita di S. Maria Immacolata. 
+ 
+ 5. Chieti - Arciconfraternita dei Cinturati. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 8 marzo 1935 - Anno XIII
+

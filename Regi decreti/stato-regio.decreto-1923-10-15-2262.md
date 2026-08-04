@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 2262
+data: 1923-10-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-10-15;2262
+codice_redazionale: 023U2262
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:11Z
+---
+
+REGIO DECRETO
+                15 ottobre 1923
+                2262
+                Erezione in Ente morale della Cassa scolastica della scuola complementare pareggiata Trento e Trieste, di Nardo'. (023U2262)
+
+Entrata in vigore del provvedimento: 20/11/1923
+
+## Art. 1.
+
+N.
+
+R. decreto 15 ottobre 1923, col quale, sulla proposta del Ministro della pubblica istruzione, viene eretta in Ente morale la cassa scolastica della scuola complementare pareggiata Trento e Trieste, di Nardo', ed approvato il relativo statuto. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 27 ottobre 1923.
+

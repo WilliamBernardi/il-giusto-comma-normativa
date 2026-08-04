@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 3091
+data: 1952-09-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-09-19;3091
+codice_redazionale: 052U3091
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 settembre 1952
+                3091
+                Riconoscimento agli effetti civili, dell'erezione della parrocchia di Santa Maria di Loreto, in Mola di Bari.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 settembre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Bari in data 10 dicembre 1950, integrato con postilla 27 aprile 1951 e dichiarazione 10 maggio 1951, relativo all'erezione della parrocchia di Santa Maria di Loreto, in Mola di Bari e alla istituzione di un ufficio coadiutorale nella parrocchia stessa.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 18 dicembre 1952
+ Atti del Governo, registro n. 64, foglio n. 31. - PALLA
+

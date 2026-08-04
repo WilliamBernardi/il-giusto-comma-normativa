@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1313
+data: 1954-11-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-11-30;1313
+codice_redazionale: 054U1313
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 novembre 1954
+                1313
+                Autorizzazione alla Cassa scolastica della Scuola tecnica statale commerciale "T. Confalonieri" di Roma ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 novembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica statale commerciale "T.
+ Confalonieri" di Roma viene autorizzata ad accettare la donazione di nominali lire 200.000 disposta al fine di istituire, col relativo reddito, due premi annuali di intitolati al nome delle donatrici "Maria e Cesira Gandolfi".
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 22 gennaio 1955
+ Atti del Governo, registro n. 88, foglio n. 78. - CARLOMAGNO
+

@@ -1,0 +1,55 @@
+---
+tipo: DECRETO-LEGGE
+numero: 250
+data: 1996-05-10
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1996-05-10;250
+codice_redazionale: 096G0267
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1996-12-23
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                10 maggio 1996
+                250
+                 Disposizioni in tema di incompatibilita' e di competenza per i
+procedimenti riguardanti i magistrati.
+
+Entrata in vigore del decreto: 11-5-1996.Decreto-Legge decaduto per mancata conversione.
+
+## - Capo I DISPOSIZIONI IN MATERIA DI INCOMPATIBILITA' E DI IMPUGNAZIONI DI MISURE CAUTELARI
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+
+## - Capo II DISPOSIZIONI IN MATERIA DI COMPETENZA PER I PROCEDIMENTI RIGUARDANTI I MAGISTRATI
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 23 DICEMBRE 1996, N. 652
+

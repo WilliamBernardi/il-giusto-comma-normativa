@@ -1,0 +1,29 @@
+---
+tipo: REGIO DECRETO
+numero: 1272
+data: 1942-08-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-08-24;1272
+codice_redazionale: 042U1272
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:40Z
+---
+
+REGIO DECRETO
+                24 agosto 1942
+                1272
+                Incorporazione dei Monti di credito su pegno di Treviso, di Udine e
+di Prato (Firenze) rispettivamente da parte della Cassa di risparmio
+della Marca Trivigiana, della Cassa di risparmio di Udine e della
+Cassa di risparmi e depositi di Prato (Firenze). (042U1272)
+
+Entrata in vigore del provvedimento: 26/11/1942
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

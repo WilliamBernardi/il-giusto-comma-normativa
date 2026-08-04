@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 137
+data: 1969-02-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-02-26;137
+codice_redazionale: 069U0137
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 febbraio 1969
+                137
+                Modificazione allo statuto della sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso il Banco di Sicilia, con sede in Palermo.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il regio decreto-legge 12 marzo 1936, n. 375, e le successive modificazioni, nonche' il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691;
+ Vista la legge 11 marzo 1958, n. 238;
+ Visto lo statuto della sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso il Banco di Sicilia, con sede in Palermo, approvato con proprio decreto in data 16 dicembre 1959, n. 1244;
+ Viste le deliberazioni assunte dal consiglio di amministrazione e dal consiglio generale del Banco di Sicilia rispettivamente in data 23 aprile 1968 e 30 aprile 1968;
+ Vista la deliberazione assunta dal Comitato interministeriale per il credito ed il risparmio nella riunione dell'8 agosto 1968;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro per il tesoro;
+
+ Decreta:
+
+ E' approvata la modificazione del secondo comma dell'art. 5 dello statuto della sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso il Banco di Sicilia, con sede in Palermo, in conformita' del seguente testo:
+ "Il fondo di dotazione e' costituito dalla somma di L. 2.000.000.000 (duemiliardi) assegnata dal Banco di Sicilia".
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 723
+data: 1971-05-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-05-19;723
+codice_redazionale: 071U0723
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 maggio 1971
+                723
+                Riconoscimento, agli effetti civili, della erezione della parrocchia "Mater Ecclesiae", nel comune di Rimini.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 maggio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Rimini in data 1 settembre 1969, integrato con dichiarazioni del 2 ottobre successivo e 5 novembre 1970, relativo alla erezione della parrocchia "Mater Ecclesiae", in frazione Villaggio 1 maggio del comune di Rimini (Forli).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 28 agosto 1971
+ Atti del Governo, registro n. 244, foglio n. 27. - PASQUALUCCI
+

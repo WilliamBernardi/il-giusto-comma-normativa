@@ -1,0 +1,43 @@
+---
+tipo: REGIO DECRETO
+numero: 939
+data: 1882-07-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-07-18;939
+codice_redazionale: 082U0939
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:07Z
+---
+
+REGIO DECRETO
+                18 luglio 1882
+                939
+                Che autorizza il comune di Caslino, Piano d'Erba a denominarsi Caslino d'Erba. (082U0939)
+
+Entrata in vigore del provvedimento: 05/09/1882
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri,
+
+Vedute le istanze fatte dal Consiglio comunale di Caslino Piano d'Erba, con deliberazione 23 aprile 1882, perche' all'attuale denominazione del comune venga sostituita quella di Caslino d'Erba;
+
+## Art. 1.
+
+Il comune di Caslino Piano d'Erba, nella provincia di Como, e' autorizzato ad assumere la denominazione di Caslino d'Erba, cominciando dal 1° agosto
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 18 luglio 1882. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.
+

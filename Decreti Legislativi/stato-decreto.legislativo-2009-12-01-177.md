@@ -1,0 +1,233 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 177
+data: 2009-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2009-12-01;177
+codice_redazionale: 009G0189
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2012-07-07
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:22Z
+---
+
+DECRETO LEGISLATIVO
+                01 dicembre 2009
+                177
+                Riorganizzazione del Centro nazionale per l'informatica nella pubblica amministrazione, a norma dell'articolo 24 della legge 18 giugno 2009, n. 69. (09G0189)
+
+Entrata in vigore del provvedimento: 29/12/2009
+
+Acquisito il parere della Commissione parlamentare di cui all'articolo 14, comma 19, della legge 28 novembre 2005, n. 246;
+
+Sulla proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, del Ministro per i rapporti con le Regioni e del Ministro per l'attuazione del programma di Governo;
+
+## - Capo I Disposizioni generali
+
+## Art. 1. — Oggetto
+
+Il presente decreto provvede al riordino della disciplina del Centro nazionale per l'informatica nella pubblica amministrazione (CNIPA), ai sensi dell'articolo 24, della legge 18 giugno 2009 n. 69.
+
+## Art. 2. — Natura e finalita' dell'Ente
+
+Ai sensi dell'articolo 1, il Centro nazionale per l'informatica nella pubblica amministrazione, di seguito denominato: «CNIPA» assume la denominazione: «DigitPA».
+
+DigitPA e' un ente pubblico non economico, con sede in Roma e competenza nel settore delle tecnologie dell'informazione e della comunicazione nell'ambito della pubblica amministrazione; esso opera secondo le direttive, per l'attuazione delle politiche e sotto la vigilanza del Presidente del Consiglio dei Ministri o del Ministro delegato, con autonomia tecnica e funzionale, amministrativa, contabile, finanziaria e patrimoniale.
+
+DigitPA svolge funzioni di natura progettuale, tecnica e operativa, con la missione di contribuire alla creazione di valore per cittadini e imprese da parte della pubblica amministrazione, attraverso la realizzazione dell'amministrazione digitale.
+
+## Art. 3. — Funzioni
+
+Al fine di conseguire le finalita' di cui all'articolo 2, DigitPA opera, nell'ambito delle direttive del Presidente del Consiglio dei Ministri o del Ministro delegato, ed in coerenza con il Piano ICT nella pubblica amministrazione centrale, di cui all'articolo 22, comma 1, sulla base di un Piano triennale per la programmazione di propri obiettivi ed attivita', aggiornato annualmente, nel quale sono determinate le metodologie per il raggiungimento dei risultati attesi, le risorse umane e finanziarie necessarie al fine. Il Piano triennale e' approvato con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato, di concerto con il Ministro dell'economia e delle finanze.
+
+DigitPA esprime pareri tecnici, obbligatori e non vincolanti, sugli schemi di contratti stipulati dalle pubbliche amministrazioni centrali concernenti l'acquisizione di beni e servizi relativi ai sistemi informativi automatizzati per quanto concerne la congruita' tecnico-economica, qualora il valore lordo di detti contratti sia superiore a euro 1.000.000,00 nel caso di procedura negoziata e a euro 2.000.000,00 nel caso di procedura ristretta o di procedura aperta. ((Tali pareri sono facoltativi per le centrali di committenza e per le amministrazioni che ad esse ricorrono per le acquisizioni di beni e servizi)). Il parere dell'Ente e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta. Si applicano le disposizioni dell'articolo 16 della legge 7 agosto 1990, n. 241 e successive modificazioni. Copia dei pareri tecnici attinenti a questioni di competenza dell'Autorita' per la vigilanza sui contratti pubblici di lavori, servizi e forniture e' trasmessa da DigitPA a detta Autorita'.
+
+Fermo restando quanto disposto all'articolo 22, l'Ente svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita al CNIPA, nell'ambito delle direttive del Presidente del Consiglio dei Ministri o del Ministro delegato.
+
+## - Capo II Organi e Direttore Generale
+
+## Art. 4. — Organi
+
+## Art. 5. — Il Presidente
+
+Il Presidente e' scelto fra persone di alta qualificazione tecnica e manageriale con profonda conoscenza in materia di innovazione tecnologica comprovata da competenze in ambito scientifico e da esperienza di gestione di enti o strutture complesse, pubbliche o private. E' nominato con decreto del Presidente della Repubblica, su proposta del Presidente del Consiglio dei Ministri o del Ministro delegato, previa deliberazione del Consiglio dei Ministri. Dura in carica quattro anni e puo' essere confermato una sola volta. Se dipendente statale o docente universitario, per l'intera durata dell'incarico, e' collocato, rispettivamente, nella posizione di fuori ruolo o di aspettativa.
+
+Il Presidente ha la rappresentanza legale di DigitPA e cura i rapporti esterni con le istituzioni e le amministrazioni pubbliche nazionali, comunitarie ed internazionali.
+
+Il Presidente, che e' responsabile dell'attivita' dell'Ente sotto il profilo tecnico e scientifico, predispone il Piano triennale di cui all'articolo 3, comma 1, che sottopone alla deliberazione del Comitato direttivo e ne garantisce l'attuazione.
+
+Il Presidente, sentito il Comitato direttivo valuta il raggiungimento degli obiettivi strategici di cui al Piano triennale previsto dall'articolo 3, comma 1.
+
+Il Presidente convoca, presiede e stabilisce l'ordine del giorno del Comitato direttivo. In caso di urgenza, provvede alle deliberazioni di competenza del Comitato direttivo, da sottoporre a ratifica nella prima seduta successiva. In caso di assenza o impedimento il Presidente e' sostituito da un vice Presidente, nominato dal Comitato direttivo fra i suoi componenti, cui il Presidente puo' conferire specifiche deleghe, senza maggiori oneri.
+
+Il Presidente puo' delegare proprie funzioni ai componenti del Comitato direttivo di cui all'articolo 6.
+
+Il Presidente presiede la Commissione di coordinamento del Sistema pubblico di connettivita' di cui all'articolo 80, comma 2, del Codice dell'amministrazione digitale, di cui al decreto legislativo n. 82 del 2005.
+
+Il Presidente fa parte della Conferenza permanente per l'innovazione tecnologica di cui all'articolo 18, comma 2, del Codice dell'amministrazione digitale.
+
+Per lo svolgimento delle sue funzioni il Presidente si avvale di un Ufficio dirigenziale avente competenza di supporto e di raccordo con gli altri organi. Tale ufficio svolge la propria attivita' secondo le direttive impartite dal Presidente. Alle dipendenze funzionali del Presidente e' posto, altresi', un Ufficio dirigenziale per il controllo strategico, ai sensi di quanto previsto nel decreto legislativo 30 luglio 1999, n. 286. Gli uffici dirigenziali di cui al presente comma sono compresi nell'ambito di quelli previsti all'articolo 11 e si avvalgono del personale di cui agli articoli 12 e 13.
+
+Il Presidente puo' avvalersi di consiglieri con funzioni di supporto tecnico o scientifico, nell'ambito del contingente e con il trattamento economico di cui all'articolo 13, comma 2, scelti fra magistrati appartenenti alla giurisdizione ordinaria, amministrativa e contabile, avvocati dello Stato, dirigenti di prima fascia delle amministrazioni pubbliche ed equiparati, professori universitari di ruolo, estranei all'amministrazione dotati di qualificata competenza specifica. Ove pubblici dipendenti, detti consiglieri possono essere collocati in posizione di distacco, comando o fuori ruolo nell'amministrazione di provenienza secondo i rispettivi ordinamenti.
+
+Al fine di assicurare il raccordo ed il monitoraggio delle attivita' tecnico-scientifiche di DigitPA, il Presidente convoca e presiede periodicamente una riunione con il Direttore Generale e i responsabili delle Aree.
+
+## Art. 6. — Il Comitato direttivo
+
+Il Comitato direttivo e' composto dal Presidente e da tre membri, scelti fra persone dotate di alta e riconosciuta competenza e professionalita' tecnica e gestionale. I componenti del Comitato direttivo sono nominati, su proposta del Ministro delegato, con decreto del Presidente del Consiglio dei Ministri. Il Comitato direttivo dura in carica quattro anni, i suoi componenti possono essere confermati una sola volta e ove pubblici dipendenti, sono collocati in posizione di fuori ruolo obbligatorio nell'amministrazione di provenienza secondo i rispettivi ordinamenti.
+
+Ai fini delle deliberazioni, in caso di parita' di voti, prevale quello del Presidente.
+
+## Art. 7. — Il Collegio dei revisori
+
+Il Collegio dei revisori e' l'organo di controllo di regolarita' amministrativa e contabile previsto all'articolo 1, comma 2, lettera a), del decreto legislativo 30 luglio 1999, n. 286.
+
+Il Collegio dei revisori e' composto da tre membri, di cui due iscritti al registro dei revisori contabili, nominati dal Presidente del Consiglio dei Ministri. L'incarico di Presidente e' conferito ad un dirigente di prima fascia dei ruoli della Presidenza del Consiglio dei Ministri, collocato in posizione di fuori ruolo per la durata dell'incarico. Uno dei componenti e' designato dal Ministro dell'economia e delle finanze e l'altro dal Presidente del Consiglio dei Ministri o dal Ministro delegato. Il Presidente del Consiglio dei Ministri, di concerto con il Ministro dell'economia e delle finanze, determina i compensi spettanti. I revisori dei conti durano in carica quattro anni e sono rinnovabili una sola volta.
+
+Il Collegio di revisori svolge tutte le altre funzioni previste dall'ordinamento. Allo stesso e' affidato il controllo contabile di cui all'articolo 2409-bis del codice civile.
+
+## Art. 8. — Il Direttore Generale
+
+Il Direttore Generale, di cui all'articolo 11, comma 2, e' nominato con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato. L'incarico e' conferito a persone di particolare e comprovata qualificazione professionale. E' responsabile dell'amministrazione dell'ente. A tale fine, sovrintende alla gestione amministrativa e finanziaria di DigitPA, esercita funzioni di coordinamento delle Aree operative e delle strutture dell'ente, formula proposte agli organi di indirizzo dell'ente, da' attuazione alle deliberazioni ed ai programmi da questi approvati ed assicura gli adempimenti di carattere tecnico-amministrativo di tutte le attivita' di DigitPA in relazione alle finalita' istituzionali. Dura in carica quattro anni e puo' essere confermato. Se dipendente statale o docente universitario, per l'intera durata dell'incarico, e' collocato, rispettivamente, nella posizione di fuori ruolo o di aspettativa.
+
+Il Direttore Generale partecipa alle riunioni del Comitato direttivo e puo' chiederne la convocazione con specifica motivazione.
+Ha facolta' di intervento e proposta, senza diritto di voto.
+
+Il Direttore Generale nell'assolvimento dei propri compiti e di quelli assegnatigli dal Presidente e dal Comitato direttivo, adotta le deliberazioni necessarie, ivi compresa la proposizione di azioni e la resistenza in giudizio. In attuazione del piano triennale e dei relativi aggiornamenti e delle deliberazioni adottate dal Comitato direttivo stipula, in nome e per conto dell'ente, convenzioni, accordi e contratti.
+
+Il Direttore Generale coadiuva il Presidente nella predisposizione del Piano triennale di cui all'articolo 3, comma 1, e individua le risorse umane e finanziarie necessarie al fine.
+
+Il Direttore Generale adotta i provvedimenti in materia di assunzione e gestione del personale, ivi compresi i provvedimenti di selezione. Assegna le risorse umane alle strutture di DigitPA con modalita' che garantiscano ampia flessibilita' nell'impiego di tali risorse.
+
+Il Direttore Generale puo' conferire deleghe ai dirigenti mediante espressa attribuzione. Il Direttore Generale, sentito il Presidente, conferisce gli incarichi dirigenziali e stipula i relativi contratti; avanza proposte al Comitato direttivo sui provvedimenti organizzativi e di gestione previsti nel presente decreto; rappresenta DigitPA nei rapporti con le organizzazioni sindacali. In attuazione di quanto disposto all'articolo 5, comma 3, sentito il Presidente, attribuisce gli obiettivi specifici ai singoli dirigenti per la valutazione delle prestazioni; fornisce supporto agli organi di indirizzo; coordina l'attivita' di comunicazione esterna ed interna in riferimento alle finalita' ed ai compiti delle Aree e degli Uffici.
+
+Alle dipendenze del Direttore Generale opera l'Area «Organizzazione, risorse umane e funzionamento».
+
+Il Direttore Generale e' titolare dell'unico centro di responsabilita' amministrativa e predispone il bilancio di previsione e le variazioni di bilancio nonche' il rendiconto consuntivo annuale ed esercita le funzioni ad esso attribuite dal Regolamento per la gestione delle risorse economiche e finanziarie dell'Ente.
+
+## Art. 9. — Incompatibilita'
+
+Le cariche di Presidente, Direttore Generale e componente del Comitato direttivo sono incompatibili con cariche di governo e con incarichi politici elettivi di parlamentare nazionale ed europeo, di Presidente o Consigliere regionale e provinciale, di Sindaco o di Consigliere comunale e di componente delle relative giunte.
+
+Il Presidente e i componenti del Comitato direttivo non possono ricoprire incarichi di responsabile delle strutture organizzative dell'Ente ovvero di componente di commissioni di concorso per il reclutamento di personale dell'Ente medesimo.
+
+Il Presidente, il Direttore Generale e i componenti del Comitato direttivo non possono ricoprire il ruolo di amministratore o dipendente di qualsiasi societa'. Ferme restando le norme sulle incompatibilita' previste dalla disciplina del pubblico impiego, la carica di Direttore Generale e' incompatibile con lo svolgimento di qualsiasi altra attivita' professionale.
+
+## Art. 10. — Indennita' e compensi
+
+Le indennita' di carica del Presidente e del Direttore Generale sono determinate con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro delegato, di concerto con il Ministro dell'economia e delle finanze. In sede di prima attuazione sono confermate le indennita' percepite.
+
+Ai tre componenti del Comitato direttivo spetta un'indennita' di importo pari al settanta per cento dell'indennita' del Presidente.
+
+## - Capo III Organizzazione di DigitPA e ordinamento   del personale e di contabilita'
+
+## Art. 11. — Organizzazione di DigitPA
+
+DigitPA, nel definire l'assetto della sua struttura organizzativa, in applicazione dei principi stabiliti dalle norme generali sul funzionamento e organizzazione della pubblica amministrazione, distingue i compiti di indirizzo, di supervisione tecnico-operativa e di verifica dei risultati, riservati al Presidente ed al Comitato direttivo, dalle attivita' amministrative, finanziarie e contabili, riservate al Direttore Generale.
+
+L'organizzazione di DigitPA, deliberata dal Comitato direttivo ai sensi dell'articolo 6, comma 2, lettera c), definita nel rispetto della dotazione organica stabilita ai sensi del presente decreto, prevede l'ufficio di livello dirigenziale generale del Direttore generale e, oltre alle due strutture di livello dirigenziale non generale, poste alle dipendenze del Presidente, di cui all'articolo 5, comma 9, e dell'area, di livello dirigenziale non generale, posta alle dipendenze del Direttore Generale, di cui all'articolo 8, comma 7, sedici uffici dirigenziali, di livello dirigenziale non generale, di cui sei definiti «aree operative» organizzate in relazione alle missioni affidate all'ente stesso.
+
+## Art. 12. — Dotazione organica
+
+La dotazione organica e' determinata nell'allegata Tabella A, che costituisce parte integrante del presente decreto. Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, la dotazione organica di DigitPA puo' essere rideterminata, nei limiti delle disponibilita' economiche e nel rispetto dei vincoli previsti dalla normativa vigente in materia di organici e di assunzioni di personale, a seguito dell'approvazione del Piano triennale di cui all'articolo 3, comma 1.
+
+Per lo svolgimento dei propri compiti istituzionali, DigitPA puo' avvalersi, nei limiti della dotazione organica e della disponibilita' economica esistente, di personale in posizione di comando, distacco o fuori ruolo in misura non superiore ad un terzo della dotazione organica.
+
+## Art. 13. — Contingente di personale con contratti 
+ di lavoro flessibile
+
+Per lo svolgimento dei propri compiti istituzionali, DigitPA puo' ricorrere, nei limiti della disponibilita' economica esistente, alla stipula di contratti di lavoro flessibile per un numero non superiore a trenta unita'. In sede di prima attuazione, nel limite temporale di cui all'articolo 16, comma 3, il numero massimo del personale di cui al presente comma e' fissato nel limite di dieci unita'.
+
+I contratti di cui al comma 1 possono essere stipulati, in misura non superiore a dieci, con esperti nelle materie di competenza dell'Ente, ai sensi dell'articolo 7, comma 6, del decreto legislativo n. 165 del 2001. Il trattamento economico degli esperti, stabilito in tre fasce retributive definite da apposito decreto del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministero dell'economia e delle finanze, previa delibera del Comitato direttivo, e' determinato in relazione alla professionalita' posseduta e alle funzioni che si intendono conferire.
+
+I restanti venti contratti di lavoro di cui al comma 1 sono stipulati nel rispetto dell'articolo 36 del decreto legislativo n. 165 del 2001.
+
+Il Piano triennale e i relativi aggiornamenti annuali determinano il fabbisogno complessivo di personale da utilizzare per gli obiettivi in esso individuati, nei limiti di quanto previsto nella tabella A e successive modifiche e delle disponibilita' economiche esistenti.
+
+Per la realizzazione di progetti di innovazione tecnologica l'Ente puo', altresi', avvalersi di collaborazioni coordinate e continuative nonche' di incarichi di studio e consulenza, ai sensi dell'articolo 1, comma 188, della legge 23 dicembre 2005, n. 266.
+
+## Art. 14. — Norme sul personale
+
+L'assunzione del personale di ruolo avviene mediante procedure selettive nel rispetto degli articoli 35 e 36, comma 1, del decreto legislativo n. 165 del 2001. Allo stesso personale si applica quanto previsto all'articolo 70, comma 4, del citato decreto legislativo n. 165 del 2001. Il personale assunto ai sensi del presente comma e' iscritto, ai fini previdenziali all'Istituto nazionale di previdenza per i dipendenti dell'amministrazione pubblica (INPDAP).
+
+I dipendenti dell'Ente conformano la propria condotta ai codici di comportamento dei dipendenti delle pubbliche amministrazioni e alle disposizioni contenute nel contratto collettivo nazionale di lavoro.
+
+## Art. 15. — Regolamento di contabilita'
+
+Con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato, di concerto con il Ministro dell'economia e delle finanze, e' adottato, entro 180 giorni dall'entrata in vigore del presente decreto legislativo, il regolamento di contabilita' di DigitPA.
+
+Nelle more dell'adozione del decreto di cui al comma 1, si applicano le norme transitorie di cui al Capo IV.
+
+## - Capo IV Disposizioni transitorie in materia di personale   e di ordinamento delle risorse economiche e finanziarie
+
+## Art. 16. — Disciplina transitoria in materia di personale
+
+I dipendenti gia' assunti con contratto a tempo indeterminato transitano direttamente nel ruolo dell'Ente sulla base dell'equiparazione di cui alla Tabella B, che costituisce parte integrante del presente decreto.
+
+Il personale non dirigenziale in posizione di comando, distacco o fuori ruolo presso il CNIPA alla data di entrata in vigore del presente decreto, puo' presentare domanda per l'immissione nel ruolo di DigitPA; la predetta immissione avviene nei limiti delle posizioni di cui alla Tabella A e con le modalita' definite con apposite disposizioni deliberate dal Comitato direttivo, su proposta del Direttore Generale e con corrispondente riduzione delle dotazioni organiche degli Enti di provenienza, fermo restando quanto previsto dall'articolo 30 del decreto legislativo 30 marzo 2001, n. 165.
+
+In via transitoria, fino alla stipula del primo contratto collettivo nazionale di lavoro del comparto di riferimento e comunque non oltre la durata del contratto individuale in essere, il personale, anche con qualifica dirigenziale, in servizio presso l'Ente alla data di entrata in vigore del presente decreto con contratto a tempo indeterminato o determinato o in posizione di comando, distacco o fuori ruolo, mantiene il trattamento economico in godimento. Continua ad applicarsi l'articolo 6 del decreto del Presidente del Consiglio dei Ministri 14 aprile 1994, n. 609.
+
+Il personale in servizio alla data di entrata in vigore del presente decreto legislativo e' iscritto all'INPDAP, fatta salva la facolta', da esercitare entro sei mesi dalla medesima data, di optare per il mantenimento del diverso regime previdenziale in essere.
+
+In sede di prima applicazione e fino alle delibere del Comitato direttivo, e comunque fino ad un massimo di dodici mesi dalla data di entrata in vigore del presente decreto, permane l'attuale struttura organizzativa del CNIPA.
+
+Al fine di garantire la continuita' e la funzionalita' di DigitPA, nelle more dell'espletamento delle procedure concorsuali e comunque non oltre ventiquattro mesi dalla data di entrata in vigore del presente decreto, possono essere conferiti incarichi dirigenziali, nei limiti dei posti previsti nella dotazione organica, con contratti di lavoro a tempo determinato.
+
+Entro trenta giorni dalla data di entrata in vigore del presente decreto legislativo, si provvede alla costituzione dei nuovi organi.
+
+## Art. 17. — Contabilita' speciale
+
+L'Ente provvede all'autonoma gestione delle spese per il proprio funzionamento e delle spese per la realizzazione di programmi, progetti ad esso affidati, nonche' di specifiche finalita' previste per legge, avvalendosi di una contabilita' speciale.
+
+La gestione finanziaria e' sottoposta al controllo consuntivo della Corte dei conti.
+
+## Art. 18. — Entrate
+
+DigitPA destina una quota delle risorse di cui al comma 1, lettere a), b), c), f), g) ed h) al finanziamento delle assunzioni di personale ai fini della copertura dei posti in dotazione organica.
+
+Nell'ambito di gare o accordi quadro predisposti direttamente o con altri soggetti, per l'espletamento delle funzioni di cui all'articolo 3, DigitPA riceve dalle amministrazioni contraenti, nell'ambito delle risorse ordinariamente destinate all'innovazione tecnologica, un contributo forfetario per spese di funzionamento secondo un importo determinato, in misura fissa ovvero compresa tra un minimo e un massimo, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, in percentuale sul valore del contratto sottoscritto. ((1))
+
+-------------
+                            AGGIORNAMENTO (1)
+                            
+ Il D.L. 7 maggio 2012, n. 52, convertito con modificazioni dalla L. 6 luglio 2012, n. 94, ha disposto (con l'art. 10, comma 1-bis) che "L'articolo 18, comma 3, del decreto legislativo 1° dicembre 2009, n. 177, si interpreta nel senso che il contributo forfetario non e' dovuto nel caso di gare predisposte dalle amministrazioni contraenti e per le quali sono stati chiesti a DigitPA i pareri di cui all'art. 3 dello stesso decreto".
+
+## Art. 19. — Eccedenze di bilancio
+
+All'Ente si applicano, ove non diversamente disposto e per quanto compatibili con il presente decreto, le disposizioni contenute nel decreto del Presidente del Consiglio dei Ministri 1° giugno 2007, n. 110. I termini: «Collegio» o: «Collegio del CNIPA» presenti nel citato decreto del Presidente del Consiglio dei Ministri n. 110 del 2007 sono sostituiti da: «Comitato direttivo». I termini: «CNIPA», «Centro Nazionale per l'informatica nella pubblica amministrazione», «Centro» sono sostituiti con: «DigitPA».
+
+Qualora l'avanzo di esercizio di cui all'articolo 12 del decreto del Presidente del Consiglio dei Ministri 1° giugno 2007, n. 110, al netto delle somme vincolate, nonche' di quelle di cui al comma 5 del medesimo articolo e di cui all'articolo 15, comma 1, del medesimo decreto n. 110 del 2007, superi del dieci per cento l'importo della spesa sostenuta per il funzionamento, come risultante dal rendiconto finanziario, il Comitato direttivo delibera di versare l'eccedenza in entrata del bilancio dello Stato.
+
+## Art. 20. — Attivita' commerciale
+
+L'attivita' commerciale, svolta nel contesto delle funzioni istituzionali dell'ente, e' contabilizzata, ai fini fiscali, in forma separata, secondo i principi dell'ordinamento giuridico. Le relative risultanze sono evidenziate nella nota integrativa di cui all'articolo 16, comma 6, del decreto del Presidente del Consiglio dei Ministri 1° giugno 2007, n. 110.
+
+## - Capo V Disposizioni finali
+
+## Art. 21. — Diritti di proprieta' intellettuale ed attivita' per conto terzi
+
+Su proposta del Direttore Generale, con delibera del Comitato direttivo, sono disciplinati i diritti derivanti da invenzioni, brevetti industriali e da opere dell'ingegno, sviluppate nello svolgimento delle attivita' istituzionali in base alla normativa vigente.
+
+Con la medesima procedura di cui al comma 1, sono altresi' definiti le modalita' ed i criteri di riparto dei proventi derivanti da contratti di consulenza e convenzioni per conto terzi.
+
+## Art. 22. — Trasferimento delle funzioni
+
+La funzione di coordinamento, attraverso la redazione di un piano triennale annualmente riveduto, dei progetti e dei principali interventi di sviluppo e gestione dei sistemi informativi automatizzati delle amministrazioni, e' trasferita al Presidente del Consiglio dei Ministri o al Ministro delegato.
+
+La funzione di curare, nel settore delle tecnologie dell'informazione e della comunicazione nell'ambito della pubblica amministrazione, i rapporti con gli organi delle Comunita' europee e partecipare ad organismi comunitari ed internazionali, e' trasferita al Presidente del Consiglio dei Ministri o al Ministro delegato.
+
+Il Presidente del Consiglio dei Ministri o il Ministro delegato trasmette al Parlamento, entro il 31 maggio di ogni anno, una relazione che dia conto dell'attivita' svolta nell'anno precedente e dello stato dell'informatizzazione nelle amministrazioni, con particolare riferimento al livello di utilizzazione effettiva delle tecnologie e ai relativi costi e benefici.
+
+Le funzioni del CNIPA sono trasferite a DigitPA, secondo quanto disposto dal presente decreto.
+
+## Art. 23. — Norma di salvaguardia
+
+Dalla data di entrata in vigore del presente decreto, sono fatti salvi, fino alla loro naturale scadenza, i contratti e le convenzioni stipulati dalle pubbliche amministrazioni con il CNIPA.
+
+## Art. 24. — Abrogazioni
+
+La denominazione: «Centro nazionale per l'informatica nella pubblica amministrazione» ovunque presente nella vigente normativa e' sostituita dalla seguente: «DigitPA».
+

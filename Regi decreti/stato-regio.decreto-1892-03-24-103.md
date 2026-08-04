@@ -1,0 +1,418 @@
+---
+tipo: REGIO DECRETO
+numero: 103
+data: 1892-03-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-03-24;103
+codice_redazionale: 092U0103
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:15Z
+---
+
+REGIO DECRETO
+                24 marzo 1892
+                103
+                Che sostituisce un elenco unico delle imperfezioni fisiche ed infermita' esimenti dal servizio militare, agli elenchi A, B e C annessi al regolamento per l'esecuzione del testo unico delle leggi sul reclutamento del regio esercito. (092U0103)
+
+Entrata in vigore del provvedimento: 17/04/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+### Art. 1.
+
+Elenco unico-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Elenco unico-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Elenco unico-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Elenco unico-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4-bis.
+
+Elenco unico-art. 4-bis ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Elenco unico-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Elenco unico-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Elenco unico-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Elenco unico-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Elenco unico-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Elenco unico-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Elenco unico-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Elenco unico-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Elenco unico-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Elenco unico-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Elenco unico-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Elenco unico-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Elenco unico-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Elenco unico-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Elenco unico-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 20.
+
+Elenco unico-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 21.
+
+Elenco unico-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 22.
+
+Elenco unico-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 23.
+
+Elenco unico-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 24.
+
+Elenco unico-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 25.
+
+Elenco unico-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 26.
+
+Elenco unico-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 27.
+
+Elenco unico-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 28.
+
+Elenco unico-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 29.
+
+Elenco unico-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 30.
+
+Elenco unico-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 31.
+
+Elenco unico-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 32.
+
+Elenco unico-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 33.
+
+Elenco unico-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 34.
+
+Elenco unico-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 35.
+
+Elenco unico-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 36.
+
+Elenco unico-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 37.
+
+Elenco unico-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 38.
+
+Elenco unico-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 39.
+
+Elenco unico-art. 39 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 40.
+
+Elenco unico-art. 40 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 41.
+
+Elenco unico-art. 41 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 42.
+
+Elenco unico-art. 42 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 43.
+
+Elenco unico-art. 43 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 44.
+
+Elenco unico-art. 44 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 45.
+
+Elenco unico-art. 45 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 46.
+
+Elenco unico-art. 46 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 47.
+
+Elenco unico-art. 47 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 48.
+
+Elenco unico-art. 48 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 49.
+
+Elenco unico-art. 49 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 50.
+
+Elenco unico-art. 50 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 51.
+
+Elenco unico-art. 51 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 52.
+
+Elenco unico-art. 52 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 53.
+
+Elenco unico-art. 53 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 54.
+
+Elenco unico-art. 54 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 55.
+
+Elenco unico-art. 55 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 56.
+
+Elenco unico-art. 56 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 57.
+
+Elenco unico-art. 57 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 58.
+
+Elenco unico-art. 58 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 59.
+
+Elenco unico-art. 59 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 60.
+
+Elenco unico-art. 60 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 61.
+
+Elenco unico-art. 61 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 62.
+
+Elenco unico-art. 62 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 63.
+
+Elenco unico-art. 63 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 64.
+
+Elenco unico-art. 64 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 65.
+
+Elenco unico-art. 65 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 66.
+
+Elenco unico-art. 66 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 67.
+
+Elenco unico-art. 67 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 68.
+
+Elenco unico-art. 68 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 69.
+
+Elenco unico-art. 69 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 70.
+
+Elenco unico-art. 70 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 71.
+
+Elenco unico-art. 71 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 72.
+
+Elenco unico-art. 72 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 73.
+
+Elenco unico-art. 73 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 74.
+
+Elenco unico-art. 74 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 75.
+
+Elenco unico-art. 75 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 76.
+
+Elenco unico-art. 76 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 77.
+
+Elenco unico-art. 77 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 78.
+
+Elenco unico-art. 78 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 79.
+
+Elenco unico-art. 79 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 80.
+
+Elenco unico-art. 80 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 81.
+
+Elenco unico-art. 81 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 82.
+
+Elenco unico-art. 82 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 83.
+
+Elenco unico-art. 83 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 84.
+
+Elenco unico-art. 84 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 85.
+
+Elenco unico-art. 85 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 86.
+
+Elenco unico-art. 86 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 87.
+
+Elenco unico-art. 87 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 88.
+
+Elenco unico-art. 88 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 89.
+
+Elenco unico-art. 89 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 90.
+
+Elenco unico-art. 90 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 91.
+
+Elenco unico-art. 91 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 92.
+
+Elenco unico-art. 92 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 93.
+
+Elenco unico-art. 93 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 94.
+
+Elenco unico-art. 94 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 95.
+
+Elenco unico-art. 95 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 96.
+
+Elenco unico-art. 96 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+

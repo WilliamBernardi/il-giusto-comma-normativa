@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 333
+data: 1975-04-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-04-14;333
+codice_redazionale: 075U0333
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 aprile 1975
+                333
+                Riconoscimento della personalita' giuridica dell'"Associazione produttori ortofrutticoli della IV zona", in Verona.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 aprile 1975, col quale, sulla proposta del Ministro per l'agricoltura e le foreste, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'"Associazione produttori ortofrutticoli della IV zona", in Verona.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 28 luglio 1975
+ Atti di Governo, registro n. 11, foglio n. 19
+

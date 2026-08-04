@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1308
+data: 1952-08-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-08-30;1308
+codice_redazionale: 052U1308
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 agosto 1952
+                1308
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Andrea Apostolo, in localita' Serravalle del comune di Vittorio Veneto (Treviso).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 agosto 1952, col quale, sulla proposta del Ministro ad interim per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Sant'Andrea Apostolo, in localita' Serravalle del comune di Vittorio Veneto (Treviso), e la Chiesa parrocchiale predetta viene autorizzata ad accettare la donazione disposta da Adele Vicentini, consistente in un fabbricato, situato in Vittorio Veneto, valutato L. 950.000.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 4 ottobre 1952
+ Atti del Governo, registro n. 58, foglio n. 59. - FRASCA
+

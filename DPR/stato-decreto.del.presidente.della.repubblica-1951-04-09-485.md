@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 485
+data: 1951-04-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-09;485
+codice_redazionale: 051U0485
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 aprile 1951
+                485
+                Riconoscimento della rettifica apportata alla denominazione della Congregazione delle Suore della Carita' della Beata Bartolomea Capitanio, in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 aprile 1951, col quale, sulla proposta del Ministro per l'interno, alla denominazione della Congregazione delle Suore della Carita' della Beata Bartolomea Capitanio, in Milano, via Santa Sofia n. 13, viene riconosciuta la seguente rettifica: "Congregazione delle Suore di Carita' delle Sante Bartolomea Capitanio e Vincenza Gerosa".
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 21 giugno 1951
+

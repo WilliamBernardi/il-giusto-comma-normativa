@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-09-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-09-22;420
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:31Z
+---
+
+REGIO DECRETO
+                22 settembre 1903
+                CCCCXX
+                Che riduce i fini dell'opera pia Camperia o Masseria del Ponte di Cornigliano Ligure. (0300420R)
+
+Entrata in vigore del provvedimento: 28/11/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

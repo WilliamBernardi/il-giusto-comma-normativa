@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1869
+data: 1936-07-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-07-25;1869
+codice_redazionale: 036U1869
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:31Z
+---
+
+REGIO DECRETO
+                25 luglio 1936
+                1869
+                Autorizzazione all'Opera Nazionale Dopolavoro di Pornassio (Imperia) ad accettare una donazione. (036U1869)
+
+Entrata in vigore del provvedimento: 14/11/1936
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

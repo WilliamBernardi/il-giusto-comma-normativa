@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1883-11-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-11-10;1141
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:48Z
+---
+
+REGIO DECRETO
+                10 novembre 1883
+                MCXLI
+                Che erige in corpo morale l'ospedale ricovero di Cisternino e ne approva lo statuto. (8301141R)
+
+Entrata in vigore del provvedimento: 05/01/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

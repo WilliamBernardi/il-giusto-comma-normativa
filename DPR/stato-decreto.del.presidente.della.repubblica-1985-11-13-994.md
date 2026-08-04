@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 994
+data: 1985-11-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-11-13;994
+codice_redazionale: 085U0994
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 novembre 1985
+                994
+                Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, in Roma, viene autorizzata ad acquistare, al prezzo di L. 55.000.000, un immobile sito in Latina, via Cairoli n. 2, censito al nuovo catasto edilizio urbano alla partita n. 86, foglio n. 143, particella n. 37 sub 17, di proprieta' dei signori Giglio Renato e Zambrano Concetta, come da atto di compravendita 30 giugno 1980, n. 9695/3286 di repertorio, a rogito dott. Antonio Alfonsi, notaio in Latina, registrato a Latina in data 8 luglio 1980 al n. 9496, da adibire a sezione provinciale dell'Associazione. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 22 marzo 1986 
+ Registro n. 1 Lavoro, foglio n. 239
+

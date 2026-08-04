@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+numero: 30
+data: 1915-01-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-01-10;30
+codice_redazionale: 015U0030
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:12:26Z
+---
+
+REGIO DECRETO
+                10 gennaio 1915
+                30
+                Dichiarazione di pubblica utilita' della sistemazione
+dell'accasermamento e dei servizi militari in Alpignano (Torino).
+(015U0030)
+
+Entrata in vigore del provvedimento: 11/02/1915
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

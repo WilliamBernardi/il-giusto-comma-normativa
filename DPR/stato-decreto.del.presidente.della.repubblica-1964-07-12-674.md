@@ -1,0 +1,41 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 674
+data: 1964-07-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-07-12;674
+codice_redazionale: 064U0674
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 luglio 1964
+                674
+                Modificazioni allo statuto dell'Universita' degli studi di Modena.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Modena, approvato con regio decreto 14 ottobre 1926, numero 2035, e modificato con regio decreto 13 ottobre 1927, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, numero 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Modena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 49. - Agli insegnamenti complementari del corso di laurea in Chimica sono aggiunti i seguenti:
+ per l'indirizzo organico biologico: "Chimica organica superiore";
+ per l'indirizzo inorganico-chimico-fisico: "Chimica inorganica superiore".
+ L'insegnamento complementare di "Geochimica" dell'indirizzo inorganico-chimico-fisico, e' soppresso.
+

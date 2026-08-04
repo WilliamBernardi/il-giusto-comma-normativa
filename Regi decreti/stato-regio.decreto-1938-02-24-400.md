@@ -1,0 +1,52 @@
+---
+tipo: REGIO DECRETO
+numero: 400
+data: 1938-02-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-02-24;400
+codice_redazionale: 038U0400
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:38Z
+---
+
+REGIO DECRETO
+                24 febbraio 1938
+                400
+                Disciplina del traffico marittimo nelle acque dell'estuario della Maddalena. (038U0400)
+
+Entrata in vigore del provvedimento: 19/05/1938
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+

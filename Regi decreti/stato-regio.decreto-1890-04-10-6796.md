@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+numero: 6796
+data: 1890-04-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-04-10;6796
+codice_redazionale: 090U6796
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:24Z
+---
+
+REGIO DECRETO
+                10 aprile 1890
+                6796
+                Con il quale la Regia Scuola di Gaeta assume il nome di «Principe Amedeo di Savoia». (090U6796)
+
+Entrata in vigore del provvedimento: 14/05/1890
+
+## Art. 1.
+
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Vista la deliberazione del Consiglio comunale di Gaeta, ed il voto favorevole dell'Autorita' scolastica provinciale di Caserta; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Alla Regia Scuola tecnica di Gaeta e' data la denominazione di «Principe Amedeo di Savoia.» 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 aprile 1890. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.
+

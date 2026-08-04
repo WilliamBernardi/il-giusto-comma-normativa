@@ -1,0 +1,39 @@
+---
+tipo: REGIO DECRETO
+data: 1865-10-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1865-10-19;1692
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:10Z
+---
+
+REGIO DECRETO
+                19 ottobre 1865
+                MDCXCII
+                Che determina il numero e la larghezza delle zone da sottoporsi a servitu' militari da applicarsi attorno al magazzino a polvere fuori Porta Terralunga in Brescia. (6501692R)
+
+Entrata in vigore del provvedimento: 19/11/1865
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+## Art. 1.
+
+Il numero e la larghezza delle zone da sottoporsi a servitu' militare da applicarsi attorno al magazzino a polvere fuori Porta Terralunga nella piazza di Brescia vengono determinate entro i limiti stabiliti dalla Legge succitata dal piano annesso al presente, firmato di Nostro ordine dal Ministro della Guerra. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 19 ottobre 1865. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Registrato alla Corte dei conti addi' 25 ottobre 1865 
+ Reg.° 34 Atti del Governo a c. 30. Crodara-Visconti. 
+ Luogo del Sigillo. V. Il Guardasigilli CORTESE. 
+ 
+ PETITTI.
+

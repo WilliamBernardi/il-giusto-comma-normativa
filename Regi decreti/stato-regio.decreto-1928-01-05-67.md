@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 67
+data: 1928-01-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-01-05;67
+codice_redazionale: 028U0067
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:18Z
+---
+
+REGIO DECRETO
+                05 gennaio 1928
+                67
+                Promozioni degli agenti di polizia provenienti dall'ex regime austro-ungarico passati alla dipendenza dell'Amministrazione di pubblica sicurezza italiana. (028U0067)
+
+Entrata in vigore del provvedimento: 04/02/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

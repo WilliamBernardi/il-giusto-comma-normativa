@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 634
+data: 1910-08-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-08-31;634
+codice_redazionale: 010U0634
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:29Z
+---
+
+REGIO DECRETO
+                31 agosto 1910
+                634
+                Che autorizza prelevamento di somme dal fondo di riserva delle spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1910-911, occorrente per combattere l'epidemia colerica nelle Puglie. (010U0634)
+
+Entrata in vigore del provvedimento: 09/10/1910
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

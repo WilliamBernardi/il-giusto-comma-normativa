@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-01-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-01-04;648
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:37Z
+---
+
+REGIO DECRETO
+                04 gennaio 1863
+                DCXLVIII
+                Approvativo del regolamento deliberato dal consorzio degli utenti del canale irrigatorio detto dei Prati Salati nel territorio di None. (6300648R)
+
+Entrata in vigore del provvedimento: 04/01/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1001
+data: 1949-11-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-11-10;1001
+codice_redazionale: 049U1001
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 novembre 1949
+                1001
+                Trattamento economico degli ufficiali sanitari e dei medici condotti richiesti a prestare la loro opera per l'accertamento delle conseguenze degli infortuni sul lavoro e delle malattie professionali.
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+L'art. 58 del regolamento, approvato con regio decreto 25 gennaio 1937, n. 200, per la esecuzione dei regi decreti 17 agosto 1935, n. 1765, e 15 dicembre 1936, n. 2276, sulla assicurazione obbligatoria degli infortuni sul lavoro e delle malattie professionali, e' sostituito dal seguente:
+ "Gli ufficiali sanitari ed i medici condotti non possono, senza giustificato motivo, rifiutare l'opera loro quando sia richiesta per accertare le conseguenze degli infortuni sul lavoro e delle malattie professionali.
+ Le indennita' spettanti agli ufficiali sanitari ed ai medici condotti sono le seguenti:
+ 1) pagamento delle spese di viaggio in seconda classe nelle strade ferrate, in prima classe nelle tramvie e linee automobilistiche e lacuali e nella misura di venticinque lire per chilometro nelle strade non servite da ferrovie e da altri mezzi di linea;
+ 2) lire cento per il primo certificato medico da unirsi alla denuncia se si tratta di infortunio e lire centoventi se si tratta di malattia professionale;
+ 3) lire quaranta per ogni certificato comprovante la continuazione della inabilita' assoluta al lavoro; pero' per uno stesso caso la spesa per i certificati di questa specie non potra' mai, qualunque sia il numero di essi, superare le lire centoventi;
+ 4) lire ottanta per il certificato constatante l'esito definitivo dell'infortunio o della malattia professionale.
+ Le spese di cui al n. 1) sono a carico dell'istituto assicuratore o del datore di lavoro, secondo che l'opera dell'ufficiale sanitario o del medico condotto sia stata richiesta dall'uno o dall'altro".
+

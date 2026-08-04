@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 35
+data: 1950-01-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-01-10;35
+codice_redazionale: 050U0035
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 gennaio 1950
+                35
+                Riconoscimento, agli effetti civili, dell'unione temporanea "aeque principaliter" delle parrocchie di San Lorenzo Martire, in frazione Bibbiano del comune di Buonconvento (Siena) e di San Bartolomeo Apostolo, in localita' Castelnuovo Tancredi del Comune predetto.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 gennaio 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Siena in data 1 dicembre 1948, relativo all'unione temporanea "aeque principaliter" delle parrocchie di San Lorenzo Martire, in frazione Bibbiano del comune di Buonconvento (Siena), e di San Bartolomeo Apostolo, in localita' Castelnuovo Tancredi del Comune predetto.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 25 febbraio 1950
+

@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1644
+data: 1929-08-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-08-09;1644
+codice_redazionale: 029U1644
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:35Z
+---
+
+REGIO DECRETO
+                09 agosto 1929
+                1644
+                Erezione in ente morale della Cassa scolastica del Regio liceo-ginnasio «Ennio Quirino Visconti», in Roma. (029U1644)
+
+Entrata in vigore del provvedimento: 16/10/1929
+
+## Art. 1.
+
+N.
+
+R. decreto 9 agosto 1929, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Regio liceo-ginnasio «Ennio Quirino Visconti», in Roma, viene eretta in ente morale e n'e' approvato lo statuto 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 25 settembre 1929 - Anno VII
+

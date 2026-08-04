@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 883
+data: 1967-07-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-18;883
+codice_redazionale: 067U0883
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 luglio 1967
+                883
+                Autorizzazione alla Fondazione Campari, con sede in Milano, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 luglio 1967, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Fondazione Campari, con sede in Milano, viene autorizzata ad accettare la donazione disposta a suo favore dalla S.p.A. Davide Campari costituita da buoni del Tesoro, con scadenza 1973-74, del complessivo ammontare di lire 40.000.000.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 29 settembre 1967
+ Atti del Governo, registro n. 214, foglio n. 22. - GRECO
+

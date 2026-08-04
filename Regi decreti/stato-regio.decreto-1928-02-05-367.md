@@ -1,0 +1,51 @@
+---
+tipo: REGIO DECRETO
+numero: 367
+data: 1928-02-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-02-05;367
+codice_redazionale: 028U0367
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:10Z
+---
+
+REGIO DECRETO
+                05 febbraio 1928
+                367
+                Aggregazione al comune di Margherita di Savoia di zone di territorio dei comuni di Trinitapoli e Manfredonia. (028U0367)
+
+Entrata in vigore del provvedimento: 24/03/1928
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383;
+
+## Art. 1.
+
+Al comune di Margherita di Savoia sono aggregate le zone di territorio dei comuni di Trinitapoli e Manfredonia, risultanti dalla pianta planimetrica vistata dall'ufficio del Genio civile di Foggia. 
+ 
+ Tale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 2.
+
+Il prefetto di Foggia, sentita la Giunta provinciale amministrativa, provvedera' alla sistemazione dei rapporti patrimoniali fra il comune di Margherita di Savoia e quelli di Trinitapoli e Manfredonia, in dipendenza delle modificazioni di circoscrizione disposte col presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 5 febbraio 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 8 marzo 1928 - Anno VI 
+ 
+ Atti del Governo, registro 270, foglio 67. - Sirovich.
+

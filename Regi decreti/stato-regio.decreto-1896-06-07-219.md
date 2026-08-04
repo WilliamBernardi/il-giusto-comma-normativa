@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+data: 1896-06-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1896-06-07;219
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:57Z
+---
+
+REGIO DECRETO
+                07 giugno 1896
+                CCXIX
+                Che modifica la tariffa daziaria pel comune di Napoli. (9600219R)
+
+Entrata in vigore del provvedimento: 09/07/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

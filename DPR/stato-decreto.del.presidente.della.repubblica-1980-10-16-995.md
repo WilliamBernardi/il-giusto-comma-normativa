@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 995
+data: 1980-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-10-16;995
+codice_redazionale: 080U0995
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1980
+                995
+                Riconoscimento della personalita' giuridica dell'istituto "Missionarie del sacerdozio regale di Cristo", in Milano, ed autorizzazione allo stesso ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica dell'istituto "Missionarie del sacerdozio regale di Cristo", in Milano. L'istituto stesso viene, altresi', autorizzato ad accettare la donazione disposta dall'Opera diocesana per la preservazione e diffusione della Fede, in Milano, con atto pubblico 10 febbraio 1978, n. 47686 di repertorio, a rogito dott.
+ Carlo Locatelli, notaio in Milano, consistente in un villino, con annesso giardino, sito in Milano, via Pomponazzi, descritto nella perizia giurata 15-17 aprile 1975 del geom. Francesco Spiga e valutato in L. 306.000.000 dall'ufficio tecnico erariale di Milano, adibito a sede dell'ente.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 17 gennaio 1981
+ Registro n. 1 Interno, foglio n. 365
+

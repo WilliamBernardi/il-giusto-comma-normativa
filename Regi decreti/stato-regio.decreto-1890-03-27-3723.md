@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1890-03-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-03-27;3723
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:04Z
+---
+
+REGIO DECRETO
+                27 marzo 1890
+                MMMDCCXXIII
+                Che erige in corpo morale il ricovero di mendicita' in Mondovi', lo autorizza ad accettare alcuni capitali disposti a suo favore, e ne approva lo statuto. (9003723R)
+
+Entrata in vigore del provvedimento: 01/05/1890
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

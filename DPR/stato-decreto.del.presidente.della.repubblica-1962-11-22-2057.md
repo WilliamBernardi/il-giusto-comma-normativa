@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2057
+data: 1962-11-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-22;2057
+codice_redazionale: 062U2057
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 novembre 1962
+                2057
+                Modificazione al decreto del Presidente della Repubblica 24 febbraio 1960, n. 329, relativo alla destinazione per l'anno accademico 1961-62, dei trenta nuovi posti di professore di ruolo istituiti con l'art. 25 della legge 18 marzo 1958, n. 311.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto del Presidente della Repubblica 24 febbraio 1960, n. 329, con il quale sono stati assegnati alle varie Facolta' universitarie, con effetto dall'anno accademico 1961-62, i trenta nuovi posti di professore di ruolo istituiti, per l'anno medesimo, con la legge 18 marzo 1958, n. 311;
+ Visto il verbale dell'adunanza del 22 giugno 1962, nella quale la Facolta' di ingegneria dell'Universita' di Genova ha proposto che il posto di professore di ruolo assegnatole, con il citato decreto del Presidente della Repubblica 24 febbraio 1960, n. 329, per l'insegnamento di una disciplina del gruppo elettrotecnico, venga trasferito all'insegnamento di "Meccanica razionale";
+ Ritenuta l'opportunita', nel superiore interesse degli studi, dell'accoglimento della proposta della predetta Facolta' di ingegneria;
+ Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro;
+
+ Decreta:
+
+ Il decreto del Presidente della Repubblica 24 febbraio 1960, n. 329, e' parzialmente rettificato nel senso che alla Facolta' di ingegneria dell'Universita' di Genova viene assegnato con effetto dall'anno accademico 1961-62, ai sensi della legge 18 marzo 1958, n. 311, un posto di professore di ruolo per il gruppo di discipline sezione meccanica, anziche' per il gruppo di discipline elettrotecniche.
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 908
+data: 1914-08-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1914-08-16;908
+codice_redazionale: 014U0908
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:14Z
+---
+
+REGIO DECRETO
+                16 agosto 1914
+                908
+                Modificazione di zone di servitu' militari. (014U0908)
+
+Entrata in vigore del provvedimento: 16/09/1914
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

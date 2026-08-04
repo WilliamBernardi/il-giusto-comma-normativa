@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1075
+data: 1970-10-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-31;1075
+codice_redazionale: 070U1075
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 ottobre 1970
+                1075
+                Trasferimento di un posto di assistente di ruolo dalla cattedra di geologia della facolta' di scienze matematiche, fisiche e naturali dell'Universita' di Palermo alla cattedra di paleontologia della predetta facolta' dell'Universita' di Pavia.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto legislativo 7 maggio 1948, n. 1172, ratificato con la legge 24 giugno 1950, n. 465;
+ Visto il decreto ministeriale 1 luglio 1949, relativo alla ripartizione dei posti di ruolo di assistente, di tecnico e di ausiliario fra le varie facolta' e cattedre delle universita' e degli istituti di istruzione universitaria;
+ Visto il decreto ministeriale 2 luglio 1949, relativo alla ripartizione dei posti di ruolo di assistente, di tecnico e di ausiliario fra le varie facolta' e cattedre della Universita' di Palermo;
+ Visto il verbale della facolta' di scienze matematiche, fisiche e naturali della Universita' di Palermo, in data 30 maggio 1970, con il quale il predetto consesso ha proposto il trasferimento di un posto di assistente di ruolo dalla cattedra di geologia della predetta facolta' alla cattedra di paleontologia della facolta' di scienze matematiche, fisiche e naturali della Universita' di Pavia, a decorrere dal 1 novembre 1970;
+ Visto il verbale, in data 20 luglio 1970, con il quale il senato accademico del predetto ateneo ha espresso parere favorevole al citato trasferimento;
+ Visti i verbali, in data 25 settembre e 17 ottobre 1970 con i quali il consiglio della facolta' di scienze matematiche, fisiche e naturali nonche' il senato accademico della Universita' di Pavia hanno espresso parere favorevole al trasferimento stesso;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
+
+ Decreta:
+
+ A decorrere dal 1 novembre 1970, uno dei posti di assistente di ruolo, presentemente assegnati alla cattedra di geologia della facolta' di scienze matematiche, fisiche e naturali della Universita' di Palermo, e' trasferito alla cattedra di paleontologia della facolta' di scienze matematiche, fisiche e naturali della Universita' di Pavia.
+

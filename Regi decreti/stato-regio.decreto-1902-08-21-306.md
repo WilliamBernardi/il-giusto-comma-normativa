@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1902-08-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-08-21;306
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:41Z
+---
+
+REGIO DECRETO
+                21 agosto 1902
+                CCCVI
+                Col quale e' data facolta' al comune di Preci di applicare nell'anno 1902 la tassa sulle capre col limite massimo di lire 2.05 (due e centesimi cinque) (0200306R)
+
+Entrata in vigore del provvedimento: 30/09/1902
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

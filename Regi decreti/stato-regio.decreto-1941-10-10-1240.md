@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1240
+data: 1941-10-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1941-10-10;1240
+codice_redazionale: 041U1240
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:51Z
+---
+
+REGIO DECRETO
+                10 ottobre 1941
+                1240
+                Riconoscimento, agli effetti civili, della dissacrazione della Chiesa parrocchiale di San Michele Arcangelo in localita' Fiumata del comune di Petrella Salto (Rieti). (041U1240)
+
+Entrata in vigore del provvedimento: 05/12/1941
+
+## Art. 1.
+
+N.
+
+R. decreto 10 ottobre 1941, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Rieti in data 12 novembre 1940-XIX, relativo alla dissacrazione della Chiesa parrocchiale di San Michele Arcangelo in localita' Fiumata del comune di Petrella Salto (Rieti) e al trasferimento della sede della parrocchia nella nuova Chiesa, dallo stesso titolo, situata nella medesima localita'. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 13 novembre 1941-XX
+

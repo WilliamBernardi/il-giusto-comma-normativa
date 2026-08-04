@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1206
+data: 1863-04-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-04-04;1206
+codice_redazionale: 063U1206
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:50Z
+---
+
+REGIO DECRETO
+                04 aprile 1863
+                1206
+                Contenente disposizioni provvisorie relative alle Pratiche legali nelle Provincie Toscane. (063U1206)
+
+Entrata in vigore del provvedimento: 28/04/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

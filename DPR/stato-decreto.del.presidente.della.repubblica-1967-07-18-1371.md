@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1371
+data: 1967-07-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-18;1371
+codice_redazionale: 067U1371
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 luglio 1967
+                1371
+                Autorizzazione alla Scuola normale superiore di Pisa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 settembre 1967, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola normale superiore di Pisa viene autorizzata ad accettare la donazione disposta dal conte dott. ing. Lorenzo Passerini, consistente in un immobile sito in Cortona, denominato "Il Palazzone", compresi l'arredamento, i quadri e la biblioteca ivi esistenti, del valore complessivo di L. 309.100.000.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 25 gennaio 1968
+ Atti del Governo, registro n. 217, foglio n. 15. - GRECO
+

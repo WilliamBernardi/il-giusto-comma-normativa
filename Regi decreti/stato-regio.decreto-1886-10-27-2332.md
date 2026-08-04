@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1886-10-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1886-10-27;2332
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:21Z
+---
+
+REGIO DECRETO
+                27 ottobre 1886
+                MMCCCXXXII
+                Che erige in ente morale l'opera pia istituita dai signori Luigi Della Minola e conte Guido Borromeo Arese a beneficio dei (8602332R)
+
+Entrata in vigore del provvedimento: 11/12/1886
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

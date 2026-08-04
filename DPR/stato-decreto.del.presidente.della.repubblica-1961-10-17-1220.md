@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1220
+data: 1961-10-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-17;1220
+codice_redazionale: 061U1220
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 ottobre 1961
+                1220
+                Autorizzazione all'Unione italiana dei ciechi ad acquistare un immobile, sito in Salerno, via Indipendenza n. 8.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 17 ottobre 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, viene autorizzata ad acquistare dai coniugi Capone Goffredo e Schito Camilla Beatrice, per il prezzo di L. 2.500.000, come da atto a rogito dott. Filippo Lomonaco notaio in Castellabate (iscritto al Collegio notarile dei distretti riuniti in Salerno e Vallo della Lucania), in data 2 giugno 1955, n. 983 di rep., n. 475 di raccolta, un immobile costituito da un appartamento sito in Salerno, via Indipendenza n. 8, primo piano da adibire a sede della Sezione salernitano-lucana della predetta Unione.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 novembre 1961
+ Atti del Governo, registro n. 142, foglio n. 43. - VILLA
+

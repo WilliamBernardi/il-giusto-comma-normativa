@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2198
+data: 1939-12-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-12-22;2198
+codice_redazionale: 039U2198
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:01Z
+---
+
+REGIO DECRETO
+                22 dicembre 1939
+                2198
+                Erezione in ente morale della Cassa scolastica del Regio Istituto magistrale di Casale Monferrato. (039U2198)
+
+Entrata in vigore del provvedimento: 08/03/1940
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

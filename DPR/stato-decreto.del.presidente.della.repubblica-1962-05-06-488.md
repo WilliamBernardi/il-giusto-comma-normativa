@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 488
+data: 1962-05-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-06;488
+codice_redazionale: 062U0488
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 maggio 1962
+                488
+                Riconoscimento, agli effetti civili, del trasferimento della sede della parrocchia di San Vittore di Ascoli Piceno dalla Chiesa omonima nella Chiesa del Carmine nello stesso Comune.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 maggio 1962, col quale; sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Ascoli Piceno in data 21 novembre 1961, relativo al trasferimento della sede della parrocchia di San Vittore di Ascoli Piceno dalla Chiesa omonima nella Chiesa del Carmine nello stesso Comune.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 12 giugno 1962
+ Atti del Governo, registro n. 159, foglio n. 64. - VILLA
+

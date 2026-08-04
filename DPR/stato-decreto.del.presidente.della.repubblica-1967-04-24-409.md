@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 409
+data: 1967-04-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-04-24;409
+codice_redazionale: 067U0409
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 aprile 1967
+                409
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia del SS. Marco e Vito, nel comune di Sessa Aurunca (Caserta).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 aprile 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Sessa Aurunca in data 1 agosto 1966, relativo alla erezione della Parrocchia dei SS. Marco e Vito, in frazione Cellole del comune di Sessa Aurunca (Caserta).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 giugno 1967
+ Atti del Governo, registro n. 211, foglio n. 104. - GRECO
+

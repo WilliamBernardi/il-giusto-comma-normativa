@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 470
+data: 1977-06-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-06-06;470
+codice_redazionale: 077U0470
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 giugno 1977
+                470
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di "Gesu' nostra riconciliazione", in Rimini.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 giugno 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Rimini 1 giugno 1975, integrato con dichiarazione di pari data, relativo all'erezione della parrocchia di "Gesu' nostra riconciliazione", in Rimini (Forli).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 25 luglio 1977
+ Registro n. 17 Interno, foglio n. 140
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1401
+data: 1954-10-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-18;1401
+codice_redazionale: 054U1401
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 ottobre 1954
+                1401
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Sant'Andrea Apostolo, in localita' Gnocca del comune di Porto Tolle (Rovigo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 ottobre 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Chioggia in data 12 settembre 1947, integrato con dichiarazione 1 luglio 1953, relativo alla erezione della parrocchia di Sant'Andrea Apostolo, in localita' Gnocca del comune di Porto Tolle (Rovigo), ed il Beneficio della parrocchia medesima viene autorizzato ad accettare una donazione disposta da Guglielmo Bolandin.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 21 febbraio 1955
+ Atti del Governo, registro n. 88, foglio n. 168. - CARLOMAGNO
+

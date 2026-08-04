@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1885-03-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-03-29;1664
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:50Z
+---
+
+REGIO DECRETO
+                29 marzo 1885
+                MDCLXIV
+                Che erige in corpo morale l'opera pia Premi Zaccaria fondata nel comune di Bordolano, e ne approva lo statuto. (8501664R)
+
+Entrata in vigore del provvedimento: 27/05/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

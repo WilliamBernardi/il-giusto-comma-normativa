@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 796
+data: 1955-07-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-07-15;796
+codice_redazionale: 055U0796
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 luglio 1955
+                796
+                Riconoscimento della personalita' giuridica del Monastero delle Carmelitane di Marcianise, in Marcianise (Caserta).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 luglio 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero delle Carmelitane di Marcianise, in Marcianise (Caserta).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 29 agosto 1955
+ Atti del Governo, registro n. 92, foglio n. 127 - CARLOMAGNO
+

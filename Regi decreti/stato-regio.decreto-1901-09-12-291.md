@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1901-09-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1901-09-12;291
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:48Z
+---
+
+REGIO DECRETO
+                12 settembre 1901
+                CCXCI
+                Che approva lo statuto della societa' nazionale di mutuo soccorso fra gl'impiegati in Milano. (0100291R)
+
+Entrata in vigore del provvedimento: 22/10/1901
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

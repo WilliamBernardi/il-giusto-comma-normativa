@@ -1,0 +1,77 @@
+---
+tipo: DECRETO-LEGGE
+numero: 134
+data: 1991-04-22
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1991-04-22;134
+codice_redazionale: 091G0173
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1991-11-14
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                22 aprile 1991
+                134
+                 Interventi urgenti per Venezia e Chioggia e per Roma capitale, nonche' misure urgenti destinate ad altre aree del territorio nazionale.
+
+Entrata in vigore del decreto: 23/4/1991.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 8 NOVEMBRE 1991, N. 360
+

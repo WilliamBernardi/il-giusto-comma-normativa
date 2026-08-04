@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1656
+data: 1922-11-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-11-30;1656
+codice_redazionale: 022U1656
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:25Z
+---
+
+REGIO DECRETO
+                30 novembre 1922
+                1656
+                Autorizzazione a riscuotere un dazio proprio. (022U1656)
+
+Entrata in vigore del provvedimento: 19/01/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

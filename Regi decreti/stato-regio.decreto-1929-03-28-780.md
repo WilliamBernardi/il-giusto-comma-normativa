@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 780
+data: 1929-03-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-03-28;780
+codice_redazionale: 029U0780
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:37Z
+---
+
+REGIO DECRETO
+                28 marzo 1929
+                780
+                Riunione dei comuni di Spadafora San Martino, Valdina e Venetico in un unico Comune con denominazione e capoluogo « Spadafora ». (029U0780)
+
+Entrata in vigore del provvedimento: 13/06/1929
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

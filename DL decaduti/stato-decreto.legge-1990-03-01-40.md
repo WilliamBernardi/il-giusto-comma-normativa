@@ -1,0 +1,87 @@
+---
+tipo: DECRETO-LEGGE
+numero: 40
+data: 1990-03-01
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1990-03-01;40
+codice_redazionale: 090G0077
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1990-06-28
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                01 marzo 1990
+                40
+                 Disposizioni in materia di determinazione del reddito ai fini delle imposte sui redditi, di rimborsi dell'imposta sul valore aggiunto e di contenzioso tributario, nonche' altre disposizioni urgenti.
+
+Entrata in vigore del decreto: 1/3/1990.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 12.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+
+## Art. 13.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 26 GIUGNO 1990 N. 165
+

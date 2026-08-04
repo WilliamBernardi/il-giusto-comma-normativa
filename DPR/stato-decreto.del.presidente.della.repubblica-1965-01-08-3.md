@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 3
+data: 1965-01-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-01-08;3
+codice_redazionale: 065U0003
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 gennaio 1965
+                3
+                Trasferimento alla Facolta' medica dell'Universita' di Roma per l'insegnamento di Neuropsichiatria infantile del posto gia' assegnato alla Facolta' di economia e commercio dell'Universita' di Bari per l'insegnamento di Tecnica delle ricerche di mercato.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto del Presidente della Repubblica 31 marzo 1962, n. 140, con il quale sono stati assegnati alle varie Facolta' universitarie, con effetto dall'anno accademico 1962-63, novantatre dei cento nuovi posti di professore di ruolo istituiti con effetto dall'anno accademico medesimo, con la legge 26 gennaio 19162, n. 17;
+ Ritenuta l'opportunita', nel superiore interesse degli studi di attribuire alla Facolta' di medicina e chirurgia dell'Universita' di Roma, per l'insegnamento di Neuropsichiatria infantile, il posto di professore di ruolo gia' assegnato, con il citato decreto dei Presidente della Repubblica 31 marzo 1962, n. 140, per l'insegnamento di Tecnica delle ricerche di mercato, alla Facolta' di economia e commercio dell'Universita' di Bari;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Il decreto del Presidente della Repubblica 31 marzo 1962, n. 140, e' parzialmente rettificato nel senso che il posto gia' assegnato alla Facolta' di economia e commercio dell'Universita' di Bari, per l'insegnamento di Tecnica delle ricerche di mercato, e' attribuito alla Facolta' di medicina e chirurgia dell'Universita' di Roma per l'insegnamento di Neuropsichiatria infantile.
+

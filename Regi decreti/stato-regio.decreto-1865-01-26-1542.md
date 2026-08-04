@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1865-01-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1865-01-26;1542
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:12Z
+---
+
+REGIO DECRETO
+                26 gennaio 1865
+                MDXLII
+                Che approva il regolamento di polizia rurale della Comunita' di Lercara, Provincia di Palermo, in data del 18 dicembre 1864. (6501542R)
+
+Entrata in vigore del provvedimento: 26/01/1865
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

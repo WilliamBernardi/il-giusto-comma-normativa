@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 680
+data: 1973-06-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-06-11;680
+codice_redazionale: 073U0680
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 giugno 1973
+                680
+                Autorizzazione all'Associazione italiana della croce rossa ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 giugno 1973, col quale, sulla proposta del Ministro per la sanita', l'Associazione italiana della croce rossa viene autorizzata ad accettare il legato di L. 1.000.000, disposto dal dott. Bruno Pertici con testamento olografo, pubblicato il 2 maggio 1970, n. 16893 di rep. a rogito notaio Vincenzo Tavassi di Certaldo, a favore del sottocomitato C.R.I. di Certaldo.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 7 novembre 1973
+ Atti di Governo, registro n. 262, foglio n. 12. - VALENTINI
+

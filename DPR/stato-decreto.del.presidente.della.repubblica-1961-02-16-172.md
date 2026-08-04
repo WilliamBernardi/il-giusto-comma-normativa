@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 172
+data: 1961-02-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-16;172
+codice_redazionale: 061U0172
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 febbraio 1961
+                172
+                Autorizzazione alla "Fondazione Pro Juventute Don Carlo Gnocchi" ad accettare un legato disposto dal defunto sig. Angelo Restelli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 febbraio 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato disposto dal defunto signor Angelo Restelli - con testamento olografo del 25 luglio 1956, pubblicato per atto a rogito notaio dottor Giuseppe Piccaluga, da Carate Brianza (iscritto nel Collegio notarile di Milano), in data 5 dicembre 1959, n. 58206 di rep., n. 12803 di racc. a favore della Fondazione stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 marzo 1961
+ Atti del Governo, registro n. 135, foglio n. 103. - VILLA
+

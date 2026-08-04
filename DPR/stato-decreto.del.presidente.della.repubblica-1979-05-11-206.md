@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 206
+data: 1979-05-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-05-11;206
+codice_redazionale: 079U0206
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 maggio 1979
+                206
+                Rettifica al decreto del Presidente della Repubblica 26 gennaio 1979, n. 71, concernente il riconoscimento della personalita' giuridica dell'associazione laicale o pia unione "Missione Chiesa-Mondo", in Catania.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro dell'interno, l'art. 3 del decreto del Presidente della Repubblica 26 gennaio 1979, n. 71, concernente il riconoscimento della personalita' giuridica dell'associazione laicale o pia unione denominata "Missione Chiesa-Mondo", in Catania, viene sostituito nel senso che l'ente viene autorizzato ad accettare, oltre la donazione disposta in suo favore dal sac. Antonino Fallico con atto pubblico 25 ottobre 1976, n. 2290 di repertorio, a rogito dott. Vincenzo Ciancico, notaio in Catania, la donazione disposta dalla sig.na Dorotea Merletta, con atto pubblico 23 ottobre 1978, n. 66419 di repertorio, a rogito dott. Arcangelo Quattrocchi, notaio in Catania, anziche' con atto 5 agosto 1977, n. 66033 di repertorio, a rogito stesso notaio Quattrocchi.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 12 giugno 1979
+ Registro n. 12 Interno, foglio n. 83
+

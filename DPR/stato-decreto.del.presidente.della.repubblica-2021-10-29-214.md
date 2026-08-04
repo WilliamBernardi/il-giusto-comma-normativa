@@ -1,0 +1,93 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 214
+data: 2021-10-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2021-10-29;214
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2024-01-12
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 ottobre 2021
+                214
+                Regolamento recante norme per l'organizzazione e il funzionamento degli uffici dell'Avvocatura dello Stato. (21G00237)
+
+Entrata in vigore del provvedimento: 01/01/2022
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 29 NOVEMBRE 2023, N. 210))
+
+
+

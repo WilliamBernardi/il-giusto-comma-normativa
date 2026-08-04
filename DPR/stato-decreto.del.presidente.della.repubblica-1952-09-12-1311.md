@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1311
+data: 1952-09-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-09-12;1311
+codice_redazionale: 052U1311
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 settembre 1952
+                1311
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe, in contrada "Fulgatore" del comune di Trapani.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 settembre 1952, col quale, sulla proposta del Ministro ad interim per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trapani in data 1 gennaio 1950, integrato con postilla 7 marzo 1952, relativo alla erezione della parrocchia di San Giuseppe, in contrada "Fulgatore" del comune di Trapani.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 10 ottobre 1952
+ Atti del Governo, registro n. 58, foglio n. 73. - FRASCA
+

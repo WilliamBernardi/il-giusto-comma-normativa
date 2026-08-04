@@ -1,0 +1,82 @@
+---
+tipo: DECRETO-LEGGE
+numero: 545
+data: 1994-09-19
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1994-09-19;545
+codice_redazionale: 094G0585
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1995-01-05
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                19 settembre 1994
+                545
+                 Norme di interpretazione e di modificazione del decretolegge 19 dicembre 1992, n. 487, convertito, con modificazioni, dalla legge 17 febbraio 1993, n. 33, e successive integrazioni, concernente la soppressione dell' EFIM.
+
+Entrata in vigore del decreto: 22-9-94.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+
+## Art. 12.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 27 DICEMBRE 1994, N. 738
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1894-08-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1894-08-03;545
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:59Z
+---
+
+REGIO DECRETO
+                03 agosto 1894
+                DXLV
+                Che modifica in alcune parti lo statuto organico dell'opera pia Brignole Sale in Voltri. (9400545R)
+
+Entrata in vigore del provvedimento: 20/01/1895
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

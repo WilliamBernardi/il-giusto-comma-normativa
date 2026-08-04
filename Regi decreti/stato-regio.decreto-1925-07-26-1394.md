@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1394
+data: 1925-07-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1925-07-26;1394
+codice_redazionale: 025U1394
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:11Z
+---
+
+REGIO DECRETO
+                26 luglio 1925
+                1394
+                Dipendenza e ripartizione in uffici dello Stato Maggiore del Regio esercito. (025U1394)
+
+Entrata in vigore del provvedimento: 04/09/1925
+
+## Art. 1.
+
+N.
+
+R. decreto 26 luglio 1925, con il quale, su proposta del Presidente del Consiglio dei Ministri, Ministro ad interim per la guerra, sono stabilite la dipendenza e la ripartizione in uffici dello Stato Maggiore del Regio esercito, nonche' le attribuzioni particolari degli uffici stessi. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 19 agosto 1925.
+

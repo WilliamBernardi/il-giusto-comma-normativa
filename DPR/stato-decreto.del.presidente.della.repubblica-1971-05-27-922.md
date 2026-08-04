@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 922
+data: 1971-05-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-05-27;922
+codice_redazionale: 071U0922
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 maggio 1971
+                922
+                Riconoscimento della personalita' giuridica dell'associazione "A.F.S.A.I. (American Field Service Associazione italiana) - Borse di studio internazionali", con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 maggio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione denominata "A.F.S.A.I. (American Field Service Associazione italiana - Borse di studio internazionali", con sede in Roma.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 12 novembre 1971
+ Atti del Governo, registro n. 245, foglio n. 27. - CARUSO
+

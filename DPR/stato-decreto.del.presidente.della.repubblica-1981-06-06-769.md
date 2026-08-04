@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 769
+data: 1981-06-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-06-06;769
+codice_redazionale: 081U0769
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 giugno 1981
+                769
+                Autorizzazione all'Ente nazionale ACLI per l'istruzione professionale, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 giugno 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, l'Ente nazionale ACLI per l'istruzione professionale (ENAIP), in Roma, viene autorizzato ad acquistare, al prezzo di L. 45.000.000, un appartamento al piano terreno di complessivi vani nove, sito in Genova, salita S. Brigida, n. 8/1, censito al nuovo catasto edilizio urbano alla cat. 110873, sezione G.C.A., foglio n. 79, mappale 359-sub 15 di proprieta' della societa' semplice "S.
+ Giuseppe lavoratore", in Genova, come da atto di compravendita 1 aprile 1977, n. 126469/29520 di repertorio, a rogito dott. Giuseppe Intersimone, notaio in Roma, registrato a Roma in data 12 aprile 1977, da adibire a sede per gli uffici regionali dell'ente in Liguria operanti per la formazione professionale.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 16 dicembre 1981
+ Registro n. 1 Lavoro, foglio n. 163
+

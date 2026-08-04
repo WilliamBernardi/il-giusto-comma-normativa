@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 191
+data: 1970-03-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-03-11;191
+codice_redazionale: 070U0191
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 marzo 1970
+                191
+                Autorizzazione all'Istituto universitario di architettura di Venezia ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 marzo 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto universitario di architettura di Venezia viene autorizzato ad accettare la donazione del complesso immobiliare denominato "ex convento delle Terese", sito in Venezia, sestiere Dorsoduro, S. Marta, disposta dalla giunta municipale di Venezia con le deliberazioni dell'8 marzo e 2 aprile 1968, il cui valore e' stato valutato in lire 220.000.000.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 aprile 1970
+ Atti del Governo, registro n. 234, foglio n. 198. - CARUSO
+

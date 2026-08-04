@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1501
+data: 1954-12-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-12-24;1501
+codice_redazionale: 054U1501
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 dicembre 1954
+                1501
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Domenico, in comune di Bisceglie (Bari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Bisceglie in data 6 gennaio 1954, integrato con dichiarazione ed attestazione entrambe in data 7 agosto 1954, relativo all'erezione della parrocchia di San Domenico, in comune di Bisceglie (Bari) e viene riconosciuta la personalita' giuridica della, chiesa omonima, sede della parrocchia.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 10 marzo 1955
+ Atti del Governo, registro n. 89, foglio n. 77. - CARLOMAGNO
+

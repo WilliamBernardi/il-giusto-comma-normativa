@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 375
+data: 1928-02-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-02-26;375
+codice_redazionale: 028U0375
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:49Z
+---
+
+REGIO DECRETO
+                26 febbraio 1928
+                375
+                Assegnazione del posto di ufficiale d'ordine calligrafo della Consulta araldica ai ruoli del personale della Presidenza del Consiglio del Ministri. (028U0375)
+
+Entrata in vigore del provvedimento: 25/03/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

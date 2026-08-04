@@ -1,0 +1,182 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 111
+data: 2004-04-01
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2004-04-01;111
+codice_redazionale: 004G0142
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2025-02-18
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:29Z
+---
+
+DECRETO LEGISLATIVO
+                01 aprile 2004
+                111
+                Norme di attuazione dello statuto speciale della regione Friuli-Venezia Giulia concernenti il trasferimento di funzioni in materia di viabilita' e trasporti.
+
+Entrata in vigore del decreto: 19-5-2004
+
+Sentita la Commissione paritetica prevista dall'articolo 65 dello statuto speciale;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per gli affari regionali, di concerto con i Ministri delle infrastrutture e dei trasporti, dell'economia e delle finanze e per la funzione pubblica;
+
+## Art. 1. — Funzioni trasferite in materia di viabilita'
+
+Sono trasferite alla Regione, in base all'articolo 4, primo comma, n. 9), e all'articolo 8 dello statuto, tutte le funzioni amministrative in materia di pianificazione, di programmazione, di progettazione, di esecuzione, di manutenzione, di gestione, di nuova costruzione o di miglioramento, nonche' vigilanza delle reti stradali regionale e nazionale ricadenti sul territorio regionale come individuate, rispettivamente, negli elenchi allegati sub A) e B), fatto salvo quanto previsto all'articolo 2, comma 3, lettera f).
+
+## Art. 2. — Funzioni statali in materia di viabilita'
+
+
+
+Le funzioni concernenti la pianificazione e programmazione delle grandi opere relative alla rete autostradale e ai trafori sono esercitate sulla base di intese generali quadro con la Regione.
+
+## Art. 3. — Rete stradale nazionale
+
+Ai sensi dell'articolo 3, comma 1, del decreto legislativo 29 ottobre 1999, n. 461, e successive modificazioni, la rete stradale di interesse nazionale di cui alla tabella allegata al decreto legislativo 29 ottobre 1999, n. 461, relativa alla Regione autonoma Friuli-Venezia Giulia, come sostituita dal decreto del Presidente del Consiglio dei Ministri in data 21 settembre 2001, pubblicato nella Gazzetta Ufficiale n. 226 del 28 settembre 2001, recante: «Modifiche al decreto legislativo 29 ottobre 1999, n. 461, che individua la rete autostradale e stradale nazionale, in attuazione dell'articolo 20 della legge 24 novembre 2000, n. 340», viene rideterminata come risultante negli elenchi allegati sub B) e C).
+
+## Art. 4. — Trasferimento delle strade di interesse regionale
+
+Sono trasferiti al demanio della Regione le strade ed i tronchi di strade, gia' appartenenti al demanio statale ai sensi dell'articolo 822 del codice civile, indicati nell'elenco allegato sub A), con le pertinenze e gli accessori relativi, incluse le case cantoniere non dismesse, a norma dell'articolo 44, comma 5, della legge 27 dicembre 1997, n. 449, nello stato di fatto e di diritto in cui si trovano alla data di consegna, a condizione che ne siano accertati funzionalita' e ordinario stato di manutenzione.
+
+Con successive norme di attuazione, ai sensi dell'articolo 3, comma 1, del decreto legislativo 29 ottobre 1999, n. 461, potranno essere modificati gli elenchi allegati sub A), B) e C), con i relativi beni e risorse strumentali, finanziarie, umane ed organizzative.
+
+La Regione puo' trasferire i beni di cui al comma 1 al demanio degli enti locali.
+
+Il trasferimento dei beni di cui al comma 1 decorre dalla data della consegna. Fino al predetto termine, restano affidati all'ANAS S.p.a. i compiti e le funzioni svolti sulla rete stradale gia' di competenza dello stesso ente.
+
+Ai fini della declassificazione delle strade statali, il trasferimento previsto al comma 1 produce gli effetti giuridici dei provvedimenti adottati ai sensi dell'articolo 3, comma 2, del regolamento emanato con il decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, e successive modificazioni, con la decorrenza di cui al comma 4.
+
+Restano di proprieta' dei comuni i tratti interni delle strade previste al comma 1 aventi le caratteristiche indicate dall'articolo 2, comma 2, lettere d), e) ed f) del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni, attraversanti i centri abitati con popolazione superiore ai diecimila abitanti.
+
+## Art. 5. — Operazioni di consegna
+
+La filiale dell'Agenzia del demanio di Udine, entro sei mesi dalla data di decorrenza dell'efficacia del presente decreto, con l'intervento dei rappresentanti dell'ANAS S.p.a., provvede alla consegna alla Regione dei beni di cui all'articolo 4 per mezzo della redazione dei relativi verbali.
+
+I verbali di consegna costituiscono titolo per la trascrizione, l'intavolazione e la voltura catastale a favore della Regione dei beni trasferiti.
+
+Qualora in sede di consegna non sia accertata la funzionalita' e l'ordinario stato di manutenzione dei beni di cui all'articolo 4, comma 1, la competente amministrazione statale sara' tenuta a provvedervi ovvero a riconoscere all'amministrazione regionale il costo dei lavori necessari al ripristino della funzionalita' e ordinario stato di manutenzione.
+
+L'accertamento di cui al comma 3 e' demandato a specifica commissione tecnica paritetica di designazione ministeriale e regionale.
+
+## Art. 6. — Successione nei rapporti giuridici
+
+La Regione subentra, dalla data della consegna, in tutti i rapporti attivi e passivi inerenti ai beni trasferiti. Dalla stessa data spettano alla Regione i proventi e le spese derivanti dalla gestione dei beni trasferiti, ivi compresi quelli relativi agli indennizzi di usura previsti dall'articolo 34 del decreto legislativo 30 aprile 1992, n. 285, e successive modificazioni.
+
+L'ANAS S.p.a. provvede, a proprie spese, all'ultimazione dei lavori gia' appaltati sulle strade trasferite che, alla data di decorrenza dell'efficacia del presente decreto, abbiano gia' comportato impegno contabile di spesa.
+
+Restano in capo all'ANAS S.p.a. gli oneri relativi alle liti pendenti alla data di consegna dei beni ed a quelli originanti da fatti accaduti antecedentemente alla data di consegna.
+
+In relazione alle funzioni relative alla rete stradale individuata nell'elenco allegato sub B), la Regione succede allo Stato ed all'ANAS S.p.a. nei rapporti giuridici in atto con i terzi alla data di cessazione dell'avvalimento di cui all'articolo 7, comma 4.
+
+## Art. 7. — Funzioni del Compartimento dell'ANAS S.p.a.
+ del Friuli-Venezia Giulia
+
+Le funzioni previste dal presente decreto in capo all'ANAS S.p.a. sono dallo stesso esercitate attraverso l'attuale Compartimento ovvero attraverso altra struttura autonoma per il Friuli-Venezia Giulia con sede in Trieste.
+
+Il personale dell'ente di cui al comma 1 e' trasferito in numero di 160 unita' suddivise per categoria, secondo quanto previsto nella tabella allegata sub D). L'individuazione del personale da trasferire avviene secondo le procedure di cui al decreto del Presidente del Consiglio dei Ministri 22 dicembre 2000, n. 448, da avviarsi entro quindici giorni dalla data di entrata in vigore della legge regionale di riordino e di attribuzione delle funzioni in materia di viabilita' di cui al presente decreto, da adottarsi ((entro il 31 dicembre 2007)).
+
+Qualora non si provveda all'adozione della legge regionale di cui al comma 2 entro il termine previsto, il personale e' comunque trasferito alla Regione; in tale caso le procedure di cui al decreto del Presidente del Consiglio dei Ministri 22 dicembre 2000, n. 448, sono avviate ((entro il 15 gennaio 2008)).
+
+La Regione si avvale per lo svolgimento delle funzioni in materia di viabilita' di cui al presente decreto, dell'ente di cui al comma 1, secondo i criteri e le modalita' definiti convenzionalmente con quest'ultimo, fino al completamento delle procedure di cui al decreto del Presidente del Consiglio dei Ministri 22 dicembre 2000, n. 448.
+
+La determinazione della partecipazione erariale relativa al trasferimento del personale di cui al presente articolo fara' comunque riferimento al numero di unita' individuate al comma 2.
+
+## Art. 8. — Beni del Compartimento dell'ANAS S.p.a.
+ del Friuli-Venezia Giulia
+
+In deroga a quanto disposto dall'articolo 3, commi 115 e seguenti, della legge 23 dicembre 1996, n. 662, i beni immobili, nonche' i beni mobili registrati e gli altri beni mobili e attrezzature come individuati nella tabella allegata sub E), esistenti nel territorio regionale e strumentali all'esercizio delle funzioni attribuite alla Regione, sono trasferiti in proprieta' alla stessa a decorrere dalla data di consegna di cui al comma 3.
+
+Le case cantoniere riferibili alla viabilita' di cui all'elenco allegato sub B), non dismesse a norma dell'articolo 44, comma 5, della legge 27 dicembre 1997, n. 449, sono messe a disposizione dell'amministrazione regionale per l'esercizio delle funzioni trasferite.
+
+Entro tre mesi dalla data di entrata in vigore della legge regionale di cui all'articolo 7, comma 2, e comunque ((entro il 31 marzo 2008)), qualora non si provveda all'adozione della stessa nel termine ivi previsto, la filiale dell'Agenzia del demanio di Udine, con l'intervento dei rappresentanti dell'ANAS S.p.a. provvede alla consegna alla Regione dei beni di cui al comma 1 per mezzo della redazione dei relativi verbali.
+
+I verbali di consegna costituiscono titolo per la trascrizione, l'intavolazione e la voltura catastale a favore della Regione dei beni trasferiti.
+
+Per i beni oggetto del presente articolo trova applicazione la previsione di cui all'articolo 5, comma 3.
+
+Il mancato trasferimento, anche parziale, dei beni di cui al comma 1 sara' economicamente riconosciuto alla Regione.
+
+Restano in capo all'ANAS S.p.a. gli oneri relativi alle liti pendenti alla data di consegna dei beni ed a quelli originanti da fatti accaduti antecedentemente alla data di consegna.
+
+## Art. 9. — Funzioni amministrative in materia di trasporti
+
+Sono trasferite alla Regione, in base agli articoli 4, 5 e 8 dello Statuto, tutte le funzioni di programmazione ed amministrative in materia di servizi pubblici di trasporto di interesse regionale e locale con qualsiasi modalita' di trasporto effettuate, salvo quelle proprie dello Stato ai sensi dell'articolo 11.
+
+Sono trasferite alla Regione, in base agli articoli 4, 5 e 8 dello Statuto, tutte le funzioni amministrative, salvo quelle espressamente mantenute allo Stato dall'articolo 11, in materia di trasporto merci, motorizzazione e circolazione su strada, navigazione interna e porti regionali, comprese le funzioni relative alle concessioni dei beni del demanio della navigazione interna, del demanio marittimo, di zone del mare territoriale per finalita' diverse da quelle di approvvigionamento energetico. Tale conferimento non opera nei porti finalizzati alla difesa militare ed alla sicurezza dello Stato, nei porti di rilevanza economica internazionale e nazionale, nonche' nelle aree di preminente interesse nazionale individuate con il decreto del Presidente del Consiglio del Ministri in data 21 dicembre 1995, pubblicato nella Gazzetta Ufficiale n. 136 del 12 giugno 1996, e successive modificazioni. L'individuazione delle aree dei porti, diverse da quelle per le quali e' operato il conferimento alla Regione dal presente decreto, e' effettuata ai sensi dell'articolo 11, comma 2.
+
+Per l'esercizio delle funzioni di cui al comma 3, lettere c) e d), la Regione puo' avvalersi delle Capitanerie di porto, secondo i criteri e le modalita' definiti convenzionalmente tra la Regione e queste ultime.
+
+I proventi e le spese derivanti dalla gestione del demanio marittimo e della navigazione interna, per la parte non gia' trasferita con il decreto legislativo 25 maggio 2001, n. 265, nonche' dall'esercizio delle funzioni in materia di motorizzazione e circolazione su strada, spettano alla Regione dalla data di decorrenza dell'efficacia del presente decreto.
+
+In relazione al trasporto ferroviario, il soggetto gestore dell'infrastruttura ferroviaria, nella ripartizione della capacita' di infrastruttura, da' priorita' ai servizi di trasporto, quantitativamente e qualitativamente necessari a soddisfare la mobilita' dei cittadini, disciplinati dai contratti di servizio da stipulare tra le imprese ferroviarie e la Regione.
+
+Dei servizi di trasporto ferroviario interregionale tra le Regioni Friuli-Venezia Giulia e Veneto sono attribuiti alla Regione Friuli-Venezia Giulia quelli individuati sulla base di un'intesa tra il Ministero delle infrastrutture e dei trasporti e le citate Regioni, che tenga conto della prevalenza dei viaggiatori per chilometro sulle origini/destinazioni esclusivamente dell'utenza ferroviaria interregionale, ovvero dell'esistenza di coincidenze nel nodo di Mestre-Venezia con ulteriori treni di lunga percorrenza, per il collegamento della Regione Friuli-Venezia Giulia con il resto del territorio nazionale. Fino alla definizione della citata intesa i servizi interregionali continuano ad essere disciplinati dal contratto di servizio nazionale.
+
+Nei servizi ferroviari di interesse regionale e locale, nonche' in quelli di cui al comma 7, sono ricompresi quelli disciplinati dai contratti di servizio in essere alla data di entrata in vigore del presente decreto.
+
+Con accordo di programma da stipularsi tra il Ministero delle infrastrutture e dei trasporti, il Ministero dell'economia e delle finanze e la Regione vengono indicati i servizi ferroviari trasferiti ai sensi del presente decreto e vengono conseguentemente quantificate le risorse finanziarie, umane, strumentali ed organizzative necessarie a garantirne un livello di erogazione almeno pari a quello delle Regioni contermini. Con il medesimo, o con altro accordo, qualora utile alla piu' sollecita definizione del trasferimento di cui all'articolo 10, vengono altresi' quantificate le risorse relative a tale trasferimento.
+
+Al fine di garantire comunque il miglior livello dei servizi ferroviari trasferiti con il presente decreto, il Ministero delle infrastrutture e dei trasporti ed il Ministero dell'economia e delle finanze stipulano, altresi', con la Regione specifici accordi di programma disciplinanti i miglioramenti quantitativi e qualitativi da apportare agli stessi, nonche' i conseguenti maggiori oneri necessari alla loro realizzazione.
+
+Nella determinazione del corrispettivo per il complesso delle prestazioni fornite dal gestore dell'infrastruttura ferroviaria, ivi compresa la fruizione dell'infrastruttura medesima, insistente sul territorio della Regione, alle imprese esercenti i servizi ferroviari di cui al comma 8, si tiene conto degli oneri assunti per il miglioramento dell'infrastruttura stessa dalla Regione mediante convenzione.
+
+## Art. 10. — Trasferimento della ferrovia Udine-Cividale
+
+Dalla data di consegna, da effettuarsi con le medesime procedure di cui all'articolo 5 da parte del Dipartimento per i trasporti terrestri del Ministero delle infrastrutture e dei trasporti entro sei mesi dalla data di decorrenza dell'efficacia del presente decreto, sono trasferiti a titolo gratuito dal demanio e patrimonio disponibile e indisponibile dello Stato al demanio e patrimonio disponibile e indisponibile della Regione i beni, gli impianti e le infrastrutture della ferrovia Udine-Cividale, gia' in gestione commissariale governativa, compreso il relativo ramo d'azienda.
+
+Fino alla data della consegna di cui al comma 1 restano attribuite al Dipartimento per i trasporti terrestri del Ministero delle infrastrutture e dei trasporti le competenze e le funzioni gia' svolte sui beni, impianti ed infrastrutture di cui al comma 1.
+
+La titolarita' delle autorizzazioni e licenze ministeriali, gia' rilasciate a favore della Ferrovie Venete S.r.l., per la parte relativa al ramo d'azienda Udine-Cividale, si intende automaticamente trasferita a decorrere dalla data di entrata in vigore del presente decreto al soggetto individuato dalla Regione.
+
+In funzione del trasferimento di titolarita' di cui al comma 3, con la medesima decorrenza ivi indicata e ((fino al 31 dicembre 2007)), nel contratto di servizio in essere tra il Ministero delle infrastrutture e dei trasporti e la Ferrovie Venete S.r.l., per la parte relativa al ramo d'azienda Udine-Cividale, subentra il soggetto individuato dalla Regione e sono conseguentemente messi a disposizione di quest'ultimo i relativi beni, organizzazione e personale.
+
+Dalla data di decorrenza dell'efficacia del presente decreto la Regione subentra nei rapporti contrattuali come instaurati ai sensi del comma 4 tra il Ministero delle infrastrutture e dei trasporti e il soggetto individuato dalla Regione, mentre dalla data della relativa consegna subentra in tutti i rapporti attivi e passivi inerenti ai beni trasferiti.
+
+Restano in capo al Ministero delle infrastrutture e dei trasporti gli oneri relativi alle liti pendenti alla data di consegna dei beni ed a quelli originanti da fatti accaduti antecedentemente alla data di consegna.
+
+## Art. 11. — Funzioni statali in materia di trasporti
+
+Entro sei mesi dalla data di entrata in vigore del presente decreto, si provvede, con decreto del Presidente del Consiglio del Ministri, previa intesa con la Regione, all'identificazione delle aree dei porti internazionali e nazionali nelle quali opera il trasferimento alla Regione delle funzioni relative alle concessioni sulle aree demaniali marittime.
+
+## Art. 12. — Uffici provinciali della Motorizzazione civile e dei trasporti in concessione della Regione Friuli-Venezia Giulia
+
+In virtu' del trasferimento delle relative funzioni, gli Uffici provinciali della motorizzazione civile e dei trasporti in concessione della Regione Friuli-Venezia Giulia sono soppressi dalla data di decorrenza dell'efficacia del presente decreto, con conseguente trasferimento alla Regione del personale ai sensi dell'articolo 13.
+
+Per l'esercizio delle residuali funzioni di competenza, lo Stato puo' avvalersi delle strutture di settore come previste dalla normativa regionale, secondo i criteri e le modalita' definiti convenzionalmente con la Regione.
+
+Al fine di garantire la necessaria uniformita' operativa per quanto concerne il trasferimento delle funzioni in argomento svolte con l'ausilio dell'informatica, le competenti strutture utilizzano le procedure dei sistemi informativi automatizzati del Ministero delle infrastrutture e dei trasporti ed i protocolli di trasmissione compatibili con i medesimi sistemi.
+
+I beni immobili, i beni mobili registrati e gli altri beni mobili di proprieta' degli Uffici provinciali stessi, con esclusione del Centro prove autoveicoli di Codroipo sezione di Verona, sono trasferiti in proprieta' alla Regione a decorrere dalla data della loro consegna, con conseguente successione allo Stato in tutti i rapporti attivi e passivi inerenti ai beni suddetti.
+
+La consegna dei beni di cui al comma 4, da effettuarsi da parte del Dipartimento dei trasporti terrestri del Ministero delle infrastrutture e dei trasporti, entro sei mesi dalla data di decorrenza dell'efficacia del presente decreto, avviene attraverso la redazione dei relativi verbali che costituiscono titolo per la trascrizione, l'intavolazione e la voltura catastale a favore della Regione dei beni trasferiti.
+
+Ad avvenuta consegna di cui al comma 5, spettano alla Regione i proventi e le spese derivanti dalla gestione dei beni trasferiti.
+
+Restano in capo al Ministero delle infrastrutture e dei trasporti gli oneri relativi alle liti pendenti alla data di consegna dei beni ed a quelli originanti da fatti accaduti antecedentemente alla data di consegna.
+
+## Art. 13. — Trasferimento del personale degli uffici provinciali della Motorizzazione civile e dei trasporti in concessione e delle sezioni demanio presso le Capitanerie di porto
+
+Al fine di consentire l'esercizio delle attribuzioni inerenti alla motorizzazione ed alla circolazione su strada, il personale statale con contratto di lavoro a tempo indeterminato in servizio, alla data di entrata in vigore del presente decreto, presso gli uffici provinciali della Motorizzazione civile e dei trasporti in concessione e' trasferito alla Regione dalla data di decorrenza dell'efficacia del presente decreto.
+
+Al fine di consentire l'esercizio delle attribuzioni inerenti al demanio marittimo, il personale statale con contratto di lavoro a tempo indeterminato in servizio presso le Sezioni demanio delle Capitanerie di porto, con esclusione del personale militare, e' trasferito alla Regione nel limite di due unita'.
+
+Per il trasferimento del personale di cui al comma 2 si applicano le procedure individuate dal regolamento approvato con decreto del Presidente del Consiglio dei Ministri 14 dicembre 2000, n. 446. Dette procedure sono avviate entro quindici giorni dalla data di decorrenza dell'efficacia del presente decreto.
+
+Fino al completamento delle procedure di cui al comma 3, la Regione si avvale delle Capitanerie di porto, secondo modalita' e criteri definiti convenzionalmente con le medesime.
+
+La determinazione della partecipazione erariale relativa al trasferimento del personale di cui al comma 1 fara' comunque riferimento al numero dei dipendenti in servizio alla data di entrata in vigore del presente decreto, mentre quella relativa al trasferimento del personale di cui al comma 2 fara' riferimento alle unita' individuate dal medesimo comma.
+
+## Art. 14. — Esenzioni fiscali
+
+Tutti gli atti e adempimenti necessari per l'attuazione del presente decreto, compresi quelli relativi al trasferimento di cui all'articolo 4, comma 3, sono esenti da ogni diritto e tributo.
+
+## Art. 15. — Decorrenza dell'efficacia
+
+Al fine di garantire il finanziamento delle funzioni di competenza regionale e dei trasferimenti previsti, le disposizioni del presente decreto, eccetto quelle che fanno espresso riferimento alla data di entrata in vigore del medesimo, hanno effetto dal giorno successivo alla data di entrata in vigore della legge o delle leggi statali che, ai sensi dell'articolo 63, quinto comma, della legge costituzionale 31 gennaio 1963, n. 1, recante Statuto speciale della Regione Friuli-Venezia Giulia, modificano il Titolo IV dello Statuto e che possono essere assunte anche in tempi differenziati in relazione agli intervenuti accordi tra Stato e Regione in merito alla determinazione dei relativi oneri complessivi, con particolare riferimento alle competenze aggiuntive derivanti dalla legge costituzionale 18 ottobre 2001, n. 3.
+
+Per le medesime finalita' e con la decorrenza di cui al comma 1 in relazione alla rete stradale ricadente sul territorio regionale di cui agli elenchi allegati sub A) e B), sono trasferiti alla Regione gli stanziamenti disposti dall'ANAS con i programmi triennali, con riferimento alla Regione medesima.
+

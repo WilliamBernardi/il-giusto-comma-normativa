@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4566
+data: 1952-11-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-02;4566
+codice_redazionale: 052U4566
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 novembre 1952
+                4566
+                Autorizzazione all'Universita' di Napoli ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 novembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di lire 1.000.000 in contante, da convertirsi in titoli di Stato rendita 5%, disposta in suo favore dal prof. Giotto Dainelli, per l'istituzione, con la rendita del capitale donato, di un premio di studio da denominarsi "Premio Giotto Dainelli" e da conferirsi annualmente, in seguito a concorso, a studiosi nel campo della geologia e della paleontologia.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 3 giugno 1953
+ Atti del Governo, registro n. 77, foglio n. 7. - PALLA
+

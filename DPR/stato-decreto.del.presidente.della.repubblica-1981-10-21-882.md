@@ -1,0 +1,65 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 882
+data: 1981-10-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-21;882
+codice_redazionale: 081U0882
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 ottobre 1981
+                882
+                Modificazione allo statuto dell'Universita' degli studi di Trieste.
+
+Veduto lo statuto dell'Universita' di Trieste, approvato con decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836 e modificato con decreto del Presidente della Repubblica 7 settembre 1969, n. 1540, e successive modificazioni;
+
+Veduto Il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trieste e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+## Art. 1.
+
+- all'elenco degli insegnamenti complementari del corso di laurea in economia e commercio sono aggiunti i seguenti:
+ teoria dello sviluppo economico;
+ economia regionale;
+ economia e politica industriale;
+ economia del lavoro;
+ programmazione economica;
+ programmazione e controllo economico di gestione;
+ amministrazione del personale;
+ diritto industriale;
+ organizzazione del lavoro;
+ tecnica della revisione aziendale;
+ diritto pubblico dell'economia;
+ diritto agrario;
+ diritto comunitario europeo;
+ diritto dei Paesi socialisti;
+ finanza aziendale;
+ storia economica contemporanea;
+ sistemi economici comparati;
+ economia del benessere;
+ economia del settore pubblico;
+ finanza degli enti locali;
+ economia dei mercati agricoli;
+ economia dei trasporti marittimi.
+

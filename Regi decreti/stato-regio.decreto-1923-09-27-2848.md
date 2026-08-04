@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2848
+data: 1923-09-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-09-27;2848
+codice_redazionale: 023U2848
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:24Z
+---
+
+REGIO DECRETO
+                27 settembre 1923
+                2848
+                Soppressione della Regia scuola tecnica di Tolentino. (023U2848)
+
+Entrata in vigore del provvedimento: 31/01/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,55 @@
+---
+tipo: REGIO DECRETO
+data: 1887-08-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-08-18;2665
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:20Z
+---
+
+REGIO DECRETO
+                18 agosto 1887
+                MMDCLXV
+                Che erge in corpo morale l'asilo infantile Blevio (Corno), e ne approva lo statuto. (8702665R)
+
+Entrata in vigore del provvedimento: 24/09/1887
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda fatta a mero del prefetto di Como dalla commissione fondatrice dell'asilo infantile di Blevio per ottenere l'erezione in corpo morale del pio istituto e l'approvazione del corrispondente statuto organico;
+
+Veduto detto statuto organico;
+
+Veduta la deliberazione 11 giugno 1885 della deputazione provinciale;
+
+Veduti gli altri atti corrispondenti e ritenuto che l'asilo raccoglie un reddito annuo di circa L. 700 e che la congregazione di carita' con deliberazione 12 dicembre 1886 si e' obbligata di far fronte ai disavanzi che eventualmente possono presentarsi nel bilancio di esso asilo;
+
+Veduta la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno;
+
+## Art. 1.
+
+L'asilo infantile di Blevio e' eretto in corpo morale ed e' approvato il suo statuto organico composto di diciassette articoli sostituendosi nell'art. 4, la' dove dice - ai soccorsi delta congregazione, le parole - coi soccorsi della congregazione. 
+ 
+ Detto statuto sara' visto e sottoscritto dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Valsavaranche, addi' 48 agosto 1887. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 31 agosto 1887. 
+ 
+ Reg. 159. Atti del Governo a f. 34. Pellizzoli. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Zanardelli. 
+ 
+ Crispi.
+

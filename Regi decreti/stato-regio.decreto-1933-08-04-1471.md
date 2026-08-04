@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1471
+data: 1933-08-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-08-04;1471
+codice_redazionale: 033U1471
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:41Z
+---
+
+REGIO DECRETO
+                04 agosto 1933
+                1471
+                Approvazione del nuovo statuto della Cassa di soccorso per il personale della Societa' Emiliana ferrovie, tramvie e automobili, con sede in Modena. (033U1471)
+
+Entrata in vigore del provvedimento: 03/12/1933
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

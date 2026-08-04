@@ -1,0 +1,29 @@
+---
+tipo: REGIO DECRETO
+numero: 1458
+data: 1939-08-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-08-04;1458
+codice_redazionale: 039U1458
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:06Z
+---
+
+REGIO DECRETO
+                04 agosto 1939
+                1458
+                Riconoscimento della personalita' giuridica della Procura generale dell'Istituto della Beata Vergine Maria detto delle «Dame Inglesi» ramo cecoslosacco, con sede in Roma. (039U1458)
+
+Entrata in vigore del provvedimento: 22/10/1939
+
+## Art. 1.
+
+R. decreto 4 agosto 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Procura generale dell'Istituto della Beata Vergine Maria detto delle «Dame Inglesi» ramo cecoslovacco, con sede in Roma, e viene autorizzata la medesima ad accettare la donazione disposta a suo favore dalle suore Elena Sirkova e Anna Krafferova, e consistente in un fabbricato con annesso terreno posto in Roma, del complessivo valore stimato di L. 331.500. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 23 settembre 1939-XVII
+

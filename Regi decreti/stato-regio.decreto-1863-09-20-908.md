@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-09-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-09-20;908
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:27Z
+---
+
+REGIO DECRETO
+                20 settembre 1863
+                DCCCCVIII
+                Col quale e' approvato il regolamento sui macelli deliberata dal Consiglio comunale di Massa. (6300908R)
+
+Entrata in vigore del provvedimento: 20/09/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

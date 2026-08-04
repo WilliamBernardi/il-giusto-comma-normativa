@@ -1,0 +1,37 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1240
+data: 1956-06-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-28;1240
+codice_redazionale: 056U1240
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 giugno 1956
+                1240
+                Prelevamento di L. 30.000.000 dal fondo di riserva per le spese
+impreviste per l'esercizio finanziario 1955-56.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto l'art. 42 del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
+ Visto l'art. 87, quarto e quinto comma, della Costituzione della Repubblica; 
+ Vista la legge 8 agosto 1955, n. 770; 
+ Considerato che sul fondo di riserva per le spese impreviste, inscritto nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1955-56, esiste la necessita' disponibilita'; 
+ Sentito il Consiglio dei Ministri; 
+ Sulla proposta del Ministro Segretario di Stato per il tesoro; 
+ 
+ Decreta: 
+ 
+ Dal fondo di riserva per le spese impreviste, inscritto al capitolo n. 531 dello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1955-56, e' autorizzata la prelevazione di lire 30.000.000 che si inscrivono al capitolo n. 55-bis (di nuova istituzione) "Spese per manifestazioni celebrative del primo decennale della Repubblica" del medesimo stato di previsione. 
+ Questo decreto sara' presentato al Parlamento per la sua convalidazione. 
+ Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.
+

@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 817
+data: 1954-02-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-02-13;817
+codice_redazionale: 054U0817
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 febbraio 1954
+                817
+                Autorizzazione alla Cassa scolastica della Scuola tecnica statale commerciale "T. Confalonieri" di Roma ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 febbraio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica statale commerciale "T.
+ Confalonieri" di Roma viene autorizzata ad accettare la donazione di nominali L. 100.000 disposta al fine di istituire, col relativo reddito, un premio di studio annuale intitolato al signor Lorenzo Cinotti.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 28 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 102. - CARLOMAGNO
+

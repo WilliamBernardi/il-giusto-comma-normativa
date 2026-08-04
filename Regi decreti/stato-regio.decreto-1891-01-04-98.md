@@ -1,0 +1,49 @@
+---
+tipo: REGIO DECRETO
+numero: 98
+data: 1891-01-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1891-01-04;98
+codice_redazionale: 091U0098
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:06Z
+---
+
+REGIO DECRETO
+                04 gennaio 1891
+                98
+                Con il quale, la scuola normale unita al 3° educatorio di Napoli e' intitolata Margherita di Savoia. (091U0098)
+
+Entrata in vigore del provvedimento: 29/03/1891
+
+## Art. 1.
+
+UMBERTO I. 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Considerando che al 3° Educatorio di Napoli il quale s'intitola nel nome della nostra diletta Consorte, fu unita, con decreto del 17 agosto 1890, una scuola normale; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la Istruzione Pubblica; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ La Scuola Normale unita al 3° Educatorio di Napoli e' intitolata; 
+ 
+ Margherita di Savoia. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 4 gennaio 1891. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1554
+data: 1925-08-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1925-08-15;1554
+codice_redazionale: 025U1554
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:27Z
+---
+
+REGIO DECRETO
+                15 agosto 1925
+                1554
+                Istituzione presso il Regio museo nazionale di Ravenna di un ufficio per l'esportazione degli oggetti di antichita' e d'arte. (025U1554)
+
+Entrata in vigore del provvedimento: 26/09/1925
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

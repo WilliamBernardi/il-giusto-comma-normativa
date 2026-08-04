@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 386
+data: 1957-03-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-03-24;386
+codice_redazionale: 057U0386
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 marzo 1957
+                386
+                Mutamento della denominazione del comune di Lozzo Cadore in quella di "Lozzo di Cadore" (Belluno).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Lozzo Cadore (Belluno) in data 24 febbraio 1956, n. 15, con la quale e' stato chiesto che l'attuale denominazione del Comune sia mutata in quella di "Lozzo di Cadore";
+ Vista la deliberazione del Consiglio provinciale di Belluno in data 20 agosto 1956, n. 2/13, con la quale e' stato espresso parere favorevole in ordine al mutamento di denominazione in parola;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La denominazione del comune di Lozzo Cadore, in provincia di Belluno, e' mutata in quella di "Lozzo di Cadore".
+

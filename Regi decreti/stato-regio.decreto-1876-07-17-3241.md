@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3241
+data: 1876-07-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1876-07-17;3241
+codice_redazionale: 076U3241
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:28Z
+---
+
+REGIO DECRETO
+                17 luglio 1876
+                3241
+                Col quale il comune di Pignola di Basilicata e' separato dalla sezione elettorale di Potenza e formera' una sezione distinta del collegio elettorale di Potenza, n. 47. (076U3241)
+
+Entrata in vigore del provvedimento: 06/08/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

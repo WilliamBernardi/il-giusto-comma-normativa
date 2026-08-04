@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1661
+data: 1927-06-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-06-16;1661
+codice_redazionale: 027U1661
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:52Z
+---
+
+REGIO DECRETO
+                16 giugno 1927
+                1661
+                Contributo scolastico del comune di Ospedaletti e annullamento di quello dovuto dal comune di Coldirodi (Imperia). (027U1661)
+
+Entrata in vigore del provvedimento: 13/10/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

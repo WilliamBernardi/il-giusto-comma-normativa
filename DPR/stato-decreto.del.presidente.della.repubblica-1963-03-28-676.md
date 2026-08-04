@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 676
+data: 1963-03-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-03-28;676
+codice_redazionale: 063U0676
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 marzo 1963
+                676
+                Autorizzazione alla "Fondazione Pro Juventute don Carlo Gnocchi" ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 marzo 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute don Carlo Gnocchi", viene autorizzata ad accettare un legato di L. 5.000.000 (cinquemilioni) costituito da obbligazioni al 6%, disposto con testamento olografo del 1 novembre 1961 dalla defunta signorina Maria-Giuseppina Monzini, a rogito notaio dott. Giovanni Stratta di Torino, in data 16 febbraio 1962, repertorio n. 24650, a favore dell'"Istituto dei Mutilatini di Santa Maria ai Colli".
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 16 maggio 1962
+ Atti del Governo, registro n. 169, foglio n. 46. - VILLA
+

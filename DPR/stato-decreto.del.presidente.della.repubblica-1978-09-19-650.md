@@ -1,0 +1,39 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 650
+data: 1978-09-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-09-19;650
+codice_redazionale: 078U0650
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 settembre 1978
+                650
+                Finanziamento delle opere per la regolarizzazione delle acque del bacino dell'Isonzo in adempimento degli obblighi derivanti dagli accordi di Osimo.
+
+Sentita la giunta regionale della regione autonomia Friuli-Venezia Giulia;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+E' autorizzata la costruzione a cura del Ministero dei lavori pubblici di una traversa di sbarramento con relativo serbatoio di rifasamento nel fiume Isonzo a valle di Salcano, in comune di Gorizia.
+ L'opera dovra' essere realizzata assicurando una disponibilita' di acqua per uso irriguo di circa 23 mc/sec. nel territorio italiano.
+ Il Ministero dei lavori pubblici provvedera' alla realizzazione dell'opera mediante affidamento ad una impresa o consorzio di imprese che, ai sensi dell'art. 3 dell'accordo citato nelle premesse, debbono essere autorizzati, su raccomandazione del Ministero degli affari esteri, ad eseguire i lavori in joint venture con una impresa o piu' imprese jugoslave.
+ Apposita convenzione sara' stipulata ed approvata dal Ministero dei lavori pubblici per l'affidamento di cui al precedente terzo comma.
+
+## Art. 2.
+
+Per l'attuazione del presente decreto e' autorizzata la spesa complessiva di lire 12.000 milioni da iscriversi nello stato di previsione del Ministero dei lavori pubblici in ragione di lire 4.000 milioni nell'anno finanziario 1978, di lire 4.000 milioni nell'anno finanziario 1979 e di lire 4.000 milioni nell'anno finanziario 1980.
+
+## Art. 3.
+
+All'onere derivante dall'applicazione del presente decreto si provvede a carico delle autorizzazioni di spesa di cui all'art. 8 della legge 14 marzo 1977, n. 73.
+ Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+

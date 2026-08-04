@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 103
+data: 1961-02-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-06;103
+codice_redazionale: 061U0103
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 febbraio 1961
+                103
+                Riconoscimento, agli effetti civili, della elevazione in parrocchia della Vicaria curata autonoma di San Pelagio M., in frazione San Pelagio del comune di Duino Aurisina (Trieste).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 febbraio 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Gorizia in data 21 novembre 1935, integrato con altro decreto del 20 giugno 1960 e con dichiarazione del 25 ottobre 1960, relativo alla elevazione in parrocchia della Vicaria curata autonoma di San Pelagio M, in frazione San Pelagio del comune di Duino Aurisina (Trieste).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 marzo 1961
+ Atti del Governo, registro n. 135, foglio n. 22. - VILLA
+

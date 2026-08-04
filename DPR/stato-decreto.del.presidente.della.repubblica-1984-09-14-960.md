@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 960
+data: 1984-09-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-09-14;960
+codice_redazionale: 084U0960
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 settembre 1984
+                960
+                Riconoscimento, agli effetti civili, della erezione della parrocchia "Gesu' Liberatore", in Canosa di Puglia.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 14 settembre 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Andria 4 ottobre 1981, integrato con dichiarazione 20 luglio 1983, relativo alla erezione della parrocchia "Gesu' Liberatore", in Canosa di Puglia (Bari).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 18 gennaio 1985
+ Registro n. 3 Interno, foglio n. 171
+

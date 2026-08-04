@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1864
+data: 1940-11-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-11-21;1864
+codice_redazionale: 040U1864
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:49Z
+---
+
+REGIO DECRETO
+                21 novembre 1940
+                1864
+                Riconoscimento, agli effetti civili, della erezione in Vicaria curata perpetua della Chiesa della SS.ma Annunziata in frazione Acciaroli, comune di Pollica (Salerno). (040U1864)
+
+Entrata in vigore del provvedimento: 07/02/1941
+
+## Art. 1.
+
+N.
+
+R. decreto 21 novembre 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Capaccio e Vallo della Lucania in data 8 dicembre 1939-XVIII relativo alla erezione in Vicaria curata perpetua della Chiesa della SS.ma Annunziata in frazione Acciaroli, comune di Pollico. (Salerno). 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 8 gennaio 1941-XIX
+

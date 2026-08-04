@@ -1,0 +1,57 @@
+---
+tipo: REGIO DECRETO
+numero: 529
+data: 1927-04-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-04-07;529
+codice_redazionale: 027U0529
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:02Z
+---
+
+REGIO DECRETO
+                07 aprile 1927
+                529
+                Autorizzazione al comune di Carezzano Inferiore a mutare la propria denominazione in «Carezzano Maggiore». (027U0529)
+
+Entrata in vigore del provvedimento: 10/05/1927
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Vista la deliberazione in data 15 luglio 1926 con cui il podesta' di Carezzano Inferiore chiede l'autorizzazione al mutamento della denominazione del Comune in quella di «Carezzano Maggiore»; 
+ 
+ Visto il parere favorevole espresso dal Consiglio provinciale di Alessandria, in adunanza 28 dicembre 1926; 
+ 
+ Vista la lettera in data 31 marzo u. s., n. 393.699, con cui il Ministero delle comunicazioni - Direzione generale delle poste e telegrafi - dichiara che nulla osta al proposto cambiamento di denominazione; 
+ 
+ Visti la legge comunale e provinciale, il relativo regolamento, il R. decreto 30 dicembre 1923, n. 2839, nonche' la legge 4 febbraio 1926, n. 237; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il comune di Carezzano Inferiore e' autorizzato a mutare la propria denominazione in «Carezzano Maggiore». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1927 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 22 aprile 1927 - Anno V 
+ 
+ Atti del Governo, registro 259, foglio 124. - Ferretti.
+

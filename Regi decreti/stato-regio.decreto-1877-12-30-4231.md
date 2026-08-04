@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 4231
+data: 1877-12-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1877-12-30;4231
+codice_redazionale: 077U4231
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:16Z
+---
+
+REGIO DECRETO
+                30 dicembre 1877
+                4231
+                Che separa il comune di Cisternino dalla sezione elettorale di Locorotondo, e lo costituisce in sezione distinta del collegio di Monopoli. (077U4231)
+
+Entrata in vigore del provvedimento: 22/01/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

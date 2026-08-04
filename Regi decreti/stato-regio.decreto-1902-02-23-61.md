@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1902-02-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-02-23;61
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:37Z
+---
+
+REGIO DECRETO
+                23 febbraio 1902
+                LXI
+                Col quale il monte frumentario di Palena (Chieti) viene trasformato in cassa di prestanze agrarie e ne e' approvato lo statuto organico. (0200061R)
+
+Entrata in vigore del provvedimento: 09/04/1902
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

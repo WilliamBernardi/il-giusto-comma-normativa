@@ -1,0 +1,39 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1032
+data: 1957-09-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-05;1032
+codice_redazionale: 057U1032
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 settembre 1957
+                1032
+                Approvazione della modifica alla variante al piano regolatore di Marassi, in Genova.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Vista la legge 27 aprile 1916, n. 484, con la quale fu approvato il piano regolatore della zona di Marassi in Genova; 
+ Visto il regio decreto 17 giugno 1929, n. 1351, con il quale venne approvata una variante al piano per la costruzione di un campo sportivo; 
+ Vista la domanda in data 27 dicembre 1955, con la quale il sindaco di Genova, in base a delibera consiliare n. 1211 del 21 dicembre 1955, ha chiesto l'approvazione di una modifica alla variante al piano regolatore di Marassi, approvata con regio decreto 17 giugno 1929, n. 1351, riguardante l'inserimento di un comparto fabbricabile tra il civico n. 12 di corso De Stefanis e il palazzo ex Centurione; 
+ Ritenuto che il procedimento seguito e' regolare e che, a seguito della pubblicazione degli atti non sono state presentate opposizioni; 
+ Ritenuto che la proposta modifica prevede: a) un lieve spostamento del limite di levante della zona destinata alla formazione del campo sportivo e dei relativi impianti; b) l'inserimento di un comparto fabbricabile fra il palazzo ex Centurione e l'edificio con numero civico 12 verso corso De Stefanis, comprendente un corpo di fabbrica lamellare dell'altezza massima consentita nella zona dal regolamento edilizio collegato al successivo fabbricato (numero civico 12) con un corpo basso ad un sol piano; 
+ Considerato che la proposta di variante appare ammissibile, poiche' il progettato comparto non contrasta con il contiguo palazzo gia' Centurione e con l'edificio sito al n. 12 del corso De Stefanis, ma costituisce, con il restante complesso edilizio, un insieme proporzionato ed armonico; 
+ Visto il parere n. 1720, emesso dal Consiglio superiore dei lavori pubblici nell'adunanza del 1° settembre 1956; 
+ Udito il parere del Consiglio di Stato; 
+ Sentito il Consiglio dei Ministri; 
+ Sulla proposta del Ministro per i lavori pubblici; 
+ 
+ Decreta: 
+ 
+ E' approvata la modifica alla variante al piano regolatore di Marassi, in Genova, relativa all'inserimento di un comparto fabbricabile tra il civico numero 12 di corso De Stefanis e il palazzo ex Centurione, vistata dal Ministro per i lavori pubblici in una planimetria in scala 1: 1000, ed in una relazione tecnica. 
+ Per l'esecuzione delle opere e' assegnato il termine del 30 giugno 1958.
+

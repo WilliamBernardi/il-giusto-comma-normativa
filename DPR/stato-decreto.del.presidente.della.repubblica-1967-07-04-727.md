@@ -1,0 +1,71 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 727
+data: 1967-07-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-07-04;727
+codice_redazionale: 067U0727
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 luglio 1967
+                727
+                Modificazioni allo statuto dell'Universita' degli studi di Bari.
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con regio decreto 14 ottobre 1926, n. 2134 e modificato con regio decreto 13 ottobre 1927, n. 2169 e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+
+Vedute le proposte modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+L'art. 119, relativo alla Scuola di specializzazione in Diplomatica ed archivistica che dipende congiuntamente dalle Facolta' di giurisprudenza e di Lettere e filosofia e' modificato nel modo seguente:
+
+Art. 119. - E' istituita per iniziativa delle Facolta' di giurisprudenza e di Lettere e filosofia, la Scuola di specializzazione in Diplomatica ed archivistica, che ha per fine di promuovere la preparazione tecnica di coloro che aspirano alla carriera direttiva degli Archivi e di incrementare lo studio e la pubblicazione dei fondi archivistici e delle fonti storiche in genere, con particolare riguardo ai documenti dell'Italia meridionale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 4 luglio 1967
+
+SARAGAT
+
+GUI
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Bari, approvato con regio decreto 14 ottobre 1926, n. 2134 e modificato con regio decreto 13 ottobre 1927, n. 2169 e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+ Vedute le proposte modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ L'art. 119, relativo alla Scuola di specializzazione in Diplomatica ed archivistica che dipende congiuntamente dalle Facolta' di giurisprudenza e di Lettere e filosofia e' modificato nel modo seguente:
+ Art. 119. - E' istituita per iniziativa delle Facolta' di giurisprudenza e di Lettere e filosofia, la Scuola di specializzazione in Diplomatica ed archivistica, che ha per fine di promuovere la preparazione tecnica di coloro che aspirano alla carriera direttiva degli Archivi e di incrementare lo studio e la pubblicazione dei fondi archivistici e delle fonti storiche in genere, con particolare riguardo ai documenti dell'Italia meridionale.
+

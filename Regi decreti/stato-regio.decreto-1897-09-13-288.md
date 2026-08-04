@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1897-09-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-09-13;288
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:15Z
+---
+
+REGIO DECRETO
+                13 settembre 1897
+                CCLXXXVIII
+                Relativo all'esecuzione del regolamento della tassa di famiglia nella provincia di Ancona. (9700288R)
+
+Entrata in vigore del provvedimento: 16/10/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

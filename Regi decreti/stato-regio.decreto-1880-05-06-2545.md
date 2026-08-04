@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1880-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-05-06;2545
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:29Z
+---
+
+REGIO DECRETO
+                06 maggio 1880
+                MMDXLV
+                Che approva il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Siena. (8002545R)
+
+Entrata in vigore del provvedimento: 10/07/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

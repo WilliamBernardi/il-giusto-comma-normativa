@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1694
+data: 1951-12-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-12-07;1694
+codice_redazionale: 051U1694
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 dicembre 1951
+                1694
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Addolorata alle Croci, in comune di Andria (Bari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 dicembre 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Andria in data 15 settembre 1950, integrato con dichiarazione 20 maggio 1951, relativo alla erezione della parrocchia di Santa Maria Addolorata alle Croci, in comune di Andria, (Bari).
+
+Visto il Guardasigilli: ZOLI
+ Registrato alla Corte dai conti, addi' 2 febbraio 1952
+ Atti del Governo, registro n. 49, foglio n. 87. FRASCA
+

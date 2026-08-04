@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1207
+data: 1977-12-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-14;1207
+codice_redazionale: 077U1207
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 dicembre 1977
+                1207
+                Approvazione del nuovo statuto dell'istituto veneto di scienze, lettere e arti, in Venezia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 dicembre 1977, col quale, sulla proposta del Ministro per i beni culturali e ambientali, di concerto con il Ministro del tesoro, viene approvato il nuovo statuto dell'Istituto veneto di scienze, lettere e arti, in Venezia. 
+ 
+Visto, il Guardasigilli: BONIFACIO 
+ Registrato alla Corte dei conti, addi' 23 giugno 1978 
+ Registro n. 8 Beni culturali, foglio n. 241
+

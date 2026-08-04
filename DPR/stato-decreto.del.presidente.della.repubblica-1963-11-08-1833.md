@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1833
+data: 1963-11-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-11-08;1833
+codice_redazionale: 063U1833
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 novembre 1963
+                1833
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Francesco di Assisi, nel comune di Ostuni (Brindisi).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 novembre 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Brindisi ed Amministratore perpetuo di Ostuni in data 8 dicembre 1960, integrato con due dichiarazioni rispettivamente del 1 marzo e 27 giugno 1963, relativo alla erezione della Parrocchia di San Francesco di Assisi, nel comune di Ostuni (Brindisi).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 6 dicembre 1963
+ Atti del Governo, registro n. 178, foglio n. 22. - VILLA
+

@@ -1,0 +1,69 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 171
+data: 1972-02-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-02-09;171
+codice_redazionale: 072U0171
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 febbraio 1972
+                171
+                Norme di attuazione della legge 25 aprile 1961, n. 355 e regolamentazione dei rapporti finanziari tra l'Amministrazione delle poste e delle telecomunicazioni ed il Ministero del tesoro.
+
+Sentita la commissione nominata con decreto del Presidente della Repubblica 5 aprile 1962 e successive modificazioni;
+
+## Art. 1.
+
+Le tasse dovute per la spedizione delle corrispondenze ufficiali di cui all'art. 48, anche se spedite in raccomandazione o in assicurazione, e all'art. 49, lettere a), b), c), d), e), f), g), del codice postale e delle telecomunicazioni, approvato con il regio decreto 27 febbraio 1936, n. 645, sono determinate, a partire dall'anno finanziario 1971, in misura complessiva. 
+ Nella citata misura complessiva sono comprese le tasse dovute per le corrispondenze non potute recapitare e restituite ai mittenti nonche' quelle dovute per le spedizioni, da parte delle tesorerie dello Stato, all'indirizzo dei creditori, dei vaglia cambiari della Banca d'Italia, previste dalla legge 23 ottobre 1962, n. 1575. 
+ Sono anche comprese nella suddetta misura complessiva le somme dovute per i servizi di scorta riguardanti le spedizioni di valori bollati e di pieghi valori del Tesoro rispettivamente effettuate dal Ministero delle finanze e dal Ministero del tesoro.
+
+## Art. 2.
+
+Continuano ad essere distribuite in ufficio le corrispondenze dirette alle pubbliche amministrazioni salvo diversa richiesta delle amministrazioni medesime.
+
+## Art. 3.
+
+I telegrammi e marconigrammi spediti dalle amministrazioni dello Stato sono accettati a credito ed il pagamento delle relative tasse sara' effettuato entro il mese successivo a quello della richiesta, sulla base di conti trimestrali compilati dall'Amministrazione delle poste e delle telecomunicazioni.
+
+## Art. 4.
+
+I servizi resi dall'Amministrazione delle poste e delle telecomunicazioni alle amministrazioni dello Stato nei cui confronti trova applicazione il disposto dell'art. 3 della legge 25 aprile 1961, n. 355, riguardano:
+ a) il pagamento delle pensioni e dei titoli del debito vitalizio dello Stato a mezzo di assegni di conto corrente postale di serie speciale;
+ b) il pagamento dei sussidi alle famiglie dei militari per conto del Ministero dell'interno;
+ c) i pagamenti per conto del Ministero di grazia e giustizia;
+ d) i pagamenti per conto di altre amministrazioni dello Stato;
+ e) la consegna dei titoli del debito pubblico;
+ f) il ritiro delle cedole di rendita;
+ g) il rilascio di bollette di legittimazione previste in materia di imposte di fabbricazione;
+ h) la vendita e l'annullamento delle marche per concessioni governative.
+
+## Art. 5.
+
+Il corrispettivo dovuto all'Amministrazione delle poste e delle telecomunicazioni per il pagamento delle prestazioni di cui al precedente art. 1, per il pagamento delle pensioni di Stato ad integrazione degli interessi percepiti sulle somme depositate negli appositi conti correnti postali intestati alle direzioni provinciali del tesoro, sedi di centro meccanografico, nonche' per le altre prestazioni di cui al precedente art. 4, e' determinato, tenuto conto del traffico medio annuo e del costo delle operazioni, per l'anno finanziario 1971 e per il successivo quinquennio 1972-1976 in lire 52.000.000.000 annui.
+ Il predetto corrispettivo sara' successivamente aggiornato almeno ogni quinquennio mediante appropriate valutazioni dei costi e del traffico.
+ L'Amministrazione delle poste e delle telecomunicazioni continua a percepire l'aggio per la vendita delle marche per concessioni governative.
+
+## Art. 6.
+
+Qualora intervengano nel corso di ciascun quinquennio sensibili variazioni nel, volume del traffico o nei costi di esercizio e in caso di variazione delle tariffe per la spedizione delle corrispondenze, puo' essere effettuato il riesame del corrispettivo dovuto alla Amministrazione delle poste e delle telecomunicazioni.
+
+## Art. 7.
+
+L'ammontare del corrispettivo di cui al precedente art. 5 e' posto a carico del bilancio del Ministero del tesoro che ne effettuera' il trasferimento al bilancio dell'Amministrazione delle poste e delle telecomunicazioni.
+
+## Art. 8.
+
+Il Ministro per il tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 9.
+
+Il decreto del Presidente della Repubblica 27 agosto 1962, n. 1873 ed il decreto del Presidente della Repubblica 8 gennaio 1965, n. 189 sono abrogati.
+

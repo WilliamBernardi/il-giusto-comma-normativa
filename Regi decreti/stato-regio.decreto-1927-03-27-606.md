@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 606
+data: 1927-03-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-03-27;606
+codice_redazionale: 027U0606
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:37Z
+---
+
+REGIO DECRETO
+                27 marzo 1927
+                606
+                Approvazione della convenzione 14 marzo 1927 per la trasformazione a trazione elettrica della tramvia extraurbana a vapore Padova-Santa Sofia-Bagnoli con prolungamento Santa Sofia-scalo merci Ferrovie dello Stato. (027U0606)
+
+Entrata in vigore del provvedimento: 20/05/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

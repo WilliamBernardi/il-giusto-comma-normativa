@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 369
+data: 1953-03-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-03-28;369
+codice_redazionale: 053U0369
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 marzo 1953
+                369
+                Istituzione di nuove corporazioni di piloti.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 86 del Codice della navigazione, approvato con regio decreto 30 marzo 1912, n. 327;
+ Visto l'art. 98, primo comma, del regolamento per la esecuzione del Codice della (navigazione navigazione marittima), approvato con decreto del Presidente della Repubblica 15 febbraio 1952, n. 328;
+ Ritenuta la necessita' di provvedere alla organizzazione del servizio di pilotaggio, attraverso la istituzione di corporazioni dei piloti, in quei porti nei quali l'aumentato traffico impone specifiche garanzie per la sicurezza della navigazione;
+ Udito il parere del Consiglio di Stato;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per la marina mercantile;
+
+ Decreta:
+
+ E' istituita una corporazione di piloti nei seguenti porti:
+
+ Imperia-Porto Maurizio, Imperia-Oneglia, Marina di Carrara, Follonica, Rio Marina, Porto Santo Stefano, Anzio, Bagnoli-Pozzuoli, Portici, Augusta, Castellammare di Stabia, Reggio Calabria, Crotone, Molfetta, Manfredonia, Ravenna, Olbia, Sant'Antioco e Porto Torres.
+

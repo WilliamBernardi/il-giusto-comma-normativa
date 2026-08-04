@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1355
+data: 1956-10-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-10-19;1355
+codice_redazionale: 056U1355
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 ottobre 1956
+                1355
+                Riconoscimento, agli effetti civili, delle modifiche apportate alle circoscrizioni territoriali delle Diocesi di Adria e di Padova.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, vengono riconosciuti, agli effetti civili, il Rescritto della Sacra Congregazione del Concilio in data 21 novembre 1953 ed il decreto esecutivo dello Ordinario diocesano di Adria del 7 dicembre 1953, relativi alle modifiche apportate alle circoscrizioni territoriali delle Diocesi di Adria e di Padova, attribuendo a quest'ultima la contrada Padovana. Inoltre, viene riconosciuto civilmente il decreto del Vescovo di Padova, in data 4 aprile 1954, relativo alla erezione della parrocchia del Cuore Immacolato della B.M.V., in localita' Santa Maria Adige del comune di Vescovana (Padova) e viene altresi' riconosciuta la personalita' giuridica della Chiesa omonima, sede dell'anzidetta parrocchia.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 3 dicembre 1956
+ Atti del Governo, registro n. 102, foglio n. 90. - CARLOMAGNO
+

@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1551
+data: 1948-12-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-10;1551
+codice_redazionale: 048U1551
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 dicembre 1948
+                1551
+                Autorizzazione all'Istituto dei ciechi di Milano ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 dicembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto dei ciechi di Milano viene autorizzato ad accettare l'eredita' disposta in suo favore dalla defunta signora Gaetana Negri fu Francesco ved. Vacchelli, detta Nina, con testamento olografo in data 19 marzo 1943.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 13 gennaio 1949
+

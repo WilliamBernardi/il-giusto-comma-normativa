@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+data: 1898-08-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1898-08-02;241
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:27Z
+---
+
+REGIO DECRETO
+                02 agosto 1898
+                CCXLI
+                Col quale si stabilisce il numero e l'ampiezza delle zone di servitu' militare da applicarsi alle proprieta' fondiarie adiacenti alla polveriera di Montegranaro presso Taranto. (9800241R)
+
+Entrata in vigore del provvedimento: 09/09/1898
+
+## Art. 1.
+
+Col quale si stabilisce il numero e l'ampiezza delle zone di servitu' militare da applicarsi alle proprieta' fondiarie adiacenti alla polveriera di Montegranaro presso Taranto. - Firmato UMBERTO - Controfirmato A. Di S. Marzano - Visto C. Finocchiaro Aprile. 
+ 
+ Registrato alla Corte dei conti addi' 19 agosto 1898. 
+ 
+ Reg. 216. Atti del Governo a f. 115
+

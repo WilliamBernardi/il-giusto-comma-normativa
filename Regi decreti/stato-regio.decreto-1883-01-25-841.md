@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1883-01-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-01-25;841
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:00Z
+---
+
+REGIO DECRETO
+                25 gennaio 1883
+                DCCCXLI
+                Che proroga il giorno per le elezioni della camera di commercio di Livorno. (8300841R)
+
+Entrata in vigore del provvedimento: 23/02/1883
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

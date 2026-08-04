@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 305
+data: 1955-02-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-02-04;305
+codice_redazionale: 055U0305
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 febbraio 1955
+                305
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria delle Tombe, nel comune di Zola Predosa (Bologna).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 febbraio 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Bologna in data 13 settembre 1924, integrato con altro decreto 26 ottobre 1954, relativi alla erezione della parrocchia di santa Maria delle Tombe, nel comune di Zola Predosa (Bologna).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla corte dei conti, addi' 26 aprile 1955
+ Atti del Governo, registro n. 90, foglio n. 72. - CARLOMAGNO
+

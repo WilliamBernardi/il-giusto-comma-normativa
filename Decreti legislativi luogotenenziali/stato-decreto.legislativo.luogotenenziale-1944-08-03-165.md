@@ -1,0 +1,64 @@
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 165
+data: 1944-08-03
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1944-08-03;165
+codice_redazionale: 044U0165
+vigente: true
+source: normattiva-opendata
+collection: Decreti legislativi luogotenenziali
+vigenza_date: 2010-10-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:37Z
+---
+
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+                03 agosto 1944
+                165
+                Revoca di benefici in materia di pensioni e di altre provvidenze accordate agi appartenenti alla disciolta M.V.S.N. e sue specialita' e ai cittadini aventi benemerenze fasciste. (044U0165)
+
+## Art. 1. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 2. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 3. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 4. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 5. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 6. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 7. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 8. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 9. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 10. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 11. — ((IL D.LGS. 15 MARZO 2010, N. 66 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+

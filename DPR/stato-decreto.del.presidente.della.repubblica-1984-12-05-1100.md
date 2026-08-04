@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1100
+data: 1984-12-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-12-05;1100
+codice_redazionale: 084U1100
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 dicembre 1984
+                1100
+                Riconoscimento della personalita' giuridica della chiesa parrocchiale di "S. Edoardo", in Nichelino, ed autorizzazione alla stessa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 dicembre 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "S.
+ Edoardo", in Nichelino (Torino). La chiesa parrocchiale stessa viene, altresi', autorizzata ad accettare la donazione disposta dalla fondazione di culto "Opera diocesana per la preservazione della fede", in Torino, con atto pubblico 13 febbraio 1976, n. 26997 di repertorio, a rogito dott. Mario Levati, notaio in Torino, consistente in un complesso immobiliare sito in Nichelino (Torino), costituito da un'area e da entrostante centro religioso (sacro edificio, opere di ministero pastorale e casa di abitazione per il clero), il tutto descritto nella perizia giurata 9-22 febbraio 1983 del geometra Francesco Landi, e valutato in L. 218.250.000 dall'ufficio tecnico erariale di Torino. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 26 febbraio 1985 
+ Registro n. 9 Interno, foglio n. 386
+

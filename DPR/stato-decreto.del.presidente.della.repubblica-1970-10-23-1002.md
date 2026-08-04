@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1002
+data: 1970-10-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-23;1002
+codice_redazionale: 070U1002
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 ottobre 1970
+                1002
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria Madre della Chiesa, in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 ottobre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 1° gennaio 1967, integrato con dichiarazione del 26 febbraio 1968 e con altro decreto 29 settembre 1970, relativo alla erezione della parrocchia di Maria Madre della Chiesa, nel quartiere Gratosoglio della citta' di Milano. 
+ 
+Visto, il Guardasigilli: REALE 
+ Registrato alla Corte dei conti, addi' 10 dicembre 1970 
+ Atti del Governo, registro n. 238, foglio n. 229. - CARUSO
+

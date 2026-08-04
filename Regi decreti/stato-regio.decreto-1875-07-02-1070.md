@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1875-07-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-07-02;1070
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:41Z
+---
+
+REGIO DECRETO
+                02 luglio 1875
+                MLXX
+                Con cui sono approvate alcune deliberazioni di deputazioni provinciali, relative all'applicazione delle tasse comunali di famiglia e sul bestiame. (7501070R)
+
+Entrata in vigore del provvedimento: 08/08/1875
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

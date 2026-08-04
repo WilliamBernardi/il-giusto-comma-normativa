@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 3773
+data: 1867-06-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-06-20;3773
+codice_redazionale: 067U3773
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:57Z
+---
+
+REGIO DECRETO
+                20 giugno 1867
+                3773
+                Col quale e' modificata la Tabella di riparto dei Consiglieri provinciali, approvata col Regio Decreto 15 maggio 1867, n. 3712, nella parte che riflette la Provincia di Torino. (067U3773)
+
+Entrata in vigore del provvedimento: 26/07/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

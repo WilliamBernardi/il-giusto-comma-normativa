@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 923
+data: 1977-09-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-09-06;923
+codice_redazionale: 077U0923
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 settembre 1977
+                923
+                Autorizzazione all'Associazione educatrice italiana, in Roma, ad
+accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 settembre 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Associazione educatrice italiana (A.E.I.), in Roma, viene autorizzata ad accettare il legato disposto dalla sig.ra Angiolina Gallina ved. Sciaccaluga con testamento olografo 8 maggio 1968, pubblicato l'11 settembre 1968 con verbale n. 179 di repertorio, a rogito dott. Giuseppe Torrente, notaio in Varese Ligure (La Spezia), registrato a La Spezia il 14 agosto 1968 al n. 4139, vol. 137, consistente nella somma di un milione di lire.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 dicembre 1977
+ Registro n. 142 Istruzione, foglio n. 120
+

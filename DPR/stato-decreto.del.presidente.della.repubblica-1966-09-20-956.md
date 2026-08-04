@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 956
+data: 1966-09-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-09-20;956
+codice_redazionale: 066U0956
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 settembre 1966
+                956
+                Erezione in ente morale della Scuola materna "Cristo Re", con sede in Rimini (Forli).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 settembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola materna "Cristo Re", con sede in Rimini (Forli), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 14 novembre 1966
+ Atti del Governo, registro n. 207, foglio n. 22. - VILLA
+

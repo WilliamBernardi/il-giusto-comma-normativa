@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 6199
+data: 1889-06-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-06-30;6199
+codice_redazionale: 089U6199
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:32Z
+---
+
+REGIO DECRETO
+                30 giugno 1889
+                6199
+                Che modifica il ruolo organico per il personale dell'Amministrazione centrale del Ministero d'agricoltura, industria e commercio. (089U6199)
+
+Entrata in vigore del provvedimento: 01/08/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

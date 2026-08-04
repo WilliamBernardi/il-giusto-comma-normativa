@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1205
+data: 1941-10-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1941-10-17;1205
+codice_redazionale: 041U1205
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:35Z
+---
+
+REGIO DECRETO
+                17 ottobre 1941
+                1205
+                Modificazioni allo statuto della Regia universita' di Perugia. (041U1205)
+
+Entrata in vigore del provvedimento: 28/11/1941
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

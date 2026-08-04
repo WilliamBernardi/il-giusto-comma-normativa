@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2831
+data: 1866-03-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-03-01;2831
+codice_redazionale: 066U2831
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:29Z
+---
+
+REGIO DECRETO
+                01 marzo 1866
+                2831
+                Col quale sono dichiarati chiusi alcuni Comuni per gli effetti della riscossione dei dazi di consumo. (066U2831)
+
+Entrata in vigore del provvedimento: 13/04/1866
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

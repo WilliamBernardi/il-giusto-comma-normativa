@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 488
+data: 1979-07-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-07-30;488
+codice_redazionale: 079U0488
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 luglio 1979
+                488
+                Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 luglio 1979, con la quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 29.000.000, un immobile di proprieta' della signora Venturini Renata in Schneider, sito in Udine, via Toppo, San Daniele, distinto nel nuovo catasto edilizio urbano alla partita 10740, foglio 30, mappale 108/5 e 1150, da destinare a sede sociale della locale sezione provinciale.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 3 ottobre 1979
+ Registro n. 7 Presidenza, foglio n. 118
+

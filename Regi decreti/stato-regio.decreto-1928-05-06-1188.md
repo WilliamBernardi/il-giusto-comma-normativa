@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1188
+data: 1928-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-05-06;1188
+codice_redazionale: 028U1188
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:37Z
+---
+
+REGIO DECRETO
+                06 maggio 1928
+                1188
+                Riunione dei comuni di Buttogno, Craveggia, Santa Maria Maggiore e Crana, Toceno, Vocogno Prestinone in un unico Comune con denominazione e capoluogo «Santa Maria Maggiore». (028U1188)
+
+Entrata in vigore del provvedimento: 28/06/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,34 @@
+---
+tipo: REGIO DECRETO
+numero: 1655
+data: 1930-11-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-11-20;1655
+codice_redazionale: 030U1655
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:45Z
+---
+
+REGIO DECRETO
+                20 novembre 1930
+                1655
+                Attribuzione alle cancellerie giudiziarie dell'Eritrea del decimo delle somme riscosse per diritti di copia e per altri proventi. (030U1655)
+
+Entrata in vigore del provvedimento: 23/12/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

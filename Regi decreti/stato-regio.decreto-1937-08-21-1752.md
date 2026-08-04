@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1752
+data: 1937-08-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-08-21;1752
+codice_redazionale: 037U1752
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:44Z
+---
+
+REGIO DECRETO
+                21 agosto 1937
+                1752
+                Dichiarazione formale dei fini della nuova parrocchia del SS.mo Redentore in Palizzi Marina, frazione del comune di Palizzi (Catanzaro). (037U1752)
+
+Entrata in vigore del provvedimento: 06/11/1937
+
+## Art. 1.
+
+N.
+
+R. decreto 21 agosto 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Bova, in data 7 aprile 1934, relativo alla erezione della nuova parrocchia sotto il titolo del SS.mo Redentore in Palizzi Marina, frazione del comune di Palizzi (Catanzaro). 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 6 ottobre 1937 - Anno XV
+

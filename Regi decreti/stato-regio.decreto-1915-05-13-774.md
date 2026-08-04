@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 774
+data: 1915-05-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-05-13;774
+codice_redazionale: 015U0774
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:42Z
+---
+
+REGIO DECRETO
+                13 maggio 1915
+                774
+                Erezioni in ente morale (015U0774)
+
+Entrata in vigore del provvedimento: 23/06/1915
+
+## Art. 1.
+
+N. 774 
+ 
+ Regio Decreto 13 maggio 1915, col quale, sulla proposta del ministro dell'interno, l'asilo infantile «Barone Raimondo Franchetti», in Roverbella, e' eretto in ente morale, e ne e' approvato lo statuto organico.
+

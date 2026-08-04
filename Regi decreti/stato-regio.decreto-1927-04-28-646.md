@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 646
+data: 1927-04-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-04-28;646
+codice_redazionale: 027U0646
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:16Z
+---
+
+REGIO DECRETO
+                28 aprile 1927
+                646
+                42ª prelevazione dal fondo di riserva per le spese impreviste dell'esercizio finanziario 1926-27. (027U0646)
+
+Entrata in vigore del provvedimento: 24/05/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

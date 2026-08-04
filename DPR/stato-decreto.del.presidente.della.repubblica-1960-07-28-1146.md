@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1146
+data: 1960-07-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-28;1146
+codice_redazionale: 060U1146
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 luglio 1960
+                1146
+                Modificazioni allo statuto dell'Ente nazionale per la prevenzione degli infortuni (E.N.P.I.).
+
+Udito il parere del Consiglio di Stato;
+
+## Art. 1.
+
+Sono approvate le seguenti modifiche allo statuto dell'Ente nazionale per la prevenzione degli infortuni, approvato con decreto del Presidente della Repubblica 18 dicembre 1954, n. 1512:
+ I numeri 1) e 2) dell'art. 5 sono sostituiti dai seguenti:
+ "1) due rappresentanti dei lavoratori ed uno dei datori di lavoro dell'industria, un rappresentante dei lavoratori ed uno dei datori di lavoro dell'agricoltura, un rappresentante dei lavoratori ed uno dei datori di lavoro del commercio, un rappresentante dei dirigenti di azienda, scelti dal Consiglio di amministrazione dell'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro, tra i propri componenti gia' designati per ciascun settore dalle rispettive organizzazioni sindacali;
+ 2) due rappresentanti dei lavoratori e due dei datori di lavoro dell'industria, un rappresentante dei lavoratori ed uno dei datori di lavoro dell'agricoltura, scelti dal Ministro per il lavoro e la previdenza sociale, su designazione delle organizzazioni sindacali di categoria a carattere nazionale".
+ La lettera c) dell'art. 7 e' sostituita dalla seguente:
+ "c) da un rappresentante dei lavoratori ed uno dei datori di lavoro scelti dal Consiglio di amministrazione fra i membri di cui ai numeri 1) e 2) dell'art. 5".
+

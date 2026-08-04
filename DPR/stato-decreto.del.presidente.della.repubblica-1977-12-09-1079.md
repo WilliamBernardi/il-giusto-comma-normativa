@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1079
+data: 1977-12-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-12-09;1079
+codice_redazionale: 077U1079
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 dicembre 1977
+                1079
+                Misure giornaliere del premio per l'incremento del rendimento industriale di cui alla legge 3 luglio 1970, n. 483, dovute al personale dell'Amministrazione autonoma dei monopoli di Stato sino al 31 dicembre 1977.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Le normali misure giornaliere del premio per l'incremento del rendimento industriale, di cui all'art. 2 della legge 3 luglio 1970, n. 483, da corrispondere, a decorrere dal 7 settembre 1977, al personale non dirigente che presta effettivo servizio presso l'Amministrazione autonoma dei monopoli di Stato, sono indicate, per ciascuna qualifica, nella tabella allegata al presente decreto.
+ Le misure giornaliere del suddetto premio indicate nella tabella A allegata alla legge 3 luglio 1970, n. 483, come sostituita dal decreto ministeriale 11 settembre 1971, emanato ai sensi dell'art. 18 del decreto del Presidente della Repubblica 28 dicembre 1970, n. 1079, restano in vigore per il personale delle qualifiche per le quali sono previste misure giornaliere inferiori nella tabella allegata al presente decreto.
+
+## Art. 2.
+
+Alla copertura della maggiore spesa derivante dall'applicazione del presente decreto, si provvede ai sensi dell'art. 16 della legge 8 agosto 1977, n. 556.
+

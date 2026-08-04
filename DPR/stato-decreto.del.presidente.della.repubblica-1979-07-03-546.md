@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 546
+data: 1979-07-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-07-03;546
+codice_redazionale: 079U0546
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 luglio 1979
+                546
+                Autorizzazione alla cassa mutua di malattia per gli artigiani di Padova ad acquistare alcuni immobili.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la cassa mutua di malattia per gli artigiani di Padova, viene autorizzata ad acquistare, al prezzo di L. 28.000.000, porzioni di immobile rappresentate da un appartamento al secondo piano, cantina e garage, dell'edificio sito in Padova, via Berchet n. 10, censite nel nuovo catasto edilizio urbano al foglio 25, mapp. 952 sub 11-33, di proprieta' dei signori Mario Lionello e Giulio Foralosso, come da atto di compravendita in data 30 novembre 1962, n. 24771 di repertorio, a rogito notaio Giuseppe Benacchio, da adibire a sede della cassa.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 10 ottobre 1979
+ Registro n. 1 Lavoro, foglio n. 80
+

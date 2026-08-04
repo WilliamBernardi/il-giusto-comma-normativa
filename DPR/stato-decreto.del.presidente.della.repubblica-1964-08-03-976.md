@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 976
+data: 1964-08-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-03;976
+codice_redazionale: 064U0976
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 agosto 1964
+                976
+                Modificazione del decreto del Presidente della Repubblica 4 agosto 1963, n. 1448, relativo alla Fondazione "Dott. Luigi Gabioli", presso l'Universita' di Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 agosto 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, il decreto del Presidente della Repubblica 4 agosto 1963, n. 1448, relativo alla Fondazione "Dott. Luigi Gabioli", presso l'Universita' di Roma, viene modificato nel senso che, nella parte preliminare e nel dispositivo del relativo testo, la dicitura "Prof. Luigi Gabioli" deve essere sostituita da quella "Dott. Luigi Gabioli".
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 ottobre 1964
+ Atti del Governo, registro n. 187, foglio n. 82. - VILLA
+

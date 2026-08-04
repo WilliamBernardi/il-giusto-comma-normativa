@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 241
+data: 1971-03-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-15;241
+codice_redazionale: 071U0241
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 marzo 1971
+                241
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Maria d'Itria, in Delia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 marzo 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Caltanissetta in data 4 ottobre 1967, integrato con altro di pari data e dichiarazioni del 2 aprile 1968 e 7 novembre 1970, relativo alla erezione della parrocchia di S. Maria d'Itria, in Delia (Caltanissetta).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 29 aprile 1971
+ Atti del Governo, registro n. 241, foglio n. 190. - VALENTINI
+

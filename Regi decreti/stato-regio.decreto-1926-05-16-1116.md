@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1116
+data: 1926-05-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1926-05-16;1116
+codice_redazionale: 026U1116
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:29Z
+---
+
+REGIO DECRETO
+                16 maggio 1926
+                1116
+                Erezione in Ente morale della Fondazione per borse di studio Mario Moderni, in Roma. (026U1116)
+
+Entrata in vigore del provvedimento: 25/07/1926
+
+## Art. 1.
+
+N.
+
+R. decreto 16 maggio 1926, col quale, sulla proposta del Ministro per l'interno, la Fondazione per borse di studio Mario Moderni, con sede in Roma, viene eretta in Ente morale con amministrazione autonoma e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 2 luglio 1926.
+

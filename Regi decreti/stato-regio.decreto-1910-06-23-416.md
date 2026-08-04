@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 416
+data: 1910-06-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-06-23;416
+codice_redazionale: 010U0416
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:30Z
+---
+
+REGIO DECRETO
+                23 giugno 1910
+                416
+                Che approva l'elenco delle assegnazioni concesse agli enti di cui all'art. 2 della legge 12 gennaio 1909, n. 12. (010U0416)
+
+Entrata in vigore del provvedimento: 06/08/1910
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

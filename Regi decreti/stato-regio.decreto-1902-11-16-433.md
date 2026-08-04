@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1902-11-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-11-16;433
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:02Z
+---
+
+REGIO DECRETO
+                16 novembre 1902
+                CCCCXXXIII
+                Che trasforma il monte frumentario di Locorotondo in cassa di prestanze agrarie. (0200433R)
+
+Entrata in vigore del provvedimento: 03/01/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1220
+data: 1941-09-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1941-09-20;1220
+codice_redazionale: 041U1220
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:25Z
+---
+
+REGIO DECRETO
+                20 settembre 1941
+                1220
+                Costituzione della «Fondazione generale Amedeo Guillet» in Asti. (041U1220)
+
+Entrata in vigore del provvedimento: 30/11/1941
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

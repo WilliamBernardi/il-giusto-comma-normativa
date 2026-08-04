@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 863
+data: 1957-08-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-08-12;863
+codice_redazionale: 057U0863
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 agosto 1957
+                863
+                Erezione in ente morale della "Casa di riposo di Dueville", con sede in Dueville (Vicenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 agosto 1957, col quale, sulla proposta del Ministro per l'interno, la "Casa di riposo di Dueville", con sede in Dueville (Vicenza), viene eretta in ente morale e ne viene approvato lo statuto organico con alcune modificazioni.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 settembre 1957
+ Atti del Governo, registro n. 107, foglio n. 166. - RELLEVA
+

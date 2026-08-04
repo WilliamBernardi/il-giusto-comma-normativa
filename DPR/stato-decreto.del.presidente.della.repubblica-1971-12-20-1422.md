@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1422
+data: 1971-12-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-12-20;1422
+codice_redazionale: 071U1422
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 dicembre 1971
+                1422
+                Trasferimento di un posto di professore di ruolo presso la facolta' di scienze politiche dell'Universita' di Padova.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592, e successive modificazioni ed integrazioni;
+ Vista la legge 26 dicembre 1960, n. 1581, con la quale sono stati istituiti nelle universita' e negli istituti di istruzione superiore quattro nuovi posti di professore di ruolo;
+ Visto il decreto del Presidente della Repubblica 31 dicembre 1960, n. 1890, con il quale sono stati assegnati alle universita' i quattro posti istituiti con la legge sopra indicata, di cui uno alla facolta' di scienze politiche della Universita' di Padova per l'insegnamento di diritto pubblico americano;
+ Visto il decreto del Presidente della Repubblica 13 giugno 1967, n. 615, con il quale sono state apportate modifiche allo statuto dell'Universita' di Padova;
+ Considerato che la facolta' di scienze politiche della Universita' di Padova ha chiesto che il posto istituito con il precitato decreto del Presidente della Repubblica n. 1890 venga destinato all'insegnamento di diritto amministrativo;
+ Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro;
+
+ Decreta:
+
+ Il decreto del Presidente della Repubblica 31 dicembre 1960, n. 1890, citato nelle premesse, e' modificato nel senso che il posto di professore di ruolo assegnato alla facolta' di scienze politiche dell'Universita' di Padova e riservato all'insegnamento di diritto pubblico americano - denominazione mutata dal decreto del Presidente della Repubblica 13 giugno 1967, n. 615, in diritto anglo-americano - e' da intendersi destinato all'insegnamento di diritto amministrativo, a decorrere dall'anno accademico 1970-71.
+

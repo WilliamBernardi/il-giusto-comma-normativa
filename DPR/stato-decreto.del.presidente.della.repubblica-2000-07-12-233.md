@@ -1,0 +1,110 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 233
+data: 2000-07-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2000-07-12;233
+codice_redazionale: 000G0284
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2010-04-07
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 luglio 2000
+                233
+                Regolamento recante modifiche al decreto del Presidente della
+Repubblica 6 marzo 1998, n. 99, concernente le modalita' di esercizio
+della funzione di revisore contabile.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39))
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                         Il D.Lgs. 27 gennaio 2010, n. 39 ha disposto (con l'art. 43, comma 1, lettera f)) che il D.P.R. 12 luglio 2000, n. 233 e' abrogato, ma continua ad essere applicato fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del suddetto decreto legislativo.
+

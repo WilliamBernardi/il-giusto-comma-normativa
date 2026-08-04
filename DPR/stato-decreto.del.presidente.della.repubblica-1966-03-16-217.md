@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 217
+data: 1966-03-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-03-16;217
+codice_redazionale: 066U0217
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 marzo 1966
+                217
+                Autorizzazione all'Universita' degli studi di Napoli ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 marzo 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Napoli viene autorizzata ad acquistare dalla signora Stella Di Maso Del Gaudio detta Teresa, maritata Giordano, un terreno ed un fabbricato rurale, della superficie catastale complessiva di mq. 20.360, siti ne, comune di Napoli, sezione Chiaiano, al prezzo complessivo di L. 100.125.440.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 18 aprile 1966
+ Atti del Governo, registro n. 202, foglio n. 148. - VILLA
+

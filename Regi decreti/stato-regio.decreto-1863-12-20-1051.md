@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-12-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-12-20;1051
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:13Z
+---
+
+REGIO DECRETO
+                20 dicembre 1863
+                MLI
+                Approvativo del regolamento di polizia rurale pel Comune di Leno. (6301051R)
+
+Entrata in vigore del provvedimento: 20/12/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1520
+data: 1965-12-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-13;1520
+codice_redazionale: 065U1520
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 dicembre 1965
+                1520
+                Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ed all'Automobile Club di Sassari ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 dicembre 1965, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Sassari, vengono autorizzati ad acquistare in comproprieta' dalle germane Bianca e Maria Orecchioni e dai dottori Andrea e Giuseppe Manai, per il complessivo prezzo di L. 23.328.000, l'appezzamento di terreno sito in Sassari al viale Adua, esteso mq. 1458, per la costruzione di un edificio da destinare a sede dei propri uffici.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 gennaio 1966
+ Atti del Governo, registro n. 199, foglio n. 67. - VILLA
+

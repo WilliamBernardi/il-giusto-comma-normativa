@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 240
+data: 1930-03-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-03-17;240
+codice_redazionale: 030U0240
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:32Z
+---
+
+REGIO DECRETO
+                17 marzo 1930
+                240
+                Modifica al regolamento per l'esecuzione della legge sull'avanzamento del Regio esercito, approvato con R. decreto 21 luglio 1907, n. 626. (030U0240)
+
+Entrata in vigore del provvedimento: 17/04/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

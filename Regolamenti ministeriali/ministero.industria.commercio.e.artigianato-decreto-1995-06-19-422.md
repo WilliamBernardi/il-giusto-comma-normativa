@@ -1,0 +1,159 @@
+---
+tipo: DECRETO
+numero: 422
+data: 1995-06-19
+titolo: ""
+urn: urn:nir:ministero.industria.commercio.e.artigianato:decreto:1995-06-19;422
+codice_redazionale: 095G0424
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+vigenza_date: 2013-01-17
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:41Z
+---
+
+DECRETO
+                19 giugno 1995
+                422
+                 Regolamento recante norme di attuazione dell'art. 20 della legge 29 dicembre 1993, n. 580, concernente i criteri e le modalita' per l'iscrizione nell'elenco dei segretari generali di camere di commercio.
+
+Entrata in vigore del decreto: 29-10-1995
+
+DEL COMMERCIO E DELL'ARTIGIANATO
+
+## Art. 1. — Definizioni
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 2. — Istituzione dell'elenco
+
+Presso la Direzione generale del commercio - Servizio centrale delle camere di commercio e degli UU.PP.I.C.A - Divisione VIII e' istituito l'elenco dei soggetti che possono essere nominati segretario generale di camere di commercio.
+
+Il dirigente preposto alla predetta divisione provvede alla tenuta dell'elenco secondo le disposizioni previste dalla legge e dal presente regolamento e puo' nominare i funzionari responsabili dei singoli procedimenti ai sensi dell'art. 5 della legge 7 agosto 1990, n. 241. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 3. — Procedimento di iscrizione
+
+L'iscrizione nell'elenco e' disposta, con provvedimento motivato dal direttore generale del commercio.
+
+Il termine per la conclusione del procedimento e' fissato in sessanta giorni decorrenti dalla data di ricevimento della domanda.
+Nel caso di domanda irregolare o incompleta il funzionario responsabile del procedimento ne da' comunicazione al richiedente entro venti giorni, indicando le cause di irregolarita' o di incompletezza. In tal caso il termine di sessanta giorni decorre dalla data di ricevimento della domanda regolare ovvero delle integrazioni. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 4. — Domanda di iscrizione
+
+La domanda di iscrizione, redatta secondo il modello di cui all'allegato A del presente regolamento, deve recare in calce la firma dell'interessato autenticata con le modalita' di cui all'art. 20 della legge 4 gennaio 1968, n. 15.
+
+Alla domanda deve essere allegato il profilo professionale dell'interessato redatto secondo lo schema di cui all'allegato B del presente regolamento. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 5. — Tenuta dell'elenco
+
+L'elenco contiene il nome e il cognome, il luogo e la data di nascita ed il comune di residenza degli iscritti. L'elenco e' pubblico ed e' tenuto con tecniche informatiche che consentono la consultazione su terminali anche remoti attraverso il collegamento con il sistema informatico delle camere di commercio. Entro il 30 marzo di ciascun anno l'elenco e' altresi' pubblicato nel Bollettino ufficiale del Ministero con riferimento alla situazione esistente al 1 gennaio.
+
+L'ufficio preposto alla tenuta dell'elenco provvede a redigere un repertorio informatizzato che riporta per ciascun nominativo i dati e le notizie previste dallo schema di profilo professionale di cui all'art. 4, comma 2. Le camere di commercio hanno accesso diretto al repertorio attraverso il collegamento informatico.
+
+Per ciascun nominativo e' formato un fascicolo personale per la raccolta e la conservazione dei relativi atti e documenti.
+
+All'aggiornamento del repertorio e del fascicolo personale sulla base di atti o documenti trasmessi dall'interessato si provvede entro trenta giorni dalla data di ricezione.
+
+Per i soggetti diversi dalle camere di commercio, salvo quanto precisato al comma 2, l'accessso al repertorio ed ai fascicoli personali sono consentiti nei limiti e con le modalita' di cui alla legge 7 agosto 1990, n. 241. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 6. — Requisiti professionali
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 7. — Requisiti per i dirigenti pubblici
+
+I dirigenti delle camere di commercio, dell'unioncamere e di altre amministrazioni o enti pubblici attestano il possesso dei requisiti professionali di cui all'art. 6 mediante apposita dichiarazione rilasciata dall'amministrazione o ente di appartenenza, da allegare alla domanda di iscrizione nell'elenco, dalla quale risultino le funzioni di fatto esercitate, i periodi di svolgimento delle stesse e le qualifiche rivestite in ciascun periodo.
+L'attestato deve, altresi', riportare gli estremi dell'iscrizione all'albo di cui all'art. 23 del decreto legislativo 3 febbraio 1993, n. 29.
+
+Possono essere considerate solo le funzioni esercitate con qualifica dirigenziale ovvero con qualifiche funzionali non inferiori a quella di direttore di divisione della ex carriera direttiva. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 8. — Requisiti per i soggetti provenienti da imprese pubbliche o private
+
+I soggetti provenienti da imprese pubbliche o private attestano il possesso di uno dei diplomi di laurea in materia giuridico-economica riconosciuti equipollenti dal Ministero della ricerca scientifica e dell'universita' ai fini dell'accesso ai pubblici concorsi, nonche' dei requisiti soggettivi prescritti dalla legislazione vigente per l'accesso alla dirigenza presso la pubblica amministrazione mediante dichiarazione sostitutiva di atto notorio resa a norma dell'art. 4 della legge 4 gennaio 1968, n. 15.
+
+I soggetti di cui al comma 1 attestano il possesso della necessaria professionalita' mediante il profilo di cui all'art. 4, comma 2, nonche' il possesso dei requisiti professionali di cui all'art. 6 mediante apposita dichiarazione dell'impresa di provenienza dalla quale risultino le funzioni di fatto esercitate, i periodi di svolgimento delle stesse e le qualifiche rivestite in ciascun periodo.
+
+Possono essere considerate solo le esperienze acquisite in qualifiche dirigenziali. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 9. — Cancellazione dall'elenco
+
+La cancellazione dall'albo di cui all'art. 23 del decreto legislativo 3 febbraio 1993, n. 29, e la cessazione da oltre due anni del rapporto di lavoro con imprese pubbliche o private comporta la cancellazione dall'elenco.
+
+La Direzione generale del commercio puo' effettuare in qualsiasi momento accertamento e verifiche in ordine al possesso, da parte degli iscritti nell'elenco, dei requisiti richiesti.
+
+Il provvedimento di cancellazione dall'elenco per i motivi di cui al comma 1, lettera c), e' adottato dal direttore generale del commercio previa contestazione all'interessato. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 10. — Revisione dinamica dell'elenco
+
+La Direzione generale del commercio provvede alla revisione dinamica dell'elenco con cadenza triennale. A tal fine ciascun iscritto nei sessanta giorni antecedenti alla scadenza del triennio di iscrizione deve comunicare a mezzo raccomandata la permanenza dei necessari requisiti. Il mancato invio della predetta dichiarazione comporta la cancellazione d'ufficio dall'elenco. 
+ ((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+
+## Art. 11. — Norme finali e transitorie
+
+I segretari generali delle camere di commercio formalmente titolari della funzione ed in servizio alla data di entrata in vigore della legge stessa sono iscritti di diritto nell'elenco.
+
+L'iscritto nell'elenco, nominato segretario generale di camera di commercio e' esonerato per tutta la durata dell'incarico dall'adempimento di cui all'art. 10.
+
+Sino a quando non verra' formato l'albo, di cui all'art. 23 del decreto legislativo 3 febbraio 1993, n. 29, i dirigenti pubblici potranno presentare domanda di iscrizione nell'elenco, senza il possesso del requisito di iscrizione all'albo, fatti salvi l'accertamento d'ufficio da parte della direzione generale del commercio una volta realizzato l'albo stesso e il potere di disporre la cancellazione dall'elenco in caso di mancata iscrizione all'albo.
+
+((1))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il Decreto 26 ottobre 2012, n. 230 ha disposto (con l'art. 13, comma 2) che "Ai sensi dell'articolo 3, comma 7, del decreto legislativo n. 23 del 2010, le modifiche di cui all'articolo 1, comma 20, del medesimo decreto legislativo e le conseguenti disposizioni di cui agli articoli 2, 9, 10, 11 e 12, comma 5, del presente regolamento si applicano decorsi novanta giorni dalla data di entrata in vigore del regolamento stesso. Dalla medesima data e' completamente abrogato il decreto ministeriale 19 giugno 1995, n. 422".
+

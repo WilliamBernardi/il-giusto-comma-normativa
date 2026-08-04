@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 885
+data: 1968-07-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-05;885
+codice_redazionale: 068U0885
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 luglio 1968
+                885
+                Autorizzazione all'Istituto universitario di architettura di Venezia ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 luglio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto universitario di architettura di Venezia viene autorizzato ad acquistare un immobile sito in Venezia, S. Croce, Fondamenta Minotto, civ. 145, al prezzo di L. 36.500.000.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 luglio 1968
+ Atti del Governo, registro n. 222, foglio n. 52. - GRECO
+

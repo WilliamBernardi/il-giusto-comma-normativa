@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1701
+data: 1937-08-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-08-21;1701
+codice_redazionale: 037U1701
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:01Z
+---
+
+REGIO DECRETO
+                21 agosto 1937
+                1701
+                Dichiarazione formale dei fini di n. 6 Confraternite in Monticelli d'Ongina (Piacenza). (037U1701)
+
+Entrata in vigore del provvedimento: 26/10/1937
+
+## Art. 1.
+
+N.
+
+R. decreto 21 agosto 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi di n. 6 Confraternite in Monticelli d'Ongina (Piacenza). 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 1° ottobre 1937 - Anno XV
+

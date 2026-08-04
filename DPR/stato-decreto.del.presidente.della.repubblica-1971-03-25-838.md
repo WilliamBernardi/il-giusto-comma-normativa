@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 838
+data: 1971-03-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-25;838
+codice_redazionale: 071U0838
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 marzo 1971
+                838
+                Autorizzazione all'Automobile club di Firenze ad acquistare un appezzamento di terreno.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 marzo 1971, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Firenze viene autorizzato ad acquistare in proprieta' dal signor Alpo Ciabatti, per il prezzo di L. 10.200.000, l'appezzamento di terreno, con la sovrastante stazione di servizio, per la vendita di carburanti, sito in Prato alla via del Romito, di mq. 295,04, individuato nel nuovo catasto terreni al foglio n. 63 da porzione b) della particella 85, censito alla partita n. 1 "fabbricati".
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 10 ottobre 1971
+ Atti del Governo, registro n. 244, foglio n. 129. - CARUSO
+

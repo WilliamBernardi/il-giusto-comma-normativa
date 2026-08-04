@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-09-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-09-25;657
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:41Z
+---
+
+REGIO DECRETO
+                25 settembre 1895
+                DCLVII
+                Che concentra la pia opera Massei nella congregazione di carita' di Albogno (Novara). (9500657R)
+
+Entrata in vigore del provvedimento: 01/01/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

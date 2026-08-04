@@ -1,0 +1,334 @@
+---
+tipo: REGIO DECRETO
+numero: 5406
+data: 1880-03-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-03-28;5406
+codice_redazionale: 080U5406
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:12Z
+---
+
+REGIO DECRETO
+                28 marzo 1880
+                5406
+                Che approva le annesse condizioni generali dei capitolati tipi per la vori di conto del genio militare. (080U5406)
+
+Entrata in vigore del provvedimento: 27/05/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+### Art. 1.
+
+Condizioni-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 2.
+
+Condizioni-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 3.
+
+Condizioni-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 4.
+
+Condizioni-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 5.
+
+Condizioni-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 6.
+
+Condizioni-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 7.
+
+Condizioni-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 8.
+
+Condizioni-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 9.
+
+Condizioni-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 10.
+
+Condizioni-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 11.
+
+Condizioni-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 12.
+
+Condizioni-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 13.
+
+Condizioni-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 14.
+
+Condizioni-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 15.
+
+Condizioni-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 16.
+
+Condizioni-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 17.
+
+Condizioni-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 18.
+
+Condizioni-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 19.
+
+Condizioni-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 20.
+
+Condizioni-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 21.
+
+Condizioni-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 22.
+
+Condizioni-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 23.
+
+Condizioni-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 24.
+
+Condizioni-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 25.
+
+Condizioni-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 26.
+
+Condizioni-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 27.
+
+Condizioni-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 28.
+
+Condizioni-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 29.
+
+Condizioni-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 30.
+
+Condizioni-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 31.
+
+Condizioni-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 32.
+
+Condizioni-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 33.
+
+Condizioni-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 34.
+
+Condizioni-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 35.
+
+Condizioni-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 36.
+
+Condizioni-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 37.
+
+Condizioni-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 38.
+
+Condizioni-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 39.
+
+Condizioni-art. 39 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 40.
+
+Condizioni-art. 40 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 41.
+
+Condizioni-art. 41 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 42.
+
+Condizioni-art. 42 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 43.
+
+Condizioni-art. 43 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 44.
+
+Condizioni-art. 44 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 45.
+
+Condizioni-art. 45 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 46.
+
+Condizioni-art. 46 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 47.
+
+Condizioni-art. 47 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 48.
+
+Condizioni-art. 48 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 49.
+
+Condizioni-art. 49 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 50.
+
+Condizioni-art. 50 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 51.
+
+Condizioni-art. 51 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 52.
+
+Condizioni-art. 52 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 53.
+
+Condizioni-art. 53 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 54.
+
+Condizioni-art. 54 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 55.
+
+Condizioni-art. 55 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 56.
+
+Condizioni-art. 56 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 57.
+
+Condizioni-art. 57 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 58.
+
+Condizioni-art. 58 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 59.
+
+Condizioni-art. 59 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 60.
+
+Condizioni-art. 60 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 61.
+
+Condizioni-art. 61 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 62.
+
+Condizioni-art. 62 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 63.
+
+Condizioni-art. 63 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 64.
+
+Condizioni-art. 64 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 65.
+
+Condizioni-art. 65 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 66.
+
+Condizioni-art. 66 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 67.
+
+Condizioni-art. 67 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 68.
+
+Condizioni-art. 68 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 69.
+
+Condizioni-art. 69 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 70.
+
+Condizioni-art. 70 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 71.
+
+Condizioni-art. 71 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 72.
+
+Condizioni-art. 72 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 73.
+
+Condizioni-art. 73 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 74.
+
+Condizioni-art. 74 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 75.
+
+Condizioni-art. 75 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 76.
+
+Condizioni-art. 76 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 77.
+
+Condizioni-art. 77 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+

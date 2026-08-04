@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 43
+data: 1933-01-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-01-19;43
+codice_redazionale: 033U0043
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:54Z
+---
+
+REGIO DECRETO
+                19 gennaio 1933
+                43
+                Accettazione da parte dello Stato della donazione della Villa Rosebery o Villa Brasiliana, in Napoli. (033U0043)
+
+Entrata in vigore del provvedimento: 03/03/1933
+
+## Art. 1.
+
+N.
+
+R. decreto 19 gennaio 1933, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione della Villa Rosebery o Villa Brasiliana in Napoli, Capo di Posilipo, fatta dal Governo di Sua Maesta' Britannica allo Stato italiano, con contratto 7 dicembre 1932-XI, che si approva e si rende esecutorio. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 2 febbraio 1933 - Anno XI
+

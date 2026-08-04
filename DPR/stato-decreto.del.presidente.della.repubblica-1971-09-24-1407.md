@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1407
+data: 1971-09-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-09-24;1407
+codice_redazionale: 071U1407
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 settembre 1971
+                1407
+                Autorizzazione al Patronato A.C.L.I. per i servizi sociali dei lavoratori, con sede in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 settembre 1971, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Patronato A.C.L.I. per i servizi sociali dei lavoratori, con sede in Roma, viene autorizzato ad acquistare dalla S.n.c. "Ernesto e fratelli Silva", al prezzo di L. 15.875.000, un appartamento sito in Piacenza, viale Beverora.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 4 aprile 1972
+ Atti del Governo, registro n. 248, foglio n. 20. - VALENTINI
+

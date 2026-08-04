@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 997
+data: 1971-08-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-08-28;997
+codice_redazionale: 071U0997
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 agosto 1971
+                997
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Francesca Cabrini, in Codogno.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 agosto 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Lodi in data 19 settembre 1970, integrato con dichiarazione in data 12 febbraio 1971, relativo alla erezione della parrocchia di Santa Francesca Cabrini, in Codogno (Milano).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 18 novembre 1971
+ Atti del Governo, registro n. 245, foglio n. 77. - CARUSO
+

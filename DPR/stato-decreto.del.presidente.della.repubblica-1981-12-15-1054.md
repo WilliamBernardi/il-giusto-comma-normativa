@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1054
+data: 1981-12-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-12-15;1054
+codice_redazionale: 081U1054
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 dicembre 1981
+                1054
+                Approvazione del nuovo statuto della fondazione "Accademia musicale chigiana", in Siena.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 dicembre 1981, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, viene approvato il nuovo statuto della fondazione "Accademia musicale chigiana", in Siena, eretta in ente morale con decreto del Presidente della Repubblica 17 ottobre 1961, n. 1671.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 26 febbraio 1982
+ Registro n. 6 Beni culturali, foglio n. 245
+

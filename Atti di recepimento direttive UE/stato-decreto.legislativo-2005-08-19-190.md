@@ -1,0 +1,110 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 190
+data: 2005-08-19
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2005-08-19;190
+codice_redazionale: 005G0209
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2007-12-14
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:50Z
+---
+
+DECRETO LEGISLATIVO
+                19 agosto 2005
+                190
+                Attuazione della direttiva 2002/65/CE relativa alla commercializzazione a distanza di servizi finanziari ai consumatori.
+
+Entrata in vigore del provvedimento: 7/10/2005
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 9. — (( ARTICOLO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 OTTOBRE 2007, N.221 ))
+
+
+

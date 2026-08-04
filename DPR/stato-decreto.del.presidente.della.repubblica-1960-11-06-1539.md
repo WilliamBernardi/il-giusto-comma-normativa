@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1539
+data: 1960-11-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-06;1539
+codice_redazionale: 060U1539
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 novembre 1960
+                1539
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Andrea Apostolo, in frazione Rodeano Alto del comune di Rive d'Arcano (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 novembre 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 15 settembre 1959, integrato con postilla di pari data e con dichiarazioni dell'8 ottobre 1959 e del 15 gennaio 1960, relativo alla erezione della parrocchia di Sant'Andrea Apostolo, in frazione Rodeano Alto del comune di Rive d'Arcano (Udine), e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 dicembre 1960
+ Atti del Governo, registro n. 132, foglio n. 73. - VILLA
+

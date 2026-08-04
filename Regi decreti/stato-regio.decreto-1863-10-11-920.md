@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1863-10-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-10-11;920
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:30Z
+---
+
+REGIO DECRETO
+                11 ottobre 1863
+                DCCCCXX
+                Che autorizza la Camera di commercio e d'arti di Reggio nell'Emilia ad imporre una tassa annua sugli esercenti arti, commerci e industrie nel suo distretto. (6300920R)
+
+Entrata in vigore del provvedimento: 15/11/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

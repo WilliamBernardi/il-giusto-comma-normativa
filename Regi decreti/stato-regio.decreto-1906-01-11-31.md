@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1906-01-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-01-11;31
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:34Z
+---
+
+REGIO DECRETO
+                11 gennaio 1906
+                XXXI
+                Fusione di opere pie. (0600031R)
+
+Entrata in vigore del provvedimento: 01/04/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

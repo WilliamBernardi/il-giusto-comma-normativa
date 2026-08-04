@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 334
+data: 1896-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1896-07-29;334
+codice_redazionale: 096U0334
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:40Z
+---
+
+REGIO DECRETO
+                29 luglio 1896
+                334
+                Istituzione di nuovo capitolo negli stati di previsione della spesa dei Ministeri dell'Interno e dell'Agricoltura, Industria e Commercio. (096U0334)
+
+Entrata in vigore del provvedimento: 16/08/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

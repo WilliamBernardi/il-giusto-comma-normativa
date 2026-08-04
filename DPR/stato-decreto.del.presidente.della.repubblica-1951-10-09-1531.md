@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1531
+data: 1951-10-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-10-09;1531
+codice_redazionale: 051U1531
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 ottobre 1951
+                1531
+                Riconoscimento, agli effetti civili, della erezione in parrocchia della Curazia dell'Annunciazione della Beata Maria Vergine, in Tenna (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 ottobre 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Trento in data 28 luglio 1944, integrato con postilla 12 aprile 1950, relativo all'erezione in parrocchia della Curazia, dell'Annunciazione della Beata Maria Vergine, in Tenna (Trento) e all'autorizzazione ad accettare una donazione disposta a favore del Beneficio della parrocchia stessa.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 1 dicembre 1951
+ Atti del Governo, registro n. 47, foglio n. 30. - FRASCA
+

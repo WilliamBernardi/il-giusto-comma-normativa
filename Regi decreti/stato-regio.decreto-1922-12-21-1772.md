@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1772
+data: 1922-12-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-12-21;1772
+codice_redazionale: 022U1772
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:05Z
+---
+
+REGIO DECRETO
+                21 dicembre 1922
+                1772
+                Che sopprime un posto di direttore generale nel ruolo organico del Ministero delle colonie. (022U1772)
+
+Entrata in vigore del provvedimento: 07/02/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

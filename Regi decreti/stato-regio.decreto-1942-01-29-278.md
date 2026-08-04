@@ -1,0 +1,29 @@
+---
+tipo: REGIO DECRETO
+numero: 278
+data: 1942-01-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-01-29;278
+codice_redazionale: 042U0278
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:01Z
+---
+
+REGIO DECRETO
+                29 gennaio 1942
+                278
+                Trasformazione del fine inerente al patrimonio delle Opere pie « Arte
+della lana » e « Vallemani », con sede in Fabriano (Ancona), con la
+destinazione e fusione del patrimonio stesso a vantaggio
+dell'Ospedale civile Umberto I dello stesso Comune. (042U0278)
+
+Entrata in vigore del provvedimento: 24/04/1942
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

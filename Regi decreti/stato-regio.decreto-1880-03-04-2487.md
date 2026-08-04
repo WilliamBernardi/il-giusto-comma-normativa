@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1880-03-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-03-04;2487
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:47Z
+---
+
+REGIO DECRETO
+                04 marzo 1880
+                MMCCCCLXXXVII
+                Che erige in corpo morale l'asilo infantile di Castelletto Stura (Cuneo). (8002487R)
+
+Entrata in vigore del provvedimento: 25/04/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

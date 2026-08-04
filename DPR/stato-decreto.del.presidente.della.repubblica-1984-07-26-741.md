@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 741
+data: 1984-07-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-07-26;741
+codice_redazionale: 084U0741
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 luglio 1984
+                741
+                Riconoscimento, agli effetti civili, della erezione della vicaria curata autonoma di "San Rocco", in Castelfidardo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 luglio 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Recanati 1 luglio 1980, integrato con tre dichiarazioni, le prime due del 30 agosto 1980 e la terza del 4 novembre 1983, relativo alla erezione della vicaria curata autonoma di "San Rocco", in Castelfidardo (Ancona).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 25 ottobre 1984
+ Registro n. 34 Interno, foglio n. 203
+

@@ -1,0 +1,50 @@
+---
+tipo: REGIO DECRETO
+numero: 450
+data: 1891-07-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1891-07-02;450
+codice_redazionale: 091U0450
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:42Z
+---
+
+REGIO DECRETO
+                02 luglio 1891
+                450
+                Che converte in Convitto nazionale il Convitto di Lovere (Bergamo). (091U0450)
+
+Entrata in vigore del provvedimento: 19/08/1891
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

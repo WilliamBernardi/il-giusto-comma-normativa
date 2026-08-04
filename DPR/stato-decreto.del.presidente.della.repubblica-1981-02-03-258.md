@@ -1,0 +1,70 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 258
+data: 1981-02-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-02-03;258
+codice_redazionale: 081U0258
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 febbraio 1981
+                258
+                Modificazioni allo statuto dell'Universita' degli studi di Messina.
+
+Veduto lo statuto dell'Universita' di Messina, approvato con regio decreto 1 ottobre 1936, n. 1923, e modificato con regio decreto 20 aprile 1939, n. 1090, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 22 maggio 1978, n. 217;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Messina e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+## Art. 1.
+
+Lo statuto dell'Universita' di Messina, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: 
+ 
+ Dopo l'art. 186, e con il conseguente spostamento della numerazione successiva, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in malattie del fegato e del ricambio. 
+ Scuola di specializzazione in malattie del fegato e del ricambio 
+ Art. 187. - La scuola ha la durata di tre anni ed ha sede presso l'istituto di clinica medica generale e terapia medica prima cattedra. Potranno essere iscritti alla scuola i laureati in medicina e chirurgia nel numero massimo di otto per anno, per un totale di ventiquattro specializzandi nei tre anni di corso. 
+ Non sono ammesse abbreviazioni di corso per nessun motivo. 
+ Art. 188. - Le materie di insegnamento sono le seguenti: 
+ 1° Anno: 
+ 1) anatomia e istologia normale del fegato e delle vie biliari;
+ 2) fisiologia del fegato e delle vie biliari e del ricambio intermedio; 
+ 3) clinica medica generale (triennale) I; 
+ 4) malattie del fegato e delle vie biliari (triennale) I; 
+ 5) malattie del ricambio (triennale) I; 
+ 6) nozioni di microbiologia e parassitologia con particolare riguardo al fegato; 
+ 7) nozioni sull'enzimologia e sul ricambio a livello epatico.  2° Anno: 
+ 1) anatomia e istologia patologica del fegato e delle vie biliari; 
+ 2) fisiopatologia del fegato e delle vie biliari e del ricambio intermedio; 
+ 3) diagnostica funzionale delle malattie del fegato e del ricambio; 
+ 4) controllo radiologico del fegato e delle vie biliari; 
+ 5) clinica medica generale (triennale) II; 
+ 6) malattie del fegato e delle vie biliari (triennale) II; 
+ 7) malattie del ricambio (triennale) II. 
+ 3° Anno: 
+ 1) clinica medica generale (triennale) III; 
+ 2) malattie del fegato e delle vie biliari (triennale) III; 
+ 3) malattie del ricambio (triennale) III; 
+ 4) principi di terapia generale e dietetica applicata alle malattie del fegato e del ricambio; 
+ 5) terapia chirurgica delle malattie del fegato e delle vie biliari; 
+ 6) terapia idrologica delle malattie del fegato e delle vie biliari e del ricambio. 
+ Art. 189. - Gli iscritti hanno l'obbligo di frequenza alle lezioni e di assistenza pratica secondo le modalita' stabilite dal direttore della scuola stessa. 
+ Al termine di ciascun anno gli specializzandi che hanno ottenuto la prescritta attestazione di frequenza per iscriversi all'anno successivo devono superare un esame di profitto, comprensivo delle materie in insegnamento dell'anno stesso. 
+ Alla fine del terzo anno gli specializzandi devono sostenere l'esame di diploma che consiste nella discussione di una dissertazione scritta su un tema approvato in precedenza dal direttore della scuola.
+

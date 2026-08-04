@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1078
+data: 1972-12-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-12-12;1078
+codice_redazionale: 072U1078
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 dicembre 1972
+                1078
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria SS.ma del Carmine, in Frattamaggiore.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 dicembre 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Aversa in data 13 giugno 1971, integrato con altro del 15 successivo e con dichiarazione 10 agosto 1971, relativo alla erezione della parrocchia di Maria SS.ma del Carmine, in Frattamaggiore (Napoli).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 5 marzo 1973
+ Atti di Governo, registro n. 256, foglio n. 54. - VALENTINI
+

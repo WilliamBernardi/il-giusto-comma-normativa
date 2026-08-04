@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 2028
+data: 1932-11-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-11-24;2028
+codice_redazionale: 032U2028
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:15Z
+---
+
+REGIO DECRETO
+                24 novembre 1932
+                2028
+                Riconoscimento, agli effetti civili, del decreto dell'Arcivescovo di Siena 25 febbraio 1932, concernente il trasferimento della sede della parrocchia di S. Fortunato in Murlo. (032U2028)
+
+Entrata in vigore del provvedimento: 14/03/1933
+
+## Art. 1.
+
+N.
+
+R. decreto 24 novembre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Siena in data 25 febbraio 1932, col quale la sede della parrocchia di S. Fortunato in Murlo e' stata trasferita nella nuova Chiesa di S.
+Fortunato in Vescovado di Murlo. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 17 febbraio 1933 - Anno XI
+

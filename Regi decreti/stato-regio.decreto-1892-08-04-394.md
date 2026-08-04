@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 394
+data: 1892-08-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-08-04;394
+codice_redazionale: 092U0394
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:27Z
+---
+
+REGIO DECRETO
+                04 agosto 1892
+                394
+                Che abroga la disposizione contenuta nel R. decreto 12 aprile 1891, n. 206. (092U0394)
+
+Entrata in vigore del provvedimento: 26/08/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

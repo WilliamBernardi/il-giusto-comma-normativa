@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1892-08-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-08-16;610
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:06Z
+---
+
+REGIO DECRETO
+                16 agosto 1892
+                DCX
+                Che concentra nella congregazione di carita' di Bollate (Milano) le opere pie Pozzi e Giovanni Beccaria, Formenti-Della Croce e Busca. (9200610R)
+
+Entrata in vigore del provvedimento: 29/09/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

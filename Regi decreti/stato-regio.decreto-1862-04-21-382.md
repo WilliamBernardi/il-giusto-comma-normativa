@@ -1,0 +1,45 @@
+---
+tipo: REGIO DECRETO
+data: 1862-04-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1862-04-21;382
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:16Z
+---
+
+REGIO DECRETO
+                21 aprile 1862
+                CCCLXXXII
+                Col quale e' dichiarata opera di utilita' pubblica l'occupazione di varii locali demaniali in Napoli affittati a privati. (6200382R)
+
+Entrata in vigore del provvedimento: 24/06/1862
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+## Art. 1.
+
+E' dichiarata opera d'utilita' pubblica l'occupazione dei locali affittati a privati negli edifizi che il Demanio dello Stato possiede in Napoli denominati Foresteria, ex Principe di Salerno, Solitaria o Consulta, ed Egiziaca.
+
+## Art. 2.
+
+Sara' agl'inquilini suddetti corrisposta quell'equa indennita' che verra' di comune accordo convenuta fra essi e la pubblica Amministrazione, od in difetto stabilita dal Tribunale competente. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 21 aprile 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 30 maggio 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 341. Wehrlin. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli R. Conforti. 
+ 
+ Quintino Sella.
+

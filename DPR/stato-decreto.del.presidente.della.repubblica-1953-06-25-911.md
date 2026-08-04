@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 911
+data: 1953-06-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-06-25;911
+codice_redazionale: 053U0911
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 giugno 1953
+                911
+                Autorizzazione al Politecnico di Milano ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 giugno 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Milano viene autorizzato ad accettare la donazione di L. 417.500 nominali, in titoli di Stato rendita italiana 5%, disposta in suo favore dal prof. dott. mg. Piero Portaluppi, con atto pubblico amministrativo in data 28 ottobre 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio da intitolarsi "Premio dott. ing. Tuccio Portaluppi" e da conferirsi annualmente ad un laureato della Facolta' di architettura del Politecnico di Milano che abbia dato prova di speciale cultura e applicazione nel campo delle scienze e delle tecniche ausiliarie dell'architettura.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 7 dicembre 1953
+ Atti del Governo, registro n. 80, foglio n. 64. - PALLA
+

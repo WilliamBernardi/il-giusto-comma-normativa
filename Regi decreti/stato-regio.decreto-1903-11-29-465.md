@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-11-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-11-29;465
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:01Z
+---
+
+REGIO DECRETO
+                29 novembre 1903
+                CCCCLXV
+                Che applica nel comune di Correggio, pel 1903, la tassa di famiglia col limite massimo di lire 350. (0300465R)
+
+Entrata in vigore del provvedimento: 31/12/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

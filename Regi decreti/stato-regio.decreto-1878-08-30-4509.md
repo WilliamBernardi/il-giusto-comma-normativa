@@ -1,0 +1,394 @@
+---
+tipo: REGIO DECRETO
+numero: 4509
+data: 1878-08-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1878-08-30;4509
+codice_redazionale: 078U4509
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:08Z
+---
+
+REGIO DECRETO
+                30 agosto 1878
+                4509
+                Col quale viene approvata l'istruzione per il servizio dei comandi di corpo di armata, di divisione e di presidio. (078U4509)
+
+Entrata in vigore del provvedimento: 20/10/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+### Art. 1.
+
+Istruzione-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 2.
+
+Istruzione-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 3.
+
+Istruzione-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 4.
+
+Istruzione-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 5.
+
+Istruzione-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 6.
+
+Istruzione-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 7.
+
+Istruzione-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 8.
+
+Istruzione-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 9.
+
+Istruzione-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 10.
+
+Istruzione-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 11.
+
+Istruzione-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 12.
+
+Istruzione-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 13.
+
+Istruzione-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 14.
+
+Istruzione-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 15.
+
+Istruzione-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 16.
+
+Istruzione-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 17.
+
+Istruzione-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 18.
+
+Istruzione-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 19.
+
+Istruzione-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 20.
+
+Istruzione-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 21.
+
+Istruzione-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 22.
+
+Istruzione-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 23.
+
+Istruzione-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 24.
+
+Istruzione-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 25.
+
+Istruzione-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 26.
+
+Istruzione-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 27.
+
+Istruzione-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 28.
+
+Istruzione-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 29.
+
+Istruzione-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 30.
+
+Istruzione-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 31.
+
+Istruzione-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 32.
+
+Istruzione-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 33.
+
+Istruzione-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 34.
+
+Istruzione-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 35.
+
+Istruzione-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 36.
+
+Istruzione-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 37.
+
+Istruzione-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 38.
+
+Istruzione-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 39.
+
+Istruzione-art. 39 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 40.
+
+Istruzione-art. 40 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 41.
+
+Istruzione-art. 41 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 42.
+
+Istruzione-art. 42 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 43.
+
+Istruzione-art. 43 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 44.
+
+Istruzione-art. 44 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 45.
+
+Istruzione-art. 45 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 46.
+
+Istruzione-art. 46 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 47.
+
+Istruzione-art. 47 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 48.
+
+Istruzione-art. 48 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 49.
+
+Istruzione-art. 49 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 50.
+
+Istruzione-art. 50 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 51.
+
+Istruzione-art. 51 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 52.
+
+Istruzione-art. 52 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 53.
+
+Istruzione-art. 53 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 54.
+
+Istruzione-art. 54 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 55.
+
+Istruzione-art. 55 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 56.
+
+Istruzione-art. 56 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 57.
+
+Istruzione-art. 57 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 58.
+
+Istruzione-art. 58 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 59.
+
+Istruzione-art. 59 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 60.
+
+Istruzione-art. 60 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 61.
+
+Istruzione-art. 61 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 62.
+
+Istruzione-art. 62 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 63.
+
+Istruzione-art. 63 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 64.
+
+Istruzione-art. 64 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 65.
+
+Istruzione-art. 65 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 66.
+
+Istruzione-art. 66 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 67.
+
+Istruzione-art. 67 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 68.
+
+Istruzione-art. 68 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 69.
+
+Istruzione-art. 69 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 70.
+
+Istruzione-art. 70 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 71.
+
+Istruzione-art. 71 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 72.
+
+Istruzione-art. 72 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 73.
+
+Istruzione-art. 73 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 74.
+
+Istruzione-art. 74 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 75.
+
+Istruzione-art. 75 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 76.
+
+Istruzione-art. 76 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 77.
+
+Istruzione-art. 77 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 78.
+
+Istruzione-art. 78 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 79.
+
+Istruzione-art. 79 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 80.
+
+Istruzione-art. 80 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 81.
+
+Istruzione-art. 81 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 82.
+
+Istruzione-art. 82 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 83.
+
+Istruzione-art. 83 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 84.
+
+Istruzione-art. 84 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 85.
+
+Istruzione-art. 85 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 86.
+
+Istruzione-art. 86 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 87.
+
+Istruzione-art. 87 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 88.
+
+Istruzione-art. 88 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 89.
+
+Istruzione-art. 89 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 90.
+
+Istruzione-art. 90 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+

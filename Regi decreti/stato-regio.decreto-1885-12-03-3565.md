@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3565
+data: 1885-12-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-12-03;3565
+codice_redazionale: 085U3565
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:41Z
+---
+
+REGIO DECRETO
+                03 dicembre 1885
+                3565
+                Che modifica l'elenco delle strade provinciali di Bergamo. (085U3565)
+
+Entrata in vigore del provvedimento: 08/01/1886
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

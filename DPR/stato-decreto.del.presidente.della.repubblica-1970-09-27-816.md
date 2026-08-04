@@ -1,0 +1,178 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 816
+data: 1970-09-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-09-27;816
+codice_redazionale: 070U0816
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 settembre 1970
+                816
+                Modificazioni allo statuto dell'Universita' degli studi di Palermo.
+
+Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con regio decreto 14 ottobre 1926, n. 2412 e modificato con regio decreto 13 ottobre 1927, n. 2240, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n: 312;
+
+Veduta la legge 12 marzo 1968, n. 442;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 10. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto industriale".
+
+Art. 28, relativo alle norme per gli esami di laurea in lettere e' modificato nel senso che viene aggiunto il seguente comma:
+
+"Tuttavia i candidati alla laurea in lettere provenienti dall'indirizzo classico potranno presentare una dissertazione attinente alla storia della filosofia antica".
+
+Art. 66, relativo alle precedenze degli esami del corso di laurea in ingegneria e modificato nel senso che nel comma c) viene abolita la precedenza dell'esame di fisica tecnica rispetto all'aerodinamica.
+
+Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+Docimologia;
+
+Sociologia dell'educazione;
+
+Psicologia scolastica;
+
+Linguistica applicata;
+
+Storia della filosofia moderna e contemporanea;
+
+Storia delle dottrine politiche;
+
+Geografia antropica.
+
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo ultimo comma:
+
+"Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali ed ai complementari di cui al comma precedente, seguire al quarto anno e superare almeno altri due insegnamenti complementari concernenti le scienze dell'educazione. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso".
+
+Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+Docimologia;
+
+Sociologia dell'educazione;
+
+Psicologia scolastica;
+
+Linguistica applicata;
+
+Storia della filosofia moderna e contemporanea;
+
+Storia delle dottrine politiche;
+
+Geografia antropica.
+
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo ultimo comma:
+
+"Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali ed ai complementari di cui al comma precedente, seguire al quarto anno e superare almeno altri due insegnamenti complementari concernenti le scienze dell'educazione. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso".
+
+Art. 100. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+Didattica delle lingue moderne;
+
+Docimologia;
+
+Sociologia dell'educazione;
+
+Psicologia scolastica;
+
+Linguistica applicata;
+
+Storia della filosofia moderna e contemporanea;
+
+Storia delle dottrine politiche;
+
+Geografia antropica.
+
+Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo ultimo comma:
+
+"Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali ed ai complementari di cui al comma precedente, seguire al quarto anno e superare almeno altri due insegnamenti complementari concernenti le scienze dell'educazione. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 settembre 1970
+
+SARAGAT
+
+MISASI
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Palermo, approvato con regio decreto 14 ottobre 1926, n. 2412 e modificato con regio decreto 13 ottobre 1927, n. 2240, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n: 312;
+ Veduta la legge 12 marzo 1968, n. 442;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Palermo, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 10. - All'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "Diritto industriale".
+ Art. 28, relativo alle norme per gli esami di laurea in lettere e' modificato nel senso che viene aggiunto il seguente comma:
+ "Tuttavia i candidati alla laurea in lettere provenienti dall'indirizzo classico potranno presentare una dissertazione attinente alla storia della filosofia antica".
+ Art. 66, relativo alle precedenze degli esami del corso di laurea in ingegneria e modificato nel senso che nel comma c) viene abolita la precedenza dell'esame di fisica tecnica rispetto all'aerodinamica.
+ Art. 98. - All'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti:
+
+ Docimologia;
+ Sociologia dell'educazione;
+ Psicologia scolastica;
+ Linguistica applicata;
+ Storia della filosofia moderna e contemporanea;
+ Storia delle dottrine politiche;
+ Geografia antropica.
+ Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo ultimo comma:
+ "Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali ed ai complementari di cui al comma precedente, seguire al quarto anno e superare almeno altri due insegnamenti complementari concernenti le scienze dell'educazione. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso".
+ Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti:
+
+ Docimologia;
+ Sociologia dell'educazione;
+ Psicologia scolastica;
+ Linguistica applicata;
+ Storia della filosofia moderna e contemporanea;
+ Storia delle dottrine politiche;
+ Geografia antropica.
+ Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo ultimo comma:
+ "Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali ed ai complementari di cui al comma precedente, seguire al quarto anno e superare almeno altri due insegnamenti complementari concernenti le scienze dell'educazione. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso".
+ Art. 100. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti:
+
+ Didattica delle lingue moderne;
+ Docimologia;
+ Sociologia dell'educazione;
+ Psicologia scolastica;
+ Linguistica applicata;
+ Storia della filosofia moderna e contemporanea;
+ Storia delle dottrine politiche;
+ Geografia antropica.
+ Nello stesso articolo, dopo l'elenco degli insegnamenti complementari e' aggiunto il seguente nuovo ultimo comma:
+ "Lo studente che intende conseguire il diploma di laurea con valore abilitante all'insegnamento nella scuola media, deve, oltre agli insegnamenti fondamentali ed ai complementari di cui al comma precedente, seguire al quarto anno e superare almeno altri due insegnamenti complementari concernenti le scienze dell'educazione. La laurea abilitante si conseguira' soltanto dopo la frequenza del quinto anno di corso".
+

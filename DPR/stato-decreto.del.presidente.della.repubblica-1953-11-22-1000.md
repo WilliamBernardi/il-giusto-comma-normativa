@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1000
+data: 1953-11-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1000
+codice_redazionale: 053U1000
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 novembre 1953
+                1000
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della Nativita' della Beata Vergine Maria, in frazione Bosco del comune di Busca (Cuneo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Saluzzo in data 22 febbraio 1953, relativo all'erezione della parrocchia della Nativita' della Beata Vergine Maria, in frazione Bosco del comune di Busca (Cuneo).
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 8 gennaio 1954
+ Atti del Governo, registro n. 81, foglio n. 15. - PALLA
+

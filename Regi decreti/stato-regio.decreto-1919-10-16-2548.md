@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2548
+data: 1919-10-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1919-10-16;2548
+codice_redazionale: 019U2548
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:08Z
+---
+
+REGIO DECRETO
+                16 ottobre 1919
+                2548
+                Approvazione di contributo scolastico dovuto da comune allo Stato. (019U2548)
+
+Entrata in vigore del provvedimento: 13/02/1920
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

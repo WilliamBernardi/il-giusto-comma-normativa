@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 225
+data: 1956-02-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-02-16;225
+codice_redazionale: 056U0225
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 febbraio 1956
+                225
+                Riconoscimento della personalita' giuridica della Casa religiosa dell'Ordine dei Certosini, denominata "Certosa San Francesco", con sede in Giaveno (Torino).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 febbraio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa religiosa dell'Ordine dei Certosini, denominata "Certosa di San Francesco", con sede in Giaveno (Torino).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 28 marzo 1956
+ Atti del Governo, registro n. 96, foglio n. 183. - CARLOMAGNO
+

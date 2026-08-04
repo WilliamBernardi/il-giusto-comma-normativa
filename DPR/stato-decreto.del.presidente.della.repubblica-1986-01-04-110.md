@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 110
+data: 1986-01-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-01-04;110
+codice_redazionale: 086U0110
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 gennaio 1986
+                110
+                Istituzione di un'agenzia consolare di prima categoria in Montevideo (Uruguay).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativo all'ordinamento dell'Amministrazione degli affari esteri;
+ Sentito il parere del consiglio di amministrazione del Ministero degli affari esteri;
+ Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del tesoro;
+
+ Decreta:
+
+ A decorrere dal 1 febbraio 1986 e' istituita in Montevideo (Uruguay) un'agenzia consolare di prima categoria.
+

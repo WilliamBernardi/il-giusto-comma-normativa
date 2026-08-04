@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 827
+data: 1981-11-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-11-16;827
+codice_redazionale: 081U0827
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 novembre 1981
+                827
+                Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare un lascito.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 novembre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, il lascito, consistente in 386 azioni Fondiaria vita per un valore di L. 10.422.000 alla data del 16 dicembre 1975, disposto dalla sig.na Rachele Ines Alessio Gilodi con testamento olografo 18 ottobre 1975, pubblicato in data 22 dicembre 1975, n. 49749 di repertorio e n. 8367 di raccolta, a rogito dott. Giuseppe Gunnella, notaio in Firenze, registrato a Firenze il 24 dicembre 1975 al n. 8160.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 6 gennaio 1982
+ Registro n. 1 Presidenza, foglio n. 1
+

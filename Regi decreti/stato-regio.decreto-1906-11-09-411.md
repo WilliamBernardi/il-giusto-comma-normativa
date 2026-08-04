@@ -1,0 +1,25 @@
+---
+tipo: REGIO DECRETO
+data: 1906-11-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-11-09;411
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:45Z
+---
+
+REGIO DECRETO
+                09 novembre 1906
+                CCCCXI
+                Che stabilisce zone di servitu' militare a Spezia. (0600411R)
+
+Entrata in vigore del provvedimento: 12/12/1906
+
+## Art. 1.
+
+Sulla proposta del ministro della guerra: 
+ 
+ N. CCCCXI (Dato a San Rossore, il 9 novembre 1906), col quale si stabiliscono le zone di servitu' militare attorno alla batteria Castagna della piazza di Spezia.
+

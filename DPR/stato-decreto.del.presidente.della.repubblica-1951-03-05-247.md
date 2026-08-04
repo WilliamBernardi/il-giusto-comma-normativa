@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 247
+data: 1951-03-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-03-05;247
+codice_redazionale: 051U0247
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 marzo 1951
+                247
+                Riconoscimento, agli effetti civili, della erezione della parrocchia dell'Immacolata Concezione della Beata Maria Vergine, in frazione Mellana del comune di Boves (Cuneo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 marzo 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Cuneo in data 1 maggio 1950, integrato con dichiarazione 12 settembre-28 ottobre stesso anno, relativo all'erezione della parrocchia dell'Immacolata Concezione della Beata Maria Vergine, in frazione Mellana del comune di Boves (Cuneo).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 12 aprile 1951
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 583
+data: 1975-10-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-10-20;583
+codice_redazionale: 075U0583
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 ottobre 1975
+                583
+                Autorizzazione all'Associazione nazionale fra mutilati ed invalidi di guerra, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 ottobre 1975, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Associazione nazionale fra mutilati ed invalidi di guerra, in Roma, viene autorizzata ad acquistare al prezzo di L. 7.000.000, un appartamento sito in Isernia, corso Risorgimento, 44, composto di due camere e servizi per complessivi mq 67,98, di proprieta' della sig.ra Carmela Berardinelli, censito nel nuovo catasto edilizio urbano alla partita 1226, foglio 75 con il n. 15/4, da destinare a sede della locale sezione.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 26 novembre 1975
+ Atti di Governo, registro n. 14, foglio n. 61
+

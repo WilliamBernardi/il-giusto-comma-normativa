@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2341
+data: 1923-10-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-10-21;2341
+codice_redazionale: 023U2341
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:38Z
+---
+
+REGIO DECRETO
+                21 ottobre 1923
+                2341
+                Autorizzazione a conferire senza concorso non piu' di 10 posti di usciere giudiziario agli invalidi di guerra gia' appartenenti al personale di ruolo e straordinario dell'arsenale della Regia marina, o del distretto militare di Napoli. (023U2341)
+
+Entrata in vigore del provvedimento: 30/11/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

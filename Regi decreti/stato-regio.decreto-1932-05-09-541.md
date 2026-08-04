@@ -1,0 +1,29 @@
+---
+tipo: REGIO DECRETO
+numero: 541
+data: 1932-05-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-05-09;541
+codice_redazionale: 032U0541
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:56Z
+---
+
+REGIO DECRETO
+                09 maggio 1932
+                541
+                Riconoscimento della personalita' giuridica della Provincia di Napoli dei Frati Minori Cappuccini, con sede in Napoli. (032U0541)
+
+Entrata in vigore del provvedimento: 15/06/1932
+
+## Art. 1.
+
+N.
+
+R. decreto 9 maggio 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica della Provincia di Napoli, con sede in quella citta', dei Frati Minori Cappuccini. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 21 maggio 1932 - Anno X
+

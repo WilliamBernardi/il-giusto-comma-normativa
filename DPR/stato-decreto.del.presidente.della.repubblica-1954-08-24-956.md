@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 956
+data: 1954-08-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-24;956
+codice_redazionale: 054U0956
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 agosto 1954
+                956
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della SS.ma Trinita', in localita' Bivio Correggi del comune di Ostellato (Ferrara).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 agosto 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Comacchio in data 8 dicembre 1953, relativo all'erezione della parrocchia della SS.ma Trinita', in localita' Bivio Correggi del comune di Ostellato (Ferrara).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 11 ottobre 1954
+ Atti del Governo, registro n. 86, foglio n. 121. - CARLOMAGNO
+

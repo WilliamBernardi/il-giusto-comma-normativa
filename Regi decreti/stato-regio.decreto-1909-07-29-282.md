@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1909-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-07-29;282
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:05Z
+---
+
+REGIO DECRETO
+                29 luglio 1909
+                CCLXXXII
+                Che autorizza il comune di Albissola Superiore ad esigere un dazio sulla carta bianca, colorata da scrivere e da involgere. (0900282R)
+
+Entrata in vigore del provvedimento: 18/09/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

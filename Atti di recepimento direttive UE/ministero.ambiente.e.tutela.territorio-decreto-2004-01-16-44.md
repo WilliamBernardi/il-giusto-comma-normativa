@@ -1,0 +1,247 @@
+---
+tipo: DECRETO
+numero: 44
+data: 2004-01-16
+titolo: ""
+urn: urn:nir:ministero.ambiente.e.tutela.territorio:decreto:2004-01-16;44
+codice_redazionale: 004G0071
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2017-12-19
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:50Z
+---
+
+DECRETO
+                16 gennaio 2004
+                44
+                Recepimento della direttiva 1999/13/CE relativa alla limitazione delle emissioni di composti organici volatili di talune attivita' industriali, ai sensi dell'articolo 3, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203.
+
+Entrata in vigore del provvedimento: 12/3/2004
+
+E DELLA TUTELA DEL TERRITORIO di concerto con
+
+IL MINISTRO DELLA SALUTE
+
+e
+
+IL MINISTRO DELLE ATTIVITA' PRODUTTIVE
+
+176 del 30 luglio 1990, recante linee guida per il contenimento delle emissioni inquinanti degli impianti industriali e la fissazione dei valori minimi e massimi di emissione;
+
+Sentita la Conferenza unificata nella seduta del 24 luglio 2003;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 27 ottobre 2003;
+
+## Art. 1. — Campo di applicazione
+
+Il presente decreto disciplina, in attuazione della direttiva 99/13/CE e dell'articolo 3, comma 2, del decreto del Presidente della Repubblica 24 maggio 1988, n. 203, i valori limite, i criteri temporali di adeguamento e i metodi di analisi e di valutazione delle emissioni prodotte dagli impianti, come definiti all'articolo 2, comma 1, lettera r), che nell'esercizio delle attivita' individuate all'allegato I superano le soglie di consumo di solvente indicate nello stesso allegato. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 2. — Definizioni
+
+"disponibili": le tecniche sviluppate su una scala che ne consente l'applicazione in condizioni economicamente e tecnicamente valide nell'ambito del pertinente comparto industriale, prendendo in considerazione i costi e i vantaggi, indipendentemente dal fatto che siano o meno applicate o prodotte in ambito nazionale, purche' il gestore possa averne accesso a condizioni ragionevoli;
+
+"migliori": le tecniche piu' efficaci per ottenere un elevato livello di protezione dell'ambiente nel suo complesso; 
+ bb) "modifica sostanziale": 
+ 1) per un impianto che rientra nell'ambito di applicazione del decreto legislativo n. 372 del 1999 la definizione ivi specificata; 
+ 2) per un piccolo impianto, una modifica della capacita' nominale che porta ad un aumento delle emissioni di composti organici volatili superiore al 25%; 
+ 3) per tutti gli altri impianti, una modifica della capacita' nominale che porta ad un aumento delle emissioni di composti organici volatili superiore al 10%; 
+ 4) qualsiasi modifica che, a giudizio dell'autorita' competente, potrebbe avere effetti negativi significativi sulla salute umana o sull'ambiente; 
+ 5) qualsiasi modifica della capacita' nominale che comporta variazione della soglia di consumo e conseguente variazione dei valori limite applicabili secondo l'allegato II; 
+ cc) "operazioni di avviamento e di arresto": le operazioni di messa in servizio, di messa fuori servizio e d'interruzione di un'attivita' di un elemento dell'impianto o di un serbatoio, come definiti al paragrafo 1 dell'allegato al decreto ministeriale 21 dicembre 1995. Nel caso in cui, nel corso dell'attivita', si verificano regolarmente periodi di oscillazione, questi non devono essere considerati come avviamenti e arresti; 
+ dd) "piccolo impianto": un impianto dove sono svolte le attivita' di cui all'allegato II, punti 1, 3, 4, 5, 8, 10, 13, 16 o 17, con una soglia di consumo di solvente inferiore o uguale al valore indicato nella terza colonna dello stesso allegato, ovvero le altre attivita' dell'allegato II, con una soglia di consumo di solvente inferiore a 10 tonnellate all'anno; 
+ ee) "preparato": le miscele o le soluzioni composte di due o piu' sostanze; 
+ ff) "riutilizzo di solventi organici": l'uso di solventi organici recuperati nell'impianto per qualsiasi scopo tecnico o commerciale, ivi compreso l'uso come combustibile; 
+ gg) "rivestimento": ogni preparato, compresi tutti i solventi organici o i preparati contenenti solventi organici necessari per una sua corretta applicazione, usato per ottenere su una superficie un effetto decorativo, protettivo o funzionale; 
+ hh) "scarichi gassosi": gli effluenti gassosi finali contenenti composti organici volatili o altri inquinanti, emessi nell'aria da un camino o da un dispositivo di abbattimento. I flussi volumetrici sono espressi in metri cubi/ora in condizioni normali; 
+ ii) "soglia di consumo": il valore di consumo di solvente espresso in tonnellate/anno, riferito alle attivita' di cui all'allegato I, determinato in riferimento alla capacita' nominale dell'impianto. Tale valore si determina in riferimento alla potenzialita' della singola attivita', come prevista a livello di progetto, e tenendo conto delle condizioni di esercizio normali; 
+ ll) "soglia di produzione": la quantita' espressa in numero di pezzi prodotti/anno di cui all'appendice 1 dell'allegato II, riferita alla potenzialita' di prodotto prevista a livello di progetto dell'impianto; 
+ mm) "solvente organico alogenato": un solvente organico che contiene almeno un atomo di bromo, cloro, fluoro o iodio per molecola; 
+ nn) "solvente organico": qualsiasi COV usato da solo o in combinazione con altri agenti al fine di dissolvere materie prime, prodotti o materiali di rifiuto, senza subire trasformazioni chimiche o usato come agente di pulizia per dissolvere contaminanti oppure come dissolvente, mezzo di dispersione, correttore di viscosita', correttore di tensione superficiale, plastificante o conservante; 
+ oo) "sostanze": qualsiasi elemento chimico e i suoi composti quali si presentano allo stato naturale o prodotti dall'industria, in forma solida, liquida o gassosa; 
+ pp) "valore limite di emissione": la massa di composti organici volatili nelle emissioni che non puo' essere superata in un determinato periodo di tempo, espressa come fattore di emissione in riferimento a taluni parametri specifici, come concentrazione, come percentuale o come livello di emissione, calcolati in condizioni normali; 
+ qq) "vernice": un rivestimento trasparente. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 3. — Valori limite di emissione
+
+Gli impianti di cui all'articolo 1 rispettano i valori limite di emissione negli scarichi gassosi e i valori limite di emissione diffusa indicati nell'allegato II oppure i valori limite di emissione totale individuati ai sensi dell'allegato II o dell'allegato III, nonche' le altre prescrizioni individuate ai sensi dei medesimi allegati. Tale risultato e' ottenuto mediante l'applicazione delle migliori tecniche disponibili e, in particolare, utilizzando materie prime a ridotto o nullo tenore di solventi organici, ottimizzando l'esercizio e la gestione degli impianti e, ove necessario, installando idonei dispositivi di abbattimento, in modo da minimizzare le emissioni di composti organici volatili.
+
+Sono fatte salve le autorizzazioni rilasciate prima della data di entrata in vigore del presente decreto che conseguono un maggiore contenimento delle emissioni di composti organici volatili rispetto a quello ottenibile con l'applicazione delle indicazioni di cui agli allegati II e III. In tale caso rimangono validi i metodi di campionamento e di analisi indicati nelle autorizzazioni o, laddove non indicati, quelli previsti dal decreto ministeriale 12 luglio 1990, e successive modifiche, o quelli in uso alla data delle stesse autorizzazioni. E' fatta salva la facolta' del gestore dell'impianto di chiedere all'autorita' competente di rivedere dette autorizzazioni sulla base delle disposizioni del presente decreto.
+
+Fermi restando i contenuti dell'autorizzazione stabiliti dal decreto del Presidente della Repubblica n. 203 del 1988, l'autorita' competente indica nell'autorizzazione l'emissione totale annua conseguente all'applicazione di quanto disposto al comma 1, individuata sulla base della capacita' nominale dell'impianto indicata dal gestore, nonche' la periodicita' dell'aggiornamento del piano di gestione di cui all'articolo 5, comma 2.
+
+Per gli impianti che rientrano nel campo di applicazione del decreto legislativo n. 372 del 1999 le prescrizioni di cui agli allegati II e III costituiscono i requisiti minimi ai quali detti impianti debbono conformarsi.
+
+Qualora il gestore comprovi all'autorita' competente che, per un singolo impianto, pur utilizzando la migliore tecnica disponibile, non e' possibile il conseguimento del valore limite stabilito per le emissioni diffuse, la stessa autorita' puo' autorizzare, per tale singolo impianto, deroghe a detto valore limite di emissione, salvo che cio' non comporti rischi per la salute umana o per l'ambiente.
+
+L'autorita' competente puo' esentare il gestore dall'applicazione delle prescrizioni di cui all'allegato II nel caso di attivita' che non possono essere gestite in condizioni di confinamento, qualora tale possibilita' sia prevista nello stesso allegato. In tal caso il gestore si conforma all'allegato III, salvo che comprovi all'autorita' competente che il rispetto di detto allegato non e' tecnicamente ed economicamente fattibile e che utilizza la migliore tecnica disponibile.
+
+Le autorita' competenti comunicano al Ministero dell'ambiente e della tutela del territorio, nell'ambito della relazione di cui all'articolo 8, le deroghe autorizzate ai sensi dei commi 5 e 6.
+
+L'autorita' competente puo' esentare il gestore dall'obbligo di conformarsi alle prescrizioni di cui al comma 1 nel caso di impianti adibiti a due o piu' attivita' che, individualmente, superano le soglie di cui all'allegato I, purche' la somma delle emissioni totali di dette attivita' non superi la somma delle emissioni totali che si avrebbero se fossero rispettati, per ogni singola attivita', i requisiti di cui allo stesso comma 1. Tale esenzione non si applica nel caso di emissioni delle sostanze indicate ai commi 9 e 11.
+
+Le sostanze o i preparati, classificati ai sensi del decreto legislativo 3 febbraio 1997, n. 52, e successive modifiche, come cancerogeni, mutageni o tossici per la riproduzione, a causa del loro tenore di COV, e ai quali sono state assegnate etichette con le frasi di rischio R45, R46, R49, R60, R61, sono sostituiti quanto prima con sostanze o preparati meno nocivi, tenendo conto delle linee guida della Commissione europea, ove emanate.
+
+Per le emissioni dei COV di cui al comma 9, nel caso in cui il flusso di massa della somma dei COV, che determinano l'obbligo di etichettatura di cui al medesimo comma, sia uguale o superiore a 10 g/h, e' stabilito un valore limite di 2 mg/Nm3 riferito alla somma delle masse dei singoli COV.
+
+Per le emissioni dei COV alogenati, cui sono state assegnate etichette con le frasi di rischio R40, R68, nel caso in cui il flusso di massa della somma dei COV che determinano l'obbligo di etichettatura R40, R68 sia uguale o superiore a 100 g/h, e' stabilito un valore limite di emissione di 20 mg/Nm3, riferito alla somma delle masse dei singoli COV.
+
+Al fine di tutelare la salute umana e l'ambiente, le emissioni dei COV di cui ai commi 9 e 11 sono gestite in condizioni di confinamento e il gestore adotta tutte le precauzioni opportune per ridurre al minimo le stesse emissioni durante le fasi di avviamento e di arresto.
+
+Alle emissioni di COV ai quali, successivamente alla data di entrata in vigore del presente decreto, e' assegnata, o sui quali e' riportata, una delle frasi di rischio di cui ai commi 9 e 11, si applicano, quanto prima e, comunque, entro un anno dall'entrata in vigore del provvedimento di recepimento delle relative disposizioni comunitarie, i valori limite di emissione specificati, rispettivamente, nei commi 10 e 11.
+
+Il gestore di un impianto esistente che utilizza un dispositivo di abbattimento che consente il rispetto del valore limite di emissione pari a 50 mgC/Nm3, in caso di incenerimento, e a 150 mgC/Nm3, per qualsiasi altro tipo di dispositivo di abbattimento, e' esentato dall'obbligo di conformarsi ai valori limite di emissione negli scarichi gassosi di cui all'allegato II fino al 1° aprile 2013, a condizione che le emissioni totali dell'intero impianto non superino le emissioni che si sarebbero verificate rispettando le prescrizioni dell'allegato II.
+
+Il gestore adotta tutte le precauzioni opportune per ridurre al minimo le emissioni durante le fasi di avviamento e di arresto. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 4. — Controlli
+
+Il gestore, in conformita' alle relative prescrizioni contenute nel provvedimento di autorizzazione e, comunque, almeno una volta all'anno, fornisce all'autorita' competente tutti i dati che consentono a detta autorita' di verificare la conformita' dell'impianto alle prescrizioni di cui all'articolo 5.
+
+Il gestore installa apparecchiature per la misura e per la registrazione in continuo delle emissioni nei punti di emissione presidiati da dispositivi di abbattimento e con un flusso di massa di COV, espressi come carbonio organico totale, superiore a 10 kg/h al punto finale di scarico, onde verificare la conformita' delle stesse emissioni ai valori limite negli scarichi gassosi di cui all'articolo 5. Nel caso di flusso di massa inferiore, lo stesso gestore effettua misurazioni continue o periodiche, assicurando almeno tre letture durante ogni misurazione, nel caso di misurazioni periodiche; l'autorita' competente puo', comunque, richiedere, anche in questo caso, l'installazione di apparecchiature per la misura e per la registrazione in continuo delle emissioni, ove lo ritenga necessario.
+
+Per la verifica dei valori limite espressi in concentrazione di massa sono utilizzati i metodi analitici indicati nell'allegato V.
+
+In alternativa alle apparecchiature di cui al comma 2, l'autorita' competente puo' consentire l'installazione di strumenti per la misura e per la registrazione in continuo dei parametri significativi ed indicativi del corretto stato di funzionamento dei dispositivi di abbattimento. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 5. — Conformita' ai valori limite di emissione
+
+Al fine di cui al comma 1, il gestore effettua, per quanto prescritto dall'autorizzazione, misurazioni di COV continue o periodiche negli scarichi gassosi, come previsto all'articolo 4, comma 2, ed elabora e aggiorna, con la periodicita' prevista dall'autorizzazione ed almeno una volta all'anno, un piano di gestione dei solventi, secondo le indicazioni contenute nell'allegato IV. Il gestore determina la concentrazione di massa dell'inquinante negli scarichi gassosi, in conformita' alle disposizioni dell'articolo 3, comma 3, del decreto 12 luglio 1990.
+
+Ai nuovi impianti e alle modifiche sostanziali, come definiti nel presente decreto, si applicano le disposizioni dell'articolo 8 del decreto del Presidente della Repubblica n. 203 del 1988.
+
+In caso di misurazioni continue, la conformita' ai valori limite di emissione negli scarichi gassosi e' considerata raggiunta se nessuna delle medie di 24 ore di esercizio normale supera i valori limite di emissione e se nessuna delle medie orarie supera i valori limite di emissione di un fattore superiore a 1,25.
+
+Per le misurazioni periodiche la conformita' ai valori limite di emissione negli scarichi gassosi e' considerata raggiunta se, nel corso di una misurazione, la concentrazione, calcolata come media delle 3 letture e riferita ad un'ora di funzionamento dell'impianto nelle condizioni di esercizio piu' gravose, non supera il valore limite di emissione stabilito.
+
+La conformita' alle disposizioni dell'articolo 3, commi 10 e 11, e' verificata sulla base della somma delle concentrazioni di massa dei singoli COV interessati. In tutti gli altri casi, ove non altrimenti specificato nell'allegato II, si prende come riferimento la massa totale di carbonio organico emesso.
+
+Durante i periodi di avviamento e di arresto degli impianti e nel caso di cui al comma 8, non si applicano i valori limite di emissione. Il gestore deve, comunque, adottare tutte le precauzioni opportune per ridurre al minimo le emissioni durante tali periodi.
+
+L'autorita' competente stabilisce nell'autorizzazione specifiche prescrizioni per i casi di cui ai commi 7 e 8.
+
+In caso di inosservanza delle prescrizioni autorizzatorie si applicano le disposizioni dell'articolo 10 del decreto del Presidente della Repubblica n. 203 del 1988. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 6. — Criteri temporali di applicazione
+
+I nuovi impianti si conformano alle prescrizioni di cui agli articoli 3, 4 e 5 a partire dalla data di entrata in vigore del presente decreto.
+
+Gli impianti esistenti si adeguano alle prescrizioni di cui agli articoli 3, 4 e 5 entro il 31 ottobre 2007 ovvero, nel caso di impianti che si conformano all'allegato III, alle date stabilite nello stesso allegato.
+
+Ai fini di cui al comma 2, il gestore di un impianto esistente presenta all'autorita' competente, entro 12 mesi dall'entrata in vigore del presente decreto, una relazione tecnica contenente la descrizione delle attivita' di cui all'allegato I che superano le soglie di consumo indicate nello stesso allegato, delle tecnologie adottate per prevenire l'inquinamento, della qualita' e della quantita' delle emissioni con riferimento alle prescrizioni di cui all'articolo 3, comma 1, nonche', se necessario, un progetto di adeguamento, indicando le misure che intende adottare per rispettare le prescrizioni di cui all'articolo 3, comma 1. Fatte salve diverse disposizioni dell'autorita' competente, adottate ai sensi dell'articolo 4 comma 1, lettera e), del decreto del Presidente della Repubblica n. 203 del 1988, il gestore attua il progetto di adeguamento con le modalita' indicate nello stesso progetto.
+
+In caso di impianto sottoposto a modifica sostanziale o di impianto al quale, a seguito di una variazione di capacita' nominale, si applicano, per la prima volta, le disposizioni del presente decreto, la parte dell'impianto oggetto di detta modifica e' considerata come un nuovo impianto. A detta parte possono essere applicate le disposizioni previste per gli impianti esistenti, nel caso in cui le emissioni totali dell'intero impianto sottoposto a modifica sostanziale non superano quelle che si otterrebbero se la parte oggetto della modifica sostanziale fosse considerata come un nuovo impianto. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 7. — Accesso del pubblico all'informazione
+
+In caso di nuovo impianto o di modifica sostanziale di un impianto esistente l'autorita' competente al rilascio dell'autorizzazione mette a disposizione del pubblico la relativa domanda di autorizzazione, ai sensi del Capo III della legge 7 agosto 1990, n. 241, e successive modifiche.
+
+Il provvedimento di autorizzazione e i suoi successivi aggiornamenti, nonche' le norme applicabili agli impianti rientranti nel campo di applicazione del presente decreto, l'elenco delle attivita' autorizzate ed i risultati delle operazioni di controllo delle emissioni in possesso dell'autorita' competente sono messi a disposizione del pubblico nel rispetto di quanto stabilito nel decreto legislativo 24 febbraio 1997, n. 39. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 8. — Relazione alla Commissione europea
+
+Le autorita' competenti trasmettono al Ministero dell'ambiente e della tutela del territorio, ogni tre anni ed entro il 30 aprile, una relazione relativa all'applicazione del presente decreto, e, in particolare, ai valori limite di emissione in conformita' a quanto previsto dalla decisione della Commissione 2002/529/CE del 27 giugno 2002. Copia della stessa relazione e' inviata dalle autorita' competenti alla regione. La prima relazione riguarda il periodo compreso tra la data di entrata in vigore del presente decreto e il 31 dicembre 2004.
+
+Il Ministero dell'ambiente e della tutela del territorio invia le informazioni di cui al comma 1 alla Commissione europea. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+
+## Art. 9. — Disposizioni transitorie e finali
+
+Il decreto ministeriale 12 luglio 1990 si applica alle emissioni di COV degli impianti esistenti al 1° luglio 1988 rientranti nel campo di applicazione del presente decreto fino alle date previste all'articolo 6, comma 2, ovvero fino alla data di effettivo adeguamento degli stessi impianti, se anteriore a quelle previste al citato articolo 6, comma 2.
+
+Entro sei mesi dalla data di entrata in vigore del presente decreto le autorita' competenti provvedono a rilasciare autorizzazioni di carattere generale per gli impianti a ciclo chiuso di pulizia a secco di tessuti e di pellami, escluse le pellicce, e per le pulitintolavanderie a ciclo chiuso. Per detti impianti nelle autorizzazioni di carattere generale e' previsto che il gestore sia esentato dall'applicazione dell'articolo 4, comma 2.
+
+Le disposizioni di cui all'articolo 2 del decreto del Presidente della Repubblica 25 luglio 1991, pubblicato nella Gazzetta Ufficiale n. 175 del 27 luglio 1991, si applicano agli impianti e alle pulitintolavanderie di cui al comma 2 fino alla data in cui i gestori degli stessi impianti comunicano all'autorita' competente di avvalersi dell'autorizzazione di carattere generale e, comunque, non oltre il dodicesimo mese dalla data di entrata in vigore del presente decreto.
+
+Al fine di valutare e di proporre revisioni della normativa riguardante le emissioni di composti organici volatili, anche nella fase di predisposizione delle normative comunitarie, e con l'obiettivo, in particolare, di prevedere la fissazione di limiti massimi di COV nelle materie prime e l'introduzione di sistemi di incentivazione alla riduzione delle emissioni di COV, e' costituito, nell'ambito della Conferenza unificata, un tavolo tecnico di coordinamento dai Ministeri dell'ambiente e della tutela del territorio, della salute, delle attivita' produttive e dell'economia e delle finanze, dalle regioni, dall'Unione delle province d'Italia e dall'Associazione nazionale comuni italiani. Al tavolo tecnico possono essere invitate a partecipare le associazioni di impresa interessate. 
+ (1)((2))
+
+-------------
+                        AGGIORNAMENTO (1)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351. 
+                        -------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera o)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.
+

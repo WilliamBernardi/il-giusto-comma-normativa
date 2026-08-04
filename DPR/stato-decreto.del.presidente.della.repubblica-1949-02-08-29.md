@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 29
+data: 1949-02-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-02-08;29
+codice_redazionale: 049U0029
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 febbraio 1949
+                29
+                Modificazioni al regolamento del personale dell'Amministrazione civile dell'interno, approvato con regio decreto 4 aprile 1938, n. 417.
+
+Udito il parere del Consiglio di Stato in adunanza generale;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+E' aggiunto al regolamento del personale dell'Amministrazione civile dell'interno, approvato con regio decreto 4 aprile 1938, n. 417, il seguente art. 48, preceduto dal titolo "Disposizione transitoria":
+ "Per i concorsi banditi fino al 31 dicembre 1950, qualora il numero dei concorrenti sia rilevante, le Commissioni esaminatrici previste dal precedente art. 11 potranno essere ampliate fino a raggiungere il numero di non oltre nove membri, con la nomina di altre persone aventi qualifiche comprese tra quelle previste per la normale composizione delle Commissioni medesime.
+ Ciascuna Commissione, ampliata nel modo indicato nel precedente comma, dovra' essere composta, in modo che i membri, aventi una stessa qualifica o uno stesso gruppo di qualifiche, non siano piu' del doppio di quelli anteriormente previsti.
+ Il presidente della Commissione, sentiti i commissari, puo' suddividere la Commissione in Sottocommissioni incaricate della revisione dei lavori scritti, ciascuna delle quali deve essere composta di non meno di tre membri.
+ Una di esse e' assistita dal segretario della Commissione; per le altre, esercita le funzioni di segretario un impiegato amministrativo di gruppo A, di grado non inferiore al 9°, addetto al Ministero.
+ Una Sottocommissione e' presieduta dal presidente;
+ Le altre rispettivamente dal componente piu' elevato in grado.
+ I temi relativi ad una materia o ad un gruppo di materie devono essere tutti esaminati collegiamente dalla stessa Sottocommissione.
+ Per le prove orali, le Commissioni saranno composte nei modi previsti dal precedente art. 11.
+ A tal fine, per ciascuna qualifica, o gruppo di qualifiche, i piu' elevati in grado o, a parita' di grado, i piu' anziani assumeranno la qualita' di membri effettivi, mentre gli altri interverranno in qualita' di supplenti in caso di assenza dei membri effettivi delle rispettive qualifiche o gruppi di qualifiche".
+
+## Art. 2.
+
+Gli allegati I, II, III, IV, V, VI, VII, VIII, IX, X, XI e XII al regolamento predetto sono sostituiti da quelli annessi al presente decreto.
+

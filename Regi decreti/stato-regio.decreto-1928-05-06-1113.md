@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+numero: 1113
+data: 1928-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-05-06;1113
+codice_redazionale: 028U1113
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:24Z
+---
+
+REGIO DECRETO
+                06 maggio 1928
+                1113
+                Modificazione della denominazione del comune «Comune della Valsolda» in quella di «Valsolda». (028U1113)
+
+Entrata in vigore del provvedimento: 19/06/1928
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383; 
+ 
+ Visto il Nostro decreto 8 maggio 1927, n. 768; 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ La denominazione del comune «Comune della Valsolda», in provincia di Como, risultante dall'unione dei comuni di Albogasio, Castello Valsolda, Cressogno, Dasio, Drano e Puria, e' modificata in quella di «Valsolda». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1928 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 2 giugno 1928 - Anno VI 
+ 
+ Atti del Governo, registro 273, foglio 10. - Sirovich.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 881
+data: 1985-11-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-11-13;881
+codice_redazionale: 085U0881
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 novembre 1985
+                881
+                Autorizzazione ad accettare una donazione a favore dello Stato.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro della difesa, il Ministero della difesa viene autorizzato ad accettare la donazione, consistente in sei modelli originali storico-artistici di velieri antichi e di nove modelli di velieri antichi in battaglia, del valore approssimativo di L. 57.000.000, disposta dal prof. Pietro Montauti, con atto 30 gennaio 1985, n. 8598/2826 di repertorio, a rogito dott. Maurizio Tufani, notaio in Frascati (Roma) e registrato a Frascati in data 8 febbraio 1985 al n. 149.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 27 gennaio 1986
+ Registro n. 3 Difesa, foglio n. 272
+

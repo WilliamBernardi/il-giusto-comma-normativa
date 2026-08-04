@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 729
+data: 1956-04-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-04-29;729
+codice_redazionale: 056U0729
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 aprile 1956
+                729
+                Autorizzazione all'accettazione di una donazione a favore dello Stato per l'Accademia di belle arti e Liceo artistico di Firenze.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 aprile 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione di L. 638.250 (seicentotrentottomiladuecentocinquanta) da convertirsi in titoli di Stato o garantiti dallo Stato, disposta a favore dello Stato per l'Accademia di belle arti e Liceo artistico di Firenze dalla signora Ida Maroni vedova Franchi; con la rendita della somma donata sara' istituita una borsa di studio annuale da intitolarsi "Borsa di studio Raffaello Franchi".
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte del conti, addi' 17 luglio 1956
+ Atti del Governo, registro n. 99, foglio n. 73. - CARLOMAGNO
+

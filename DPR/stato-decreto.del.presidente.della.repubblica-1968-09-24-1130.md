@@ -1,0 +1,159 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1130
+data: 1968-09-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-09-24;1130
+codice_redazionale: 068U1130
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 settembre 1968
+                1130
+                Modificazioni allo statuto dell'Universita' degli studi di Torino.
+
+Veduto lo statuto dell'Universita' degli studi di Torino, approvato con regio decreto 14 ottobre 1926, numero 2284 e modificato con regio decreto 13 ottobre 1927, n. 2788, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071 convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+
+Storia economica;
+
+Storia contemporanea;
+
+Storia delle religioni;
+
+Estetica;
+
+Storia e critica del cinema;
+
+Lingua e letteratura catalana;
+
+Lingua e letteratura portoghese;
+
+Lingua e letteratura albanese;
+
+Ittitologia;
+
+Geografia economica;
+
+Storia delle tradizioni popolari;
+
+Storia del pensiero politico antico;
+
+Assiriologia.
+
+Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+
+Storia delle religioni;
+
+Filosofia del linguaggio;
+
+Storia della pedagogia;
+
+Psicologia dell'eta' evolutiva;
+
+Psicologia sociale;
+
+Psicologia dinamica.
+
+Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (ind. europeo) sono aggiunti quelli di:
+
+Storia della lingua inglese;
+
+Estetica;
+
+Storia e critica del cinema;
+
+Lingua e letteratura catalana;
+
+Lingua e letteratura portoghese;
+
+Lingua e letteratura albanese.
+
+Art. 105, relativo alla scuola di perfezionamento in filosofia e pedagogia e' modificato nel senso che dopo il secondo comma e' aggiunto il seguente:
+
+Il perfezionamento deve seguire, inoltre, una materia approvata dal professore con cui egli intende diplomarsi, scelta fuori delle materie del corso".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 settembre 1968
+
+SARAGAT
+
+SCAGLIA
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Torino, approvato con regio decreto 14 ottobre 1926, numero 2284 e modificato con regio decreto 13 ottobre 1927, n. 2788, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071 convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Torino, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Art. 22. - All'elenco degli insegnamenti complementari del corso di laurea in lettere sono aggiunti quelli di:
+ Storia economica;
+ Storia contemporanea;
+ Storia delle religioni;
+ Estetica;
+ Storia e critica del cinema;
+ Lingua e letteratura catalana;
+ Lingua e letteratura portoghese;
+ Lingua e letteratura albanese;
+ Ittitologia;
+ Geografia economica;
+ Storia delle tradizioni popolari;
+ Storia del pensiero politico antico;
+ Assiriologia.
+ Art. 23. - All'elenco degli insegnamenti complementari del corso di laurea in filosofia sono aggiunti quelli di:
+ Storia delle religioni;
+ Filosofia del linguaggio;
+ Storia della pedagogia;
+ Psicologia dell'eta' evolutiva;
+ Psicologia sociale;
+ Psicologia dinamica.
+ Art. 24. - All'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere moderne (ind. europeo) sono aggiunti quelli di:
+ Storia della lingua inglese;
+ Estetica;
+ Storia e critica del cinema;
+ Lingua e letteratura catalana;
+ Lingua e letteratura portoghese;
+ Lingua e letteratura albanese.
+ Art. 105, relativo alla scuola di perfezionamento in filosofia e pedagogia e' modificato nel senso che dopo il secondo comma e' aggiunto il seguente:
+
+ Il perfezionamento deve seguire, inoltre, una materia approvata dal professore con cui egli intende diplomarsi, scelta fuori delle materie del corso".
+

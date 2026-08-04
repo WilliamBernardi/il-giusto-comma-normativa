@@ -1,0 +1,206 @@
+---
+tipo: REGIO DECRETO
+numero: 1472
+data: 1922-10-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-10-29;1472
+codice_redazionale: 022U1472
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 1928-03-23
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:27Z
+---
+
+REGIO DECRETO
+                29 ottobre 1922
+                1472
+                Che approva a regolamento per l'ordinamento ed il funzionamento delle Associazioni agrarie di cui alla legge 4 agosto 1894, n. 397, e per la vigilanza sulle medesime. (022U1472)
+
+Entrata in vigore del provvedimento: 06/12/1922
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+
+
+### Art. 1.
+
+Regolamento-art. 1 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 2.
+
+Regolamento-art. 2 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 3.
+
+Regolamento-art. 3 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 4.
+
+Regolamento-art. 4 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 5.
+
+Regolamento-art. 5 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 6.
+
+Regolamento-art. 6 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 7.
+
+Regolamento-art. 7 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 8.
+
+Regolamento-art. 8 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 9.
+
+Regolamento-art. 9 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 10.
+
+Regolamento-art. 10 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 11.
+
+Regolamento-art. 11 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 12.
+
+Regolamento-art. 12 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 13.
+
+Regolamento-art. 13 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 14.
+
+Regolamento-art. 14 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 15.
+
+Regolamento-art. 15 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 16.
+
+Regolamento-art. 16 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 17.
+
+Regolamento-art. 17 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 18.
+
+Regolamento-art. 18 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 19.
+
+Regolamento-art. 19 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 20.
+
+Regolamento-art. 20 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 21.
+
+Regolamento-art. 21 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 22.
+
+Regolamento-art. 22 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 23.
+
+Regolamento-art. 23 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 24.
+
+Regolamento-art. 24 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 25.
+
+Regolamento-art. 25 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 26.
+
+Regolamento-art. 26 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 27.
+
+Regolamento-art. 27 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 28.
+
+Regolamento-art. 28 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 29.
+
+Regolamento-art. 29 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+
+### Art. 30.
+
+Regolamento-art. 30 
+ 
+((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 26 FEBBRAIO 1928, N. 332))
+

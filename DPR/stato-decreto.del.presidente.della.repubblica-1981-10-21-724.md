@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 724
+data: 1981-10-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-21;724
+codice_redazionale: 081U0724
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:06Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 ottobre 1981
+                724
+                Autorizzazione al Consiglio nazionale delle ricerche, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, in Roma, viene autorizzato ad acquistare dalla Reale Accademia di scienze svedese, come da atto preliminare di vendita in data 27 giugno 1978 redatto a rogito dott. Vincenzo Colapietro, notaio in Roma, al complessivo convenuto prezzo di lire 450 milioni, un complesso immobiliare sito in Anacapri (Napoli), via Vicinale Fraita in localita' Caprile, insistente su una area di mq 3461 distinta nel nuovo catasto terreni al foglio 8, particelle 38, 39, 40, 41 e 600, da destinare a sede dei propri organi di ricerca.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 1 dicembre 1981
+ Registro n. 10 Presidenza, foglio n. 244
+

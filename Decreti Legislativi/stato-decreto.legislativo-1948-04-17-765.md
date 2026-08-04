@@ -1,0 +1,34 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 765
+data: 1948-04-17
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-04-17;765
+codice_redazionale: 048U0765
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 1953-03-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:29Z
+---
+
+DECRETO LEGISLATIVO
+                17 aprile 1948
+                765
+                Modificazione all'art. 1 del decreto legislativo luogotenenziale 30 novembre 1945, n. 894, sulla ricostruzione delle carriere dei militari della marina, reduci dalla prigionia di guerra o dall'internamento.
+
+Sulla proposta del Ministro per la difesa, di concerto con i Ministri per il tesoro e per la marina mercantile;
+
+## Art. 1.
+
+L'art. 1 del decreto legislativo luogotenenziale 30 novembre 1945, n. 894, e' sostituito dal seguente:
+ "Art. 1. - Per ogni militare della marina, reduce dalla prigionia di guerra o dall'internamento, il Ministro per la difesa, constatata la posizione sia penale che disciplinare in rapporto al fatto della cattura o dell'internamento, determina se nulla osti a che il militare sia preso in esame per l'avanzamento.
+ Il militare che, in conseguenza della sua condizione di prigioniero di guerra o di internato, non abbia potuto essere scrutinato o promosso durante il tempo della prigionia o dell'internamento, qualora ottenga il nulla osta anzidetto, e' sottoposto all'esame della competente Commissione di avanzamento, e, se in possesso delle condizioni previste dalle disposizioni in vigore, e' promosso con l'anzianita' che gli sarebbe spettata se fosse stato promosso a suo turno. La mancanza di idoneita' fisica, temporanea o non, derivante da ferite, lesioni od infermita' riportate in servizio e per cause di servizio, non costituisce impedimento al conferimento della promozione, quando il militare avrebbe potuto conseguirla con anzianita' anteriore al sopravvenire della non idoneita'. Se si trattasse di militari del C.E.M.M., si prescinde inoltre, dal requisito dell'imbarco stabilito dall'art. 66 del testo unico sull'ordinamento del C.E.M.M. e sullo stato giuridico dei sottufficiali della Marina, approvato con regio decreto 18 giugno 1931, n. 914, e successive modificazioni.
+ Qualora con l'anzianita' come sopra stabilita il militare risulti compreso in turno di promozione nel nuovo grado, egli potra' essere nuovamente scrutinato e promosso, se in possesso delle prescritte condizioni, solo dopo che abbia prestato effettivo servizio per almeno sei mesi, se trattasi di ufficiale ammiraglio o generale ovvero di sottufficiale o militare del C.E.M.M., e per almeno un anno, se trattasi di ufficiale superiore o inferiore. Nella promozione gli sara' conferita, ai soli effetti giuridici, l'anzianita' che gli sarebbe spettata se fosse stato promosso a suo turno.
+ Le promozioni di cui ai precedenti commi sono effettuate anche se non esista la corrispondente vacanza nei gradi superiori, salvo il riassorbimento dell'eccedenza al verificarsi della prima vacanza".
+
+## Art. 2.
+
+Il presente decreto entra in vigore nel giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale ed ha effetto dal 26 febbraio 1946.
+

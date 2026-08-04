@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 2160
+data: 1937-10-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-10-27;2160
+codice_redazionale: 037U2160
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:40Z
+---
+
+REGIO DECRETO
+                27 ottobre 1937
+                2160
+                Ricerca, estrazione e utilizzazione delle acque sotterraneo nel territorio dell'isola di Capri. (037U2160)
+
+Entrata in vigore del provvedimento: 19/01/1938
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+

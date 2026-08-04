@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 325
+data: 1957-04-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-03;325
+codice_redazionale: 057U0325
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 aprile 1957
+                325
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della SS.ma Annunziata, nel comune di Spinazzola (Bari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 aprile 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Melfi, Rapolla e Venosa in data 1° dicembre 1938, integrato con quattro dichiarazioni rispettivamente del 1° maggio, 1° settembre, 3 novembre e 9 dicembre 1956, relativo alla erezione della parrocchia della SS.ma Annunziata nel comune di Spinazzola (Bari). 
+ 
+Visto, il Guardasigilli: MORO 
+ Registrato alla Corte dei conti, addi' 17 maggio 1957 
+ Atti del Governo, registro n. 105, foglio n. 107. - CARLOMAGNO
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 898
+data: 1973-10-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-10-18;898
+codice_redazionale: 073U0898
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 ottobre 1973
+                898
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Ignazio da Laconi, in Serramanna.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 ottobre 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Cagliari in data 1 novembre 1972, integrato con due dichiarazioni dell'8 marzo e 20 aprile 1972, relativo alla erezione della parrocchia di S. Ignazio da Laconi, in Serramanna (Cagliari).
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 27 dicembre 1973
+ Atti di Governo, registro n. 263, foglio n. 37. - CARUSO
+

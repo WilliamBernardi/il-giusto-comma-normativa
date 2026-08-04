@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1896-05-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1896-05-10;183
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:39Z
+---
+
+REGIO DECRETO
+                10 maggio 1896
+                CLXXXIII
+                Che approva il nuovo testo di regolamento provinciale della tassa sul bestiame in Brescia. (9600183R)
+
+Entrata in vigore del provvedimento: 12/06/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

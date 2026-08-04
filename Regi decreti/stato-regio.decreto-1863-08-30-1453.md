@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1453
+data: 1863-08-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-08-30;1453
+codice_redazionale: 063U1453
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:53Z
+---
+
+REGIO DECRETO
+                30 agosto 1863
+                1453
+                Col quale si affida al Demanio di Milano la riscossione delle pene pecuniarie e delle spese di giustizia criminale, correzionale e di polizia. (063U1453)
+
+Entrata in vigore del provvedimento: 02/10/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

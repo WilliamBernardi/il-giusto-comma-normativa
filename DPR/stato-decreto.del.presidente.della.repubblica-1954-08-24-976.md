@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 976
+data: 1954-08-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-24;976
+codice_redazionale: 054U0976
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 agosto 1954
+                976
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria, in localita' Gignano del comune de L'Aquila.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 agosto 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto agli effetti civili, il decreto dell'Ordinario diocesano de L'Aquila in data 1 gennaio 1954, integrato con dichiarazione 10 marzo 1954, relativo all'erezione della parrocchia di Santa Maria, in localita' Gignano del comune de L'Aquila; inoltre viene riconosciuta la personalita' giuridica della Chiesa omonima, sede dell'anzidetta parrocchia.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 14 ottobre 1954
+ Atti del Governo, registro n. 86, foglio n. 137. - CARLOMAGNO
+

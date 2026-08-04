@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2306
+data: 1919-11-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1919-11-16;2306
+codice_redazionale: 019U2306
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:59Z
+---
+
+REGIO DECRETO
+                16 novembre 1919
+                2306
+                Che autorizza la prelevazione di lire 7.874.212,36 dal fondo di riserva per le spese impreviste delle ferrovie dello Stato per l'esercizio finanziario 1918-919. (019U2306)
+
+Entrata in vigore del provvedimento: 30/12/1919
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

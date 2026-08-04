@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1320
+data: 1956-10-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-10-05;1320
+codice_redazionale: 056U1320
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 ottobre 1956
+                1320
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Marco Evangelista, in frazione omonima del comune di Mereto di Tomba (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili il decreto dell'Ordinario diocesano di Udine in data 10 febbraio 1956, integrato con dichiarazione 5 maggio 1956, relativo alla erezione della parrocchia di San Marco Evangelista, in frazione omonima del comune di Mereto di Tomba (Udine).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti; addi' 20 novembre 1956
+ Atti del Governo, registro n. 102, foglio n. 60. - CARLOMAGNO
+

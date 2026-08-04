@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 332
+data: 1955-03-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-03-01;332
+codice_redazionale: 055U0332
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 marzo 1955
+                332
+                Riconoscimento, agli effetti civili, dell'unione in perpetuo "aeque principaliter" delle parrocchie del Sacro Cuore di Gesu', in localita' Cola, e di San Colombano, in frazione Campo del comune di Novate Mezzola (Sondrio).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 marzo 1955, col quale, sulla proposta del Ministro, per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Como in data 18 giugno 1953, relativo all'unione in perpetuo "aeque principaliter" delle parrocchie del Sacro Cuore di Gesu', in localita' Cola, e di San Colombano, in frazione Campo del comune di Novate Mezzola (Sondrio).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 28 aprile 1955
+ Atti del Governo, registro n. 90, foglio n. 88. - CARLOMAGNO
+

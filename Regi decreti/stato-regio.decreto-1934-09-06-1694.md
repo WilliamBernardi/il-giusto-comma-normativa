@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 1694
+data: 1934-09-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1934-09-06;1694
+codice_redazionale: 034U1694
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:49Z
+---
+
+REGIO DECRETO
+                06 settembre 1934
+                1694
+                Dichiarazione formale dei fini della Confraternita denominata « Compagnia del SS. Crocifisso » di rito greco orientale, in Mezzoiuso. (034U1694)
+
+Entrata in vigore del provvedimento: 11/11/1934
+
+## Art. 1.
+
+N.
+
+R. decreto 6 settembre 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi della Confraternita denominata « Compagnia del SS.
+Crocifisso » di Rito greco orientale, in Mezzoiuso. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti addi' 12 ottobre 1934 - Anno XII
+

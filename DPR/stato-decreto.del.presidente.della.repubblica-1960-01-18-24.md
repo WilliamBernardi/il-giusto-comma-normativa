@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 24
+data: 1960-01-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-18;24
+codice_redazionale: 060U0024
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 gennaio 1960
+                24
+                Varianti alla tabella notarile relativa al distretto notarile di Terni.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 4 della legge 16 febbraio 1913, n. 89;
+ Visto il decreto Presidenziale 18 gennaio 1954, n. 18, sulla revisione della tabella che determina il numero e la residenza dei notai;
+ Ritenuta la necessita' di elevare da cinque a sei il numero dei posti di notaio nel comune di Terni, e di sopprimere le sedi notarili di Baschi, Montecastrilli e Lugnano in Teverina;
+ Visti i pareri del Consiglio notarile di Terni e della Corte di appello di Perugia;
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per gli affari di grazia e giustizia;
+
+ Decreta:
+
+ La tabella che determina il numero e la residenza dei notai, approvata con decreto Presidenziale 18 gennaio 1954, n. 18, e' modificata nel modo seguente:
+ a) e' aumentato a sei il numero dei posti di notaio nella sede notarile di Terni;
+ b) sono soppresse le sedi notarili nei comuni di Baschi, Montecastrilli e Lugnano in Teverina, dei distretti notarili riuniti di Terni, Spoleto e Orvieto.
+

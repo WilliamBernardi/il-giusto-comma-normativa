@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1375
+data: 1970-11-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-20;1375
+codice_redazionale: 070U1375
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 novembre 1970
+                1375
+                Modificazioni al decreto del Presidente della Repubblica 19 febbraio 1970, n. 167, concernente la dichiarazione di ente ospedaliero dell'ospedale "Pio Istituto S. Spirito ed ospedali riuniti", di Roma.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 12 febbraio 1968, n. 132, recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
+ Visto il proprio decreto in data 19 febbraio 1970, n. 167, con il quale l'ospedale denominato "Pio istituto di S. Spirito ed ospedali riuniti" di Roma, e' stato dichiarato ente ospedaliero;
+ Visto il decreto del medico provinciale di Roma in data 28 gennaio 1970, con il quale, sentito il consiglio provinciale di sanita', il complesso ospedaliero denominato "Pio istituto di S. Spirito ed ospedali riuniti" di Roma, comprendente gli ospedali S. Filippo, S.
+Eugenio, S. Giacomo, S. Spirito, San Camillo, S. Giovanni e Policlinico, e' stato classificato ospedale generale regionale a norma degli articoli 19, 20, 23 e 54 della citata legge n. 132;
+ Considerato che con la costituzione delle regioni a statuto ordinario, e' venuto a cessare il regime transitorio previsto dall'ultimo comma dell'art. 56 della legge n. 132;
+ Ritenuta, pertanto, la necessita' di attribuire alla regione Lazio a termini del primo comma dell'art. 9 della legge 12 febbraio 1968, n. 132, la competenza a designare i sei membri di spettanza regionale;
+ Visti gli articoli 3, 4 e 9 della legge medesima;
+ Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno;
+
+ Decreta:
+
+ Il secondo comma del decreto 19 febbraio 1970, n. 167, con il quale l'ospedale denominato "Pio istituto di S. Spirito ed ospedali riuniti", con sede in Roma, e' stato dichiarato ente ospedaliero, e' sostituito dal seguente:
+ "Il consiglio di amministrazione dell'ente ospedaliero suddetto, e' composto come segue:
+ sei membri eletti dal consiglio regionale del Lazio;
+ un membro, eletto dal consiglio comunale di Roma;
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi degli articoli 1, 2 e 3 della legge 25 febbraio 1965, n. 125".
+

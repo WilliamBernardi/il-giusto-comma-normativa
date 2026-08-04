@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1315
+data: 1954-09-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-09-14;1315
+codice_redazionale: 054U1315
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 settembre 1954
+                1315
+                Autorizzazione alla Cassa scolastica della Scuola tecnica Industriale statale "Paolo Boselli" di Savona ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 settembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica industriale statale "Paolo Boselli" di Savona viene autorizzata ad accettare la donazione di nominali L. 100.000, in titoli di Stato, disposta a favore della Cassa stessa al fine di istituire, col relativo reddito, un premio di studio annuale intitolato "Prof. dott. ing. Aldo Polettini".
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 22 gennaio 1955
+ Atti del Governo, registro n. 88, foglio n. 79. - CARLOMAGNO
+

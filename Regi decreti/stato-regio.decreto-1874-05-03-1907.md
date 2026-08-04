@@ -1,0 +1,46 @@
+---
+tipo: REGIO DECRETO
+numero: 1907
+data: 1874-05-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1874-05-03;1907
+codice_redazionale: 074U1907
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:28Z
+---
+
+REGIO DECRETO
+                03 maggio 1874
+                1907
+                Che autorizza la vendita di beni dello Stato descritti in apposita Tabella. (074U1907)
+
+Entrata in vigore del provvedimento: 02/06/1874
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

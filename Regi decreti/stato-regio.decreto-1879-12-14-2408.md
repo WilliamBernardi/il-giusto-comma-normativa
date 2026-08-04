@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1879-12-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-12-14;2408
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:42Z
+---
+
+REGIO DECRETO
+                14 dicembre 1879
+                MMCCCCVIII-bis
+                Che erige in corpo morale il pio legato Nebbiai, in Firenze, e ne approva lo statuto. (7922408R)
+
+Entrata in vigore del provvedimento: 12/03/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

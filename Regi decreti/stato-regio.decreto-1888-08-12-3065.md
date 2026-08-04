@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1888-08-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-08-12;3065
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:23Z
+---
+
+REGIO DECRETO
+                12 agosto 1888
+                MMMLXV
+                Che scioglie l'amministrazione del monte frumentario di Gioiosa Marea (Messina) e ne affida temporaneamente la gestione ad un commissario straordinario. (8803065R)
+
+Entrata in vigore del provvedimento: 26/09/1888
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

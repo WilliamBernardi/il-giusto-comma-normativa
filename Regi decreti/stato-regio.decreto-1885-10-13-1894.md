@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1885-10-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-10-13;1894
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:09Z
+---
+
+REGIO DECRETO
+                13 ottobre 1885
+                MDCCCXCIV
+                Che costituisce in ente morale la pia fondazione Formenti nel comune di Inveruno e ne approva lo statuto. (8501894R)
+
+Entrata in vigore del provvedimento: 22/11/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

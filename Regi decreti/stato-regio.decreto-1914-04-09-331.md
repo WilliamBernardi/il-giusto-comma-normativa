@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 331
+data: 1914-04-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1914-04-09;331
+codice_redazionale: 014U0331
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:57Z
+---
+
+REGIO DECRETO
+                09 aprile 1914
+                331
+                Erezione in ente morale e relativa approvazione di statuto. (014U0331)
+
+Entrata in vigore del provvedimento: 22/05/1914
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

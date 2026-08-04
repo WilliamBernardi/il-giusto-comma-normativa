@@ -1,0 +1,77 @@
+---
+tipo: DECRETO-LEGGE
+numero: 128
+data: 1994-02-21
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1994-02-21;128
+codice_redazionale: 094G0148
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1994-08-06
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                21 febbraio 1994
+                128
+                 Disposizioni urgenti in materia di elezioni al Parlamento europeo.
+
+Entrata in vigore del decreto: 26-2-1994.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 3 AGOSTO 1994, N. 483
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 605
+data: 1980-07-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-07-08;605
+codice_redazionale: 080U0605
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 luglio 1980
+                605
+                Autorizzazione alla regione Lombardia ad acquistare alcuni immobili.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 luglio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad acquistare, al prezzo di L. 60.264.500, appezzamenti di terreno boscato e a prato e due fabbricati rurali, della superficie complessiva di mq 461.090, siti in Toscolano Maderno (Brescia), censiti in catasto ai mappali 2926, 769, 784, 1612, 1613, 1614, 1645, 1646, 2093, 2983, 958 e 1647, da destinare all'ampliamento del patrimonio forestale regionale.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 27 settembre 1980
+ Registro n. 7 Presidenza, foglio n. 387
+

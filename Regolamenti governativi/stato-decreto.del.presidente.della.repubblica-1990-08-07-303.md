@@ -1,0 +1,408 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 303
+data: 1990-08-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1990-08-07;303
+codice_redazionale: 090G0356
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 2002-11-15
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 agosto 1990
+                303
+                 Regolamento di applicazione ed esecuzione delle leggi 2 agosto 1982, n. 528 e 19 aprile 1990, n. 85, sull'ordinamento del gioco del lotto.
+
+Entrata in vigore del decreto: 9-11-1990
+
+Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 12 luglio 1990;
+
+Sulla proposta del Ministro delle finanze, di concerto con il Ministro del tesoro;
+
+## - TITOLO I ORDINAMENTO DEL GIOCO DEL LOTTO
+
+## Art. 1. — (( (Gestione del gioco).))
+
+((
+
+Il servizio del lotto e' amministrato dal Ministero delle finanze per mezzo dell'Amministrazione autonoma dei monopoli di Stato, ovvero e' affidato in concessione, con decreto del Ministro delle finanze, anche nel rispetto della normativa comunitaria, a soggetti che siano in possesso di comprovati requisiti di affidabilita' e di idoneita' tecnica.
+
+))
+
+## Art. 2. — Determinazione delle vincite
+
+L'importo della vincita si ottiene moltiplicando la posta per i premi fissati nell'art. 8 della legge 2 agosto 1982, n. 528, e per il numero delle combinazioni sortite e dividendo per il numero delle combinazioni possibili.
+
+Il premio massimo cui puo' dare luogo ogni scontrino, comunque sia ripartito il prezzo della giocata, non puo' eccedere la somma di lire 1000 milioni; in caso contrario il premio e' ridotto a questa somma, senza altro diritto per il giocatore.
+
+## Art. 3. — Modalita' di raccolta delle giocate
+
+Le giocate si ricevono mediante l'impiego di apparecchiature automatizzate.
+
+I dati relativi vengono trasmessi al centro di elaborazione, con la possibilita' di effettuare tempestivamente l'annullamento in caso di errore.
+
+Al giocatore viene rilasciato uno scontrino su carta filigranata contenente la data della giocata e quella in cui avverra' l'estrazione, l'importo della scommessa ed i numeri prescelti, le poste, le sorti e le ruote a cui si riferisce la scommessa, nonche' il numero di serie ed il codice che contraddistingue il raccoglitore. 
+Ogni scontrino deve contenere una sola giocata.
+
+## Art. 4. — Compenso ai raccoglitori
+
+Il compenso da attribuire ai raccoglitori, che viene erogato mediante trattenuta da conguagliare all'atto del versamento delle somme riscosse, e' fissato nella misura unica del 10 per cento sull'incasso lordo delle scommesse effettuate presso ciascun raccoglitore.
+
+## Art. 5. — Importo delle giocate. Graduazione del gioco
+
+Le giocate possono farsi per l'importo singolo di L. 1.000 o multipli di mille e non possono essere superiori a L. 50.000.
+L'importo di una giocata per tutte le ruote non puo' essere inferiore a L. 2.000.
+
+L'importo della giocata puo' essere ripartito dal giocatore tra le diverse sorti ammesse dalla quantita' dei numeri giocati a condizione che ciascuna posta sia pari a 10 oppure a un multiplo di 10.
+
+Il sistema informatico viene programmato in modo da respingere le giocate che darebbero diritto a premi che non possono essere corrisposti.
+
+## Art. 6. — Ripartizione in sorti delle giocate
+
+Non possono essere accettate giocate effettuate su sorti non realizzabili con la quantita' dei numeri giocati.
+
+Parimenti non possono essere accettate le giocate nelle quali la somma delle poste scommesse sulle singole sorti, tra le quali si intende ripartire la giocata, non coincide con l'ammontare complessivo della giocata stessa. In tal senso viene programmato il sistema informatico.
+
+Tali giocate, qualora per qualsiasi motivo risultassero accettate, non producono alcun diritto a favore del giocatore nell'ipotesi del comma 1, salvo il diritto al rimborso dell'importo della scommessa.
+
+Nell'ipotesi prevista dal comma 2, in caso di vincita, l'importo complessivo giocato viene ridistribuito proporzionalmente alle singole poste, anche in deroga al disposto del comma 2 dell'art. 5.
+
+## Art. 7. — Requisiti di validita' dello scontrino
+
+Il giocatore e' tenuto ad assicurarsi che lo scontrino riporti esattamente la giocata e che esso sia completo, integro e leggibile.
+
+Qualora lo scontrino non abbia tali requisiti va ritirato dal raccoglitore e la relativa giocata va annullata e sostituita con un nuovo scontrino avente le caratteristiche di cui al comma 1.
+
+## Art. 8. — Chiusura settimanale del gioco
+
+La raccolta del gioco del lotto deve cessare almeno un'ora prima dell'inizio delle operazioni di estrazione.
+
+Con decreto del Ministro delle finanze viene stabilita l'ora ed il giorno di chiusura della raccolta delle giocate. Con lo stesso decreto viene fissato il termine entro il quale i dati relativi alle giocate devono affluire al sistema di automazione.
+
+## Art. 9. — Commissione di zona
+
+Presso le intendenze di finanza delle sedi di estrazione e con circoscrizione da determinarsi mediante decreto del Ministro delle finanze di concerto con il Ministro del tesoro, e' istituita una commissione di zona per il controllo del gioco del lotto.
+
+La predetta commissione e' nominata dall'intendente di finanza ed e' composta da tre funzionari: uno dell'Amministrazione finanziaria che la presiede, un altro del Ministero del tesoro e un terzo dell'Amministrazione autonoma dei monopoli di Stato.
+
+Le funzioni di segretario sono disimpegnate da un impiegato della intendenza di finanza designato dall'intendente e con qualifica funzionale non inferiore alla settima.
+
+## Art. 10. — Deposito e custodia delle matrici
+
+Le giocate sono valide e produttive di effetti quando, ricevute nelle forme e condizioni prescritte, le relative matrici meccanizzate siano state depositate, a cura della competente commissione di zona, nei relativi archivi ove devono essere custodite in uno o piu' armadi di sicurezza provvisti di serratura a tre chiavi differenti e di congegno di controllo.
+
+## Art. 11. — Esclusione di giocate dall'estrazione
+
+Qualora la competente commissione di zona venga comunque a conoscenza che le matrici rivelano incompletezza di dati o le giocate sono state accettate in violazione delle disposizioni dell'art. 3 della citata legge n. 528/1982, come modificato dall'art. 1 della legge 19 aprile 1990, n. 85, ovvero i dati non sono pervenuti al centro di elaborazione, ne dichiara l'esclusione dall'estrazione con decisione da pubblicarsi nel Bollettino ufficiale di zona del gioco del lotto.
+
+Il giocatore, in tal caso, ha diritto al rimborso della somma giocata, che dev'essere richiesto, a pena di decadenza, entro trenta giorni dalla data di pubblicazione della decisione.
+
+Il rimborso viene effettuato dietro ritiro dello scontrino dal raccoglitore che ha ricevuto la giocata.
+
+## Art. 12. — Pubblicazione dei numeri estratti
+
+Il Ministro delle finanze nomina la commissione di cui all'art. 7 della citata legge n. 528/1982, come sostituito dall'art. 3 della legge n. 85/1990.
+
+Il segretario di ciascuna commissione di estrazione, di cui al comma 1, redige il verbale di estrazione e comunica immediatamente i numeri estratti, tramite sistema informatico e sotto la responsabilita' collegiale della commissione, all'ufficio centrale di elaborazione.
+
+L'ufficio centrale di elaborazione provvede alla compilazione del notiziario delle estrazioni, che viene trasmesso alle singole commissioni di zona e a ciascun punto di raccolta.
+
+Il raccoglitore espone subito il notiziario stesso nei locali di raccolta del gioco lasciandolo affisso per il termine di cui all'art. 
+10, ultimo comma, della citata legge n. 528/1982.
+
+## Art. 13. — Determinazione e convalida delle vincite 
+ Bollettino ufficiale di zona del gioco del lotto
+
+Nel primo giorno feriale successivo all'estrazione la commissione di zona si riunisce per procedere alla determinazione e convalida delle vincite e alla redazione del Bollettino ufficiale di zona del gioco del lotto contenente le vincite distinte per punto di raccolta.
+
+Il Bollettino suddetto deve contenere tutti gli elementi atti ad individuare agevolmente le vincite con il relativo ammontare al netto delle ritenute di legge.
+
+Il Bollettino ufficiale di cui al comma 1 deve essere inviato alla Direzione generale per le entrate speciali, alla Direzione generale dei monopoli di Stato e a tutte le intendenze di finanza comprese nella zona presso cui e' stata istituita la commissione di zona. Le predette intendenze provvedono, il successivo giorno lavorativo, all'affissione del Bollettino nel proprio albo per un periodo non inferiore a sessanta giorni.
+
+Ad ogni punto di raccolta sara' trasmesso, e quindi esposto al pubblico, il Bollettino contenente le vincite conseguite presso il punto stesso.
+
+## Art. 14. — Consegna dello scontrino e pagamento delle vincite
+
+Lo scontrino relativo alle vincite, risultanti dal Bollettino ufficiale di zona del gioco del lotto, dev'essere consegnato entro il termine di decadenza di sessanta giorni dalla affissione di cui al comma 3 dell'art. 13.
+
+Il pagamento della vincita e' eseguito a condizione che lo scontrino sia integro, completo in tutti i suoi dati e corrisponda alla registrazione effettuata presso le apparecchiature automatizzate, salvo il diritto al rimborso dell'importo della scommessa.
+
+## Art. 15. — Pagamento delle vincite 
+ non superiori a L. 1.250.000
+
+Per le vincite d'importo non superiore a L. 1.250.000, lo scontrino deve essere esibito al raccoglitore che ha ricevuto la giocata. Quest'ultimo provvede al pagamento delle vincite ed al ritiro dello scontrino, previo accertamento della integrita' e completezza dello stesso.
+
+Nell'ultimo giorno utile prima della decadenza di cui al comma 1 dell'art. 14 e' consentito al vincitore di presentare lo scontrino all'intendenza di finanza, secondo le modalita' previste dall'art. 16 per le vincite superiori a L. 1.250.000.
+
+La medesima procedura puo' essere consentita, su autorizzazione dell'Amministrazione autonoma dei monopoli di Stato, in caso di vincite eccezionalmente numerose.
+
+## Art. 16. — Modalita' di presentazione dello scontrino 
+ per vincite superiori a L. 1.250.000
+
+Gli scontrini delle vincite di importo superiore a L. 1.250.000 vanno presentati per il pagamento ad un ispettorato compartimentale dei Monopoli di Stato che ne rilascia ricevuta al presentatore in calce alla fotocopia dello scontrino stesso.
+
+L'ispettorato compartimentale compila subito ad uso interno apposito stampato a rigoroso rendiconto contenente tutti gli elementi dello scontrino, oltre le generalita' e l'indirizzo indicato dal destinatario del pagamento.
+
+Il giocatore puo' presentare lo scontrino anche all'intendenza di finanza nell'ambito della cui circoscrizione ricade il luogo del suo domicilio fiscale; il predetto ufficio provvede, in tal caso, ad inoltrarlo immediatamente, a mezzo plico assicurato, alla Direzione generale dei monopoli di Stato.
+
+E' data, altresi', facolta' al vincitore di presentare lo scontrino, a suo rischio e pericolo, a mezzo del servizio postale, purche' spedito con raccomandata con ricevuta di ritorno alla Direzione generale dei monopoli di Stato entro il termine di decadenza di cui al comma 1 dell'art. 14.
+
+Nel caso di presentazione dello scontrino all'intendenza di finanza quest'ultima provvede agli adempimenti di cui ai commi 1 e 2.
+
+L'intendenza di finanza o l'ispettorato compartimentale inviano immediatamente, a mezzo plico assicurato, alla Direzione generale dei monopoli di Stato lo scontrino ritirato o quello pervenutogli come sopra, unitamente ad un esemplare del modello di stampato di cui al comma 2.
+
+## Art. 17. — Modalita' di pagamento 
+ delle vincite superiori a L. 1.250.000
+
+Il pagamento delle vincite d'importo superiore a L. 1.250.000 e di quelle d'importo inferiore non pagate dal raccoglitore nei casi previsti dall'art. 15 e' effettuato da parte della Direzione generale dei monopoli di Stato entro quindici giorni dal ricevimento dello scontrino, mediante emissione di titolo commutabile in vaglia cambiario dalla Banca d'Italia intestato al presentatore dello scontrino o alla persona da lui indicata ed inviato al suo domicilio.
+
+In caso di smarrimento dello scontrino, durante la trasmissione effettuata dall'ispettorato compartimentale o dall'intendenza di finanza, l'amministrazione autonoma dei monopoli di Stato provvede ugualmente al pagamento, sulla base della matrice dello stampato di cui al comma 2 dell'art. 16 che, a tal fine, sara' inviata unitamente ad una dichiarazione firmata dal capo dell'ispettorato attestante l'avvenuta presentazione dello scontrino e la sua trasmissione alla Direzione generale dei monopoli di Stato per il pagamento.
+
+## - TITOLO II ISTITUZIONE DEI PUNTI DI RACCOLTA DELLE GIOCATE DEL LOTTO E DISCIPLINA DELLA RELATIVA CONCESSIONE. Capo I ISTITUZIONE DEI PUNTI DI RACCOLTA DELLE GIOCATE DEL LOTTO
+
+## Art. 18.
+
+## Art. 19. — Insegna e giorni d'apertura d'esercizio dei punti di raccolta
+
+I punti di raccolta del gioco del lotto devono essere contrassegnati, all'esterno del locale, dalla insegna prescritta dall'Amministrazione dei monopoli di Stato.
+
+I punti di raccolta devono restare aperti al pubblico tutti i giorni tranne quelli riconosciuti festivi agli effetti civili.
+
+## - Capo II DISCIPLINA DELLA CONCESSIONE E DELLA RESPONSABILITA' DEL RACCOGLITORE
+
+## Art. 20. — Norme per la concessione dei punti di raccolta
+
+L'esercizio di un nuovo punto di raccolta del gioco del lotto e' concesso dall'ispettorato compartimentale dei Monopoli di Stato, sulla base dei criteri determinati dall'art. 18, a chi gestisce una rivendita di generi di monopolio, in qualita' di titolare, da tempo anteriore rispetto ad altri aspiranti.
+
+La perdita per qualsiasi causa della titolarita' della rivendita di generi di monopolio comporta l'automatica decadenza dalla concessione del punto di raccolta, salvo ipotesi di trasferimenti autorizzati.
+
+La misura, le modalita' e i termini di pagamento della imposta di concessione governativa istituita dall'art. 12, comma 6, della citata legge n. 528/1982, nel testo sostituito dall'art. 5 della legge n. 85/1990, sono stabiliti dalla tabella A allegata al presente decreto.
+
+Il gettito dell'imposta di cui al comma 3 affluisce al bilancio dello Stato sul capitolo concernente le tasse sulle concessioni governative.
+
+## Art. 21. — Disciplina del rapporto di concessione 
+ del gioco del lotto
+
+Il rapporto di concessione del gioco del lotto viene disciplinato mediante contratto della durata massima di nove anni da stipularsi con il raccoglitore del gioco da parte del competente ispettorato compartimentale dei Monopoli di Stato.
+
+Nei confronti dei rivenditori dei generi di monopolio, il contratto viene stipulato con termine di scadenza coincidente con quello del contratto della rivendita.
+
+## Art. 22. — Responsabilita' dei raccoglitori verso i giocatori
+
+Il raccoglitore risponde personalmente nei confronti del giocatore per qualsiasi comportamento illecito, suo o di un proprio dipendente, dal quale possa derivare pregiudizio per il giocatore stesso.
+
+## - TITOLO III NORME DI CONTABILITA' E RISCONTRO
+
+## Art. 23. — Estratto conto
+
+Copia dell'estratto conto suddetto viene, altresi', trasmessa alla ragioneria provinciale dello Stato competente per il territorio in cui e' ubicato il punto di raccolta.
+
+## Art. 24. — Modalita' di versamento delle somme riscosse
+
+Sulla scorta dell'estratto conto di cui all'art. 23, il raccoglitore e' tenuto a versare, il giovedi' della settimana successiva all'estrazione, il saldo a suo debito alla competente sezione di tesoreria provinciale dello Stato, anche a mezzo di conto corrente postale intestato alla stessa, imputando il versamento all'apposito capitolo del bilancio di entrata dello Stato.
+
+## Art. 25. — Rendiconto del raccoglitore
+
+Il raccoglitore, il giorno successivo al versamento, deve inviare al competente ispettorato compartimentale dei Monopoli di Stato, a mezzo plico assicurato, una copia dell'estratto conto con allegati gli originali degli scontrini vincenti, l'attestato di versamento o l'estratto di quietanza relativo all'importo pagato in tesoreria, gli originali degli scontrini annullati o rimborsati nei casi previsti dal presente regolamento.
+
+Riconosciuto regolare l'estratto conto da parte dell'ispettorato compartimentale dei Monopoli, il raccoglitore resta esonerato da qualsiasi altro adempimento.
+
+## Art. 26. — Adempimenti dell'Amministrazione autonoma dei monopoli di Stato
+
+L'Amministrazione dei monopoli di Stato e' tenuta a reintegrare mensilmente il capitolo d'entrata del bilancio dello Stato dell'importo delle vincite pagate dai raccoglitori con i fondi delle riscossioni, dell'importo del compenso trattenuto dai raccoglitori stessi, nonche' dell'importo delle giocate da essi eventualmente restituito su disposizione della competente commissione di zona.
+
+E' tenuta, altresi', a versare mensilmente l'importo delle ritenute previste per legge su tutte le vincite pagate.
+
+## - TITOLO IV NORME TRANSITORIE
+
+## Art. 27. — Coesistenza del sistema manuale e di quello automatizzato
+
+Il sistema automatizzato del gioco del lotto puo' entrare in funzione progressivamente su base zonale.
+
+Durante il periodo di coesistenza del nuovo e del vecchio sistema ciascuno e' disciplinato dai rispettivi ordinamenti. 
+ Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a Roma, addi' 7 agosto 1990 
+ COSSIGA 
+ ANDREOTTI, Presidente del Consiglio 
+ dei Ministri 
+ FORMICA, Ministro delle finanze 
+ CARLI, Ministro del tesoro 
+Visto, il Guardasigilli: VASSALLI 
+ Registrato alla Corte dei conti il 18 ottobre 1990 
+ Atti di Governo, registro n. 81, foglio n. 15
+
+## - ((TITOLO V NORME PER LA GESTIONE DEL GIOCO DEL LOTTO IN CONCESSIONE))
+
+## Art. 28. — (( Oggetto ))
+
+((
+
+Nel caso in cui la gestione del gioco del lotto sia affidata in concessione, ai sensi dell'art. 1 del decreto del Presidente della Repubblica 7 agosto 1990, n. 303, per l'esercizio delle attivita' inerenti ai poteri pubblici trasferiti al concessionario, in luogo delle disposizioni di cui agli articoli 9, 10, 11, 12, 13, comma 1, 15, 16, 17, 23 e 24 si applicano le disposizioni che seguono.
+
+))
+
+## Art. 29. — (( Estratti conto settimanali dei raccoglitori ))
+
+((
+
+))
+
+## Art. 30. — (( Termini per i versamenti effettuati dai raccoglitori ))
+
+((
+
+I raccoglitori sono tenuti a versare al concessionario, entro il giovedi' della settimana successiva all'estrazione, il saldo a proprio debito a mezzo di una o piu' aziende di credito che assicurino il servizio su tutto il territorio nazionale o del servizio postale.
+
+))
+
+## Art. 31. — (( Riscossioni del concessionario ))
+
+((
+
+Il concessionario riscuote dai raccoglitori gli importi da essi dovuti in base al relativo estratto conto di cui all'art. 29.
+
+))
+
+## Art. 32. — (( Riepilogo annuale dei raccoglitori ))
+
+((
+
+Il concessionario, entro il mese di marzo di ciascun anno, trasmette via terminale ad ogni raccoglitore un riepilogo relativo a tutte le settimane di concorso di competenza contabile dell'anno precedente.
+
+))
+
+## Art. 33. — (( Versamenti del concessionario ))
+
+((
+
+Il concessionario, entro il lunedi' seguente la settimana successiva a quella di versamento da parte dei raccoglitori, versa alla sezione di tesoreria provinciale dello Stato di Roma le somme accreditategli dai raccoglitori, al netto di quanto da lui stesso prelevato per il pagamento delle vincite di propria competenza e per il compenso spettantegli previsto dall'atto di concessione, nonche' dell'importo delle ritenute dovute ai fondi di previdenza del personale del Ministero delle finanze (1%) e dell'Amministrazione dei monopoli di Stato (2%) relative alle vincite pagate dai raccoglitori.
+L'estratto della relativa quietanza viene inviato, a cura della sezione di tesoreria provinciale dello Stato, all'ufficio centrale di ragioneria presso l'Amministrazione dei monopoli di Stato.
+
+Qualora il versamento di cui al comma 1 venga omesso in tutto o in parte, oppure venga effettuato in ritardo, nei confronti del concessionario si applicano le penalita' per inadempimento previste dall'atto di concessione.
+
+Entro la prima settimana di ciascun mese il concessionario provvede al versamento alla sezione di tesoreria provinciale dello Stato di Roma, con imputazione ad apposito capitolo dell'entrata del bilancio dello Stato, dell'importo delle ritenute, relative alle vincite pagate dai raccoglitori nel mese precedente, da destinarsi al fondo di previdenza del personale del Ministero delle finanze (1%) ed al fondo di previdenza del personale dell'Amministrazione dei monopoli di Stato (2%). Con decreto del Ministro del tesoro si provvede alla riassegnazione delle predette ritenute ai pertinenti capitoli degli stati di previsione del Ministero delle finanze e dell'Amministrazioneautonoma dei monopoli di Stato.
+
+))
+
+## Art. 34. — (( (Pagamento delle vincite da parte dei raccoglitori). ))
+
+((
+
+Per le vincite di importo non superiore a 2.300 euro, lo scontrino deve essere presentato al raccoglitore che ha ricevuto la giocata. Quest'ultimo provvede al ritiro dello scontrino ed al pagamento della vincita, previo accertamento dell'integrita' e completezza dello stesso, nonche' previa validazione da parte del concessionario tramite l'utilizzo del sistema di automazione.
+
+Nell'ultimo giorno utile per la richiesta di pagamento, e' consentito al vincitore di presentare lo scontrino direttamente al concessionario, mediante lettera raccomandata con ricevuta di ritorno, che provvedera' al pagamento della vincita.
+
+Il raccoglitore deve inviare ogni venerdi', a mezzo assicurata postale, al competente Ispettorato compartimentale dei monopoli di Stato un plico contenente una copia dell'estratto conto, l'attestato di versamento al concessionario del saldo a debito dell'importo pagato e gli originali degli scontrini annullati, rimborsati, digitati manualmente, giocati presso rivendite speciali e non pagati dalle stesse, le schede del lotto telefonico e gli scontrini relativi a vincite prenotate.
+
+Al raccoglitore che effettui il versamento mediante ritenuta diretta in conto corrente postale o bancario e' consentito di svolgere le operazioni descritte al comma 3 il primo venerdi' di ciascun mese, fermo restando il termine settimanale previsto per le operazioni di chiusura della settimana contabile e per il relativo versamento degli introiti.
+
+Gli scontrini non ricompresi tra quelli indicati al comma 3 sono affidati in custodia al raccoglitore, che ne cura la conservazione per un anno dall'emissione, provvedendo poi alla relativa distruzione; i competenti Ispettorati compartimentali dei monopoli di Stato esercitano l'attivita' di controllo sulla corretta custodia degli scontrini in questione, mediante verifiche o disponendone l'acquisizione, anche con criteri di campionatura.
+
+Analogamente, i controlli sugli scontrini inviati dai raccoglitori ai sensi del comma 3 devono essere effettuati entro un anno dalla data di emissione, decorso il quale termine gli Ispettorati compartimentali dei monopoli di Stato ne cureranno la distruzione.
+
+Il concessionario trasmette settimanalmente al competente Ispettorato compartimentale dei monopoli di Stato, ai fini dei necessari controlli amministrativi, un tabulato contenente gli estratti conto di ciascun raccoglitore, i relativi versamenti effettuati nonche' la segnalazione dei casi di ritardato, parziale od omesso versamento, per le determinazioni che dovranno essere assunte dallo stesso Ispettorato.
+
+))
+
+## Art. 35. — Pagamento delle vincite da parte del concessionario
+
+Oltre che nel caso previsto dall'art. 34, comma 2, il concessionario provvede direttamente al pagamento delle vincite di importo superiore a quello di competenza dei raccoglitori, nonche' di quelle di importo inferiore autorizzate dall'Amministrazione finanziaria in caso di vincite eccezionalmente numerose.
+
+Per le vincite fino a lire 20.000.000 gli scontrini vanno presentati entro sessanta giorni, decorrenti dalla data di affissione del Bollettino ufficiale di zona, presso il punto di raccolta ove e' stata effettuata la giocata vincente o presso un qualsiasi altro punto. Il raccoglitore ritira lo scontrino, richiede al concessionario di validare la vincita tramite terminale di gioco e consegna, in nome e per conto del concessionario, attestazione di vincita. Il pagamento viene effettuato dal concessionario, dopo la validazione della vincita, mediante ordine bancario o postale reso disponibile entro il quindicesimo giorno successivo alla consegna dello scontrino presso lo sportello bancario o postale indicato nella attestazione di vincita. ((PERIODO ABROGATO DAL D.P.R. 4 OTTOBRE 2002, N. 240.))
+
+Per le vincite eccezionalmente numerose di cui al comma 1, il pagamento e' eseguito dal concessionario previa autorizzazione dell'Amministrazione finanziaria, che provvede al contestuale accredito dei necessari fondi di cui al successivo art. 36, comma 2.
+Gli scontrini vanno presentati entro sessanta giorni, decorrenti dalla data di affissione del Bollettino ufficiale di zona, presso il punto di raccolta ove e' stata effettuata la giocata vincente o presso un qualsiasi altro punto. Si applicano le disposizioni del comma 2 per quanto concerne la convalidazione e l'attestazione delle vincite, il pagamento delle stesse, nonche' l'invio al concessionario degli scontrini ritirati dai vincitori. Il decreto del Ministro delle finanze, con il quale viene autorizzato il pagamento delle vincite eccezionalmente numerose, e' comunicato al concessionario per la pubblicazione nel Bollettino ufficiale di zona.
+
+Per le vincite di importo superiore a lire 20.000.000, gli scontrini vanno presentati, entro sessanta giorni, decorrenti dalla data di affissione del Bollettino ufficiale di zona, al concessionario. Il concessionario ritira lo scontrino e consegna apposita ricevuta. Si applicano per il pagamento le disposizioni del comma 2.
+
+Scaduto il termine di sessanta giorni dalla data di affissione del Bollettino ufficiale di zona, il concessionario chiude la contabilita' delle vincite relative all'estrazione e provvede alla produzione del rendiconto ed al versamento all'entrata del bilancio dello Stato dell'eventuale saldo per le vincite non reclamate, entro i trenta giorni successivi.
+
+## Art. 36. — (( Fondi per il pagamento delle vincite ))
+
+((
+
+Il concessionario provvede al pagamento delle vincite di sua competenza utilizzando le somme a tal fine prelevate dalle disponibilita' di cassa relative ai versamenti di cui al precedente art. 31.
+
+Per il pagamento delle vincite eccezionalmente numerose, di cui al precedente art. 35, comma 1, il concessionario provvede con i fondi accreditati dall'Amministrazione, ai sensi dello stesso art. 35, comma 3.
+
+Il concessionario, per il pagamento delle vincite, si puo' avvalere di una o piu' aziende di credito, che assicurino il servizio su tutto il territorio nazionale o del servizio postale.
+
+))
+
+## Art. 37. — (( Flussi finanziari ))
+
+((
+
+La gestione finanziaria e' effettuata utilizzando un conto corrente bancario acceso dal concessionario presso un istituto bancario in grado di assicurare il servizio alle migliori condizioni di mercato.
+
+Gli interessi prodotti dal conto corrente bancario sono versati all'erario il giorno successivo alla data di accreditamento dell'importo netto sul conto corrente medesimo.
+
+))
+
+## Art. 38. — (( Adempimenti contabili del concessionario ))
+
+((
+
+Tutti gli elaborati di cui al comma 1 devono essere trasmessi dal concessionario, entro gli stessi termini per ciascuno di essi previsti, anche all'Ufficio centrale di ragioneria presso l'Amministrazione dei monopoli di Stato, con esclusione del conto giudiziale che deve pervenire allo stesso ufficio, in doppia copia, dalla Direzione generale dei monopoli di Stato.
+
+Il concessionario rende disponibile il proprio sistema informativo per il costante controllo, a mezzo terminali installati presso l'Amministrazione dei monopoli di Stato e l'ufficio centrale di ragioneria, dei flussi finanziari relativi alle riscossioni, ai pagamenti ed ai versamenti.
+
+Il concessionario trasmette all'Amministrazione finanziaria i dischi ottici immodificabili delle giocate e delle vincite, entro il mese di marzo dell'anno successivo a quello di riferimento.
+
+))
+
+## Art. 39. — (( Operazioni di estrazione ))
+
+((
+
+Le estrazioni settimanali, di cui al primo comma dell'art. 3 della legge 19 aprile 1990, n. 85, sono eseguite pubblicamente dal concessionario, presso i locali dallo stesso prescelti, ubicati nei capoluoghi di provincia sede di ruota, oppure in Roma, per alcune o tutte le ruote, qualora in tal senso disponga il Ministro delle finanze con proprio decreto.
+
+Le estrazioni avvengono a cura del concessionario, alla presenza di una commissione nominata con decreto del Ministro delle finanze e presieduta da un dirigente generale dell'Amministrazione finanziaria o da un ufficiale superiore della Guardia di finanza; la commissione ministeriale sottoscrive il verbale delle operazioni di estrazione.
+
+Le estrazioni possono essere effettuate anche mediante urne movimentate elettricamente con la fuoriuscita automatica dei numeri vincenti.
+
+))
+
+## Art. 40. — (( Determinazione e convalida delle vincite, redazione del Bollettino 
+ ufficiale di zona e dichiarazione delle esclusioni ))
+
+((
+
+Il concessionario, nella giornata dell'estrazione, provvede, sotto la propria responsabilita', alla determinazione e convalida delle vincite, alla redazione del Bollettino ufficiale di zona del gioco del lotto, contenente le vincite distinte per punto di raccolta, nonche' alla dichiarazione di esclusione dall'estrazione, nei casi di cui al precedente art. 11, da pubblicarsi nel Bollettino ufficiale di zona, dandone apposita documentazione all'Amministrazione per l'esercizio del potere di vigilanza di cui al successivo art. 42.
+
+Il Bollettino suddetto deve contenere tutti gli elementi atti ad individuare agevolmente le vincite con il relativo ammontare al netto delle ritenute di legge.
+
+Il giorno lavorativo successivo all'estrazione, il concessionario provvede ad affiggere al pubblico, nella sua sede, il Bollettino ufficiale di cui al comma 1, per un periodo non inferiore a sessanta giorni. Da tale affissione decorrono i termini per la richiesta di pagamento delle vincite.
+
+Il concessionario rende disponibile il Bollettino ufficiale di cui sopra il giorno lavorativo successivo all'estrazione, anche via terminale, presso i centri di elaborazione di zona delle dieci ruote per un periodo non inferiore a sessanta giorni.
+
+Ad ogni punto di raccolta viene trasmesso a cura del concessionario, e quindi esposto al pubblico, il Bollettino contenente le vincite conseguite presso il punto stesso.
+
+In relazione alle operazioni di cui ai precedenti commi, il concessionario fornira' all'Amministrazione finanziaria la documentazione per l'esercizio dei poteri di controllo e di vigilanza.
+
+))
+
+## Art. 41. — (( Reclami ))
+
+((
+
+Avverso la dichiarazione di esclusione del concessionario, il giocatore in possesso di scontrino puo' proporre reclamo in carta semplice spedito per raccomandata con ricevuta di ritorno, al concessionario stesso entro otto giorni decorrenti da quello di affissione del Bollettino ufficiale di zona.
+
+Ai fini della tempestivita' del reclamo si ha riguardo alla data di spedizione postale.
+
+Sul reclamo il concessionario decide entro il termine di quindici giorni comunicandone l'esito con raccomandata all'opponente.
+In caso di omessa decisione del concessionario nel termine predetto, il reclamo si intende respinto ed il giocatore puo' proporre ricorso alla commissione centrale con le modalita' e nei termini di cui al successivo comma 4.
+
+Avverso il mancato accoglimento del reclamo puo' essere proposto ricorso alla commissione centrale del gioco del lotto, con le modalita' e nei termini di cui all'art. 11 della legge 2 agosto 1982, n. 528.
+
+E' fatta salva la possibilita' di adire l'autorita' giudiziaria ordinaria ai sensi dell'art. 11, ultimo comma, della citata legge n. 528/1982.
+
+))
+
+## Art. 42. — (( Vigilanza sulla gestione ))
+

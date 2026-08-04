@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 479
+data: 1981-02-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-02-13;479
+codice_redazionale: 081U0479
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 febbraio 1981
+                479
+                Autorizzazione alla cassa mutua di malattia per i coltivatori diretti di Pescara ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 febbraio 1981, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Pescara viene autorizzata ad acquistare, in via di sanatoria, al prezzo di L. 9.270.000, l'intero primo piano del fabbricato sito in Pescara, via Firenze angolo via Campania, censito al nuovo catasto edilizio urbano alla partita 4216, foglio 21, particella 21 e 475, di proprieta' dell'impresa F.lli Cetrullo, come da atto di compravendita 26 settembre 1958, n. 31834/6484 di repertorio, a rogito avv. Donato Mastroberardino, notaio in Citta' S. Angelo, registrato a Pescara in data 11 ottobre 1958, da adibire a sede provinciale dell'ente. 
+ 
+Visto, il Guardasigilli: SARTI 
+ Registrato alla Corte dei conti, addi' 8 agosto 1981 
+ Registro n. 1 Lavoro, foglio n. 153
+

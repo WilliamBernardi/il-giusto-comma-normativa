@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2388
+data: 1865-06-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1865-06-29;2388
+codice_redazionale: 065U2388
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:30Z
+---
+
+REGIO DECRETO
+                29 giugno 1865
+                2388
+                Per la soppressione dell'Amministrazione del sito di Persano in Provincia di Salerno. (065U2388)
+
+Entrata in vigore del provvedimento: 02/08/1865
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

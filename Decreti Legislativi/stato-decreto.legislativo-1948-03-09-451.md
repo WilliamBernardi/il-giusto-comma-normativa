@@ -1,0 +1,36 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 451
+data: 1948-03-09
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-03-09;451
+codice_redazionale: 048U0451
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:23Z
+---
+
+DECRETO LEGISLATIVO
+                09 marzo 1948
+                451
+                Indennita' per i militari della Guardia di finanza in servizio al confine alpestre, in zone malariche o nel contingente del ramo mare.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+

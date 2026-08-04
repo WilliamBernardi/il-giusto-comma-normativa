@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 418
+data: 1954-03-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-22;418
+codice_redazionale: 054U0418
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 marzo 1954
+                418
+                Autorizzazione all'accettazione della donazione fatta allo Stato, da parte del comune di Bologna, di un appezzamento di terreno sito in quella citta'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 marzo 1954, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione fatta allo Stato, da parte del comune di Bologna, dell'appezzamento di terreno sito in quella citta' della superficie di mq. 2826, per la costruzione di case per senza tetto, giusta contratto stipulato il 7 maggio 1953, che anche viene approvato e reso esecutorio,
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 1 luglio 1954
+ Atti del Governo, registro n. 84, foglio n. 8. - CARLOMAGNO
+

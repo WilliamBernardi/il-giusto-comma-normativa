@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 190
+data: 1957-02-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-02-13;190
+codice_redazionale: 057U0190
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 febbraio 1957
+                190
+                Rettifica del dispositivo del decreto 29 maggio 1956, n. 820.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 febbraio 1957, col quale, sulla proposta del Ministro per l'interno, il dispositivo del decreto in data 29 maggio 1956, n. 820, registrato alla Corte dei conti il 26 luglio 1956, registro n. 99, foglio n. 139, viene cosi' rettificato: E' riconosciuta la personalita' giuridica della Chiesa Santuario de Finibus Terrae, in localita' Leuca del comune di Gagliano del Capo (Lecce).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 6 aprile 1957
+ Atti del Governo, registro n. 105, foglio n. 17. - CARLOMAGNO
+

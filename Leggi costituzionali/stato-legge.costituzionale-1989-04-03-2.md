@@ -1,0 +1,50 @@
+---
+tipo: LEGGE COSTITUZIONALE
+numero: 2
+data: 1989-04-03
+titolo: ""
+urn: urn:nir:stato:legge.costituzionale:1989-04-03;2
+codice_redazionale: 089G0146
+vigente: true
+source: normattiva-opendata
+collection: Leggi costituzionali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:39:08Z
+---
+
+LEGGE COSTITUZIONALE
+                03 aprile 1989
+                2
+                 Indizione di un referendum di indirizzo sul conferimento di un mandato costituente al Parlamento europeo che sara' eletto nel 1989
+
+Entrata in vigore della legge: 07/04/1989
+
+## Art. 1.
+
+Il Presidente della Repubblica, su deliberazione del Consiglio dei Ministri, indice un referendum per il giorno delle elezioni dei rappresentanti del Parlamento europeo, avente per oggetto il quesito indicato nell'articolo
+
+2. Hanno diritto di voto tutti i cittadini che, alla data di 
+svolgimento del referendum, abbiano compiuto il diciottesimo anno di eta' e che siano iscritti nelle liste elettorali del comune, a termini delle disposizioni contenute nel testo unico approvato con decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni ed integrazioni.
+
+## Art. 2.
+
+Il quesito da sottoporre al referendum e' il seguente: "Ritenete voi che si debba procedere alla trasformazione delle Comunita' europee in una effettiva Unione, dotata di un Governo responsabile di fronte al Parlamento, affidando allo stesso Parlamento europeo il mandato di redigere un progetto di Costituzione europea da sottoporre direttamente alla ratifica degli organi competenti degli Stati membri della Comunita'?".
+
+## Art. 3.
+
+La propaganda relativa allo svolgimento del referendum previsto dalla presente legge costituzionale e' disciplinata dalle disposizioni contenute nelle leggi 4 aprile 1956, n. 212, 24 aprile 1975, n. 130, nonche' nell'articolo 52 della legge 25 maggio 1970, n. 352, come modificato dall'articolo 3 della legge 22 maggio 1978, n. 199.
+
+Le facolta' riconosciute dalle disposizioni vigenti ai partiti o gruppi politici rappresentati in Parlamento e ai comitati promotori di referendum sono estese anche agli enti e alle associazioni aventi rilevanza nazionale o che comunque operino in almeno due regioni e che abbiano interesse positivo o negativo verso la formazione dell'unita' europea e il sostegno e la promozione dell'Europa comunitaria. Tali enti e associazioni sono individuati, a richiesta dei medesimi, con decreto del Presidente del Consiglio dei Ministri di concerto con il Ministro dell'interno, entro trenta giorni dalla data di entrata in vigore della presente legge costituzionale.
+
+La commissione parlamentare per l'indirizzo generale e la vigilanza dei servizi radiotelevisivi formula gli indirizzi atti a garantire ai partiti, enti ed associazioni di cui al comma 2 la partecipazione alle trasmissioni radiotelevisive dedicate alla illustrazione del quesito referendario, entro i termini stabiliti per l'elezione dei rappresentanti del Parlamento europeo.
+
+## Art. 4.
+
+La presente legge costituzionale entra in vigore il giorno 
+successivo a quello della pubblicazione nella Gazzetta Ufficiale successiva alla sua promulgazione. 
+ La presente legge costituzionale, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato. 
+ Data a Roma, addi' 3 aprile 1989 
+ COSSIGA 
+ DE MITA, Presidente del Consiglio  dei Ministri 
+Visto, il Guardasigilli: VASSALLI
+

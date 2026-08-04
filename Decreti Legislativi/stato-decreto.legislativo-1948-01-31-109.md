@@ -1,0 +1,44 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 109
+data: 1948-01-31
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-01-31;109
+codice_redazionale: 048U0109
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:21Z
+---
+
+DECRETO LEGISLATIVO
+                31 gennaio 1948
+                109
+                Condono di sopratasse e pene pecuniarie in materia tributaria.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+

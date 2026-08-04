@@ -1,0 +1,330 @@
+---
+tipo: REGIO DECRETO
+numero: 539
+data: 1927-04-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-04-03;539
+codice_redazionale: 027U0539
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:56Z
+---
+
+REGIO DECRETO
+                03 aprile 1927
+                539
+                Riconoscimento giuridico della Federazione sindacale fascista dell'industria cotoniera italiana e dell'Associazione italiana fascista degli industriali cotonieri. (027U0539)
+
+Entrata in vigore del provvedimento: 12/05/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+### Art. 1.
+
+Statuto F.S.F.I.C.I.-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Statuto F.S.F.I.C.I.-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Statuto F.S.F.I.C.I.-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Statuto F.S.F.I.C.I.-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Statuto F.S.F.I.C.I.-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Statuto F.S.F.I.C.I.-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Statuto F.S.F.I.C.I.-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Statuto F.S.F.I.C.I.-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Statuto F.S.F.I.C.I.-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Statuto F.S.F.I.C.I.-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Statuto F.S.F.I.C.I.-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Statuto F.S.F.I.C.I.-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Statuto F.S.F.I.C.I.-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Statuto F.S.F.I.C.I.-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Statuto F.S.F.I.C.I.-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Statuto F.S.F.I.C.I.-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Statuto F.S.F.I.C.I.-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Statuto F.S.F.I.C.I.-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Statuto F.S.F.I.C.I.-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 20.
+
+Statuto F.S.F.I.C.I.-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 21.
+
+Statuto F.S.F.I.C.I.-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 22.
+
+Statuto F.S.F.I.C.I.-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 23.
+
+Statuto F.S.F.I.C.I.-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 24.
+
+Statuto F.S.F.I.C.I.-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 25.
+
+Statuto F.S.F.I.C.I.-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 26.
+
+Statuto F.S.F.I.C.I.-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 27.
+
+Statuto F.S.F.I.C.I.-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 28.
+
+Statuto F.S.F.I.C.I.-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 29.
+
+Statuto F.S.F.I.C.I.-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 30.
+
+Statuto F.S.F.I.C.I.-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 31.
+
+Statuto F.S.F.I.C.I.-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 32.
+
+Statuto F.S.F.I.C.I.-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 33.
+
+Statuto F.S.F.I.C.I.-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 34.
+
+Statuto F.S.F.I.C.I.-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 35.
+
+Statuto F.S.F.I.C.I.-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 36.
+
+Statuto F.S.F.I.C.I.-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 37.
+
+Statuto F.S.F.I.C.I.-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 38.
+
+Statuto F.S.F.I.C.I.-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 1.
+
+Statuto A.I.F.I.C.-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Statuto A.I.F.I.C.-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Statuto A.I.F.I.C.-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Statuto A.I.F.I.C.-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Statuto A.I.F.I.C.-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Statuto A.I.F.I.C.-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Statuto A.I.F.I.C.-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Statuto A.I.F.I.C.-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Statuto A.I.F.I.C.-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Statuto A.I.F.I.C.-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Statuto A.I.F.I.C.-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Statuto A.I.F.I.C.-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Statuto A.I.F.I.C.-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Statuto A.I.F.I.C.-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Statuto A.I.F.I.C.-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Statuto A.I.F.I.C.-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Statuto A.I.F.I.C.-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Statuto A.I.F.I.C.-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Statuto A.I.F.I.C.-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 20.
+
+Statuto A.I.F.I.C.-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 21.
+
+Statuto A.I.F.I.C.-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 22.
+
+Statuto A.I.F.I.C.-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 23.
+
+Statuto A.I.F.I.C.-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 24.
+
+Statuto A.I.F.I.C.-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 25.
+
+Statuto A.I.F.I.C.-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 26.
+
+Statuto A.I.F.I.C.-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 27.
+
+Statuto A.I.F.I.C.-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 28.
+
+Statuto A.I.F.I.C.-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 29.
+
+Statuto A.I.F.I.C.-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 30.
+
+Statuto A.I.F.I.C.-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 31.
+
+Statuto A.I.F.I.C.-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 32.
+
+Statuto A.I.F.I.C.-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 33.
+
+Statuto A.I.F.I.C.-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 34.
+
+Statuto A.I.F.I.C.-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 35.
+
+Statuto A.I.F.I.C.-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 36.
+
+Statuto A.I.F.I.C.-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 37.
+
+Statuto A.I.F.I.C.-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 38.
+
+Statuto A.I.F.I.C.-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+

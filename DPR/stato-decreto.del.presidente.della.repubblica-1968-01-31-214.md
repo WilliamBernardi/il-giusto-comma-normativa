@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 214
+data: 1968-01-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-01-31;214
+codice_redazionale: 068U0214
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 gennaio 1968
+                214
+                Riconoscimento, agli effetti civili, della erezione della vicaria curata di S. Libero, nel comune di Montemaggiore al Metauro.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 gennaio 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Amministratore apostolico di Fano in data 1 marzo 1967, integrato con dichiarazione dell'8 marzo successivo, relativo alla erezione della vicaria curata autonoma ed indipendente di S. Liberio, in frazione omonima del comune di Montemaggiore al Metauro (Pesaro e Urbino).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 marzo 1968
+ Atti del Governo, registro n. 218, foglio n. 29. - GRECO
+

@@ -1,0 +1,463 @@
+---
+tipo: REGIO DECRETO
+numero: 979
+data: 1862-10-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1862-10-30;979
+codice_redazionale: 062U0979
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:04Z
+---
+
+REGIO DECRETO
+                30 ottobre 1862
+                979
+                Col quale sono approvate le istruzioni disciplinari per l'applicazione del Regolamento doganale approvato col Decreto 11 settembre 1862. (062U0979)
+
+Entrata in vigore del provvedimento: 13/12/1862
+ Le Istruzioni annesse al provvedimento sono state pubblicate nel SO relativo alla GU n. 285 del 02-12-1862.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+### Art. 1.
+
+Istruzioni-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 2.
+
+Istruzioni-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 3.
+
+Istruzioni-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 4.
+
+Istruzioni-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 5.
+
+Istruzioni-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 6.
+
+Istruzioni-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 7.
+
+Istruzioni-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 8.
+
+Istruzioni-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 9.
+
+Istruzioni-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 10.
+
+Istruzioni-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 11.
+
+Istruzioni-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 12.
+
+Istruzioni-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 13.
+
+Istruzioni-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 14.
+
+Istruzioni-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 15.
+
+Istruzioni-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 16.
+
+Istruzioni-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 17.
+
+Istruzioni-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 18.
+
+Istruzioni-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 19.
+
+Istruzioni-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 20.
+
+Istruzioni-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 21.
+
+Istruzioni-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 22.
+
+Istruzioni-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 23.
+
+Istruzioni-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 24.
+
+Istruzioni-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 25.
+
+Istruzioni-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 26.
+
+Istruzioni-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 27.
+
+Istruzioni-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 28.
+
+Istruzioni-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 29.
+
+Istruzioni-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 30.
+
+Istruzioni-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 31.
+
+Istruzioni-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 32.
+
+Istruzioni-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 33.
+
+Istruzioni-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 34.
+
+Istruzioni-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 35.
+
+Istruzioni-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 36.
+
+Istruzioni-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 37.
+
+Istruzioni-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 38.
+
+Istruzioni-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 39.
+
+Istruzioni-art. 39 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 40.
+
+Istruzioni-art. 40 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 41.
+
+Istruzioni-art. 41 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 42.
+
+Istruzioni-art. 42 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 43.
+
+Istruzioni-art. 43 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 44.
+
+Istruzioni-art. 44 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 45.
+
+Istruzioni-art. 45 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 46.
+
+Istruzioni-art. 46 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 47.
+
+Istruzioni-art. 47 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 48.
+
+Istruzioni-art. 48 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 49.
+
+Istruzioni-art. 49 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 50.
+
+Istruzioni-art. 50 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 51.
+
+Istruzioni-art. 51 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 52.
+
+Istruzioni-art. 52 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 53.
+
+Istruzioni-art. 53 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 54.
+
+Istruzioni-art. 54 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 55.
+
+Istruzioni-art. 55 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 56.
+
+Istruzioni-art. 56 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 57.
+
+Istruzioni-art. 57 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 58.
+
+Istruzioni-art. 58 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 59.
+
+Istruzioni-art. 59 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 60.
+
+Istruzioni-art. 60 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 61.
+
+Istruzioni-art. 61 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 62.
+
+Istruzioni-art. 62 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 63.
+
+Istruzioni-art. 63 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 64.
+
+Istruzioni-art. 64 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 65.
+
+Istruzioni-art. 65 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 66.
+
+Istruzioni-art. 66 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 67.
+
+Istruzioni-art. 67 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 68.
+
+Istruzioni-art. 68 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 69.
+
+Istruzioni-art. 69 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 70.
+
+Istruzioni-art. 70 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 71.
+
+Istruzioni-art. 71 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 72.
+
+Istruzioni-art. 72 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 73.
+
+Istruzioni-art. 73 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 74.
+
+Istruzioni-art. 74 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 75.
+
+Istruzioni-art. 75 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 76.
+
+Istruzioni-art. 76 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 77.
+
+Istruzioni-art. 77 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 78.
+
+Istruzioni-art. 78 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 79.
+
+Istruzioni-art. 79 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 80.
+
+Istruzioni-art. 80 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 81.
+
+Istruzioni-art. 81 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 82.
+
+Istruzioni-art. 82 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 83.
+
+Istruzioni-art. 83 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 84.
+
+Istruzioni-art. 84 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 85.
+
+Istruzioni-art. 85 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 86.
+
+Istruzioni-art. 86 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 87.
+
+Istruzioni-art. 87 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 88.
+
+Istruzioni-art. 88 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 89.
+
+Istruzioni-art. 89 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 90.
+
+Istruzioni-art. 90 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 91.
+
+Istruzioni-art. 91 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 92.
+
+Istruzioni-art. 92 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 93.
+
+Istruzioni-art. 93 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 94.
+
+Istruzioni-art. 94 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 95.
+
+Istruzioni-art. 95 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 96.
+
+Istruzioni-art. 96 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 97.
+
+Istruzioni-art. 97 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 98.
+
+Istruzioni-art. 98 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 99.
+
+Istruzioni-art. 99 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 100.
+
+Istruzioni-art. 100 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 101.
+
+Istruzioni-art. 101 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 102.
+
+Istruzioni-art. 102 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 103.
+
+Istruzioni-art. 103 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 104.
+
+Istruzioni-art. 104 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 105.
+
+Istruzioni-art. 105 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 106.
+
+Istruzioni-art. 106 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 107.
+
+Istruzioni-art. 107 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 108.
+
+Istruzioni-art. 108 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 109.
+
+Istruzioni-art. 109 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+

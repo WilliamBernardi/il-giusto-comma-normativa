@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 239
+data: 1960-02-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-03;239
+codice_redazionale: 060U0239
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 febbraio 1960
+                239
+                Riconoscimento, agli effetti civili, della elevazione in parrocchia della Vicaria curata autonoma di Santa Maria della Neve, in localita' Obra del comune di Vallarsa (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 febbraio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 15 agosto 1959, integrato con postilla del 18 agosto stesso anno, relativo alla elevazione in parrocchia della Vicaria curata autonoma di Santa Maria della Neve, in localita' Obra del comune di Vallarsa (Trento).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 17 marzo 1960
+ Atti del Governo, registro n. 125, foglio n. 88. - VILLA
+

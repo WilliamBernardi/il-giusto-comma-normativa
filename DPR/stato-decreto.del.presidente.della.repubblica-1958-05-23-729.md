@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 729
+data: 1958-05-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-23;729
+codice_redazionale: 058U0729
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 maggio 1958
+                729
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Bernardo di Aosta, detto da Mentone, in Aosta.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica in data 23 maggio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Aosta in data 1 giugno 1957, integrato con postilla di pari data, con altro decreto in data 25 gennaio 1958 e con dichiarazione del 2 dicembre 1957, relativo alla erezione della parrocchia di San Bernardo di Aosta, detto da Mentone, in Aosta.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 luglio 1958
+ Atti del Governo, registro n. 113, foglio n. 65. - RELLEVA
+

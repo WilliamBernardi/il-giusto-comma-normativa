@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1082
+data: 1924-06-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-06-19;1082
+codice_redazionale: 024U1082
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:31Z
+---
+
+REGIO DECRETO
+                19 giugno 1924
+                1082
+                Erezione in Ente morale della Fondazione Giuseppe Guarnieri presso la Regia universita' di Pisa. (024U1082)
+
+Entrata in vigore del provvedimento: 30/07/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

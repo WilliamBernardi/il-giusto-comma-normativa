@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1028
+data: 1959-10-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-10-17;1028
+codice_redazionale: 059U1028
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:42Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 ottobre 1959
+                1028
+                Modificazione della misura del contributo dovuto al Fondo per le pensioni al personale addetto ai pubblici servizi di telefonia.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+

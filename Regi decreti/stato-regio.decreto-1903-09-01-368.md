@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+data: 1903-09-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-09-01;368
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:40Z
+---
+
+REGIO DECRETO
+                01 settembre 1903
+                CCCLXVIII
+                Che modifica le zone di servitu' militare attorno alle opere di fortificazione della piazza di Spezia. (0300368R)
+
+Entrata in vigore del provvedimento: 14/10/1903
+
+## Art. 1.
+
+Che modifica le zone di servitu' militare attorno alle opere di fortificazione della piazza di Spezia. - Firmato VITTORIO EMANUELE - Controfirmato Ottolenghi - Visto F. Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 25 settembre 1903. 
+ 
+ Reg. 12. Atti del Governo a f. 140.
+

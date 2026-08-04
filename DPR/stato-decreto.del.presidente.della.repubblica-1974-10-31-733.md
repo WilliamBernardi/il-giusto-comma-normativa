@@ -1,0 +1,44 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 733
+data: 1974-10-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-10-31;733
+codice_redazionale: 074U0733
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 ottobre 1974
+                733
+                Modificazioni allo statuto della libera Universita' degli studi "G.
+D'Annunzio" di Chieti.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto della libera Universita' degli studi "G.
+D'Annunzio" di Chieti, approvato con decreto del Presidente della Repubblica 8 maggio 1965, n. 1007, e modificato con decreto del Presidente della Repubblica 20 settembre 1966, n. 1291, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche della Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione; Decreta:
+
+ Lo statuto della libera Universita' degli studi "G. D'Annunzio" di Chieti, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 32 - all'elenco degli insegnamenti complementari del corso di laurea in giurisprudenza sono aggiunti quelli di:
+
+ Diritto pubblico dell'economia;
+ Diritto sindacale;
+ Diritto penale commerciale;
+ Storia del diritto canonico;
+ Diritto comune.
+

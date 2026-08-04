@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1879-04-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-04-10;2178
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:17Z
+---
+
+REGIO DECRETO
+                10 aprile 1879
+                MMCLXXVIII
+                Che erige in corpo morale la pia fondazione Motta in Venezia, e ne approva lo statuto. (7902178R)
+
+Entrata in vigore del provvedimento: 25/05/1879
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

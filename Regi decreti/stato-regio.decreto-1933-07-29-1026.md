@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1026
+data: 1933-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-07-29;1026
+codice_redazionale: 033U1026
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:22Z
+---
+
+REGIO DECRETO
+                29 luglio 1933
+                1026
+                Norme per la liquidazione delle pensioni al personale del Senato del Regno e della Camera dei deputati. (033U1026)
+
+Entrata in vigore del provvedimento: 03/09/1933
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 342
+data: 1913-04-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-04-03;342
+codice_redazionale: 013U0342
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:29Z
+---
+
+REGIO DECRETO
+                03 aprile 1913
+                342
+                Imposizione di dazio sulle ceramiche. (013U0342)
+
+Entrata in vigore del provvedimento: 10/05/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 211
+data: 1958-03-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-03-10;211
+codice_redazionale: 058U0211
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 marzo 1958
+                211
+                Autorizzazione al Ministero della pubblica istruzione ad accettare una donazione per la Biblioteca, Medicea Laurenziana di Firenze.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 marzo 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione per la Biblioteca Medicea Laurenziana di Firenze, di una donazione di manoscritti, documenti e incunabili disposta dalle signore Francesca e Caterina Martelli, con atti pubblici rogati il 21 giugno 1956 e il 3 febbraio 1958, ai numeri 7273 e 7668, dal dott. Desiderio Zati, notaio in Firenze.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 169. - RELLEVA
+

@@ -1,0 +1,100 @@
+---
+tipo: DECRETO
+numero: 335
+data: 1994-03-08
+titolo: ""
+urn: urn:nir:ministero.risorse.agricole.alimentari.e.forestali:decreto:1994-03-08;335
+codice_redazionale: 094G0407
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:39Z
+---
+
+DECRETO
+                08 marzo 1994
+                335
+                 Regolamento concernente la disciplina dei concorsi enologici e delle distinzioni dei vini a denominazione di origine e ad indicazione geografica tipica.
+
+Entrata in vigore del decreto: 21/06/1994
+
+AGRICOLE, ALIMENTARI E FORESTALI
+
+DI CONCERTO CON
+
+IL MINISTRO DELL'INDUSTRIA
+
+DEL COMMERCIO E DELL'ARTIGIANATO
+
+Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 24 giugno 1993;
+
+## Art. 1. — Utilizzo delle distinzioni
+
+Le partite dei vini a denominazione di origine controllata e garantita (DOCG), di origine controllata (DOC) e ad indicazione geografica tipica (IGT) possono fregiarsi di una delle distinzioni di cui all'art. 27 della legge 10 febbraio 1992, n. 164, a condizione di aver partecipato ad apposito concorso enologico con esito positivo.
+
+I concorsi enologici sono organizzati da enti ufficialmente autorizzati al rilascio di distinzioni dal Ministero delle risorse agricole, alimentari e forestali, sentito il Comitato nazionale per la tutela e valorizzazione delle denominazioni di origine e delle indicazioni geografiche tipiche dei vini.
+
+## Art. 2. — Organismo ufficialmente autorizzato
+ in materia di concorsi enologici
+
+L'ente autorizzato ai sensi dell'art. 1, comma 2, all'organizzazione dei concorsi enologici ed al rilascio delle relative distinzioni e' denominato "organismo ufficialmente autorizzato".
+
+Tra le finalita' dell'organismo ufficialmente autorizzato deve essere espressamente prevista l'organizzazione dei concorsi enologici.
+
+L'organismo che intende organizzare concorsi enologici e rilasciare distinzioni, ne richiede l'autorizzazione al Ministero delle risorse agricole, alimentari e forestali, Direzione generale della produzione agricola, trasmettendo il proprio atto costitutivo nonche' il regolamento del concorso enologico che intende effettuare.
+L'autorizzazione e' rilasciata nel termine di sessanta giorni dal ricevimento della domanda.
+
+L'organismo ufficialmente autorizzato e' il diretto responsabile nei confronti del Ministero delle risorse agricole, alimentari e forestali di tutti gli adempimenti e procedure connesse all'organizzazione dei concorsi enologici ed al rilascio delle relative distinzioni di cui al presente regolamento.
+
+## Art. 3. — Regolamento del concorso enologico
+
+Il regolamento del concorso garantisce parita' di condizioni a tutte le aziende produttrici partecipanti e puo' prevedere un contributo di adesione ed una quota di partecipazione, che comunque devono essere contenute entro il limite delle effettive spese di organizzazione.
+
+Il regolamento prevede espressamente il divieto di rendere noto l'elenco delle aziende che hanno partecipato al concorso.
+
+## Art. 4. — Partecipazione al concorso
+
+Il Ministero delle risorse agricole, alimentari e forestali e l'organismo ufficialmente autorizzato effettuano gli opportuni controlli, anche mediante eventuali sopralluoghi presso le aziende produttrici partecipanti al concorso enologico, per constatare la veridicita' e la regolarita' di quanto specificato in domanda e nella predetta documentazione allegata.
+
+Qualora i controlli di cui al comma 3 evidenzino divergenza tra i dati dichiarati e quelli riscontrati, la partita di vino interessata e' automaticamente esclusa dal concorso e le eventuali irregolarita', ove le stesse si configurino come fatto illecito, sono denunciate all'ufficio periferico competente per territorio dell'Ispettorato centrale repressione frodi.
+
+## Art. 5. — Prelievo ed anonimizzazione dei campioni
+
+Il prelievo dei campioni dei vini partecipanti ad un concorso enologico, le cui modalita' sono previste nel regolamento del concorso stesso, e' effettuato da un pubblico ufficiale o da esperto formalmente incaricato dall'ente organizzatore. Solo per i vini stranieri partecipanti a concorsi enologici internazionali organizzati in Italia e' consentito l'invio diretto dei campioni da parte delle rispettive aziende.
+
+Il verbale di prelievo dei campioni e' redatto in tre copie, delle quali una e' rilasciata all'azienda produttrice, una e' trasmessa all'organismo ufficialmente autorizzato assieme ai relativi campioni ed una e' trattenuta dal prelevatore.
+
+Dei campioni prelevati, tre esemplari sono conservati presso l'organismo ufficialmente autorizzato ed organizzatore del concorso per sei mesi dal termine della manifestazione per consentire i controlli in caso di eventuali contestazioni.
+
+I campioni di vino, prima di essere sottoposti all'esame organolettico da parte delle commissioni di degustazione, sono anonimizzati mediante l'utilizzo di due appositi codici: il primo da attribuire al campione dall'organismo ufficialmente autorizzato nel momento della sua consegna all'organismo medesimo; il secondo da attribuire al campione, da parte di un notaio o di un pubblico ufficiale o da un esperto formalmente incaricato dall'ente organizzatore, prima della presentazione del campione in questione alla commissione di degustazione. L'organismo ufficialmente autorizzato si riserva altresi' di adottare le opportune misure atte ad assicurare che in sede di presentazione alla commissione di degustazione non emerga alcun segno distintivo nei campioni stessi,
+in particolare nella porzione di bottiglia esterna al contenitore anonimizzante.
+
+## Art. 6. — Commissioni di degustazione
+
+Le commissioni di degustazione per i concorsi enologici sono nominate, nel rispetto delle indicazioni contenute nel regolamento dei concorsi medesimi, dall'organismo ufficialmente autorizzato e sono composte, da non meno di cinque componenti. Il Ministero delle risorse agricole, alimentari e forestali, direzione generale della produzione agricola, puo' autorizzare la composizione di commissioni con tre componenti.
+
+Qualora sia previsto per una commissione di degustazione il presidente, questi e' nominato tra i tecnici degustatori.
+
+Le commissioni non possono degustare, in ciascuna seduta, piu' di quindici campioni e non possono effettuare piu' di due sedute al giorno.
+
+Le valutazioni degli esami organolettici sono espresse su apposite schede secondo il metodo di analisi sensoriale "Union internationale des oenologues". Non e' consentito comunque l'attribuzione di distinzioni se il risultato e' inferiore agli 80/100.
+
+Le valutazioni di cui al comma 5 sono espresse individualmente da parte di ciascun componente la commissione, ovvero collettivamente da parte della commissione; in tale ultimo caso, la commissione deve risultare composta in numero dispari.
+
+Qualora le valutazioni, ai sensi del comma 6, siano espresse individualmente, il risultato e' calcolato operando la media aritmetica delle diverse valutazioni, espresse su apposita scheda, previa eliminazione della valutazione piu' elevata e di quella piu' bassa.
+
+In ogni caso, il computo dei risultati e' effettuato in presenza di un notaio o di un pubblico ufficiale, che ne garantisce la correttezza.
+
+Quando il regolamento del concorso enologico lo preveda, i campioni possono essere sottoposti all'esame di piu' commissioni. In tal caso, le valutazioni sono espresse individualmente ed il punteggio finale e' comunque calcolato operando la media aritmetica di tutte le schede delle diverse commissioni, previa eliminazione della valutazione piu' elevata e di quella piu' bassa.
+
+Quando il regolamento del concorso enologico lo preveda, le aziende partecipanti al concorso possono richiedere copia delle schede di valutazione relative ai vini presentati. In tal caso, dalle schede e' stralciata la parte contenente nomi e firme dei commissari, che devono restare anonimi.
+
+## Art. 7. — Disciplina delle distinzioni
+
+Le distinzioni di cui all'art. 1 del presente regolamento, da applicare sulle confezioni dei vini DOCG, DOC e IGT, sono soggette alla preventiva autorizzazione del Ministero delle risorse agricole, alimentari e forestali - Direzione generale della produzione agricola.
+
+Le distinzioni stesse non possono contenere caratteri, diciture e disegni che traggano in inganno sull'origine geografica, sul nome del vitigno e sulla marca commerciale. In ogni caso, non possono contenere nomi geografici riservati dalla regolamentazione internazionale ad altri vini.
+
+L'organismo ufficialmente autorizzato, organizzatore del concorso enologico, rilascia le distinzioni ai vincitori nella quantita' e con le modalita' idonee a garantire che a fregiarsi della distinzione stessa sia esclusivamente la partita del vino vincitore di concorso nella consistenza quantitativa inizialmente individuata ai sensi dell'art. 5, comma 2, lettera c), e risultante dal verbale di prelievo dei campioni.
+

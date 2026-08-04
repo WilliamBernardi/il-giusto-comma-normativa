@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1285
+data: 1955-10-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-26;1285
+codice_redazionale: 055U1285
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 ottobre 1955
+                1285
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Sant'Onofrio, nel confine di San Giovanni Rotondo (Foggia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 ottobre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Manfredonia in data 7 ottobre 1954, integrato con due postille del 19 luglio 1955, relativo alla elezione della parrocchia di Sant'Onofrio, nel comune di San Giovanni Rotondo (Foggia).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 15 dicembre 1955
+ Atti del Governo, registro n. 94, foglio n. 133. - CARLOMAGNO
+

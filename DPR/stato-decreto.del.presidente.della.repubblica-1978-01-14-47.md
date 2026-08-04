@@ -1,0 +1,53 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 47
+data: 1978-01-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-14;47
+codice_redazionale: 078U0047
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 gennaio 1978
+                47
+                Soppressione del consolato di 2ª categoria in Denver (U.S.A.), istituzione di un vice consolato di 2ª categoria nella medesima localita' e modificazione alla circoscrizione territoriale del consolato generale in Chicago.
+
+IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                
+                    Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativo all'ordinamento dell'Amministrazione degli affari esteri;
+                
+            
+            
+                
+                    Visto il decreto del Presidente della Repubblica 3 gennaio 1972, n. 39, pubblicato nella Gazzetta Ufficiale n. 67 del 10 marzo 1972, con il quale veniva istituito in Denver (U.S.A.) un consolato di 2ª categoria alle dipendenze dell'ambasciata d'Italia in Washington e con circoscrizione territoriale sullo Stato del Colorado;
+                
+            
+            
+                
+                    Visto il decreto ministeriale 25 giugno 1977, pubblicato nella Gazzetta Ufficiale n. 197 del 20 luglio 1977, con il quale la circoscrizione territoriale del consolato generale d'Italia in Chicago (U.S.A.) era modificata come segue: gli Stati di Illinois, Iowa, Minnesota, Nebraska, North Dakota, South Dakota, Wisconsin, Wyoming, la contea di Lake dello Stato di Indiana;
+                
+            
+            
+                Sulla proposta del Ministro per gli affari esteri; Decreta:
+
+## Art. 1.
+
+Il consolato di 2ª categoria in Denver (U.S.A.) e' soppresso.
+
+## Art. 2.
+
+E' istituito in Denver (U.S.A.) un vice consolato di 2ª categoria alle dipendenze del consolato generale d'Italia in Chicago e con la seguente circoscrizione territoriale: lo Stato del Colorado.
+
+## Art. 3.
+
+La circoscrizione territoriale del consolato generale d'Italia in Chicago (U.S.A.) e' modificata come segue:
+ gli Stati di Illinois, Iowa, Minnesota, Nebraska, North Dakota, South Dakota, Wisconsin, Wyoming, Colorado e la contea di Lake dello Stato di Indiana.
+ Il presente decreto decorre dalla data di pubblicazione nella Gazzetta Ufficiale.
+

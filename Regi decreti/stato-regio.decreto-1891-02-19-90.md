@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 90
+data: 1891-02-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1891-02-19;90
+codice_redazionale: 091U0090
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:44Z
+---
+
+REGIO DECRETO
+                19 febbraio 1891
+                90
+                Che approva il regolamento organico e disciplinare ed i programmi d'insegnamento per la R. Scuola di viticoltura ed enologia in Catania. (091U0090)
+
+Entrata in vigore del provvedimento: 02/04/1891
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

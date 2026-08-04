@@ -1,0 +1,230 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 510
+data: 1999-07-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1999-07-28;510
+codice_redazionale: 000G0001
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 luglio 1999
+                510
+                Regolamento recante nuove norme in favore delle vittime del terrorismo e della criminalita' organizzata.
+
+Udito il patete del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 21 giugno 1999;
+
+Sulla proposta del Ministro dell'interno di concerto con i Ministri degli affari esteri, di grazia e giustizia, delle finanze, del tesoro, del bilancio e della programmazione economica, della difesa e delle politiche agricole;
+
+## Art. 1. — Principi generali
+
+Il presente regolamento riunisce e coordina le disposizioni riguardanti le modalita' di attuazione delle leggi 13 agosto 1980, n. 
+466, e 20 ottobre 1990, n. 302, recate dai decreti ministeriali 30 ottobre 1980, 11 luglio 1983, 29 luglio 1987, n. 561, 29 agosto 1991, n. 319, 16 marzo 1992, n. 377 e dal decreto del Presidente della Repubblica 19 aprile 1994, n. 364 nonche' le modalita' di attuazione della legge 23 novembre 1998, n. 407.
+
+## Art. 2. — Amministrazioni competenti
+
+Il Ministero dell'interno - Dipartimento della pubblica sicurezza e', altresi', competente in ordine all'attribuzione dei benefici previsti dalle predette leggi in favore delle persone che, legalmente richieste, abbiano prestato assistenza ad ufficiali e agenti di polizia giudiziaria o ad autorita', ufficiali e agenti di pubblica sicurezza.
+
+All'attribuzione dei benefici previsti in favore dei cittadini italiani che non rientrano in alcuna delle categorie per le quali e' determinata l'amministrazione competente, nonche' degli stranieri e degli apolidi, ovvero dei loro superstiti, provvede il Ministero dell'interno - Direzione generale dei servizi civili.
+
+Per i benefici correlati al trattamento pensionistico, per le esenzioni fiscali e per i benefici di guerra, provvedono per i dipendenti pubblici le amministrazioni di appartenenza.
+
+Per i restanti benefici provvedono le amministrazioni competenti.
+
+## Art. 3. — Avvio del procedimento
+
+Per il conferimento dei benefici gli interessati debbono presentare apposita domanda.
+
+Si puo' prescindere dalla medesima e procedere d'ufficio per i dipendenti pubblici vittime del dovere.
+
+Nel caso di residenti all'estero, la domanda e' inoltrata per il tramite dell'ufficio consolare del luogo di residenza dell'interessato, che provvede a trasmettere la domanda e la documentazione occorrente alla prefettura della provincia dove si e' verificato l'evento, per gli ulteriori adempimenti.
+
+## Art. 4. — Documenti ed atti richiesti
+
+La scelta di uno dei predetti benefici deve essere corredata da espressa rinuncia degli interessati ad altre provvidenze non cumulabili.
+
+Si considerano pubbliche le provvidenze corrisposte direttamente da una pubblica amministazione.
+
+Il divieto di cumulo non opera fra l'assegno vitalizio previsto dalla legge 20 ottobre 1990, n. 302, e le altre provvidenze pubbliche non continuative ancorche' corrisposte in piu' soluzioni, ne' fra le elargizioni previste dalla predetta legge e le altre provvidenze pubbliche di carattere continuativo. Non rientrano nel divieto di cumulo il beneficio previsto dall'articolo 2 della legge 23 novembre 1998, n. 407, i trattamenti di quiescenza, ancorche' privilegiati o di riversibilita', nonche' i benefici di cui agli articoli 9, 14 e 15 della legge 20 ottobre 1990, n. 302 e ogni altro beneficio o diritto non rinunciabile o a carattere generale. Il divieto di cumulo non opera, altresi', per le vittime del dovere destinatarie dei benefici previsti dalla legge 13 agosto 1980, n. 466.
+
+Qualora al momento della domanda o successivamente fino all'emanazione del provvedimento finale, risulta che e' stata corrisposta una provvidenza non cumulabile e, tuttavia, di importo inferiore alle provvidenze disciplinate dalla legge 20 ottobre 1990, n. 302, queste ultime sono corrisposte sottraendo al relativo ammontare quanto e' stato riconosciuto in favore del richiedente.
+
+La sottoscrizione dell'interessato alle dichiarazioni ed alle opzioni di cui ai commi precedenti deve essere resa a norma dell'articolo 20 della legge 4 gennaio 1968, n. 15, e successive modificazioni.
+
+## Art. 5. — Valutazione della commissione medica ospedaliera
+ della sanita' militare
+
+Per l'attribuzione dei benefici di legge, oltre al rapporto sulle circostanze che hanno dato luogo all'evento lesivo, e' richiesta la valutazione della commissione medica ospedaliera della sanita' militare, la quale svolge le proprie indagini secondo le modalita' previste dagli articoli 172 e seguenti del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, e successive modificazioni, esprime il giudizio sanitario sulle cause delle ferite o lesioni che hanno determinato il decesso o la invalidita', accerta il grado dell'eventuale invalidita' riscontrata, stabilisce la percentuale dell'invalidita' e dell'eventuale aggravamento, ed accerta comunque se l'invalidita' riportata comporti la cessazione dell'attivita' lavorativa o del rapporto d'impiego.
+
+La commissione medica ospedaliera di cui al comma 1 e' integrata, ai fini della concessione dei benefici in favore delle vittime civili del terrorismo e della criminalita' organizzata, da due sanitari della Polizia di Stato esperti in medicina legale.
+
+I sanitari della Polizia di Stato sono nominati dal direttore centrale di sanita' del Dipartimento di pubblica sicurezza del Ministero dell'interno, su richiesta della competente commissione medica ospedaliera, trasmessa contestualmente alla comunicazione della data in cui si procedera' alla visita dell'interessato o, comunque, alla valutazione da parte della commissione stessa.
+
+La commissione medica ospedaliera esprime il giudizio entro il termine di sessanta giorni dal ricevimento della richiesta. Decorso inutilmente tale termine, i competenti organi amministrativi possono rivolgersi ad altri soggetti pubblici dotati di qualificazione ed adeguata capacita' tecnica, quali le strutture del servizio sanitario nazionale, ovvero ad istituti universitari, che si pronunciano entro venti giorni dalla richiesta.
+
+La valutazione della commissione medica ospedaliera non e' richiesta in caso di decesso, quando il nesso di causalita' risulti di immediata evidenza. La medesima valutazione non e', altresi', richiesta qualora il prefetto, relativamente alle istanze concernenti le vittime civili ritenga, sulla base degli elementi istruttori acquisiti, che sia da escludere la natura terroristica o di criminalita' organizzata dell'evento criminoso.
+
+Il giudizio della commissione medica ospedaliera, nella composizione integrata, e' definitivo.
+
+Le disposizioni dei commi precedenti si applicano anche per gli stranieri e gli apolidi. Se i soggetti interessati non sono residenti in Italia, il giudizio sanitario e' espresso da apposite commissioni formate da tre medici scelti dall'autorita' consolare, che svolgono le proprie indagini secondo le stesse modalita' previste per le commissioni mediche ospedaliere. La domanda e i documenti, ivi compreso il giudizio sanitario, sono inviati al prefetto della provincia in cui si e' verificato l'evento.
+
+## Art. 6. — Procedimento di competenza del Ministero dell'interno di concessione dei benefici in favore dei superstiti delle vittime del dovere e dei dipendenti pubblici rimasti invalidi nell'adempimento del dovere, nonche' delle persone legalmente richieste di assistenza.
+
+Ai fini della concessione dei benefici, le amministrazioni competenti provvedono entro il termine stabilito dal regolamento di cui agli articoli 2 e 4 della legge 7 agosto 1990, n. 241.
+
+Per quanto di competenza del Ministero dell'interno l'ufficio o comando presso il quale prestava servizio il dipendente caduto o ferito nell'adempimento del dovere o dove ha prestato la propria assistenza la persona legalmente richiesta, redige un dettagliato rapporto sulle circostanze che hanno dato luogo all'evento mortale o invalidante, corredato di perizie, di eventuali testimonianze e di ogni altro elemento conoscitivo acquisito. Tale rapporto viene trasmesso, corredato del verbale della commissione medica ospedaliera della sanita' militare, che verifica il nesso causale tra evento ed esito sanitario e che quantifica la percentuale di invalidita' riscontrata, nel piu' breve tempo possibile, al prefetto della provincia in cui si e' verificato l'evento, per l'ulteriore inoltro al Ministero dell'interno, che dispone la concessione della speciale elargizione con apposito decreto, anche in assenza di sentenza, qualora i presupposti per la concessione dei benefici siano di chiara evidenza.
+
+Il prefetto e' tenuto ad esprimere il proprio parere in ordine alla natura delle azioni lesive, al nesso di causalita' tra queste e le lesioni prodotte, o l'eventuale decesso, e agli altri presupposti stabiliti per il conferimento dei benefici, ivi compresa la matrice criminosa dell'evento. Tale parere viene trasmesso al Ministero dell'interno, unitamente al rapporto e alla documentazione di cui al comma 2.
+
+Il Ministero dell'interno, ove ritenga che gli elementi informativi acquisiti non consentano di emettere il provvedimento finale, puo' disporre, con provvedimento motivato, un supplemento di istruttoria.
+
+Si applicano, in quanto compatibili, le sospensioni dei termini previsti dal presente regolamento.
+
+## Art. 7. — Procedimento di competenza del Ministero di grazia e giustizia di concessione dei benefici in favore dei superstiti delle vittime del dovere e dei dipendenti rimasti invalidi nell'adempimento del dovere, nonche' delle persone legalmente richieste di assistenza.
+
+Per quanto di competenza del Ministero di grazia e giustizia, il procuratore generale presso la corte d'appello del distretto in cui si e' verificato l'evento mortale o invalidante redige un dettagliato rapporto sulle circostanze che vi hanno dato luogo, corredato di perizie, di eventuali testimonianze e di ogni altro elemento conoscitivo acquisito. Tale rapporto viene trasmesso, corredato dal verbale della commissione medica ospedaliera della sanita' militare che verifica il nesso causale tra evento ed esito sanitario e che quantifica la percentuale di invalidita' riscontrata, nel piu' breve tempo possibile al Ministero di grazia e giustizia, che dispone la concessione della speciale elargizione con apposito decreto, anche in assenza di sentenza, se i presupposti per la concessione dei benefici sono di chiara evidenza.
+
+Il procuratore generale presso la corte d'appello del distretto in cui si e' verificato l'evento mortale o invalidante e' tenuto ad esprimere il proprio parere in ordine alla natura delle azioni lesive, al nesso di causalita' tra quste e le lesioni prodotte o l'eventuale decesso, e agli altri presupposti stabiliti per il conferimento dei benefici, ivi compresa la matrice criminosa dell'evento. Tale parere viene trasmesso al Ministero di grazia e giustizia, unitamente al rapporto e alla documentazione di cui al comma 1.
+
+Il Ministero di grazia e giustizia, se ritiene che gli elementi informativi acquisiti non consentano di emettere il provvedimento finale, puo' disporre, con provvedimento motivato, un supplemento di istruttoria.
+
+Si applicano, in quanto compatibili, le sospensioni dei termini previste dal presente regolamento.
+
+## Art. 8. — Procedimento di competenza del Ministero della difesa di concessione dei benefici in favore dei superstiti delle vittime del dovere e dei dipendenti rimasti invalidi nell'adempimento del dovere, nonche' delle persone legalmente richieste di assistenza.
+
+Per il personale delle Forze armate, esclusa l'Arma dei carabinieri, il comandante del reparto presso il quale prestava servizio il militare caduto o ferito nell'adempimento del dovere, redige un dettagliato rapporto sulle circostanze che hanno dato luogo all'evento mortale o invalidante, corredato di perizie, di eventuali testimonianze e di ogni altro elemento conoscitivo acquisito. Tale rapporto, corredato del parere delle autorita' gerarchiche, nonche' del verbale della commissione medica ospedaliera della sanita' militare che verifica il nesso causale tra evento ed esito sanitario e che quantifica la percentuale di invalidita' riscontrata, viene inviato, nel piu' breve tempo possibile, all'Alto comandante di cui al successivo comma 2, per l'ulteriore inoltro al Ministero della difesa.
+
+L'Alto comandante da cui dipende il reparto presso il quale prestava servizio il militare caduto o ferito nell'adempimento del dovere e' tenuto ad esprimere il proprio parere in ordine alla natura delle azioni lesive, al nesso di causalita' tra queste e le lesioni prodotte, o l'eventuale decesso, nonche' in ordine agli altri presupposti stabiliti per il conferimento dei benefici, ivi compresa la matrice criminosa dell'evento. Tale parere viene inviato al Ministero della difesa unitamente al rapporto ed alla documentazione indicata al precedente comma 1.
+
+Il Ministero della difesa dispone la concessione della speciale elargizione con apposito decreto, anche in assenza di sentenza dell'autorita' giudiziaria competente, qualora i presupposti per la concessione siano di chiara evidenza; ove ritenga che gli elementi informativi acquisiti non consentano di emettere il provvedimento finale puo' disporre, con provvedimento motivato, un supplemento di istruttoria.
+
+Si applicano, in quanto compatibili, le sospensioni dei termini previsti dal presente regolamento.
+
+## Art. 9. — Procedimento di concessione dei benefici in favore dei cittadini, degli stranieri o degli apolidi vittime del terrorismo e della criminalita' organizzata, o dei superstiti.
+
+Ai fini della concessione dei benefici, il Ministero dell'interno provvede, entro il termine stabilito dal regolamento di cui agli articoli 2 e 4 della legge 7 agosto 1990, n. 241, elevato di ulteriori trenta giorni nei casi di sospensione regolati dal successivo articolo 10.
+
+Il prefetto competente trasmette l'istanza al Ministero dell'interno, con un dettagliato rapporto sulle circostanze dell'evento mortale o invalidante, corredato di sentenza sui fatti criminosi, di eventuali testimonianze e di ogni altro elemento conoscitivo acquisito, ivi compreso il giudizio sanitario della commissione medica ospedaliera.
+
+Il prefetto e' tenuto ad esprimere il proprio parere in ordine alla natura delle azioni lesive, al nesso di causalita' tra queste e le lesioni prodotte, o l'eventuale decesso, e agli altri presupposti stabiliti per il conferimento dei benefici. Tale parere viene trasmesso al Ministero dell'interno unitamente al rapporto e alla documentazione di cui al comma 2.
+
+Qualora vi siano obiettive ragioni di incertezza in merito alla sussistenza dei requisiti diversi da quello sanitario, cui e' subordinata la concessione dei benefici economici, il Ministero dell'interno puo' chiedere il parere della commissione consultiva di cui all'articolo 11.
+
+Il Ministero dell'interno, ove ritenga che gli elementi informativi acquisiti non consentano di emettere il provvedimento finale, puo' disporre, con provvedimento motivato, un supplemento di istruttoria.
+
+## Art. 10. — Definizione dei procedimenti di concessione dei benefici in favore dei cittadini, degli stranieri o degli apolidi vittime del terrorismo e della criminalita' organizzata sulla base delle risultanze giudiziarie successivamente intervenute.
+
+Il prefetto acquisisce la sentenza, nel caso in cui sia stata erogata la provvisionale o l'assegno vitalizio in assenza di un provvedimento dell'autorita' giudiziaria, e trasmette immediatamente la medesima al Ministero dell'interno, che provvede disponendo o negando, in via definitiva, l'erogazione dell'assegno vitalizio o del residuo dell'elargizione in unica soluzione.
+
+Qualora il provvedimento dell'autorita' giudiziaria, successivamente intervenuto, non contenga elementi sufficienti per la decisione finale, il prefetto esprime, comunque, un ulteriore parere sulla base delle eventuali indagini svolte e delle risultanze processuali, trasmettendolo insieme con il provvedimento dell'autorita' giudiziaria al Ministero dell'interno.
+
+Il Ministero dell'interno, sulla base del provvedimento dell'autorita' giudiziaria, tenendo conto del parere del prefetto e della commissione consultiva di cui all'articolo 11, adotta le conseguenti decisioni.
+
+## Art. 11. — Istituzione e composizione della commissione consultiva presso il Ministero dell'interno
+
+E' istituita presso il Ministero dell'interno una apposita commissione, nominata dal Ministro e composta da cinque membri: un magistrato amministrativo che la presiede; un prefetto in servizio presso il Dipartimento di pubblica sicurezza o un dirigente generale della Polizia di Stato; un ufficiale generale dell'Arma dei carabinieri, un ufficiale generale del Corpo della guardia di finanza ed un dirigente della direzione generale dei servizi civili del Ministero dell'interno, con qualifica non inferiore a quella di viceprefetto. Le nomine hanno luogo su designazione delle rispettive amministrazioni che provvedono, altresi', ad indicare altro membro supplente, anche di qualifica immediatamente inferiore, per i casi di assenza o di impedimento del titolare.
+ Svolge le funzioni di segretario un funzionario della direzione generale dei servizi civili del Ministero dell'interno, la quale provvede, altresi', ad indicare altro funzionario quale segretario supplente in caso di assenza o impedimento del titolare.
+
+Alla commissione sono chiamati a partecipare, quando interessati, i rappresentanti delle amministrazioni competenti di cui all'articolo 2, non indicate nel comma 1, su designazione dell'amministrazione di appartenenza.
+
+Il compenso del presidente, dei componenti e del segratario della commissione consultiva e' stabilito con decreto del Ministro dell'interno, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica.
+
+## Art. 12. — Sospensione dei termini
+
+Il termine previsto per la definizione del procedimento e' sospeso nel caso in cui il segreto istruttorio su indagini in corso non permetta di acquisire elementi sufficienti per la redazione del rapporto informativo del prefetto. Analogamente il termine e' sospeso qualora il procedimento penale non sia ancora concluso.
+
+La sospensione deve essere tempestivamente comunicata all'interessato, o al suo avente diritto, ed al Ministero dell'interno.
+
+## Art. 13. — Individuazione dei destinatari dei benefici
+
+La speciale elargizione viene ripartita in quote eguali tra il coniuge superstite e ciascuno dei figli, se a carico.
+
+Quando non vi siano il coniuge, i figli, i genitori, i fratelli e le sorelle conviventi a carico, per le vittime del dovere le amministrazioni competenti procedono all'accertamento d'ufficio sull'esistenza di persone conviventi a carico della persona deceduta negli ultimi tre anni precedenti all'evento e dei conviventi more uxorio. Per gli altri soggetti beneficiari si procede a seguito di domanda da parte degli interessati.
+
+Per persona a carico si intende il familiare non in grado, al momento dell'evento, di provvedere autonomamente al proprio sostentamento e fiscalmente a carico. A tal fine dovra' essere esibita apposita certificazione o una dichiarazione sostitutiva.
+ Per i fratelli e le sorelle la condizione di convivenza con il defunto dovra' risultare da apposita certificazione rilasciata dal comune di residenza.
+
+L'assegno vitalizio non reversibile di cui all'articolo 2 della legge 23 novembre 1998, n. 407, compete soltanto ai soggetti destinatari ivi indicati ancora in vita alla data di entrata in vigore della legge medesima.
+
+Nei casi in cui la vittima di azione terroristica, gia' titolare del diritto, sia deceduta successivamente all'evento criminoso, l'assegno vitalizio viene corrisposto ai superstiti in caso di interdipendenza o di aggravamento causato per effetto diretto e determinante delle lesioni o delle infermita' subite nell'atto terroristico.
+
+La riliquidazione prevista dall'articolo 3, comma 2, lettera b), della legge 23 novembre 1998, n. 407, compete agli originari destinatari per gli eventi di terrorismo, di eversione dell'ordine democratico, di criminalita' organizzata e per quelli previsti dalla legge 31 marzo 1998, n. 70, ancora in vita alla data di entrata in vigore della predetta legge. In assenza di questi, si provvede secondo l'ordine dell'articolo 6, comma 1, della legge 13 agosto 1980, n. 466, qualora i predetti soggetti siano ancora in vita alla data di entrata in vigore della legge.
+
+## Art. 14. — Pagamento degli assegni vitalizi
+
+Al pagamento degli assegni vitalizi, sia provvisori che definitivi, provvedono i dipartimenti provinciali del tesoro competenti in relazione alla residenza degli interessati, secondo le modalita' di pagamento degli stipendi e delle pensioni in base al ruolo di spesa fissa. Le amministrazioni concedenti trasmettono agli uffici centrali del bilancio i provvedimenti per i successivi adempimenti.
+
+L'assegno vitalizio ai sensi degli articoli 3 e 5 della legge 20 ottobre 1990, n. 302, decorre dal primo giorno del mese successivo a quello di presentazione della domanda.
+
+L'assegno vitalizio, ai sensi dell'articolo 2, comma 1, della legge 23 novembre 1998, n. 407, decorre dalla data di entrata in vigore della predetta legge.
+
+## Art. 15. — Attribuzione e pagamento di due annualita' del trattamento pensionistico di riversibilita' liquidato secondo le disposizioni del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092.
+
+All'attribuzione del beneficio previsto dall'articolo 2, comma 3, della legge 23 novembre 1998, n. 407, in favore dei superstiti dei soggetti deceduti per effetto di ferite o lesioni riportate in conseguenza degli eventi di cui ai commi 1, 2, 3 e 4 dell'articolo 1 della legge 20 ottobre 1990, n. 302, come risulta modificato dall'articolo 1, comma 1, della predetta legge 23 novembre 1998, n. 407, nonche' ai superstiti delle vittime delle azioni terroristiche, provvedono, d'ufficio, le amministrazioni competenti a norma dell'articolo 2 del presente regolamento per gli eventi verificatisi successivamente all'11 dicembre 1998. Per gli eventi verificatisi prima della data suddetta le amministrazioni competenti procedono su domanda degli interessati.
+
+Il beneficio e' liquidato agli interessati separatamente e per gli orfani secondo le rispettive quote di compartecipazione stabilite dal decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092.
+
+L'importo da liquidare ai soggetti destinatari del beneficio e' quello corrispondente a due volte l'ammontare annuo lordo del trattamento pensionistico calcolato alla data dell'11 dicembre 1998, comprensivo dell'indennita' integrativa speciale, ove questa non sia gia' stata ricompresa nella liquidazione dello speciale trattamento di pensione in godimento, per gli eventi verificatisi prima di tale data. Per gli eventi verificatisi successivamente, il beneficio in esame viene liquidato ai superstiti sulla base dell'importo annuo lordo della pensione di riversibilita', ovvero del trattamento speciale attribuito ai sensi del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, liquidato alla data del decesso del dante causa.
+
+Il pagamento avviene contestualmente alla liquidazione e il relativo provvedimento e' soggetto al visto del competente ufficio centrale del bilancio.
+
+## Art. 16. — Esenzione IRPEF del trattamento speciale di riversibilita' e delle pensioni privilegiate dirette di prima categoria nei confronti dei destinatari dei benefici previsti dalla legge 23 novembre 1998, n. 407.
+
+L'esenzione dall'IRPEF del trattamento speciale di riversibilita' corrisposto ai superstiti dei caduti e' applicata d'ufficio da parte degli ordinatori secondari di spesa, a decorrere dall'11 dicembre 1998. Le amministrazioni competenti a norma dell'articolo 2 del presente regolamento provvedono, a titolo ricognitivo, ad inviare apposita informazione ai cennati enti pagatori dei trattamenti speciali di riversibilita'.
+
+L'indennita' integrativa speciale e' corrisposta dai medesimi ordinatori secondari di spesa con decorrenza dalla data del trattamento speciale, osservando le modalita' stabilite dal comma 5 dell'articolo 2 della legge 23 novembre 1998, n. 407, sempreche' tale indennita' non sia stata ricompresa nella liquidazione dello speciale trattamento di pensione in godimento.
+
+L'esenzione dall'IRPEF del trattamento privilegiato di prima categoria, con assegno di superinvalidita' di cui all'articolo 100 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, e successive modificazioni, erogato ai soggetti che abbiano subito un'invalidita' permanente per effetto di ferite o lesioni per gli atti di terrorismo e di eversione dell'ordine democratico di cui all'articolo 1 della legge 20 ottobre 1990, n. 302,
+ e' applicata d'ufficio da parte degli ordinatori secondari di spesa, a decorrere dall'11 dicembre 1998, per gli eventi verificatisi successivamente a detta data.
+
+Per gli eventi verificatisi prima dell'11 dicembre 1998, si procede a domanda degli interessati.
+
+## Art. 17. — Rivalutazione degli assegni vitalizi
+
+## Art. 18. — Applicazione dei benefici di guerra
+
+All'attribuzione dei benefici previsti dalle disposizioni vigenti a favore degli invalidi civili di guerra e delle famiglie dei caduti civili di guerra, provvedono le amministrazioni competenti su domanda degli interessati, corredata dalla apposita certificazione del prefetto del luogo di residenza.
+
+All'erogazione delle somme eventualmente spettanti in via continuativa si provvede con le modalita' di cui agli articoli precedenti.
+
+## Art. 19. — Certificazioni attestanti le condizioni di invalido civile o di caduto a causa di atti di terrorismo o di criminalita' organizzata o comune.
+
+Il prefetto del luogo di residenza rilascia la certificazione attestante la condizione di invalido o di caduto su domanda dell'interessato ovvero dei familiari superstiti aventi titolo.
+
+Nella certificazione sono indicati, contestualmente alla qualifica di cui al comma 1, la data e il luogo dell'atto criminoso e dell'eventuale decesso, e, qualora si tratti di invalidita', la natura delle ferite e delle lesioni che l'hanno determinata, la patologia invalidante, la percentuale della invalidita'.
+
+Ai fini delle certificazioni, le amministrazioni competenti danno comunicazione al prefetto della provincia di residenza dell'interessato dell'attribuzione, anche provvisoria, dei benefici, precisandone le patologie invalidanti.
+
+Copia dell'atto deliberativo e', comunque, trasmessa dal Ministero dell'interno al prefetto competente.
+
+## Art. 20. — Modalita' e termini del procedimento relativo alle certificazioni
+
+Il prefetto provvede, in ordine alle richieste delle certificazioni, sulla base del provvedimento di attribuzione, entro il termine di trenta giorni dal ricevimento della domanda, ovvero dalla data della ricevuta di comunicazione del provvedimento medesimo, se successiva.
+
+Qualora il provvedimento di attribuzione dei benefici sia stato emanato in assenza di sentenza, il prefetto, entro trenta giorni dalla comunicazione della sentenza definitiva, conforma ad essa gli atti a suo tempo adottati.
+
+Gli atti del prefetto, adottati sulla base dei provvedimenti ministeriali emanati in assenza di sentenza, devono contenere l'avvertenza della loro modificabilita' per effetto delle ulteriori fasi del processo.
+
+Ai fini del collocamento obbligatorio il prefetto del luogo di residenza rilascia, su domanda, apposita certificazione, secondo le stesse modalita' previste dall'articolo 17, in quanto applicabili, intendendosi sostituite al Ministero dell'interno le altre amministrazioni eventualmente competenti in ordine alla concessione dei benefici in favore di chi abbia subito ferite o lesioni in conseguenza delle azioni od operazioni di cui all'articolo 1 della legge 20 ottobre 1990, n. 302.
+
+## Art. 21. — Contributi alle spese funerarie
+
+Il contributo alle spese funerarie per il personale di cui all'articolo 8 della legge 13 agosto 1980, n. 466, da corrispondere alla famiglia del dipendente deceduto, viene determinato nella misura vigente:
+ quota fissa di lire cinquecentomila;
+ lire centomila per ogni familiare convivente a carico del dipendente deceduto. Detto contributo non deve superare in ogni caso l'importo complessivo di lire un milione.
+
+Per i decessi verificatisi prima dell'entrata in vigore della legge 13 agosto 1980, n. 466, il beneficio e' corrisposto a domanda degli aventi diritto.
+
+## Art. 22. — Verifiche periodiche. Termini
+
+I Ministri competenti verificano periodicamente la funzionalita', la trasparenza e la speditezza dei procedimenti disciplinati dal presente regolamento e adottano tutte le misure di rispettiva competenza.
+
+## Art. 23. — Norme abrogate
+
+Il presente decreto sostituisce le disposizioni di cui ai decreti ministeriali 30 ottobre 1980, 11 luglio 1983, 29 luglio 1987, n. 561, 29 agosto 1991, n. 319, 16 marzo 1992, n. 377 ed al decreto del Presidente della Repubblica 19 aprile 1994, n. 364, che sono contestualmente abrogate.
+

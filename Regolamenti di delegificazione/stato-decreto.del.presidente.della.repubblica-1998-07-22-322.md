@@ -1,0 +1,450 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 322
+data: 1998-07-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-07-22;322
+codice_redazionale: 098G0373
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti di delegificazione
+vigenza_date: 2025-06-18
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:40:24Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 luglio 1998
+                322
+                Regolamento recante modalita' per la presentazione delle dichiarazioni relative alle imposte sui redditi, all'imposta regionale sulle attivita' produttive e all'imposta sul valore aggiunto, ai sensi dell'articolo 3, comma 136, della legge 23 dicembre 1996, n. 662.
+
+Entrata in vigore del decreto: 22-9-1998
+
+Udito il parere del Consiglio di Stato, reso nell'adunanza della sezione consultiva per gli atti normativi del 1 giugno 1998;
+
+Sulla proposta del Ministro delle finanze;
+
+## Art. 1. — Redazione e sottoscrizione delle dichiarazioni in materia di imposte sui redditi e di I.R.A.P.
+
+Ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive le dichiarazioni sono redatte, a pena di nullita', su modelli conformi a quelli approvati entro il mese di febbraio con provvedimento amministrativo, da pubblicare nella Gazzetta Ufficiale e da utilizzare per le dichiarazioni dei redditi e del valore della produzione relative all'anno precedente ovvero, in caso di periodo di imposta non coincidente con l'anno solare, per le dichiarazioni relative al periodo di imposta in corso alla data del 31 dicembre dell'anno precedente a quello di approvazione. I provvedimenti di approvazione dei modelli di dichiarazione dei sostituti d'imposta di cui all'articolo 4, comma 1, e i modelli di dichiarazione di cui agli articoli 34, comma 4, e 37, del decreto legislativo 9 luglio 1997, n. 241, e successive modificazioni, recante norme di semplificazione degli adempimenti dei contribuenti in sede di dichiarazione dei redditi e dell'imposta sul valore aggiunto, nonche' di modernizzazione del sistema di gestione delle dichiarazioni, sono emanati entro il mese di febbraio dell'anno in cui i modelli stessi devono essere utilizzati e sono pubblicati nella Gazzetta Ufficiale. (10) ((50))
+
+I modelli di dichiarazione sono resi disponibili in formato elettronico dall'Agenzia delle entrate in via telematica. PERIODO SOPPRESSO DAL D.L. 30 APRILE 2019, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 28 GIUGNO 2019, N. 58. PERIODO SOPPRESSO DAL D.L. 30 APRILE 2019, N. 34, CONVERTITO CON MODIFICAZIONI DALLA L. 28 GIUGNO 2019, N. 58.
+
+La dichiarazione e' sottoscritta, a pena di nullita', dal contribuente o da chi ne ha la rappresentanza legale o negoziale. La nullita' e' sanata se il contribuente provvede alla sottoscrizione entro trenta giorni dal ricevimento dell'invito da parte del competente ufficio dell'Agenzia delle entrate.
+
+La dichiarazione dei soggetti diversi dalle persone fisiche e' sottoscritta, a pena di nullita', dal rappresentante legale, e in mancanza da chi ne ha l'amministrazione anche di fatto, o da un rappresentante negoziale. La nullita' e' sanata se il soggetto tenuto a sottoscrivere la dichiarazione vi provvede entro trenta giorni dal ricevimento dell'invito da parte del competente ufficio dell'Agenzia delle entrate. (3)
+
+La dichiarazione delle societa' e degli enti soggetti all'imposta sul reddito delle societa' sottoposti al controllo contabile ai sensi del codice civile o di leggi speciali e' sottoscritta anche dai soggetti che sottoscrivono la relazione di revisione. La dichiarazione priva di tale sottoscrizione e' valida, salva l'applicazione della sanzione di cui all'articolo 9, comma 5, del decreto legislativo 18 dicembre 1997, n. 471, e successive modificazioni.
+
+In caso di presentazione della dichiarazione in via telematica, le disposizioni dei commi 3, 4 e 5 del presente articolo si applicano con riferimento alla dichiarazione che gli stessi soggetti sono tenuti a conservare.
+
+---------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002. 
+                        ---------------
+                        AGGIORNAMENTO (10)
+                        
+ Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007. 
+                        ---------------
+                        AGGIORNAMENTO (50)
+                        
+ Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 3-bis, comma 3) che "Per l'anno 2025, i termini per l'approvazione e la disponibilita' in formato elettronico dei modelli di dichiarazione concernenti le imposte sui redditi e l'imposta regionale sulle attivita' produttive, nonche' delle relative istruzioni e specifiche tecniche, di cui agli articoli 1, comma 1, e 2, comma 3-bis, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono rinviati al 17 marzo 2025".
+
+## Art. 2. — Termine per la presentazione della dichiarazione in materia di imposte sui redditi e di I.R.A.P.
+
+Le persone fisiche presentano la dichiarazione secondo le disposizioni di cui all'articolo 3, per il tramite di un ufficio delle Poste italiane S.p.a. tra il 15 aprile ed il 30 giugno ovvero in via telematica tra il 15 aprile e il 31 ottobre dell'anno successivo a quello di chiusura del periodo di imposta. Le societa' o le associazioni di cui all'articolo 5 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, presentano la dichiarazione secondo le disposizioni di cui all'articolo 3 in via telematica tra il 15 aprile e il 31 ottobre dell'anno successivo a quello di chiusura del periodo di imposta. (50)
+
+I soggetti all'imposta sul reddito delle societa' presentano la dichiarazione secondo le disposizioni di cui all'articolo 3 in via telematica a partire dal 15 aprile dell'anno successivo, se il periodo d'imposta coincide con l'anno solare, ed entro l'ultimo giorno del decimo mese successivo a quello di chiusura del periodo d'imposta. (50)
+
+I soggetti non tenuti alla presentazione della dichiarazione dei redditi presentano la dichiarazione ai fini dell'imposta regionale sulle attivita' produttive entro i termini previsti dal comma 2 e secondo le disposizioni di cui all'articolo 3. (3)
+
+I modelli di dichiarazione, le relative istruzioni e le specifiche tecniche per la trasmissione telematica dei dati sono resi disponibili in formato elettronico dall'Agenzia delle entrate entro il mese di febbraio. (50)
+
+COMMA ABROGATO DAL D.P.R. 7 DICEMBRE 2001, N. 435. (3)
+
+COMMA ABROGATO DAL D.P.R. 7 DICEMBRE 2001, N. 435. (3)
+
+COMMA ABROGATO DAL D.P.R. 7 DICEMBRE 2001, N. 435. (3)
+
+Per gli interessi e gli altri proventi di cui ai commi da 1 a 3-bis dell'articolo 26 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e per quelli assoggettati alla ritenuta a titolo d'imposta ai sensi dell'ultimo comma dello stesso articolo e dell'articolo 7, commi 1 e 2, del decreto-legge 20 giugno, 1996, n. 323, convertito, con modificazioni, dalla legge 8 agosto 1996, n. 425, nonche' per i premi e per le vincite di cui all'articolo 30, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, i soggetti all'imposta sul reddito delle persone giuridiche presentano la dichiarazione contestualmente alla dichiarazione dei redditi propri.
+
+Sono considerate valide le dichiarazioni presentate entro novanta giorni dalla scadenza del termine, salva restando l'applicazione delle sanzioni amministrative per il ritardo. Le dichiarazioni presentate con ritardo superiore a novanta giorni si considerano omesse, ma costituiscono, comunque, titolo per la riscossione delle imposte dovute in base agli imponibili in esse indicati e delle ritenute indicate dai sostituti d'imposta.
+
+Salva l'applicazione delle sanzioni e ferma restando l'applicazione dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, le dichiarazioni dei redditi, dell'imposta regionale sulle attivita' produttive e dei sostituti d'imposta possono essere integrate per correggere errori od omissioni, compresi quelli che abbiano determinato l'indicazione di un maggiore o di un minore imponibile o, comunque, di un maggiore o di un minore debito d'imposta ovvero di un maggiore o di un minore credito, mediante successiva dichiarazione da presentare, secondo le disposizioni di cui all'articolo 3, utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione, non oltre i termini stabiliti dall'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600.
+
+L'eventuale credito derivante dal minor debito o dal maggiore credito risultante dalle dichiarazioni di cui al comma 8 puo' essere utilizzato in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241. Ferma restando in ogni caso l'applicabilita' della disposizione di cui al primo periodo per i casi di correzione di errori contabili di competenza, nel caso in cui la dichiarazione oggetto di integrazione a favore sia presentata oltre il termine prescritto per la presentazione della dichiarazione relativa al periodo d'imposta successivo, il credito di cui al periodo precedente puo' essere utilizzato in compensazione, ai sensi del citato articolo 17 del decreto legislativo n. 241 del 1997, per eseguire il versamento di debiti maturati a partire dal periodo d'imposta successivo a quello in cui e' stata presentata la dichiarazione integrativa; in tal caso, nella dichiarazione relativa al periodo d'imposta in cui e' presentata la dichiarazione integrativa e' indicato il credito derivante dal minor debito o dal maggiore credito risultante dalla dichiarazione integrativa. Resta ferma in ogni caso per il contribuente la possibilita' di far valere, anche in sede di accertamento o di giudizio, eventuali errori, di fatto o di diritto, che abbiano inciso sull'obbligazione tributaria, determinando l'indicazione di un maggiore imponibile, di un maggiore debito d'imposta o, comunque, di un minore credito.
+
+Le dichiarazioni dei redditi e dell'imposta regionale sulle attivita' produttive possono essere integrate dai contribuenti per modificare la originaria richiesta di rimborso dell'eccedenza d'imposta esclusivamente per la scelta della compensazione, sempreche' il rimborso stesso non sia stato gia' erogato anche in parte, mediante dichiarazione da presentare entro 120 giorni dalla scadenza del termine ordinario di presentazione, secondo le disposizioni di cui all'articolo 3, utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione.
+
+I termini di presentazione della dichiarazione che scadono di sabato sono prorogati d'ufficio al primo giorno feriale successivo. (3) 
+ (30) (31) (40)((53))
+
+-------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002. 
+                        -------------
+                        AGGIORNAMENTO (10)
+                        
+ Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007. 
+                        -------------
+                        AGGIORNAMENTO (29)
+                        
+ Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto: 
+ - (con l'art. 13-bis, comma 1) che "Per i soggetti di cui al comma 1-bis dell'articolo 83 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, come introdotto dal numero 2) della lettera a) del comma 2 del presente articolo, relativamente al periodo d'imposta nel quale vanno dichiarati i componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015, il termine di cui al comma 2 dell'articolo 2 del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, per la presentazione delle dichiarazioni in materia di imposte sui redditi e di IRAP, e' prorogato di quindici giorni al fine di agevolare la prima applicazione delle disposizioni introdotte dal decreto legislativo 18 agosto 2015, n. 139, e delle disposizioni di coordinamento contenute nei commi seguenti"; 
+ - (con l'art. 13-bis, comma 5) che "Le disposizioni di cui ai commi precedenti hanno efficacia con riguardo ai componenti reddituali e patrimoniali rilevati in bilancio a decorrere dall'esercizio successivo a quello in corso al 31 dicembre 2015. Continuano ad essere assoggettati alla disciplina fiscale previgente gli effetti reddituali e patrimoniali sul bilancio del predetto esercizio e di quelli successivi delle operazioni che risultino diversamente qualificate, classificate, valutate e imputate temporalmente ai fini fiscali rispetto alle qualificazioni, classificazioni, valutazioni e imputazioni temporali risultanti dal bilancio dell'esercizio in corso al 31 dicembre 2015"; 
+ - (con l'art. 13-bis, comma 8) che "Le disposizioni di cui ai commi da 5 a 7 si applicano anche in caso di variazioni che intervengono nei principi contabili ai sensi del comma 3 dell'articolo 12 del decreto legislativo 18 agosto 2015, n. 139, e nelle ipotesi di cambiamento degli obblighi informativi di bilancio conseguenti a modifiche delle dimensioni dell'impresa". 
+                        -------------
+                        AGGIORNAMENTO (30)
+                        
+ Il D.P.C.M. 26 luglio 2017, (in G.U. 28/07/2017, n. 175), ha disposto (con l'art. 1, comma 1, lettera b)) che "E' disposta la proroga dei seguenti termini: 
+ [...] 
+ b) le dichiarazioni in materia di imposte sui redditi e di imposta regionale sulle attivita' produttive dei soggetti indicati nell'articolo 2, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, che devono essere presentate dal 1 luglio 2017 ed entro il 30 settembre 2017, nonche' dei soggetti di cui al comma 1-bis dell'articolo 83 del Testo unico delle imposte sui redditi approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, che devono essere presentate dal 1° luglio 2017 ed entro il termine di cui all'articolo 13-bis, del decreto-legge 30 dicembre 2016, n. 244, convertito, con modificazioni, dalla legge 27 febbraio 2017, n. 19, sono presentate entro il 31 ottobre 2017". 
+                        -------------
+                        AGGIORNAMENTO (31)
+                        
+ La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 932) che "il termine per la presentazione delle dichiarazioni in materia di imposte sui redditi e di imposta regionale sulle attivita' produttive dei soggetti indicati nell'articolo 2 del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, in scadenza al 30 settembre, e' fissato al 31 ottobre". 
+                        -------------
+                        AGGIORNAMENTO (40)
+                        
+ Il D.L. 28 ottobre 2020, n. 137, convertito con modificazioni dalla L. 18 dicembre 2020, n. 176, ha disposto (con l'art. 13-sexies, comma 1) che "Il termine per la presentazione in via telematica della dichiarazione in materia di imposte sui redditi e di imposta regionale sulle attivita' produttive, di cui all'articolo 2 del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, in scadenza il 30 novembre 2020, e' prorogato al 10 dicembre 2020". 
+                        -------------
+                        AGGIORNAMENTO (48)
+                        
+ Il D.Lgs. 8 gennaio 2024, n. 1 ha disposto (con l'art. 11, comma 1, alinea) che le presenti modifiche hanno effetto dal 2 maggio 2024. 
+                        ---------------
+                        AGGIORNAMENTO (50)
+                        
+ Il D.L. 27 dicembre 2024, n. 202, convertito con modificazioni dalla L. 21 febbraio 2025, n. 15, ha disposto (con l'art. 3-bis, comma 3) che "Per l'anno 2025, i termini per l'approvazione e la disponibilita' in formato elettronico dei modelli di dichiarazione concernenti le imposte sui redditi e l'imposta regionale sulle attivita' produttive, nonche' delle relative istruzioni e specifiche tecniche, di cui agli articoli 1, comma 1, e 2, comma 3-bis, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono rinviati al 17 marzo 2025". 
+ Ha inoltre disposto (con l'art. 3-bis, comma 4) che "Per l'anno 2025, la data a partire dalla quale possono essere presentate le dichiarazioni di cui all'articolo 2, commi 1 e 2, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e' rinviata al 30 aprile 2025". 
+                        ---------------
+                        AGGIORNAMENTO (53)
+                        
+ Il D.L. 17 giugno 2025, n. 84, ha disposto (con l'art. 12, comma 1) che "Le dichiarazioni ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive, di cui all'articolo 2 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, il cui termine di presentazione scadeva il 31 ottobre 2024, si considerano tempestive se presentate entro l'8 novembre 2024. Non si da' luogo al rimborso delle eventuali somme versate a titolo di ravvedimento operoso ai sensi dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472".
+
+## Art. 3. — Modalita' di presentazione ed obblighi di conservazione delle dichiarazioni
+
+Le dichiarazioni sono presentate all'Agenzia delle entrate in via telematica ovvero per il tramite di una banca convenzionata o di un ufficio della Poste italiane S.p.a. secondo le disposizioni di cui ai commi successivi. PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 2014, N.
+190. LA L. 23 DICEMBRE 2014, N. 190 HA CONFERMATO LA SOPPRESSIONE DEL PRESENTE PERIODO. PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 2014, N.
+190. PERIODO SOPPRESSO DALLA L. 23 DICEMBRE 2014, N. 190. (5) (10) (21) (22)
+
+Le dichiarazioni previste dal presente decreto, compresa quella unificata, sono presentate in via telematica all'Agenzia delle entrate, direttamente o tramite gli incaricati di cui ai commi 2-bis e 3, dai soggetti tenuti per il periodo d'imposta cui si riferiscono le predette dichiarazioni alla presentazione della dichiarazione relativa all'imposta sul valore aggiunto, dai soggetti tenuti alla presentazione della dichiarazione dei sostituti di imposta di cui all'articolo 4 e dai soggetti di cui all'articolo 87, comma 1, lettere a) e b), del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dai soggetti tenuti alla presentazione della dichiarazione ai fini dell'imposta regionale sulle attivita' produttive, dai soggetti tenuti alla presentazione del modello per la comunicazione dei dati relativi alla applicazione degli studi di settore e dei parametri. Le predette dichiarazioni sono trasmesse avvalendosi del servizio telematico Entratel; il collegamento telematico con l'Agenzia delle entrate e' gratuito per gli utenti. I soggetti di cui al primo periodo obbligati alla presentazione della dichiarazione dei sostituti d'imposta, in relazione ad un numero di soggetti non superiore a venti, si avvalgono per la presentazione in via telematica del servizio telematico Internet ovvero di un incaricato di cui al comma 3. (8) (10)
+
+Nell'ambito dei gruppi in cui almeno una societa' o ente rientra tra i soggetti di cui al comma precedente, la presentazione in via telematica delle dichiarazioni di soggetti appartenenti al gruppo puo' essere effettuata da uno o piu' soggetti dello stesso gruppo avvalendosi del servizio telematico Entratel. Si considerano appartenenti al gruppo l'ente o la societa' controllante e le societa' da questi controllate come definite dall'articolo 43-ter, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 602. (8)
+
+I soggetti diversi da quelli indicati nei commi 2 e 2-bis, non obbligati alla presentazione delle dichiarazioni in via telematica, possono presentare le dichiarazioni in via telematica direttamente avvalendosi del servizio telematico Internet ovvero tramite un incaricato di cui al comma 3.
+
+I soggetti di cui al comma 3, incaricati della predisposizione delle dichiarazioni previste dal presente decreto, sono obbligati alla trasmissione in via telematica delle stesse.
+
+COMMA ABROGATO DALLA L. 12 NOVEMBRE 2011, N. 183. (18)
+
+I soggetti di cui ai commi 2, 2-bis e 3 sono abilitati dall'Agenzia delle entrate alla trasmissione dei dati contenuti nelle dichiarazioni. L'abilitazione e' revocata quando nello svolgimento dell'attivita' di trasmissione delle dichiarazioni vengono commesse gravi o ripetute irregolarita', ovvero in presenza di provvedimenti di sospensione irrogati dall'ordine di appartenenza del professionista o in caso di revoca dell'autorizzazione all'esercizio dell'attivita' da parte dei centri di assistenza fiscale. Si considera grave irregolarita' l'omissione ripetuta della trasmissione di dichiarazioni o di comunicazioni per le quali i soggetti di cui ai commi 2-bis e 3 hanno rilasciato l'impegno cumulativo a trasmettere di cui al comma 6-bis.
+
+Salvo quanto previsto dal comma 2 per i soggetti obbligati alla presentazione in via telematica, la dichiarazione puo' essere presentata all'Agenzia delle entrate anche mediante spedizione effettuata dall'estero, utilizzando il mezzo della raccomandata o altro equivalente dal quale risulti con certezza la data di spedizione ovvero avvalendosi del servizio telematico Internet.
+
+Le banche e gli uffici postali rilasciano, anche se non richiesta, ricevuta di presentazione della dichiarazione. I soggetti di cui ai commi 2-bis e 3 rilasciano al contribuente o al sostituto di imposta, anche se non richiesto, l'impegno a trasmettere in via telematica all'Agenzia delle entrate i dati contenuti nella dichiarazione, contestualmente alla ricezione della stessa o dell'assunzione dell'incarico per la sua predisposizione nonche', entro trenta giorni dal termine previsto per la presentazione in via telematica, la dichiarazione trasmessa, redatta su modello conforme a quello approvato con il provvedimento di cui all'articolo 1, comma 1 e copia della comunicazione dell'Agenzia delle entrate di ricezione della dichiarazione.
+
+Se il contribuente o il sostituto d'imposta conferisce l'incarico per la predisposizione di piu' dichiarazioni o comunicazioni a un soggetto di cui ai commi 2-bis e 3, questi rilascia al contribuente o al sostituto d'imposta, anche se non richiesto, l'impegno cumulativo a trasmettere in via telematica all'Agenzia delle entrate i dati contenuti nelle dichiarazioni o comunicazioni. L'impegno cumulativo puo' essere contenuto nell'incarico professionale sottoscritto dal contribuente se sono ivi indicate le dichiarazioni e le comunicazioni per le quali il soggetto di cui ai commi 2-bis e 3 si impegna a trasmettere in via telematica all'Agenzia delle entrate i dati in esse contenuti. L'impegno si intende conferito per la durata indicata nell'impegno stesso o nel mandato professionale e, comunque, fino al 31 dicembre del terzo anno successivo a quello in cui e' stato rilasciato, salva revoca espressa da parte del contribuente o del sostituto d'imposta.
+
+Le banche e la Poste italiane S.p.a. trasmettono in via telematica le dichiarazioni all'Agenzia delle entrate entro quattro mesi dalla data di scadenza del termine di presentazione ovvero, per le dichiarazioni presentate oltre tale termine, entro quattro mesi dalla data di presentazione delle dichiarazioni stesse, ove non diversamente previsto dalle convenzioni di cui al comma 11. (10)
+
+I soggetti di cui ai commi 2, 2-bis, 2-ter e 3, presentano in via telematica le dichiarazioni per le quali non e' previsto un apposito termine entro un mese dalla scadenza del termine previsto per la presentazione alle banche e agli uffici postali.
+
+Le dichiarazioni consegnate ai soggetti incaricati di cui ai commi 2-bis e 3, successivamente al termine previsto per la presentazione in via telematica delle stesse, sono trasmesse entro un mese dalla data contenuta nell'impegno alla trasmissione rilasciato dai medesimi soggetti al contribuente ai sensi del comma 6.
+
+La dichiarazione si considera presentata nel giorno in cui e' consegnata dal contribuente alla banca o all'ufficio postale ovvero e' trasmessa all'Agenzia delle entrate mediante procedure telematiche direttamente o tramite uno dei soggetti di cui ai commi 2-bis e 3.
+
+I contribuenti e i sostituti di imposta che presentano la dichiarazione in via telematica, direttamente o tramite i soggetti di cui ai commi 2-bis e 3, conservano, per il periodo previsto dall'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, la dichiarazione debitamente sottoscritta e redatta su modello conforme a quello approvato con il provvedimento di cui all'articolo 1, comma 1, nonche' i documenti rilasciati dal soggetto incaricato di predisporre la dichiarazione.
+L'Amministrazione finanziaria puo' chiedere l'esibizione della dichiarazione e dei suddetti documenti.
+
+I soggetti incaricati della trasmissione delle dichiarazioni conservano, anche su supporti informatici, per il periodo previsto dall'articolo 43 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, copia delle dichiarazioni trasmesse, delle quali l'Amministrazione finanziaria puo' chiedere l'esibizione previa riproduzione su modello conforme a quello approvato con il provvedimento di cui all'articolo 1, comma 1.
+
+La prova della presentazione della dichiarazione e' data dalla comunicazione dell'Agenzia delle entrate attestante l'avvenuto ricevimento della dichiarazione presentata in via telematica direttamente o tramite i soggetti di cui ai commi 2-bis e 3, ovvero dalla ricevuta della banca, dell'ufficio postale o dalla ricevuta di invio della raccomandata di cui al comma 5.
+
+Le modalita' tecniche di trasmissione delle dichiarazioni sono stabilite con provvedimento del direttore dell'Agenzia delle entrate da pubblicare nella Gazzetta Ufficiale. Le modalita' di svolgimento del servizio di ricezione delle dichiarazioni da parte delle banche e della Poste italiane S.p.a., comprese le conseguenze derivanti dalle irregolarita' commesse nello svolgimento del servizio, sono stabilite mediante distinte convenzioni, approvate con provvedimento del direttore dell'Agenzia delle entrate. PERIODO SOPPRESSO DAL D.L. 1 OTTOBRE 2007, N. 159, CONVERTITO CON MODIFICAZIONI DALLA L. 29 NOVEMBRE 2007, N. 222. (5)
+
+Le disposizioni del presente articolo si applicano anche alla presentazione delle dichiarazioni riguardanti imposte sostitutive delle imposte sui redditi.
+
+Ai soggetti incaricati della trasmissione telematica si applica l'articolo 12-bis, comma 1, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e per le convenzioni e i decreti ivi previsti si intendono, rispettivamente, le convenzioni e i provvedimenti di cui al comma 11 del presente articolo. (3) (12)
+
+---------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002. 
+                        ---------------
+                        AGGIORNAMENTO (5)
+                        
+ Il D.L. 30 settembre 2003, n. 269, convertito con modificazioni dalla L. 24 novembre 2003, n. 326, ha disposto (con l'art. 34, comma 4) che "Le penalita' previste a carico dei soggetti convenzionati ai sensi dell'articolo 3, commi 1 e 11, del decreto del Presidente della Repubblica del 22 luglio 1998, n. 322, per la tardiva o errata trasmissione telematica delle dichiarazioni ricevute dai predetti soggetti fino al 31 dicembre 2002, sono ridotte ad una somma pari al 10 per cento dell'importo risultante dall'applicazione dei criteri di calcolo fissati nelle relative convenzioni." 
+                        ---------------
+                        AGGIORNAMENTO (8)
+                        
+ Il D.L. 30 settembre 2005, n. 203, convertito con modificazioni dalla L. 2 dicembre 2005, n. 248, ha disposto (con l'art. 2, comma 10-bis) che "I soggetti indicati nell'articolo 3, commi 2 e 2-bis, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e successive modificazioni, hanno facolta', a partire dal 1° febbraio 2006, di effettuare i versamenti unitari indicati nell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e successive modificazioni, tramite le procedure telematiche, direttamente ovvero tramite gli incaricati indicati nell'articolo 3 richiamato". 
+                        ---------------
+                        AGGIORNAMENTO (10)
+                        
+ Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007. 
+                        ------------
+                        AGGIORNAMENTO (18)
+                        
+ La L. 12 novembre 2011, n. 183, ha disposto (con l'art. 4, comma 35) che "le disposizioni di cui ai commi da 30 a 34 si applicano con riferimento alle attivita' svolte a decorrere dall'anno 2012". 
+                        ------------
+                        AGGIORNAMENTO (21)
+                        
+ La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 641, alinea) che la modifica di cui al comma 1 del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2015. 
+                        ------------
+                        AGGIORNAMENTO (22)
+                        
+ La L. 23 dicembre 2014, n. 190, come modificata dal D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbraio 2015, n. 11, ha disposto (con l'art. 1, comma 641, alinea) che la modifica di cui al comma 1 del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2016. 
+                        ------------
+                        AGGIORNAMENTO (43)
+                        
+ E' stato ripristinato il testo in vigore al 30-06-2019 a seguito della soppressione del comma 14 dell'art. 5 del D.L. 21 ottobre 2021, n. 146 che disponeva la modifica del comma 3, lettera a) del presente articolo, ad opera della della L. 17 dicembre 2021, n. 215, di conversione del medesimo.
+
+## Art. 4. — Dichiarazione e certificazioni dei sostituti d'imposta
+
+I soggetti indicati nel titolo III del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, obbligati ad operare ritenute alla fonte, che corrispondono compensi, sotto qualsiasi forma, soggetti a ritenute alla fonte secondo le disposizioni dello stesso titolo, nonche' gli intermediari e gli altri soggetti che intervengono in operazioni fiscalmente rilevanti tenuti alla comunicazione di dati ai sensi di specifiche disposizioni normative, presentano annualmente una dichiarazione unica, anche ai fini dei contributi dovuti all'Istituto nazionale per la previdenza sociale (I.N.P.S.) e dei premi dovuti all'Istituto nazionale per le assicurazioni contro gli infortuni sul lavoro (I.N.A.I.L.), relativa a tutti i percipienti, redatta in conformita' ai modelli approvati con i provvedimenti di cui all'articolo 1, comma 1. (3) (21) (22) (24) (27)(30)
+
+La dichiarazione indica i dati e gli elementi necessari per l'individuazione del sostituto d'imposta, dell'intermediario e degli altri soggetti di cui al precedente comma, per la determinazione dell'ammontare dei compensi e proventi, sotto qualsiasi forma corrisposti, delle ritenute, dei contributi e dei premi, nonche' per l'effettuazione dei controlli e gli altri elementi richiesti nel modello di dichiarazione, esclusi quelli che l'Agenzia delle entrate, l'I.N.P.S. e l'I.N.A.I.L. sono in grado di acquisire direttamente e sostituisce le dichiarazioni previste ai fini contributivi e assicurativi. (3)
+
+Con decreto del Ministro delle finanze, emanato di concerto con i Ministri del tesoro, del bilancio e della programmazione economica e del lavoro e della previdenza sociale, la dichiarazione unica di cui al comma 1 puo' essere estesa anche ai contributi dovuti agli altri enti e casse.
+
+Salvo quanto previsto al comma 6-quinquies, i sostituti d'imposta, comprese le Amministrazioni dello Stato, anche con ordinamento autonomo, di cui al comma 1 dell'articolo 29 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, che effettuano le ritenute sui redditi a norma degli articoli 23, 24, 25, 25-bis, 25-ter e 29 del citato decreto n. 600 del 1973 nonche' dell'articolo 21, comma 15, della legge 27 dicembre 1997, n. 449, e dell'articolo 11 della legge 30 dicembre 1991, n. 413, tenuti al rilascio della certificazione di cui al comma 6-ter del presente articolo, trasmettono in via telematica all'Agenzia delle entrate, direttamente o tramite gli incaricati di cui all'articolo 3, commi 2-bis e 3, la dichiarazione di cui al comma 1 del presente articolo, relativa all'anno solare precedente, entro il 31 ottobre di ciascun anno.
+
+Le attestazioni comprovanti il versamento delle ritenute e ogni altro documento previsto dal decreto di cui all'articolo 1 sono conservati per il periodo previsto dall'articolo 43, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e sono esibiti o trasmessi, su richiesta, all'ufficio competente. La conservazione delle attestazioni relative ai versamenti contributivi e assicurativi resta disciplinata dalle leggi speciali.
+
+Salvo quanto previsto dal comma 3-bis, i sostituti di imposta, comprese le Amministrazioni dello Stato, anche con ordinamento autonomo, gli intermediari e gli altri soggetti di cui al comma 1 presentano in via telematica, secondo le disposizioni di cui all'articolo 3, commi 2, 2-bis, 2-ter e 3, la dichiarazione di cui al comma 1, relativa all'anno solare precedente, tra il 15 aprile e il 31 ottobre di ciascun anno. (3) (10) (48) (49)
+
+COMMA SOPPRESSO DAL D.P.R. 14 OTTOBRE 1999, N. 542.
+
+COMMA SOPPRESSO DAL D.P.R. 7 DICEMBRE 2001, N. 435. (3)
+
+I soggetti indicati nell'articolo 29, terzo comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, che corrispondono compensi, sotto qualsiasi forma, soggetti a ritenuta alla fonte comunicano all'Agenzia delle entrate mediante appositi elenchi i dati fiscali dei percipienti. Con provvedimento del direttore dell'Agenzia delle entrate sono stabiliti il contenuto, i termini e le modalita' delle comunicazioni, previa intesa con le rispettive Presidenze delle Camere e della Corte costituzionale, con il segretario generale della Presidenza della Repubblica, e, nel caso delle regioni a statuto speciale, con i Presidenti dei rispettivi organi legislativi. Nel medesimo provvedimento puo' essere previsto anche l'obbligo di indicare i dati relativi ai contributi dovuti agli enti e casse previdenziali. (3)
+
+I soggetti indicati nel comma 1 rilasciano un'apposita certificazione unica anche ai fini dei contributi dovuti all'Istituto nazionale per la previdenza sociale (I.N.P.S.) attestante l'ammontare complessivo delle dette somme e valori, l'ammontare delle ritenute operate, delle detrazioni di imposta effettuate e dei contributi previdenziali e assistenziali, nonche' gli altri dati stabiliti con il provvedimento amministrativo di approvazione dello schema di certificazione unica. La certificazione e' unica anche ai fini dei contributi dovuti agli altri enti e casse previdenziali. Con decreto del Ministro dell'economia e delle finanze, emanato di concerto con il Ministro del lavoro e delle politiche sociali, sono stabilite le relative modalita' di attuazione. La certificazione unica sostituisce quelle previste ai fini contributivi.
+
+Le certificazioni di cui al comma 6-ter, sottoscritte anche mediante sistemi di elaborazione automatica, sono consegnate agli interessati entro il 16 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti ovvero entro dodici giorni dalla richiesta degli stessi in caso di interruzione del rapporto di lavoro. Nelle ipotesi di cui all'articolo 27 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, la certificazione puo' essere sostituita dalla copia della comunicazione prevista dagli articoli 7, 8, 9 e 11 della legge 29 dicembre 1962, n. 1745. (10) (28) (34) (38) (37) (42)
+
+Le certificazioni di cui al comma 6-ter sono trasmesse in via telematica all'Agenzia delle entrate direttamente o tramite gli incaricati di cui all'articolo 3, commi 2-bis e 3, entro il 16 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti. Entro la stessa data sono altresi' trasmessi in via telematica gli ulteriori dati fiscali e contributivi e quelli necessari per l'attivita' di controllo dell'Amministrazione finanziaria e degli enti previdenziali e assicurativi, i dati contenuti nelle certificazioni rilasciate ai soli fini contributivi e assicurativi nonche' quelli relativi alle operazioni di conguaglio effettuate a seguito dell'assistenza fiscale prestata ai sensi del decreto legislativo 9 luglio 1997, n. 241, stabiliti con provvedimento del direttore dell'Agenzia delle entrate. ((Nel 2025)) le certificazioni di cui al comma 6-ter contenenti esclusivamente redditi che derivano da prestazioni di lavoro autonomo rientranti nell'esercizio di arte o professione abituale sono trasmesse in via telematica all'Agenzia delle entrate entro il 31 marzo dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti. ((Dal 2026 le certificazioni di cui al comma 6-ter contenenti esclusivamente redditi che derivano da prestazioni di lavoro autonomo rientranti nell'esercizio di arte o professione abituale ovvero provvigioni per le prestazioni non occasionali inerenti a rapporti di commissione, di agenzia, di mediazione, di rappresentanza di commercio e di procacciamento di affari sono trasmesse in via telematica all'Agenzia delle entrate entro il 30 aprile dell'anno successivo a quello in cui le somme e i valori sono stati corrisposti.)) La trasmissione in via telematica delle certificazioni di cui al comma 6-ter, contenenti esclusivamente redditi esenti o non dichiarabili mediante la dichiarazione precompilata di cui all'articolo 1 del decreto legislativo 21 novembre 2014, n. 175, puo' avvenire entro il termine di presentazione della dichiarazione dei sostituti d'imposta di cui al comma 1. Le trasmissioni in via telematica effettuate ai sensi del presente comma sono equiparate a tutti gli effetti alla esposizione dei medesimi dati nella dichiarazione di cui al comma 1. Per ogni certificazione omessa, tardiva o errata si applica la sanzione di cento euro in deroga a quanto previsto dall'articolo 12, del decreto legislativo 18 dicembre 1997, n. 472 , con un massimo di euro 50.000 per sostituto di imposta. Nei casi di errata trasmissione della certificazione, la sanzione non si applica se la trasmissione della corretta certificazione e' effettuata entro i cinque giorni successivi alla scadenza indicata nel primo periodo. Se la certificazione e' correttamente trasmessa entro sessanta giorni dai termini previsti nel primo e nel terzo periodo, la sanzione e' ridotta a un terzo, con un massimo di euro 20.000. (25) (26) (34) (38) (37) (42) 
+ 6-quinquies.1. Nei casi di tardiva o errata trasmissione delle certificazioni uniche relative a somme e valori corrisposti per i periodi d'imposta dal 2015 al 2017, non si fa luogo all'applicazione della sanzione di cui al comma 6-quinquies, se la trasmissione della corretta certificazione e' effettuata entro il 31 dicembre del secondo anno successivo al termine indicato dal primo periodo del medesimo comma 6-quinquies.
+
+L'Agenzia delle entrate, esclusivamente nell'area autenticata del proprio sito internet, rende disponibili agli interessati i dati delle certificazioni pervenute ai sensi del comma 6-quinquies. Gli interessati possono delegare all'accesso anche un soggetto di cui all'articolo 3, comma 3. (34) (37)
+
+A decorrere dall'anno d'imposta 2024, i soggetti indicati al comma 1 che corrispondono compensi, comunque denominati, ai contribuenti che applicano il regime forfettario di cui all'articolo 1, commi da 54 a 89, della legge 23 dicembre 2014, n. 190, ovvero il regime fiscale di vantaggio di cui all'articolo 27, commi 1 e 2, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, sono esonerati dagli adempimenti previsti dai commi 6-ter, 6-quater e 6-quinquies.
+
+---------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002. 
+                        ---------------
+                        AGGIORNAMENTO (4)
+                        
+ Il D.P.R. 16 aprile 2003, n. 126 ha disposto (con l'art. 6, comma 1) che la disposizione di cui al comma 3-bis del presente articolo, si applica a decorrere dal 1 gennaio 2003. 
+                        ---------------
+                        AGGIORNAMENTO (10)
+                        
+ Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007. 
+                        ---------------
+                        AGGIORNAMENTO (14)
+                        
+ Il D.L. 3 giugno 2008, n. 97, convertito con modificazioni dalla L. 2 agosto 2008, n. 129, ha disposto (con l'art. 3, comma 2) che "Per l'anno 2008 il termine di trasmissione della dichiarazione prevista dal comma 3-bis dell'articolo 4 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e' fissato al 10 luglio 2008." 
+                        ------------
+                        AGGIORNAMENTO (21)
+                        
+ La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 641, alinea) che la modifica di cui al comma 1 del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2015. 
+                        ------------
+                        AGGIORNAMENTO (22)
+                        
+ La L. 23 dicembre 2014, n. 190, come modificata dal D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbraio 2015, n. 11, ha disposto (con l'art. 1, comma 641, alinea) che la modifica di cui al comma 1 del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2016. 
+                        ------------
+                        AGGIORNAMENTO (24)
+                        
+ Il D.P.C.M. 28 luglio 2015 (in G.U. 30/07/2015, n. 175) ha disposto (con l'art. 1, comma 1) che "La dichiarazione dei sostituti d'imposta, di cui all'articolo 4, comma 1, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, relativa all'anno 2014, e' presentata in via telematica, direttamente ovvero tramite i soggetti incaricati di cui all'articolo 3, commi 2-bis e 3, del medesimo decreto del Presidente della Repubblica n. 322 del 1998, entro il 21 settembre 2015". 
+                        ------------
+                        AGGIORNAMENTO (25)
+                        
+ Il D.Lgs. 24 settembre 2015, n. 158 ha disposto (con l'art. 32, comma 1) che le presenti modifiche si applicano a decorrere dal 1 gennaio 2017. 
+                        ------------
+                        AGGIORNAMENTO (26)
+                        
+ La L. 28 dicembre 2015, n. 208, nel modificare l'art. 32, comma 1 del D.Lgs. 24 settembre 2015, n. 158, ha conseguentemente disposto (con l'art. 1, comma 133) che le modifiche apportate dal medesimo D.Lgs. al comma 6-quinquies del presente articolo si applicano a decorrere dal 1° gennaio 2016. 
+                        ------------
+                        AGGIORNAMENTO (27)
+                        
+ Il D.P.C.M. 26 luglio 2016 (in G.U. 29/07/2016, n. 176) ha disposto (con l'art. 1, comma 1) che "La dichiarazione dei sostituti d'imposta, di cui all'articolo 4, comma 1, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, relativa all'anno 2015, e' presentata in via telematica, direttamente ovvero tramite i soggetti incaricati di cui all'articolo 3, commi 2-bis e 3, del medesimo decreto del Presidente della Repubblica n. 322 del 1998, entro il 15 settembre 2016". 
+                        ------------
+                        AGGIORNAMENTO (28)
+                        
+ Il D.L. 22 ottobre 2016, n. 193, convertito con modificazioni dalla L. 1 dicembre 2016, n. 225, ha disposto (con l'art. 7-quater, comma 15) che "La disposizione di cui al comma 14 si applica a decorrere dall'anno 2017, con riferimento alle certificazioni riguardanti il periodo d'imposta 2016". 
+                        ------------
+                        AGGIORNAMENTO (30)
+                        
+ Il D.P.C.M. 26 luglio 2017, (in G.U. 28/07/2017, n. 175), ha disposto (con l'art. 1, comma 1, lettera a)) che "E' disposta la proroga dei seguenti termini: 
+ a) la dichiarazione dei sostituti d'imposta, di cui all'articolo 4, comma 1, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, relativa all'anno 2016, e' presentata in via telematica, direttamente ovvero tramite i soggetti incaricati di cui all'articolo 3, commi 2-bis e 3, del medesimo decreto del Presidente della Repubblica n. 322 del 1998, entro il 31 ottobre 2017". 
+                        ------------
+                        AGGIORNAMENTO (34)
+                        
+ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 16-bis, comma 5) che le modifiche dei commi 6-quater, 6-quinquies e 6-sexies del presente articolo acquistano efficacia a decorrere dal 1° gennaio 2021. 
+                        ------------
+                        AGGIORNAMENTO (38)
+                        
+ Il D.L. 8 aprile 2020, n. 23 ha disposto (con l'art. 22, comma 1) che "Per l'anno 2020, il termine di cui all'articolo 4, comma 6-quater, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, e' prorogato al 30 aprile". 
+ Ha inoltre disposto (con l'art. 22, comma 2) che "Per l'anno 2020, la sanzione per la tardiva trasmissione delle certificazioni uniche di cui all'articolo 4, comma 6-quinquies, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, non si applica se le certificazioni uniche di cui al comma 6-ter del medesimo articolo 4 sono trasmesse in via telematica all'Agenzia delle entrate entro il 30 aprile". 
+                        ------------
+                        AGGIORNAMENTO (37)
+                        
+ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, come modificato dal D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha disposto (con l'art. 16-bis, comma 5) che le modifiche dei commi 6-quater e 6-quinquies del presente articolo acquistano efficacia a decorrere dal 1° gennaio 2020 e che la modifica del comma 6-sexies del presente articolo acquista efficacia dall'anno 2021. 
+                        ------------
+                        AGGIORNAMENTO (42)
+                        
+ Il D.L. 22 marzo 2021, n. 41 ha disposto (con l'art. 5, comma 20) che "Per l'anno 2021, i termini del 16 marzo di cui all'articolo 4, commi 6-quater e 6-quinquies, del decreto del Presidente della Repubblica 22 luglio 1998, n. 322, sono prorogati al 31 marzo". 
+                        ------------
+                        AGGIORNAMENTO (48)
+                        
+ Il D.Lgs. 8 gennaio 2024, n. 1 ha disposto (con l'art. 11, comma 3, alinea) che la presente modifica ha effetto dal 1° aprile 2025. 
+                        ---------------
+                        AGGIORNAMENTO (49)
+                        
+ Il D.Lgs. 8 gennaio 2024, n. 1, come modificato dal D.Lgs. 5 agosto 2024, n. 108, ha disposto (con l'art. 11, comma 3, alinea) che la presente modifica ha effetto dal 15 aprile 2025.
+
+## Art. 5. — Dichiarazione nei casi di liquidazione
+
+In caso di liquidazione di societa' o enti soggetti all'imposta sul reddito delle persone giuridiche, di societa' o associazioni di cui all'articolo 5 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e di imprese individuali, il liquidatore o, in mancanza, il rappresentante legale, presenta, secondo le disposizioni di cui all'articolo 3, la dichiarazione relativa al periodo compreso tra l'inizio del periodo d'imposta e ((la data in cui si determinano gli effetti dello scioglimento della societa' ai sensi degli articoli 2484 e 2485 del codice civile, ovvero per le imprese individuali la data indicata nella dichiarazione di cui all'articolo 35 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633,)) entro l'ultimo giorno del nono mese successivo a tale data in via telematica. Lo stesso liquidatore presenta la dichiarazione relativa al risultato finale delle operazioni di liquidazione entro nove mesi successivi alla chiusura della liquidazione stessa o al deposito del bilancio finale, se prescritto, in via telematica. (3) (10)
+
+COMMA ABROGATO DAL D.P.R. 7 DICEMBRE 2001, N. 435. (3)
+
+Se la liquidazione si prolunga oltre il periodo d'imposta in corso alla data indicata nel comma 1 sono presentate, nei termini stabiliti dall'articolo 2, la dichiarazione relativa alla residua frazione del detto periodo e quelle relative ad ogni successivo periodo d'imposta.
+
+((
+
+In caso di revoca dello stato di liquidazione quando gli effetti, anche ai sensi del secondo comma dell'articolo 2487-ter del codice civile, si producono prima del termine di presentazione delle dichiarazioni di cui ai precedenti commi 1, primo periodo, e 3, il liquidatore o, in mancanza, il rappresentante legale, non e' tenuto a presentare le medesime dichiarazioni. Restano in ogni caso fermi gli effetti delle dichiarazioni gia' presentate ai sensi dei commi 1, primo periodo, e 3, prima della data in cui ha effetto la revoca dello stato di liquidazione, ad eccezione dell'ipotesi in cui la revoca abbia effetto prima della presentazione della dichiarazione relativa alla residua frazione del periodo d'imposta in cui si verifica l'inizio della liquidazione.
+
+))
+
+Nei casi di fallimento o di liquidazione coatta amministrativa, le dichiarazioni di cui al comma 1 sono presentate, anche se si tratta di imprese individuali, dal curatore o dal commissario liquidatore, in via telematica, avvalendosi del servizio telematico Entratel, direttamente o tramite i soggetti incaricati di cui all'articolo 3, comma 3, entro l'ultimo giorno del nono mese successivo a quello, rispettivamente, della nomina del curatore e del commissario liquidatore, e della chiusura del fallimento e della liquidazione; le dichiarazioni di cui al comma 3 sono presentate, con le medesime modalita', esclusivamente ai fini dell'imposta regionale sulle attivita' produttive e soltanto se vi e' stato esercizio provvisorio. Il reddito d'impresa, di cui al comma 1 dell'articolo 183 del testo unico delle imposte sui redditi e quello di cui ai commi 2 e 3 del medesimo articolo, risultano dalle dichiarazioni iniziale e finale che devono essere presentate dal curatore o dal commissario liquidatore. Il curatore o il commissario liquidatore, prima di presentare la dichiarazione finale, deve provvedere al versamento, se la societa' fallita o liquidata vi e' soggetta, dell'imposta sulreddito delle societa'. In caso di fallimento o di liquidazione coatta, di imprese individuali o di societa' in nome collettivo o in accomandita semplice, il curatore o il commissario liquidatore,contemporaneamente alla presentazione delle dichiarazioni iniziale e finale di cui al secondo periodo, deve consegnarne o spedirne copia per raccomandata all'imprenditore e a ciascuno dei familiari partecipanti all'impresa, ovvero a ciascuno dei soci, ai fini dell'inclusione del reddito o della perdita che ne risulta nelle rispettive dichiarazioni dei redditi relative al periodo d'imposta in cui ha avuto inizio e in quello in cui si e' chiuso il procedimento concorsuale. Per ciascuno degli immobili di cui all'articolo 183, comma 4, secondo periodo, del testo unico il curatore o il commissario liquidatore, nel termine di un mese dalla vendita, deve presentare all'Ufficio dell'Agenzia delle entrate apposita dichiarazione ai fini dell'imposta locale sui redditi, previo versamento nei modi ordinari del relativo importo, determinato a norma dell'articolo 25 del testo unico. (3)
+
+Resta fermo, anche durante la liquidazione, l'obbligo di presentare le dichiarazioni dei sostituti d'imposta.
+
+-------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002. 
+                        -------------
+                        AGGIORNAMENTO (10)
+                        
+ Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007.
+
+## Art. 5-bis. — Dichiarazione nei casi di trasformazione, di fusione e di scissione).
+
+In caso di trasformazione di una societa' non soggetta all'imposta sul reddito delle persone giuridiche in societa' soggetta a tale imposta, o viceversa, deliberata nel corso del periodo d'imposta, deve essere presentata, secondo le disposizioni di cui all'articolo 3, la dichiarazione relativa alla frazione di esercizio compresa tra l'inizio del periodo d'imposta e la data in cui ha effetto la trasformazione, entro l'ultimo giorno del ((nono)) mese successivo a tale data in via telematica. (10)
+
+In caso di fusione di piu' societa' deve essere presentata dalla societa' risultante dalla fusione o incorporante, la dichiarazione relativa alla frazione di esercizio delle societa' fuse o incorporate compresa tra l'inizio del periodo d'imposta e la data in cui ha effetto la fusione entro l'ultimo giorno del ((nono)) mese successivo a tale data in via telematica. (10)
+
+In caso di scissione totale la societa' designata a norma del comma 14 dell'articolo 123-bis del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, deve presentare la dichiarazione relativa alla frazione di periodo della societa' scissa, con le modalita' e i termini di cui al comma 1 decorrenti dalla data in cui e' stata eseguita l'ultima delle iscrizioni prescritte dall'articolo 2504 del codice civile, indipendentemente da eventuali effetti retroattivi.
+
+Le disposizioni del presente articolo, in quanto applicabili, valgono anche nei casi di trasformazione e di fusione di enti diversi dalle societa'. (3)
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002.
+                        ---------------
+                        AGGIORNAMENTO (10)
+                         Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007.
+
+## Art. 5-ter. — (( (Adempimenti dei curatori e amministratori di eredita). ))
+
+((
+
+L'erede, nella dichiarazione dei redditi relativa al periodo d'imposta nel quale e' cessata la curatela o l'amministrazione, deve darne comunicazione e indicare l'ufficio dell'Agenzia delle entrate del domicilio fiscale del contribuente deceduto, i dati identificativi del curatore o dell'amministratore e degli altri eredi e la propria quota di eredita'. Nella stessa dichiarazione puo' essere esercitata, per ciascuno degli anni per i quali i redditi di cui all'articolo 187 del testo unico delle imposte sui redditi sono stati determinati in via provvisoria, la facolta' prevista nell'articolo 17, comma 3, dello stesso testo unico.
+
+Dalla data di presentazione della dichiarazione di cui al comma 3, o, in mancanza, dalla data in cui avrebbe dovuto essere presentata, decorre il termine per la liquidazione definitiva delle imposte a norma dell'articolo 187 del citato testo unico.
+
+Nei confronti del curatore o dell'amministratore, salvo quanto disposto nel comma 1, i termini pendenti alla data di apertura della successione e quelli aventi inizio prima della data di assunzione delle funzioni sono sospesi fino a tale data e sono prorogati di 6 mesi.
+
+))
+
+## Art. 6. — ((ARTICOLO ABROGATO DAL D.P.R. 7 DICEMBRE 2001, N. 435))
+
+
+
+## Art. 7. — ((ARTICOLO ABROGATO DAL D.P.R. 7 DICEMBRE 2001, N. 435))
+
+
+
+## Art. 8. — Dichiarazione annuale in materia di imposta sul valore aggiunto e di versamenti unitari da parte di determinati contribuenti
+
+Il contribuente presenta, secondo le disposizioni di cui all'articolo 3, ((per l'imposta sul valore aggiunto dovuta per il 2016, nel mese di febbraio, e per l'imposta sul valore aggiunto dovuta a decorrere dal 2017, tra il 1° febbraio e il 30 aprile)) in via telematica la dichiarazione relativa all'imposta sul valore aggiunto dovuta per l'anno solare precedente, redatta in conformita' al modello approvato entro il 15 gennaio dell'anno in cui e' utilizzato con provvedimento amministrativo da pubblicare nella Gazzetta Ufficiale. PERIODO SOPPRESSO DAL D.L. 30 DICEMBRE 2008, N. 207, CONVERTITO CON MODIFICAZIONI DALLA L. 27 FEBBRAIO 2009, N. 14.
+La dichiarazione annuale e' presentata anche dai contribuenti che non hanno effettuato operazioni imponibili. Sono esonerati dall'obbligo di presentazione della dichiarazione i contribuenti che nell'anno solare precedente hanno registrato esclusivamente operazioni esenti dall'imposta di cui all'articolo 10 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, salvo che siano tenuti alle rettifiche delle detrazioni di cui all'articolo 19-bis2 del medesimo decreto, ovvero abbiano registrato operazioni intracomunitarie, nonche' i contribuenti esonerati ai sensi di specifiche disposizioni normative. (3) (10) (21) (22) ((28))
+
+Nella dichiarazione sono indicati i dati e gli elementi necessari per l'individuazione del contribuente, per la determinazione dell'ammontare delle operazioni e dell'imposta e per l'effettuazione dei controlli, nonche' gli altri elementi richiesti nel modello di dichiarazione, esclusi quelli che l'Agenzia delle entrate e' in grado di acquisire direttamente. (3)
+
+Le detrazioni sono esercitate entro il termine stabilito dall'articolo 19, comma 1, secondo periodo, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+
+In caso di fallimento o di liquidazione coatta amministrativa, la dichiarazione relativa all'imposta dovuta per l'anno solare precedente, sempreche' i relativi termini di presentazione non siano ancora scaduti, e' presentata dai curatori o dai commissari liquidatori con le modalita' e i termini ordinari di cui al comma 1 ovvero entro quattro mesi dalla nomina se quest'ultimo termine scade successivamente al termine ordinario. Con le medesime modalita' e nei termini ordinari, i curatori o i commissari liquidatori presentano la dichiarazione per le operazioni registrate nell'anno solare in cui e' dichiarato il fallimento ovvero la liquidazione coatta amministrativa. Per le operazioni registrate nella parte dell'anno solare anteriore alla dichiarazione di fallimento o di liquidazione coatta amministrativa e' anche presentata, in via telematica ed entro quattro mesi dalla nomina, apposita dichiarazione al competente ufficio dell'Agenzia delle entrate ai fini della eventuale insinuazione al passivo della procedura concorsuale. (3)
+
+COMMA SOPPRESSO DAL D.P.R. 14 OTTOBRE 1999, N. 542.
+
+Per la sottoscrizione, la presentazione e la conservazione della dichiarazione relativa all'imposta sul valore aggiunto si applicano le disposizioni di cui all'articolo 1, commi 2, 3 e 4, ((all'articolo 2, commi 7 e 9)), e all'articolo 3. (3)
+
+((
+
+Salva l'applicazione delle sanzioni e ferma restando l'applicazione dell'articolo 13 del decreto legislativo 18 dicembre 1997, n. 472, le dichiarazioni dell'imposta sul valore aggiunto possono essere integrate per correggere errori od omissioni, compresi quelli che abbiano determinato l'indicazione di un maggiore o di un minore imponibile o, comunque, di un maggiore o di un minore debito d'imposta ovvero di una maggiore o di una minore eccedenza detraibile, mediante successiva dichiarazione da presentare, secondo le disposizioni di cui all'articolo 3, utilizzando modelli conformi a quelli approvati per il periodo d'imposta cui si riferisce la dichiarazione, non oltre i termini stabiliti dall'articolo 57 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633.
+
+L'eventuale credito derivante dal minor debito o dalla maggiore eccedenza detraibile risultante dalle dichiarazioni di cui al comma 6-bis, presentate entro il termine prescritto per la presentazione della dichiarazione relativa al periodo d'imposta successivo, puo' essere portato in detrazione in sede di liquidazione periodica o di dichiarazione annuale, ovvero utilizzato in compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, ovvero, sempreche' ricorrano per l'anno per cui e' presentata la dichiarazione integrativa i requisiti di cui agli articoli 30 e 34, comma 9, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, chiesto a rimborso.
+
+L'eventuale credito derivante dal minor debito o dalla maggiore eccedenza detraibile risultante dalle dichiarazioni di cui al comma 6-bis, presentate oltre il termine prescritto per la presentazione della dichiarazione relativa al periodo d'imposta successivo, puo' essere chiesto a rimborso ove ricorrano, per l'anno per cui e' presentata la dichiarazione integrativa, i requisiti di cui agli articoli 30 e 34, comma 9, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ovvero puo' essere utilizzato in compensazione, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, per eseguire il versamento di debiti maturati a partire dal periodo d'imposta successivo a quello in cui e' stata presentata la dichiarazione integrativa. Nella dichiarazione relativa al periodo d'imposta in cui e' presentata la dichiarazione integrativa e' indicato il credito derivante dal minor debito o dal maggiore credito risultante dalla dichiarazione integrativa.
+
+6-quinquies. Resta ferma in ogni caso per il contribuente la possibilita' di far valere, anche in sede di accertamento o di giudizio, eventuali errori, di fatto o di diritto, che abbiano inciso sull'obbligazione tributaria, determinando l'indicazione di un maggiore imponibile, di un maggiore debito d'imposta o, comunque, di una minore eccedenza detraibile))
+
+I soggetti di cui all'articolo 73, primo comma, lettera e), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, eseguono i versamenti dell'imposta sul valore aggiunto secondo le modalita' e i termini indicati nel capo terzo del decreto legislativo 9 luglio 1997, n. 241.
+
+---------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.P.R. 7 dicembre 2001, n. 435 ha disposto (con l'art. 19, comma 1) che tali modifiche hanno effetto a decorrere dal 1° gennaio 2002. 
+                        ---------------
+                        AGGIORNAMENTO (10)
+                        
+ Il D.L. 4 luglio 2006, n. 223, convertito con modificazioni dalla L. 4 agosto 2006, n. 24, ha disposto (con l'art. 37, comma 14) che la presente modifica decorre dal 1° maggio 2007. 
+                        ------------
+                        AGGIORNAMENTO (21)
+                        
+ La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 641, alinea) che la modifica di cui al comma 1 del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2015. 
+                        ------------
+                        AGGIORNAMENTO (22)
+                        
+ La L. 23 dicembre 2014, n. 190, come modificata dal D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbraio 2015, n. 11, ha disposto (con l'art. 1, comma 641, alinea) che la modifica di cui al comma 1 del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2016. 
+                        ------------
+                        AGGIORNAMENTO (28)
+                        
+ Il D.L. 22 ottobre 2016, n. 193, convertito con modificazioni dalla L. 1 dicembre 2016, n. 225, ha disposto (con l'art. 4, comma 4, alinea) che la presenta modifica si applica a decorrere dal 1° gennaio 2017.
+
+## Art. 8-bis.
+
+ARTICOLO ABROGATO DALLA L. 23 DICEMBRE 2014, N. 190 (21) ((22))
+
+------------
+                        AGGIORNAMENTO (21)
+                        
+ La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 641, alinea) che l'abrogazione del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2015. 
+                        ------------
+                        AGGIORNAMENTO (22)
+                        
+ La L. 23 dicembre 2014, n. 190, come modificata dal D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbraio 2015, n. 11, ha disposto (con l'art. 1, comma 641, alinea) che l'abrogazione del presente articolo decorre dalla dichiarazione relativa all'imposta sul valore aggiunto dovuta per il 2016.
+
+## Art. 9. — Disposizioni finali e transitorie
+
+1.Per l'anno 1998, le dichiarazioni predisposte mediante l'utilizzo dei sistemi informatici sono presentate all'amministrazione finanziaria per il tramite di un ufficio della Poste italiane S.p.a. convenzionata, mentre le altre sono presentate per il tramite di una banca o di un ufficio della Poste italiane S.p.a., convenzionate, secondo le modalita' stabilite nel decreto di cui all'articolo 1. Si applicano le disposizioni stabilite dall'articolo 3.
+ 2. Per l'anno 1999 sono presentate esclusivamente per il tramite di una banca o di un ufficio della Poste italiane S.p.a., convenzionate:
+a) le dichiarazioni dei redditi, comprese quelle riguardanti
+imposte sostitutive delle imposte sui redditi, da redigere su modelli approvati con decreti emanati nel corso del 1998;
+ b) le dichiarazioni di cui all'articolo 74-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, da redigere su modelli approvati con decreto ministeriale 15 gennaio 1998.
+ 3. Le disposizioni di cui agli articoli 1, 2, 3 e 8, comma 1, lettere b) e c), del decreto legislativo 9 luglio 1997, n. 241, si applicano alle dichiarazioni presentate a decorrere dal 1 gennaio 1998.
+ 4. Dalla data di entrata in vigore del presente regolamento, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, nel decreto legislativo 9 luglio 1997, n. 241, si intendono abrogati gli articoli 4, 5, 6, 7, 8, comma 1, lettera a), 11, comma 1, lettera e), e 12, comma 4, e, nel decreto legislativo 2 settembre 1997, n. 313, si intende abrogato l'articolo 4, comma 1, lettera c).
+ 5. Le disposizioni di cui all'articolo 6 si applicano alle dichiarazioni presentate a decorrere dal 1 gennaio 1999.
+ 6. A decorrere dal 1 gennaio 1999, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, i commi 11 e 12 dell'articolo 78 della legge 30 dicembre 1991, n. 413, si intendono abrogati. Con effetto dalla data di entrata in vigore del presente regolamento, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, il primo comma dell'articolo 17 della legge 13 aprile 1977, n. 114, si intende abrogato.
+ 7. Qualora sia presentata dai coniugi dichiarazione separata essendo stata presentata per l'anno precedente dichiarazione congiunta e, conformemente alle risultanze di tale dichiarazione, sia stato omesso o versato in misura inferiore l'acconto rispetto all'imposta dovuta da uno dei coniugi, non si applicano le sanzioni e gli interessi previsti per l'omesso o insufficiente versamento degli acconti.
+ 8. Dal 1 gennaio 1999, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, si intende abrogato l'articolo 7 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e dalla stessa data si applicano le disposizioni di cui agli articoli 2, comma 5, e 4 del presente regolamento.
+ 9. Dalla data di entrata in vigore del presente regolamento, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, gli articoli 8, 9, 10 e 12 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, gli articoli 28 e 37 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e i commi 172, lettera e), 178 e 179, dell'articolo 3, della legge 23 dicembre 1996, n. 662, si intendono abrogati e nell'articolo 5, comma 2, del decreto-legge 30 settembre 1983, n. 512, convertito, con modificazioni, dalla legge 25 novembre 1983, n. 649, le parole da: "e devono" a "decreto n. 600" sono soppresse.
+ 10. I riferimenti alle disposizioni indicate nei commi precedenti, contenuti in ogni atto normativo, si intendono fatti alle disposizioni del presente regolamento.
+

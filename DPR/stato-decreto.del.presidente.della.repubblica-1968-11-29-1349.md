@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1349
+data: 1968-11-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-11-29;1349
+codice_redazionale: 068U1349
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 novembre 1968
+                1349
+                Riconoscimento, agli effetti civili, della unione della parrocchia di S. Martino con quella dei SS. Ippolito e Cassiano, in comune di Polinago.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 novembre 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Modena in data 1 luglio 1968, relativo alla unione "aeque principaliter", per il periodo di cinque anni, delle parrocchie di S. Martino, in frazione di S. Martino Vallata del comune di Polinago (Modena), e dei SS. Ippolito e Cassiano, in frazione Cassano dello stesso comune.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 16 gennaio 1969
+ Atti del Governo, registro n. 224, foglio n. 146. - GRECO
+

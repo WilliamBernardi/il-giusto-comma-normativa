@@ -1,0 +1,58 @@
+---
+tipo: REGIO DECRETO
+numero: 38
+data: 1897-01-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-01-14;38
+codice_redazionale: 097U0038
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:25Z
+---
+
+REGIO DECRETO
+                14 gennaio 1897
+                38
+                Che approva il Regolamento per l'esecuzione della legge 30 luglio 1896 n. 344 relativa alla inversione per un decennio delle rendite delle opere dotali ed altre fondazioni a favore della beneficenza Ospitaliera in Sicilia. (097U0038)
+
+Entrata in vigore del provvedimento: 24/02/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+### Art. 1.
+
+Regolamento-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Regolamento-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Regolamento-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Regolamento-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Regolamento-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Regolamento-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Regolamento-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Regolamento-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+

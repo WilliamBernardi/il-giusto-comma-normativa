@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 556
+data: 1985-06-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-28;556
+codice_redazionale: 085U0556
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 giugno 1985
+                556
+                Modificazioni allo statuto dell'Ateneo di Treviso.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 giugno 1985, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, vengono approvate le modificazioni allo statuto dell'Ateneo di Treviso.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corta dei conti, addi' 7 ottobre 1985
+ Registro n. 26 Beni culturali, foglio n. 89
+

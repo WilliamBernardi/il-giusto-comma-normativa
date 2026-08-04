@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 123
+data: 1973-02-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-02-19;123
+codice_redazionale: 073U0123
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 febbraio 1973
+                123
+                Autorizzazione all'Opera nazionale di assistenza all'infanzia delle regioni di confine, con sede in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 febbraio 1973, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Opera nazionale di assistenza all'infanzia delle regioni di confine (O.N.A.I.R.C.), con sede in Roma, viene autorizzata ad acquistare dal geom. Giuseppe Maccaferri, al convenuto prezzo di L. 13.000.000 un appartamento (porzione 5ª di un fabbricato) sito in Trento, via G. Prati, n. 22 (piano 5° lato est) composto di tre stanze, cucina, bagno, ripostiglio ed ingresso.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 9 aprile 1973
+ Atti di Governo, registro n. 257, foglio n. 67. - VALENTINI
+

@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1191
+data: 1965-09-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-09-28;1191
+codice_redazionale: 065U1191
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 settembre 1965
+                1191
+                Riconoscimento, agli effetti civili, del trasferimento della Parrocchia di San Nicolo', in Arezzo, e della sua unione alla Parrocchia della Cattedrale di Arezzo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 settembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Arezzo in data 22 dicembre 1964, relativo:
+ 1) al trasferimento della sede della Parrocchia di San Nicolo', in Arezzo, nella Chiesa di Santa Agnese, conservando il precedente territorio di giurisdizione;
+ 2) all'unione in via temporanea, nella forma "aeque principaliter" della predetta Parrocchia di San Nicolo' in Sant'Agnese alla Parrocchia della cattedrale di Arezzo.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 ottobre 1965
+ Atti del Governo, registro n. 197, foglio n. 125. - VILLA
+

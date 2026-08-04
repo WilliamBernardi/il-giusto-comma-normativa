@@ -1,0 +1,33 @@
+---
+tipo: REGIO DECRETO
+numero: 1217
+data: 1942-08-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-08-24;1217
+codice_redazionale: 042U1217
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:43Z
+---
+
+REGIO DECRETO
+                24 agosto 1942
+                1217
+                Riconoscimento, agli effetti civili, della erezione della parrocchia
+di S. Teresa del Bambino Gesu', in frazione Limone Melara del comune
+di La Spezia. (042U1217)
+
+Entrata in vigore del provvedimento: 14/11/1942
+
+## Art. 1.
+
+N.
+
+R. decreto 24 agosto 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Luni e Sarzana in data 1° ottobre 1941-XIX, relativo alla erezione della parrocchia di S. Teresa del Bambino Gesu', in frazione Limone Melara del comune di La Spezia. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 19 ottobre 1942-XX
+

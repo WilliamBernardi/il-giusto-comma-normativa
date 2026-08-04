@@ -1,0 +1,45 @@
+---
+tipo: REGIO DECRETO
+numero: 772
+data: 1872-04-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1872-04-11;772
+codice_redazionale: 072U0772
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:52Z
+---
+
+REGIO DECRETO
+                11 aprile 1872
+                772
+                Che autorizza il Comune di Feroleto-Piano ad assumere la denominazione di Pianopoli. (072U0772)
+
+Entrata in vigore del provvedimento: 17/05/1872
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+## Art. 1.
+
+Il Comune di Feroleto-Piano, nella Provincia di Catanzaro, e' autorizzato ad assumere la denominazione di Pianopoli. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma addi' 11 aprile 1872. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 22 aprile 1872 
+ 
+ Reg. 60 Atti del Governo c. 111. D. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli: De Falco. 
+ 
+ G. Lanza
+

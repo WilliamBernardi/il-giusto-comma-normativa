@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 359
+data: 1955-03-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-03-01;359
+codice_redazionale: 055U0359
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 marzo 1955
+                359
+                Autorizzazione all'Istituto regionale per ciechi di Torino ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Istituto regionale per ciechi di Torino, viene autorizzato ad accettare un legato disposto in suo favore dalla defunta sig.ra Angela Flaminia Becchia Del Pozzo fu Carlo vedova di Giuseppe Donaudi.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 4 maggio 1955
+ Atti del Governo, registro n. 90, foglio n. 117. - CARLOMAGNO
+

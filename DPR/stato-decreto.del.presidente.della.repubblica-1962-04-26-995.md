@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 995
+data: 1962-04-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-26;995
+codice_redazionale: 062U0995
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 aprile 1962
+                995
+                Autorizzazione all'accettazione da parte dello Stato di una donazione disposta dal comune di Favignana.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 aprile 1962, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione disposta a favore dello Stato dal comune di Favignana con atto n. 5894 in data 9 marzo 1961, rogato dal notaio dott. Francesco Di Vita, di un appezzamento di terreno di mq. 300 circa sito in Favignana, piazzale Castello, da utilizzare per la costruzione di alloggi per i funzionari dipendenti della casa penale.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 13 luglio 1962
+ Atti del Governo, registro n. 154, foglio n. 34. - VILLA
+

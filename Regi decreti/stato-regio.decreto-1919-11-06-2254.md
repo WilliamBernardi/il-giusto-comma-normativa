@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2254
+data: 1919-11-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1919-11-06;2254
+codice_redazionale: 019U2254
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:13Z
+---
+
+REGIO DECRETO
+                06 novembre 1919
+                2254
+                Assegnazione di quote di concorso governativo a vari Comuni del Mezzogiorno. (019U2254)
+
+Entrata in vigore del provvedimento: 28/12/1919
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

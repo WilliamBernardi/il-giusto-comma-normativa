@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 183
+data: 1967-02-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-02-24;183
+codice_redazionale: 067U0183
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 febbraio 1967
+                183
+                Riconoscimento, agli effetti civili, della Istituzione di un beneficio coadiutoriale nella Parrocchia di Santa Teresa del Bambino Gesu', nel comune di Ariano Irpino (Avellino).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 febbraio 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Ariano in data 1 marzo 1966, relativo alla istituzione di un beneficio coadiutoriale nella Parrocchia di Santa Teresa del Bambino Gesu', in localita' Tressanti del comune di Ariano Irpino (Avellino).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 7 aprile 1967
+ Atti del Governo, registro n. 210, foglio n. 83. - GRECO
+

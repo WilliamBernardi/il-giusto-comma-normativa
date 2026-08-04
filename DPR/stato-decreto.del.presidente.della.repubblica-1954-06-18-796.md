@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 796
+data: 1954-06-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-18;796
+codice_redazionale: 054U0796
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 giugno 1954
+                796
+                Riconoscimento della personalita' giuridica della Chiesa della Madonna del Carmine in Carrara.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 giugno 1954, col quale, sulla proposta del Ministro per l'interno viene riconosciuta la personalita' giuridica della Chiesa della Madonna del Carmine in Carrara e la Chiesa stessa viene autorizzata ad acquistare dall'Amministrazione demaniale un'area, situata in Carrara.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 30 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 134. - CARLOMAGNO
+

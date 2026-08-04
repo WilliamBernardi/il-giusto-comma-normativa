@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+numero: 1476
+data: 1914-11-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1914-11-26;1476
+codice_redazionale: 014U1476
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:39Z
+---
+
+REGIO DECRETO
+                26 novembre 1914
+                1476
+                Col quale e' istituita in Palermo la «Galleria nazionale d'arte medioevale e moderna». (014U1476)
+
+Entrata in vigore del provvedimento: 09/02/1915
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Riconosciuta la necessita' imprescindibile che presso il Museo nazionale di Palermo sorga un Istituto di arte medioevale e moderna dove ordinatamente sia rappresentata la vita artistica siciliana; 
+ 
+ Visto l'art. 4 della legge 20 giugno 1909, n. 364 e la legge 27 giugno 1907, n. 386; 
+ 
+ Visto il parere favorevole del Consiglio superiore per le antichita' e per le belle arti; 
+ 
+ Sulla proposta del Nostro ministro, segretario di Stato per l'istruzione pubblica; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ E' istituita in Palermo una Galleria governativa la quale avra' sede presso il Museo nazionale di detta citta' e prendera' il titolo di «Galleria nazionale d'arte medioevale e moderna». 
+ 
+ Al personale sara' provveduto con quello esistente nel ruolo organico approvato con la legge 27 giugno 1907, n. 386. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 novembre 1914. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Grippo. 
+ 
+ Visto, Il guardasigilli: Orlando.
+

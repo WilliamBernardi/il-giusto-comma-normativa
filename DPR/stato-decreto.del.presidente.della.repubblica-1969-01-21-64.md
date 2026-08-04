@@ -1,0 +1,44 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 64
+data: 1969-01-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-01-21;64
+codice_redazionale: 069U0064
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 gennaio 1969
+                64
+                Modificazioni allo statuto dell'Universita' degli studi di Roma.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Roma, approvato con regio decreto 20 aprile 1939, n. 1350 e modificato con regio decreto 26 ottobre 1939, n. 1734, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Art. 42, relativo alle norme sulle modalita' degli esami del corso di laurea in economia e commercio, il secondo comma e' abrogato e sostituito dal seguente:
+ "L'esame di laurea consiste nella discussione di una dissertazione scritta svolta dal candidato sopra un tema vertente su una delle materie fondamentali, ad eccezione delle istituzioni di diritto privato e di diritto pubblico e da lui scelta con l'approvazione del professore della materia".
+ Art. 80. - All'elenco degli istituti annessi alla facolta' di medicina e chirurgia e' aggiunto quello di:
+ Istituto di neurochirurgia.
+ Art. 99. - All'elenco degli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:
+ Microbiologia.
+

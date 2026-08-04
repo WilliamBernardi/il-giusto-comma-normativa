@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1349
+data: 1971-11-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-06;1349
+codice_redazionale: 071U1349
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 novembre 1971
+                1349
+                Modificazione allo statuto del consorzio per il nucleo di industrializzazione del Vastese.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto del Presidente della Repubblica n. 1589 del 29 settembre 1962, con il quale e' stato approvato lo statuto del consorzio per il nucleo di industrializzazione del Vastese;
+ Vista la delibera n. 6 del 21 settembre 1971 del consiglio generale del consorzio per il nucleo di industrializzazione del Vastese;
+ Vista la nota del Ministero dell'industria, del commercio e dell'artigianato n. 103346/74 dell'11 ottobre 1971;
+ Visto l'art. 145 del testo unico 30 giugno 1967, n. 1523;
+ Vista la deliberazione del 15 ottobre 1971 del comitato dei Ministri per il Mezzogiorno con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvata la modifica apportata allo statuto del consorzio per il nucleo di industrializzazione del Vastese nei termini indicati dalla delibera n. 6 del 21 settembre 1971 del consiglio generale del consorzio stesso.
+

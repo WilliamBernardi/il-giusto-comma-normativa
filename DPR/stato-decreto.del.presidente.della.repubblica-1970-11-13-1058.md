@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1058
+data: 1970-11-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-11-13;1058
+codice_redazionale: 070U1058
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 novembre 1970
+                1058
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Pietro apostolo, nel comune di Cassano Magnago.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 novembre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 5 settembre 1969, integrato con dichiarazione 31 ottobre 1969 e con altro decreto 29 settembre 1970, relativo alla erezione della parrocchia di S. Pietro apostolo, in localita' Boschirolo del comune di Cassano Magnago (Varese).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 dicembre 1970
+ Atti del Governo, registro n. 239, foglio n. 22. - CARUSO
+

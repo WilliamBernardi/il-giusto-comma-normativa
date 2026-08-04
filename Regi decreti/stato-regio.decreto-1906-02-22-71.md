@@ -1,0 +1,38 @@
+---
+tipo: REGIO DECRETO
+numero: 71
+data: 1906-02-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-02-22;71
+codice_redazionale: 006U0071
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:45Z
+---
+
+REGIO DECRETO
+                22 febbraio 1906
+                71
+                Aggiunzione di taluni Comuni delle provincie di Cosenza e Catanzaro all'elenco di quelli contenuti nei provvedimenti a favore della Calabria. (006U0071)
+
+Entrata in vigore del provvedimento: 03/04/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+
+

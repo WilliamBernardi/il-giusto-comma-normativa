@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 123
+data: 1960-01-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-18;123
+codice_redazionale: 060U0123
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 gennaio 1960
+                123
+                Autorizzazione alla fondazione "Dott. Attilio Ruffi, medaglia d'argento al valor militare" ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 gennaio 1960, col quale, sulla proposta del Ministro per la difesa, la fondazione "Dott. Attilio Ruffi, medaglia d'argento al valor militare" viene autorizzata ad accettare una donazione fatta dal dott. ing. Aldo Ruffi.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 29 febbraio 1960
+ Atti del Governo, registro n. 124, foglio n. 119. - VILLA
+

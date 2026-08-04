@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 635
+data: 1938-03-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-03-21;635
+codice_redazionale: 038U0635
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:58Z
+---
+
+REGIO DECRETO
+                21 marzo 1938
+                635
+                Erezione in ente morale della Cassa scolastica della Regia scuola tecnica a indirizzo industriale «Francesco Trani» di Salerno. (038U0635)
+
+Entrata in vigore del provvedimento: 17/06/1938
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

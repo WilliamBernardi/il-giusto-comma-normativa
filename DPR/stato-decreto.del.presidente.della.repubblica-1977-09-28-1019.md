@@ -1,0 +1,160 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1019
+data: 1977-09-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-09-28;1019
+codice_redazionale: 077U1019
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 settembre 1977
+                1019
+                Esecuzione degli accordi firmati a Bruxelles il 15 ottobre 1974 ed il 21 aprile 1975 tra 11 Governo italiano e l'Organizzazione del trattato Nord Atlantico ed suoi organi, relativi all'applicazione del titolo IV della convenzione di Ottawa del 20 settembre 1951 ai funzionari degli organismi civili della NATO situati nel territorio della Repubblica, nonche' all'istituzione di un'agenzia della N.I.C.S.O. (NATO Integrated Communications System Organization) in Italia.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Piena ed intera esecuzione e' data a decorrere dalla sua entrata in 
+vigore in conformita' all'art. 6, all'accordo, con scambio di note, firmato a Bruxelles il 15 ottobre 1974, tra il Governo italiano e l'Organizzazione del trattato del Nord Atlantico relativo all'applicazione del titolo IV della convenzione sullo statuto dell'Organizzazione del trattato Nord Atlantico, dei rappresentanti nazionali e del personale internazionale, firmata a Ottawa il 20 settembre 1951, ai funzionari degli organismi civili della NATO situati nel territorio della Repubblica.
+
+## Art. 2.
+
+Piena ed intera esecuzione e' data a decorrere dalla sua entrata in 
+vigore in conformita' all'articolo 5, all'accordo, firmato a Bruxelles il 21 aprile 1975, tra il Governo italiano e la N.I.C.S.O. (NATO Integrated Communications System Organization) per l'istituzione di un'agenzia della N.I.C.S.O. in Italia.
+
+### Art. 1.
+
+ACCORDO TRA IL GOVERNO DELLA REPUBBLICA ITALIANA E L'ORGANIZZAZIONE DEL TRATTATO DEL NORD ATLANTICO RELATIVO ALL'APPLICAZIONE DEL 
+ TITOLO IV DELLA CONVENZIONE SULLO STATUTO DELL'ORGANIZZAZIONE DEL  TRATTATO NORD ATLANTICO, DEI RAPPRESENTANTI NAZIONALI E DEL 
+ PERSONALE INTERNAZIONALE, FIRMATA AD OTTAWA IL 20 SETTEMBRE 1951,  AI FUNZIONARI DEGLI ORGANISMI CIVILI DELLA NATO, SITUATI NEL 
+ TERRITORIO DELLA REPUBBLICA, E SCAMBIO DI NOTE. 
+ 
+ Bruxelles, 15 ottobre 1974 
+ 
+ IL GOVERNO DELLA REPUBBLICA ITALIANA 
+ E 
+ L'ORGANIZZAZIONE DEL TRATTATO NORD ATLANTICO 
+ 
+ Considerato che il Governo italiano ha accettato l'invito di 
+accogliere a Taranto il deposito dell'agenzia NATO di manutenzione e rifornimento - NAMSA - (qui di seguito denominato deposito NAMSA sud); 
+ Considerato che nell'evoluzione della struttura dell'Organizzazione 
+si potra' rendere necessaria l'installazione nel territorio della Repubblica italiana di altri organismi civili della NATO; 
+ Considerata la necessita' che i funzionari dell'organizzazione in servizio presso il deposito NAMSA sud, e presso gli altri organismi civili della NATO che potranno essere istituiti nel territorio della Repubblica beneficiano, per l'esercizio delle loro funzioni ed il compimento della loro missione, dei privilegi e delle immunita' previste al titolo IV della "Convenzione sullo statuto dell'Organizzazione del trattato del Nord Atlantico, dei rappresentanti nazionali e del personale internazionale", firmata ad Ottawa il 20 settembre 1951, e qui di seguito denominata convenzione di Ottawa; 
+ In applicazione dell'articolo XVII della predetta convenzione, 
+ Convengono quanto segue: 
+ 
+ Articolo 1 
+ 
+ 1. Le categorie dei funzionari della NATO, ai quali si applicano 
+nel territorio della Repubblica italiana i privilegi e le immunita' previsti dagli articoli XVIII e XIX della convenzione di Ottawa, comprendono: 
+ a) i funzionari appartenenti alle categorie A, L, B e C previsti dal regolamento del personale civile della NATO, in servizio presso il deposito NAMSA sud e presso gli altri organismi civili dell'Organizzazione situati nel territorio della Repubblica italiana; 
+ b) il personale appartenente alle Forze di terra, di mare e 
+dell'aria di ogni Stato parte del trattato Nord Atlantico assegnato al predetto deposito o agli altri organismi civili della NATO siti nel territorio della Repubblica. 
+ 2. L'immunita' dalla giurisdizione prevista all'art. XVIII (a) 
+della convenzione di Ottawa non potra' essere invocata in caso di azioni civili o penali derivanti dall'uso di veicoli a motore.
+
+### Art. 2.
+
+Ai cittadini italiani funzionari, agenti o comunque membri del 
+personale della NATO in servizio presso il deposito NAMSA sud o presso altri organismi civili della NATO situati nel territorio della Repubblica non si applicano le disposizioni contenute nell'art. XVIII della convenzione di Ottawa.
+
+### Art. 3.
+
+I cittadini italiani in servizio presso il deposito NAMSA sud o 
+presso gli altri organismi civili della NATO situati nel territorio della Repubblica, ed appartenenti ad una delle categorie specificate nell'art. 1 del presente accordo, godono soltanto dei privilegi e delle immunita' previste ai paragrafi (a), (b) e (c) dell'art. XXIII della convenzione di Ottawa.
+
+### Art. 4.
+
+L'esenzione dalla tassazione sugli assegni ed emolumenti 
+corrisposti dall'Organizzazione, prevista dall'art. XIX della convenzione di Ottawa, si applica ai cittadini italiani appartenenti alle categorie specificate nell'art. 1 del presente accordo, limitatamente agli assegni ed emolumenti loro corrisposti dall'Organizzazione o dagli organismi civili situati nel territorio della Repubblica.
+
+### Art. 5.
+
+1. Il Segretario generale della NATO comunichera' al Governo della Repubblica italiana, non appena possibile e comunque non oltre il 10 gennaio di ogni anno, la lista nominativa e con l'indicazione del grado e della qualifica dei funzionari della NATO in servizio presso il deposito NAMSA sud o presso gli altri organismi civili della NATO situati nel territorio della Repubblica. 
+ 2. Ogni modifica intervenuta negli effettivi, nei gradi e nelle 
+qualifiche dei predetti funzionari sara' comunicata in tempo utile al Governo della Repubblica italiana.
+
+### Art. 6.
+
+1. Il presente accordo entrera' in vigore il giorno in cui il 
+Segretario generale della NATO sara' stato informato dal Governo della Repubblica italiana che le condizioni prescritte in Italia per la sua entrata in vigore sono state adempiute, con effetto dalla data dalla quale il deposito NAMSA sud ha iniziato a funzionare in Italia. 
+ 2. Il presente accordo potra' essere denunziato per iscritto da 
+ognuna delle Parti in qualunque momento; la denunzia avra' effetto sei mesi dopo la notifica. 
+ 
+ IN FEDE DI CHE, il Segretario generale della NATO, agendo in 
+applicazione dell'art. XVII della convenzione di Ottawa ed il rappresentante del Governo della Repubblica italiana, debitamente autorizzati a farlo, hanno firmato il presente accordo. 
+ 
+ FATTO a Bruxelles, il 15 ottobre 1974, in due originali, nelle 
+lingue italiana, francese ed inglese, i tre testi facenti ugualmente fede. 
+ Per il Governo della Repubblica italiana 
+ CATALANO 
+Per l'Organizzazione del trattato del Nord Atlantico 
+ LUNS
+
+### Art. 1.
+
+ACCORDO 
+ 
+ PER L'ISTITUZIONE DI UN'AGENZIA DELLA NICSO IN ITALIA 
+ 
+ 
+ IL GOVERNO DELLA REPUBBLICA ITALIANA 
+ E 
+ LA N.I.C.S.O. 
+ 
+rappresentata dal direttore generale della N.I.C.S.M.A., 
+ 
+ Vista la decisione del Consiglio Atlantico del 17 marzo 1971, con la quale veniva approvata l'istituzione della NICSO (NATO Integrated Communications System Organization); 
+ Considerata la necessita' di istituire un'agenzia della NICSO per l'espletamento delle funzioni di nazione ospite in Italia; 
+ Considerato che tra la Repubblica italiana e l'Organizzazione del trattato Nord Atlantico e' stato concluso il 15 ottobre 1974 a Bruxelles un accordo per regolare in modo uniforme ed organico le modalita' di applicazione del titolo IV della convenzione di Ottawa, firmata il 20 settembre 1951, ai funzionari dell'Organizzazione del trattato Nord Atlantico in servizio presso il deposito NAMSA Sud e presso gli altri organismi civili dell'Organizzazione situati nel territorio della Repubblica italiana; 
+ Hanno convenuto quanto segue: 
+ 
+ Articolo 1 
+ 
+ Viene installata in Italia un'agenzia della NICSO, denominata 
+"NICSMA Italia", qui appresso indicata "l'agenzia", col compito di svolgere le funzioni di nazione ospite per la realizzazione dei progetti NICS.
+
+### Art. 2.
+
+L'agenzia quale in parte integrante della NICSO e' un organismo 
+sussidiario NATO.
+
+### Art. 3.
+
+Per quanto concerne lo status del personale dell'agenzia, i 
+privilegi e le immunita' allo stesso accordati, si applicano le disposizioni dell'accordo fra il Governo italiano e l'Organizzazione del trattato Nord Atlantico firmato a Bruxelles il 15 ottobre 1974 e di cui in preambolo.
+
+### Art. 4.
+
+L'agenzia, per le proprie attivita' svolte in Italia, gode dei 
+benefici e delle esenzioni fiscali e doganali, nonche' dell'esenzione da restrizioni quantitative all'importazione ed all'esportazione, previsti dalla citata convenzione di Ottawa e dalla legislazione italiana. 
+ La procedura per l'applicazione di dette esenzioni e benefici sara' 
+stabilita fra i rappresentanti del Governo italiano e il direttore generale della NICSMA.
+
+### Art. 5.
+
+Il presente accordo entrera' in vigore il giorno in cui il Governo italiano avra' notificato al direttore generale della NICSMA che le formalita' per la sua entrata in vigore sono state adempiute. 
+ 
+ IN FEDE DI CHE i sottoscritti, debitamente autorizzati dalle 
+rispettive autorita', hanno firmato il presente accordo. 
+ 
+ FATTO a Bruxelles il 21 aprile 1975 in duplice esemplare, nelle 
+lingue italiana ed inglese, i due testi facenti egualmente fede. 
+ Per il Governo 
+ della Repubblica italiana  Felice CATALANO DI MELLINI 
+ Per la NATO 
+Integrated Communications System 
+ Organization NATO 
+Il direttore generale della NICSMA 
+ BUCHS 
+ 
+ Visto, il Ministro per gli affari esteri 
+ FORLANI
+

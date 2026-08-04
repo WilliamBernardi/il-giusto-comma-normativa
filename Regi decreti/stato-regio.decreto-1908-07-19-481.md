@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 481
+data: 1908-07-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1908-07-19;481
+codice_redazionale: 008U0481
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:22Z
+---
+
+REGIO DECRETO
+                19 luglio 1908
+                481
+                Che estende al principato di Birkenfeld il consolato di Saarbrucken (008U0481)
+
+Entrata in vigore del provvedimento: 05/09/1908
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

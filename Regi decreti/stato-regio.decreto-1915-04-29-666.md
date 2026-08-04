@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 666
+data: 1915-04-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-04-29;666
+codice_redazionale: 015U0666
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:17Z
+---
+
+REGIO DECRETO
+                29 aprile 1915
+                666
+                Col quale e' approvata la convenzione stipulata il 20 aprile 1915 con la « Societa' per le ferrovie meridionali sarde » per la concessione della costruzione e dell'esercizio della ferrovia da Siliqua a Calasetta con diramazione da Palmas Suergiu ad Iglesias (015U0666)
+
+Entrata in vigore del provvedimento: 11/06/1915
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1039
+data: 1982-10-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-10-13;1039
+codice_redazionale: 082U1039
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 ottobre 1982
+                1039
+                Riconoscimento, agli effetti civili, della erezione del beneficio minore o cappellania corale "S. Girolamo Miani" nella basilica cattedrale di S. Marco evangelista, in Venezia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 ottobre 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto del Patriarca di Venezia 1 giugno 1981, relativo alla erezione del beneficio minore o cappellania corale "S. Girolamo Miani" nella basilica cattedrale di S. Marco evangelista, in Venezia.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 17 gennaio 1983
+ Registro n. 2 Interno, foglio n. 87
+

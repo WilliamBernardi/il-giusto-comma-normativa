@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1362
+data: 1969-07-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-07-22;1362
+codice_redazionale: 069U1362
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 luglio 1969
+                1362
+                Autorizzazione al Patronato ACLI per i servizi sociali dei lavoratori ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 luglio 1969, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Patronato ACLI per i servizi sociali dei lavoratori viene autorizzato ad acquistare per il prezzo di L. 8.000.000, dalla societa' immobiliare "Saetta", l'appartamento sito in Modena, al primo piano di via Campanella n. 55, della superficie di mq. 214,52 piu' cantina di mq. 6,93.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 31 ottobre 1970
+ Atti del Governo, registro n. 238, foglio n. 23. - CARUSO
+

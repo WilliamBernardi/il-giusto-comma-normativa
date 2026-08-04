@@ -1,0 +1,142 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 7
+data: 1976-01-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-01-21;7
+codice_redazionale: 076U0007
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1991-06-25
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:46Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 gennaio 1976
+                7
+                Norme relative alle emissioni obbligazionarie da parte degli enti di credito fondiario ed edilizio e delle sezioni autonome per il finanziamento di opere pubbliche e di impianti di pubblica utilita' e all'adeguamento del regime giuridico dell'organizzazione e dell'attivita' dei predetti enti e sezioni.
+
+## - Titolo I ENTI ED OPERAZIONI DI CREDITO FONDIARIO ED EDILIZIO
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo II EMISSIONE, CIRCOLAZIONE E SORTEGGIO DELLE OBBLIGAZIONI
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo III INTERESSI DI MORA E PROCEDIMENTO ESECUTIVO
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo IV UTILI E RISERVE
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo V VIGILANZA
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo VI DISPOSIZIONI VARIE
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo VII OPERAZIONI DI CREDITO EDILIZIO
+
+## Art. 23. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo VIII OPERAZIONI DI CREDITO ALLE OPERE PUBBLICHE
+
+## Art. 24. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## - Titolo IX DISPOSIZIONI TRANSITORIE E FINALI
+
+## Art. 25. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+
+## Art. 26. — ((PROVVEDIMENTO ABROGATO DALLA L. 6 GIUGNO 1991, N. 175))
+
+
+

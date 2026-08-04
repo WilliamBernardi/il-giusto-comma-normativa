@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 30
+data: 1969-01-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-01-21;30
+codice_redazionale: 069U0030
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 gennaio 1969
+                30
+                Autorizzazione all'"Istituto maestre pie Venerini", con sede in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 gennaio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, l'"Istituto maestre pie Venerini", con sede in Roma, viene autorizzato ad acquistare da Giuliana Angelo ed altri 23 eredi di Giuliana Francesca, un immobile sito in Roma, via Giovanni Antonio Rayneri n. 1, costituito da un fabbricato di vecchia costruzione con annessa area scoperta e una superficie totale di mq. 250 circa, composto di piano seminterrato, tre piani soprastanti e piano copertura, per complessivi vani 24 catastali, ai termini dell'atto n. 14869, raccolta n. 5604, a rogito notaio dott. Carlo Nannarone di Roma in data 14 luglio 1967 e del valore di L. 45.000.000.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 28 febbraio 1969
+ Atti del Governo, registro n. 225, foglio n. 100. - GRECO
+

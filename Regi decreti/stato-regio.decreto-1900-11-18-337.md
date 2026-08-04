@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1900-11-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1900-11-18;337
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:15Z
+---
+
+REGIO DECRETO
+                18 novembre 1900
+                CCCXXXVII
+                Che autorizza il comune di Perugia ad esigere un dazio di consumo sui pallini da caccia. (0000337R)
+
+Entrata in vigore del provvedimento: 25/12/1900
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

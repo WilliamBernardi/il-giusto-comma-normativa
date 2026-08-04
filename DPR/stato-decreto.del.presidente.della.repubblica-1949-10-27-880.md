@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 880
+data: 1949-10-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-10-27;880
+codice_redazionale: 049U0880
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 ottobre 1949
+                880
+                Riconoscimento della personalita' giuridica della Provincia napoletana dei Chierici regolari di San Paolo Decollato, detti Barnabiti, con sede in Napoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 ottobre 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta, la personalita' giuridica della Provincia napoletana dei Chierici regolari di San Paolo Decollato, detti Barnabiti, con sede in Napoli, e viene autorizzato, il trasferimento ad casa di beni immobili del valore approssimativo di L. 10.401.500.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 3 dicembre 1949
+

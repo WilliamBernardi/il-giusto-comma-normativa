@@ -1,0 +1,42 @@
+---
+tipo: REGIO DECRETO
+numero: 4887
+data: 1879-05-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-05-15;4887
+codice_redazionale: 079U4887
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:29Z
+---
+
+REGIO DECRETO
+                15 maggio 1879
+                4887
+                Che autorizza la conversione in rendita consolidala di alcuni titoli di debiti redimibili. (079U4887)
+
+Entrata in vigore del provvedimento: 26/06/1879
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

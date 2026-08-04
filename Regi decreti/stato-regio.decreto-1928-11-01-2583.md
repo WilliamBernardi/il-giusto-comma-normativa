@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2583
+data: 1928-11-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-11-01;2583
+codice_redazionale: 028U2583
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:08Z
+---
+
+REGIO DECRETO
+                01 novembre 1928
+                2583
+                Autorizzazione alla Regia universita' di Padova ad accettare una donazione per l'istituzione di una borsa di studio da intitolare al nome del sottotenente dott. Luigi Dal Bianco. (028U2583)
+
+Entrata in vigore del provvedimento: 18/12/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

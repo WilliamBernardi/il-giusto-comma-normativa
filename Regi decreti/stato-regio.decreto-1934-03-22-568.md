@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 568
+data: 1934-03-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1934-03-22;568
+codice_redazionale: 034U0568
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:50Z
+---
+
+REGIO DECRETO
+                22 marzo 1934
+                568
+                Concessione della protezione temporanea alle invenzioni industriali, ai modelli e disegni di fabbrica relativi ad oggetti che figureranno nella V Fiera del Levante di Bari. (034U0568)
+
+Entrata in vigore del provvedimento: 01/05/1934
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

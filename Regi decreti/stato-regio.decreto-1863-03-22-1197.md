@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1197
+data: 1863-03-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-03-22;1197
+codice_redazionale: 063U1197
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:28Z
+---
+
+REGIO DECRETO
+                22 marzo 1863
+                1197
+                Il numero delle compagnie di deposito dei Reggimenti Zappatori del Genio e' ridotto a due per ogni Reggimento. (063U1197)
+
+Entrata in vigore del provvedimento: 02/05/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

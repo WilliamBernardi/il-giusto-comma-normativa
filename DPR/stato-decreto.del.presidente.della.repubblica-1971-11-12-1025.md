@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1025
+data: 1971-11-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-11-12;1025
+codice_redazionale: 071U1025
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 novembre 1971
+                1025
+                Trasferimento di un posto di tecnico laureato di ruolo dall'istituto di statistica presso la facolta' di economia e commercio dell'Universita' degli studi di Messina, all'istituto di scienze demografiche presso la facolta' di economia e commercio dell'Universita' degli studi di Palermo.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto legislativo 7 maggio 1948, n. 1172, ratificato e modificato dalla legge 24 giugno 1950, n. 465;
+ Vista la legge 3 novembre 1961, n. 1255;
+ Visto il decreto del Presidente della Repubblica 18 luglio 1967, n. 845, con il quale, tra gli altri, sono stati assegnati posti n. 1 di tecnico laureato di ruolo all'istituto di statistica presso la facolta' di economia e commercio dell'Universita' degli studi di Messina;
+ Viste le accluse deliberazioni del senato accademico e della facolta' di economia e commercio della suddetta Universita' degli studi di Messina adottate nelle sedute del 23 aprile 1971, 5 e 25 ottobre 1971;
+ Viste le accluse deliberazioni del senato accademico e della facolta' di economia e commercio dell'Universita' degli studi di Palermo adottate nelle sedute del 22 maggio 1971 e 2 luglio 1971;
+
+ Decreta:
+
+ A decorrere dal 1 novembre 1971, il posto di tecnico laureato indicato nelle premesse, presentemente assegnato all'istituto di statistica presso la facolta' di economia e commercio dell'Universita' degli studi di Messina, e' trasferito all'istituto di scienze demografiche presso la facolta' di economia e commercio dell'Universita' degli studi di Palermo.
+

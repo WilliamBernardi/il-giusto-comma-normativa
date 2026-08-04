@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1864-03-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1864-03-03;1149
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:52Z
+---
+
+REGIO DECRETO
+                03 marzo 1864
+                MCXLIX
+                Che approva il regolamento di polizia rurale pel Comune di Thures. (6401149R)
+
+Entrata in vigore del provvedimento: 03/03/1864
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

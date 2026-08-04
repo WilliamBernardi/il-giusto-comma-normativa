@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 64
+data: 1908-02-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1908-02-13;64
+codice_redazionale: 008U0064
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:12Z
+---
+
+REGIO DECRETO
+                13 febbraio 1908
+                64
+                Che sostituisce l'art. 81 del regolamento sulla coltivazione indigena del tabacco. (008U0064)
+
+Entrata in vigore del provvedimento: 21/03/1908
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

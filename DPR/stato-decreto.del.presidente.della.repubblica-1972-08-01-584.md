@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 584
+data: 1972-08-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-01;584
+codice_redazionale: 072U0584
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 agosto 1972
+                584
+                Riconoscimento, agli effetti civili, della erezione della vicaria perpetua autonoma di S. Mauro vescovo, nel comune di Cesena.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 agosto 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Cesena in data 20 giugno 1968, integrato con due dichiarazioni del 7 luglio e 23 agosto 1971, relativo alla erezione della vicaria perpetua autonoma di S. Mauro vescovo, in localita' Celincordia del comune di Cesena (Forli'). 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 5 ottobre 1972 
+ Atti del Governo, registro n. 251, foglio n. 78. - CARUSO
+

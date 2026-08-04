@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1036
+data: 1932-04-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-04-14;1036
+codice_redazionale: 032U1036
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:47Z
+---
+
+REGIO DECRETO
+                14 aprile 1932
+                1036
+                Contributo dovuto dallo Stato al comune di Pesaro per la diretta amministrazione delle scuole elementari dell'ex comune di Candelara. (032U1036)
+
+Entrata in vigore del provvedimento: 16/09/1932
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

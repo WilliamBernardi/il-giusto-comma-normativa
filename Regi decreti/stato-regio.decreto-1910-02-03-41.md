@@ -1,0 +1,25 @@
+---
+tipo: REGIO DECRETO
+data: 1910-02-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-02-03;41
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:29Z
+---
+
+REGIO DECRETO
+                03 febbraio 1910
+                XLI
+                Col quale l'asilo infantile di Orago in comune di Ierago (Milano) e' eretto in ente morale ed e' approvato lo statuto organico. (1000041R)
+
+Entrata in vigore del provvedimento: 22/03/1910
+
+## Art. 1.
+
+Sulla proposta del ministro dell'interno: 
+ 
+ N. XLI (Dato a Roma, il 3 febbraio 1910), col quale l'asilo infantile di Orago in comune di Ierago (Milano) e' eretto in ente morale ed e' approvato lo statuto organico relativo.
+

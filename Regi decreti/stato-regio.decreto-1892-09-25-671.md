@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1892-09-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-09-25;671
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:59Z
+---
+
+REGIO DECRETO
+                25 settembre 1892
+                DCLXXI
+                Che aggiunge un'ottava classe alle sette ordinarie per il riparto dei contribuenti della tassa sugli industriali e commercianti a favore della camera di commercio ed arti di Lucca. (9200671R)
+
+Entrata in vigore del provvedimento: 30/10/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

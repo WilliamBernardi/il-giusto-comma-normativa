@@ -1,0 +1,199 @@
+---
+tipo: DECRETO
+numero: 301
+data: 2006-11-19
+titolo: ""
+urn: urn:nir:ministero.politiche.agricole.alimentari.e.forestali:decreto:2006-11-19;301
+codice_redazionale: 006G0317
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:41Z
+---
+
+DECRETO
+                19 novembre 2006
+                301
+                Regolamento recante disciplina delle modalita' di svolgimento del corso di formazione iniziale per la conferma nel ruolo direttivo dei funzionari del Corpo forestale dello Stato, in attuazione del decreto legislativo 3 aprile 2001, n. 155.
+
+Entrata in vigore del provvedimento: 12/1/2007
+
+di concerto con
+
+IL MINISTRO DELL'INTERNO
+
+Sentito il parere delle organizzazioni sindacali del personale del Corpo forestale dello Stato maggiormente rappresentative;
+
+Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 9 agosto 2006;
+
+## Art. 1. — Ambito del regolamento
+
+Il presente regolamento disciplina le modalita' di svolgimento del corso di formazione iniziale per la conferma nel ruolo direttivo dei funzionari del Corpo forestale dello Stato, i criteri generali del tirocinio operativo, i criteri per la formazione dei giudizi di idoneita', le modalita' di svolgimento dell'esame finale, nonche' i criteri per la formazione della graduatoria di fine corso.
+
+## Art. 2. — Svolgimento del corso
+
+Il corso di formazione iniziale, della durata di due anni, si svolge presso la Scuola superiore di polizia ed e' articolato in due cicli annuali comprensivi del tirocinio operativo presso strutture del Corpo forestale dello Stato, alla fine dei quali si sostiene l'esame finale.
+
+Sono ammessi al secondo ciclo i frequentatori che superano gli esami e le altre prove previste dal piano di studio come obiettivi formativi del primo ciclo ed abbiano ottenuto il giudizio d'idoneita' di cui all'articolo 11.
+
+Superati gli esami e le altre prove costituenti gli obiettivi formativi previsti dal piano di studio per il secondo ciclo, i frequentatori sono ammessi a sostenere l'esame finale.
+
+## Art. 3. — Piano di studio
+
+Il piano di studio del corso, elaborato in coerenza, ove possibile, con le norme concernenti l'autonomia didattica degli atenei, e' stabilito con decreto del Capo del Corpo forestale dello Stato, d'intesa con il direttore della Scuola superiore di polizia, su proposta del Capo del competente Servizio dell'Ispettorato generale.
+
+Il piano di studio tiene conto dei compiti e delle funzioni del personale del ruolo direttivo dei funzionari del Corpo forestale dello Stato, nonche' delle specificita' di ciascun profilo professionale del ruolo, in relazione ai requisiti culturali e alla tipologia della prestazione lavorativa.
+
+Il piano di studio individua le finalita' qualificanti, le aree didattiche del corso, le materie di insegnamento, i relativi programmi, i docenti ed il numero di ore d'insegnamento, nonche' gli esami, le prove e gli obiettivi formativi previsti per il primo ed il secondo ciclo del corso.
+
+## Art. 4. — Articolazione del percorso formativo
+
+L'insegnamento, l'addestramento, l'applicazione allo studio ed alla ricerca individuale e di gruppo, l'organizzazione delle attivita' culturali e sportive obbligatorie ed elettive, i periodi di tirocinio o di applicazione pratica costituiscono percorso formativo coerente con le finalita' fissate dal piano di studio. Allo stesso fine concorrono le regole della convivenza e le altre attivita' interne alla Scuola superiore di polizia.
+
+Il corso si svolge in regime convittuale.
+
+Le attivita' didattiche si svolgono, di massima, nelle ore antimeridiane e pomeridiane, dal lunedi' al venerdi', e sono articolate in ore didattiche e pause di intervallo per un ammontare complessivo non superiore alle trentasei ore effettive settimanali.
+Per specifiche esigenze formative, le stesse attivita', tuttavia, possono essere organizzate anche in orari e giornate diversi ed in eccedenza rispetto al limite delle trentasei ore, fatto salvo il diritto dei frequentatori al recupero, nelle quattro settimane successive, della giornata festiva eventualmente non fruita.
+
+Il percorso formativo e' sviluppato dal calendario settimanale delle attivita', complessivamente non superiore alle quarantadue ore settimanali, definito dal direttore del corso, di cui al successivo articolo 5, d'intesa con il competente ufficio della Scuola superiore di polizia.
+
+Durante i periodi di tirocinio o di applicazione pratica il calendario delle attivita' dei frequentatori, organizzato in modo da favorirne la partecipazione per non piu' di otto ore giornaliere alle attivita' operative di particolare interesse formativo, e' stabilito dal dirigente dell'ufficio o della struttura presso cui si svolgono il tirocinio o l'applicazione, che ne informa il direttore del corso.
+Il calendario settimanale delle attivita' costituisce per i frequentatori orario di servizio.
+
+Fermo restando quanto eventualmente disposto dalle norme in materia di autonomia didattica degli atenei, il percorso formativo del corso si articola in moduli trimestrali, semestrali ed annuali in relazione alle esigenze di sviluppo dei contenuti previsti dal piano di studio. Al termine di ciascun modulo i frequentatori possono essere sottoposti ad esami, prove o verifiche, il cui esito concorre alla formazione della graduatoria finale di cui al successivo articolo 18.
+
+## Art. 5. — Direttore del corso e sezioni didattiche
+
+Con decreto del Capo del Corpo forestale dello Stato e' nominato, quale direttore del corso, un dirigente del Corpo forestale dello Stato.
+
+Il direttore del corso e' responsabile dell'articolazione del percorso formativo e della gestione e dell'amministrazione dei frequentatori, cura i rapporti con i docenti, la logistica, lo svolgimento delle attivita' di addestramento e adotta le iniziative di organizzazione per il piu' efficace espletamento del percorso formativo. A tali fini si avvale della segreteria del corso, appositamente costituita, cui e' preposto un funzionario del ruolo direttivo del Corpo forestale dello Stato.
+
+Al fine di assicurare l'efficacia dell'attivita' didattica, in relazione al numero di frequentatori, il corso puo' essere ripartito in piu' sezioni didattiche. A ciascuna sezione didattica e' preposto un funzionario del ruolo direttivo del Corpo forestale dello Stato.
+
+I funzionari preposti alle sezioni didattiche, svolgono compiti di inquadramento e di addestramento professionale e contribuiscono all'acquisizione agli atti di ufficio di elementi di valutazione ai fini dell'attribuzione dei giudizi di idoneita'.
+
+Con decreto del Capo del Corpo forestale dello Stato vengono nominati i funzionari preposti alle sezioni didattiche, il funzionario preposto alla segreteria del corso ed il personale ad essa addetto.
+
+## Art. 6. — Frequenza del corso
+
+Ai fini del raggiungimento dei limiti massimi di assenza previsti per le dimissioni dal corso si computano le giornate di effettiva attivita' didattica.
+
+La mancata partecipazione, anche in giornate diverse, alle attivita' previste dall'orario delle lezioni, per un totale di otto ore, costituisce assenza da una giornata didattica.
+
+Non sono in ogni caso considerate d'assenza le giornate in cui i frequentatori abbiano dovuto prestare testimonianza davanti all'autorita' giudiziaria.
+
+Fermo restando quanto previsto dall'articolo 5, comma 2, del decreto legislativo 3 aprile 2001, n. 155, i periodi di congedo straordinario o aspettativa fruiti a qualsiasi titolo costituiscono assenza dall'attivita' didattica.
+
+L'assistenza sanitaria ed i provvedimenti medico-legali nei confronti dei frequentatori del corso sono di competenza del medico della Polizia di Stato responsabile dell'ufficio sanitario della Scuola superiore di polizia. Le modalita' organizzative del servizio e la quantificazione dei relativi oneri saranno disciplinate dalla convenzione di cui al successivo articolo 19.
+
+I frequentatori del corso giudicati temporaneamente non idonei ai compiti d'istituto per motivi di salute possono essere ammessi a partecipare ad attivita' didattiche compatibili, a giudizio del medico della Polizia di Stato di cui al precedente comma 5, con la natura della malattia da cui sono affetti.
+
+I frequentatori del corso fruiscono del congedo ordinario durante i periodi di sospensione dell'attivita' didattica previsti dal piano di studio.
+
+Durante la frequenza del corso non e' ammessa la partecipazione ad attivita' didattiche diverse da quelle previste dal calendario del piano di studio.
+
+I frequentatori del corso hanno l'obbligo di rispettare il regolamento vigente all'interno della Scuola superiore di polizia, ivi compreso l'uso, ove prescritto, dell'uniforme del Corpo forestale dello Stato, assegnata ai frequentatori medesimi.
+
+## Art. 7. — Tirocinio operativo
+
+La durata del tirocinio operativo e' stabilita dal piano di studio.
+
+Il tirocinio puo' essere effettuato in periodi diversi, anche non consecutivi, presso strutture, uffici e reparti del Corpo forestale dello Stato, operanti in aree differenziate di impiego.
+
+## Art. 8. — Criteri di svolgimento del tirocinio operativo
+
+Le modalita' di applicazione dei frequentatori alle attivita' svolte dagli uffici e dai reparti vengono curate da funzionari coordinatori, coadiuvati da funzionari affidatari.
+
+I funzionari coordinatori sono individuati nei responsabili degli uffici del Corpo forestale dello Stato o loro delegati sempre che appartenenti al ruolo direttivo del Corpo medesimo.
+
+I funzionari coordinatori vigilano sul regolare svolgimento del tirocinio, favoriscono il graduale inserimento dei tirocinanti nei vari settori di attivita' attraverso momenti di verifica, di dialogo e contatti costanti con i funzionari affidatari.
+
+I funzionari affidatari sono individuati nei responsabili delle articolazioni interne degli uffici cui vengono assegnati i frequentatori.
+
+I funzionari affidatari illustrano ai tirocinanti le modalita' di organizzazione e direzione dei servizi d'istituto nei principali settori di attivita', i relativi aspetti amministrativi, nonche' i profili di gestione delle risorse umane e materiali.
+
+Il competente Servizio, d'intesa con i responsabili degli uffici interessati, assicura la supervisione sulle attivita' di tirocinio anche a mezzo del direttore del corso.
+
+Per i funzionari coordinatori e per quelli affidatari, l'espletamento dei compiti formativi previsti dal presente articolo costituisce adempimento del dovere d'ufficio.
+
+## Art. 9. — Criteri di impiego operativo
+
+Durante il tirocinio i frequentatori partecipano alle attivita' operative in qualita' di osservatori, sotto la responsabilita' e la guida dei funzionari preposti alle stesse, al solo scopo di prendere conoscenza delle concrete modalita' di svolgimento dei servizi.
+
+In tali occasioni, prima e dopo l'impiego dei tirocinanti, vengono tenute dai responsabili dei servizi apposite riunioni per illustrare gli aspetti preparatori, organizzativi ed attuativi dei servizi stessi, nonche' per esaminare le difficolta' operative di volta in volta incontrate e le soluzioni prese per superarle.
+
+## Art. 10. — Note valutative del tirocinio
+
+Al termine del tirocinio i funzionari coordinatori delle strutture presso le quali si e' svolto lo stesso, anche sulla base delle indicazioni scritte fornite dai funzionari affidatari e dai funzionari che li hanno impiegati nei servizi operativi, redigono per ciascun frequentatore una nota valutativa su impegno e comportamento dimostrati e la rimettono al direttore del corso.
+
+## Art. 11. — Attribuzione dei giudizi di idoneita'
+
+Il giudizio d'idoneita' per l'ammissione al secondo ciclo ed il giudizio di idoneita' al servizio nel Corpo forestale dello Stato sono espressi, sentito il comitato direttivo del corso di cui al successivo articolo 12, anche in relazione alle risultanze degli atti d'ufficio, da un dirigente del Corpo forestale dello Stato di qualifica non inferiore a dirigente superiore, nominato con decreto del Capo del Corpo medesimo.
+
+I giudizi sono sintetizzati in una nota valutativa, con l'attribuzione di un punteggio da 0 a 3 per ogni singolo parametro.
+
+L'idoneita' e' conseguita con l'attribuzione di un punteggio complessivo non inferiore a 18/30; non e' conseguita se, anche in un solo parametro, viene riportato il punteggio di 0.
+
+## Art. 12. — Comitato direttivo del corso presso la Scuola superiore di polizia
+
+Il comitato direttivo del corso, costituito presso la Scuola superiore di polizia nell'ambito di ciascun corso e per la durata dello stesso, e' organo di consulenza del dirigente del Corpo forestale dello Stato competente per l'attribuzione dei giudizi di idoneita'.
+
+Fanno parte del comitato direttivo tre dirigenti preposti a Servizi dell'Ispettorato generale del Corpo forestale dello Stato, un dirigente della Scuola superiore di polizia, il direttore del corso e non meno di tre docenti prescelti tra coloro che svolgono attivita' didattica nell'ambito del corso.
+ 3 . Il comitato e' nominato con decreto del Capo del Corpo forestale dello Stato, sentito il direttore della Scuola superiore di polizia.
+ 4. Il comitato direttivo, convocato dal dirigente competente al rilascio dei giudizi di idoneita', esprime parere non vincolante, risultante da apposito verbale, per l'attribuzione dei giudizi d'idoneita' di cui al precedente articolo 11, sulla base dei medesimi criteri ivi enunciati.
+ 5. Il comitato delibera a maggioranza assoluta dei presenti. Per la validita' delle sedute e' richiesta la presenza di tutti i componenti.
+ 6. Le attivita' di supporto sono assicurate da un funzionario del ruolo direttivo del Corpo forestale dello Stato.
+
+## Art. 13. — Commissioni giudicatrici degli esami e delle altre prove
+
+Le commissioni giudicatrici degli esami e delle altre prove previste dal piano di studio del corso sono nominate con decreto del Capo del Corpo forestale dello Stato, d'intesa con il direttore della Scuola superiore di polizia, su proposta del responsabile del competente Servizio dell'Ispettorato generale del Corpo medesimo.
+
+Le commissioni possono essere articolate, per particolari esigenze organizzative, unico restando il presidente, in piu' sottocommissioni.
+
+## Art. 14. — Valutazione degli esami e delle prove
+
+Gli esami e le altre prove previste dal piano di studio sono valutati con un voto espresso in trentesimi. Gli stessi si intendono superati con una votazione non inferiore a 18/30.
+
+## Art. 15. — Commissione giudicatrice dell'esame finale
+
+La commissione giudicatrice dell'esame finale del corso e' nominata con decreto del Capo del Corpo forestale dello Stato, d'intesa con il direttore della Scuola superiore di polizia, su proposta del competente Servizio dell'Ispettorato generale del Corpo medesimo.
+
+La commissione e' composta da un dirigente del Corpo forestale dello Stato con qualifica non inferiore a dirigente superiore, che la presiede, da un dirigente del Corpo medesimo, con funzioni di vice presidente, da un dirigente della Scuola superiore di polizia e da un numero di componenti, non inferiore a quattro, individuati tra i docenti del corso, di cui almeno uno scelto tra i docenti esterni all'Amministrazione.
+
+Le funzioni di segretario sono svolte da un funzionario direttivo del Corpo forestale dello Stato.
+
+Con lo stesso decreto di nomina vengono designati uno o piu' componenti ed un segretario supplenti, in caso di impedimento dei titolari.
+
+## Art. 16. — Esame finale
+
+L'esame finale consiste nella discussione di una tesi, anche di carattere interdisciplinare, relativa ad argomenti compresi nel piano di studio.
+
+La commissione d'esame provvede a stabilire gli argomenti sui quali dovranno essere svolte le tesi e a fissare, in relazione al calendario delle prove d'esame, il termine per la consegna degli elaborati.
+
+Il giudizio finale e' costituito da un voto espresso in trentesimi che valuta complessivamente la tesi e la discussione della stessa da parte del candidato.
+
+## Art. 17. — Sessioni suppletive e straordinarie
+
+I frequentatori del corso di formazione che per malattia o altro giustificato motivo non abbiano potuto sostenere nella sessione ordinaria tutti gli esami e le altre prove fissati dal piano di studio, ovvero che non li abbiano superati per insufficiente profitto, sono ammessi ad apposita sessione suppletiva, che puo' essere prevista anche nell'ambito dell'esame finale.
+
+I frequentatori del corso che non superano, nella sessione ordinaria o in quella suppletiva, tutti gli esami e le altre prove previsti dal piano di studio, sono dimessi dal corso ai sensi dell'articolo 5, comma 1, lettera c), del decreto legislativo 3 aprile 2001, n. 155.
+
+I frequentatori che, senza giustificato motivo accertato dal presidente della commissione d'esami, non si presentano ad una prova dell'esame finale vengono considerati rinunciatari e dimessi dal corso.
+
+I frequentatori che per malattia, o per altro grave motivo accertato dal presidente della commissione di esami, non abbiano potuto partecipare all'esame finale, sono ammessi a sostenerlo in una sessione straordinaria da effettuarsi entro quarantacinque giorni dalla conclusione dell'esame medesimo.
+
+Le prove gia' sostenute nella sessione ordinaria non devono essere ripetute.
+
+I frequentatori giudicati temporaneamente non idonei ai compiti d'istituto per motivi di salute possono essere ammessi a sostenere gli esami e le altre prove previsti dal piano di studio compatibili, a giudizio del medico della Polizia di Stato responsabile dell'ufficio sanitario della Scuola superiore di polizia, con la natura della malattia da cui sono affetti.
+
+## Art. 18. — Graduatoria finale
+
+La graduatoria finale e' formata sulla base del punteggio complessivo attribuito a ciascun frequentatore, aumentato come previsto dal successivo comma 4.
+
+Ai fini del calcolo di cui al comma 2 agli esami superati in sessione suppletiva cui il frequentatore sia stato ammesso per insufficiente profitto si intende attribuito il voto di 18/30.
+
+## Art. 19. — Rapporti tra le Amministrazioni
+
+Ai fini dell'organizzazione del corso i rapporti intercorrenti tra la Scuola superiore di polizia ed il Corpo forestale dello Stato, ivi compresa la definizione dei relativi oneri, saranno regolati da apposite convenzioni.
+

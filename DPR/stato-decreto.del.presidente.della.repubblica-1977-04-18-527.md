@@ -1,0 +1,44 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 527
+data: 1977-04-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-04-18;527
+codice_redazionale: 077U0527
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 aprile 1977
+                527
+                Assegnazione di un posto di tecnico laureato presso la facolta' di
+medicina e chirurgia dell'Universita' di Roma.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Veduta la legge 3 novembre 1961, n. 1255, ed in particolare la tabella B annessa alla legge stessa; 
+ Veduta la legge 3 giugno 1970, n. 380; 
+ Veduto il decreto-legge 1 ottobre 1973, n. 580, convertito, con modificazioni, in legge 30 novembre 1973, n. 766, ed in particolare l'art. 8; 
+ Considerato che con decreto Ministeriale in data 10 dicembre 1975 si e' provveduto, tra l'altro, a determinare, per l'anno 1976, l'incremento dei posti della carriera direttiva dei tecnici laureati degli istituti scientifici delle universita' e degli istituti di istruzione universitaria, conformemente a quanto previsto dal citato art. 8; 
+ Considerato, altresi', che per l'anno 1976 l'incremento dei posti di tecnico laureato ammonta complessivamente a duecentotredici unita' e che, operata la riserva di cui al quinto comma dell'art. 8 del suddetto decreto-legge n. 580/1973, i posti di tecnico laureato da conferire per pubblici concorsi risultano essere di centosei unita'; 
+ Considerato che con precedenti provvedimenti si e' provveduto ad assegnare quarantadue dei suddetti centosei posti di tecnico laureato; 
+ Valutato ogni opportuno elemento in ordine alle esigenze di funzionamento e alle necessita' scientificodidattiche del sottoindicato istituto; 
+ Ritenuta l'opportunita' di provvedere ad assegnare uno dei residui sessantaquattro posti di tecnico laureato; 
+ Sulla motivata proposta del Ministro per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Uno dei sessantaquattro posti di tecnico laureato indicato nelle premesse e' assegnato come segue: 
+ 
+ UNIVERSITA' DI ROMA 
+ 
+ Facolta' di medicina e chirurgia: 
+ 
+ Istituto di patologia speciale medica e metodologia clinica II posti 1.
+

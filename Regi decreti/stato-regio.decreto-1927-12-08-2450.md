@@ -1,0 +1,54 @@
+---
+tipo: REGIO DECRETO
+numero: 2450
+data: 1927-12-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-12-08;2450
+codice_redazionale: 027U2450
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:50Z
+---
+
+REGIO DECRETO
+                08 dicembre 1927
+                2450
+                Delimitazione dei confini fra i comuni di Aquila degli Abruzzi e di Pizzoli. (027U2450)
+
+Entrata in vigore del provvedimento: 19/01/1928
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383; 
+ 
+ Veduto il Nostro decreto 29 luglio 1927 - Anno V - n. 1564, col quale, fra altro, la frazione San Vittorino e' stata distaccata dal comune di Pizzoli ed aggregata a quello di Aquila degli Abruzzi, con riserva di provvedere con successivo decreto all'esatta delimitazione fra i Comuni anzidetti; 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ I confini fra i comuni di Aquila degli Abruzzi e di Pizzoli sono stabiliti in conformita' della pianta topografica vistata in data 13 novembre 1927 - Anno VI - n. 15266, dall'ingegnere capo dell'ufficio del Genio Civile di Aquila. 
+ 
+ Tale pianta, vistata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 dicembre 1927 - Anno VI 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 2 gennaio 1928 - Anno VI  
+ Atti del Governo, registro 268, foglio 4. - Sirovich.
+

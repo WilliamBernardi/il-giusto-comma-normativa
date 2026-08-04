@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 213
+data: 1974-03-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-27;213
+codice_redazionale: 074U0213
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 marzo 1974
+                213
+                Riconoscimento della personalita' giuridica di due fondazioni denominate "Generale Mario Marazzani, gia' comandante la 3° divisione celere sul fronte russo".
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 marzo 1974, col quale, sulla proposta del Ministro per la difesa, viene riconosciuta la personalita' giuridica ed approvato lo statuto di due fondazioni denominate "Generale Mario Marazzani, gia' comandante la 3° divisione celere sul fronte russo", una con sede presso il comando del 3° reggimento bersaglieri "Centauro", in Milano, e l'altra presso il comando del reggimento Piemonte cavalleria (2°), in Villa Opicina di Trieste.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 24 maggio 1974
+ Atti di Governo, registro n. 3, foglio n. 35. - SCIARRETTA
+

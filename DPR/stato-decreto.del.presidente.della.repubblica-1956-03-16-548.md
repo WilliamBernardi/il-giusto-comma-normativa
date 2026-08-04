@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 548
+data: 1956-03-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-03-16;548
+codice_redazionale: 056U0548
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 marzo 1956
+                548
+                Erezione in ente morale della Cassa scolastica della Scuola media statale di Carbonia (Cagliari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 marzo 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Carbonia (Cagliari) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 14 giugno 1956
+ Atti del Governo, registro n. 98, foglio n. 38. - CARLOMAGNO
+

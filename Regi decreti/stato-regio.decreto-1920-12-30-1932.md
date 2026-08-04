@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1932
+data: 1920-12-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1920-12-30;1932
+codice_redazionale: 020U1932
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:06Z
+---
+
+REGIO DECRETO
+                30 dicembre 1920
+                1932
+                Che istituisce presso il R. politecnico di Torino, la Cattedra di meccanica tecnica superiore. (020U1932)
+
+Entrata in vigore del provvedimento: 16/02/1921
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

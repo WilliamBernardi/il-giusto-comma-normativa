@@ -1,0 +1,49 @@
+---
+tipo: REGIO DECRETO
+data: 1883-10-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-10-01;1098
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:28Z
+---
+
+REGIO DECRETO
+                01 ottobre 1883
+                MXCVIII
+                Che erige in corpo morale l'asilo infantile di Dongo, e ne approva lo statuto. (8301098R)
+
+Entrata in vigore del provvedimento: 17/11/1883
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda diretta ad ottenere la costituzione in ente morale dell'asilo infantile di Dongo (Como), l'autorizzazione all'asilo medesimo di accettare la donazione del cav. Giovanni Battista Scalini consistente in un fabbricato con cortile del valore peritale di lire 8,510, e l'approvazione del suo statuto organico;
+
+Veduto il voto della deputazione provinciale;
+
+Vedute le leggi 5 giugno 1850, 3 agosto 1862 e il corrispondente regolamento 27 novembre stesso anno;
+
+## Art. 1.
+
+L'asilo infantile di Dongo (Como) e' costituito in ente morale, ed autorizzato ad accettare la donazione suindicata, e ne e' approvato lo statuto organico composto di diciassette articoli, visto e sottoscritto d'ordine Nostro del ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 1.° ottobre 1883. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 16 ottobre 1883 
+ 
+ Reg. 131 Atti del Governo a f. 12. Pellizzoli. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli SAVELLI. 
+ 
+ Depretis.
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1864-04-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1864-04-03;1169
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:08Z
+---
+
+REGIO DECRETO
+                03 aprile 1864
+                MCLXIX
+                Che autorizza la Camera di commercio e d'arti di Messina ad imporre una tassa annua sugli esercenti arti, commerci ed industrie nel suo distretto. (6401169R)
+
+Entrata in vigore del provvedimento: 15/05/1864
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

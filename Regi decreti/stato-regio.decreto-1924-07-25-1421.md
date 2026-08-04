@@ -1,0 +1,262 @@
+---
+tipo: REGIO DECRETO
+numero: 1421
+data: 1924-07-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-07-25;1421
+codice_redazionale: 024U1421
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:38Z
+---
+
+REGIO DECRETO
+                25 luglio 1924
+                1421
+                Approvazione di tre regolamenti riguardanti i personali tecnici civili d'artiglieria, del genio e del servizio chimico militare. (024U1421)
+
+Entrata in vigore del provvedimento: 08/10/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+### Art. 1.
+
+Allegato 1-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Allegato 1-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Allegato 1-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Allegato 1-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Allegato 1-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Allegato 1-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Allegato 1-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Allegato 1-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Allegato 1-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Allegato 1-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Allegato 1-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Allegato 1-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Allegato 1-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Allegato 1-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Allegato 1-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Allegato 1-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Allegato 1-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Allegato 1-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Allegato 1-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 20.
+
+Allegato 1-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 1.
+
+Allegato 2-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Allegato 2-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Allegato 2-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Allegato 2-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Allegato 2-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Allegato 2-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Allegato 2-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Allegato 2-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Allegato 2-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Allegato 2-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Allegato 2-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Allegato 2-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Allegato 2-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Allegato 2-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Allegato 2-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Allegato 2-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Allegato 2-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Allegato 2-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Allegato 2-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 20.
+
+Allegato 2-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 1.
+
+Allegato 3-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Allegato 3-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Allegato 3-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Allegato 3-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Allegato 3-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Allegato 3-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Allegato 3-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Allegato 3-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Allegato 3-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Allegato 3-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Allegato 3-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Allegato 3-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Allegato 3-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Allegato 3-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Allegato 3-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Allegato 3-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Allegato 3-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Allegato 3-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Allegato 3-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+

@@ -1,0 +1,24 @@
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 159
+data: 1945-03-08
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-03-08;159
+codice_redazionale: 045U0159
+vigente: true
+source: normattiva-opendata
+collection: Decreti legislativi luogotenenziali
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:37Z
+---
+
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+                08 marzo 1945
+                159
+                Proroga per un triennio della erogazione del contributo governativo per la pubblicazione degli atti delle assemblee costituzionali italiane. (045U0159)
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200, CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+
+

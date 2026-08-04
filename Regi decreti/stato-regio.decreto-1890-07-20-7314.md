@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+numero: 7314
+data: 1890-07-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-07-20;7314
+codice_redazionale: 090U7314
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:42Z
+---
+
+REGIO DECRETO
+                20 luglio 1890
+                7314
+                Con il quale, la R. Scuola normale femminile d'Aosta e' intitolata «Regina Maria Adelaide». (090U7314)
+
+Entrata in vigore del provvedimento: 08/01/1891
+
+## Art. 1.
+
+UMBERTO I. 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Perche' le virtu' che fecero caro e venerato il nome della Nostra amatissima Genitrice sieno ricordate come esempio di pieta' verso Dio, di amore alla Patria ed alla famiglia, di gentilezza di costumi e di affetti; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ La Regia Scuola normale femminile di Aosta e' intitolata «Regina Maria Adelaide». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 20 luglio 1890. 
+ 
+ UMBERTO. 
+ 
+ P. Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 6452
+data: 1889-10-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-10-17;6452
+codice_redazionale: 089U6452
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:03Z
+---
+
+REGIO DECRETO
+                17 ottobre 1889
+                6452
+                Che apporta modificazioni, come dall'annesso elenco, alla tabella che determina il numero e la residenza dei notari del Regno. (089U6452)
+
+Entrata in vigore del provvedimento: 20/11/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

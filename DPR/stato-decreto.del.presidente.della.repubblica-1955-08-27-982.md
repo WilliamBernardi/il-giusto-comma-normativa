@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 982
+data: 1955-08-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-27;982
+codice_redazionale: 055U0982
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 agosto 1955
+                982
+                Revoca della dichiarazione di zona di endemia malarica per tre Comuni della provincia di Padova.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 313 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265;
+ Visto l'art. 4 del regolamento per l'applicazione delle norme volte a diminuire le cause della malaria, approvato con regio decreto 28 gennaio 1935, n. 93;
+ Visto il decreto luogo-tenenziale 12 luglio 1945, numero 417, che ha istituito l'Alto Commissariato per l'igiene e la sanita' pubblica e il decreto legislativo 31 luglio 1945, n. 446, concernente l'odinamento e le attribuzioni di detto Alto Commissariato;
+ Visti i regi decreti 6 settembre 1902, n. 412 e 4 agosto 1904, n. 467, coi quali venivano, tra l'altro, dichiarate malariche le zone appartenenti ai comuni di Anguillara Veneta, Arzer Grande, Pontelongo;
+ Vista la proposta avanzata dal Prefetto di Padova, previo parere favorevole del Consiglio provinciale di sanita', di revoca totale delle dichiarazioni di zona malarica per i comuni di Anguillara Veneta, Arzer Granede, Pontelongo;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ Le dichiarazioni di zona di endemia malarica contenute nei regi decreti 6 settembre 1902, n. 412 e 4 agosto 1904, n. 467, relative ai comuni di Anguillara Veneta, Arzer Grande, Pontelongo, sono revocate.
+

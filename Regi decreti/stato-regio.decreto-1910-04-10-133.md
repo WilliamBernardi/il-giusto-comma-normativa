@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1910-04-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-04-10;133
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:17Z
+---
+
+REGIO DECRETO
+                10 aprile 1910
+                CXXXIII
+                Col quale e' data facolta' al comune di Sassocorvaro di applicare la tassa di famiglia nel triennio 1910-1912. (1000133R)
+
+Entrata in vigore del provvedimento: 20/05/1910
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

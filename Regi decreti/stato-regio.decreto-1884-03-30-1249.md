@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1884-03-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-03-30;1249
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:56Z
+---
+
+REGIO DECRETO
+                30 marzo 1884
+                MCCXLIX
+                Concernente la tassa di famiglia nel comune di Serrastretta. (8401249R)
+
+Entrata in vigore del provvedimento: 10/06/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

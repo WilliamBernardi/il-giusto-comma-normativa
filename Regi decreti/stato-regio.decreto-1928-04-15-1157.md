@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1157
+data: 1928-04-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-04-15;1157
+codice_redazionale: 028U1157
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:12:55Z
+---
+
+REGIO DECRETO
+                15 aprile 1928
+                1157
+                Abrogazione dei decreti Reali e Luogotenenziale relativi alla organizzazione del Corpo nazionale dei volontari ciclisti ed automobilisti. (028U1157)
+
+Entrata in vigore del provvedimento: 26/06/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

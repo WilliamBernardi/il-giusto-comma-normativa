@@ -1,0 +1,38 @@
+---
+tipo: REGIO DECRETO
+numero: 620
+data: 1928-02-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-02-12;620
+codice_redazionale: 028U0620
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:12:55Z
+---
+
+REGIO DECRETO
+                12 febbraio 1928
+                620
+                Provvedimenti relativi al Regi consolati in Ottawa e in Montreal. (028U0620)
+
+Entrata in vigore del provvedimento: 24/04/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

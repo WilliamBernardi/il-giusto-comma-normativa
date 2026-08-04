@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3707
+data: 1886-02-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1886-02-25;3707
+codice_redazionale: 086U3707
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:48Z
+---
+
+REGIO DECRETO
+                25 febbraio 1886
+                3707
+                Riguardante la Commissione istituita presso il Ministero dell'Interno col R. decreto n. 2773. (086U3707)
+
+Entrata in vigore del provvedimento: 26/03/1886
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

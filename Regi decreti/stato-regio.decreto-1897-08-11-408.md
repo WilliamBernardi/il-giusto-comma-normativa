@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 408
+data: 1897-08-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-08-11;408
+codice_redazionale: 097U0408
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:41Z
+---
+
+REGIO DECRETO
+                11 agosto 1897
+                408
+                Che dichiara soppressa la Scuola elementare maschile a pagamento in Smirne. (097U0408)
+
+Entrata in vigore del provvedimento: 30/09/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

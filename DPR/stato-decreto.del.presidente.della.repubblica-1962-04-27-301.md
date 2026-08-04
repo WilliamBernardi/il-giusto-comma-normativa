@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 301
+data: 1962-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-27;301
+codice_redazionale: 062U0301
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1962
+                301
+                Autorizzazione all'Unione italiana dei Ciechi ad acquistare un immobile in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1962, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei Ciechi, viene autorizzata ad acquistare un immobile in Milano, sito in via S. Eusebio 24, allo scopo di ampliare la sede della Sezione della Lombardia occidentale della predetta Unione.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 30 maggio 1962
+ Atti del Governo, registro n. 148, foglio n. 73. - VILLA
+

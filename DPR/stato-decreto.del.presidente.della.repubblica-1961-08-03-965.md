@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 965
+data: 1961-08-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-03;965
+codice_redazionale: 061U0965
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 agosto 1961
+                965
+                Riconoscimento della personalita' giuridica della Chiesa ex conventuale di Santa Chiara, sita nel comune di Matera.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 agosto 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa ex conventuale di Santa Chiara, sita nel comune di Matera.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 settembre 1961
+ Atti del Governo, registro n. 140, foglio n. 64. - VILLA
+

@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1327
+data: 1948-08-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-08-16;1327
+codice_redazionale: 048U1327
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 agosto 1948
+                1327
+                Autorizzazione alla Scuola tecnica industriale di Atri (Teramo) ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 agosto 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, la Scuola tecnica industriale di Atri (Teramo) viene autorizzata ad accettare la donazione di L. 43.000 disposta in suo favore dal signor Brandimarte Giuseppe fu Simone, costituita da titoli di rendita del Debito pubblico 5% al portatore i cui interessi, ammontanti a L. 2150, sono destinati a costituire il fondo allo scopo di istituire una borsa di studio da intitolarsi al nome del defunto genitore Brandimarte Simone e la suddetta borsa viene intitolata al nome di "Brandimarte Simone".
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 26 ottobre 1948
+

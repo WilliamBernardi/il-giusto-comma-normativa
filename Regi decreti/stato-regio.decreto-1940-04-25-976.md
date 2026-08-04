@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 976
+data: 1940-04-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-04-25;976
+codice_redazionale: 040U0976
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:31Z
+---
+
+REGIO DECRETO
+                25 aprile 1940
+                976
+                Riconoscimento, agli effetti civili, della erezione di una vicaria curata autonoma presso la Chiesa dell'Oratorio dei Salesiani sotto il titolo di Maria SS.ma Ausiliatrice, in Rovigno d'Istria (Pola). (040U0976)
+
+Entrata in vigore del provvedimento: 16/08/1940
+
+## Art. 1.
+
+N.
+
+R. decreto 25 aprile 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno viene riconosciuto, agli effetti civili, il decreto del Vescovo di Parenzo-Pola in data 1° agosto-12 ottobre 1939-XVII relativo alla erezione in Rovigno d'Istria (Pola) di una vicaria curata autonoma presso la Chiesa dell'Oratorio dei Salesiani sotto il titolo di Maria SS.ma Ausiliatrice. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 14 giugno 1940-XVIII
+

@@ -1,0 +1,44 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 777
+data: 1994-04-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;777
+codice_redazionale: 096G0256
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 2010-10-21
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 aprile 1994
+                777
+                 Regolamento recante semplificazione dei procedimenti di iscrizione
+nell'elenco di cui all'art. 2 della legge 30 ottobre 1986, n. 738, di
+istituzioni scolastiche associate al sistema I.B.O.
+
+Entrata in vigore del decreto: 2-11-1996
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 2 AGOSTO 2010, N. 164))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 2 AGOSTO 2010, N. 164))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 2 AGOSTO 2010, N. 164))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 2 AGOSTO 2010, N. 164))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 2 AGOSTO 2010, N. 164))
+
+
+

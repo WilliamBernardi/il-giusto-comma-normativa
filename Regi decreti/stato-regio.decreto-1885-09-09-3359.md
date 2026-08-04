@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+numero: 3359
+data: 1885-09-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-09-09;3359
+codice_redazionale: 085U3359
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:05Z
+---
+
+REGIO DECRETO
+                09 settembre 1885
+                3359
+                Che istituisce, a cominciare dal 1° ottobre 1885, nella citta' di Caserta una Scuola tecnica governativa di 2ª classe. (085U3359)
+
+Entrata in vigore del provvedimento: 17/10/1885
+
+## Art. 1.
+
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Veduta la legge 13 novembre 1859; 
+ 
+ Vedute le deliberazioni 4 marzo, 25 aprile e 12 agosto 1885 con le quali il comune di Caserta si obbliga di versare annualmente all'erario i 3/5 della spesa effettiva per il personale dirigente ed insegnante della scuola tecnica e di sostenere le altre spese spettanti ai comuni per le scuole tecniche, a sensi della predetta legge 13 novembre 1859; 
+ 
+ Vedute le deliberazioni in data 24 aprile, 29 maggio e 2 settembre 1885, con le quali la Deputazione provinciale di Caserta, approvando le sopra citate deliberazioni del Consiglio comunale di Caserta, autorizza il conseguente vincolo nel bilancio del comune stesso; 
+ 
+ Vista la legge del 28 giugno 1885, n. 3175, che approva il bilancio di previsione del Ministero di Pubblica Istruzione per l'esercizio finanziario 1885-86; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ A cominciare dal 1° ottobre 1885 e' instituita nella citta' di Caserta una Scuola tecnica governativa di 2ª classe. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Milano, addi' 9 settembre 1885. 
+ 
+ UMBERTO. 
+ 
+ Coppino. 
+ 
+ Visto, Il Guardasigilli: Tajani.
+

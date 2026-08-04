@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 410
+data: 1980-05-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-05-13;410
+codice_redazionale: 080U0410
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 maggio 1980
+                410
+                Autorizzazione alla cassa mutua di malattia per i coltivatori diretti di Trapani ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 maggio 1980, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Trapani, viene autorizzata ad acquistare, in via di sanatoria, al prezzo di L. 9.500.000, un appartamento al piano terreno dello stabile sito in Marsala (Trapani), via Lazzara n. 2, censito al nuovo catasto edilizio urbano al foglio 387 sub 7, di proprieta' dei signori Girolamo Polizzotti e Vincenzo Musumeci, come da atto di compravendita del 14 luglio 1960, n. 62432 di repertorio, a rogito dott. Giuseppe Pellegrino, notaio in Marsala, registrato in data 28 luglio 1960, n. 208, da adibire a poliambulatorio.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 22 luglio 1980
+ Registro n. 1 Lavoro, foglio n. 121
+

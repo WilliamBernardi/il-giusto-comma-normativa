@@ -1,0 +1,44 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 480
+data: 1948-04-16
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-04-16;480
+codice_redazionale: 048U0480
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 1956-06-25
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:30Z
+---
+
+DECRETO LEGISLATIVO
+                16 aprile 1948
+                480
+                Determinazione della misura della indennita' di carovita da corrispondersi al personale delle Amministrazioni dello Stato per il trimestre aprile-giugno 1948.
+
+IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                
+                    Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151, con le modificazioni ad esso apportate dall'art. 3, comma primo, dei decreto legislativo luogotenenziale 16 marzo 1946, n. 98;
+                
+            
+            
+                
+                    Viste le disposizioni transitorie I e XV della Costituzione;
+                
+            
+            
+                
+                    Visto l'art. 87, comma quinto, della Costituzione Sulla proposta del Presidente del Consiglio dei Ministri, Primo Ministro Segretario di Stato e del Ministro per il tesoro;
+                
+            
+            
+                PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione del 7 aprile 1948:
+
+## Art. 1.
+
+Agli effetti dell'applicazione dell'art. 1 del decreto legislativo del Capo provvisorio dello Stato 29 maggio 1947, n. 484 e successive modificazioni, sara' tenuto conto, per il trimestre dal 1 aprile al 30 giugno 1948, dell'indice medio del costo dell'alimentazione rilevato dall'Istituto centrale di statistica per il trimestre luglio-settembre 1947.
+

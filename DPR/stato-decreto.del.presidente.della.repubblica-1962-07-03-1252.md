@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1252
+data: 1962-07-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-03;1252
+codice_redazionale: 062U1252
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 luglio 1962
+                1252
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale dell'Assunzione di Maria SS. in Cielo, sita in localita' Scoperta del comune di Lonato (Brescia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale dell'Assunzione di Maria SS. in Cielo, sita in localita' Scoperta del comune di Lonato (Brescia).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 27 luglio 1961
+ Atti del Governo, registro n. 157, foglio n. 61. - VILLA
+

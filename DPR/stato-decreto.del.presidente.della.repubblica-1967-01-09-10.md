@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 10
+data: 1967-01-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-01-09;10
+codice_redazionale: 067U0010
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 gennaio 1967
+                10
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di S. Giovanni Battista e S. Gerolamo Emiliani, in Magenta (Milano).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 gennaio 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 10 settembre 1965, integrato con due dichiarazioni del 21 maggio e 1 settembre 1966, relativo alla erezione della Parrocchia di S. Giovanni Battista e S. Gerolamo Emiliani, in Magenta (Milano). Viene, inoltro, riconosciuta la personalita' giuridica della Chiesa omonima, sede dell'anzidetta Parrocchia, con l'attribuzione di un terreno sul quale e' sorto l'edificio sacro, stralciato dal patrimonio della Chiesa Prepositurale dei SS. Martino e Gioacchino, di ha. 0.50.00, sito in comune di Magenta.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 2 febbraio 1967
+ Atti del Governo, registro n. 209, foglio n. 7. - VILLA
+

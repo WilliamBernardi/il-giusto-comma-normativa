@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 446
+data: 1978-07-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-13;446
+codice_redazionale: 078U0446
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 luglio 1978
+                446
+                Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al prezzo di L. 11.500.000, dal sig. Morreale Carmelo, un appartamento sito in Asti, via Q. Sella n. 39/41, descritto al nuovo catasto edilizio urbano alla partita 13417 foglio 77/6 n. 1154 sub 17 e n. 1102, da adibire a sede sociale della sezione di Asti.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 8 agosto 1978
+ Registro n. 6 Presidenza, foglio n. 41
+

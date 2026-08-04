@@ -1,0 +1,54 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 52
+data: 2004-02-20
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2004-02-20;52
+codice_redazionale: 004G0083
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:48Z
+---
+
+DECRETO LEGISLATIVO
+                20 febbraio 2004
+                52
+                Attuazione della direttiva 2001/115/CE che semplifica ed armonizza le modalita' di fatturazione in materia di IVA.
+
+Entrata in vigore del provvedimento: 29/2/2004
+
+Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri, della giustizia e per l'innovazione e le tecnologie;
+
+## Art. 1. — Modifica della disciplina I.V.A. relativa alla fatturazione
+
+L'art. 21 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' sostituito dal seguente:
+ «Art. 21 (Fatturazione delle operazioni) - 1. Per ciascuna operazione imponibile il soggetto che effettua la cessione del bene o la prestazione del servizio emette fattura, anche sotto forma di nota, conto, parcella e simili, o, ferma restando la sua responsabilita', assicura che la stessa sia emessa dal cessionario o dal committente, ovvero, per suo conto, da un terzo. L'emissione della fattura, cartacea o elettronica, da parte del cliente o del terzo residente in un Paese con il quale non esiste alcun strumento giuridico che disciplini la reciproca assistenza e' consentita a condizione che ne sia data preventiva comunicazione all'amministrazione finanziaria e purche' il soggetto passivo nazionale abbia iniziato l'attivita' da almeno cinque anni e nei suoi confronti non siano stati notificati, nei cinque anni precedenti, atti impositivi o di contestazione di violazioni sostanziali in materia di imposta sul valore aggiunto. Con provvedimento del direttore dell'Agenzia delle entrate sono determinate le modalita', i contenuti e le procedure telematiche della comunicazione. La fattura si ha per emessa all'atto della sua consegna o spedizione all'altra parte ovvero all'atto della sua trasmissione per via elettronica.
+ 2. La fattura e' datata e numerata in ordine progressivo per anno solare e contiene le seguenti indicazioni:
+ a) ditta, denominazione o ragione sociale, residenza o domicilio dei soggetti fra cui e' effettuata l'operazione, del rappresentante fiscale nonche' ubicazione della stabile organizzazione per i soggetti non residenti e, relativamente al cedente o prestatore, numero di partita IVA. Se non si tratta di imprese, societa' o enti devono essere indicati, in luogo della ditta, denominazione o ragione sociale, il nome e il cognome;
+ b) natura, qualita' e quantita' dei beni e dei servizi formanti oggetto dell'operazione;
+ c) corrispettivi ed altri dati necessari per la determinazione della base imponibile, compreso il valore normale dei beni ceduti a titolo di sconto, premio o abbuono di cui all'art. 15, n. 2;
+ d) valore normale degli altri beni ceduti a titolo di sconto, premio o abbuono;
+ e) aliquota, ammontare dell'imposta e dell'imponibile con arrotondamento al centesimo di euro;
+ f) numero di partita IVA del cessionario del bene o del committente del servizio qualora sia debitore dell'imposta in luogo del cedente o del prestatore, con l'indicazione della relativa norma;
+ g) data della prima immatricolazione o iscrizione in pubblici registri e numero dei chilometri percorsi, delle ore navigate o delle ore volate, se trattasi di cessione intracomunitaria di mezzi di trasporto nuovi, di cui all'art. 38, comma 4, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427;
+ h) annotazione che la stessa e' compilata dal cliente ovvero, per conto del cedente o prestatore, da un terzo.
+ 3. Se l'operazione o le operazioni cui si riferisce la fattura comprendono beni o servizi soggetti all'imposta con aliquote diverse, gli elementi e i dati di cui al comma 2, lettere b), c) ed e), devono essere indicati distintamente secondo l'aliquota applicabile. Per le operazioni effettuate nello stesso giorno nei confronti di un medesimo destinatario puo' essere emessa una sola fattura. In caso di piu' fatture trasmesse in unico lotto, per via elettronica, allo stesso destinatario da parte di un unico fornitore o prestatore, le indicazioni comuni alle diverse fatture possono essere inserite una sola volta, purche' per ogni fattura sia accessibile la totalita' delle informazioni. La trasmissione per via elettronica della fattura, non contenente macroistruzioni ne' codice eseguibile, e' consentita previo accordo con il destinatario. L'attestazione della data, l'autenticita' dell'origine e l'integrita' del contenuto della fattura elettronica sono rispettivamente garantite mediante l'apposizione su ciascuna fattura o sul lotto di fatture del riferimento temporale e della firma elettronica qualificata dell'emittente o mediante sistemi EDI di trasmissione elettronica dei dati che garantiscano i predetti requisiti di autenticita' e integrita'. Le fatture in lingua stranieradevono essere tradotte in lingua nazionale a richiesta dell'amministrazione finanziaria e gli importi possono essere espressi in qualsiasi valuta purche' l'imposta sia indicata in euro.
+ 4. La fattura e' emessa al momento di effettuazione dell'operazione determinata a norma dell'art. 6. La fattura in formato cartaceo e' compilata in duplice esemplare di cui uno e' consegnato o spedito all'altra parte. Per le cessioni di beni la cui consegna o spedizione risulti da documento di trasporto o da altro documento idoneo a identificare i soggetti tra i quali e' effettuata l'operazione ed avente le caratteristiche determinate con decreto del Presidente della Repubblica 14 agosto 1996, n. 472, la fattura e' emessa entro il giorno 15 del mese successivo a quello della consegna o spedizione e contiene anche l'indicazione della data e del numero dei documenti stessi. In tale caso, puo' essere emessa una sola fattura per le cessioni effettuate nel corso di un mese solare fra le stesse parti.
+In deroga a quanto disposto nel terzo periodo la fattura puo' essere emessa entro il mese successivo a quello della consegna o spedizione dei beni limitatamente alle cessioni effettuate a terzi dal cessionario per il tramite del proprio cedente.
+ 5. Nelle ipotesi di cui all'art. 17, terzo comma, il cessionario o il committente deve emettere la fattura in unico esemplare, ovvero, ferma restando la sua responsabilita', assicurarsi che la stessa sia emessa, per suo conto, da un terzo.
+ 6. La fattura deve essere emessa anche per le cessioni relative a beni in transito o depositati in luoghi soggetti a vigilanza doganale, non soggette all'imposta a norma dell'art. 7, secondo comma, nonche' per le operazioni non imponibili di cui agli articoli 8, 8-bis, 9 e 38-quater, per le operazioni esenti di cui all'art. 10, tranne quelle indicate al n. 6), per le operazioni soggette al regime del margine previsto dal decreto-legge 23 febbraio 1995, n. 41, convertito, con modificazioni, dalla legge 22 marzo 1995, n. 85, nonche' dall'art. 74-ter per le operazioni effettuate dalle agenzie di viaggio e turismo. In questi casi la fattura, in luogo dell'indicazione dell'ammontare dell'imposta, reca l'annotazione che si tratta rispettivamente di operazione non soggetta, non imponibile, esente ovvero assoggettata al regime del margine, con l'indicazione della relativa norma.
+ 7. Se viene emessa fattura per operazioni inesistenti, ovvero se nella fattura i corrispettivi delle operazioni o le imposte relativi sono indicate in misura superiore a quella reale, l'imposta e' dovuta per l'intero ammontare indicato o corrispondente alle indicazioni della fattura.
+ 8. Le spese di emissione della fattura e dei conseguenti adempimenti e formalita' non possono formare oggetto di addebito a qualsiasi titolo.».
+
+## Art. 2. — Disposizioni normative di coordinamento
+
+## Art. 3. — Provvedimento del direttore dell'Agenzia delle entrate
+
+Il provvedimento del direttore dell'Agenzia delle entrate di cui all'art. 21, comma 1, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e' emanato entro sessanta giorni dalla data di entrata in vigore del presente decreto.
+
+## Art. 4. — Entrata in vigore
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1843
+data: 1931-12-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1931-12-28;1843
+codice_redazionale: 031U1843
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:33Z
+---
+
+REGIO DECRETO
+                28 dicembre 1931
+                1843
+                Contributi scolastici dei comuni di Santa Margherita di Staffora e Varzi. (031U1843)
+
+Entrata in vigore del provvedimento: 28/04/1932
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 383
+data: 1961-03-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-03-31;383
+codice_redazionale: 061U0383
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 marzo 1961
+                383
+                Riconoscimento, agli effetti civili, dell'istituzione nella parrocchia di San Giovanni Maggiore del comune di Cogoleto (Genova) di un ufficio coadiutorale dedicato a San Sebastiano, con sede nella Chiesa di San Sebastiano, sita nello stesso Comune.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 marzo 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Savona e Noli in data 2 marzo 1960, col quale nella parrocchia di San Giovanni Maggiore del comune di Cogoleto (Genova) e' stato istituito un ufficio coadiutorale dedicato a San Sebastiano con sede nella Chiesa di San Sebastiano, sita nello stesso Comune.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 maggio 1961
+ Atti del Governo, registro n. 136, foglio n. 112. - VILLA
+

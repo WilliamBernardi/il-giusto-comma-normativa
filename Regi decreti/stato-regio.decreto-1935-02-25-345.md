@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 345
+data: 1935-02-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-02-25;345
+codice_redazionale: 035U0345
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:38Z
+---
+
+REGIO DECRETO
+                25 febbraio 1935
+                345
+                Modificazioni alla composizione della Commissione centrale per i collaudi in appello. (035U0345)
+
+Entrata in vigore del provvedimento: 14/04/1935
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

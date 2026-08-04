@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1254
+data: 1930-06-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-06-23;1254
+codice_redazionale: 030U1254
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:54Z
+---
+
+REGIO DECRETO
+                23 giugno 1930
+                1254
+                Fusione delle Opere pie «Ricovero di mendicita'», con sede in Imperia, in un unico ente denominato «Ricovero di mendicita' di Imperia». (030U1254)
+
+Entrata in vigore del provvedimento: 28/09/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,79 @@
+---
+tipo: DECRETO
+numero: 571
+data: 1992-12-30
+titolo: ""
+urn: urn:nir:ministero.trasporti:decreto:1992-12-30;571
+codice_redazionale: 093G0129
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:41Z
+---
+
+DECRETO
+                30 dicembre 1992
+                571
+                 Regolamento di attuazione della direttiva del Consiglio delle Comunita' europee n. 89/684/CEE del 21 dicembre 1989 riguardante la formazione professionale di taluni conducenti di veicoli che trasportano merci pericolose su strada.
+
+Udito il parere del Consiglio di Stato reso nella adunanza generale del 23 luglio 1992;
+
+Esperita la procedura prevista dalla sopracitata legge n. 400/1988, art. 17, comma 3, ultimo periodo, con la comunicazione al Presidente del Consiglio dei Ministri;
+
+Ritenuta la necessita', nel recepire tale direttiva, di emanare le disposizioni regolamentari ed amministrative necessarie per conformare la normativa nazionale riguardante la formazione professionale di taluni conducenti che trasportano merci pericolose su strada alla citata direttiva n. 89/684/CEE;
+
+## Art. 1. — Campo di applicazione
+
+Le norme di cui al presente regolamento non si applicano ai veicoli appartenenti alle Forze armate o posti sotto la responsabilita' di queste.
+
+## Art. 2. — Certificato di formazione professionale
+
+I conducenti dei veicoli di cui all'art. 1 devono aver conseguito alle scadenze di cui al comma 2, il certificato di formazione professionale, il cui rilascio e' subordinato alla partecipazione ad un apposito corso di formazione e al superamento del relativo esame, previsto all'art. 3.
+
+## Art. 3. — Corso di formazione professionale ed esame
+
+E' istituito il corso di formazione professionale per i conducenti di veicoli di cui all'art. 1.
+
+Per l'ammissione al corso e' necessario essere in possesso della patente di guida corrispondente al tipo di veicolo previsto dal certificato che si intende conseguire, secondo quanto indicato nell'art. 5.
+
+L'istanza per l'accreditamento di cui al precedente comma 3- c) deve essere redatto secondo lo schema dell'allegato 3 che costituisce parte integrante del presente regolamento.
+
+L'esame al termine del corso deve essere sostenuto davanti a due funzionari della ex carriera direttiva della Direzione generale MCTC designato dalla medesima Direzione generale ed alla presenza di almeno due rappresentanti dei docenti del corso.
+
+Le disposizioni applicative inerenti l'esame saranno emanate con apposite circolari, della Direzione generale MCTC cui compete la vigilanza sullo svolgimento dei corsi.
+
+## Art. 4. — Commissione per accreditare le organizzazioni o gli enti
+
+E' istituita presso la Direzione generale MCTC, un'apposita commissione al fine di valutare i requisiti necessari per accreditare le organizzazioni o gli enti, che ne facciano esplicita richiesta, per l'effettuazione dei corsi di formazione professionale di cui all'art. 3.
+
+La commissione e' composta da un dirigente generale della Direzione generale MCTC con funzione di presidente, da un funzionario della Direzione generale MCTC e da un funzionario del Ministero dell'interno, entrambi di livello non inferiore al nono, nonche' da sei rappresentanti designati rispettivamente dalla Confindustria, dalla Federchimica, dalla Assotrasporti, dalla Anita, dalla Fai, dalla Fita. Le funzioni di segretario sono affidate ad un funzionario della Direzione generale MCTC.
+
+E' ammessa la designazione di membri e segretario supplenti.
+
+Il presidente, i membri e il segretario della commissione sono nominati con provvedimento del direttore generale della MCTC.
+
+I criteri di valutazione ai fini dell'accreditamento di cui al primo comma del presente articolo sono stabiliti dalla commissione di cui al comma 1.
+
+Le decisioni adottate dalla commissione hanno la natura di provvedimento definitivo.
+
+## Art. 5. — Caratteristiche del certificato di formazione professionale
+
+## Art. 6. — Norme transitorie
+
+Nei sei mesi precedenti le rispettive date di cui all'art. 2 del presente regolamento, i conducenti, che ne facciano richiesta, possono conseguire per la prima volta il certificato provvisorio di formazione professionale senza aver seguito il corso e superato il relativo esame previsto dall'art. 2, a condizione che provino, con la medesima documentazione di cui all'art. 2, comma 2- b), di avere esercitato l'attivita' di conducente di veicoli adibiti al trasporto di merci pericolose nei cinque anni precedenti le rispettive date in precedenza richiamate. Sono ammesse sospensioni di attivita' stagionali, ferie ed altre interruzioni di lavoro non superiori a sei mesi per periodi di dodici mesi o per diciotto mesi complessivi per tutto il periodo.
+
+Il certificato provvisorio di formazione professionale avente le caratteristiche del modello di cui al precedente art. 5, e' valido soltanto per i trasporti nazionali e la sua validita' scade il 31 dicembre 1996; detto certificato deve essere corredato della seguente indicazione: "Applicazione dell'art. 4, par. 2 della direttiva n. 89/684/CEE e valido unicamente per i trasporti effettuati all'interno dello Stato membro che lo ha rilasciato".
+
+Nei confronti dei conducenti che sono in possesso del certificato provvisorio di formazione professionale, il rilascio del certificato di formazione di cui all'art. 5 puo' avvenire solo a seguito di superamento dell'esame successivo alla frequenza del corso di formazione professionale previsto al secondo comma dell'art. 3 per il primo conseguimento.
+
+I certificati di formazione professionale A.D.R., rilasciati ai sensi del decreto ministeriale 7 agosto 1982, validi esclusivamente per i trasporti internazionali di merci pericolose in cisterne e rilasciati o rinnovati anteriormente alla data del 1 luglio 1992, sono riconosciuti come certificati di formazione ai sensi del presente regolamento e pertanto considerati validi ai fini del trasporto sia nazionale che internazionale di merci pericolose in cisterne fino alla scadenza della loro validita', a condizione che siano convalidati presso l'ufficio provinciale di rilascio, secondo le modalita' indicate dalla Direzione generale MCTC.
+
+Dopo la scadenza di validita', i certificati di cui al comma precedente potranno essere sostituiti con quelli previsti dal presente regolamento qualora i conducenti superino il relativo esame successivo alla frequenza del corso di aggiornamento previsto al comma 3 dell'art. 3.
+
+## Art. 7. — Entrata in vigore
+
+Il decreto ministeriale 7 agosto 1982 resta in vigore per le parti non in contrasto con il presente regolamento.
+
+Il presente regolamento entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+

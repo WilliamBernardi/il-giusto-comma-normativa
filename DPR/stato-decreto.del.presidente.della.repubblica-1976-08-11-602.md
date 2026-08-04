@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 602
+data: 1976-08-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-08-11;602
+codice_redazionale: 076U0602
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 agosto 1976
+                602
+                Liquidazione coatta amministrativa e nomina del commissario liquidatore della S.p.a. "Centrale" - Compagnia di assicurazione, in Roma.
+
+Sentita la commissione consultiva per le assicurazioni private, la quale, nella seduta del 5 agosto 1976, ha espresso, ai sensi dell'art. 77, punto 2) del citato testo unico, parere favorevole alla messa in liquidazione coatta amministrativa della societa' per azioni di assicurazioni "Centrale";
+
+## Art. 1.
+
+La societa' per azioni "Centrale" - Compagnia di assicurazione, con sede in Roma, e' posta in liquidazione coatta amministrativa e ne e' nominato commissario liquidatore l'avv. Carlo Torelli.
+
+## Art. 2.
+
+Il commissario liquidatore potra' provvedere con apposita convenzione al trasferimento di ufficio del portafoglio assicurativo della societa' per azioni "Centrale", con sede in Roma, ai sensi e con le modalita' previste dall'art. 88 del testo unico approvato con decreto del Presidente della Repubblica 13 febbraio 1959, n. 449.
+
+## Art. 3.
+
+Al commissario liquidatore spetta, a carico della liquidazione, oltre al rimborso delle spese, un compenso la cui misura sara' stabilita con successivo decreto.
+

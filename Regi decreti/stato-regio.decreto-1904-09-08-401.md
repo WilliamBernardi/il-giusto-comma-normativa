@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1904-09-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-09-08;401
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:16Z
+---
+
+REGIO DECRETO
+                08 settembre 1904
+                CCCCI
+                Che istituisce in Trapani un collegio di probiviri per le industrie della macinazione dei cereali, della confezione del pane e delle paste da minestra, ecc. (0400401R)
+
+Entrata in vigore del provvedimento: 02/11/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

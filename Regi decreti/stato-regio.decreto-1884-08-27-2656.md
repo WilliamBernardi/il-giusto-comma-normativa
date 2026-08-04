@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2656
+data: 1884-08-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-08-27;2656
+codice_redazionale: 084U2656
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:00Z
+---
+
+REGIO DECRETO
+                27 agosto 1884
+                2656
+                Che modifica l'articolo primo del R. decreto n. 928, in data 16 luglio 1882. (084U2656)
+
+Entrata in vigore del provvedimento: 04/10/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

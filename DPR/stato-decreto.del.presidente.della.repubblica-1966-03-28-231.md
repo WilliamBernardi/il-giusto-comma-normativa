@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 231
+data: 1966-03-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-03-28;231
+codice_redazionale: 066U0231
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 marzo 1966
+                231
+                Riconoscimento, agli effetti civili, dell'erezione della Parrocchia dello Spirito Santo, nel comune di Bortigiadas (Sassari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 marzo 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Ampurias e Tempio in data 13 dicembre 1964, integrato con dichiarazione senza data, relativo all'erezione della Parrocchia dello Spirito Santo, in frazione Tisiennari del comune di Bortigiadas (Sassari).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 aprile 1966
+ Atti del Governo, registro n. 202, foglio n. 164. - VILLA
+

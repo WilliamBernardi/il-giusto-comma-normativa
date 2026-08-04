@@ -1,0 +1,68 @@
+---
+tipo: DECRETO-LEGGE
+numero: 155
+data: 1995-05-03
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1995-05-03;155
+codice_redazionale: 095G0196
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1996-12-28
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                03 maggio 1995
+                155
+                 Disposizioni urgenti per assicurare la funzionalita' delle
+segreterie comunali e provinciali.
+
+Entrata in vigore del decreto: 4/5/1995.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 23 DICEMBRE 1996, N. 662
+

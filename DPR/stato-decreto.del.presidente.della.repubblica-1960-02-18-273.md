@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 273
+data: 1960-02-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-18;273
+codice_redazionale: 060U0273
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 febbraio 1960
+                273
+                Riconoscimento della personalita' giuridica della "Fondazione Ammiraglio d'armata Angelo Jachino", per il conferimento di una borsa di studio ad un allievo dell'Accademia navale.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 febbraio 1960, col quale, sulla proposta del Ministro per la difesa, viene riconosciuta la personalita' giuridica della "Fondazione Ammiraglio d'armata Angelo Jachino", per il conferimento di una borsa di studio annuale a favore di un allievo del corso normale dell'Accademia navale di Livorno, e ne viene approvato lo statuto, con una modificazione all'art. 9.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 1 aprile 1960
+ Atti del Governo, registro n. 125, foglio n. 131. - VILLA
+

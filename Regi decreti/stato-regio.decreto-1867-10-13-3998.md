@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3998
+data: 1867-10-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-10-13;3998
+codice_redazionale: 067U3998
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:17Z
+---
+
+REGIO DECRETO
+                13 ottobre 1867
+                3998
+                Col quale i Comuni di Toirano, Balestrino, Carpe e Boissano costituiranno una Sezione del Collegio elettorale di Albenga, con sede nel capo-luogo del Comune di Toirano. (067U3998)
+
+Entrata in vigore del provvedimento: 26/11/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1890-11-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-11-30;4031
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:03Z
+---
+
+REGIO DECRETO
+                30 novembre 1890
+                MMMMXXXI
+                Che dichiara opera di pubblica utilita' la costruzione della stazione di Baricella col binario contiguo, lungo la tramwia vapore Bologna-Malalbergo. (9004031R)
+
+Entrata in vigore del provvedimento: 13/01/1891
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1741
+data: 1927-08-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-08-05;1741
+codice_redazionale: 027U1741
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:36Z
+---
+
+REGIO DECRETO
+                05 agosto 1927
+                1741
+                Inclusione dell'abitato di Villamagna tra quelli da consolidare a cura e spese dello Stato. (027U1741)
+
+Entrata in vigore del provvedimento: 15/10/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

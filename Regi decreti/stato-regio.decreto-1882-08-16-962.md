@@ -1,0 +1,43 @@
+---
+tipo: REGIO DECRETO
+numero: 962
+data: 1882-08-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-08-16;962
+codice_redazionale: 082U0962
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:18Z
+---
+
+REGIO DECRETO
+                16 agosto 1882
+                962
+                Che autorizza il comune di Palazzolo di Castrocielo a denominarsi Castrocielo. (082U0962)
+
+Entrata in vigore del provvedimento: 24/09/1882
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno, Presidente del Consiglio dei Ministri,
+
+Vedute le istanze fatte dal Consiglio comunale di Palazzolo di Castrocielo, con deliberazione 18 maggio 1882, perche' all'attuale denominazione del comune venga sostituita quella di Castrocielo;
+
+## Art. 1.
+
+Il comune di Palazzolo di Castrocielo, nella provincia di Caserta, e' autorizzato ad assumere la denominazione di Castrocielo, cominciando dal 1° settembre
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Sant'Anna di Valdieri, addi' 16 agosto 1882. 
+ 
+ UMBERTO. 
+ 
+ Depretis. 
+ 
+ Visto, il Guardasigilli: G. Zanardelli.
+

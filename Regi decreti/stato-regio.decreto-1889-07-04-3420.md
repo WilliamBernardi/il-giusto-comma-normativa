@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1889-07-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-07-04;3420
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:48Z
+---
+
+REGIO DECRETO
+                04 luglio 1889
+                MMMCCCCXX
+                Che autorizza la inversione delle rendite dell'arciconfraternita dei Crocifissi Agonizzanti in Castroreale a beneficio dell'ospedale degli infermi di quel comune. (8903420R)
+
+Entrata in vigore del provvedimento: 25/08/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

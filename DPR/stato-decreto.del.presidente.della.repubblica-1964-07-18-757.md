@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 757
+data: 1964-07-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-07-18;757
+codice_redazionale: 064U0757
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 luglio 1964
+                757
+                Autorizzazione all'istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, ad acquistare un complesso immobiliare sito in Benevento.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 luglio 1964, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI), con sede in Roma, viene autorizzato ad acquistare, dal comm. Luigi Tresca, proprietario, il complesso immobiliare, sito in Benevento, nella via dei Molini n. 89, distinto nel nuovo catasto urbano al foglio n. 48, particella n. 47, partita n. 2265 parz., di are 63,90 alle condizioni ed agli effetti specificati nell'atto pubblico di compravendita per notar Attilio Compatangelo, repertorio numero 47917, raccolta n. 4945, del 22 luglio 1960.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 14 settembre 1964
+ Atti del Governo, registro n. 186, foglio n. 28. - DI PRETORO
+

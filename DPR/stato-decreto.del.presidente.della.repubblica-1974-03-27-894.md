@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 894
+data: 1974-03-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-27;894
+codice_redazionale: 074U0894
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 marzo 1974
+                894
+                Autorizzazione ad accettare una donazione a favore dello Stato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 marzo 1974, col quale, sulla proposta del Ministro per la pubblica istruzione, viene autorizzata l'accettazione della donazione del dipinto su tavola di Dosso Dossi, raffigurante "Adorazione dei pastori" (cm 47,6 x 65), disposta dalla signora Siller Giulia ved. Tinozzi a favore dello Stato con atto notarile 3 luglio 1972, n. 25619 di repertorio a rogito del notaio dott. Giulio Filiberti, rettificato con atto del 12 aprile 1972, n. 36382 di repertorio a rogito medesimo notaio. L'opera suddetta viene, altresi', destinata alla pinacoteca nazionale di Bologna.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 aprile 1975
+ Atti di Governo, registro n. 9, foglio n. 50
+

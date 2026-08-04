@@ -1,0 +1,43 @@
+---
+tipo: REGIO DECRETO
+numero: 1700
+data: 1936-07-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-07-24;1700
+codice_redazionale: 036U1700
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:27Z
+---
+
+REGIO DECRETO
+                24 luglio 1936
+                1700
+                Dichiarazione formale del fini di n. 6 Confraternita della provincia di Bari. (036U1700)
+
+Entrata in vigore del provvedimento: 09/10/1936
+
+## Art. 1.
+
+N.
+
+R. decreto 24 luglio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle seguenti Confraternite in provincia di Bari: 
+ 
+ 1. Adelfia - Confraternita del SS.mo Sacramento nel rione Canneto. 
+ 
+ 2. Acquaviva delle Fonti - Confraternita di Maria SS.ma del Rosario. 
+ 
+ 3. Altamura - Confraternita del SS.mo Sepolcro. 
+ 
+ 4. Giovinazzo - Confraternita di S. Maria di Costantinopoli. 
+ 
+ 5. Monopoli - R. Arciconfraternita del SS.mo Sacramento. 
+ 
+ 6. Noicattaro - Confraternita del SS.mo Sacramento. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 16 settembre 1936 - Anno XIV
+

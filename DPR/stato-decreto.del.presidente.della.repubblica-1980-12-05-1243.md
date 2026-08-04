@@ -1,0 +1,68 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1243
+data: 1980-12-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-12-05;1243
+codice_redazionale: 080U1243
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 dicembre 1980
+                1243
+                Modificazioni allo statuto della libera Universita' degli studi di Trento.
+
+Veduto lo statuto dell'Universita' libera di Trento, approvato con decreto del Presidente della Repubblica 4 luglio 1967, n. 1099 e modificato con decreto del Presidente della Repubblica 3 maggio 1971, n. 626, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Trento e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+
+## Art. 1.
+
+La tabella I e la tabella V sono sostituite dalle seguenti: 
+ 
+ Tabella I 
+ POSTI DI PROFESSORE DI RUOLO 
+ 
+Facolta' di sociologia . . . . . . . . . . . . . . . . . . . posti 20 
+Facolta' di scienze matematiche, fisiche e 
+naturali . . . . . . . . . . . . . . . . . . . . . . . . . . posti 30 Facolta' di economia e commercio . . . . . . . . . . . . . . posti 22 
+ 
+ Tabella V 
+ 
+ PERSONALE AMMINISTRATIVO ADDETTO ALLE SEGRETERIE 
+ 
+Carriera direttiva: 
+primo dirigente . . . . . . . . . . . . . . . . . . . . . . . posti 1 direttore aggiunto di divisione . . . . . . . . . . . . . . . posti 2 direttore di sezione. . . . . . . . . . . . . . . . . . . . . posti - consigliere . . . . . . . . . . . . . . . . . . . . . . . . . posti 4 Carriera di concetto: 
+segretario capo . . . . . . . . . . . . . . . . . . . . . . . posti 2 segretario principale . . . . . . . . . . . . . . . . . . . . posti 5 segretario. . . . . . . . . . . . . . . . . . . . . . . . . . posti 6 Carriera esecutiva: 
+personale di ragioneria delle segreterie 
+universitarie. . . . . . . . . . . . . . . . . . . . . . . . posti 60 Carriera direttiva: 
+direttore di ragioneria di prima classe . . . . . . . . . . . posti - direttore di ragioneria di seconda classe . . . . . . . . . . posti - vice direttore di ragioneria. . . . . . . . . . . . . . . . . posti 1 Carriera di concetto: 
+ragioniere capo . . . . . . . . . . . . . . . . . . . . . . . posti 1 ragioniere principale . . . . . . . . . . . . . . . . . . . . posti 2 ragioniere. . . . . . . . . . . . . . . . . . . . . . . . . . posti 4 
+BIBLIOTECARI 
+Carriera direttiva: 
+bibliotecario di prima classe . . . . . . . . . . . . . . . . posti - bibliotecario di seconda classe . . . . . . . . . . . . . . . posti 1 bibliotecario . . . . . . . . . . . . . . . . . . . . . . . . posti - Carriera di concetto: 
+aiuto bibliotecario capo. . . . . . . . . . . . . . . . . . . posti 2 aiuto bibliotecario principale. . . . . . . . . . . . . . . . posti 3 aiuto bibliotecario . . . . . . . . . . . . . . . . . . . . . posti 3 
+TECNICI DEGLI UFFICI TECNICI 
+Carriera ingegneri uffici tecnici . . . . . . . . . . . . . . posti 1 Carriera di concetto uffici tecnici: 
+tecnico capo. . . . . . . . . . . . . . . . . . . . . . . . . posti 1 tecnico . . . . . . . . . . . . . . . . . . . . . . . . . . . posti 2 Tecnici: 
+tecnici laureati. . . . . . . . . . . . . . . . . . . . . . . posti 2 tecnico coadiutore capo . . . . . . . . . . . . . . . . . . . posti 2 tecnico coadiutore . . . . . . . . . . . . . . . . . . . . . posti 10 tecnici esecutivi. . . . . . . . . . . . . . . . . . . . . . posti 10 Personale ausiliario: 
+uscieri. . . . . . . . . . . . . . . . . . . . . . . . . . . posti 40 Operai permanenti: 
+capo operai . . . . . . . . . . . . . . . . . . . . . . . . . posti 2 operai specializzati. . . . . . . . . . . . . . . . . . . . . posti 9 operai qualificati. . . . . . . . . . . . . . . . . . . . . . posti 4 operai comuni . . . . . . . . . . . . . . . . . . . . . . . . posti 3
+

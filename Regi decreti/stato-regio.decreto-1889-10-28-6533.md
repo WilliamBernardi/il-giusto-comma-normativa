@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 6533
+data: 1889-10-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-10-28;6533
+codice_redazionale: 089U6533
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:32Z
+---
+
+REGIO DECRETO
+                28 ottobre 1889
+                6533
+                Che da' piena ed intera esecuzione all'Accordo amministrativo conchiuso dal Ministro delle Poste e dei Telegrafi d'Italia col Direttore generale delle Poste del Vice Reame d'Egitto, relativo al periodo di validita' dei vaglia postali internazionali. (089U6533)
+
+Entrata in vigore del provvedimento: 28/12/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

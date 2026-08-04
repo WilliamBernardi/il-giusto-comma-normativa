@@ -1,0 +1,241 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1036
+data: 1972-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-12-30;1036
+codice_redazionale: 072U1036
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2002-01-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:45Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 dicembre 1972
+                1036
+                Norme per la riorganizzazione delle amministrazioni e degli enti pubblici operanti nel settore della edilizia residenziale pubblica.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002. 
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002. 
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003. 
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 8 GIUGNO 2001, N. 327))((3))
+
+
+
+---------------
+                        AGGIORNAMENTO (3)
+                         Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 23 novembre 2001, n. 411, convertito con modificazioni dalla L. 31 dicembre 2001, n. 463, ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dalla L. 1 agosto 2002, n. 166 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 30 giugno 2002 al 31 dicembre 2002.
+ Il D.Lgs. 8 giugno 2001, n. 327, come modificato dal D.L. 20 giugno 2002, n. 122 , convertito con modificazioni dalla L. 1 agosto 2002, n. 185 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 31 dicembre 2002 al 30 giugno 2003.
+ Il D. Lgs. 8 giugno 2001, n. 327, come modificato dal D. Lgs. 27 dicembre 2002, n. 302 ha disposto (con l'art. 59, comma 1) la proroga dell'entrata in vigore dell'abrogazione del presente provvedimento dal 1 gennaio 2002 al 30 giugno 2003.
+

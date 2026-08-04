@@ -1,0 +1,282 @@
+---
+tipo: REGIO DECRETO
+numero: 4634
+data: 1868-09-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1868-09-24;4634
+codice_redazionale: 068U4634
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:08Z
+---
+
+REGIO DECRETO
+                24 settembre 1868
+                4634
+                Soppressione della carica di Aiutante generale nei Dipartimenti militari marittimi, e la istituzione di un Direttore generale di Arsenale e di un Capo di Stato Maggiore. (068U4634)
+
+Entrata in vigore del provvedimento: 01/01/1869
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+### Art. 1.
+
+Norme-art. 1
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 2.
+
+Norme-art. 2
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 3.
+
+Norme-art. 3
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 4.
+
+Norme-art. 4
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 5.
+
+Norme-art. 5
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 6.
+
+Norme-art. 6
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 7.
+
+Norme-art. 7
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 8.
+
+Norme-art. 8
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 9.
+
+Norme-art. 9
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 10.
+
+Norme-art. 10
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 11.
+
+Norme-art. 11
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 12.
+
+Norme-art. 12
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 13.
+
+Norme-art. 13
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 14.
+
+Norme-art. 14
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 15.
+
+Norme-art. 15
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 16.
+
+Norme-art. 16
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 17.
+
+Norme-art. 17
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 18.
+
+Norme-art. 18
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 19.
+
+Norme-art. 19
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 20.
+
+Norme-art. 20
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 21.
+
+Norme-art. 21
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 22.
+
+Norme-art. 22
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 23.
+
+Norme-art. 23
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 24.
+
+Norme-art. 24
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 25.
+
+Norme-art. 25
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 26.
+
+Norme-art. 26
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 27.
+
+Norme-art. 27
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 28.
+
+Norme-art. 28
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 29.
+
+Norme-art. 29
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 30.
+
+Norme-art. 30
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 31.
+
+Norme-art. 31
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 32.
+
+Norme-art. 32
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 33.
+
+Norme-art. 33
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 34.
+
+Norme-art. 34
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 35.
+
+Norme-art. 35
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 36.
+
+Norme-art. 36
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 37.
+
+Norme-art. 37
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 38.
+
+Norme-art. 38
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 39.
+
+Norme-art. 39
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 40.
+
+Norme-art. 40
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 41.
+
+Norme-art. 41
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 42.
+
+Norme-art. 42
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 43.
+
+Norme-art. 43
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 44.
+
+Norme-art. 44
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+

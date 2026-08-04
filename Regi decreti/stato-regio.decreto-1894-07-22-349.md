@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1894-07-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1894-07-22;349
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:11Z
+---
+
+REGIO DECRETO
+                22 luglio 1894
+                CCCXLIX
+                Che approva il nuovo statuto organico del collegio Saporiti in Vigevano. (9400349R)
+
+Entrata in vigore del provvedimento: 02/09/1894
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

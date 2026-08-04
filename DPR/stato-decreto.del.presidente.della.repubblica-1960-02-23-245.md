@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 245
+data: 1960-02-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-02-23;245
+codice_redazionale: 060U0245
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 febbraio 1960
+                245
+                Autorizzazione all'Unione italiana dei ciechi ad acquistare due immobili, siti in Milano, da adibire a sede della sezione della Lombardia occidentale della predetta Unione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 febbraio 1960, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad acquistare dalla Societa' italiana Costruzioni Edili per Azioni (S.I.C.E.A.), sede in Merano (gia' Societa' italiana Costruzioni Edili Affini Anonima Merano (S.I.C.E.A.M.), per il prezzo correlativo di L. 3.600.000 e di L. 1.100.000, porzione di una casa e due locali ad uso magazzino, siti in Milano, via Sant'Eusebio n. 24, da adibire a sede della sezione della Lombardia occidentale della predetta Unione.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti addi' 18 marzo 1960
+ Atti del Governo, registro n. 125, foglio n. 98. - VILLA
+

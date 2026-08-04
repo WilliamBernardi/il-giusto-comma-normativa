@@ -1,0 +1,83 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 774
+data: 1982-08-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-08-23;774
+codice_redazionale: 082U0774
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2000-09-13
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:46Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 agosto 1982
+                774
+                Attuazione della direttiva (CEE) n. 77/436 relativa agli estratti di caffe' ed agli estratti di cicoria.
+
+Tenuto conto delle osservazioni formulate in sede parlamentare;
+
+Sulla proposta del Ministro per il coordinamento interno delle politiche comunitarie, di concerto con i Ministri degli affari esteri, del tesoro, della sanita', dell'industria, del commercio e dell'artigianato e di grazia e giustizia;
+
+## Art. 1. — (( (Estratti di caffe'). ))
+
+((
+
+Si intendono per estratti di caffe', i prodotti concentrati ottenuti mediante estrazione dai grani di caffe' torrefatti, utilizzando l'acqua come unico agente di estrazione, con esclusione di qualsiasi procedimento di idrolisi mediante aggiunta di acido o di base, e contenenti esclusivamente i principi solubili e aromatici del caffe', oltre alle sostanze non solubili, tecnicamente ineliminabili, ed agli oli non solubili provenienti dal caffe'.
+
+))
+
+## Art. 2. — (( (Estratti di cicoria). ))
+
+((
+
+Si intendono per estratti di cicoria i prodotti concentrati ottenuti mediante estrazione dalla cicoria torrefatta, utilizzando l'acqua come unico agente di estrazione, con esclusione di qualsiasi procedimento di idrolisi con aggiunta di acido o di base.
+
+Per cicoria si intendono le radici di Cichorium intybus L., non utilizzate per la produzione di cicoria Witloof, opportunamente pulite per essere essiccate e torrefatte per la preparazione di bevande.
+
+))
+
+## Art. 3.
+
+Gli estratti di caffe' e di cicoria devono essere commercializzati con le denominazioni previste negli allegati al presente decreto e rispondere alle caratteristiche di composizione definite per ciascun estratto negli allegati stessi.
+ ((COMMA ABROGATO DAL D.P.R. 24 LUGLIO 2000, N. 255))
+ Salvo che il fatto costituisca reato, chiunque produca estratti di caffe' o estratti di cicoria con caratteristiche difformi da quelle previste negli allegati al presente decreto e' punito con la sanzione amministrativa pecuniaria da L. 1.000.000 a L. 5.000.000.
+
+## Art. 4.
+
+((
+
+Il Ministro della sanita' puo' autorizzare con proprio decreto, sentito il Consiglio superiore di sanita' l'impiego di antiagglomerati per gli estratti di caffe' e di cicoria quando tali prodotti sono utilizzati nelle macchine automatiche. In tal caso le confezioni dei prodotti devono recare la dicigtura "per macchine automatiche".
+
+2. Il Ministro della sanita' determina con prorio decreto particolari metodiche relative al prelievo dei campioni, nonche' i metodi di analisi per il controllo della composizione e delle caratteristiche di caffe' e di cicoria, sentita la Commissione prevista dall'art. 21 della legge 30 aprile 1962, n. 283))
+
+## Art. 5. — (( (Etichettatura). ))
+
+((
+
+))
+
+## Art. 6. — ((ARTICOLO ABROGATO DAL D.P.R. 24 LUGLIO 2000, N. 255))
+
+
+
+## Art. 7.
+
+Le disposizioni del decreto del Presidente della Repubblica 16 febbraio 1973, n. 470, incompatibili con quelle contenute nel presente decreto sono abrogate.
+
+## Art. 8.
+
+Le disposizioni del presente decreto non si applicano ai prodotti destinati all'esportazione.
+
+## Art. 9.
+
+Fino al 30 giugno 1983 e' consentito produrre e confezionare i prodotti di cui al presente decreto in conformita' alle norme vigenti alla data di entrata in vigore dello stesso.
+ I prodotti di cui al comma precedente possono essere posti in vendita fino al 31 dicembre 1985.
+
+## Art. 10.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

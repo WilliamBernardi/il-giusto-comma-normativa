@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 670
+data: 1984-04-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-09;670
+codice_redazionale: 084U0670
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 aprile 1984
+                670
+                Autorizzazione al "Nobile collegio Caccia" di Novara ad accettare un lascito.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, il "Nobile collegio Caccia" di Novara viene autorizzato ad accettare il lascito disposto dalla sig.ra Vittoria Invernizzi ved.
+ Baccarlino con testamento olografo 5 novembre 1977, pubblicato in data 3 settembre 1982, n. 76411/3681 di repertorio, a rogito dott.
+ Giuseppe Mittino, notaio in Novara, con l'obbligo di istituire borse di studio intestate a Baccarlino comm. Mario e Vittoria per studenti delle facolta' di medicina e ingegneria residenti nelle province di Novara e Vercelli. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 1° ottobre 1984 
+ Registro n. 58 Istruzione, foglio n. 292
+

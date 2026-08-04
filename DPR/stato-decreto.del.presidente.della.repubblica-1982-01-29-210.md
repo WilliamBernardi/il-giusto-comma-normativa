@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 210
+data: 1982-01-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-01-29;210
+codice_redazionale: 082U0210
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 gennaio 1982
+                210
+                Riconoscimento, agli effetti civili, della erezione della parrocchia del Sacro Cuore, in Formia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Gaeta 23 ottobre 1979, integrato con due dichiarazioni del 10 novembre 1979 e del 24 luglio 1980, relativo alla erezione della parrocchia del Sacro Cuore, in frazione Vindicio del comune di Formia (Latina).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 27 aprile 1982
+ Registro n. 9 Interno, foglio n. 335
+

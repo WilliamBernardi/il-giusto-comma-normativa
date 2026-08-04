@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1906-04-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-04-08;176
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:00Z
+---
+
+REGIO DECRETO
+                08 aprile 1906
+                CLXXVI
+                Trasformazioni di casse di prestanze agrarie. (0600176R)
+
+Entrata in vigore del provvedimento: 07/07/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

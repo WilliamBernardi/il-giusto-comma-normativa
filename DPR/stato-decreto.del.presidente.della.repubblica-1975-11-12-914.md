@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 914
+data: 1975-11-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-12;914
+codice_redazionale: 075U0914
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 novembre 1975
+                914
+                Autorizzazione al "Centro assistenza ospedaliera S. Romanello", in Milano, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 novembre 1975, col quale, sulla proposta del Ministro per la sanita', il "Centro assistenza ospedaliera S. Romanello", in Milano, viene autorizzato ad acquistare il terreno di mq 50.600 circa, sito in Milano, localita' Cascina Melghera - Olgettina, al prezzo complessivo concordato di L. 100.000.000, da destinare alla costruzione di una "casa-albergo" (casa di riposo) per coniugi e singoli anziani di ceto medio.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 1 marzo 1976
+ Atti di Governo, registro n. 3, foglio n. 48
+

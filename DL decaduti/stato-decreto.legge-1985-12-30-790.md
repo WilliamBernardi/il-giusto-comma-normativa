@@ -1,0 +1,68 @@
+---
+tipo: DECRETO-LEGGE
+numero: 790
+data: 1985-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1985-12-30;790
+codice_redazionale: 085U0790
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1986-03-02
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                30 dicembre 1985
+                790
+                Misure urgenti per il contenimento del fabbisogno nel settore
+pubblico.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1986, N. 41
+

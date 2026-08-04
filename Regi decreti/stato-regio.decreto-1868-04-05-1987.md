@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+data: 1868-04-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1868-04-05;1987
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:32Z
+---
+
+REGIO DECRETO
+                05 aprile 1868
+                MDCCCCLXXXVII
+                Col quale sono introdotte alcune modificazioni negli statuti della Societa' anonima della strada ferrata Vigevano-Milano per Abbiategrasso. (6801987R)
+
+Entrata in vigore del provvedimento: 14/05/1868
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

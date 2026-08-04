@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1132
+data: 1872-11-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1872-11-28;1132
+codice_redazionale: 072U1132
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:40Z
+---
+
+REGIO DECRETO
+                28 novembre 1872
+                1132
+                Concernente le strade provinciali della Provincia di Firenze. (072U1132)
+
+Entrata in vigore del provvedimento: 14/01/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

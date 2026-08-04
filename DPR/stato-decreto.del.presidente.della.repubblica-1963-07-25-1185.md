@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1185
+data: 1963-07-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-07-25;1185
+codice_redazionale: 063U1185
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 luglio 1963
+                1185
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Biagio, in frazione omonima del comune di Castroreale (Messina).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 luglio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto agli effetti civili, il decreto dell'Ordinario diocesano di Messina in data 1 marzo 1961, integrato con due dichiarazioni rispettivamente del 1 marzo 1961 e del 20 novembre 1962, relativo all'erezione della parrocchia di San Biagio in frazione omonima del comune di Castroreale (Messina).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 2 settembre 1963
+ Atti del Governo, registro n. 174, foglio n. 7. - VILLA
+

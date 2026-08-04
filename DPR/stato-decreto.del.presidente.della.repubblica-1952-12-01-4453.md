@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4453
+data: 1952-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-01;4453
+codice_redazionale: 052U4453
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 dicembre 1952
+                4453
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Francesco di Assisi, in localita' Borgo Bainsizza del comune di Latina.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 dicembre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Albano Laziale in data 1 ottobre 1951, relativo alla erezione della parrocchia di San Francesco di Assisi, in localita' Borgo Bainsizza del comune di Latina e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia; inoltre il Beneficio della parrocchia e la Chiesa vengono autorizzati ad accettare le donazioni disposte in loro favore dall'Opera nazionale combattenti, donazioni consistenti in alcuni immobili situati in Borgo Bainsizza di Latina e valutati complessivamente L. 600.000.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 26 gennaio 1953
+ Atti del Governo, registro n. 74, foglio n. 115. - PALLA
+

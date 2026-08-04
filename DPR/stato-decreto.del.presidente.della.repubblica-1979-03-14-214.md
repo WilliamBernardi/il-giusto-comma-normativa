@@ -1,0 +1,38 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 214
+data: 1979-03-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-03-14;214
+codice_redazionale: 079U0214
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 marzo 1979
+                214
+                Modificazione allo statuto dell'Universita' degli studi di Ferrara.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' di Ferrara, approvato con decreto del Presidente della Repubblica 18 aprile 1951, n. 964, e modificato con decreto del Presidente della Repubblica 25 luglio 1952, n. 1207, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 22 maggio 1978, n. 217;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro della pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Ferrara, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ La scuola di specializzazione in ematologia clinica e di laboratorio, di cui all'art. 108, muta la denominazione in quella di scuola di specializzazione in ematologia generale (clinica e laboratorio).
+

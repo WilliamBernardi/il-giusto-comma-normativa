@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2036
+data: 1960-12-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-06;2036
+codice_redazionale: 060U2036
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 dicembre 1960
+                2036
+                Riconoscimento della personalita' giuridica dell'Aero Club "G. Bolla"
+di Parma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 dicembre 1960, col quale, sulla proposta del Ministro per la difesa di concerto con il Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Areo Club "G. Bolla" di Parma, e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 dicembre 1961
+ Atti del Governo, registro n. 142, foglio n. 129. - VILLA
+

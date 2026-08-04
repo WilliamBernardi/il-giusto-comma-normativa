@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+data: 1899-07-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1899-07-11;225
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:21Z
+---
+
+REGIO DECRETO
+                11 luglio 1899
+                CCXXV
+                Che autorizza il comune di «Casale di Val di Cecina» a cambiare l'attuale sua denominazione in quella di «Casale Marittimo». (9900225R)
+
+Entrata in vigore del provvedimento: 09/08/1899
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la deliberazione 15 aprile 1899 con la quale il consiglio comunale di Casale di Val di Cecina chiede all'unanimita' il cambiamento di tale nome in quello di Casale Marittimo;
+
+Veduto il rapporto 26 maggio 1899 del prefetto della provincia di Pisa favorevole a tale cambiamento;
+
+Veduta la legge comunale e provinciale;
+
+## Art. 1.
+
+Il nome del comune di «Casale di Val di Cecina» in provincia di Pisa e' cambiato in quello di Casale Marittimo, a datare dal 1° agosto prossimo venturo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 11 luglio 1899. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 21 luglio 1899. 
+ 
+ Reg. 220. Atti del Governo a f. 97. F. Rostagno. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli A. BONASI. 
+ 
+ Pelloux.
+

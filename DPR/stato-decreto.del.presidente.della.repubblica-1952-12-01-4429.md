@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4429
+data: 1952-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-01;4429
+codice_redazionale: 052U4429
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 dicembre 1952
+                4429
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Bartolomeo Apostolo, in Folchi di Vernante (Cuneo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 dicembre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Bartolomeo Apostolo, in Folchi di Vernante (Cuneo) e la stessa Chiesa parrocchiale viene autorizzata ad accettare il legato consistente nell'immobile situato in Cuneo, via Busca n. 17, e valutato lire 160.000.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 13 gennaio 1953
+ Atti del Governo, registro n. 68, foglio n. 143. - PALLA
+

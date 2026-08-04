@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1355
+data: 1952-02-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-11;1355
+codice_redazionale: 052U1355
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 febbraio 1952
+                1355
+                Autorizzazione alla Cassa scolastica della scuola di avviamento professionale a tipo commerciale di Vasto ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 febbraio 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della scuola di avviamento professionale a tipo commerciale di Vasto viene autorizzata ad accettare un legato di nominali L. 30.000 ed oggetti vari disposto al fine dell'istituzione di un premio di studio intitolato al nome del comm. Beniamino Laccetti.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 28 ottobre 1952
+ Atti del Governo, registro n. 59, foglio n. 105. - CARLOMAGNO
+

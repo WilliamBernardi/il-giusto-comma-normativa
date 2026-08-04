@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1884-11-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-11-30;1497
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:50Z
+---
+
+REGIO DECRETO
+                30 novembre 1884
+                MCCCCXCVII
+                concernente la tassa di famiglia nel comune di Ferentino. (8401497R)
+
+Entrata in vigore del provvedimento: 28/01/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

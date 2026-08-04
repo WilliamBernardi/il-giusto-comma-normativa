@@ -1,0 +1,109 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 138
+data: 1975-03-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-03-31;138
+codice_redazionale: 075U0138
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1998-07-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:44Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 marzo 1975
+                138
+                Attuazione della delega di cui all'art. 2, lettere c) e d), della legge 7 giugno 1974, n. 216, concernente disposizioni dirette a coordinare, con le attribuzioni della Commissione nazionale per le societa' e la borsa, le norme, concernenti l'organizzazione e il funzionamento delle borse valori e l'ammissione dei titoli a quotazione, nonche' le forme di controllo ed ispezione previste dalla legislazione vigente nel settore dell'attivita' creditizia e delle partecipazioni statali.
+
+Udito il parere della Commissione parlamentare costituita ai sensi del succitato art. 2;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 2. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 3. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 4. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 5. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 6. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 7. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 8. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 9. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 10. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 11. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 12. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 13. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 14. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 15. — ((IL D.LGS. 24 FEBBRAIO 1998, N.58 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+
+
+
+## Art. 16. — Pubblicita' e comunicazioni
+
+Nelle materie non comprese fra quelle indicate all'art. 15 la Commissione nazionale per le societa' e la borsa, con i regolamenti previsti dall'art. 1, sesto comma, sub art. 1 della legge 7 giugno 1974, n. 216, determina le forme di pubblicita' e di comunicazione agli interessati delle proprie deliberazioni in relazione alla natura e all'oggetto delle stesse.
+ Per l'attivita' delegata a norma dell'art. 1 la Commissione determina con il provvedimento di delega i modi e le forme di pubblicita' e di comunicazione che devono essere osservati dagli organi delegati.
+
+## Art. 17. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 18. — Coordinamento tra forme di controllo ed ispezione
+
+Al di fuori dell'ipotesi disciplinata dall'art. 10, secondo comma, nell'esercizio dei poteri di controllo ed ispezione nei confronti dei soggetti indicati dall'art. 3, sub art. 1 della legge 7 giugno 1974, n. 216, la Commissione nazionale per le societa' e la borsa:
+ a) puo' effettuare direttamente le ispezioni ed assumere le notizie ed i chiarimenti previsti dall'art. 3, lettera c), sub art. 1 della legge 7 giugno 1974, n. 216, anche presso le aziende e gli istituti di credito di cui agli articoli 5 e 6 del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni, ovvero presso gli enti pubblici dipendenti dal Ministero delle partecipazioni statali, di cui all'art. 8, terzo comma, del decreto del Presidente della Repubblica 31 marzo 1971, n. 282, informandone la Banca d'Italia - Vigilanza sulle aziende di credito, ed il Ministero delle partecipazioni statali, i quali hanno facolta' di far partecipare alle operazioni relative un proprio funzionario;
+ b) puo' richiedere alla Banca d'Italia - Vigilanza sulle aziende di credito, ed al Ministero delle partecipazioni statali, che hanno facolta' di non accettare l'incarico, di effettuare le ispezioni ad assumere le notizie e i chiarimenti di cui alla lettera a) presso aziende o istituti di credito o enti pubblici dipendenti dal Ministero delle partecipazioni statali;
+ c) puo' chiedere alla Banca d'Italia - Vigilanza sulle aziende di credito, e al Ministero delle partecipazioni statali, che sono tenuti a prestare ogni collaborazione, la comunicazione di dati e notizie nonche' la trasmissione di atti e documenti dei quali i detti organi siano venuti in possesso nell'esercizio della loro attivita' istituzionale. Alla Commissione non e' opponibile il segreto d'ufficio;
+ d) comunica alla Banca d'Italia - Vigilanza sulle aziende di credito, o al Ministero delle partecipazioni statali ogni irregolarita' comunque riscontrata nell'esercizio delle funzioni di propria competenza che richieda l'intervento delle dette amministrazioni. Le stesse, amministrazioni, ove, nell'esercizio delle funzioni di controllo di rispettiva competenza, riscontrino irregolarita' che richiedano l'intervento della Commissione sono tenute a darne immediata comunicazione alla stessa.
+
+## Art. 19. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+
+## Art. 20. — ((ARTICOLO ABROGATO DAL D.LGS. 24 FEBBRAIO 1998, N.58))
+
+
+

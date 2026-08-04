@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 353
+data: 1948-03-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-03-05;353
+codice_redazionale: 048U0353
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 marzo 1948
+                353
+                Autorizzazione al Politecnico di Torino ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 marzo 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, il Politecnico di Torino viene autorizzato ad accettare la donazione della somma di L. 200.000 nominali, in buoni del Tesoro novennali 4% a premi 1951, disposta in suo favore dai signori col. Pompeo Flamia, avv. Giordano Lorenzo, Crema Carlo, geometra Garelli Felice e dott. Cappelletto Francesco, con atto pubblico in data 7 marzo 1946, per l'istituzione di un premio di studio annuale da denominarsi "Premio di studio generale Perotti ing. Giuseppe, medaglia d'oro".
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 16 aprile 1948
+

@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 525
+data: 1980-06-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-06-03;525
+codice_redazionale: 080U0525
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 giugno 1980
+                525
+                Trasferimento di un posto di lettore ordinario dalla facolta' di lettere e filosofia dell'istituto universitario orientale di Napoli alla facolta' di magistero dell'Universita' degli studi di Torino.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 12 febbraio 1977, n. 34;
+ Visto il decreto del Presidente della Repubblica 10 febbraio 1971, n. 100, con il quale e' stato assegnato un posto di lettore ordinario alla cattedra di lingua e letteratura francese della facolta' di lettere e filosofia dell'Istituto universitario orientale di Napoli;
+ Viste le deliberazioni del consiglio della facolta' di lettere e filosofia dell'Istituto universitario orientale di Napoli del 30 marzo 1978 e del 23 maggio 1979 che consentono al passaggio del posto di lettore ordinario alla cattedra di lingua e letteratura francese dell'Universita' di Torino;
+ Viste le deliberazioni del consiglio della facolta' di magistero dell'Universita' di Torino, del 26 settembre 1978 e del 27 novembre 1979, con le quali si chiede che il posto sopra indicato venga assegnato alla cattedra di lingua e letteratura francese dell'Universita' stessa al fine di sopperire alla mancanza di personale assistente e per poter far fronte alle esigenze didattiche e scientifiche della cattedra interessata;
+ Considerato che il posto di lettore ordinario della cattedra di lingua e letteratura francese dell'Istituto universitario orientale di Napoli risulta attualmente ricoperto dalla dott.ssa Marie Berthe Vittoz Canuto e che la stessa ha espresso il proprio consenso di essere assegnata alla cattedra di lingua e letteratura francese della facolta' di magistero dell'Universita' di Torino;
+ Ravvisata, pertanto, l'opportunita', nell'interesse pubblico, di procedere alla modificazione organica dei posti di lettore ordinario delle predette facolta';
+ Sulla proposta del Ministro della pubblica istruzione;
+
+ Decreta:
+
+ A decorrere dalla data del presente decreto, il posto di lettore ordinario gia' assegnato alla cattedra di lingua e letteratura francese della facolta' di lettere e filosofia dell'Istituto universitario orientale di Napoli con decreto del Presidente della Repubblica 10 febbraio 1971, n. 100, e' attribuito, unitamente alla titolare dott.ssa Marie Berthe Vittoz Canuto, alla cattedra della stessa denominazione della facolta' di magistero dell'Universita' di Torino.
+

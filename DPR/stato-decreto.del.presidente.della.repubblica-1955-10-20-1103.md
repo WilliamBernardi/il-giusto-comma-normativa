@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1103
+data: 1955-10-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-20;1103
+codice_redazionale: 055U1103
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 ottobre 1955
+                1103
+                Autorizzazione all'Opera nazionale di assistenza all'Italia redenta ad acquistare un terreno ed un fabbricato siti in frazione Prestento del comune di Torreano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 ottobre 1955, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Opera nazionale di assistenza all'Italia redenta viene autorizzata ad acquistare dal sig. Antonio Bennati un terreno di are ventitre' e centiare ottantacinque ed un fabbricato di piani tre e vani nove, siti in frazione Prestento del comune di Torreano.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 22 novembre 1955
+ Atti del Governo, registro n. 93, foglio n. 188. - CARLOMAGNO
+

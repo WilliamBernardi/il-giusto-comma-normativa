@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 40
+data: 1893-02-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1893-02-23;40
+codice_redazionale: 093U0040
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:56Z
+---
+
+REGIO DECRETO
+                23 febbraio 1893
+                40
+                Che convoca il Collegio elettorale di Palmi per la elezione dei deputato. (093U0040)
+
+Entrata in vigore del provvedimento: 10/03/1893
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

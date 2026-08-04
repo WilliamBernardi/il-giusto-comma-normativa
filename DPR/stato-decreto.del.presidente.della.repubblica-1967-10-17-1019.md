@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1019
+data: 1967-10-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-10-17;1019
+codice_redazionale: 067U1019
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 ottobre 1967
+                1019
+                Approvazione dello statuto del Consorzio per il nucleo di industrializzazione della Valle del Biferno.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 29 luglio 1957, n. 634, modificata ed integrata dalla legge 18 luglio 1959, n. 555;
+ Visto l'atto del notaio dott. Giuseppe Macchiagodena, notaio in Termoli, del 17 gennaio 1967, n. 8331 del repertorio generale, con il quale e' stato costituito il Consorzio per il nucleo di industrializzazione della Valle del Biferno e ne e' stato determinato lo statuto;
+ Visto l'atto del notaio dott. Giuseppe Macchiagodena, notaio in Termoli, del 4 settembre 1967, n. 9278 del repertorio generale, con il quale e' stato integrato l'atto costitutivo e sono state apportate alcune variazioni allo statuto;
+ Vista la deliberazione del 26 gennaio 1967 del Comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvato lo statuto del Consorzio per il nucleo di industrializzazione della Valle del Biferno, ente di diritto pubblico a norma dell'art. 21 della legge 29 luglio 1957, n. 634, nel testo modificato dall'art. 8 della legge 18 luglio 1959, n. 555.
+

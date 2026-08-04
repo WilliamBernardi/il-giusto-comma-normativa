@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1883-05-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-05-13;949
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:03Z
+---
+
+REGIO DECRETO
+                13 maggio 1883
+                DCCCCXLIX
+                Che autorizza la trasformazione dei monti frumentari di Castel Ritaldi in un'opera pia per sussidi ai poveri. (8300949R)
+
+Entrata in vigore del provvedimento: 27/06/1883
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

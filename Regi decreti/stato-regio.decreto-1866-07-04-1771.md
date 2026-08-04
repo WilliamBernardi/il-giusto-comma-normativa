@@ -1,0 +1,59 @@
+---
+tipo: REGIO DECRETO
+data: 1866-07-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-07-04;1771
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:10Z
+---
+
+REGIO DECRETO
+                04 luglio 1866
+                MDCCLXXI
+                Che riforma le Costituzioni della R. Accademia della Crusca per cio' che riguarda gli Accademici residenti. (6601771R)
+
+Entrata in vigore del provvedimento: 10/08/1866
+
+PRINCIPE DI SAVOJA-CARIGNANO
+
+LUOGOTENENTE GENERALE DI S. M.
+
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dell'autorita' a Noi delegata;
+
+## Art. 1.
+
+La condizione della origine Toscana richiesta per essere Accademico residente della Crusca, e' abolita; rimane ferma soltanto l'altra di avere stabile dimora in Firenze.
+
+## Art. 2.
+
+Il numero degli Accademici residenti della Crusca e' portato a diciotto, compresi i quattro Compilatori.
+
+## Art. 3.
+
+I Compilatori continueranno a godere della provvisione speciale loro assegnata; cosicche' il numero degli Accademici residenti provvisionati sara' di sedici. 
+ 
+ Gli altri due Accademici residenti, oltre ai suddetti, conseguiranno la provvisione accademica di mano in mano nell'accadere delle vacanze, secondo l'anzianita' della elezione e secondo l'eta' quando fossero stati eletti nello stesso giorno. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 4 luglio 1866. 
+ 
+ EUGENIO DI SAVOJA 
+ 
+ Registrato alla Corte dei conti addi' 14 luglio 1866 
+ 
+ Reg.° 36 Atti del Governo a c. 169. Crodara-Visconti. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Borgatti. 
+ 
+ Berti.
+

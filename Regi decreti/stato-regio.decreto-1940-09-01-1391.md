@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1391
+data: 1940-09-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-09-01;1391
+codice_redazionale: 040U1391
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:23Z
+---
+
+REGIO DECRETO
+                01 settembre 1940
+                1391
+                Riconoscimento della personalita' giuridica della Comunita' dei Cisterciensi Riformati (Trappisti) delle Frattocchie, con sede in localita' Frattocchie del comune di Marino (Roma). (040U1391)
+
+Entrata in vigore del provvedimento: 31/10/1940
+
+## Art. 1.
+
+N.
+
+R. decreto 1° settembre 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Comunita' dei Cisterciensi Riformati (Trappisti) delle Frattocchie, con sede in localita' Frattocchie del comune di Marino (Roma), e viene autorizzato il trasferimento alla medesima di beni del valore dichiarato di L. 750.000 dalla Comunita' posseduti, per interposte persone, da epoca anteriore al Concordato con la Santa Sede. La Comunita' predetta e' autorizzata ad accettare la donazione a suo favore fatta dalla Societa' anonima «Cioccolato di Roma», consistente in un terreno con fabbricati rurali, situato in localita' Castagnole del comune di Marino e del valore periziato di L. 200.000. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 9 ottobre 1940-XVIII
+

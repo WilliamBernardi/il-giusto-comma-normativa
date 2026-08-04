@@ -1,0 +1,92 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 519
+data: 1992-12-29
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1992-12-29;519
+codice_redazionale: 092G0567
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 1996-12-21
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:48Z
+---
+
+DECRETO LEGISLATIVO
+                29 dicembre 1992
+                519
+                 Attuazione della direttiva 91/263/CEE concernente il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature per terminali di telecomunicazione.
+
+Entrata in vigore del decreto: 15/1/1993
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+
+
+### Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+### Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+### Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+### Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+### Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+### Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+
+### Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 12 NOVEMBRE 1996, N. 614))
+

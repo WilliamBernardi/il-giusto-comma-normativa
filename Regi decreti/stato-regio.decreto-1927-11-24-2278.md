@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2278
+data: 1927-11-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-11-24;2278
+codice_redazionale: 027U2278
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:58Z
+---
+
+REGIO DECRETO
+                24 novembre 1927
+                2278
+                Unione del comune di Valgioie a quello di Giaveno. (027U2278)
+
+Entrata in vigore del provvedimento: 31/12/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

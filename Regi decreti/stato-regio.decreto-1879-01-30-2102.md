@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1879-01-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-01-30;2102
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:31Z
+---
+
+REGIO DECRETO
+                30 gennaio 1879
+                MMCII
+                Che approva l'emissione di obbligazioni e le modificazioni all'articolo 22 dello statuto della Societa' anonima delle ferrovie Milano-Saronno e Milano-Erba. (7902102R)
+
+Entrata in vigore del provvedimento: 18/03/1879
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

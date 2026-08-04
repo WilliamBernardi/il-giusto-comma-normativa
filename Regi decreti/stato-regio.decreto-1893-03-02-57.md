@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 57
+data: 1893-03-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1893-03-02;57
+codice_redazionale: 093U0057
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:21Z
+---
+
+REGIO DECRETO
+                02 marzo 1893
+                57
+                Che convoca i collegi elettorali di Nuoro e di Petralia Sottana per l'elezione dei rispettivi deputati. (093U0057)
+
+Entrata in vigore del provvedimento: 17/03/1893La presente legge è stata erroneamente pubblicata in Gazzetta Ufficiale con numero di inserzione in Raccolta Ufficiale delle leggi e dei decreti del Regno "56".
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,59 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 396
+data: 1978-07-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-13;396
+codice_redazionale: 078U0396
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 luglio 1978
+                396
+                Nuova disciplina del lavoro straordinario reso dal personale in
+servizio presso l'amministrazione periferica delle dogane e delle
+imposte indirette.
+
+Ritenuta la necessita' di provvedere al riordinamento della materia relativa al servizio svolti nell'interesse del commercio ovvero a richiesta ed a carico di privati o di enti dal personale dell'amministrazione periferica delle dogane e delle imposte indirette, allo scopo di avviare la riconduzione della materia stessa nell'ambito della disciplina generale del lavoro straordinario dei dipendenti civili dello Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Le prestazioni di lavoro oltre il normale orario di ufficio comunque rese dagli impiegati in servizio presso le dogane, presso gli uffici tecnici delle imposte di fabbricazione ed i laboratori chimici delle dogane e delle imposte indirette sono retribuite con i normali compensi orari previsti dalla disciplina generale stabilita per il lavoro straordinario dei dipendenti civili dello Stato, salvo quanto previsto nel successivo art. 4.
+
+## Art. 2.
+
+Gli impiegati non dirigenti in servizio presso le dogane, presso gli uffici tecnici delle imposte di fabbricazione e presso i laboratori chimici delle dogane e delle imposte indirette in relazione alle effettive esigenze di servizio, sono autorizzati ad eseguire semestralmente prestazioni di lavoro straordinario fino ad un limite massimo individuale pari alla meta' di quello complessivamente autorizzato per ciascun ufficio nel secondo semestre dell'anno 1977 in base alla disciplina stabilita dagli articoli 11, 12 e 13 della legge 15 novembre 1973, n. 734, e successive modificazioni.
+ Sono fatti salvi in ogni caso i limiti piu' elevati eventualmente disposti con la procedura di cui all'art. 2 del decreto del Presidente della Repubblica 22 luglio 1977, n. 422.
+ In deroga a quanto previsto nell'art. 1, ultimo comma, del predetto decreto, entro il 15 febbraio di ogni anno il titolare di ciascun ufficio presentera' una circostanziata relazione al consiglio di amministrazione sulla entita' delle prestazioni eseguite e sui risultati conseguiti. Di tale relazione si terra' conto nella relazione annuale di cui all'art. 18 del decreto del Presidente della Repubblica 30 giugno 1972, n. 748.
+
+## Art. 3.
+
+Qualora, in relazione al volume e caratteristiche dei traffici e servizi ed in rapporto al numero di impiegati addetti, l'attivita' di taluno degli uffici indicati nel precedente articolo richieda prestazioni straordinarie in misura eccedente i limiti indicati nell'articolo medesimo, i limiti stessi, con apposito motivato decreto del Ministro delle finanze emanato d'intesa con le organizzazioni sindacali maggiormente rappresentative, possono essere elevati fino al 30 per cento per periodi non eccedenti l'anno finanziario.
+ Il limite massimo mensile di ore di lavoro straordinario effettuabili individualmente non puo' comunque superare del 30 per cento la quota mensile delle ore assegnate nel semestre in base al disposto del precedente comma e dell'art. 2, primo comma.
+
+## Art. 4.
+
+Per ciascuna ora di lavoro straordinario prestata dal personale di cui al precedente art. 2, il compenso spettante a norma dell'art. 1 del presente decreto, e' maggiorato, ove occorra, di una quota il cui importo sia tale da consentire il raggiungimento di un livello orario complessivo di L. 2.250 per il personale delle carriere ausiliarie e di L. 3.000 per il personale delle altre carriere, elevate rispettivamente a L. 3.000 e 4.000 per i servizi prestati in orario notturno e nei giorni festivi. La durata del servizio e dell'orario notturno e' stabilita secondo i criteri indicati nelle note in calce alle tabelle di cui ai decreti ministeriali 29 luglio 1971, 18 aprile 1973 e 14 luglio 1971, richiamati nell'art. 17 della legge 15 novembre 1973, n. 734.
+
+## Art. 5.
+
+Le disposizioni dei precedenti articoli si applicano anche nei confronti degli impiegati in servizio presso gli uffici doganali di confine stabiliti nel territorio degli Stati finitimi.
+ Il particolare trattamento previsto nel precedente art. 4 per i servizi prestati nelle ore notturne non e' cumulabile con l'indennita' di servizio notturno di cui all'art. 4 della legge 15 novembre 1973, n. 734.
+
+## Art. 6.
+
+La spesa per l'applicazione del presente decreto non potra' eccedere per l'anno 1978 l'importo dei fondi stanziati o da stanziarsi su capitoli 5303, 5310, 5311 e 5312 dello stato di previsione della spesa del Ministero delle finanze per lo stesso anno in applicazione degli articoli 1 e 2 del decreto del Presidente della Repubblica 22 luglio 1977, n. 422, nonche' in applicazione degli articoli 11, 12 e 13 della legge 15 novembre 1973, n. 734, e dell'art. 5 della legge 4 agosto 1975, n. 389, e successive modificazioni, limitatamente alla parte di tali fondi destinata a retribuire le prestazioni rese oltre il normale orario dal personale di cui al precedente art. 2.
+ Il Ministro del tesoro e' autorizzato a provvedere, con proprio decreto, alla ristrutturazione dei predetti capitoli di bilancio, in relazione alle esigenze connesse con l'applicazione del presente decreto.
+
+## Art. 7.
+
+Il presente decreto entra in vigore il primo giorno del mese successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+ Dalla stessa data cessa di avere efficacia, per quanto concerne i servizi straordinari svolti dal personale dell'amministrazione delle dogane e delle imposte indirette, l'art. 5 del decreto del Presidente della Repubblica 22 luglio 1977, n. 422.
+

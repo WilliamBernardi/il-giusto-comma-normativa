@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1398
+data: 1960-10-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-23;1398
+codice_redazionale: 060U1398
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 ottobre 1960
+                1398
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della Immacolata, nel comune di Francavilla Fontana (Brindisi).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 ottobre 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Oria in data 15 agosto 1947, integrato con postilla e dichiarazione del 12 marzo 1960, relativo alla erezione della parrocchia della Immacolata, nel comune di Francavilla Fontana (Brindisi), e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 novembre 1960
+ Atti del Governo, registro n. 131, foglio n. 81. - VILLA
+

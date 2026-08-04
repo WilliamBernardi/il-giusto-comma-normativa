@@ -1,0 +1,38 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 226
+data: 2012-12-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2012-12-22;226
+codice_redazionale: 012G0249
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 dicembre 2012
+                226
+                Convocazione dei comizi per le elezioni della Camera dei deputati e del Senato della Repubblica. (12G0249)
+
+Entrata in vigore del provvedimento: 24/12/2012
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto il proprio decreto in data odierna, che dispone lo scioglimento della Camera dei deputati e del Senato della Repubblica; 
+ Visti gli articoli 61 e 87, terzo comma, della Costituzione; 
+ Visto il testo unico delle leggi recanti norme per l'elezione della Camera dei deputati, di cui al decreto del Presidente della Repubblica 30 marzo 1957, n. 361, e successive modificazioni; 
+ Visto il testo unico delle leggi recanti norme per l'elezione del Senato della Repubblica, di cui al decreto legislativo 20 dicembre 1993, n. 533, e successive modificazioni; 
+ Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 dicembre 2012; 
+ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno; 
+ 
+ Emana 
+ il seguente decreto: 
+ 
+ I comizi per le elezioni della Camera dei deputati e del Senato della Repubblica sono convocati per i giorni di domenica 24 febbraio e di lunedi' 25 febbraio 2013. 
+ La prima riunione delle Camere avra' luogo il giorno di venerdi' 15 marzo 2013;
+

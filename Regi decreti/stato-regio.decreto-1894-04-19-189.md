@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1894-04-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1894-04-19;189
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:25Z
+---
+
+REGIO DECRETO
+                19 aprile 1894
+                CLXXXIX
+                Che erige in ente morale il pio legato Braccio in Valle Lomellina (Pavia) e ne concentra l'amministrazione in quella congregazione di carita' unitamente ad altre istituzioni di beneficenza. (9400189R)
+
+Entrata in vigore del provvedimento: 30/05/1894
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

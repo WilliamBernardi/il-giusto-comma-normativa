@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 802
+data: 1971-01-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-01-25;802
+codice_redazionale: 071U0802
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 gennaio 1971
+                802
+                Autorizzazione alla Fondazione scuola professionale Luigi Ripamonti, con sede in Como, ad acquistare una quota di immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 gennaio 1971, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione scuola professionale Luigi Ripamonti, con sede in Como, viene autorizzata ad acquistare la quota immobiliare di un terzo del fabbricato sito nel comune di Orsenigo, via Provinciale, distinta nel nuovo catasto edilizio urbano alla partita n. 71, sezione Or. foglio n. 7, mappale 1232, subalterni da n. 1 a 26, di proprieta' del sig. Mario Scacchi di Villaguardia per il prezzo di L. 36.518.459.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 2 ottobre 1971
+ Atti del Governo, registro n. 244, foglio n. 125. - CARUSO
+

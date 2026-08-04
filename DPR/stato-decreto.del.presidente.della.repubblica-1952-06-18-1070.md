@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1070
+data: 1952-06-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-06-18;1070
+codice_redazionale: 052U1070
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 giugno 1952
+                1070
+                Riconoscimento della personalita' giuridica del Monastero di Santa Chiara, con sede nel comune di Acquapendente (Viterbo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 giugno 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Santa Chiara, con sede nel comune di Acquapendente (Viterbo), e viene autorizzato il trasferimento a favore del Monastero anzidetto di alcuni immobili da esso posseduti "animo domini" da epoca preconcordataria, situati in Acquapendente, complessivamente valutati L. 1.216.480.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 12 agosto 1952
+ Atti del Governo, registro n. 57, foglio n. 12. - CARLOMAGNO
+

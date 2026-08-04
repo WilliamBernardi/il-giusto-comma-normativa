@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1088
+data: 1986-01-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-01-21;1088
+codice_redazionale: 086U1088
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 gennaio 1986
+                1088
+                Autorizzazione all'Associazione italiana sclerosi multipla, in Roma, ad accettare una eredita'.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 21 gennaio 1986, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana sclerosi multipla, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un immobile sito in Venezia - Sestiere Castello n. 2797 - Colle della Pieta', del periziato valore di L. 27.160.000, disposta dal sig. Angelo Tapeto con testamento olografo 21 gennaio 1979, pubblicato in data 20 luglio 1979, n. 22110/4545 di repertorio, a rogito dott. Carlo Vianini, notaio in Mestre (Venezia), registrato a Mestre in data 23 luglio 1979 al n. 4389.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 3 aprile 1987
+ Registro n. 3 Sanita', foglio n. 325
+

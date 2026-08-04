@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 361
+data: 1978-05-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-05-22;361
+codice_redazionale: 078U0361
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 maggio 1978
+                361
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della Regina degli apostoli, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 maggio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di Sua Santita' 26 novembre 1976, integrato con altro decreto di pari data e con due dichiarazioni datate 2 marzo e 22 giugno 1977, relativo all'erezione della parrocchia della Regina degli apostoli, in Roma.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 6 luglio 1978
+ Registro n. 13 Interno, foglio n. 293.
+

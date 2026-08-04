@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1133
+data: 1932-08-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-08-19;1133
+codice_redazionale: 032U1133
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:52Z
+---
+
+REGIO DECRETO
+                19 agosto 1932
+                1133
+                Riconoscimento della personalita' giuridica della Chiesa ex conventuale di S. Placido, in Catania. (032U1133)
+
+Entrata in vigore del provvedimento: 01/10/1932
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

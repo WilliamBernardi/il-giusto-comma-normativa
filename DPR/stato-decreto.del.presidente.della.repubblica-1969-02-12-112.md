@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 112
+data: 1969-02-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-02-12;112
+codice_redazionale: 069U0112
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 febbraio 1969
+                112
+                Modificazioni allo statuto della fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 febbraio 1969, col quale, sulla proposta del Ministro per la difesa, viene approvato il nuovo testo degli articoli 3, 9 e 13 dello statuto della fondazione denominata "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma. 
+ 
+Visto, il Guardasigilli: GAVA 
+ Registrato alla Corte dei conti, addi' 1° aprile 1969 
+ Atti del Governo, registro n. 226, foglio n. 33. - GRECO
+

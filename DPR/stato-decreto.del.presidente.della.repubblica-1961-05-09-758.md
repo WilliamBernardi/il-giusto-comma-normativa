@@ -1,0 +1,27 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 758
+data: 1961-05-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-05-09;758
+codice_redazionale: 061U0758
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 maggio 1961
+                758
+                Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese produttrici di materiali laterizi della provincia di Catanzaro.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per l'attivita' di produzione dei materiali laterizi, per la quale e' stato stipulato, per la provincia di Catanzaro, il contratto collettivo integrativo 31 luglio 1958, sono regolati da norme giuridiche uniformi alle clausole del contratto collettivo anzidetto, annesso ai presente decreto.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti dalle imprese produttrici di materiali laterizi della provincia di Catanzaro.
+

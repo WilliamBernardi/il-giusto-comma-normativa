@@ -1,0 +1,137 @@
+---
+tipo: DECRETO
+numero: 220
+data: 1988-05-28
+titolo: ""
+urn: urn:nir:ministro.coordinamento.politiche.comunitarie:decreto:1988-05-28;220
+codice_redazionale: 088G0279
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:49Z
+---
+
+DECRETO
+                28 maggio 1988
+                220
+                 Attuazione della direttiva n. 86/361/CEE relativa alla
+prima fase del reciproco riconoscimento dell'omologazione
+delle apparecchiature terminali di telecomunicazioni.
+
+Entrata in vigore del decreto: 7/7/1988
+
+DELLE POLITICHE COMUNITARIE
+
+Sulla proposta del Ministro delle poste e delle telecomunicazioni;
+
+## Art. 1.
+
+Il presente decreto fissa le norme di attuazione della direttiva n. 86/361/CEE, concernente la prima fase del reciproco riconoscimento dell'omologazione delle apparecchiature terminali di telecomunicazioni, che ha forza di legge ai sensi dell'art. 14 della legge 16 aprile 1987.
+
+La direttiva n. 86/361/CEE viene pubblicata unitamente al presente decreto.
+
+## Art. 2. — Art. 1 della direttiva
+
+Nelle procedure di rilascio dei certificati di omologazione delle apparecchiature terminali di telecomunicazioni, l'Ispettorato generale delle telecomunicazioni si basa sui certificati rilasciati dagli organismi competenti nei casi e con le modalita' stabiliti dalla direttiva del Consiglio della CEE n. 86/361/CEE del 24 luglio 1986 ed attestanti che le stesse apparecchiature sono state sottoposte all'esecuzione delle prescritte prove di conformita' alle specifiche comuni di conformita' in vigore alla data del rilascio.
+ Il rilascio del certificato di omologazione, che e' effettuato con atto del capo dell'Ispettorato generale delle telecomunicazioni, e' subordinato all'osservanza delle disposizioni del presente decreto e, per quanto in esso non previsto, delle norme della direttiva di cui al primo comma.
+
+## Art. 3. — Art. 2 della direttiva
+
+Ai fini del presente decreto:
+ 1) per "apparecchiature terminali" si intendono gli apparati direttamente o indirettamente collegati alle estremita' di una rete pubblica di telecomunicazioni per trasmettere, trattare o ricevere informazioni;
+ 2) per "specifica tecnica" si intende la specifica contenuta in un documento che definisce le caratteristiche richieste di un prodotto, quali i livelli di qualita' o di prestazioni, la sicurezza e le dimensioni, comprese le prescrizioni applicabili ad un prodotto per quanto riguarda la terminologia, i simboli, le prove ed i metodi di prova, l'imballaggio, la marchiatura e l'etichettatura;
+ 3) per "specifica tecnica internazionale di telemunicazioni" si intende la specifica tenica di tutte o di alcune caratteristiche di un prodotto raccomandata da un organismo, quale il Comitato consultivo internazionale telegrafico e telefonico (CCITT), il Comitato consultivo internazionale delle radiocomunicazioni (CCIR) o la CEPT;
+ 4) per "specifica tecnica comune" si intende la specifica tecnica elaborata al fine di un'applicazione uniforme in tutti gli Stati membri della Comunita';
+ 5) per "norma" si intende la specifica tecnica adottata da un organismo ad attivita' normativa riconosciuto, per applicazione ripetuta o continua, la cui osservanza non e' obbligatoria;
+ 6) per "norma internazionale" si intende la norma adottata da un organismo internazionale ad attivita' normativa riconosciuta;
+ 7) per "laboratorio di prova accreditato" si intende un laboratorio per il quale lo Stato membro da cui dipende, o un organismo riconosciuto come competente da detto Stato, abbia accertato la conformita' al sistema di accreditamento fissato dalla CEPT, tenendo conto in particolare delle guide ISO-IEC pertinenti, ed il quale sia accreditato, dal suddetto Stato membro od organismo da questo riconosciuto, come competente per l'esecuzione delle prove di conformita' delle apparecchiature terminali;
+ 8) per "certificato di conformita'" si intende il documento mediante il quale un prodotto o un servizio e' certificato conforme a determinate norme o specifiche tecniche;
+ 9) per "omologazione delle apparecchiature terminali" si intende l'approvazione mediante la quale un tipo particolare di apparecchiatura terminale e' autorizzato o riconosciuto atto ad essere collegato ad una determinata rete pubblica di telecomunicazioni;
+ 10) per "specifica di conformita'" si intende un documento che descrive in modo preciso e completo le caratteristiche tecniche dell'apparecchiatura terminale considerata (quali sicurezza, parametri tecnici, funzioni, procedure e prestazioni) nonche' la definizione precisa delle prove e dei metodi di misura che consentono di controllare la conformita' dell'apparecchiatura terminale alle caratteristiche tecniche prescritte;
+ 11) per "specifica di omologazione" si intende una specifica che descrive le pescrizioni complete e precise che devono essere soddisfatte da un'apparecchiatura terminale per ottenere l'omologazione. Essa comprende la specifica di conformita' nonche' prescrizioni amministrative ed eventuali prescrizioni concernenti il controllo di qualita' da eseguirsi nel corso della produzione dell'apparecchiatura;
+ 12) per "specifica comune di conformita'" si intende una specifica di conformita' utilizzata in tutti gli Stati membri della Comunita' dall'autorita' competente per il controllo di conformita' delle apparecchiature terminali. Essa comprende anche, all'occorrenza, le prescrizioni che possono essere necessarie in un determinato Stato in seguito a particolarita' storiche della rete o a disposizioni nazionali vigenti in materia di utilizzazione delle frequenze radio;
+ 13) per "specifica comune di omologazione" si intende una specifica di omologazione utilizzata da tutte le autorita' abilitate per il rilascio delle omologazioni di apparecchiature terminali negli Stati membri della Comunita'. Essa comprende la specifica comune di conformita' nonche' prescrizioni amministrative ed eventuali prescrizioni concernenti il controllo di qualita' da eseguirsi nel corso della produzione dell'apparecchiatura;
+ 14) per "NET" (Norma europea di telecomunicazioni) si intende una raccomandazione di specifica tecnica approvata dalla CEPT, o una o piu' parti di essa, adottata dai firmatari della dichiarazione comune d'intesa elaborata nella riunione dei direttori generali delle amministrazioni della CEPT tenutasi a Copenaghen il 15 novembre 1985, secondo la procedura indicata in detta dichiarazione;
+ 15) per "reciproco riconoscimento dei risultati delle prove di conformita' di apparecchiature terminali" si intende il procedimento a conclusione del quale il certificato di conformita' di un terminale ad una specifica comune di conformita' o ad una parte della stessa, corredato dai dati raccolti nel corso delle prove e dei dati di identificazione, rilasciato da un laboratorio accreditato o dall'autorita' abilitata di uno Stato membro, e' riconosciuto negli altri Stati membri, cosicche' qualora detto terminale sia oggetto di una domanda di omologazione in un altro Stato membro esso non deve piu' essere sottoposto alle prove di conformita' a tale specifica o alla parte della specifica concernente le prove eseguite;
+ 16) per "esigenze essenziali" si intendono gli elementi della specifica comune di conformita' l'importanza dei quali e' tale che un obbligo legale ne imponga il rispetto, in quanto parte integrante della procedura di omologazione, per l'attuazione del reciproco riconoscimento delle prove di conformita' delle apparecchiature terminali. Tali esigenze essenziali sono attualmente:
+ la sicurezza dell'utente, nella misura in cui questa prescrizione non sia contemplata nella direttiva n. 73/23/CEE del 19 febbraio 1973, attuata con legge 18 ottobre 1977, n. 791;
+ la sicurezza del personale degli utilizzatori della rete pubblica di telecomunicazioni, nella misura in cui questa prescrizione non sia contemplata nella suddetta direttiva;
+ la protezione delle reti pubbliche di telecomunicazioni da qualsiasi tipo di danno;
+ l'interazione delle apparecchiature terminali, in casi motivati.
+
+## Art. 4. — Art. 3 della direttiva
+
+Le eventuali integrazioni dell'elenco delle esigenze essenziali di cui al n. 16) dell'art. 3, nonche' le eventuali precisazioni di dette esigenze per talune categorie di prodotti, deliberate dal Consiglio delle Comunita' europee su proposta della commissione, sono attuate con decreto del Ministro delle poste e delle telecomunicazioni di concerto con il Ministro dell'industria, del commercio e dell'artigianato, ai sensi dell'art. 20 della legge 16 aprile 1987, n. 183.
+
+## Art. 5. — Art. 5 della direttiva
+
+I rappresentanti dello Stato italiano in seno al Comitato degli alti funzionari delle telecomunicazioni, di cui all'art. 5 della direttiva n. 86/361/CEE del 24 luglio 1986, sono nominati dal Ministro degli affari esteri, su designazione, rispettivamente, del Ministro delle poste e delle telecomunicazioni, nell'ambito dei funzionari competenti appartenenti alle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni, e del Ministro dell'industria, del commercio e dell'artigianato.
+
+I rappresentanti di cui al comma precedente coordinano la propria attivita' con le altre amministrazioni pubbliche interessate.
+
+Gli stessi rappresentanti possono farsi assistere da esperti o consulenti scelti in relazione alla specifica questione da trattare.
+
+## Art. 6. — Articoli 6 e 7, paragrafo 3, della direttiva
+
+Ai fini del presente decreto, le norme europee di telecomunicazioni (NET) sono equivalenti alle specifiche comuni di conformita'.
+
+Salvo i casi di cui al successivo art. 11, l'Ispettorato generale delle telecomunicazioni non fa procedere a nuove prove qualora, per un determinato tipo di apparecchiatura terminale, i risultati delle prove effettuate dai laboratori accreditati abbiano dato luogo al rilascio di un certificato di conformita' alla corrispondente specifica comune di conformita' o alla NET, i cui riferimenti siano stati pubblicati nella "Gazzetta Ufficiale" delle Comunita' europee.
+
+Il certificato di conformita', rilasciato dal laboratorio accreditato che ha proceduto alle prove, deve essere corredato dei dati risultanti dalle misure eseguite nel corso delle prove di conformita', delle informazioni necessarie per identificare con precisione l'apparecchiatura terminale sottoposta a dette prove, nonche' dell'indicazione precisa della specifica comune di conformita' o della parte di detta specifica che e' servita di base alle prove.
+
+Il certificato di conformita' e' riconosciuto ai fini dell'omologazione dell'apparecchiatura terminale considerata.
+
+Le specifiche comuni di conformita' sono utilizzate per qualsiasi verifica necessaria ai fini dell'omologazione dell'apparecchiatura terminale considerata.
+
+## Art. 7.
+
+Le specifiche comuni di conformita' e le NET sono pubblicate nella Gazzetta Ufficiale della Repubblica italiana in allegato ad apposito decreto del Ministro delle poste e delle telecomunicazioni.
+
+## Art. 8. — Art. 7, paragrafo 1, della direttiva
+
+L'Ispettorato generale delle telecomunicazioni rilascia, a domanda, il certificato di omologazione delle apparecchiature terminali di telecomunicazioni.
+
+Quando l'omologazione riguarda un'apparecchiatura per la quale sia stata adottata una specifica comune di conformita', la documentazione a corredo della domanda deve comprendere anche il certificato di conformita' alla stessa specifica comune di conformita' completo delle informazioni e dei dati di cui al precedente art. 6, comma 3.
+
+## Art. 9. — Art. 7, paragrafo 2, della direttiva
+
+Il Ministro delle poste e delle telecomunicazioni nomina un'apposita commissione tecnica, di cui fa parte almeno un rappresentante dell'Istituto superiore delle poste e delle telecomunicazioni, con il compito di accertare la rispondenza dei laboratori di prova al sistema di accreditamento fissato dalla CEPT, tenendo conto anche delle pertinenti guide UNI-CEI e/o ISO-IEC.
+Sentito il parere della commissione, il Ministro accredita, con proprio decreto, da pubblicarsi nella Gazzetta Ufficiale della Repubblica italiana, detti laboratori come competenti a verificare la conformita' delle apparecchiature terminali di telecomunicazioni alle specifiche comuni di conformita'. Sulla base del rapporto concernente le verifiche effettuate da detti laboratori l'Istituto superiore delle poste e delle telecomunicazioni rilascia il relativo certificato di conformita' alle specifiche comuni di conformita'.
+
+Le domande per l'accreditamento dei laboratori di prova vanno indirizzate all'Ispettorato generale delle telecomunicazioni.
+
+Il Ministro delle poste e delle telecomunicazioni comunica alla commissione delle Comunita' europee l'elenco dei laboratori accreditati e trasmette annualmente alla medesima commissione una relazione predisposta dall'Istituto superiore delle poste e delle telecomunicazioni, sulle attivita' svolte dai laboratori nella materia oggetto del presente decreto.
+ Gli elenchi e la relazione sono inviati, per informazione, al comitato di cui all'art. 5, comma 1.
+ Le domande intese ad ottenere la verifica ed il certificato di cui al primo comma vanno rivolte al competente laboratorio accreditato, dandone comunicazione all'Istituto superiore delle poste e delle telecomunicazioni.
+
+## Art. 10. — Art. 7, paragrafo 4, della direttiva
+
+Qualora la commissione delle Comunita' europee non abbia richiesto alla CEPT una revisione della specifica comune di conformita', la deroga adottata dai gestori dei servizi pubblici di telecomunicazioni scade quando un altro Stato membro presenti al comitato di cui all'art. 5, comma 1, la prova che una apparecchiatura terminale, rispondente alla stessa specifica comune di conformita', sia stata collegata alla sua rete pubblica di telecomunicazioni in condizioni commerciali normali.
+
+Nell'ipotesi di cui al comma precedente, l'Ispettorato generale delle telecomunicazioni puo' chiedere alla commissione delle Comunita' europee una proroga della deroga, quando sussistano condizioni tecniche ed economiche nazionali sufficientemente diverse da quelle dell'altro Stato membro, tali da giustificare la proroga stessa.
+
+Nel caso di deroga ad una specifica comune di conformita' adottata da altri Paesi membri, il medesimo Ispettorato comunica al comitato di cui all'art. 5, comma 1, la prova che un'apparecchiatura terminale rispondente a detta specifica e' stata collegata alla rete pubblica di telecomunicazioni nazionali in condizioni commerciali normali.
+
+## Art. 11. — Art. 8 della direttiva
+
+Quando la decisione riguarda la protezione degli utenti di una apparecchiatura terminale dall'elettricita', si applicano le procedure di cui all'art. 9 della direttiva n. 73/23/CEE del 19 febbraio 1973, attuata con legge 18 ottobre 1977, n. 791.
+
+I rimborsi per le spese sostenute dalla commissione delle Comunita' europee per le prove supplementari che abbiano condotto alla emissione di un parere contrario alla decisione dell'Ispettorato generale delle telecomunicazioni di soprassedere, nella ipotesi di cui alla lettera a) del precedente comma 1, al riconoscimento di un certificato di conformita' sono a carico del bilancio dell'Amministrazione delle poste e delle telecomunicazioni.
+
+L'Ispettorato generale delle telecomunicazioni concorda con la suddetta commissione le modalita' del rimborso.
+
+Qualora, previ i necessari accertamenti, risulti che un'apparecchiatura terminale gia' omologata non soddisfi una o piu' esigenze essenziali, l'Ispettorato generale delle telecomunicazioni puo' dichiarare nulla l'omologazione rilasciata. In tal caso l'ispettorato avvia immediatamente le procedure di cui ai commi 1 e 2 del presente articolo.
+
+## Art. 12. — Art. 7, paragrafo 5, della direttiva
+
+Con decreto del Ministro delle poste e delle telecomunicazioni sono stabiliti, in conformita' a quanto convenuto in sede di comitato di cui all'art. 5, comma 1, i criteri per la determinazione dei corrispettivi per l'esecuzione di una stessa serie di prove di conformita' nei laboratori accreditati.
+
+## Art. 13. — Art. 10 della direttiva
+
+Resta impregiudicata l'applicazione della direttiva n. 83/189/CEE del 28 marzo 1983, attuata con legge 21 giugno 1986, n. 317.
+
+## Art. 14.
+
+Le disposizioni del presente decreto entrano in vigore il quindicesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+

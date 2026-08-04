@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2026
+data: 1962-12-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-03;2026
+codice_redazionale: 062U2026
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 dicembre 1962
+                2026
+                Erezione in ente morale dell'Associazione "Centro di Azione Latina", con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 dicembre 1962, col quale, sulla proposta del Ministro per gli affari esteri, l'Associazione "Centro di Azione Latina", con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 8 marzo 1963
+ Atti del Governo, registro n. 165, foglio n. 99. - VILLA
+

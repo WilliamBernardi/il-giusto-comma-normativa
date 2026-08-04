@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 165
+data: 1971-03-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-18;165
+codice_redazionale: 071U0165
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 marzo 1971
+                165
+                Modificazione allo statuto del consorzio per il nucleo di sviluppo industriale di Ragusa.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto del Presidente della Repubblica del 3 aprile 1963, n. 791, con il quale e' stato approvato lo statuto del consorzio per il nucleo di sviluppo industriale di Ragusa;
+ Vista la deliberazione n. 3 del 23 maggio 1970 del consiglio generale del consorzio per il nucleo di sviluppo industriale di Ragusa, che modifica l'art. 12 dell'anzidetto statuto;
+ Vista la nota del Ministero dell'industria, del commercio e dell'artigianato n. 102328/74 del 7 agosto 1970;
+ Visto l'art. 145 del testo unico 30 giugno 1967, n. 1523;
+ Vista la deliberazione del 19 dicembre 1970 del comitato dei Ministri per il Mezzogiorno con l'intervento Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvata la modifica apportata all'art. 12 dello statuto del consorzio per il nucleo di sviluppo industriale di Ragusa nei termini indicati dalla deliberazione n. 3 del 23 maggio 1970 del consiglio generale del consorzio stesso, di cui al testo allegato.
+

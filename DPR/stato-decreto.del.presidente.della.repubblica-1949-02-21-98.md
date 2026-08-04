@@ -1,0 +1,56 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 98
+data: 1949-02-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-02-21;98
+codice_redazionale: 049U0098
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 febbraio 1949
+                98
+                Prelevazione di L. 35.000.000 dal fondo di riserva per le spese
+impreviste, per l'esercizio finanziario 1948-49.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto l'art. 42 del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato; 
+ Visto l'art. 87, quarto e quinto comma, della Costituzione della Repubblica; 
+ Viste le leggi 26 ottobre 1948, n. 1256 e 30 ottobre 1948, n. 1271;
+ Considerato che sul fondo di riserva per le spese impreviste inscritto nello stato di previsione del Ministero del tesoro, per l'esercizio finanziario 1948-49, esiste la necessaria disponibilita'; 
+ Sentito il Consiglio dei Ministri; 
+ Sulla proposta del Ministro Segretario di Stato per il tesoro; 
+ 
+ Decreta: 
+ 
+ Dal fondo di riserva per le spese impreviste inscritto al capitolo n. 353 dello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1948-1949 e' autorizzata la prelevazione di L. 35.000.000 che si inscrivono ai sottoindicati capitoli dello stato di previsione della spesa del Ministero degli affari esteri per il detto esercizio finanziario: 
+ Cap. n. 40. - Congressi, conferenze, ecc............ L. 25.000.000 Cap. n. 70-bis (di nuova istituzione, sotto la nuova 
+rubrica di parte straordinaria "Spese per la Delega- 
+zione italiana per la Cooperazione Economica Europea 
+in Roma "). - Compensi al personale estraneo alla Am- 
+ministrazione dello Stato............................. " 3.500.000 Cap. n. 70-ter (di nuova istituzione). - Compensi 
+speciali in eccedenza ai limiti stabiliti per il lavo- 
+ro straordinario da corrispondere a funzionari ed im- 
+piegati delle varie Amministrazioni statali addetti 
+alla Delegazione (art. 6 del decreto legislativo Pre- 
+sidenziale 27 giugno 1946, n. 19)..................... L. 1.000.000 Cap. n. 70-quater (di nuova istituzione). - Spese di 
+ufficio e di cancelleria - Spese postali, telegrafiche 
+e telefoniche - Riscaldamento ed illuminazione - Pub- 
+blicazioni e traduzioni............................... " 1.800.000 Cap. n. 70-quinquies (di nuova istituzione). - Spese 
+per gli automezzi..................................... " 3.500.000 Cap. n. 70 -sexies (di nuova istituzione). - Spese 
+di rappresentanza..................................... " 200.000 
+ ----------- 
+ Totale... L. 35.000.000 
+ ----------- 
+ 
+ 
+ Questo decreto sara' presentato al Parlamento per la sua convalidazione. Il Ministro proponente e' autorizzato alla presentazione del relativo disegno di legge.
+

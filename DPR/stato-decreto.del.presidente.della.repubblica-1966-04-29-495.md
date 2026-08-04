@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 495
+data: 1966-04-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-04-29;495
+codice_redazionale: 066U0495
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 aprile 1966
+                495
+                Autorizzazione all'accettazione a favore del Commissariato per la gioventu' italiana di una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 aprile 1966, col quale, sulla proposta del Ministro per il tesoro, il Commissariato per la gioventu' italiana, con sede in Roma, lungotevere Diaz, 20, viene autorizzato ad accettare dal comune di Pescopennataro (Campobasso) la donazione di un appezzamento di terreno di due ettari circa, sito in Pescopennataro, contrada Bosco Abeti Soprani, distinto in catasto rustico vecchio alla partita 52, sezione B, n. 83, come da rogito notarile Gaetano Amoroso n. 34217 del 21 maggio 1953.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 30 giugno 1966
+ Atti del Governo, registro n. 204, foglio n. 10. - DI PRETORO
+

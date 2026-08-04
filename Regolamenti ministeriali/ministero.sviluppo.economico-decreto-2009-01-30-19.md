@@ -1,0 +1,149 @@
+---
+tipo: DECRETO
+numero: 19
+data: 2009-01-30
+titolo: ""
+urn: urn:nir:ministero.sviluppo.economico:decreto:2009-01-30;19
+codice_redazionale: 009G0026
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+vigenza_date: 2015-03-13
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:40Z
+---
+
+DECRETO
+                30 gennaio 2009
+                19
+                 Regolamento recante norme per l'amministrazione, la contribuzione e i limiti di intervento del Fondo di garanzia per i mediatori di assicurazione e di riassicurazione, in attuazione dell'articolo 115 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209.
+
+Entrata in vigore del provvedimento: 1/4/2009
+
+DELLO SVILUPPO ECONOMICO
+
+Sentito l'Istituto per la vigilanza sulle assicurazioni private ed acquisito per ragioni di opportunita' anche il parere del Ministero dell'economia e delle finanze;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 24 novembre 2008;
+
+## Art. 1. — Definizioni
+
+## Art. 2. — (( (Limiti di intervento del Fondo). ))
+
+((
+
+Nel rispetto dei limiti di cui al comma 1, i risarcimenti sono liquidati secondo l'ordine cronologico delle richieste pervenute al Fondo.
+
+Fermi i limiti d'importo indicati al comma 1, il Fondo risarcisce gli aventi causa dell'assicurato o dell'impresa di assicurazione o di riassicurazione esclusivamente per il diritto che l'assicurato o l'impresa di assicurazione o di riassicurazione poteva far valere nei confronti del Fondo. Il Fondo oppone a tali aventi causa le stesse eccezioni opponibili all'assicurato o all'impresa di assicurazione o di riassicurazione.
+
+La garanzia del Fondo ha ruolo sussidiario e interviene per il mancato indennizzo previsto dalla polizza ai sensi dell'articolo 115 del codice.
+
+))
+
+## Art. 3. — Patrimonio del Fondo
+
+Il patrimonio del Fondo e' costituito dai contributi degli aderenti, da versamenti volontari, dai redditi patrimoniali e da ogni altro provento consentito dalla legge.
+
+Il Fondo succede nei rapporti attivi e passivi al Fondo di garanzia gia' previsto dall'articolo 4, comma 1, lettera f), della legge 28 novembre 1984, n. 792.
+
+## Art. 4. — Funzionamento del Comitato
+
+Il Comitato nomina il vicepresidente scegliendolo tra i suoi componenti.
+
+Il presidente e i componenti del Comitato durano in carica tre anni.
+
+Le funzioni di segretario del Comitato sono svolte da un dipendente della CONSAP nominato dal Comitato su designazione della CONSAP medesima.
+
+Il Comitato e' convocato dal presidente in via ordinaria almeno una volta ogni tre mesi e in via straordinaria quando necessario o su richiesta di almeno tre suoi componenti.
+
+Il Comitato delibera con la presenza di almeno quattro membri a maggioranza dei voti dei presenti. In caso di parita' prevale il voto del presidente.
+
+I verbali sono riportati integralmente nel registro delle sedute del Comitato e sono predisposti dal segretario e sottoscritti dal presidente.
+
+Con il decreto di nomina del Comitato si stabilisce la misura del compenso annuale nonche' del gettone di presenza alle adunanze, spettanti al Presidente ed ai componenti; per i membri residenti fuori Roma vengono rimborsate le spese documentate di viaggio e soggiorno.
+
+## Art. 5. — Funzioni del Comitato
+
+Il Comitato: 
+ ((a) adotta gli atti di amministrazione affidando le attivita' conseguenti alla CONSAP sulla base di apposito atto convenzionale a titolo oneroso che disciplina tutti i servizi forniti dalla CONSAP medesima, ivi compresa la tenuta della contabilita', dei libri e della corrispondenza e la conservazione degli atti e dei documenti relativi alla gestione;))
+                            ((a-bis) determina in via generale i documenti e gli atti che i danneggiati devono produrre per l'esame della richiesta di intervento del Fondo curandone la pubblicazione sul sito della CONSAP e richiede eventuali documenti integrativi rispetto a quelli presentati dal danneggiato;)) 
+ b) delibera sulle domande di risarcimento presentate ai sensi dell'articolo 9; 
+ c) delibera il rendiconto finanziario e approva la relativa relazione di accompagnamento; 
+ d) fornisce annualmente al Ministero dello sviluppo economico ogni elemento utile per la determinazione del contributo annuale dei mediatori.
+
+## Art. 6. — Presidente del Comitato
+
+Il presidente del Comitato adotta i provvedimenti di urgenza, sottoponendoli alla ratifica del Comitato nella prima seduta.
+
+Il vicepresidente esercita le funzioni del presidente in caso di assenza o impedimento di questo.
+
+## Art. 7. — (( (Segretario del Comitato). ))
+
+((
+
+))
+
+## Art. 8. — Norme per la nomina dei componenti del Comitato in rappresentanza degli intermediari e delle imprese di assicurazione e di riassicurazione
+
+I componenti del Comitato in rappresentanza dei mediatori e delle imprese di assicurazione e di riassicurazione, nominati con decreto del Ministro dello sviluppo economico, sono prescelti nell'ambito di apposite terne di nominativi proposte dalle relative associazioni di categoria maggiormente rappresentative.
+
+## Art. 9. — (( (Modalita' di intervento del Fondo). ))
+
+((
+
+L'intervento del Fondo e' attivato con richiesta risarcitoria, inoltrata mediante lettera raccomandata con avviso di ricevimento o mediante altra modalita' telematica idonea a garantire la certezza della ricezione, indirizzata al Fondo. La richiesta e' corredata dalla documentazione comprovante i fatti e le circostanze che hanno determinato il sinistro, gli elementi che fondano la legittimazione a chiedere l'intervento del Fondo, nonche' la previa richiesta di risarcimento al mediatore, in conformita' a quanto stabilito dal Comitato.
+
+Il Fondo contatta, ove necessario, il mediatore e i mediatori solidalmente responsabili, ed entro trenta giorni dal ricevimento della domanda di risarcimento di cui al comma 1, in ragione dei fatti e delle circostanze che hanno determinato il sinistro trasmette agli assicuratori che hanno stipulato la polizza di cui agli articoli 110 e 112, comma 3, del codice, la domanda di risarcimento stessa, comprensiva della documentazione allegata.
+
+Gli assicuratori sono tenuti a comunicare al Fondo entro trenta giorni dal ricevimento della documentazione se il sinistro sia risarcibile per effetto della polizza entro il limite del massimale ovvero le ragioni per le quali il danno non e' risarcibile.
+
+Nel caso in cui l'assicuratore comunichi che il sinistro non e' risarcibile, ovvero anche quando non fornisca alcuna comunicazione nel termine di cui al comma 3, il Fondo provvede a risarcire il danneggiato entro novanta giorni dal ricevimento della comunicazione dell'assicuratore o dal giorno successivo alla scadenza del termine di cui al comma 3.
+
+Qualora l'assicuratore comunichi che il danno e' risarcibile per effetto della polizza, il Fondo, entro e non oltre trenta giorni dalla ricezione della comunicazione dell'assicuratore, informa il danneggiato di tale circostanza, allegando copia della risposta dell'assicuratore. Il danneggiato che non sia stato indennizzato dagli assicuratori che hanno stipulato la polizza entro sei mesi dalla ricezione della comunicazione di cui al punto precedente, rende nota tale circostanza al Fondo che provvede al risarcimento entro novanta giorni.
+
+Il Fondo trasmette copia della domanda di risarcimento di cui al comma 1, comprensiva della documentazione allegata, all'IVASS per gli eventuali provvedimenti di competenza ai sensi dell'articolo 329 e seguenti del codice.
+
+Il Fondo puo' agire in giudizio contro gli assicuratori per far accertare il loro obbligo a risarcire il danno nei limiti del massimale e puo' chiamarli in causa a norma dell'articolo 1917, comma quarto, del Codice civile. In ogni caso, il Fondo che ha pagato il sinistro anche nel caso di silenzio dell'assicuratore puo' attivare tutti i diritti e le azioni nei confronti di quest'ultimo allo scopo di recuperare le somme corrisposte, nonche' per far accertare che il sinistro liquidato rientrava nella copertura.
+
+))
+
+## Art. 10. — Surrogazione del Fondo
+
+Il Fondo che ha risarcito il danneggiato ai sensi dell'articolo 9, e' surrogato secondo quanto stabilito dall'articolo 115, comma 5, del codice, nei diritti del danneggiato verso il mediatore, fino alla concorrenza dei pagamenti effettuati a favore del danneggiato stesso.
+
+## Art. 11. — Contributi annuali
+
+Il contributo a carico dei singoli aderenti al Fondo, e' determinato entro il 31 maggio di ciascun anno con decreto del Ministro dello sviluppo economico ai sensi dell'articolo 115, comma 3, del Codice.
+
+Il contributo e' versato al Fondo entro la data fissata nel decreto di cui al comma 1. Entro lo stesso termine annuale i mediatori trasmettono al Fondo una dichiarazione sostitutiva di atto di notorieta' ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante le provvigioni acquisite nell'esercizio chiuso nell'anno solare precedente quello del versamento. Il Fondo puo' chiedere ulteriori documentazioni comprovanti le dichiarazioni acquisite e, ove occorre, segnalare al Ministero dello sviluppo economico l'opportunita' di chiedere all'((IVASS)) eventuali ulteriori verifiche.
+
+## Art. 12. — Mancato pagamento dei contributi
+
+Decorsi inutilmente trenta giorni dal termine per il pagamento dei contributi stabilito ai sensi dell'articolo 11, comma 2, il Fondo da' notizia dell'inadempienza riscontrata all'((IVASS)), che provvede per quanto di sua competenza.
+
+L'((IVASS)) comunica al Fondo i provvedimenti di cancellazione dal registro adottati nei confronti dei mediatori inadempienti.
+
+## Art. 13. — Esercizio finanziario
+
+L'esercizio finanziario inizia il primo gennaio e termina il 31 dicembre di ogni anno.
+
+## Art. 14. — Rendiconto finanziario
+
+Al rendiconto e' allegata una relazione, approvata dal Comitato, che illustra le singole voci del rendiconto.
+
+Entro dieci giorni dalla delibera di approvazione di cui al comma 1, il Comitato trasmette il rendiconto alla CONSAP che lo approva nei successivi trenta giorni. Il rendiconto approvato dalla CONSAP e' trasmesso entro dieci giorni al Ministero dello sviluppo economico.
+
+## Art. 15. — Situazione patrimoniale
+
+La riserva premi costituita alla fine di ogni esercizio per far fronte agli oneri derivanti dagli obblighi di risarcimento di cui all'articolo 2, e' pari all'intero ammontare dei contributi versati dagli aderenti al Fondo in ciascun esercizio, compresi i rendimenti finanziari relativi agli investimenti dei contributi stessi, al netto dei sinistri dell'esercizio pagati o riservati e degli oneri di qualsiasi natura sopportati per la gestione e il funzionamento del Fondo stesso. L'obbligo di accantonamento a riserva cessa quando l'ammontare della riserva premi e' pari a quaranta volte l'ammontare del massimale annuo globale per tutti i sinistri previsto dall'articolo 110, comma 3, del Codice.
+
+La riserva sinistri e' costituita alla fine di ciascun esercizio accantonando l'ammontare complessivo delle somme che, da una prudente valutazione effettuata in base ad elementi obiettivi, risultino necessarie per far fronte al pagamento dei sinistri avvenuti nell'esercizio o in quelli precedenti e non ancora liquidati, nonche' alle relative spese di liquidazione.
+
+L'importo dei sinistri di un esercizio che eccede l'ammontare dei contributi dell'esercizio stesso e' imputato sull'accantonamento della riserva premi costituito alla fine dell'esercizio precedente.
+
+## Art. 16. — Vigilanza
+
+Il Fondo e' posto sotto la vigilanza del Ministero dello sviluppo economico.
+
+Il Ministero dello sviluppo economico puo' chiedere in qualunque momento al Fondo notizie e dati sulla gestione del Fondo stesso e disporre accertamenti ove lo ritenga necessario.
+

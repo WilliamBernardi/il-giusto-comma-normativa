@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 393
+data: 1929-02-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-02-28;393
+codice_redazionale: 029U0393
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:03Z
+---
+
+REGIO DECRETO
+                28 febbraio 1929
+                393
+                Variante al piano regolatore di Tripoli interessante la piazza Italia e zone adiacenti. (029U0393)
+
+Entrata in vigore del provvedimento: 21/04/1929
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

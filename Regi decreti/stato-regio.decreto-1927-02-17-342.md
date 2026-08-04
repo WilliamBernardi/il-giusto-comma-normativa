@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 342
+data: 1927-02-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-02-17;342
+codice_redazionale: 027U0342
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:21Z
+---
+
+REGIO DECRETO
+                17 febbraio 1927
+                342
+                Equiparazione dell'Istituto dei sordomuti di Genova alle scuole pubbliche elementari ed approvazione della relativa convenzione. (027U0342)
+
+Entrata in vigore del provvedimento: 10/04/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

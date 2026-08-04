@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 52
+data: 1912-01-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1912-01-28;52
+codice_redazionale: 012U0052
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:06Z
+---
+
+REGIO DECRETO
+                28 gennaio 1912
+                52
+                Col quale i piroscafi mercantili «Duca di Genova» e «Duca degli Abruzzi» sono considerati come appartenenti al naviglio da guerra dello Stato. (012U0052)
+
+Entrata in vigore del provvedimento: 01/03/1912
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

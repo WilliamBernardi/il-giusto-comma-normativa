@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 582
+data: 1938-03-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-03-21;582
+codice_redazionale: 038U0582
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:51Z
+---
+
+REGIO DECRETO
+                21 marzo 1938
+                582
+                Riconoscimento, agli effetti civili, della nuova parrocchia di S.
+Maria del Carmelo, in S. Maria di Licodia (Catania). (038U0582)
+
+Entrata in vigore del provvedimento: 12/06/1938
+
+## Art. 1.
+
+N.
+
+R. decreto 21 marzo 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Catania in data 22 novembre 1937-XVI con il quale viene eretta la nuova parrocchia sotto il titolo di S. Maria del Carmelo nel comune di S. Maria di Licodia, (Catania). 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 18 maggio 1938 - Anno XVI
+

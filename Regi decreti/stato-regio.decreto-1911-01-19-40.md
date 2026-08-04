@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 40
+data: 1911-01-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1911-01-19;40
+codice_redazionale: 011U0040
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:36Z
+---
+
+REGIO DECRETO
+                19 gennaio 1911
+                40
+                Trasformazione di Opere pie. (011U0040)
+
+Entrata in vigore del provvedimento: 08/03/1911
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

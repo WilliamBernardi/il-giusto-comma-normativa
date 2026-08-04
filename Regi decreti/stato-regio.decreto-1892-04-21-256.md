@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1892-04-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-04-21;256
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:44Z
+---
+
+REGIO DECRETO
+                21 aprile 1892
+                CCLVI
+                Che concentra l'amministrazione della congregazione di carita' di Pagliero, frazione del comune di San Damiano Macra, in quella del capoluogo. (9200256R)
+
+Entrata in vigore del provvedimento: 28/05/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 24
+data: 1984-01-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-01-10;24
+codice_redazionale: 084U0024
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 gennaio 1984
+                24
+                Autorizzazione alla Societa' italiana degli autori ed editori, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 gennaio 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la Societa' italiana degli autori ed editori (S.I.A.E.), in Roma, viene autorizzata ad acquistare un immobile sito in La Spezia, piazza Verdi n. 41, piano primo, composto di otto vani, censito al nuovo catasto edilizio urbano alla partita n. 5527, foglio 36, mappale 1 subalterno 6, zona censuaria 1, valutato da perizia estimativa di parte L. 170.000.000, come da atto di compravendita 5 febbraio 1981, n. 65.350/4472 di repertorio, a rogito dottor Adriano Cecchi, notaio in La Spezia, registrato a La Spezia in data 12 febbraio 1981 al n. 598.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 15 febbraio 1984
+ Registro n. 2 Presidenza, foglio n. 129
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 255
+data: 1965-03-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-05;255
+codice_redazionale: 065U0255
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 marzo 1965
+                255
+                Riconoscimento della personalita' giuridica della casa Salesiana di San Giovanni Bosco, denominata "Istituto Don Bosco", con sede in Brindisi.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 marzo 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita', giuridica della Casa Salesiana, di San Giovanni Bosco, denominata "Istituto Don Bosco", con sede in Brindisi.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 aprile 1965
+ Atti del Governo, registro n. 192, foglio n. 31. - VILLA
+

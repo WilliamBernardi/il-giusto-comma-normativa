@@ -1,0 +1,34 @@
+---
+tipo: LEGGE
+numero: 7
+data: 2025-01-31
+titolo: ""
+urn: urn:nir:stato:legge:2025-01-31;7
+vigente: true
+source: normattiva-opendata
+collection: DL e leggi di conversione
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:46:28Z
+---
+
+LEGGE
+                31 gennaio 2025
+                7
+                Conversione in legge del decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorita' governative dell'Ucraina. (25G00014)
+
+Entrata in vigore del provvedimento: 01/02/2025
+
+La Camera dei deputati ed il Senato della Repubblica hanno approvato;
+            
+            
+                IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                Promulga la seguente legge:
+
+## Art. 1.
+
+E' convertito in legge il decreto-legge 27 dicembre 2024, n. 200, recante disposizioni urgenti per la proroga dell'autorizzazione alla cessione di mezzi, materiali ed equipaggiamenti militari in favore delle autorita' governative dell'Ucraina.
+
+La presente legge entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+

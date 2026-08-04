@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 113
+data: 1972-02-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-02-11;113
+codice_redazionale: 072U0113
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 febbraio 1972
+                113
+                Autorizzazione all'Universita' degli studi di Urbino ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 febbraio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Urbino viene autorizzata ad acquistare un immobile sito in Urbino, in via Veterani e via di Ruscio, denominato palazzo Veterani, descritto nel nuovo catasto edilizio urbano del comune di Urbino alla partita 589, mappale 755, al prezzo di L. 85.000.000.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 marzo 1972
+ Atti del Governo, registro n. 248, foglio n. 5. - VALENTINI
+

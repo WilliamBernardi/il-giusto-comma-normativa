@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1139
+data: 1965-09-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-09-05;1139
+codice_redazionale: 065U1139
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 settembre 1965
+                1139
+                Riconoscimento, agli effetti civili, dell'unione della Parrocchia di Sant'Antonio al Bosco, nel comune di Poggibonsi, con la Parrocchia di San Cirino a Badia a Isola nel comune di Monteriggioni (Siena).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 settembre 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Colle Val d'Elsa in data 1 marzo 1965, relativo all'unione temporanea, nella forma "aeque principaliter" della Parrocchia di Sant'Antonio al Bosco nel comune di Poggibonsi con la Parrocchia di San Cirino a Badia a Isola del comune di Monteriggioni (Siena).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 12 ottobre 1965
+ Atti del Governo, registro n. 197, foglio n. 72. - VILLA
+

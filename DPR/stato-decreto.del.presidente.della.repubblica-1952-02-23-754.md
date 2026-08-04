@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 754
+data: 1952-02-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-02-23;754
+codice_redazionale: 052U0754
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 febbraio 1952
+                754
+                Classifica tra i comprensori di bonifica del territorio del Consorzio Bacchiglione-Brentella nelle province di Padova e Vicenza.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la domanda 6 marzo 1947, con la quale il Consorzio Bacchiglione-Brentella, con sede in Padova, ha chiesto, la classifica del proprio comprensorio, della superficie di ettari 10.237.71 fra quelli di bonifica ai sensi e per gli effetti del regio decreto 13 febbraio 1933, n. 215;
+ Vista la corografia 1: 25.000 del comprensorio da classificare suddiviso in 10 bacini e delimitato a nord dalla strada comunale del Borghetto; ad ovest: dai fiumi Ceresone Nuovo e Tesina; a sud: dal fiume Bacchiglione; ad est: dal canale Brentella, dalla strada Padova Villafranca e dalla roggia Contarina;
+ Ritenuto che e' stata compiuta la pubblicazione degli atti senza opposizioni o reclami;
+ Sentito il Comitato speciale per la bonifica;
+ Visto l'art. 3 del regio decreto 13 febbraio 1933, n. 215;
+ Sulla proposta del Ministro per l'agricoltura e per le foreste di concerto con i Ministri per il tesoro e per i lavori pubblici;
+
+ Decreta:
+
+ Il territorio del Consorzio Bacchiglione-Brentella della estensione di ha. 10.237.71, ricadente nelle province di Padova e Vicenza e delimitato come nelle premesse, e' classificato fra i comprensori di bonifica "di 2ª categoria" sulla base della corografia che munita del "visto" del Ministro proponente forma parte integrante del presente decreto.
+

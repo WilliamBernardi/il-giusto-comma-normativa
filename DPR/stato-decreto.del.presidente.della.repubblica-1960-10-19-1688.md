@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1688
+data: 1960-10-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-19;1688
+codice_redazionale: 060U1688
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 ottobre 1960
+                1688
+                Modificazioni allo statuto dell'Universita' degli studi di Siena.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Siena, approvato con regio decreto 13 ottobre 1927, n. 2831, modificato con regio decreto 31 ottobre 1929, n. 2395 e successivi;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 56, relativo alle norme generali delle Scuole di specializzazione ammesse alla Facolta' di medicina e chirurgia e' cosi' modificato:
+ "Alle Scuole di specializzazione sono ammessi i laureati in medicina e chirurgia, i quali, tuttavia, per poter adire all'esame di diploma devono avere conseguito l'abilitazione all'esercizio della professione.
+ Il Consiglio della Scuola su proposta del direttore, puo' concedere una abbreviazione al massimo di un anno del corso di specializzazione a quegli aspiranti che oltre alle condizioni prescritte per l'ammissione normale documentino una specifica attivita' e diano prova della loro preparazione tecnica e culturale.
+In ogni caso, pero' gli iscritti saranno tenuti al pagamento delle tasse e a sostenere gli esami speciali previsti anche per l'anno di corso dalla frequenza del quale sono stati esonerati".
+

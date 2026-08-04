@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4115
+data: 1952-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-01;4115
+codice_redazionale: 052U4115
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 dicembre 1952
+                4115
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Sant'Antonio di Padova, in Corleto Perticara (Potenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 dicembre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Tricarico in data 24 giugno 1951, integrato con dichiarazione 10 maggio 1952, relativo all'erezione della parrocchia di Sant'Antonio di Padova, in Corleto Perticara (Potenza).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 10 gennaio 1953
+ Atti del Governo, registro n. 68, foglio n. 22. - PALLA
+

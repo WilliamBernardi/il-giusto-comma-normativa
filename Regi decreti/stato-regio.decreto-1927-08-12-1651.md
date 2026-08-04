@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1651
+data: 1927-08-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-08-12;1651
+codice_redazionale: 027U1651
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:58Z
+---
+
+REGIO DECRETO
+                12 agosto 1927
+                1651
+                Erezione in ente morale dell'Asilo infantile di Cavaria. (027U1651)
+
+Entrata in vigore del provvedimento: 13/10/1927
+
+## Art. 1.
+
+N.
+
+R. decreto 12 agosto 1927, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, l'Asilo infantile di Cavaria viene eretto in ente morale e ne e' approvato lo statuto organico. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 23 settembre 1927 - Anno V
+

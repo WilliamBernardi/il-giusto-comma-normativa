@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 985
+data: 1955-09-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-09-20;985
+codice_redazionale: 055U0985
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 settembre 1955
+                985
+                Trasferimento della sede municipale del comune di Tavagnacco, in provincia di Udine, alla frazione Feletto Umberto.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Tavagnacco (Udine) in data 15 novembre 1953, n. 83, con la quale e' stato chiesto di trasferire la sede municipale dall'attuale capoluogo alla frazione Feletto Umberto;
+ Vista la deliberazione del Consiglio provinciale di Udine in data 5 marzo 1955, n. 12, con la quale e' stato espresso parere in ordine alla precitata richiesta;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto del 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La sede municipale del comune di Tavagnacco, in provincia di Udine, e' trasferita dall'attuale capoluogo alla frazione Feletto Umberto.
+

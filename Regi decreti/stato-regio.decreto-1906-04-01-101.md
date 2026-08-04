@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 101
+data: 1906-04-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-04-01;101
+codice_redazionale: 006U0101
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:43Z
+---
+
+REGIO DECRETO
+                01 aprile 1906
+                101
+                Che convoca il collegio elettorale politico di Taranto (Lecce). (006U0101)
+
+Entrata in vigore del provvedimento: 27/04/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

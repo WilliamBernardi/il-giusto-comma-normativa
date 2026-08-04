@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1231
+data: 1964-10-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-10-13;1231
+codice_redazionale: 064U1231
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 ottobre 1964
+                1231
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Martino V. C., in frazione Raschiacco del comune di Faedis (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 ottobre 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 29 agosto 1963, integrato con quattro dichiarazioni di cui la prima del 12 settembre 1963, la seconda e la terza in data 11 novembre 1963 e la quarta del 3 giugno 1964, relativo alla erezione della Parrocchia di San Martino V. C., in frazione Raschiacco del comune di Faedis (Udine).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 novembre 1964
+ Atti del Governo, registro n. 188, foglio n. 95. - VILLA
+

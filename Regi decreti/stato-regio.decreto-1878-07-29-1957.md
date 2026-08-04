@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+data: 1878-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1878-07-29;1957
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:12Z
+---
+
+REGIO DECRETO
+                29 luglio 1878
+                MDCCCCLVII
+                Che erige in corpo morale il Ricovero di mendicita' Minei-Taranto in Gioja del Colle (Bari), ed inverte a favore del medesimo le rendite di alcune opere pie esistenti in quel comune. (7801957R)
+
+Entrata in vigore del provvedimento: 18/09/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 520
+data: 1985-06-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-06-01;520
+codice_redazionale: 085U0520
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 giugno 1985
+                520
+                Riconoscimento della personalita' giuridica della "Casa generalizia della congregazione delle religiose di Nazareth", in Roma, ed autorizzazione alla stessa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 giugno 1985, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della "Casa generalizia della congregazione delle religiose di Nazareth", in Roma. La casa generalizia anzidetta viene, altresi', autorizzata ad accettare la donazione disposta dalla "Provincia italiana dell'istituto delle dame di Nazareth", in Roma, con atto pubblico 9 ottobre 1979, n. 67796 di repertorio, a rogito dott. Nicolo' Bruno, notaio in Roma, consistente in un villino con annesso giardino ed accessori, destinato a sede dell'ente, sito in Roma, via Aristofane n. 41, descritto nella perizia giurata 6-7 ottobre 1980 del geom. Pacifico Bertini e valutato L. 253.000.000 dall'ufficio tecnico erariale di Roma.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 30 settembre 1985
+ Registro n. 34 Interno, foglio n. 393
+

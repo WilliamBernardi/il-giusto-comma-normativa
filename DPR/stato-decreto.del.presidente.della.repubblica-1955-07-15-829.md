@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 829
+data: 1955-07-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-07-15;829
+codice_redazionale: 055U0829
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 luglio 1955
+                829
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia del SS.mo Nome di Maria Vergine, in localita' Bosco del comune di Zevio (Verona).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 luglio 1955, col quale, sulla proposta del Ministro per l'interno viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Verona in data 2 febbraio 1954, integrato con dichiarazione 25 ottobre 1951, relativo alla erezione della parrocchia del SS.mo Nome di Maria Vergine, in localita' Bosco del comune di Zevio (Verona).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 6 settembre 1955
+ Atti del Governo, registro n. 92, foglio n. 144. - CARLOMAGNO
+

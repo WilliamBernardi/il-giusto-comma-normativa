@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-07-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-07-30;850
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:33Z
+---
+
+REGIO DECRETO
+                30 luglio 1863
+                DCCCL
+                Approvativo del regolamento di polizia urbana pel Comune di Pula. (6300850R)
+
+Entrata in vigore del provvedimento: 30/07/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

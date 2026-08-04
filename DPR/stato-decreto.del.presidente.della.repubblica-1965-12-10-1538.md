@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1538
+data: 1965-12-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-10;1538
+codice_redazionale: 065U1538
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 dicembre 1965
+                1538
+                Autorizzazione all'Automobile Club di Modena ad acquistare un immobile in Modena.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 dicembre 1965, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Modena viene autorizzato ad acquistare in proprieta' dalla Societa' "I.M.C.O. - Immobili Costruzioni - Societa' a r. l." con sede in Modena, per il prezzo di L. 2.950.000, sei locali posti al piano seminterrato del fabbricato condominiale, sito in Modena al viale Trento e Trieste, da adibire ad autorimesse della propria autoscuola.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 gennaio 1966
+ Atti del Governo, registro n. 199, foglio n. 66. - VILLA
+

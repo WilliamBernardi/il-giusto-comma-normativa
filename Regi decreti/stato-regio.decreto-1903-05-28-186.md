@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-05-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-05-28;186
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:08Z
+---
+
+REGIO DECRETO
+                28 maggio 1903
+                CLXXXVI
+                Che erige in ente morale i legati Pinna Porcel e Pinna Passino, in Bosa, per la parte destinata a beneficenza. (0300186R)
+
+Entrata in vigore del provvedimento: 28/06/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 195
+data: 1966-02-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-02-25;195
+codice_redazionale: 066U0195
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 febbraio 1966
+                195
+                Autorizzazione all'Automobile Club di Bolzano ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 febbraio 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Bolzano viene autorizzato ad acquistare in proprieta' dai signori Alfredo, Goffredo ed Alfredo Paschke e Walter Seifert, per il prezzo di lire 9.250.000, l'appartamento posto al secondo piano n. int. 3, il locale cantina al piano scantinato e la soffitta al quinto piano del fabbricato sito in Bolzano al corso Italia n. 19-A, per l'ampliamento della sede dei propri uffici.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 aprile 1966
+ Atti del Governo, registro n. 202, foglio n. 129. - VILLA
+

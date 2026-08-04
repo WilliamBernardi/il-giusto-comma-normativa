@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 621
+data: 1968-03-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-20;621
+codice_redazionale: 068U0621
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 marzo 1968
+                621
+                Riconoscimento, agli effetti civili, della unione della parrocchia di Sant'Agata V. M. con quella di S. Leonardo, nel comune di Nebbiuno.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 10 aprile 1967, relativo alla unione perpetua "aeque principalis" della parrocchia di Sant'Agata V. M., in frazione Fosseno del comune di Nebbiuno (Novara), con quella di S. Leonardo, in frazione Tapigliano dello stesso comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 102. - GRECO
+

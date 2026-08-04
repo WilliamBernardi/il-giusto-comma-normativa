@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1509
+data: 1954-12-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-12-24;1509
+codice_redazionale: 054U1509
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 dicembre 1954
+                1509
+                Autorizzazione allo statale Istituto tecnico industriale "A. Rossi" di Vicenza ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 dicembre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, lo statale Istituto tecnico industriale "A. Rossi" di Vicenza viene autorizzato ad accettare la donazione di nominali L. 800.000 in titoli di Stato, disposta a favore dell'Istituto stesso al fine di istituire, col relativo reddito, una borsa di studio annuale intitolata "Ex allievi Istituto tecnico industriale "A. Rossi" di Vicenza - 1878-1953".
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 21 marzo 1955
+ Atti del Governo, registro n. 89, foglio n. 127. - CARLOMAGNO
+

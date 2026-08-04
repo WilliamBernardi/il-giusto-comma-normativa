@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 611
+data: 1965-04-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-24;611
+codice_redazionale: 065U0611
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 aprile 1965
+                611
+                Riconoscimento, agli effetti civili, dell'unione della Parrocchia della B.M.V. di Caravaggio con la Parrocchia del Sacro Cuore di Gesu', in comune di Canal San Bovo (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 aprile 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 30 ottobre 1961, relativo all'unione temporanea nella forma "aeque principaliter" della Parrocchia della B.V.M. di Caravaggio, in frazione Prade del comune di Canal San Bovo (Trento), con la Parrocchia del Sacro Cuore di Gesu' in frazione Zortea del medesimo Comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 4 giugno 1965
+ Atti del Governo, registro n. 193, foglio n. 142. - VILLA
+

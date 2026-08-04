@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 5693
+data: 1888-08-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-08-29;5693
+codice_redazionale: 088U5693
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:28Z
+---
+
+REGIO DECRETO
+                29 agosto 1888
+                5693
+                Che modifica i Regi decreti 24 aprile 1864, N. 1760, e 26 maggio 1887, numero 4555, concernenti le domande di liquidazione delle pensioni dei militari di terra e di mare e delle loro famiglie. (088U5693)
+
+Entrata in vigore del provvedimento: 09/10/1888
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

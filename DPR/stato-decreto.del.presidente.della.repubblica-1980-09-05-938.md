@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 938
+data: 1980-09-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-05;938
+codice_redazionale: 080U0938
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 settembre 1980
+                938
+                Autorizzazione all'"Istituto Giuseppe Toniolo di studi superiori", in Milano, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione, l'"Istituto Giuseppe Toniolo di studi superiori", in Milano, viene autorizzato ad accettare la donazione, consistente in un immobile del valore di L. 1.110.000.000, disposta dalla societa' "S.
+ Francesco d'Assisi" S.p.a., in Milano, con atto pubblico 23 maggio 1978, n. 10976/2115 di repertorio, a rogito dott. Enrico Chiodi Darelli, notaio in Milano.
+
+Visto, il Guardasigilli: SARTI
+ Registrato alla Corte dei conti, addi' 30 dicembre 1980
+ Registro n. 122 Istruzione, foglio n. 20
+

@@ -1,0 +1,716 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 313
+data: 2002-11-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2002-11-14;313
+codice_redazionale: 003G0019
+vigente: true
+source: normattiva-opendata
+collection: Testi Unici
+vigenza_date: 2024-05-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:39:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 novembre 2002
+                313
+                 Testo unico delle disposizioni legislative e regolamentari in
+materia di casellario giudiziale, ((di casellario giudiziale europeo,)) di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti.
+(Testo A).
+
+Entrata in vigore del decreto: 28-2-2003
+
+Acquisito il parere del Garante per la protezione dei dati personali;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 20 maggio 2002;
+
+Acquisito il parere delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+## - Titolo I Oggetto e definizioni
+
+## Art. 1. — Oggetto
+
+
+
+Le norme del presente testo unico disciplinano il casellario giudiziale, ((il casellario giudiziale europeo,)) il casellario dei carichi pendenti, l'anagrafe delle sanzioni amministrative dipendenti da reato, l'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato, i servizi certificativi, le relative procedure. In particolare, disciplinano l'iscrizione, l'eliminazione, la trasmissione e conservazione dei dati, i certificati, le funzioni degli uffici interessati.
+
+## Art. 2. — Definizioni
+
+
+
+## - Titolo II Casellario giudiziale
+
+## Art. 3. — (L) 
+ Provvedimenti iscrivibili
+
+-------------
+                            AGGIORNAMENTO (7)
+                            
+ La L. 28 aprile 2014, n. 67, come modificata dalla L. 11 agosto 2014, n. 118, ha disposto (con l'art. 15-bis, comma 1) che "Le disposizioni di cui al presente capo si applicano ai procedimenti in corso alla data di entrata in vigore della presente legge, a condizione che nei medesimi procedimenti non sia stato pronunciato il dispositivo della sentenza di primo grado". 
+ Ha inoltre disposto (con l'art. 15-bis, comma 2) che "In deroga a quanto previsto dal comma 1, le disposizioni vigenti prima della data di entrata in vigore della presente legge continuano ad applicarsi ai procedimenti in corso alla data di entrata in vigore della presente legge quando l'imputato e' stato dichiarato contumace e non e' stato emesso il decreto di irreperibilita'". 
+                            ---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 4. — Estratto del provvedimento iscrivibile
+
+
+
+((
+
+Quando le informazioni sulla cittadinanza della persona condannata non sono note, o quando la persona condannata e' un apolide, nell'estratto ne e' fatta specifica menzione.
+
+))
+
+## Art. 5. — (L) 
+ Eliminazione delle iscrizioni
+
+((11))
+
+Se sono state applicate misure di sicurezza, i termini previsti dal comma 2 decorrono dalla data della revoca della misura di sicurezza e, se questa e' stata applicata o sostituita con provvedimento giudiziario di esecuzione, e' eliminata anche l'iscrizione relativa a quest'ultimo.
+
+Le iscrizioni di provvedimenti giudiziari relativi a minori di eta' sono eliminate al compimento del diciottesimo anno di eta' della persona cui si riferiscono, eccetto quelle relative al perdono giudiziale, che sono eliminate al compimento del ventunesimo anno, ed eccetto quelle relative ai provvedimenti di condanna a pena detentiva, anche se condizionalmente sospesa. 
+ 
+ (art. 687 c.p..p.; art. 36, primo c., lett. a), r.d. n. 778/1931;
+art. 15 d.P.R. n. 448/1988; artt. 46 e 63 c. 2, d.lgs. n. 274/2000)
+
+-------------
+                            AGGIORNAMENTO (4)
+                            
+ La Corte Costituzionale, con sentenza 4 - 8 ottobre 2010, n. 287 (in G.U. 1a s.s. 13/10/2010 n. 41) ha dichiarato l'illegittimita' costituzionale dell'art. 5, comma 2, lettera d), del d.P.R. 14 novembre 2002, n. 313 (Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti), limitatamente all'inciso "salvo che sia stato concesso alcuno dei benefici di cui agli articoli 163 e 175 del codice penale". 
+                            -------------
+                            AGGIORNAMENTO (7)
+                            
+ La L. 28 aprile 2014, n. 67, come modificata dalla L. 11 agosto 2014, n. 118, ha disposto (con l'art. 15-bis, comma 1) che "Le disposizioni di cui al presente capo si applicano ai procedimenti in corso alla data di entrata in vigore della presente legge, a condizione che nei medesimi procedimenti non sia stato pronunciato il dispositivo della sentenza di primo grado". 
+ Ha inoltre disposto (con l'art. 15-bis, comma 2) che "In deroga a quanto previsto dal comma 1, le disposizioni vigenti prima della data di entrata in vigore della presente legge continuano ad applicarsi ai procedimenti in corso alla data di entrata in vigore della presente legge quando l'imputato e' stato dichiarato contumace e non e' stato emesso il decreto di irreperibilita'". 
+                            ---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## - ((Titolo II-bis Casellario giudiziale europeo))
+
+## Art. 5-bis. — (( (Provvedimenti iscrivibili).))
+
+((
+
+))
+
+## Art. 5-ter. — (Estratto del provvedimento iscrivibile)
+
+## Art. 5-quater. — (( (Eliminazione delle iscrizioni).))
+
+((
+
+Le iscrizioni nel casellario giudiziale europeo sono eliminate a seguito di identica eliminazione comunicata dall'autorita' centrale di altro Stato membro di condanna.
+
+))
+
+## - Titolo III Casellario dei carichi pendenti
+
+## Art. 6. — Provvedimenti iscrivibili
+
+
+
+## Art. 7. — Estratto del provvedimento iscrivibile
+
+
+
+## Art. 8. — Eliminazioni delle iscrizioni
+
+
+
+Le iscrizioni nel casellario dei carichi pendenti sono eliminate:  
+ ((a) per morte della persona alla quale si riferiscono;))
+                                ((11))  b) alla cessazione della qualita' di imputato ai sensi dell'articolo 60, comma 2, del codice di procedura penale. 
+ 
+(art. 110, c. 1, lett. c), d.lgs. n 271/1989 ed estensione del principio di cui all'art. 687, c. 1, c.p.p)
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## - Titolo IV Anagrafe delle sanzioni amministrative dipendenti da reato
+
+## Art. 9. — Provvedimenti iscrivibili
+
+
+
+## Art. 10. — Estratto del provvedimento iscrivibile
+
+
+
+## Art. 11. — Eliminazione delle iscrizioni
+
+
+
+Le iscrizioni nell'anagrafe delle sanzioni amministrative sono eliminate trascorsi cinque anni dal giorno in cui e' stata eseguita la sanzione pecuniaria, o trascorsi dieci anni dal giorno in cui e' cessata l'esecuzione di qualunque altra diversa sanzione, se negli stessi periodi non e' stato commesso un ulteriore illecito amministrativo.
+ (art. 80, c. 2, d.lgs. n. 231/2001)
+
+## - Titolo V Anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato
+
+## Art. 12. — Provvedimenti iscrivibili
+
+
+
+## Art. 13. — Estratto del provvedimento iscrivibile
+
+
+
+## Art. 14. — Eliminazione delle iscrizioni
+
+
+
+Le iscrizioni dell'anagrafe dei carichi pendenti delle sanzioni amministrative sono eliminate alla cessazione della qualita' di ente sottoposto al procedimento di accertamento relativo agli illeciti amministrativi dipendenti da reato.
+ (art. 110, c. 1, lett. c), d.lgs. n. 271/1989, raccordo tra l'art. 35 d.lgs. n. 231/2001 e l'art. 60, c. 2, c.p.p.)
+
+## - Titolo VI Ufficio iscrizione, ufficio territoriale, ufficio locale, ufficio centrale
+
+## Art. 15. — Ufficio iscrizione
+
+((
+                            
+                                (( Art. 15 (L-R) ))
+                                ((11))
+
+L'ufficio iscrizione iscrive per estratto nel sistema ed elimina dal sistema, anche sulla base delle comunicazioni di cui all'articolo 16, i provvedimenti di cui agli articoli 3 e 9, esclusi quelli di competenza dell'ufficio centrale ai sensi dell'articolo 19, commi 3, 4 e 5 (L).)) ((11))
+
+Ai fini dell'eliminazione, ufficio iscrizione e' l'ufficio presso l'autorita' giudiziaria che ha emesso il provvedimento soggetto ad eliminazione per decorso del tempo ai sensi dell'articolo 5, comma 2, lettere e), d), e), f), g) e h), e dell'articolo 11, comma 1, o l'ufficio presso l'autorita' giudiziaria che ha emesso il provvedimento da cui deriva l'eliminazione dell'iscrizione ai sensi dell'articolo 5, comma 2, lettere a), b) ed i), dell'articolo 8, comma 1, lettera b), e dell'articolo l4,comma 1.
+
+L'iscrizione o l'eliminazione e' effettuata quando il provvedimento giudiziario e' definitivo; nel caso di iscrizione di provvedimenti non definitivi, quando il provvedimento e' pubblicato nelle forme di legge.
+
+L'ufficio iscrizione verifica l'esistenza nel fascicolo dei codici identificativi delle persone e degli enti, nonche' del numero identificativo del procedimento; verifica, inoltre, la completezza nel provvedimento dei dati utili ai fini dell'estratto.
+
+L'ufficio iscrizione se riscontra nel fascicolo la mancanza del codice identificativo delle persone o degli enti o del numero identificativo del procedimento provvede ad inserirlo secondo le modalita' previste dai decreti dirigenziali emanati ai sensi degli articoli 42 e 43.
+
+L'ufficio iscrizione se nel provvedimento riscontra dati mancanti o incompleti, lo segnala all'autorita' competente alla correzione, e in particolare, al giudice penale ai sensi dell'articolo 130 del codice di procedura penale, al giudice civile o amministrativo ai sensi dell'articolo 288, secondo comma, del codice di procedura civile, all'autorita' amministrativa che ha emesso il provvedimento.
+
+L'ufficio iscrizione se riscontra contrasti tra il provvedimento da iscrivere e quelli gia' iscritti nel sistema, effettua la segnalazione al pubblico ministero competente ai fini della risoluzione della questione concernente l'iscrizione, ai sensi dell'articolo 40.
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 16. — Comunicazioni all'ufficio iscrizione
+
+
+
+L'ufficio di cancelleria del giudice dell'esecuzione comunica all'ufficio iscrizione l'avvenuta esecuzione della pena pecuniaria e di ogni altra pena ai fini della eliminazione delle iscrizioni collegate al decorso del tempo dall'esecuzione della pena.
+
+## Art. 17. — Ufficio territoriale
+
+
+
+L'ufficio territoriale rilascia i certificati, esclusi quelli richiesti da autorita' straniere, e consente la visura delle iscrizioni.
+ (art. 51 d.lgs. n. 274/2000 e art. 20 d.m. n. 204/2001)
+
+## Art. 18. — Ufficio locale
+
+
+
+L'ufficio locale rilascia i certificati, compresi quelli richiesti da autorita' straniere, e consente la visura delle iscrizioni.
+ (art. 2, terzo c., r.d. n. 778/1931)
+
+## Art. 19. — Ufficio centrale
+
+
+
+L'ufficio centrale iscrive nel sistema l'estratto ed elimina dal sistema le iscrizioni dei provvedimenti amministrativi di espulsione e dei provvedimenti giudiziari che decidono il ricorso avverso questi.
+
+L'ufficio centrale iscrive nel sistema l'estratto delle decisioni definitive adottate dalla Corte europea dei diritti dell'uomo nei confronti dello Stato italiano, concernenti i provvedimenti giudiziali ed amministrativi definitivi delle autorita' nazionali gia' iscritti, di seguito alla preesistente iscrizione cui esse si riferiscono, su richiesta del Dipartimento per gli affari di giustizia del Ministero della giustizia.
+
+L'iscrizione puo' essere effettuata anche su istanza del soggetto o dei soggetti interessati. In tale caso, l'istanza e' presentata direttamente all'ufficio centrale ovvero, qualora si tratti di decisioni della Corte europea dei diritti dell'uomo relative a provvedimenti giudiziari, all'ufficio iscrizione del casellario giudiziale presso l'autorita' giudiziaria che ha emesso il provvedimento cui la decisione si riferisce. L'ufficio iscrizione trasmette senza indugio la richiesta all'ufficio centrale, che provvede alla successiva iscrizione, acquisito il parere del Dipartimento per gli affari di giustizia del Ministero della giustizia.
+
+L'ufficio centrale iscrive nel sistema l'estratto del decreto di grazia.
+
+Si applicano i commi 4, 5 e 6 dell'articolo 15.
+
+L'ufficio centrale elimina dal sistema le iscrizioni relative alle persone decorsi quindici anni dalla morte della persona alla quale si riferiscono e, comunque, decorsi cento anni dalla sua nascita, nonche' le iscrizioni dei provvedimenti giudiziari relativi a minori ai sensi dell'articolo 5, comma 4 (L).(11)
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 20. — Comunicazioni all'ufficio centrale
+
+
+
+L'autorita' che emette i provvedimenti amministrativi di espulsione e i provvedimenti giudiziari che decidono i ricorsi avverso questi ne da' comunicazione all'ufficio centrale senza ritardo.
+
+Il Ministero della giustizia comunica senza ritardo all'ufficio centrale il decreto di grazia.
+
+Il Comune competente comunica senza ritardo all'ufficio centrale l'avvenuta morte della persona.
+
+Con decreto dirigenziale del Ministero della giustizia sono stabilite le modalita' tecnico operative per consentire la rapida trasmissione, anche telematica, dei provvedimenti e delle informazioni, sentita la Presidenza del Consiglio dei Ministri - Dipartimento per l'innovazione e le tecnologie, per le modalita' telematiche, e sentito il Garante per la protezione dei dati personali.
+
+## - TITOLO VII Servizi certificativi  Capo I Servizi certificativi del casellario giudiziale((, del casellario giudiziale europeo)) e del casellario dei carichi pendenti
+
+## Art. 21. — Certificato del casellario giudiziale ((, del casellario giudiziale europeo)) e del casellario dei carichi pendenti acquisito dall'autorita' giudiziaria
+
+
+
+Per ragioni di giustizia, gli uffici che esercitano la giurisdizione penale e quelli del pubblico ministero acquisiscono dal sistema il certificato di tutte le iscrizioni esistenti riferite ad un determinato soggetto.
+
+Previa autorizzazione del giudice procedente, il pubblico ministero acquisisce dal sistema lo stesso certificato concernente la persona offesa dal reato o il testimone, per le finalita' riconosciute dal codice di procedura penale. 
+ (art. 688 c.p.p.: c. 1, primo periodo, c. 2; art. 110, c. 1, lett. c), d.lgs. n. 271/1989)
+
+## Art. 21-bis. — (( (Certificato del casellario giudiziale europeo acquisito dall'autorita' giudiziaria di altro Stato membro dell'Unione europea).))
+
+((
+
+))
+
+## Art. 22. — Certificato del casellario giudiziale ((, del casellario giudiziale europeo)) e del casellario dei carichi pendenti richiesto dal difensore
+
+
+
+Previa autorizzazione del giudice procedente, il difensore ha diritto di ottenere il certificato di tutte le iscrizioni esistenti riferite ad un determinato soggetto, avente la qualita' di persona offesa dal reato o di testimone, per le finalita' riconosciute dal codice di procedura penale. 
+ (art. 688 c.p.p., c. 2, secondo periodo; art. 110, c. 1, lett. c), d.lgs. n. 271/1989)
+
+## Art. 23. — ((ARTICOLO ABROGATO DAL D.LGS. 2 OTTOBRE 2018, N. 122))
+
+
+
+## Art. 24. — Certificato del casellario giudiziale richiesto dall'interessato)(11
+
+
+
+L'interessato ha il diritto di ottenere il certificato senza motivare la richiesta. (11)
+
+Il certificato riguardante un cittadino italiano contiene anche l'attestazione relativa alla sussistenza o non di iscrizioni nel casellario giudiziale europeo. (11)
+
+Se e' stata dichiarata la riabilitazione speciale ai sensi dell'articolo 24 del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, e successive modificazioni, non e' riportata alcuna iscrizione relativa al minore. 
+ 
+ (art. 689 c.p.p, 194, c. 2, att. c.p.p.; artt. 45 e 63, c. 2, d.lgs. n. 274/2000; art. 24, settimo comma, r.d.l. n. 1404/1934, convertito, con modificazioni, dalla l. n. 835/1935) 
+ ((12))
+
+---------------
+                            AGGIORNAMENTO (3)
+                            
+ Il D.Lgs. 12 settembre 2007, n. 169 ha disposto (con l'art. 21, comma 2) che "Per le procedure concorsuali aperte a far data dal 16 gennaio 2006, il richiamo alla riabilitazione civile del fallito disposta con sentenza definitiva, nell'articolo 24 (L), comma 1, lettera n), e nell'articolo 26 (L), comma 1, lettera b), del citato decreto del Presidente della Repubblica n. 313 del 2002, si intende riferito al decreto definitivo di chiusura del fallimento." 
+                            ---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale. 
+                            ---------------
+                            AGGIORNAMENTO (11a)
+                            
+ La Corte Costituzionale, con sentenza 7 novembre - 7 dicembre 2018, n. 231 (in G.U. 1ª s.s. 12/12/2018, n. 49), ha dichiarato "l'illegittimita' costituzionale degli artt. 24, comma 1, e 25, comma 1, del decreto del Presidente della Repubblica 14 novembre 2002, n. 313, recante «Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti (Testo A)», nel testo anteriore alle modifiche, non ancora efficaci, recate dal decreto legislativo 2 ottobre 2018, n. 122 (Disposizioni per la revisione della disciplina del casellario giudiziale, in attuazione della delega di cui all'articolo 1, commi 18 e 19, della legge 23 giugno 2017, n. 103), nella parte in cui non prevedono che nel certificato generale e nel certificato penale del casellario giudiziale richiesti dall'interessato non siano riportate le iscrizioni dell'ordinanza di sospensione del processo con messa alla prova dell'imputato ai sensi dell'art. 464-quater, del codice di procedura penale e della sentenza che dichiara l'estinzione del reato ai sensi dell'art. 464-septies, cod. proc. pen.". 
+                            ---------------
+                            AGGIORNAMENTO (12)
+                            
+ La Corte Costituzionale, con sentenza 24 giugno - 30 luglio 2020, n. 179 (in G.U. 1ª s.s. 5/8/2020, n. 32), ha dichiarato "l'illegittimita' costituzionale dell'art. 24 del d.P.R. 14 novembre 2002, n. 313, recante «Testo unico delle disposizioni legislative e regolamentari in materia di casellario giudiziale, di casellario giudiziale europeo, di anagrafe delle sanzioni amministrative dipendenti da reato e dei relativi carichi pendenti (Testo A)», nella parte in cui non prevede, tanto nella versione antecedente, quanto in quella successiva alle modifiche intervenute ad opera del decreto legislativo 2 ottobre 2018, n. 122 (Disposizioni per la revisione della disciplina del casellario giudiziale in attuazione della delega di cui all'articolo 1, commi 18 e 19, della legge 23 giugno 2017, n. 103), che nel certificato del casellario giudiziale richiesto dall'interessato non siano riportate le iscrizioni della sentenza di condanna per uno dei reati di cui all'art. 186 del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada) che sia stato dichiarato estinto in seguito al positivo svolgimento del lavoro di pubblica utilita', nonche' dell'ordinanza che dichiara l'estinzione del reato medesimo ai sensi dell'art. 186, comma 9-bis, cod. strada".
+
+## Art. 25.
+
+ARTICOLO ABROGATO DAL D.LGS. 2 OTTOBRE 2018, N. 122 ((12))
+
+---------------
+                            AGGIORNAMENTO (12)
+                            
+ La Corte Costituzionale, con sentenza 24 giugno - 30 luglio 2020, n. 179 (in G.U. 1ª s.s. 5/8/2020, n. 32), ha dichiarato "l'illegittimita' costituzionale dell'art. 25 t.u. casellario giudiziale, nel testo in vigore anteriormente alla sua abrogazione ad opera del d.lgs. n. 122 del 2018, nella parte in cui non prevede che nel certificato penale del casellario giudiziale richiesto dall'interessato non siano riportate le iscrizioni della sentenza di condanna per uno dei reati di cui all'art. 186 cod. strada che sia stato dichiarato estinto in seguito al positivo svolgimento del lavoro di pubblica utilita', nonche' dell'ordinanza che dichiara l'estinzione del reato medesimo ai sensi dell'art. 186, comma 9-bis, cod. strada".
+
+## Art. 25-bis.
+
+Certificato ((...)) del casellario giudiziale richiesto dal datore di lavoro ((11))
+
+((Il certificato del casellario giudiziale di cui all'articolo 24)) deve essere richiesto dal soggetto che intenda impiegare al lavoro una persona per lo svolgimento di attivita' professionali o attivita' volontarie organizzate che comportino contatti diretti e regolari con minori, al fine di verificare l'esistenza di condanne per taluno dei reati di cui agli articoli 600-bis, 600-ter, 600-quater, 600-quinquies e 609-undecies del codice penale, ovvero l'irrogazione di sanzioni interdittive all'esercizio di attivita' che comportino contatti diretti e regolari con minori. ((11))
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 25-ter. — (Certificato del casellario giudiziale europeo richiesto dall'interessato)
+
+Il cittadino italiano ha diritto di ottenere, senza motivare la richiesta, il rilascio del certificato contenente le iscrizioni esistenti nel casellario giudiziale europeo, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
+
+Il certificato di cui al comma 1 contiene anche l'attestazione relativa alla sussistenza o non di iscrizioni nel casellario giudiziale. (11)
+
+Il cittadino di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale acquisisce da esso le informazioni relative alle condanne pronunciate nello Stato membro di cittadinanza e a quelle dallo stesso ricevute e conservate, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
+
+((2-bis. Il cittadino di Paese terzo, la persona di cui non e' nota la cittadinanza e l'apolide che rivolge richiesta di informazioni all'Ufficio centrale acquisiscono da esso le informazioni relative alle condanne pronunciate nei loro confronti nei limiti previsti dagli articoli 6 e 7 del decreto legislativo 12 maggio 2016, n. 74.))
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 26. — ((ARTICOLO ABROGATO DAL D.LGS. 2 OTTOBRE 2018, N. 122))
+
+
+
+## Art. 27. — Certificato del casellario dei carichi pendenti richiesto dall'interessato
+
+
+
+L'interessato ha il diritto di ottenere il certificato senza motivare la richiesta.
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 28. — Certificati richiesti dalle amministrazioni pubbliche e gestori di pubblici servizi
+
+
+
+Le amministrazioni pubbliche e i gestori di pubblici servizi, quando e' necessario per l'esercizio delle loro funzioni, hanno diritto di ottenere, con le modalita' di cui all'articolo 39, in relazione a persone maggiori di eta', il certificato selettivo di cui al comma 2 o il certificato generale del casellario giudiziale di cui al comma 3, nonche' i certificati di cui agli articoli 27 e 28-bis.
+
+Il certificato selettivo contiene le sole iscrizioni esistenti nel casellario giudiziale a carico di un determinato soggetto pertinenti e rilevanti rispetto alle finalita' istituzionali dell'amministrazione o del gestore. Ciascuna iscrizione riportata e' conforme all'estratto di cui all'articolo 4.
+
+Il certificato generale riporta tutte le iscrizioni esistenti nel casellario giudiziale a carico di un determinato soggetto ed e' rilasciato quando non puo' procedersi, sulla base delle disposizioni che regolano i singoli procedimenti amministrativi, alla selezione delle iscrizioni pertinenti e rilevanti.
+
+I dati acquisiti dalle amministrazioni pubbliche e dai gestori di pubblici servizi sono trattati nel rispetto delle norme in materia di protezione dei dati personali e solo ai fini del procedimento amministrativo cui si riferisce la richiesta.
+
+Il certificato selettivo e' rilasciato dall'ufficio locale del casellario di cui all'articolo 18 quando motivi tecnici ne impediscono temporaneamente il rilascio secondo le modalita' di cui all'articolo 39.
+
+((7-bis. Per le richieste relative a procedimenti amministrativi finalizzati al rilascio del passaporto o di altro documento valido per l'espatrio, il certificato generale riporta, oltre a tutte le iscrizioni di cui al comma 3, anche le condanne di cui al comma 7, lettera a), limitatamente alle contravvenzioni punibili con la sola ammenda. Per le richieste relative ai procedimenti amministrativi riguardanti autorizzazioni in materia di armi, munizioni ed esplosivi il certificato generale contiene tutte le iscrizioni a carico di un determinato soggetto, comprese quelle indicate al comma 7))
+
+L'interessato che, a norma degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, rende dichiarazioni sostitutive relative all'esistenza nel casellario giudiziale di iscrizioni a suo carico, non e' tenuto a indicare la presenza di quelle di cui al comma 7, nonche' di cui all'articolo 24, comma 1.
+
+I certificati di cui ai commi 2 e 3 riguardanti un cittadino italiano contengono anche l'attestazione relativa alla sussistenza o non di iscrizioni nel casellario giudiziale europeo;
+
+In caso di comunicazione prevista dall'articolo 20, comma 3, i certificati contengono il riferimento alla data del decesso. 
+ (11)
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 28-bis. — (Certificato del casellario giudiziale europeo richiesto dalla pubblica amministrazione)
+
+Nel certificato del casellario giudiziale europeo richiesto dalla pubblica amministrazione sono riportate le iscrizioni del casellario giudiziale europeo, in ordine a un cittadino italiano, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
+
+Il certificato di cui al comma 1 contiene anche l'attestazione relativa alla sussistenza o non di iscrizioni nel casellario giudiziale. (11)
+
+Nella risposta alla richiesta di informazioni da parte della pubblica amministrazione in ordine ad un cittadino di altro Stato membro sono riportate le condanne pronunciate nello stesso e quelle da esso ricevute e conservate, nella misura in cui il diritto dello Stato membro di condanna ne preveda la menzione.
+
+((
+
+Nella risposta alla richiesta di informazioni da parte della pubblica amministrazione in ordine ad un cittadino di Paese terzo, ad una persona di cui non e' nota la cittadinanza e ad un apolide sono riportate le informazioni sulle condanne acquisite alle condizioni e secondo le modalita' previste dagli articoli 6 e 7 del decreto legislativo 12 maggio 2016, n. 74.
+
+))
+
+((3-bis. La pubblica amministrazione di altro Stato membro dell'Unione europea che rivolge richiesta di informazioni all'Ufficio centrale nei confronti di un cittadino di Paese terzo, di una persona di cui non e' nota la cittadinanza e di un apolide cittadino italiano acquisisce da esso le informazioni relative alle condanne acquisite alle condizioni e secondo le modalita' previste dagli articoli 6 e 7 del decreto legislativo 12 maggio 2016, n. 74.))
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 29. — Certificato del casellario giudiziale per ragioni di elettorato
+
+
+
+Il certificato per ragioni di elettorato contiene solo le iscrizioni esistenti nel casellario giudiziale che incidono sul diritto elettorale, ai sensi dell'articolo 2 del decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni.
+
+L'interessato ha diritto di ottenere il certificato senza motivare la richiesta; soggetti diversi dall'interessato possono richiedere lo stesso certificato ai sensi dell'articolo 29, secondo comma, e dell'articolo 32, primo comma, n. 5), del decreto del Presidente della Repubblica 20 marzo 1967, n. 223, e successive modificazioni.
+ (art. 688, c. 3, c.p.p., art. 195 att. c.p.p.)
+
+## Art. 29-bis. — (( (Modalita' di rilascio dei certificati).))
+
+((
+
+Le modalita' di rilascio dei certificati di cui agli articoli 21-bis, 25-ter e 28-bis sono stabilite con il decreto dirigenziale di cui all'articolo 42, comma 1-bis.
+
+))
+
+## - Capo II Servizi certificativi dell'anagrafe delle sanzioni amministrative dipendenti da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato
+
+## Art. 30.
+
+(Certificato dell'anagrafe delle sanzioni amministrative dipendenti da reato e dell'anagrafe dei carichi pendenti degli illeciti
+amministrativi dipendenti da reato acquisito dall'autorita' giudiziaria)
+
+ 1. Per ragioni di giustizia, gli uffici che esercitano la giurisdizione penale e quelli del pubblico ministero acquisiscono dal sistema il certificato di tutte le iscrizioni esistenti riferite ad un determinato ente.
+ (art. 81, c. 1, primo periodo, c. 2, d.lgs. n. 231/2001)
+
+## Art. 31.
+
+(Certificato dell'anagrafe delle sanzioni amministrative dipendenti
+da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato richiesto dall'ente interessato)
+
+L'ente interessato ha diritto di ottenere il certificato dell'anagrafe delle sanzioni amministrative dipendenti da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato senza motivare la richiesta.
+
+Nel certificato sono rispettivamente riportate le iscrizioni esistenti nell'anagrafe delle sanzioni amministrative dipendenti da reato e nell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato, ad accezione di quelle relative ai provvedimenti di applicazione della sanzione su richiesta e ai provvedimenti di applicazione della sanzione pecuniaria all'esito del procedimento per decreto.
+(art. 81, c. 3 e 4, d.lgs. n. 231/2001)
+
+## Art. 32. — Certificato richiesto dalle amministrazioni pubbliche e dai gestori di pubblici servizi
+
+
+
+Le amministrazioni pubbliche e i gestori di pubblici servizi hanno diritto di ottenere i certificati di cui all'articolo 31, quando sono necessari per l'esercizio delle loro funzioni.
+ (art. 81, c. 1, secondo periodo, d.lgs. n. 231/2001)
+
+## - Capo III Disposizioni comuni ai servizi certificativi
+
+## Art. 33. — Visura delle iscrizioni da parte della persona o dell'ente interessato
+
+
+
+La persona o l'ente interessato puo' conoscere senza motivare la richiesta, ma senza efficacia certificativa, tutte le iscrizioni ad esso riferite, comprese quelle di cui non e' fatta menzione nei certificati ((di cui agli articoli 24, 27 e 31)). ((11))
+
+Con decreto dirigenziale del Ministero della giustizia sono stabilite le modalita' tecnico operative per consentire tale conoscibilita', sentita la Presidenza del Consiglio dei Ministri -Dipartimento per l'innovazione e le tecnologie, per le modalita' telematiche, e sentito e il Garante per la protezione dei dati personali.
+
+Sono competenti a consentire la visura tutti gli uffici territoriali e tutti gli uffici locali.
+
+Gli altri uffici abilitati sono individuati con le modalita' di cui all'articolo 35, comma 2.
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 34. — Esclusione del codice identificativo dal certificato
+
+
+
+Il codice identificativo della persona o dell'ente cui si riferisce il provvedimento non risulta dal certificato.
+
+## Art. 35. — Ufficio competente al rilascio del certificato
+
+
+
+Sono competenti al rilascio del certificato tutti gli uffici territoriali e tutti gli uffici locali.
+
+Il certificato puo' essere rilasciato da altri uffici, anche diversi da quelli giudiziari, individuati con decreto dirigenziale del Ministero della giustizia, che definisce altresi' le modalita' tecniche di collegamento telematico finalizzate all'utilizzabilita' del sistema da parte di detti uffici, sentiti la Presidenza del Consiglio dei Ministri - Dipartimento per l'innovazione e le tecnologie, e il Garante per la protezione dei dati personali.
+
+Gli uffici di cui ai commi 1 e 2 assicurano la tenuta di archivi informatici in cui confluiscono i dati relativi ai certificati rilasciati.
+
+## Art. 36. — Certificato di emergenza
+
+
+
+Nel caso di totale o parziale non operativita' del sistema, l'ufficio che riceve la richiesta rilascia un certificato di emergenza che contiene i dati acquisiti presso l'ufficio centrale.
+
+Se, alla data del ripristino del sistema, e' riscontrata qualsiasi discordanza nei dati rispetto alla data di richiesta del certificato, l'ufficio che ha rilasciato il certificato di emergenza provvede all'invio al richiedente del certificato ordinario, che sostituisce quello di emergenza.
+
+## Art. 37. — Certificati richiesti da autorita' straniere
+
+((
+
+Le autorita' interessate di Stati dell'Unione europea richiedono i certificati, nei casi previsti dal presente testo unico, all'Ufficio centrale attraverso le relative autorita' centrali competenti.
+
+La richiesta di certificati da parte di altre autorita' straniere e' disciplinata da convenzioni internazionali, nel rispetto del principio di reciprocita'. 
+ (art. 35, primo c., r.d. n. 778/1931)
+
+## Art. 38. — Termine per il rilascio di certificato
+
+
+
+Il certificato e' rilasciato nello stesso giorno della richiesta, eccetto il certificato di emergenza che e' rilasciato non appena sono acquisiti i dati necessari.
+
+## Art. 39. — Consultazione del sistema da parte dell'autorita' giudiziaria e da parte delle amministrazioni pubbliche e dei gestori di pubblici servizi
+
+
+
+La consultazione del sistema da parte delle amministrazioni pubbliche e dei gestori di pubblici servizi, ai fini dell'acquisizione dei certificati di cui agli articoli 28 e 32, anche per le finalita' delle acquisizioni d'ufficio, di cui all'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e dei controlli, di cui all'articolo 71 del predetto decreto del Presidente della Repubblica, avviene ((mediante accreditamento alla PDND. Nelle more dell'accreditamento alla PDND, la consultazione avviene)) previa stipula di apposite convenzioni tra il Ministero della giustizia e le amministrazioni interessate, senza oneri a carico di queste ultime.
+
+Le convenzioni di cui al comma 1 sono stipulate per categorie omogenee, a livello nazionale, regionale, comunale, e sono finalizzate ad assicurare la fruibilita' dei dati nel rispetto della normativa in materia di protezione dei dati personali, di accesso ai documenti amministrativi, di tutela del segreto e di divieto di divulgazione.
+
+Limitatamente all'esigenza di rilascio dei certificati di cui all'articolo 28 e al fine di stabilire se deve essere rilasciato il certificato selettivo previsto dal comma 2 o quello generale di cui al comma 3 dello stesso articolo, nella convenzione di cui al comma 1 devono essere indicati i procedimenti amministrativi di competenza dell'amministrazione interessata e, per ciascuno di essi, le disposizioni che disciplinano il trattamento dei dati personali, a tutela dei diritti e delle liberta' degli interessati, nonche' le norme che individuano i reati ostativi, al fine di realizzare una specifica procedura informatizzata che garantisca l'accesso selettivo al sistema. Nelle stesse convenzioni e' stabilito l'obbligo, per l'amministrazione interessata e per l'ufficio centrale, di comunicare alla controparte eventuali modifiche, rispettivamente, delle disposizioni che incidono sulle regole tecniche alla base dell'accesso selettivo e delle disposizioni del presente testo unico.
+Sugli schemi di convenzione destinati a selezionare l'ambito di consultazione dei dati personali in relazione agli specifici procedimenti di competenza e alle fattispecie di reato pertinenti e' acquisito il parere del Garante per la protezione dei dati personali.
+
+Le amministrazioni interessate inviano la richiesta di consultazione del sistema all'ufficio centrale, allegando scheda informativa contenente i dati di cui al comma 3, e comunque conforme a quanto previsto nel decreto di cui al comma 5.
+
+Le modalita' tecnico-operative per consentire la consultazione del sistema ai fini dell'acquisizione dei certificati di cui agli articoli 28 e 32 sono individuate con decreto dirigenziale del Ministero della giustizia, sentiti l'Agenzia per l'Italia digitale e il Garante per la protezione dei dati personali.
+
+La consultazione del sistema da parte dell'autorita' giudiziaria, ai fini dell'acquisizione dei certificati di cui agli articoli 21 e 30, avviene secondo le modalita' stabilite dal decreto del Ministero della giustizia 25 gennaio 2007, pubblicato nella Gazzetta Ufficiale n. 32 dell'8 febbraio 2007, e successive modificazioni. 
+ (11)
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## - TITOLO VIII Garanzie giurisdizionali
+
+## Art. 40. — Questioni concernenti le iscrizioni e i certificati
+
+
+
+Sulle questioni concernenti le iscrizioni e i certificati del casellario giudiziale e dei carichi pendenti decide, in composizione monocratica e con le forme stabilite dall'articolo 666 del codice di procedura penale, il tribunale del luogo dove ha sede l'ufficio locale nel cui ambito territoriale e' nata la persona cui e' riferita l'iscrizione o il certificato, o il Tribunale di Roma, per le persone nate all'estero, o delle quali non e' stato accertato il luogo di nascita nel territorio dello Stato.
+
+Sulle questioni concernenti le iscrizioni e i certificati dell'anagrafe delle sanzioni amministrative dipendenti da reato e dell'anagrafe dei carichi pendenti degli illeciti amministrativi dipendenti da reato decide il Tribunale di Roma, in composizione monocratica e con le forme stabilite dall'articolo 666 del codice di procedura penale, in quanto applicabili.
+ (art. 690 c.p.p; art. 82, d.lgs. n. 231/2001)
+
+## - TITOLO IX Sistema informativo
+
+## Art. 41. — Principi e funzioni
+
+
+
+Il sistema consente lo svolgimento, con tecnologie informatiche, delle attivita' degli uffici e tra essi concernenti l'iscrizione, l'eliminazione, lo scambio, la trasmissione e conservazione dei dati, e delle attivita' concernenti i servizi certificativi, anche nei rapporti con l'utenza, nel rispetto di rigorosi criteri di completezza, aggiornamento, esattezza e sicurezza delle notizie e delle informazioni raccolte.
+
+Il sistema consente, altresi', attraverso l'utilizzo di appositi strumenti di controllo, il costante monitoraggio dei soggetti che compiono le attivita', della data e della tipologia delle stesse, nonche' delle attivita' di acquisizione, certificazione e visura dei dati.
+
+Il sistema opera in modo tale da assicurare il rispetto del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e delle regole tecniche emanate in attuazione dello stesso, nonche' delle disposizioni sulla tutela della riservatezza dei dati personali.
+
+## Art. 42. — Regole tecniche del sistema
+
+
+
+Le regole tecniche di funzionamento del sistema, attinenti alle procedure degli uffici e tra gli uffici interessati, alle procedure concernenti l'utilizzazione del codice identificativo e il numero identificativo, ai relativi tempi, e ai servizi certificativi, sono stabilite con ((provvedimento del Direttore generale della DGSIA, sentito il Garante per la protezione dei dati personali e la Presidenza del Consiglio dei ministri - Dipartimento per la trasformazione digitale)).
+
+Le regole procedurali di carattere tecnico-operativo relative agli scambi tra i casellari giudiziali europei sono stabilite con decreto del Ministero della giustizia, da emanarsi entro sei mesi dalla data di entrata in vigore della presente disposizione, nell'ambito della disciplina generale di cui all'articolo 41, comma 3, sentiti l'Agenzia per l'Italia digitale e il Garante per la protezione dei dati personali ((e la Presidenza del Consiglio dei ministri - Dipartimento per la trasformazione digitale)).
+
+Quando, in conseguenza di modifiche normative intervenute nella disciplina degli scambi tra i casellari giudiziali europei ovvero di atti di esecuzione adottati dalla Commissione europea per la disciplina di tali scambi, occorre aggiornare le regole procedurali di carattere tecnico-operativo, il Ministero della giustizia provvede con uno o piu' decreti emanati ai sensi del comma 1-bis all'adeguamento delle regole procedurali ivi indicate.
+
+Per le procedure concernenti l'utilizzazione del codice identificativo di cui all'articolo 43, il decreto dirigenziale e' adottato sentito altresi' il Ministero dell'interno. Per le procedure concernenti l'utilizzazione del codice fiscale, fatte salve la disciplina in materia di anagrafe tributaria e codice fiscale e le relative competenze del Ministero dell'economia e delle finanze e delle agenzie fiscali, il decreto e' adottato altresi' sulla base delle prescrizioni tecniche stabilite con decreto dirigenziale del Ministero dell'economia e delle finanze.
+
+Le tecnologie informatiche sono finalizzate a prevenire e correggere eventuali errori nella immissione, scambio, trasmissione e conservazione dei dati, anche in collegamento con il sistema informatizzato dei registri.
+
+## Art. 42-bis. — (( (Gestione del sistema informatico) ))
+
+((
+
+Il sistema informatico e' gestito dalla DGSIA.
+
+))
+
+## Art. 43. — Codice identificativo sulla base delle impronte digitali
+
+
+
+Al fine di consentire la sicura riferibilita' di un procedimento ad un cittadino di Stato appartenente all'Unione europea, che non abbia il codice fiscale, ad un cittadino di Stato non appartenente all'Unione europea, ad una persona di cui non e' nota la cittadinanza o ad un apolide, ((con provvedimento del Direttore generale della DGSIA, di intesa con il Ministero dell'interno, sentiti la Presidenza del Consiglio dei ministri - Dipartimento per la trasformazione digitale)), e il Garante per la protezione dei dati personali, sono stabilite le regole tecniche che consentono, nei casi previsti dal presente testo unico, l'adozione di un codice identificativo attraverso l'utilizzazione del sistema di riconoscimento delle impronte digitali esistente presso il Ministero dell'interno, come eventualmente modificato o integrato dalla normativa di attuazione prevista dall'art. 34 della legge 30 luglio 2002, n. 189, e successive modificazioni.
+
+Con lo stesso decreto di cui al comma 1, possono essere determinate le modalita' di collegamento tra il sistema previsto dall'art. 2, comma 7, del decreto-legge 9 settembre 2002, n. 195, convertito, cori modificazioni, dalla legge 9 ottobre 2002, n. 222, e il casellario giudiziale.
+
+## - Titolo X Disposizioni transitorie
+
+## Art. 44. — Eliminazione di iscrizioni incompatibili
+
+
+
+L'ufficio centrale elimina dal sistema tutte le iscrizioni esistenti incompatibili con quelle previste dal presente testo unico.
+
+## Art. 45. — Esclusione dai certificati ed eliminazione di iscrizioni per i reati di competenza del giudice di pace commessi prima del 2 gennaio 2002
+
+
+
+Le iscrizioni relative ai reati di cui all'articolo 4, commi 1 e 2, del decreto legislativo 28 agosto 2000, n. 274, commessi prima del 2 gennaio 2002, non sono riportate nei certificati ((di cui agli articoli 24 e 27)), e sono eliminate secondo le previsioni dell'articolo 5, comma 2, lettere e), g) ed h). ((11)) 
+ 
+ (art. 63, c. 2, d.lgs. n. 274/2000 e raccordo con l'art. 64, c. 2, d.lgs. n. 274/2000, nella parte in cui rinvia all'art. 63, c. 2, stesso d.lgs.)
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 46. — Regole tecniche sino alla completa operativita' del sistema
+
+
+
+Sino alla completa operativita' del sistema, le regole tecniche di cui agli articoli 39 e 42 sono disciplinate con decreto dirigenziale del Ministero della giustizia, sentita la Presidenza del Consiglio dei Ministri - Dipartimento per l'innovazione e le tecnologie, per le modalita' telematiche, e sentito il garante per la protezione dei dati personali, in modo che, a seconda delle concrete possibilita' tecniche, le procedure possano svolgersi su supporto cartaceo o informatico, anche con differenziazioni territoriali.
+
+Per le procedure concernenti l'utilizzazione del codice identificativo di cui all'articolo 43, il decreto dirigenziale e' adottato sentito altresi' il Ministero dell'interno. Per le procedure concernenti l'utilizzazione del codice fiscale, fatte salve la disciplina in materia di anagrafe tributaria e codice fiscale e le relative competenze del Ministero dell'economia e delle finanze e delle agenzie fiscali, il decreto e' adottato altresi' sulla base delle prescrizioni tecniche stabilite con decreto dirigenziale del Ministero dell'economia e delle finanze.
+
+## Art. 47. — Eliminazioni di iscrizioni per morte della persona effettuate dall'ufficio locale
+
+(( Art. 47 (L - R) ))
+                                ((11))
+
+Sino alla completa operativita' della trasmissione telematica delle informazioni di cui all'articolo 20, comma 4, il Comune comunica la morte delle persone all'ufficio locale, nel cui ambito territoriale le persone sono nate. L'ufficio locale elimina le relative iscrizioni.
+
+((1-bis. L'eliminazione delle iscrizioni di cui al comma 1 e' effettuata dall'ufficio locale decorsi quindici anni dalla morte della persona alla quale si riferiscono e, comunque, decorsi cento anni dalla sua nascita (L).))
+
+((11))
+
+Per le persone nate all'estero, o delle quali non si e' potuto accertare il luogo di nascita nel territorio dello Stato, l'ufficio locale e' quello presso il Tribunale e presso il Tribunale per i minorenni di Roma.
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che le presenti modifiche acquistano efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 48. — Termine per il rilascio di certificato
+
+
+
+Fino alla data di entrata in vigore del regolamento di cui all'articolo 40 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115, il certificato e' rilasciato entro il giorno successivo o, se e' richiesto il rilascio immediato, nel medesimo giorno.
+
+## - Titolo XI Disposizioni finali e abrogazioni
+
+## Art. 49. — Modifica dell'articolo 46, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445
+
+
+
+## Art. 50. — Termine per l'emanazione dei decreti dirigenziali
+
+
+
+I decreti dirigenziali del Ministero della giustizia previsti dagli articoli 20, comma 4, 33, comma 2, 43 e 46 sono emanati entro trenta giorni dalla data di pubblicazione nella Gazzetta Ufficiale del presente testo unico.
+
+## Art. 51. — Raccordo con norme esterne al testo unico
+
+
+
+Ogni richiamo delle norme relative al casellario giudiziale, all'anagrafe delle sanzioni amministrative dipendenti da reato e ai relativi carichi pendenti, presente in norme di legge o di regolamento, si intende riferito alle corrispondenti norme del presente testo unico.
+
+((1-bis. Ogni richiamo, presente in norme di legge o di regolamento, al casellario giudiziale si intende riferito anche al casellario giudiziale europeo.))
+
+((11))
+
+---------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 2 ottobre 2018, n. 122 ha disposto (con l'art. 7, comma 1) che la presente modifica acquista efficacia decorso un anno dalla data della pubblicazione del decreto nella Gazzetta Ufficiale.
+
+## Art. 52. — Abrogazioni di norme primarie
+
+
+
+Dalla data di entrata in vigore del presente testo unico sono o restano abrogate le seguenti disposizioni:
+
+- regio decreto 18 giugno 1931, n. 778;
+- all'articolo 24 del regio decreto-legge 20 luglio 1934, n. 1404, convertito, con modificazioni, dalla legge 27 maggio 1935, n. 835, e successive modificazioni: al sesto comma le parole: "ed e' iscritto nel casellario giudiziario", nonche' il settimo comma;
+- l'articolo 17, secondo comma, ultimo periodo, del regio decreto 16 marzo 1942, n. 267; l'articolo 9 della legge 23 marzo 1956, n. 182;
+- l'articola 32, primo comma, n. 3), del decreto del Presidente della Repubblica 20 marzo 1967, n. 223, come modificato dall'articolo 9 della legge 16 gennaio 1992, n. 15, limitatamente alle parole:
+ "alla formazione delle schede e dei fogli complementari";
+- l'articolo 58-bis della legge 26 luglio 1975, n. 354;
+- gli articoli 73 e 81 della legge 24 novembre 1981, n. 689;
+- gli articoli da 685 a 690 del decreto del Presidente della Repubblica 22 settembre 1988, n. 447;
+- gli articoli 14 e 15 del decreto del Presidente della Repubblica 22 settembre 1988, n. 448;
+- l'articolo 10, comma 2, della legge 21 febbraio 1989, n. 99;
+- del decreto legislativo 28 luglio 1989, n. 271, gli articoli: 110, comma 2, da 194 a 197 e 237;
+- gli articoli 18 e 19 del decreto legislativo 28 luglio 1989, n. 272;
+- del decreto legislativo 28 agosto 2000, n. 274, gli articoli: 45; 46; 51, comma 1, lettera b); 63, comma 2; 64, comma 2, limitatamente alle parole: " e 2" e, conseguentemente, la parola:
+ "commi" e' sostituita dalla seguente: "comma";
+- del decreto legislativo 8 giugno 2001, n. 231, gli articoli: 80, 81, 82 e 85, comma 1, lettera b).
+
+## Art. 53. — Abrogazioni parziali e riformulazioni conseguenti di norme
+
+
+
+Nell'articolo 110, comma 1, lettera c), del decreto legislativo 28 luglio 1989, n. 271, le parole: "delle iscrizioni relative ai procedimenti per i quali la persona ha assunto la qualita' di imputato" sono sostituite dalle seguenti: "del casellario dei carichi pendenti".
+
+Negli articoli 730, comma 1, e 731, comma 1, del codice di procedura penale, le parole: "competente ai fini dell'iscrizione" sono sostituite dalle seguenti: "locale del luogo di nascita della persona cui e' riferito il provvedimento giudiziario straniero, o presso la Corte di appello di Roma".
+
+Nell'articolo 732, comma 1, del codice di procedura penale, le parole: "competente ai fini dell'iscrizione" sono sostituite dalle seguenti: "locale del luogo di nascita della persona cui e' riferito il provvedimento giudiziario straniero, o alla Corte di appello di Roma".
+
+## Art. 54. — Abrogazioni di norme secondarie
+
+
+
+Dalla data di entrata in vigore del presente testo unico sono o restano abrogate le seguenti disposizioni:
+
+- decreto del Ministro Segretario di Stato per la giustizia e per gli affari di culto 6 ottobre 1931, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 235 del 10 ottobre 1931;
+- decreto del Ministro di grazia e giustizia 30 novembre 1988, pubblicato nella Gazzetta Ufficiale n. 296 del 19 dicembre 1988;
+- decreto del Ministro della giustizia 10 novembre 1999, pubblicato nel Bollettino Ufficiale del Ministero della giustizia n. 2 del 31 gennaio 2000;
+- all'articolo 107, comma 1, del decreto del Presidente della Repubblica 30 giugno 2000, n. 230, sono soppresse le parole: "al casellario giudiziale e,";
+- gli articoli da 19 a 21 del decreto del Ministro della giustizia 6 aprile 2001, n. 204.
+
+## Art. 55. — Norma finale
+
+
+
+Le disposizioni del presente testo unico hanno effetto a decorrere dal quarantacinquesimo giorno a partire dalla data di pubblicazione nella Gazzetta Ufficiale.
+

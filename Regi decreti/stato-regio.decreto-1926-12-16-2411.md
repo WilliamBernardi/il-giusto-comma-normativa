@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 2411
+data: 1926-12-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1926-12-16;2411
+codice_redazionale: 026U2411
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:29Z
+---
+
+REGIO DECRETO
+                16 dicembre 1926
+                2411
+                Erezione in ente morale dell'«Asilo infantile Guido Praga - Stefanelli Ottavio», in Gavorrano. (026U2411)
+
+Entrata in vigore del provvedimento: 09/03/1927
+
+## Art. 1.
+
+N.
+
+R. decreto 16 dicembre 1926, col quale, sulla proposta del Ministro per l'interno, l'«Asilo infantile Guido Praga - Stefanelli Ottavio», nel comune di Gavorrano, viene eretto in ente morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 10 febbraio 1927 - Anno V
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 334
+data: 1984-04-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-09;334
+codice_redazionale: 084U0334
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 aprile 1984
+                334
+                Riconoscimento della personalita' giuridica della casa religiosa denominata "Casa don Bosco delle figlie di Maria Ausiliatrice", in Triuggio.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 aprile 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della casa religiosa denominata "Casa don Bosco delle figlie di Maria Ausiliatrice", in Triuggio (Milano).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 2 luglio 1984
+ Registro n. 23 Interno, foglio n. 192
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1241
+data: 1954-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1241
+codice_redazionale: 054U1241
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1954
+                1241
+                Autorizzazione alla Cassa scolastica della statale Scuola di magistero professionale per la donna "Margherita di Savoia" di Roma ad accettare due donazioni.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della statale Scuola di magistero professionale per la donna "Margherita di Savoia" di Roma viene autorizzata ad accettare due donazioni di complessive nominali L. 150.000 in titoli di Stato, disposte a favore della Cassa stessa al fine di istituire, col relativo reddito, un premio di studio biennale intitolato al prof. Giuseppe Franchi.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 8 gennaio 1955
+ Atti del Governo, registro n. 88, foglio n. 14. - CARLOMAGNO
+

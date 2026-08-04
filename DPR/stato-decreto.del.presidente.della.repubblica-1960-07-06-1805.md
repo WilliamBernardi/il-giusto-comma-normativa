@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1805
+data: 1960-07-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-06;1805
+codice_redazionale: 060U1805
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 luglio 1960
+                1805
+                Riconoscimento agli effetti civili, dell'unione temporanea, nella forma "aeque principaliter", della parrocchia della Madonna della Nova, in contrada Cesina del comune di Rocca Imperiale (Cosenza), con la parrocchia dell'Assunzione della B.M.V., in Rocca Imperiale Centro.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 luglio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, i) decreto dell'Ordinario diocesano di Anglona-Tursi in data 1 marzo 1960, relativo all'unione temporanea, nella forma "aeque principaliter", della parrocchia della Madonna della Nova, in contrada Cesina del comune di Rocca Imperiale (Cosenza), con la parrocchia dell'Assunzione della B. M. V., in Rocca Imperiale Centro.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 6 febbraio 1951
+ Atti del Governo, registro n. 134, foglio n. 11. - VILLA
+

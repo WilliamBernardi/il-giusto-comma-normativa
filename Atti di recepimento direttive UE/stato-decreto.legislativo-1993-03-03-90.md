@@ -1,0 +1,90 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 90
+data: 1993-03-03
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1993-03-03;90
+codice_redazionale: 093G0135
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2024-01-02
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:47Z
+---
+
+DECRETO LEGISLATIVO
+                03 marzo 1993
+                90
+                 Attuazione della direttiva 90/167/CEE con la quale sono stabilite le condizioni di preparazione, immissione sul mercato ed utilizzazione dei mangimi medicati nella Comunita'.
+
+Entrata in vigore del decreto: 18-4-1993
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 23 NOVEMBRE 2023, N. 194))
+
+
+

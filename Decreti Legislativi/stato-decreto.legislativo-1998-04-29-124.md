@@ -1,0 +1,168 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 124
+data: 1998-04-29
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1998-04-29;124
+codice_redazionale: 098G0180
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2001-11-18
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:31Z
+---
+
+DECRETO LEGISLATIVO
+                29 aprile 1998
+                124
+                 Ridefinizione del sistema di partecipazione al costo delle prestazioni sanitarie e del regime delle esenzioni, a norma dell'articolo 59, comma 50, della legge 27 dicembre 1997, n. 449.
+
+Entrata in vigore del decreto: 1/5/1998
+
+Acquisito il parere della commissione Igiene e sanita' del Senato;
+
+Acquisito il parere della commissione Affari sociali della Camera;
+
+Acquisito il parere del Garante per la protezione dei dati personali;
+
+Sentite le organizzazioni sindacali maggiormente rappresentative;
+
+Acquisito il parere della conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, unificata con la conferenza Statocitta' e autonomie locali;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della sanita', di concerto con i Ministri delle finanze, del tesoro, del bilancio e della programmazione economica, per la funzione pubblica e gli affari regionali e per la solidarieta' sociale;
+
+## Art. 1. — Finalita' e criteri generali
+
+Il Servizio sanitario nazionale garantisce la tutela della salute e l'accesso ai servizi alla totalita' dei propri assistiti, senza distinzioni individuali o sociali. Nell'ambito dei livelli essenziali di assistenza efficaci, appropriati ed uniformi posti a carico del Servizio sanitario nazionale sono individuate le prestazioni la cui fruizione e' subordinata al pagamento diretto da parte dell'assistito di una quota limitata di spesa, finalizzata a promuovere la consapevolezza del costo delle prestazioni stesse. La partecipazione e' strutturata in modo da evitare l'uso inappropriato dei diversi regimi di erogazione dei servizi e delle prestazioni.
+
+In armonia con i principi e le finalita' del decreto legislativo 31 marzo 1998, n. 109, il presente decreto fissa i criteri, gli ambiti e le modalita' di applicazione del sistema di partecipazione al costo delle prestazioni, nonche' i criteri di esenzione dalla stessa per i singoli assistiti in relazione alla situazione economica del nucleo familiare e alle condizioni di malattia. ((2))
+
+---------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera a)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo 1, comma 2, e comma 3, lettera a).
+
+## Art. 2. — Prestazioni soggette al sistema
+ di partecipazione al costo
+
+E' confermato l'attuale regime di erogazione delle prestazioni di assistenza protesica. Con il decreto del Ministro della sanita' di cui all'articolo 8, comma 5, della legge 27 dicembre 1997, n. 449, sono ridefinite le modalita' di erogazione e di distribuzione dei prodotti al fine di contenere la corrispondente spesa a carico del Servizio sanitario nazionale.
+
+E' confermato l'attuale regime di erogazione dei prodotti dietetici ai sensi del decreto del Ministro della sanita' del 1 luglio 1982, pubblicato nella Gazzetta Ufficiale n. 217 del 9 agosto 1982. Il Ministro della sanita' provvede all'aggiornamento del suddetto decreto, prevedendo la gratuita' dei prodotti relativi all'allattamento dei bambini nati da madri HIV positive e ridefinendo le modalita' di erogazione e di distribuzione dei prodotti dietetici, al fine di contenere la corrispondente spesa a carico del Servizio sanitario nazionale.
+
+Le regioni, fermo restando quanto disposto dall'articolo 1, possono includere tra le prestazioni soggette alla partecipazione al costo quelle erogate in regime di pronto soccorso ospedaliero, non seguite da ricovero, effettuabili in regime ambulatoriale senza pregiudizio del paziente e per le quali non si riscontra carattere di emergenza o urgenza. Tale ampliamento e' volto a favorire la redistribuzione degli oneri da partecipazione fra gli assistiti non esenti e a promuovere il ricorso appropriato ai diversi regimi di erogazione delle prestazioni.
+
+---------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera b)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo 2, comma 1, lettere c) ed e).
+
+## Art. 3. — Modalita' di partecipazione al costo delle prestazioni
+
+Le modalita' di partecipazione al costo da parte degli assistiti non esenti per le prestazioni di cui all'articolo 2, comma 1, si applicano a decorrere dall'introduzione del sistema di partecipazione e di esenzione correlato alla situazione economica del nucleo familiare, ai sensi dell'articolo 4, e comunque a partire dal 1 gennaio 2000. (2)
+
+Per i farmaci collocati nella classe di cui all'articolo 8, comma 10, lettera a), della legge 24 dicembre 1993, n. 537, e' dovuta una partecipazione al costo pari a 3.000 lire per ricetta, per prescrizione di una confezione, e pari a 6.000 lire per ricetta, per prescrizioni di piu' confezioni. Per i farmaci collocati nella classe di cui al citato articolo 8, comma 10, lettera b), e' dovuta una partecipazione al costo pari al 50% del prezzo di vendita al pubblico dagli assistiti parzialmente esentati e non esentati dalla partecipazione ai sensi del successivo articolo 4. I farmaci collocati nella classe di cui al citato articolo 8, comma 10, lettera c), sono a totale carico dell'assistito. E' abrogato l'articolo 1, comma 42, della legge 23 dicembre 1996, n. 662. (2)
+
+Per le singole prestazioni di diagnostica strumentale e di laboratorio e per le altre prestazioni specialistiche erogate in regime ambulatoriale e' dovuta una partecipazione al costo pari all'85% della corrispondente tariffa determinata dalla regione di appartenenza del soggetto erogatore, fino ad un importo massimo di spesa di 100.000 lire per singola ricetta, fermo restando quanto previsto dall'articolo 1, comma 3, della legge 25 gennaio 1990, n. 8, e successive modificazioni. Per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, e' dovuta una partecipazione al costo pari al 70% della corrispondente tariffa fino ad un importo massimo di spesa per singola ricetta pari a 60.000 lire. Le regioni ridefiniscono il valore del limite massimo di spesa per le ricette contenenti accorpamenti per profilo di trattamento di due o piu' prestazioni eventualmente definiti a livello regionale e provinciale ai sensi dell'articolo 1, comma 2, del decreto del Ministro della sanita' del 22 luglio 1996, pubblicato nella Gazzetta Ufficiale n. 216 del 14 settembre 1996. Al fine di procedere al graduale superamento dei limiti di prescrivibilita' per ricetta di cui alla legge 25 gennaio 1990, n. 8, e successive modificazioni, di razionalizzare la spesa a carico del Servizio sanitario nazionale, di semplificare l'accesso alle prestazioni da parte degli assistiti, nonche' di ridurre la spesa a loro carico e di promuovere l'utilizzo dei percorsi diagnostici e terapeutici, il Ministro della sanita' con proprio decreto, ai sensi dell'articolo 59, comma 50, della legge 27 dicembre 1997, n. 449, individua i criteri per la sperimentazione di forme agevolate di erogazione di pacchetti di prestazioni predefiniti a fronte di determinate condizioni cliniche, identificati sulla base dei percorsi, consentendo la prescrivibilita' in un'unica ricetta di prestazioni afferenti a branche specialistiche diverse e prevedendo la ridefinizione in aumento del valore del limite massimo di spesa per ricetta. (2)
+
+Per ciascun episodio di ricovero diurno finalizzato ad accertamenti diagnostici, e quindi con l'esclusione di quelli individuati nell'allegato 1, e' dovuta una partecipazione forfetaria pari a 150.000 lire; per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, tale partecipazione e' pari a 75.000 lire. (2)
+
+Per le prestazioni di assistenza termale e' dovuta una partecipazione al costo pari al 75% della corrispondente tariffa determinata dalla regione di appartenenza del soggetto erogatore, fino ad un massimo di spesa di 200.000 lire per prescrizione; per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, il limite massimo di spesa per prescrizione e' pari a 100.000 lire. (2)
+
+Per le prestazioni di assistenza riabilitativa extraospedaliera erogate in regime semiresidenziale e residenziale, e' dovuta una partecipazione forfetaria, differenziata in base al costo delle diverse modalita' di erogazione, fissata dalle regioni, fino ad un massimo di spesa di 80.000 lire a settimana. Per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, tale limite massimo di spesa e' pari a 40.000 lire. La partecipazione non puo' comunque essere inferiore a 20.000 lire a settimana. Per le prestazioni di assistenza riabilitativa extraospedaliera semiresidenziale e residenziale conseguenti ad episodi di ricovero in ospedale per acuti erogate in favore di soggetti direttamente inviati da ospedali per acuti la partecipazione e' dovuta a decorrere dal sessantesimo giorno di assistenza. Per le prestazioni di assistenza riabilitativa extraospedaliera erogate in regime domiciliare e ambulatoriale e' dovuta una partecipazione forfetaria, fissata dalle regioni fino ad un massimo di spesa di 20.000 lire per giornata; per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, tale limite massimo di spesa e' pari a 10.000 lire. La partecipazione non puo' comunque essere inferiore a 6.000 lire per giornata. Il valore massimo della partecipazione alla spesa mensile non puo' essere superiore a 100.000 lire e, per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, a lire 60.000. (2)
+
+Per le prestazioni erogate in regime di pronto soccorso non seguite da ricovero, effettuabili in regime ambulatoriale senza pregiudizio del paziente e per le quali non si riscontra carattere di emergenza o urgenza le regioni possono fissare una partecipazione al costo in relazione alle prestazioni erogate, fino ad un importo massimo di 100.000 lire per accesso. Per gli assistiti che hanno diritto all'esenzione parziale ai sensi dell'articolo 4, comma 5, tale limite massimo di spesa e' pari a 60.000 lire. (2)
+
+La partecipazione al costo da parte degli assistiti non esenti, per le prestazioni di cui al comma 3, non puo' comunque essere inferiore a 6.000 lire per ricetta; gli importi dovuti per ricetta si arrotondano, per eccesso o per difetto, alle 500 lire. (2)
+
+((PERIODO ABROGATO DAL D.L. 18 SETTEMBRE 2001, N. 347, CONVERTITO, CON MODIFICAZIONI, DALLA L. 16 NOVEMBRE 2001, N. 405)). ((PERIODO ABROGATO DAL D.L. 18 SETTEMBRE 2001, N. 347, CONVERTITO, CON MODIFICAZIONI, DALLA L. 16 NOVEMBRE 2001, N. 405)). La quota fissa per ricetta non e' dovuta per le prescrizioni relative alle prestazioni di diagnostica strumentale e di laboratorio e per le altre prestazioni specialistiche erogate in regime ambulatoriale di cui al comma 3. Per le prescrizioni relative alle restanti tipologie di prestazioni di cui ai commi 4, 5, 6 e 7 la quota fissa dovuta dagli assistiti totalmente esenti e' pari a 6.000 lire. (2)
+
+Entro tre mesi dalla data di entrata in vigore del presente decreto, le regioni disciplinano i criteri secondo i quali i direttori generali delle aziende unita' sanitarie locali ed ospedaliere determinano, entro trenta giorni dall'efficacia della disciplina regionale, il tempo massimo che puo' intercorrere tra la data della richiesta delle prestazioni di cui ai commi 3 e 4 e l'erogazione della stessa. Di tale termine e' data comunicazione all'assistito al momento della presentazione della domanda della prestazione, nonche' idonea pubblicita' a cura delle aziende unita' sanitarie locali ed ospedaliere.
+
+In caso di mancata definizione da parte delle regioni dei criteri e delle modalita' di cui al comma 10, il Ministro della sanita' vi provvede, previa diffida, tenendo conto dell'interesse degli utenti, della realta' organizzativa delle aziende unita' sanitarie locali ed ospedaliere della regione, della media dei tempi fissati dalle regioni adempienti. I direttori generali provvedono a determinare il tempo massimo di cui al comma 10 entro trenta giorni dall'efficacia del provvedimento ministeriale. Le determinazioni del Ministro cessano di avere effetto al momento dell'esercizio dei poteri regionali di cui al comma 10.
+
+Fino all'entrata in vigore delle discipline regionali di cui al comma 12, qualora l'attesa della prestazione richiesta si prolunghi oltre il termine fissato dal direttore generale ai sensi dei commi 10 e 11, l'assistito puo' chiedere che la prestazione venga resa nell'ambito dell'attivita' liberoprofessionale intramuraria, ponendo a carico dell'azienda unita' sanitaria locale di appartenenza e dell'azienda unita' sanitaria locale nel cui ambito e' richiesta la prestazione, in misura eguale, la differenza tra la somma versata a titolo di partecipazione al costo della prestazione e l'effettivo costo di quest'ultima, sulla scorta delle tariffe vigenti. Nel caso l'assistito sia esente dalla predetta partecipazione l'azienda unita' sanitaria locale di appartenenza e l'azienda unita' sanitaria locale nel cui ambito e' richiesta la prestazione corrispondono, in misura eguale, l'intero costo della prestazione. Agli eventuali maggiori oneri derivanti dal ricorso all'erogazione delle prestazioni in regime di attivita' liberoprofessionale intramuraria si fa fronte con le risorse di cui all'articolo 13 del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni ed integrazioni, con conseguente esclusione di ogni intervento finanziario a carico dello Stato.
+
+Il direttore generale dell'azienda sanitaria vigila sul rispetto delle disposizioni adottate in attuazione del comma 12 e di quelle del comma 13, anche al fine dell'esercizio dell'azione disciplinare e di responsabilita' contabile nei confronti dei soggetti ai quali sia imputabile la mancata erogazione della prestazione nei confronti dell'assistito.
+
+L'utente che non si presenti ovvero non preannunci l'impossibilita' di fruire della prestazione prenotata e' tenuto, ove non esente, al pagamento della quota di partecipazione al costo della prestazione.
+
+-----------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera c)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo 3, comma l; comma 2, ad eccezione dell'ultimo periodo; comma 3, primo e secondo periodo; commi 4, 5, 6, 7 e 8; comma 9, primo periodo.
+
+## Art. 4. — Partecipazione al costo delle prestazioni in relazione
+ alla situazione economica del nucleo familiare
+
+La valutazione della situazione economica rilevante ai fini della esenzione parziale o totale e' effettuata con riferimento al nucleo familiare composto dal richiedente l'esenzione stessa, dai soggetti con i quali convive e da quelli considerati a suo carico a fini IRPEF secondo quanto previsto dal decreto legislativo 31 marzo 1998, n. 109. Al fine di favorire l'autonomia dell'anziano convivente, i soggetti di eta' superiore ai 65 anni conviventi possono scegliere di costituire un nucleo familiare autonomo e richiedere l'esenzione, totale o parziale, dalla partecipazione al costo delle prestazioni con riferimento alla propria situazione economica; in tal caso l'anziano non e' incluso nel nucleo familiare come definito nel presente comma. L'anziano non puo' comunque costituire un nucleo familiare autonomo rispetto al coniuge non legalmente ed effettivamente separato.
+
+L'indicatore della situazione economica e' definito dalla combinazione dei redditi complessivi dei membri del nucleo familiare e dei valori dei patrimoni mobiliari ed immobiliari, corretti con il coefficiente di cui all'allegato 2. Dal calcolo del patrimonio immobiliare e' esclusa la casa di abitazione. Per ogni componente del nucleo familiare di eta' inferiore ai sei anni o di eta' compresa tra sessantacinque e settantacinque anni dall'indicatore della situazione economica e' detratto un ammontare pari a 5 milioni di lire; oltre settantacinque anni e' detratto un ammontare pari a 7 milioni di lire. L'allegato 2 specifica le modalita' di calcolo del reddito e del patrimonio.
+
+L'indicatore della situazione economica equivalente, utile ai fini dell'individuazione delle soglie di cui ai commi 4 e 5, e' calcolato come rapporto tra l'indicatore di cui al comma 2 e il parametro corrispondente alla specifica composizione del nucleo familiare, desunto dalla scala di equivalenza riportata all'allegato 2.
+
+L'esenzione totale dalla partecipazione al costo delle prestazioni di cui all'articolo 2 e' garantita qualora l'indicatore della situazione economica equivalente sia inferiore a 18 milioni di lire. Per i nuclei familiari di un solo componente il suddetto valore e' elevato di 5 milioni di lire.
+
+Il diritto all'esenzione parziale dalla partecipazione al costo delle prestazioni, ai sensi dell'articolo 3, e' riconosciuto qualora l'indicatore della situazione economica equivalente sia inferiore a 36 milioni di lire.
+
+A decorrere dal 1 gennaio 2002 le regioni possono incrementare, sentite le organizzazioni sindacali maggiormente rappresentative, i valori soglia della situazione economica di cui ai commi 4 e 5 entro un margine del 20%.
+
+Il diritto all'esenzione, totale o parziale, e' riconosciuto dalle aziende unita' sanitarie locali di residenza, che rilasciano per ciascun componente il nucleo familiare un documento individuale attestante il diritto stesso. A tale fine l'assistito deve presentare una dichrazione sostitutiva, a norma della legge 4 gennaio 1968, n. 15, e successive modificazioni, concernente le informazioni necessarie per la determinazione dell'indicatore della situazione economica equivalente. Il richiedente dichiara inoltre di avere conoscenza che, nel caso di riconoscimento del diritto, possono essere eseguiti i controlli previsti dalla normativa vigente diretti ad accertare la veridicita' delle informazioni fornite ed effettuati presso le banche o altri intermediari finanziari, specificando a tal fine il codice identificativo degli intermediari finanziari che gestiscono il patrimonio mobiliare. Si applica l'articolo 4, comma 8, del decreto legislativo 31 marzo 1998, n. 109. Il Ministero della sanita' definisce i contenuti del modello uniforme relativo alla dichiarazione sostitutiva e alle altre dichiarazioni di cui al presente comma.
+
+Ai fini del riconoscimento del diritto all'esenzione parziale o totale, in sede di prima dichiarazione il richiedente si impegna a comunicare eventuali modifiche della situazione economica e della composizione del nucleo familiare che comportino un cambiamento della propria posizione rispetto al diritto all'esenzione. Le regioni e le aziende unita' sanitarie locali attivano sistemi, anche campionari, di accertamento della permanenza delle condizioni che danno diritto all'esenzione. Qualora si verifichino modifiche della composizione del nucleo familiare o della situazione economica, e' possibile richiedere un aggiornamento del calcolo della situazione economica ai fini del riconoscimento del diritto all'esenzione, totale o parziale, dalla partecipazione al costo delle prestazioni. Le regioni individuano gli organismi incaricati di valutare i singoli casi di composizione del nucleo familiare o di situazione economica, nonche' le relative modifiche, di particolare complessita'.
+
+Fino all'introduzione del sistema di esenzione in relazione alla situazione economica del nucleo familiare, e comunque non oltre il 31 dicembre 1999, rimangono confermati i criteri di esenzione dalla partecipazione al costo in relazione al reddito definiti dalla legge 24 dicembre 1993, n. 537, come modificata dalla legge 23 dicembre 1994, n. 724, e dalla legge 28 dicembre 1995, n. 549. ((2))
+
+---------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera d)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo 4.
+
+## Art. 5. — Esenzione dalla partecipazione
+ in relazione a particolari condizioni di malattia
+
+L'esenzione dalla partecipazione al costo per le prestazioni di assistenza sanitaria correlate a ciascuna malattia e' riconosciuta in qualsiasi regime di erogazione.
+
+Sono escluse dall'esenzione le prestazioni finalizzate all'accertamento delle condizioni di malattia che danno diritto all'esenzione, ad eccezione di quelle individuate dal regolamento di cui al comma 1, lettera b), per la diagnosi delle malattie rare. Sono altresi' esclusi dall'esenzione i farmaci collocati nella classe di cui all'articolo 8, comma 10, lettera b), della legge 24 dicembre 1993, n. 537.
+
+Con il regolamento di cui al comma 1, lettera b), sono altresi' individuate specifiche forme di tutela garantite ai soggetti affetti da patologie rare, con particolare riguardo alla disponibilita' dei farmaci orfani ed all'organizzazione dell'erogazione delle prestazioni di assistenza.
+
+Le condizioni e le malattie di cui al comma 1 sono aggiornate con la procedura di cui all'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sulla base dei risultati della ricerca applicata e delle evidenze scientifiche, nonche' dello sviluppo dei percorsi diagnostici e terapeutici. Entro sessanta giorni dalla data di entrata in vigore delle nuove tabelle indicative delle percentuali di invalidita' per le minorazioni e malattie invalidanti, il Ministro della sanita' provvede ad aggiornare il regolamento di cui al comma 1, lettera a), inserendovi le eventuali ulteriori patologie invalidanti e le correlate prestazioni per le quali e' riconosciuto il diritto all'esenzione dalla partecipazione al costo. Fino all'aggiornamento del regolamento, agli assistiti di cui all'articolo 6, commi 1 e 2, del decreto del Ministro della sanita' del 1 febbraio 1991, pubblicato nella Gazzetta Ufficiale n. 32 del 7 febbraio 1991, e successive modificazioni ed integrazioni, e' confermata l'esenzione dalla partecipazione al costo delle prestazioni come disciplinata dallo stesso articolo 6 e dall'articolo 1, comma 3, della legge 23 dicembre 1994, n. 724, nonche' l'esenzione agli invalidi civili minori di anni 18 con indennita' di frequenza e alle vittime del terrorismo e della criminalita' organizzata di cui alla legge 20 ottobre 1990, n. 302.
+
+Ai soli fini dell'assistenza sanitaria, la percentuale di invalidita' dei soggetti ultrasessantacinquenni e' determinata in base alla presenza di difficolta' persistenti a svolgere i compiti e le funzioni proprie della loro eta'.
+
+## Art. 6. — Procedure e tempi
+
+Con uno o piu' regolamenti emanati entro il 31 ottobre 1998 a norma dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, sono definite le modalita' di accertamento e di verifica della situazione economica del nucleo familiare e delle condizioni di malattia che danno diritto all'esenzione dalla partecipazione o alla partecipazione in misura ridotta, nonche' le misure per semplificare le procedure di prescrizione e di pagamento della quota di partecipazione, anche mediante l'utilizzazione della carta sanitaria elettronica. I regolamenti determinano i criteri per lo svolgimento dei controlli sulle esenzioni riconosciute e per il trattamento dei dati personali comunque effettuato in applicazione del presente decreto, con particolare riferimento alle modalita' di utilizzazione dei dati, ai soggetti che possono accedervi e al tempo di conservazione dei dati stessi, nel rispetto delle disposizioni della legge 31 dicembre 1996, n. 675, e della legge 31 dicembre 1996, n. 676, nonche' di quelle introdotte dai decreti legislativi emanati in attuazione di quest'ultima. Entro il 31 ottobre 1998, il Ministro della sanita', d'intesa con la Conferenza unificata, individua le regioni nelle quali avviare, a partire dal 1 novembre 1998, la sperimentazione del nuovo sistema di partecipazione al costo delle prestazioni e delle esenzioni, con riferimento sia alle procedure amministrative sia all'impatto economico. Sulla base dei risultati della sperimentazione potranno essere emanate disposizioni integrative e correttive dei regolamenti di cui al presente comma.
+
+Il trattamento dei dati di cui al presente decreto e' svolto nel rispetto delle disposizioni della legge 31 dicembre 1996, n. 675, e di quelle contenute nel decreto legislativo 31 marzo 1998, n. 109, anche al fine di assicurare la perdurante efficacia del sistema dei controlli.
+
+La carta sanitaria elettronica e' sperimentata e introdotta nel rispetto delle garanzie previste dai decreti legislativi emanati in attuazione della legge 31 dicembre 1996, n. 676. ((2))
+
+---------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera d)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo 6.
+
+## Art. 7. — Entrate da partecipazione
+ al costo delle prestazioni
+
+Le regioni possono modificare le soglie di cui all'articolo 4, comma 6, con oneri a proprio carico e comunque con esclusione di ogni onere finanziario a carico dello Stato. ((2))
+
+---------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera e)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo articolo 7, comma 1, lettera b), limitatamente alle parole: "sia alla situazione economica del nucleo famigliare, sia" e comma 2.
+
+## Art. 8. — Disposizioni finali e transitorie
+
+Sono abrogate tutte le precedenti norme in materia di partecipazione alla spesa sanitaria e di esenzione dalla stessa non esplicitamente confermate dal presente decreto. E' abrogato, altresi', l'articolo 2, comma 2, della legge 28 dicembre 1995, n. 549.
+
+Dalla data di entrata in vigore dei regolamenti di cui all'articolo 5, commi 1 e 6, cessano di avere efficacia, rispettivamente, le disposizioni di cui agli articoli 1, 2, 3 e 4 del decreto del Ministro della sanita' del 1 febbraio 1991, pubblicato nella Gazzetta Ufficiale n. 32 del 7 febbraio 1991, e successive modificazioni, e quelle di cui all'articolo 6, commi 1 e 2, dello stesso decreto.
+
+Le province autonome di Trento e di Bolzano e le regioni a statuto speciale provvedono alle finalita' del presente decreto nell'ambito delle proprie competenze, secondo quanto stabilito dai rispettivi ordinamenti.
+
+Le disposizioni legislative collegate alla legge finanziaria per il 2000 disciplinano l'eventuale revisione delle soglie di cui all'articolo 4, commi 4 e 5, con riferimento agli esiti della prima fase di applicazione del nuovo sistema di partecipazione al costo delle prestazioni e del regime delle esenzioni. ((2))
+
+---------------
+                        AGGIORNAMENTO (2)
+                         La L. 23 dicembre 2000, n. 388 ha disposto (con l'art. 84, comma 2, lettera d)) che "In vista della progressiva eliminazione della partecipazione degli assistiti al costo delle prestazioni sanitarie erogate dal Servizio sanitario nazionale, e' sospesa l'efficacia" del presente dell'articolo 8, comma 4".
+
+## Art. 9. — Entrata in vigore
+
+Il presente decreto entra in vigore il 1 maggio 1998.
+

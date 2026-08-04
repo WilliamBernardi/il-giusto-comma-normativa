@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1229
+data: 1963-08-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-08-05;1229
+codice_redazionale: 063U1229
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 agosto 1963
+                1229
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Luigi Gonzaga, nel comune di Foggia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 agosto 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Foggia in data 2 gennaio 1958, integrato con altro decreto del 4 febbraio 1963 e con dichiarazione del 4 maggio 1959, relativo alla erezione della Parrocchia di San Luigi Gonzaga, nel comune di Foggia.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 20 settembre 1963
+ Atti del Governo, registro n. 174, foglio n. 32. - VILLA
+

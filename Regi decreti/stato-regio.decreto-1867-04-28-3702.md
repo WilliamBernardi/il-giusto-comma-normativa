@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3702
+data: 1867-04-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-04-28;3702
+codice_redazionale: 067U3702
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:01Z
+---
+
+REGIO DECRETO
+                28 aprile 1867
+                3702
+                Col quale vengono addetti ai Consolati di Tangeri e Corfu' Vice-Consoli di 1ª categoria coll'assegno locale di lire 3000. (067U3702)
+
+Entrata in vigore del provvedimento: 08/06/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

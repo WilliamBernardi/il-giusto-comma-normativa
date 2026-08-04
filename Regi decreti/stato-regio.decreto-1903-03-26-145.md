@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1903-03-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-03-26;145
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:31Z
+---
+
+REGIO DECRETO
+                26 marzo 1903
+                CXLV
+                Che erige in ente morale la societa' per la cremazione dei cadaveri in Pavia. (0300145R)
+
+Entrata in vigore del provvedimento: 29/05/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

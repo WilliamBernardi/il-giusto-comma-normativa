@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 485
+data: 1942-04-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-04-27;485
+codice_redazionale: 042U0485
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:13Z
+---
+
+REGIO DECRETO
+                27 aprile 1942
+                485
+                Modificazioni allo statuto della Regia universita' di Palermo. (042U0485)
+
+Entrata in vigore del provvedimento: 06/06/1942
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

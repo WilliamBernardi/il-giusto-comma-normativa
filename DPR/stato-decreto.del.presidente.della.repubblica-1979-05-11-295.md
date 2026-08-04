@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 295
+data: 1979-05-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-05-11;295
+codice_redazionale: 079U0295
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 maggio 1979
+                295
+                Approvazione del nuovo statuto dell'associazione provinciale allevatori di Torino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 maggio 1979, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvato il nuovo statuto dell'associazione provinciale allevatori di Torino, eretta in ente morale con decreto del Presidente della Repubblica 10 giugno 1966, n. 568.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 5 luglio 1979
+ Registro n. 9 Agricoltura, foglio n. 14
+

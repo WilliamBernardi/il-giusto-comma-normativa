@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 97
+data: 1972-01-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-09;97
+codice_redazionale: 072U0097
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 gennaio 1972
+                97
+                Autorizzazione alla fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 gennaio 1972, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute Don Carlo Gnocchi", con sede in Roma, viene autorizzata ad accettare un legato, consistente in numero diecimila azioni "Montedison", disposto dalla signora Margherita Maria Angela (o Margherita) Rigamonti, con testamento pubblico a rogito dott. Ambrogio Roncoroni, notaio in Milano, con atto recante il n. 210 di repertorio alle ultime volonta', registrato il giorno 27 gennaio 1969 con il n. 63431 di repertorio e n. 10483 di raccolta, registrato in Milano il 5 febbraio 1969 col n. 2521 71/ M serie F.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 22 marzo 1972
+ Atti del Governo, registro n. 247, foglio n. 152. - VALENTINI
+

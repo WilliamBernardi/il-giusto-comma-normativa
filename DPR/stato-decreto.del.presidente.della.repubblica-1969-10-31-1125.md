@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1125
+data: 1969-10-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-31;1125
+codice_redazionale: 069U1125
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 ottobre 1969
+                1125
+                Trasferimento di un posto di assistente di ruolo dalla cattedra di elettrochimica della facolta' di ingegneria dell'Universita' di Napoli alla cattedra omonima della facolta' di ingegneria del Politecnico di Milano.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto legislativo 7 maggio 1948, n. 1172, ratificato con la legge 24 giugno 1950, n. 465;
+ Visto il decreto ministeriale 1 luglio 1949, relativo alla ripartizione dei posti di ruolo di assistente, di tecnico e di ausiliario fra le varie facolta' e cattedre delle universita' e degli istituti di istruzione universitaria;
+ Visto il verbale della facolta' di ingegneria della Universita' di Napoli, in data 22 settembre 1969, con il quale il predetto consesso ha proposto il trasferimento di un posto di assistente di ruolo dalla cattedra di elettrochimica della predetta facolta' alla cattedra omonima della facolta' di ingegneria del Politecnico di Milano, a decorrere dal 1 novembre 1969;
+ Visto il verbale, in data 24 settembre 1969, con il quale il senato accademico del predetto ateneo ha espresso parere favorevole al citato trasferimento;
+ Visti i verbali, in data 22 e 23 ottobre 1969, con i quali il consiglio della facolta' di ingegneria nonche' il senato accademico del Politecnico di Milano hanno espresso parere favorevole al trasferimento stesso;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
+
+ Decreta:
+
+ A decorrere dal 1 novembre 1969, uno dei posti di assistente di ruolo, presentemente assegnati alla cattedra di elettrochimica della facolta' di ingegneria della Universita' di Napoli, e' trasferito alla cattedra di elettrochimica della facolta' di ingegneria del Politecnico di Milano.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1308
+data: 1962-07-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-14;1308
+codice_redazionale: 062U1308
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 luglio 1962
+                1308
+                Riconoscimento della personalita' giuridica del Monastero di Santa Maria della Consolazione, con sede in Merano (Bolzano) e riconoscimento, agli effetti civili, del decreto della Sacra Congregazione dei Religiosi.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del Monastero di Santa Maria della Consolazione, con sede in Merano (Bolzano) e viene riconosciuto, agli effetti civili il decreto della Sacra Congregazione dei Religiosi in data 22 gennaio 1960, R. G. 26, con il quale viene stralciato dal patrimonio della Congregazione italiana Cistercense, con sede in Roma, ed attribuito al Monastero anzidetto un complesso immobiliare valutato L. 161.790.000.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 25 agosto 1962
+ Atti del Governo, registro n. 158, foglio n. 40. - VILLA
+

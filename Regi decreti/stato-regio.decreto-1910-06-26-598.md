@@ -1,0 +1,370 @@
+---
+tipo: REGIO DECRETO
+numero: 598
+data: 1910-06-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-06-26;598
+codice_redazionale: 010U0598
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:15Z
+---
+
+REGIO DECRETO
+                26 giugno 1910
+                598
+                Che approva l'annesso capitolato pei servizi postali marittimi fra Ravenna e Fiume e fra Ravenna e Trieste. (010U0598)
+
+Entrata in vigore del provvedimento: 25/09/1910
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+### Art. 1.
+
+Capitolato-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 2.
+
+Capitolato-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 3.
+
+Capitolato-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 4.
+
+Capitolato-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 5.
+
+Capitolato-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 6.
+
+Capitolato-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 7.
+
+Capitolato-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 8.
+
+Capitolato-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 9.
+
+Capitolato-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 10.
+
+Capitolato-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 11.
+
+Capitolato-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 12.
+
+Capitolato-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 13.
+
+Capitolato-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 14.
+
+Capitolato-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 15.
+
+Capitolato-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 16.
+
+Capitolato-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 17.
+
+Capitolato-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 18.
+
+Capitolato-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 19.
+
+Capitolato-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 20.
+
+Capitolato-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 21.
+
+Capitolato-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 22.
+
+Capitolato-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 23.
+
+Capitolato-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 24.
+
+Capitolato-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 25.
+
+Capitolato-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 26.
+
+Capitolato-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 27.
+
+Capitolato-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 28.
+
+Capitolato-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 29.
+
+Capitolato-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 30.
+
+Capitolato-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 31.
+
+Capitolato-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 32.
+
+Capitolato-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 33.
+
+Capitolato-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 34.
+
+Capitolato-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 35.
+
+Capitolato-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 36.
+
+Capitolato-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 37.
+
+Capitolato-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 38.
+
+Capitolato-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 39.
+
+Capitolato-art. 39 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 40.
+
+Capitolato-art. 40 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 41.
+
+Capitolato-art. 41 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 42.
+
+Capitolato-art. 42 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 43.
+
+Capitolato-art. 43 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 44.
+
+Capitolato-art. 44 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 45.
+
+Capitolato-art. 45 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 46.
+
+Capitolato-art. 46 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 47.
+
+Capitolato-art. 47 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 48.
+
+Capitolato-art. 48 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 49.
+
+Capitolato-art. 49 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 50.
+
+Capitolato-art. 50 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 51.
+
+Capitolato-art. 51 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 52.
+
+Capitolato-art. 52 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 53.
+
+Capitolato-art. 53 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 54.
+
+Capitolato-art. 54 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 55.
+
+Capitolato-art. 55 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 56.
+
+Capitolato-art. 56 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 57.
+
+Capitolato-art. 57 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 58.
+
+Capitolato-art. 58 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 59.
+
+Capitolato-art. 59 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 60.
+
+Capitolato-art. 60 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 61.
+
+Capitolato-art. 61 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 62.
+
+Capitolato-art. 62 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 63.
+
+Capitolato-art. 63 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 64.
+
+Capitolato-art. 64 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 65.
+
+Capitolato-art. 65 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 66.
+
+Capitolato-art. 66 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 67.
+
+Capitolato-art. 67 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 68.
+
+Capitolato-art. 68 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 69.
+
+Capitolato-art. 69 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 70.
+
+Capitolato-art. 70 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 71.
+
+Capitolato-art. 71 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 72.
+
+Capitolato-art. 72 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 73.
+
+Capitolato-art. 73 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 74.
+
+Capitolato-art. 74 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 75.
+
+Capitolato-art. 75 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 76.
+
+Capitolato-art. 76 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 77.
+
+Capitolato-art. 77 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 78.
+
+Capitolato-art. 78 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 79.
+
+Capitolato-art. 79 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 80.
+
+Capitolato-art. 80 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 81.
+
+Capitolato-art. 81 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 82.
+
+Capitolato-art. 82 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 83.
+
+Capitolato-art. 83 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 84.
+
+Capitolato-art. 84 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 85.
+
+Capitolato-art. 85 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+### Art. 86.
+
+Capitolato-art. 86 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+

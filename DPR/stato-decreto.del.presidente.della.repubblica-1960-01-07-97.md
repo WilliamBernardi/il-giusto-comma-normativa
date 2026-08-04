@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 97
+data: 1960-01-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-01-07;97
+codice_redazionale: 060U0097
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 gennaio 1960
+                97
+                Riconoscimento, agli effetti civili, della elevazione a parrocchia della Curazia di SS. Fosca V. e Maura M., in frazione Basaldella del comune di Vivaro (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 gennaio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Concordia in Portogruaro in data 8 maggio 1959, integrate con dichiarazione del 17 maggio 1959, relativo alla elevazione a parrocchia della Curazia di SS. Fosca V. e Maura M., in frazione Basaldella del comune di Vivaro (Udine).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 febbraio 1960
+ Atti del Governo, registro n. 124, foglio n. 95. - VILLA
+

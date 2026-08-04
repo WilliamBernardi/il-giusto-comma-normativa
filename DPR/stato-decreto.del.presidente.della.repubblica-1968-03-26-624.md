@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 624
+data: 1968-03-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-26;624
+codice_redazionale: 068U0624
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 marzo 1968
+                624
+                Erezione in ente morale dell'Associazione lauretana tra i marchigiani (A.L.MA.), con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Ministro per l'interno, l'Associazione lauretana fra i marchigiani (A.L.MA.), con sede in Roma, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 100. - GRECO
+

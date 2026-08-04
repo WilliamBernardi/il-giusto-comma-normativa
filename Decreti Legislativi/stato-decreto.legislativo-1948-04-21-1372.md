@@ -1,0 +1,60 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 1372
+data: 1948-04-21
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-04-21;1372
+codice_redazionale: 048U1372
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:22Z
+---
+
+DECRETO LEGISLATIVO
+                21 aprile 1948
+                1372
+                Provvedimenti in materia di conti consuntivi delle Amministrazioni provinciali, comunali e delle Istituzioni pubbliche di assistenza e beneficenza e disposizioni per il pagamento di titoli di spesa emessi dalle Amministrazioni provinciali, comunali e consorziali.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+

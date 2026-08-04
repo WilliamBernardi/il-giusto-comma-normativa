@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1909-06-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-06-03;208
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:04Z
+---
+
+REGIO DECRETO
+                03 giugno 1909
+                CCVIII
+                Che modifica lo statuto organico dell'Accademia di Belle arti di Perugia. (0900208R)
+
+Entrata in vigore del provvedimento: 08/08/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

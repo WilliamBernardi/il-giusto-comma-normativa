@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1673
+data: 1962-10-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-10-27;1673
+codice_redazionale: 062U1673
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 ottobre 1962
+                1673
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe Operaio e Sposo della B.M.V., in frazione Fosse del comune di Enego (Vicenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 ottobre 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Padova in data 8 dicembre 1960, integrato con dichiarazione del 15 aprile 1961, relativo alla erezione della parrocchia di San Giuseppe Operaio Sposo della B.M.V., in frazione Fosse del comune di Enego (Vicenza) e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 6 dicembre 1962
+ Atti del Governo, registro n. 160, foglio n. 76. - VILLA
+

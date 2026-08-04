@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 43
+data: 1975-01-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-01-16;43
+codice_redazionale: 075U0043
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 gennaio 1975
+                43
+                Riunione in ufficio unico dei sedici uffici di conciliazione del comune di Palermo.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del consiglio comunale di Palermo del 26 febbraio 1973, n. 15, divenuta esecutiva nei modi di legge, con la quale si chiede che i sedici uffici di conciliazione esistenti in Palermo siano riuniti in unico ufficio con giurisdizione su tutto il territorio del comune medesimo;
+ Uditi i pareri favorevoli del presidente della corte di appello di Palermo e del procuratore generale presso la corte stessa;
+ Visti gli articoli 20 del regio decreto 30 gennaio 1941, n. 12, 1 della legge 16 giugno 1892, n. 261 e 1 del relativo regolamento approvato con regio decreto 26 dicembre 1892, n. 728;
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+
+ Decreta:
+
+ I sedici uffici di conciliazione del comune di Palermo sono riuniti in unico ufficio con giurisdizione su tutto il territorio del comune medesimo.
+ Il presente decreto entrera' in vigore nel trentesimo giorno dopo quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

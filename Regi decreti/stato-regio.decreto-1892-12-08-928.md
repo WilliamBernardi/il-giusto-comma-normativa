@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1892-12-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-12-08;928
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:09Z
+---
+
+REGIO DECRETO
+                08 dicembre 1892
+                DCCCCXXVIII
+                Che approva il nuovo statuto organico del consorzio degli orafi ed argentieri capi d'arte di Roma. (9200928R)
+
+Entrata in vigore del provvedimento: 22/01/1893
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

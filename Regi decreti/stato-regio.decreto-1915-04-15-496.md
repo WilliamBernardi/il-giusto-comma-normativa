@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 496
+data: 1915-04-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-04-15;496
+codice_redazionale: 015U0496
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:15Z
+---
+
+REGIO DECRETO
+                15 aprile 1915
+                496
+                Col quale e' autorizzata la prelevazione dal fondo di riserva per le spese impreviste inscritto al capitolo n. 24 del bilancio del Fondo di beneficenza e religione nella citta' di Roma, per l'esercizio finanziario 1914-915, da portarsi in aumento al capitolo n. 22 «Spese casuali» dello stesso bilancio. (015U0496)
+
+Entrata in vigore del provvedimento: 13/05/1915
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

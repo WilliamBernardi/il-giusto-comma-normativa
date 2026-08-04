@@ -1,0 +1,25 @@
+---
+tipo: REGIO DECRETO
+data: 1907-10-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1907-10-17;434
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:33Z
+---
+
+REGIO DECRETO
+                17 ottobre 1907
+                CCCCXXXIV
+                Erezione in ente morale. (0700434R)
+
+Entrata in vigore del provvedimento: 01/12/1907
+
+## Art. 1.
+
+Sulla proposta del ministro dell'interno: 
+ 
+ N. CCCCXXXIV (Dato a Roma, il 17 ottobre 1907), col quale si costituisce in ente morale l'Asilo infantile di Vallerotonda.
+

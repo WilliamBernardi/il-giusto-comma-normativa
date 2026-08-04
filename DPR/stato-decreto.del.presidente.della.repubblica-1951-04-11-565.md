@@ -1,0 +1,37 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 565
+data: 1951-04-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;565
+codice_redazionale: 051U0565
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 aprile 1951
+                565
+                Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Cagliari, approvato con regio decreto 20 aprile 1939, n. 1098, modificato con regi decreti 5 ottobre 1939, n. 1743, e 26 marzo 1942, n. 328, con decreto del Capo provvisorio dello Stato 22 ottobre 1946, n. 398, e con decreto del Presidente della Repubblica 30 ottobre 1949, n. 1027;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Cagliari, approvato e modificato con i decreti sopraindicati, e' cosi' ulteriormente modificato:
+ Attuale art. 48. - Agli insegnamenti complementari del corso di laurea in scienze naturali e' aggiunto quello di:
+ 14) "antropologia".
+

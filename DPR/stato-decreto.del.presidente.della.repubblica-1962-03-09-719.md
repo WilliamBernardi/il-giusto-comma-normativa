@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 719
+data: 1962-03-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-03-09;719
+codice_redazionale: 062U0719
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 marzo 1962
+                719
+                Dichiarazione di edizione nazionale dell'"Opera Omnia" del musicista Claudio Monteverdi.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Ritenuto che il Centro di cultura musicale del Conservatorio di musica "Benedetto Marcello" di Venezia ha assunto l'iniziativa di curare sotto la direzione di un apposito Comitato di studiosi l'"Opera Omnia" di Claudio Monteverdi;
+ Considerato che tale iniziativa merita incoraggiamento per le finalita' che si propone e perche' rappresenta un doveroso tributo alla memoria dell'insigne musicista;
+ Visto l'art. 20 della legge 30 dicembre 1947, n. 1477;
+ Udito il parere del Consiglio superiore delle accademie e biblioteche;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione;
+
+ Decreta:
+
+ La pubblicazione dell'"Opera Omnia" da farsi a cura del Centro musicale del Conservatorio di musica, "Benedetto Marcello" di Venezia sotto la direzione di apposito Comitato e dichiarata "Edizione Nazionale".
+

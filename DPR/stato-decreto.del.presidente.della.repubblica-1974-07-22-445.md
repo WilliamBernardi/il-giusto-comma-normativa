@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 445
+data: 1974-07-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-07-22;445
+codice_redazionale: 074U0445
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 luglio 1974
+                445
+                Riconoscimento, agli effetti civili, della proroga dell'unione delle parrocchie di S. Carlo Borromeo e di S. Michele, in Prignano sulla Secchia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 luglio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Modena in data 15 novembre 1973, relativo alla proroga, per il periodo di cinque anni, dell'unione "aeque principaliter", delle parrocchie di S. Carlo Borromeo, in frazione Pescarola del comune di Prignano sulla Secchia (Modena), e di S.
+ Michele, in frazione Montebaranzone dello stesso comune.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 9 settembre 1974
+ Atti di Governo, registro n. 5, foglio n. 68. - SCIARRETTA
+

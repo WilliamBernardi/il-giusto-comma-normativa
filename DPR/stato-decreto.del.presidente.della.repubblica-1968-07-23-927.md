@@ -1,0 +1,48 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 927
+data: 1968-07-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-23;927
+codice_redazionale: 068U0927
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 luglio 1968
+                927
+                Modificazioni allo statuto dell'Universita' degli studi di Siena.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Siena, approvato con regio decreto 13 ottobre 1927, n. 2831, e modificato con regio decreto 31 ottobre 1929, n. 2395, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione.
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 21. - All'elenco degli insegnamenti complementari del corso di laurea in medicina e chirurgia sono aggiunti quelli di:
+ 25) Biochimica applicata;
+ 26) Chirurgia plastica ricostruttiva;
+ 27) Chirurgia toracica;
+ 28) Citochimica ed istochimica;
+ 29) Medicina sociale;
+ 30) Neurochirurgia;
+ 31) Reumatologia;
+ 32) Virologia;
+ 33) Urologia;
+ 34) Audiologia.
+

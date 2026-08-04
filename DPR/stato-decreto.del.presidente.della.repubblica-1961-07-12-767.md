@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 767
+data: 1961-07-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-07-12;767
+codice_redazionale: 061U0767
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 luglio 1961
+                767
+                Riconoscimento, agli effetti civili, della erezione della parrocchia del S. Cuore di Gesu', in localita' Valle (o anche detta Casa del Corto), del comune di Piancastagnaio (Siena).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 luglio 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Savona-Pitigliano in data 24 giugno 1960, integrato con due dichiarazioni del 1 settembre 1960 e del 13 marzo 1961, relativo alla erezione della parrocchia del S. Cuore di Gesu', in localita' Valle (o anche detta Casa del Corto), del comune di Piancastagnaio (Siena).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 agosto 1961
+ Atti del Governo, registro n. 138, foglio n. 29. - DI PRETORO
+

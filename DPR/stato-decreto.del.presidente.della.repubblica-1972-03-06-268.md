@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 268
+data: 1972-03-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-03-06;268
+codice_redazionale: 072U0268
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 marzo 1972
+                268
+                Autorizzazione alla Cassa mutua di malattia per gli esercenti attivita' commerciali della provincia di Salerno ad acquistare una porzione di immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 marzo 1972, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la Cassa mutua di malattia per gli esercenti attivita' commerciali della provincia di Salerno viene autorizzata ad acquistare per il prezzo di L. 37.486.500 la porzione di immobile rappresentata dall'intero primo piano di un fabbricato sito in Salerno, via Torrione, 113, ad esclusione dell'appartamento interno 2 e dell'appartamento abitazione del portiere, di proprieta' dei signori Della Monica Aldo e Galderisi Fioravante, come da rogito per notaio Elio Rosapepe di Salerno, rep. n. 33615 del 5 luglio 1965.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 22 giugno 1972
+ Atti del Governo, registro n. 249, foglio n. 96. - VALENTINI
+

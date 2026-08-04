@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 250
+data: 1913-02-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-02-16;250
+codice_redazionale: 013U0250
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:07Z
+---
+
+REGIO DECRETO
+                16 febbraio 1913
+                250
+                Approvazione di statuto e riconoscimento di corpo morale. (013U0250)
+
+Entrata in vigore del provvedimento: 22/04/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

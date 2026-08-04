@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1172
+data: 1963-07-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-07-24;1172
+codice_redazionale: 063U1172
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 luglio 1963
+                1172
+                Erezione in ente morale della Casa del Giovane "Barone Stefano Chiarelli La Lumia", con sede in Alcamo (Trapani).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 luglio 1963, col quale, sulla proposta del Ministro per l'interno, la Casa del Giovane "Barone Stefano Chiarelli La Lumia", con sede in Alcamo (Trapani), viene eretta in ente morale e ne viene approvato, con modificazioni, il relativo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 27 agosto 1963
+ Atti del Governo, registro n. 173, foglio n. 118. - VILLA
+

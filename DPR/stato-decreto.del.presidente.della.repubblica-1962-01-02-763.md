@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 763
+data: 1962-01-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;763
+codice_redazionale: 062U0763
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 gennaio 1962
+                763
+                Norme sul trattamento economico e normativo per i dipendenti da esercizi di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie ed ogni altro esercizio similare ove si somministrano bevande di cui all'art. 86 della legge di P. S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi e da laboratori di pasticceria delle province di Agrigento, Avellino, Benevento, Chieti, Perugia e Siracusa.
+
+Provinciale;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati:
+ - per la provincia di Agrigento, il contratto collettivo 1 ottobre 1959, relativo ai dipendenti da caffe', bars e pasticcerie;
+ - per la provincia di Avellino, l'accordo collettivo 12 agosto 1954, relativo ai dipendenti da caffe', bars, gelaterie e pasticcerie;
+ - per la provincia di Benevento, l'accordo collettivo integrativo 31 gennaio 1956, relativo ai dipendenti da aziende di caffe', bars, bottiglierie, birrerie, buffets di stazione, gelaterie, fiaschetterie ed ogni altro esercizio similare ove si somministrano bevande di cui all'art. 80 della legge di P. S., da negozi di pasticceria e confetteria, reparti di pasticceria e confetteria annessi a pubblici esercizi;
+ - per la provincia di Chieti, l'accordo collettivo integrativo 18 agosto 1959, relativo ai dipendenti da caffe', bars, bottiglierie, birrerie, pasticcerie, gelaterie confetterie ed esercizi similari;
+ - per la provincia di Perugia, l'accordo collettivo integrativo 30 settembre 1959, relativo ai dipendenti da caffe', bars, pasticcerie e confetterie, ecc. e per i laboratori di pasticceria;
+ - per la provincia di Siracusa, il contratto collettivo integrativo 30 settembre 1959, relativo ai dipendenti da caffe', bars, birrerie, buffets di stazione, gelaterie, pasticcerie, sale da ballo;
+ sono regolati da norme giuridiche uniformi alle clausole dei contratti e degli accordi anzidetti, annessi al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese esercenti le attivita' considerate negli accordi e nei contratti collettivi di cui al primo comma, delle province di Agrigento, Avellino, Benevento, Chieti, Perugia e Siracusa.
+

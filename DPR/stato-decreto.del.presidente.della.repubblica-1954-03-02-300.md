@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 300
+data: 1954-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-02;300
+codice_redazionale: 054U0300
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1954
+                300
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria del Suffragio, vulgo "del Purgatorio", in comune di Santa Caterina Villarmosa (Caltanissetta).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 marzo 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Caltanissetta in data 1 marzo 1952, integrato con dichiarazione 25 luglio 1953, relativo all'erezione della parrocchia di Santa Maria del Suffragio, vulgo "del Purgatorio", in comune di Santa Caterina Villarmosa (Caltanissetta).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 7 giugno 1954
+ Atti del Governo, registro n. 83, foglio n. 117. - CARLOMAGNO
+

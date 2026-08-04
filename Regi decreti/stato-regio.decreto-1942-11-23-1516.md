@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 1516
+data: 1942-11-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-11-23;1516
+codice_redazionale: 042U1516
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:24Z
+---
+
+REGIO DECRETO
+                23 novembre 1942
+                1516
+                Autorizzazione all'Istituto dei ciechi « Francesco Cavazza » di
+Bologna ad accettare una donazione. (042U1516)
+
+Entrata in vigore del provvedimento: 17/01/1943
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

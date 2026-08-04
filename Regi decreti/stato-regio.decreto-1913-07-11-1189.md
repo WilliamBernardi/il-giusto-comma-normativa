@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1189
+data: 1913-07-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-07-11;1189
+codice_redazionale: 013U1189
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:07Z
+---
+
+REGIO DECRETO
+                11 luglio 1913
+                1189
+                Col quale viene approvato il regolamento per l'esecuzione della legge 16 giugno 1912, n. 619, concernente il piano regolatore della citta' di Nervi (013U1189)
+
+Entrata in vigore del provvedimento: 05/11/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 183
+data: 1974-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-02;183
+codice_redazionale: 074U0183
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1974
+                183
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della Madonna della salute, in Amendolara.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 marzo 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Anglona-Tursi in data 1 marzo 1967, integrato con quattro postille aggiuntive di pari data e con due dichiarazioni rispettivamente del 31 gennaio 1968 e 18 aprile 1973, relativo alla erezione della parrocchia della Madonna della salute, in localita' Amendolara Marina del comune di Amendolara (Cosenza).
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 15 maggio 1974
+ Atti di Governo, registro n. 3, foglio n. 17. - SCIARRETTA
+

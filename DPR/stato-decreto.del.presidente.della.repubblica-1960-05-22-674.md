@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 674
+data: 1960-05-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-05-22;674
+codice_redazionale: 060U0674
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 maggio 1960
+                674
+                Soppressione della Fabbriceria della Chiesa parrocchiale di San Floriano, in Castelfranco Veneto (Treviso).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 maggio 1960, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa parrocchiale di San Floriano in Castelfranco Veneto (Treviso).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 8 luglio 1960
+ Atti del Governo, registro n. 128, foglio n. 34. - VILLA
+

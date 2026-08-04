@@ -1,0 +1,51 @@
+---
+tipo: REGIO DECRETO
+numero: 4366
+data: 1887-02-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-02-13;4366
+codice_redazionale: 087U4366
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:24Z
+---
+
+REGIO DECRETO
+                13 febbraio 1887
+                4366
+                Col quale la Scuola normale maschile superiore di Forli' e' convertita in Scuola normale femminile. (087U4366)
+
+Entrata in vigore del provvedimento: 29/03/1887
+
+## Art. 1.
+
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Veduto il titolo V della legge organica del 13 novembre 1859, ed il regolamento per le scuole normali del 21 giugno 1883; 
+ 
+ Riconosciuto che per meglio provvedere ai bisogni della istruzione primaria nella provincia di Forli' sia piu' conveniente una scuola normale femminile invece dell'attuale maschile; 
+ 
+ Veduta la deliberazione del comune di Forli'; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ L'attuale scuola normale maschile superiore di Forli' e' convertita in scuola normale femminile. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 febbraio 1887. 
+ 
+ UMBERTO. 
+ 
+ Coppino. 
+ 
+ Visto, Il Guardasigilli: Tajani.
+

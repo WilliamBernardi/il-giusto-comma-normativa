@@ -1,0 +1,56 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1090
+data: 1954-10-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-20;1090
+codice_redazionale: 054U1090
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:41Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 ottobre 1954
+                1090
+                Trattamento di quiescenza del personale del soppresso Ministero dell'Africa italiana che abbia optato per la conservazione del rapporto d'impiego a contratto tipo ai sensi dell'art. 7 della legge 9 luglio 1954, n. 431.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.L . 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+

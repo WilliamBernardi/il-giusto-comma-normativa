@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-08-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-08-29;622
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:27Z
+---
+
+REGIO DECRETO
+                29 agosto 1895
+                DCXXII
+                Che concentra nella congregazione di carita' di Capriata d'Orba (Alessandria) le opere pie Monte e Lombardo, quest'ultima nella sola parte riguardante la beneficenza. (9500622R)
+
+Entrata in vigore del provvedimento: 29/12/1895
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

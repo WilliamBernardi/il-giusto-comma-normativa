@@ -1,0 +1,98 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 816
+data: 1953-09-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-09-24;816
+codice_redazionale: 053U0816
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 settembre 1953
+                816
+                Ordinamento delle scuole militari.
+
+Udito il parere del Consiglio superiore delle Forze armate;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I corsi di studio seguiti presso i licei annessi alle scuole militari sono di ordine classico e scientifico.
+ I programmi svolti presso le scuole militari corrispondono a quelli previsti per l'intero corso del liceo classico e per il secondo, terzo, quarto e quinto anno di liceo scientifico, integrati da un apposito corso di matematica.
+ Le ammissioni si effettuano esclusivamente al primo anno del liceo classico ovvero al secondo anno del liceo scientifico.
+
+## Art. 2.
+
+I posti disponibili nelle scuole militari vengono conferiti per concorso fra i cittadini italiani che:
+ a) al 31 dicembre dell'anno in cui ha luogo l'ammissione abbiano compiuto il 14° o il 15° anno di eta' e non superato il 17° o il 18° a seconda che aspirino ad essere ammessi al liceo scientifico o al liceo classico;
+ b) siano in possesso del titolo di ammissione alla prima classe del liceo classico od alla seconda classe del liceo scientifico;
+ c) abbiano sempre tenuto regolare condotta morale e civile e non siano stati mai espulsi da istituti di educazione o di istruzione dello Stato;
+ d) siano di sana e robusta costituzione fisica ed abbiano superato apposito esperimento di educazione fisica, secondo le modalita' e i programmi fissati con disposizione ministeriale.
+
+## Art. 3.
+
+Il Ministro per la difesa stabilisce ogni anno il numero dei posti da mettere a concorso per l'ammissione ai licei annessi alle scuole militari.
+ I posti disponibili sono conferiti per concorso nel seguente ordine:
+ 1) in ragione del 50% agli orfani di guerra (o equiparati) e agli orfani di dipendenti militari e civili dello Stato (ivi compresi i sottufficiali in carriera continuativa delle Forze armate) deceduti in servizio e per causa di servizio;
+ 2) in ragione del 25% ai figli di ufficiali in servizio permanente o di sottufficiali in carriera continuativa delle Forze armate, di dipendenti civili di ruolo dello Stato, di titolari di pensioni ordinarie civili e militari dello Stato;
+ 3) in ragione del 25% agli altri aspiranti.
+ I posti non coperti con aspiranti delle rispettive categorie sono devoluti alle altre categorie in misura proporzionale alle percentuali previste ai numeri 1), 2) e 3).
+ Entro ciascun gruppo le ammissioni si effettuano nell'ordine indicato da apposita graduatoria di merito determinata in base alla media aritmetica dei voti riportati nel conseguimento del titolo di studio prescritto. A parita' di merito si tiene conto dell'esito dell'esperimento di educazione fisica di cui alla lettera d) del precedente art. 2, e, se del caso, anche del fatto di avere il candidato conseguito il titolo di studio nella prima sessione di esami.
+
+## Art. 4.
+
+Annualmente gli allievi delle scuole militari sono giudicati, secondo modalita' stabilite dal Ministero della difesa, nei riguardi delle loro idoneita' alla vita militare.
+ Gli allievi giudicati non idonei cessano di appartenere all'istituto.
+
+## Art. 5.
+
+Durante l'intera permanenza nella scuola non e' consentito agli allievi ripetere piu' di un anno. In caso diverso essi cessano di appartenere alla scuola.
+
+## Art. 6.
+
+La misura della, retta, annuale e' stabilita, con decreto del Ministro per la difesa, di concerto con il Ministro per il tesoro.
+
+## Art. 7.
+
+E' accordato il beneficio della intera retta gratuita agli orfani di cui al n. 1) del precedente art. 3.
+
+## Art. 8.
+
+E' accordato il beneficio della mezza retta gratuita per benemerenze di famiglia:
+ a) ai figli dei mutilati e invalidi di guerra per una infermita' ascrivibile alle prime quattro categorie elencate nella tabella A annessa, alla legge 10 agosto 1950, n. 648;
+ b) ai figli dei decorati dell'Ordine Militare d'Italia o dei decorati di medaglia d'oro al valor militare;
+ c) ai figli di militari di carriera di dipendenti civili di ruolo delle Amministrazioni dello Stato e di pensionati militari e civili dello Stato
+
+## Art. 9.
+
+E' accordato il beneficio della mezza retta gratuita per merito personale nel primo anno del liceo classico e nel secondo anno del liceo scientifico agli allievi compresi nei primi due decimi delle graduatorie di cui all'ultimo comma del precedente art. 3, purche' abbiano conseguito il prescritto titolo di ammissione con una media complessiva non inferiore agli otto decimi.
+ Uguale beneficio e' concesso agli allievi che negli scrutini annuali risultino classificati nei primi due decimi dei promossi al corso superiore, purche' abbiano riportato una media complessiva non inferiore agli otto decimi.
+
+## Art. 10.
+
+Possono cumularsi a favore dello stesso allievo due mezze rette gratuite per benemerenze diverse, l'una per benemerenze di famiglia e l'altra per merito personale.
+
+## Art. 11.
+
+Il beneficio della gratuita' o semi gratuita' per benemerenze di famiglia non e' accordato durante il tempo in cui l'allievo ripete l'anno in corso per insuccesso negli esami.
+
+## Art. 12.
+
+Le spese di cancelleria e per libri di testo sono il ogni caso a carico delle famiglie.
+
+## Art. 13.
+
+Gli allievi delle scuole militari che abbiano conseguito la maturita' classica o scientifica e che superino le prove di concorso sono ammessi alla Accademia militare con precedenza sugli altri aspiranti, fino alla concorrenza della meta' dei posti messi a concorso.
+
+## Art. 14.
+
+Sono abrogati il regio decreto 15 luglio 1926, n. 1385, sull'ordinamento e gli studi nei collegi militari, e le successive modificazioni.
+

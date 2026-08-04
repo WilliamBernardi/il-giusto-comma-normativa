@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 2035
+data: 1932-11-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-11-17;2035
+codice_redazionale: 032U2035
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:39Z
+---
+
+REGIO DECRETO
+                17 novembre 1932
+                2035
+                Modifiche ad alcuni articoli del regolamento per la concessione dei
+bacini per carenare, approvato con decreto Luogotenenziale 20 giugno 1915, n. 1025. (032U2035)
+
+Entrata in vigore del provvedimento: 16/12/1932
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

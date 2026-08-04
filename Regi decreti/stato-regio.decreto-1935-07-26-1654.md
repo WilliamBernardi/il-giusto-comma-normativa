@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1654
+data: 1935-07-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-07-26;1654
+codice_redazionale: 035U1654
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:47Z
+---
+
+REGIO DECRETO
+                26 luglio 1935
+                1654
+                Riconoscimento della personalita' giuridica della Casa di Bergamo dell'Istituto delle Suore Ausiliatrici delle Anime del Purgatorio. (035U1654)
+
+Entrata in vigore del provvedimento: 04/10/1935
+
+## Art. 1.
+
+N.
+
+R. decreto 26 luglio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa di Bergamo dell'Istituto delle Suore Ausiliatrici delle Anime del Purgatorio con Casa generalizia in Parigi, e viene autorizzato il trasferimento a favore della Casa anzidetta di immobili del complessivo approssimativo valore di L. 120.000, da essa posseduti da epoca anteriore al Concordato con la Santa Sede ed attualmente intestati a terzi. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 7 settembre 1935 - Anno XIII
+

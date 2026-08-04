@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1350
+data: 1960-10-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-19;1350
+codice_redazionale: 060U1350
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 ottobre 1960
+                1350
+                Modifiche allo statuto della Scuola normale superiore di Pisa.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto lo statuto della Scuola normale superiore di Pisa, approvato con regio decreto 21 ottobre 1938, n. 2216 e modificato con regio decreto 21 ottobre 1940, n. 1654, e successivi;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduta la proposta di modifica dello statuto formulata dalle autorita' accademiche della predetta Scuola;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto della Scuola normale superiore di Pisa, approvato e modificato con i decreti sopraindicati, e ulteriormente modificato come appresso:
+ Art. 56, primo comma, n. 1): le parole "prova scritta e orale in una lingua straniera a scelta del candidato" sono soppresse.
+ Art. 57, l'ultimo comma e' soppresso e sostituito dal seguente: "Per l'ammissione al secondo o terzo anno e' obbligatoria, anche una prova scritta e orale in una lingua straniera a scelta del candidato".
+

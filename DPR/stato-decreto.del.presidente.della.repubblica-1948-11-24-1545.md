@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1545
+data: 1948-11-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-11-24;1545
+codice_redazionale: 048U1545
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 novembre 1948
+                1545
+                Approvazione del nuovo statuto della Societa' di studi geografici, con sede in Firenze.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della, Repubblica 24 novembre 1948, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto della Societa' di studi geografici, con sede in Firenze.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 29 dicembre 1948
+

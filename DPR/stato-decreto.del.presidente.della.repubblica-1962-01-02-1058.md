@@ -1,0 +1,80 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1058
+data: 1962-01-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;1058
+codice_redazionale: 062U1058
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 gennaio 1962
+                1058
+                Norme sul trattamento economico e normativo dei lavoratori dipendenti dai Consorzi agrari delle province di Agrigento, Ascoli Piceno, Bari, Bergamo, Bologna, Brescia, Caltanissetta, Catania, Catanzaro, Como, Cosenza, Enna, Ferrara, Firenze, Forli', Gorizia, Grosseto, Imperia, L'Aquila, Lecce, Lucca, Macerata, Mantova, Milano, Modena, Novara, Parma, Perugia, Pescara, Piacenza, Pisa, Ravenna, Reggio Emilia, Siena, Siracusa, Taranto, Trapani, Treviso, Vercelli, dal Consorzio interprovinciale di Genova, La Spezia, Savona, e dal Consorzio del Territorio di Trieste.
+
+l'accordo collettivo integrativo 15 ottobre 1959, stipulato tra il Comitato Nazionale Sindacale dei Consorzi Agrari Provinciali e il Sindacato Lavoratori del Consorzio Agrario Provinciale;
+
+l'accordo collettivo integrativo 6 luglio 1960, stipulato tra il Comitato Nazionale Sindacale dei Consorzi Agrari Provinciali, il Consorzio Agrario Provinciale e il Sindacato Nazionale Lavoratori dei Consorzi Agrari Provinciali, il Sindacato Lavoratori del Consorzio Agrario Provinciale.
+
+l'accordo collettivo integrativo 15 dicembre 1959, stipulato tra il Comitato Nazionale Sindacale dei Consorzi Agrari e il Sindacato Lavoratori del Consorzio Agrario Provinciale;
+
+il patto collettivo 13 febbraio 1960, aggiuntivo al predetto accordo collettivo integrativo 15 dicembre 1959, stipulato tra il Consorzio Agrario Provinciale e il Sindacato Provinciale Dipendenti del Consorzio Agrario Provinciale.
+
+l'accordo collettivo integrativo 20 novembre 1959;
+
+l'accordo collettivo 11 febbraio 1960, modificativo dell'art. 3 del predetto accordo collettivo integrativo 20 novembre 1959;
+
+entrambi stipulati tra il Comitato Nazionale Sindacale dei Consorzi Agrari Provinciali e il Sindacato Lavoratori del Consorzio Agrario Provinciale.
+
+l'accordo collettivo integrativo 17 novembre 1959;
+
+l'accordo collettivo 20 novembre 1959, aggiuntivo al predetto accordo collettivo integrativo 17 novembre 1959, entrambi stipulati tra il Comitato Nazionale dei Consorzi Agrari Provinciali e il Sindacato Lavoratori del Consorzio Agrario Provinciale.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati, relativamente ai lavoratori dipendenti da Consorzi Agrari, i sottoindicati atti collettivi integrativi, sono regolati da norme giuridiche uniformi alle clausole degli atti stessi, annessi al presente decreto:
+ per la provincia di Agrigento, l'accordo collettivo 18 dicembre 1959;
+ per la provincia di Ascoli Piceno, l'accordo collettivo 27 ottobre 1959;
+ per la provincia di Bari, l'accordo collettivo 8 aprile 1960;
+ per la provincia di Bergamo, l'accordo collettivo 19 novembre 1959;
+ per la provincia di Bologna, l'accordo collettivo 29 ottobre 1959;
+ per la provincia di Brescia, l'accordo collettivo 19 novembre 1959;
+ per la provincia di Caltanissetta, l'accordo collettivo 17 dicembre 1959;
+ per la provincia di Catania, l'accordo collettivo 27 ottobre 1959;
+ per la provincia di Catanzaro, l'accordo collettivo 19 novembre 1959;
+ per la provincia di Como, l'accordo collettivo 14 ottobre 1959;
+ per la provincia di Cosenza, l'accordo collettivo 26 aprile 1960; per la provincia di Enna, l'accordo collettivo 11 febbraio 1960; per la provincia di Ferrara, l'accordo collettivo 28 ottobre 1959;
+ per la provincia di Firenze, l'accordo collettivo 16 ottobre 1959;
+ per la provincia di Forli', gli accordi collettivi 15 ottobre 1959 e 6 luglio 1960;
+ per la provincia di Gorizia, l'accordo collettivo 28 ottobre 1959;
+ per la provincia di Grosseto, l'accordo collettivo 16 ottobre 1959;
+ per la provincia di Imperia, l'accordo collettivo 14 ottobre 1959;
+ per la provincia dell'Aquila, l'accordo collettivo 18 novembre 1959;
+ per la provincia di Lecce, l'accordo collettivo 9 aprile 1960;
+ per la provincia di Lucca, l'accordo collettivo 15 dicembre 1959; per la provincia di Macerata, l'accordo collettivo 14 ottobre 1959;
+ per la provincia di Mantova, l'accordo collettivo 15 dicembre 1959 e il patto collettivo 13 febbraio 1960;
+ per la provincia di Milano, l'accordo collettivo 13 ottobre 1959; per la provincia di Modena, l'accordo collettivo 29 ottobre 1959; per la provincia di Novara, l'accordo collettivo 18 dicembre 1959;
+ per la provincia di Parma, l'accordo collettivo 15 ottobre 1959; per la provincia di Perugia, l'accordo collettivo 30 ottobre 1959;
+ per la provincia di Pescara, l'accordo collettivo 28 ottobre 1959;
+ per la provincia di Piacenza, l'accordo collettivo 17 novembre 1959;
+ per la provincia di Pisa, l'accordo collettivo 29 ottobre 1959;
+ per la provincia di Ravenna, l'accordo collettivo 11 gennaio 1960;
+ per la provincia di Reggio Emilia, l'accordo collettivo 15 ottobre 1959;
+ per la provincia di Siena, gli accordi collettivi 20 novembre 1959 e 11 febbraio 1960;
+ per la provincia di Siracusa, l'accordo collettivo 30 ottobre 1959;
+ per la provincia di Taranto, l'accordo collettivo 16 dicembre 1959;
+ per la provincia di Trapani, l'accordo collettivo 30 ottobre 1959;
+ per la provincia di Treviso, l'accordo collettivo 16 dicembre 1959;
+ per la provincia di Vercelli, gli accordi collettivi 17 novembre 1959 e 20 novembre 1959;
+ per le province di Genova, La Spezia e Savona, l'accordo collettivo 13 ottobre 1959;
+ per il territorio di Trieste, l'accordo collettivo 18 novembre 1959.
+ Dette norme sono integrative di quelle concernenti la disciplina nazionale della categoria, purche' con esse compatibili.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dai Consorzi Agrari delle province di Agrigento, Ascoli Piceno, Bari, Bergamo, Bologna, Brescia, Caltanissetta, Catania, Catanzaro, Como, Cosenza, Enna, Ferrara, Firenze, Forli', Gorizia, Grosseto, Imperia, L'Aquila, Lecce, Lucca, Macerata, Mantova, Milano, Modena, Novara, Parma, Perugia, Pescara, Piacenza, Pisa, Ravenna, Reggio Emilia, Siena, Siracusa, Taranto, Trapani, Treviso, Vercelli, dal Consorzio Interprovinciale di Genova - La Spezia - Savona e dal Consorzio del Territorio di Trieste.
+

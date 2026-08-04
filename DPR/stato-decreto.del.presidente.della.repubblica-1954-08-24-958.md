@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 958
+data: 1954-08-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-24;958
+codice_redazionale: 054U0958
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 agosto 1954
+                958
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia del Sacro Cuore Immacolato di Maria e Sant'Ilario Vescovo, Confessore e Dottore, in localita' Commenda del comune di Rovigo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 agosto 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Adria in data 24 febbraio 1952, integrato con postilla 20 gennaio 1954 e con dichiarazione di pari data, relativo all'erezione della parrocchia del Sacro Cuore Immacolato di Maria e Sant'Ilario Vescovo, Confessore e Dottore, in localita' Commenda del comune di Rovigo.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 11 ottobre 1954
+ Atti del Governo, registro n. 86, foglio n. 119. - CARLOMAGNO
+

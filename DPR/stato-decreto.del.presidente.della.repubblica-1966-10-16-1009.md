@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1009
+data: 1966-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-10-16;1009
+codice_redazionale: 066U1009
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1966
+                1009
+                Riconoscimento, agli effetti civili, dell'unione della Parrocchia dei SS. Apostoli Pietro e Paolo con la Parrocchia di S. Anna, nel comune di Vallarsa (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili il decreto dell'Ordinario diocesano di Trento in data 25 aprile 1966, relativo alla unione temporanea "aeque principalis" della Parrocchia dei SS. Apostoli Pietro e Paolo, in frazione Raossi del comune di Vallarsa (Trento), con la Parrocchia di S. Anna, in frazione omonima dello stesso Comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 novembre 1966
+ Atti del Governo, registro n. 207, foglio n. 46. - VILLA
+

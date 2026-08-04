@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1877-08-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1877-08-24;1679
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:25Z
+---
+
+REGIO DECRETO
+                24 agosto 1877
+                MDCLXXIX
+                Che approva la riduzione del capitale della Societa' Ligure de' trasporti, sedente in Genova. (7701679R)
+
+Entrata in vigore del provvedimento: 06/10/1877
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

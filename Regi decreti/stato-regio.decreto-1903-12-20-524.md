@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-12-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-12-20;524
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:07Z
+---
+
+REGIO DECRETO
+                20 dicembre 1903
+                DXXIV
+                Col quale e' approvato il regolamento per l'applicazione della tassa sul bestiame nei comuni della provincia di Bari, deliberato da quella giunta provinciale amministrativa nelle adunanze in data 16 dicembre 1902 e 26 maggio 1903, in sostituzione del regolamento approvato con reale decreto 21 maggio 1871, n. LXI (serie 2ª). (0300524R)
+
+Entrata in vigore del provvedimento: 03/02/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

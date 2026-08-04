@@ -1,0 +1,1761 @@
+---
+tipo: REGIO DECRETO
+numero: 148
+data: 1915-02-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-02-04;148
+codice_redazionale: 015U0148
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:09Z
+---
+
+REGIO DECRETO
+                04 febbraio 1915
+                148
+                E' approvato l'annesso nuovo testo unico della legge comunale e provinciale. (015U0148)
+
+Entrata in vigore del provvedimento: 23/03/1915
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+### Art. 1.
+
+Testo unico-art. 1
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 2.
+
+Testo unico-art. 2
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 3.
+
+Testo unico-art. 3
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 4.
+
+Testo unico-art. 4
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 5.
+
+Testo unico-art. 5
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 6.
+
+Testo unico-art. 6
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 7.
+
+Testo unico-art. 7
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 8.
+
+Testo unico-art. 8
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 9.
+
+Testo unico-art. 9
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 10.
+
+Testo unico-art. 10
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 11.
+
+Testo unico-art. 11
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 12.
+
+Testo unico-art. 12
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 13.
+
+Testo unico-art. 13
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 14.
+
+Testo unico-art. 14
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 15.
+
+Testo unico-art. 15
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 16.
+
+Testo unico-art. 16
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 17.
+
+Testo unico-art. 17
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 18.
+
+Testo unico-art. 18
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 19.
+
+Testo unico-art. 19
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 20.
+
+Testo unico-art. 20
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 21.
+
+Testo unico-art. 21
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 22.
+
+Testo unico-art. 22
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 23.
+
+Testo unico-art. 23
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 24.
+
+Testo unico-art. 24
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 24-bis.
+
+Testo unico-art. 24 bis
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 24-ter.
+
+Testo unico-art. 24 ter
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 25.
+
+Testo unico-art. 25
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 26.
+
+Testo unico-art. 26
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 27.
+
+Testo unico-art. 27
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 28.
+
+Testo unico-art. 28
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 29.
+
+Testo unico-art. 29
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 30.
+
+Testo unico-art. 30
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 31.
+
+Testo unico-art. 31
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 32.
+
+Testo unico-art. 32
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 33.
+
+Testo unico-art. 33
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 34.
+
+Testo unico-art. 34
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 35.
+
+Testo unico-art. 35
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 36.
+
+Testo unico-art. 36
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 37.
+
+Testo unico-art. 37
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 38.
+
+Testo unico-art. 38
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 39.
+
+Testo unico-art. 39
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 40.
+
+Testo unico-art. 40
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 41.
+
+Testo unico-art. 41
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 42.
+
+Testo unico-art. 42
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 43.
+
+Testo unico-art. 43
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 44.
+
+Testo unico-art. 44
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 45.
+
+Testo unico-art. 45
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 46.
+
+Testo unico-art. 46
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 47.
+
+Testo unico-art. 47
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 48.
+
+Testo unico-art. 48
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 49.
+
+Testo unico-art. 49
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 50.
+
+Testo unico-art. 50
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 51.
+
+Testo unico-art. 51
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 52.
+
+Testo unico-art. 52
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 53.
+
+Testo unico-art. 53
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 54.
+
+Testo unico-art. 54
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 55.
+
+Testo unico-art. 55
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 56.
+
+Testo unico-art. 56
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 57.
+
+Testo unico-art. 57
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 58.
+
+Testo unico-art. 58
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 59.
+
+Testo unico-art. 59
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 60.
+
+Testo unico-art. 60
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 61.
+
+Testo unico-art. 61
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 62.
+
+Testo unico-art. 62
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 63.
+
+Testo unico-art. 63
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 64.
+
+Testo unico-art. 64
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 65.
+
+Testo unico-art. 65
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 66.
+
+Testo unico-art. 66
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 67.
+
+Testo unico-art. 67
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 68.
+
+Testo unico-art. 68
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 69.
+
+Testo unico-art. 69
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 70.
+
+Testo unico-art. 70
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 71.
+
+Testo unico-art. 71
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 72.
+
+Testo unico-art. 72
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 73.
+
+Testo unico-art. 73
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 74.
+
+Testo unico-art. 74
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 75.
+
+Testo unico-art. 75
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 76.
+
+Testo unico-art. 76
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 77.
+
+Testo unico-art. 77
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 78.
+
+Testo unico-art. 78
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 79.
+
+Testo unico-art. 79
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 80.
+
+Testo unico-art. 80
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 81.
+
+Testo unico-art. 81
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 82.
+
+Testo unico-art. 82
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 83.
+
+Testo unico-art. 83
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 84.
+
+Testo unico-art. 84
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 85.
+
+Testo unico-art. 85
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 86.
+
+Testo unico-art. 86
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 87.
+
+Testo unico-art. 87
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 88.
+
+Testo unico-art. 88
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 89.
+
+Testo unico-art. 89
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 90.
+
+Testo unico-art. 90
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 91.
+
+Testo unico-art. 91
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 92.
+
+Testo unico-art. 92
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 93.
+
+Testo unico-art. 93
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 94.
+
+Testo unico-art. 94
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 95.
+
+Testo unico-art. 95
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 96.
+
+Testo unico-art. 96
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 97.
+
+Testo unico-art. 97
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 98.
+
+Testo unico-art. 98
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 99.
+
+Testo unico-art. 99
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 100.
+
+Testo unico-art. 100
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 101.
+
+Testo unico-art. 101
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 102.
+
+Testo unico-art. 102
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 103.
+
+Testo unico-art. 103
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 104.
+
+Testo unico-art. 104
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 105.
+
+Testo unico-art. 105
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 106.
+
+Testo unico-art. 106
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 107.
+
+Testo unico-art. 107
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 108.
+
+Testo unico-art. 108
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 109.
+
+Testo unico-art. 109
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 110.
+
+Testo unico-art. 110
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 111.
+
+Testo unico-art. 111
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 112.
+
+Testo unico-art. 112
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 113.
+
+Testo unico-art. 113
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 114.
+
+Testo unico-art. 114
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 115.
+
+Testo unico-art. 115
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 116.
+
+Testo unico-art. 116
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 117.
+
+Testo unico-art. 117
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 118.
+
+Testo unico-art. 118
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 119.
+
+Testo unico-art. 119
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 120.
+
+Testo unico-art. 120
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 121.
+
+Testo unico-art. 121
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 122.
+
+Testo unico-art. 122
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 123.
+
+Testo unico-art. 123
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 124.
+
+Testo unico-art. 124
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 125.
+
+Testo unico-art. 125
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 126.
+
+Testo unico-art. 126
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 127.
+
+Testo unico-art. 127
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 128.
+
+Testo unico-art. 128
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 129.
+
+Testo unico-art. 129
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 130.
+
+Testo unico-art. 130
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 131.
+
+Testo unico-art. 131
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 132.
+
+Testo unico-art. 132
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 133.
+
+Testo unico-art. 133
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 134.
+
+Testo unico-art. 134
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 135.
+
+Testo unico-art. 135
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 136.
+
+Testo unico-art. 136
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 137.
+
+Testo unico-art. 137
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 138.
+
+Testo unico-art. 138
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 139.
+
+Testo unico-art. 139
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 140.
+
+Testo unico-art. 140
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 141.
+
+Testo unico-art. 141
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 142.
+
+Testo unico-art. 142
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 143.
+
+Testo unico-art. 143
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 144.
+
+Testo unico-art. 144
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 145.
+
+Testo unico-art. 145
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 146.
+
+Testo unico-art. 146
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 147.
+
+Testo unico-art. 147
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 148.
+
+Testo unico-art. 148
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 149.
+
+Testo unico-art. 149
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 150.
+
+Testo unico-art. 150
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 151.
+
+Testo unico-art. 151
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 152.
+
+Testo unico-art. 152
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 153.
+
+Testo unico-art. 153
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 154.
+
+Testo unico-art. 154
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 155.
+
+Testo unico-art. 155
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 156.
+
+Testo unico-art. 156
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 157.
+
+Testo unico-art. 157
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 158.
+
+Testo unico-art. 158
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 159.
+
+Testo unico-art. 159
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 160.
+
+Testo unico-art. 160
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 161.
+
+Testo unico-art. 161
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 162.
+
+Testo unico-art. 162
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 163.
+
+Testo unico-art. 163
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 164.
+
+Testo unico-art. 164
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 165.
+
+Testo unico-art. 165
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 166.
+
+Testo unico-art. 166
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 167.
+
+Testo unico-art. 167
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 168.
+
+Testo unico-art. 168
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 169.
+
+Testo unico-art. 169
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 170.
+
+Testo unico-art. 170
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 171.
+
+Testo unico-art. 171
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 172.
+
+Testo unico-art. 172
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 173.
+
+Testo unico-art. 173
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 174.
+
+Testo unico-art. 174
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 175.
+
+Testo unico-art. 175
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 176.
+
+Testo unico-art. 176
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 177.
+
+Testo unico-art. 177
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 178.
+
+Testo unico-art. 178
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 179.
+
+Testo unico-art. 179
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 180.
+
+Testo unico-art. 180
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 181.
+
+Testo unico-art. 181
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 182.
+
+Testo unico-art. 182
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 183.
+
+Testo unico-art. 183
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 184.
+
+Testo unico-art. 184
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 185.
+
+Testo unico-art. 185
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 186.
+
+Testo unico-art. 186
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 187.
+
+Testo unico-art. 187
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 188.
+
+Testo unico-art. 188
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 189.
+
+Testo unico-art. 189
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 190.
+
+Testo unico-art. 190
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 191.
+
+Testo unico-art. 191
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 192.
+
+Testo unico-art. 192
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 193.
+
+Testo unico-art. 193
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 194.
+
+Testo unico-art. 194
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 195.
+
+Testo unico-art. 195
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 196.
+
+Testo unico-art. 196
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 197.
+
+Testo unico-art. 197
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 198.
+
+Testo unico-art. 198
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 199.
+
+Testo unico-art. 199
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 200.
+
+Testo unico-art. 200
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 201.
+
+Testo unico-art. 201
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 202.
+
+Testo unico-art. 202
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 203.
+
+Testo unico-art. 203
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 204.
+
+Testo unico-art. 204
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 205.
+
+Testo unico-art. 205
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 206.
+
+Testo unico-art. 206
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 207.
+
+Testo unico-art. 207
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 208.
+
+Testo unico-art. 208
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 209.
+
+Testo unico-art. 209
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 210.
+
+Testo unico-art. 210
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 211.
+
+Testo unico-art. 211
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 212.
+
+Testo unico-art. 212
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 213.
+
+Testo unico-art. 213
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 214.
+
+Testo unico-art. 214
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 215.
+
+Testo unico-art. 215
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 216.
+
+Testo unico-art. 216
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 217.
+
+Testo unico-art. 217
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 218.
+
+Testo unico-art. 218
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 219.
+
+Testo unico-art. 219
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 220.
+
+Testo unico-art. 220
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 221.
+
+Testo unico-art. 221
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 222.
+
+Testo unico-art. 222
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 223.
+
+Testo unico-art. 223
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 224.
+
+Testo unico-art. 224
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 225.
+
+Testo unico-art. 225
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 226.
+
+Testo unico-art. 226
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 227.
+
+Testo unico-art. 227
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 228.
+
+Testo unico-art. 228
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 229.
+
+Testo unico-art. 229
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 230.
+
+Testo unico-art. 230
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 231.
+
+Testo unico-art. 231
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 232.
+
+Testo unico-art. 232
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 233.
+
+Testo unico-art. 233
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 234.
+
+Testo unico-art. 234
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 235.
+
+Testo unico-art. 235
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 236.
+
+Testo unico-art. 236
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 237.
+
+Testo unico-art. 237
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 238.
+
+Testo unico-art. 238
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 239.
+
+Testo unico-art. 239
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 240.
+
+Testo unico-art. 240
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 241.
+
+Testo unico-art. 241
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 242.
+
+Testo unico-art. 242
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 243.
+
+Testo unico-art. 243
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 244.
+
+Testo unico-art. 244
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 245.
+
+Testo unico-art. 245
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 246.
+
+Testo unico-art. 246
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 247.
+
+Testo unico-art. 247
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 248.
+
+Testo unico-art. 248
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 249.
+
+Testo unico-art. 249
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 250.
+
+Testo unico-art. 250
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 251.
+
+Testo unico-art. 251
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 252.
+
+Testo unico-art. 252
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 253.
+
+Testo unico-art. 253
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 254.
+
+Testo unico-art. 254
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 255.
+
+Testo unico-art. 255
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 256.
+
+Testo unico-art. 256
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 257.
+
+Testo unico-art. 257
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 258.
+
+Testo unico-art. 258
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 259.
+
+Testo unico-art. 259
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 260.
+
+Testo unico-art. 260
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 261.
+
+Testo unico-art. 261
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 262.
+
+Testo unico-art. 262
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 263.
+
+Testo unico-art. 263
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 264.
+
+Testo unico-art. 264
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 265.
+
+Testo unico-art. 265
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 266.
+
+Testo unico-art. 266
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 267.
+
+Testo unico-art. 267
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 268.
+
+Testo unico-art. 268
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 269.
+
+Testo unico-art. 269
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 270.
+
+Testo unico-art. 270
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 271.
+
+Testo unico-art. 271
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 272.
+
+Testo unico-art. 272
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 273.
+
+Testo unico-art. 273
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 274.
+
+Testo unico-art. 274
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 275.
+
+Testo unico-art. 275
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 276.
+
+Testo unico-art. 276
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 277.
+
+Testo unico-art. 277
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 278.
+
+Testo unico-art. 278
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 279.
+
+Testo unico-art. 279
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 280.
+
+Testo unico-art. 280
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 281.
+
+Testo unico-art. 281
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 282.
+
+Testo unico-art. 282
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 283.
+
+Testo unico-art. 283
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 284.
+
+Testo unico-art. 284
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 285.
+
+Testo unico-art. 285
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 286.
+
+Testo unico-art. 286
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 287.
+
+Testo unico-art. 287
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 288.
+
+Testo unico-art. 288
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 289.
+
+Testo unico-art. 289
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 290.
+
+Testo unico-art. 290
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 291.
+
+Testo unico-art. 291
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 292.
+
+Testo unico-art. 292
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 293.
+
+Testo unico-art. 293
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 294.
+
+Testo unico-art. 294
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 295.
+
+Testo unico-art. 295
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 296.
+
+Testo unico-art. 296
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 297.
+
+Testo unico-art. 297
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 298.
+
+Testo unico-art. 298
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 299.
+
+Testo unico-art. 299
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 300.
+
+Testo unico-art. 300
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 301.
+
+Testo unico-art. 301
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 302.
+
+Testo unico-art. 302
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 303.
+
+Testo unico-art. 303
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 304.
+
+Testo unico-art. 304
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 305.
+
+Testo unico-art. 305
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 306.
+
+Testo unico-art. 306
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 307.
+
+Testo unico-art. 307
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 308.
+
+Testo unico-art. 308
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 309.
+
+Testo unico-art. 309
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 310.
+
+Testo unico-art. 310
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 311.
+
+Testo unico-art. 311
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 312.
+
+Testo unico-art. 312
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 313.
+
+Testo unico-art. 313
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 314.
+
+Testo unico-art. 314
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 315.
+
+Testo unico-art. 315
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 316.
+
+Testo unico-art. 316
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 317.
+
+Testo unico-art. 317
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 318.
+
+Testo unico-art. 318
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 319.
+
+Testo unico-art. 319
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 320.
+
+Testo unico-art. 320
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 321.
+
+Testo unico-art. 321
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 322.
+
+Testo unico-art. 322
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 323.
+
+Testo unico-art. 323
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 324.
+
+Testo unico-art. 324
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 325.
+
+Testo unico-art. 325
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 326.
+
+Testo unico-art. 326
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 327.
+
+Testo unico-art. 327
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 328.
+
+Testo unico-art. 328
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 329.
+
+Testo unico-art. 329
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 330.
+
+Testo unico-art. 330
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 331.
+
+Testo unico-art. 331
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 332.
+
+Testo unico-art. 332
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 333.
+
+Testo unico-art. 333
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 334.
+
+Testo unico-art. 334
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 335.
+
+Testo unico-art. 335
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 336.
+
+Testo unico-art. 336
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 337.
+
+Testo unico-art. 337
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 338.
+
+Testo unico-art. 338
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 339.
+
+Testo unico-art. 339
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 340.
+
+Testo unico-art. 340
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 341.
+
+Testo unico-art. 341
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 342.
+
+Testo unico-art. 342
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 343.
+
+Testo unico-art. 343
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 344.
+
+Testo unico-art. 344
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 345.
+
+Testo unico-art. 345
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+

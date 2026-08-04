@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1105
+data: 1972-10-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-24;1105
+codice_redazionale: 072U1105
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 ottobre 1972
+                1105
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Croce, nel comune di Longiano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 ottobre 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Cesena in data 23 marzo 1969, integrato con due dichiarazioni una in pari data e l'altra del 14 novembre 1970, relativo alla erezione della parrocchia di Santa Croce, in frazione Crocetta del comune di Longiano (Forli'). 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 15 marzo 1973 
+ Atti di Governo, registro n. 256, foglio n. 94. - VALENTINI
+

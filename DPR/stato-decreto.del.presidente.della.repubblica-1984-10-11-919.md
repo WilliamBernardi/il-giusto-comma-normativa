@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 919
+data: 1984-10-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-10-11;919
+codice_redazionale: 084U0919
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:06Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 ottobre 1984
+                919
+                Riconoscimento della personalita' giuridica della chiesa parrocchiale di "S. Giuseppe", in Mascali, e autorizzazione alla stessa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "S.
+ Giuseppe", in frazione Carrabba del comune di Mascali (Catania). La chiesa stessa viene, altresi', autorizzata ad accettare la donazione disposta dal sac. Vincenzo Tirendi con atto pubblico 9 novembre 1982, n. 3521 di repertorio, a rogito dott. Giovanni De Rubertis, notaio in Acireale, consistente nella quota parte indivisa di un terzo di un terreno di mq 2400 sito nella contrada Margi del comune di Maletto (Catania), descritto nella perizia giurata 4 dicembre 1982 del geom. Filippo Soresi, valutato, per l'intero, in L. 12.000.000 dall'ufficio tecnico erariale di Catania. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 30 dicembre 1984 
+ Registro n. 42 Interno, foglio n. 174
+

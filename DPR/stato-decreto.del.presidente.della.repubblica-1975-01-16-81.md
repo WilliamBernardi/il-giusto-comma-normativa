@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 81
+data: 1975-01-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-01-16;81
+codice_redazionale: 075U0081
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 gennaio 1975
+                81
+                Autorizzazione all'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 gennaio 1975, col quale, sulla proposta del Ministro per la difesa, l'Opera nazionale di assistenza per gli orfani dei militari dell'Arma dei carabinieri, in Roma, viene autorizzata ad accettare, con beneficio d'inventario e rispettandone le condizioni, l'eredita' disposta dal sig. Aldo Ramella con testamento olografo pubblicato per atto 22 maggio 1973, n. 70461 di repertorio, a rogito dott. Cesare Belmondo, notaio in Diano Marina.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 marzo 1975
+ Atti di Governo, registro n. 9, foglio n. 3
+

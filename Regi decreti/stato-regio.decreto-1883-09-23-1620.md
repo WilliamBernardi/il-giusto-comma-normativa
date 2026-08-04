@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1620
+data: 1883-09-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-09-23;1620
+codice_redazionale: 083U1620
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:36Z
+---
+
+REGIO DECRETO
+                23 settembre 1883
+                1620
+                Che dal fondo per le spese impreviste pel 1883, autorizza una 22ª prelevazione di lire 30,000 a favore del ministero della marina. (083U1620)
+
+Entrata in vigore del provvedimento: 26/10/1883
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

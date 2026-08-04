@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1412
+data: 1957-12-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-12-19;1412
+codice_redazionale: 057U1412
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 dicembre 1957
+                1412
+                Autorizzazione a accettare, con beneficio d'inventario, l'eredita' di Cinque Giuseppe, a favore dello Stato.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 87 della Costituzione;
+ Vista la legge 5 giugno 1850, n. 1037;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro Segretario di Stato per le finanze;
+
+ Decreta:
+
+ Il Ministro proponente e' autorizzato ad accettare, con beneficio d'inventario, l'eredita' di Cinque Giuseppe, disposta a favore dello Stato con testamento olografo in data 9 marzo 1942 e postilla del 26 giugno stesso anno, pubblicati con verbale 26 dicembre 1944, n. 3907, di repertorio del notaio Antonio Brancaccio di Napoli.
+ Il compendio ereditario e' costituito: da un fabbricato situato in Napoli, terza traversa Garibaldi n. 5, del valore di lire tremilioni; da oggetti preziosi stimati in lire novemilatrecentocinquanta e dalla somma di lire quindicimilasettecentotredici, oltre gli interessi, con un passivo di lire seimilatrecentoquindici, pure oltre gli interessi.
+

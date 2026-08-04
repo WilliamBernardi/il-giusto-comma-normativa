@@ -1,0 +1,48 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1121
+data: 1956-09-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-03;1121
+codice_redazionale: 056U1121
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 settembre 1956
+                1121
+                Autorizzazione alla Camera di commercio, industria e agricoltura di Grosseto ad acquistare appezzamento di terreno.
+
+IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                
+                    Visto il regio decreto 20 settembre 1934, n. 2011, che approva il testo unico delle leggi sui Consigli e sugli Uffici provinciali dell'economia, modificato con il regio decreto-legge 3 settembre 1936, n. 1900, convertito nella legge 3 giugno 1937, n. 1000, e con regio decreto-legge 28 aprile 1937, n. 524, convertito nella, legge 7 giugno 1937, n. 1.387;
+                
+            
+            
+                
+                    Visto il decreto legislativo luogotenenziale 21 settembre 1944, n. 315, sulla soppressione dei Consigli e degli Uffici provinciali dell'economia e la ricostituzione delle Camere di commercio, industria e agricoltura, nonche' degli Uffici provinciali del commercio e dell'industria;
+                
+            
+            
+                
+                    Vista la legge 5 giugno 1850, n. 1037, ed il regio decreto 26 giugno 1864, n. 1817;
+                
+            
+            
+                
+                    Vista la deliberazione n. 479/338 in data 28 marzo 1956, con la quale la Camera di commercio, industria e agricoltura di Grosseto, ha stabilito di acquistare un appezzamento di terreno da destinare a Campo fieristico zootecnico, alla Sezione diagnostica zooprofilattica, ed eventualmente, al nuovo Mercato all'ingrosso dei prodotti ortofrutticoli;
+                
+            
+            
+                Udito il parere del Consiglio di Stato; Sulla proposta del Ministro per l'industria e per il commercio;
+
+## Art. 1.
+
+La Camera di commercio, industria, e agricoltura di Grosseto e' autorizzata ad acquistare dalla signora Gorreri Anna in Amadori, alle condizioni specificate nella deliberazione n. 479/338, del 28 marzo 1956, un appezzamento di terreno, costituito da due lotti contigui della superficie complessiva di mq. 53.600, sito nelle vicinanze del mattatoio comunale di Grosseto, per destinarlo al Campo fieristico zootecnico; alla Sezione diagnostica zooprofilattica ed eventualmente al nuovo Mercato all'ingrosso dei prodotti ortofrutticoli.
+

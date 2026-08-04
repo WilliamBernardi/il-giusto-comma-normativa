@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2441
+data: 1935-11-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-11-21;2441
+codice_redazionale: 035U2441
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:49Z
+---
+
+REGIO DECRETO
+                21 novembre 1935
+                2441
+                Inclusione dell'abitato di Petrella Liri, trazione del comune di Cappadocia (Aquila), tra quelli da consolidare a cura e spese dello Stato. (035U2441)
+
+Entrata in vigore del provvedimento: 18/02/1936
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

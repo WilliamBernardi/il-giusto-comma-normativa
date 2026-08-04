@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 574
+data: 1961-06-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-07;574
+codice_redazionale: 061U0574
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 giugno 1961
+                574
+                Soppressione della Fabbriceria della Chiesa arcipretale del SS.
+Nazzaro e Celso in Sesto ed Uniti (Cremona).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene soppressa la Fabbriceria della Chiesa arcipretale del SS. Nazzaro e Celso, in Sesto ed Uniti (Cremona).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 6 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 84. - VILLA
+

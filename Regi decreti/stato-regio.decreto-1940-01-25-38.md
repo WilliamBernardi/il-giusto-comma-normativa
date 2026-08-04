@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 38
+data: 1940-01-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-01-25;38
+codice_redazionale: 040U0038
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:58Z
+---
+
+REGIO DECRETO
+                25 gennaio 1940
+                38
+                l2ª Prelevazione dal fondo di riserva per le spese impreviste
+dell'esercizio finanziario 1939-40. (040U0038)
+
+Entrata in vigore del provvedimento: 05/03/1940
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,34 @@
+---
+tipo: REGIO DECRETO
+numero: 1027
+data: 1926-05-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1926-05-16;1027
+codice_redazionale: 026U1027
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:15Z
+---
+
+REGIO DECRETO
+                16 maggio 1926
+                1027
+                Sovrastampa dei francobolli espressi della Libia e della Eritrea. (026U1027)
+
+Entrata in vigore del provvedimento: 09/07/1926
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

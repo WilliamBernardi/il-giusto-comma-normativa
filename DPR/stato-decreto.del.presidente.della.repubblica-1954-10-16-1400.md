@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1400
+data: 1954-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1400
+codice_redazionale: 054U1400
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1954
+                1400
+                Riconoscimento, agli effetti civili, dell'erezione in parrocchia della Curazia di San Biagio V. M., in frazione Vigo del comune di Cavedine (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 6 settembre 1919, integrato con postilla e dichiarazione rispettivamente in data 24 maggio e 25 maggio 1954, relativo alla erezione in parrocchia della Curazia di San Biagio V. M., in frazione Vigo del comune di Cavedine (Trento).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte del conti, addi' 21 febbraio 1955
+ Atti del Governo, registro n. 88, foglio n. 170. - CARLOMAGNO
+

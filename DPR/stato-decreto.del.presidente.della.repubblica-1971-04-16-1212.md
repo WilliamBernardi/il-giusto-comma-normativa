@@ -1,0 +1,69 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1212
+data: 1971-04-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-04-16;1212
+codice_redazionale: 071U1212
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 aprile 1971
+                1212
+                Istituzione di istituti tecnici industriali dal 1 ottobre 1968.
+
+Veduta la legge 15 giugno 1931, n. 889, sul riordinamento dell'istruzione media tecnica;
+
+Veduto il regio decreto 3 marzo 1934, n. 383, che approva il testo unico della legge comunale e provinciale;
+
+Veduto il regio decreto-legge 21 settembre 1938, numero 2038, convertito nella legge 2 giugno 1939, n. 739, contenente, tra l'altro, norme sull'ordinamento degli istituti di istruzione tecnica;
+
+Veduto il decreto del Presidente della Repubblica 30 settembre 1961, n. 1222, relativo agli orari e ai programmi di insegnamento negli istituti tecnici;
+
+Veduta la legge 22 novembre 1961, n. 1282, sul riordinamento dei servizi di vigilanza contabile e delle carriere del personale non insegnante delle scuole e degli istituti di istruzione tecnica e professionale e dei convitti annessi;
+
+Veduto il decreto del Presidente della Repubblica 3 maggio 1964, n. 506, relativo all'approvazione delle materie e dei gruppi di materie per gli istituti tecnici industriali;
+
+Veduta la legge 3 novembre 1964, n. 1122, contenente, tra l'altro, nuove norme sull'orario degli insegnanti tecnico-pratici con effetto 1 ottobre 1964;
+
+Ritenuta la necessita' di regolarizzare tale situazione di fatto;
+
+## Art. 1.
+
+A decorrere dal 1 ottobre 1968 sono istituiti i seguenti istituti tecnici industriali:
+ 1) Avellino per la meccanica;
+ 2) Cagliari II istituto per la chimica industriale;
+ 3) Casalpusterlengo (Milano) per la chimica industriale;
+ 4) Castellana Grotte (Bari) per la chimica industriale;
+ 5) Chioggia (Venezia) per le telecomunicazioni;
+ 6) Este (Padova) per le industrie metalmeccaniche e l'elettrotecnica;
+ 7) Faenza (Ravenna) per la meccanica;
+ 8) Foggia II istituto per l'elettronica industriale;
+ 9) Fossano (Cuneo) per la meccanica;
+ 10) Lanciano (Chieti) per la meccanica e l'elettro tecnica;
+ 11) Lovere (Bergamo) per la meccanica;
+ 12) Milano VIII istituto per la meccanica e l'elettrotecnica;
+ 13) Mondovi' (Cuneo) per la meccanica;
+ 14) Piedimonte d'Alife (Caserta) per la meccanica;
+ 15) Sesto San Giovanni (Milano) per la meccanica.
+ Gli istituti predetti, ai sensi dell'art. 3 della legge 15 giugno 1931, n. 889, sono riconosciuti come enti dotati di personalita' giuridica e di autonomia nel loro funzionamento e sono sottoposti alla vigilanza del Ministero della pubblica istruzione.
+
+## Art. 2.
+
+I posti di ruolo e quelli da conferire per incarico sono indicati, per ciascuno degli istituti di cui all'art. 1, nella rispettiva tabella organica annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+
+## Art. 3.
+
+Con la stessa decorrenza di cui all'art. 1 presso l'istituto tecnico industriale "D. Scano" di Cagliari e' soppressa la specializzazione per la chimica industriale. Di conseguenza l'istituto stesso e' riordinato secondo quanto indicato nella tabella organica annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+
+## Art. 4.
+
+I contributi annui a carico dello Stato per il mantenimento degli istituti di cui agli articoli 1 e 3 sono stabiliti nella misura di cui alla tabella A annessa al presente decreto, firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro. 
+ La spesa derivante dall'applicazione del presente decreto gravera' sugli appositi capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione. 
+ Ai sensi dell'art. 144, lettera E, n. 3 regio decreto 3 marzo 1934, n. 383, la somministrazione, la manutenzione, il riscaldamento, l'illuminazione e la provvista di acqua dei locali occorrenti agli istituti di cui all'art. 1 sono a carico delle amministrazioni provinciali competenti. Qualora altri enti assumano volontariamente gli oneri di cui al presente comma, le amministrazioni provinciali sono tenute a garantire con apposita delibera l'adempimento da parte di tali enti.
+

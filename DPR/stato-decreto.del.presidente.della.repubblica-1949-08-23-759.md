@@ -1,0 +1,27 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 759
+data: 1949-08-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-08-23;759
+codice_redazionale: 049U0759
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 agosto 1949
+                759
+                Costituzione del Consorzio napoletano cooperative lavoro con sede in Napoli, ed approvazione del relativo statuto.
+
+del Consorzio stesso e l'approvazione del suo statuto organico;
+
+Udito il parere della Commissione centrale per le cooperative, espresso in data 14 luglio 1949, ai sensi dell'art. 20 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577;
+
+## Art. 1.
+
+E' costituito il Consorzio napoletano cooperative lavoro, con sede in Napoli, ed e' approvato il relativo statuto, costituito di n. 36 articoli, che, firmato dal Ministro proponente, viene allegato al presente decreto.
+

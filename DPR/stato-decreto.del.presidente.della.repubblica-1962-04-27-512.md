@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 512
+data: 1962-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-27;512
+codice_redazionale: 062U0512
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1962
+                512
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe Artigiano, in rione Straccis del comune di Gorizia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Gorizia, in data 15 gennaio 1961, integrato con due dichiarazioni del 27 ottobre 1961, relativo alla erezione della parrocchia di San Giuseppe Artigiano, in rione Straccis del comune di Gorizia.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 6 giugno 1962
+ Atti del Governo, registro n. 148, foglio n. 127. - VILLA
+

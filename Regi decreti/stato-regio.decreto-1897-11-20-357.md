@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1897-11-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-11-20;357
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:15Z
+---
+
+REGIO DECRETO
+                20 novembre 1897
+                CCCLVII
+                Che aumenta il canone daziario di consumo del comune di Palermo. (9700357R)
+
+Entrata in vigore del provvedimento: 26/12/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

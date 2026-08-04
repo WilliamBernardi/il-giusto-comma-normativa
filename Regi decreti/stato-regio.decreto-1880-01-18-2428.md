@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+data: 1880-01-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-01-18;2428
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:10Z
+---
+
+REGIO DECRETO
+                18 gennaio 1880
+                MMCCCCXXVIII
+                Che erige in corpo morale l'opera pia Dellara del comune di Roppolo (Novara) e ne approva lo statuto. (8002428R)
+
+Entrata in vigore del provvedimento: 17/03/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

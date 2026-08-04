@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 251
+data: 1968-02-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-21;251
+codice_redazionale: 068U0251
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 febbraio 1968
+                251
+                Modifica allo statuto del Consorzio per il nucleo di industrializzazione di Caltagirone.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il proprio decreto del 10 novembre 1964, n. 1480, con il quale e' stato approvato lo statuto del Consorzio per il nucleo di industrializzazione di Caltagirone;
+ Vista la deliberazione n. 3 del 23 dicembre 1966 del consiglio generale del Consorzio per il nucleo di industrializzazione di Caltagirone;
+ Vista la nota del Ministero dell'industria, del commercio e dell'artigianato, n. 90057 del 1 marzo 1967, concernente l'approvazione della suindicata deliberazione da parte della commissione per la vigilanza e la tutela dei consorzi di sviluppo industriale;
+ Vista la legge 29 luglio 1957, n. 634, modificata ed integrata dalla legge 18 luglio 1959, n. 555;
+ Vista la deliberazione del 27 luglio 1967 del comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvata la modifica apportata all'art. 3 dello statuto del Consorzio per il nucleo di industrializzazione di Caltagirone nei termini indicati dalla deliberazione n. 3 del 23 dicembre 1966 del consiglio generale del consorzio stesso.
+

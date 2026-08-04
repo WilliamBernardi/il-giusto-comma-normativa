@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1895
+data: 1925-10-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1925-10-08;1895
+codice_redazionale: 025U1895
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:27Z
+---
+
+REGIO DECRETO
+                08 ottobre 1925
+                1895
+                Approvazione dello statuto della Cassa di soccorso per il personale delle Tramvie di Mestre. (025U1895)
+
+Entrata in vigore del provvedimento: 02/12/1925
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1887-06-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-06-23;2595
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:09Z
+---
+
+REGIO DECRETO
+                23 giugno 1887
+                MMDXCV
+                Regio Decreto che erige in corpo morale l'opera pia Maria Battistelli, vedova Daneluzzo in Concordia Sagittaria (Venezia), l'autorizza ad accettare il lascito della pia testatrice e ne approva lo statuto. (8702595R)
+
+Entrata in vigore del provvedimento: 26/07/1887
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

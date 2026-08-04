@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 534
+data: 1953-05-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-05-30;534
+codice_redazionale: 053U0534
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 maggio 1953
+                534
+                Riconoscimento della personalita' giuridica della chiesa denominata Santuario della Beata Vergine di Sulo, in Villa Filetto di Russi (Ravenna).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 maggio 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa denominata Santuario della Beata Vergine di Sulo, in Villa Filetto di Russi (Ravenna).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 20 luglio 1953
+ Atti del Governo, registro n. 78, foglio n. 46. - PALLA
+

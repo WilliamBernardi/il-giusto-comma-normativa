@@ -1,0 +1,26 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 842
+data: 1962-01-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;842
+codice_redazionale: 062U0842
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 gennaio 1962
+                842
+                Norme sul trattamento di mensa dei dipendenti dalle imprese esercenti la lavorazione degli specchi e dei cristalli della provincia di Torino.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per le attivita' per le quali e' stato stipulato l'accordo collettivo 30 giugno 1950, relativo alla indennita' sostitutiva di mensa per i dipendenti dalle aziende degli specchi e cristalli della provincia di Torino, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesse al presente decreto, purche' compatibili con quelle concernenti la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i dipendenti dalle imprese esercenti la lavorazione degli specchi e dei cristalli della provincia di Torino.
+

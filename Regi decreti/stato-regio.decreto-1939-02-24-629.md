@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 629
+data: 1939-02-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-02-24;629
+codice_redazionale: 039U0629
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:28Z
+---
+
+REGIO DECRETO
+                24 febbraio 1939
+                629
+                Erezione in ente morale dell'Asilo infantile «Principessa Maria Pia di Savoia», in Cascinone frazione del comune di Seriate (Bergamo).
+(039U0629)
+
+Entrata in vigore del provvedimento: 16/05/1939
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

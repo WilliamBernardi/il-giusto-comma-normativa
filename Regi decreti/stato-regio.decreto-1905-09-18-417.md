@@ -1,0 +1,65 @@
+---
+tipo: REGIO DECRETO
+data: 1905-09-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1905-09-18;417
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:18Z
+---
+
+REGIO DECRETO
+                18 settembre 1905
+                CCCCXVII
+                Che istituisce in Caltanissetta un istituto tecnico. (0500417R)
+
+Entrata in vigore del provvedimento: 02/02/1906
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la legge 31 maggio 1868, n. 4415, con cui furono estese alla Sicilia le disposizioni del titolo IV della legge 13 novembre 1859, n. 3725;
+
+Veduta la deliberazione del Consiglio provinciale di Caltanissetta in data 7 maggio 1905, con cui delibero' di concorrere, con annue L. 20,062.50 nella spesa per il mantenimento di un Istituto tecnico completo da fondarsi nel capoluogo della Provincia;
+
+Veduta la deliberazione del Consiglio comunale di Caltanissetta in data 15 marzo 1905, con cui furono allo stesso fine assunti gli obblighi incombenti per legge a quel Comune;
+
+Veduti i fondi stanziati nello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio 1905-906, ai capitoli 148 e 223;
+
+Sentito il Consiglio dei ministri;
+
+## Art. 1.
+
+E' istituito in Caltanissetta, dal 1° ottobre 1905, un Istituto tecnico composto delle sezioni di commercio e ragioneria, agrimensura, agronomia e fisico-matematica.
+
+## Art. 2.
+
+Alla tabella A, per il personale dirigente e insegnate dei RR. istituti tecnici e nautici, approvata con la legge 12 luglio 1900, n. 259, saranno aggiunti i posti seguenti: 
+ 
+
+ 1 incaricato della presidenza . . . . . . . . . . . L. 1,500
+ 1 professore titolare di 2ª classe . . . . . . . . » 2,700
+ 4 professori titolari di 3ª classe a L. 2400 . . . » 9,600
+ 10 professori reggenti a L. 2200 . . . . . . . . . . » 22,000
+ ---------
+ L. 35,800
+ ---------
+
+## Art. 3.
+
+Al ruolo del personale degli insegnanti di ginnastica, approvato con il R. decreto 22 gennaio 1905, n. 38, e' aggiunto un posto di maestro a L.
+
+Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 18 settembre 1905. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ A. FORTIS. 
+ L. BIANCHI. 
+ 
+ Visto, Il guardasigilli: C. FINOCCHIARO-APRILE.
+

@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 1857
+data: 1942-06-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-06-08;1857
+codice_redazionale: 042U1857
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:33Z
+---
+
+REGIO DECRETO
+                08 giugno 1942
+                1857
+                Erezione in ente morale dell'Asilo infantile «Margherita Darra
+Cantu'», con sede in Monzambano (Mantova). (042U1857)
+
+Entrata in vigore del provvedimento: 15/04/1943
+
+## Art. 1.
+
+N.
+
+R. decreto 8 giugno 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Asilo infantile « Margherita Darra Cantu' », con sede in Monzambano (Mantova), viene eretto in ente morale sotto amministrazione autonoma e ne viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 26 marzo 1943-XXI
+

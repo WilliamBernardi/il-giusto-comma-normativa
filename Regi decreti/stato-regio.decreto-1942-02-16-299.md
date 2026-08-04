@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 299
+data: 1942-02-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-02-16;299
+codice_redazionale: 042U0299
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:49Z
+---
+
+REGIO DECRETO
+                16 febbraio 1942
+                299
+                Autorizzazione al Ministro per le finanze ad accettare una donazione
+fatta allo Stato da parte del comune di Rieti. (042U0299)
+
+Entrata in vigore del provvedimento: 28/04/1942
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

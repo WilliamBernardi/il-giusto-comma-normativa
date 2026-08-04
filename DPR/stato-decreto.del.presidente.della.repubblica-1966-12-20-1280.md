@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1280
+data: 1966-12-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-20;1280
+codice_redazionale: 066U1280
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 dicembre 1966
+                1280
+                Riconoscimento, agli effetti civili, della erezione del canonicato semplice, sotto il titolo S. Gerolamo Confessore e Dottore della Chiesa, nel Capitolo Metropolitano di Gorizia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 dicembre 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Gorizia in data 21 gennaio 1943, integrato con altro decreto del 29 aprile 1966, relativo all'erezione del canonicato semplice, sotto il titolo S. Gerolamo Confessore e Dottore della Chiesa, nel Capitolo Metropolitano di Gorizia.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 28 gennaio 1967
+ Atti del Governo, registro n. 208, foglio n. 146. - VILLA
+

@@ -1,0 +1,52 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 822
+data: 1978-12-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-12-05;822
+codice_redazionale: 078U0822
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 dicembre 1978
+                822
+                Attuazione della decisione del consiglio delle Comunita' europee relativa alla sostituzione dei contributi finanziari degli Stati membri con risorse proprie delle Comunita' e dei regolamenti comunitari relativi al finanziamento della politica agricola comune, in applicazione dell'art. 3 della legge 23 dicembre 1973, n. 1115. (Sesto provvedimento).
+
+Sentita la Commissione parlamentare di cui all'articolo 4 della legge 23 dicembre 1970, n. 1185;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Alle operazioni di spesa connesse con il versamento delle "risorse proprie" alle Comunita' europee, si applicano le procedure previste dall'art. 7 del decreto del Presidente della Repubblica 4 luglio 1973, n. 532. 
+ Le somme accertate nei mesi di novembre e dicembre di ciascun anno finanziario a titolo di "risorse proprie" dallo Comunita' europea si intendono riferite ai fini della correlativa spesa, alla competenza dell'anno finanziario successivo, salvo quanto previsto al successivo quarto comma. 
+ Qualora, in attuazione del precedente comma, una quota delle somme accertate nell'anno finanziario non sia stata versata alla Comunita' entro lo stesso anno, tale quota rimane acquistata al bilancio in cui e' stata accertata. Nel corso dell'anno finanziario successivo, a fronte di detto maggior accertamento di entrata, una corrispondente spesa puo' essere iscritta all'apposito capitolo di bilancio con decreto del Ministro del tesoro da sottoporre a registrazione della Corte dei Conti. 
+ Nel caso in cui, in attuazione del secondo paragrafo dell'art. 10 del regolamento (CEE, Euratom, CECA) n. 2891/77 del consiglio dal 19 dicembre 1977 venga richiesto dalla commissione delle Comunita' europee al versamento anticipato di un mese delle risorse proprie diverse dalle risorse IVA e lo stesso comporti il pagamento di una quota aggiuntiva nell'esercizio finanziario, la dotazione del competente capitolo di spesa del bilancio dell'esercizio medesimo e' integrata delle somme occorrenti, secondo la procedura prevista dall'art. 12, primo comma, della legge 5 agosto 1978, n. 468.
+
+## Art. 2.
+
+In relazione all'andamento dei proventi per "risorse proprie" il Ministro del tesoro, al fine di assicurare la necessaria tempestivita' di erogazione degli stessi proventi alla commissione delle Comunita' europee - secondo quanto previsto dal regolamento (CEE, Euratom, CECA) n. 2891/77 del consiglio del 19 dicembre 1977 e successive modificazioni - e' autorizzato ad adeguare, con propri decreti, la previsione dei capitoli di entrata riguardanti le "risorse proprie", ad eccezione di quelle provenienti dall'IVA, e dei correlativi capitoli istituiti nello stato di previsione della spesa del Ministero del tesoro, a quelle che potranno essere le risultanze di gestione.
+ Ai decreti di cui al precedente comma si applicano le disposizioni contenute nel terzo e nel quarto comma dell'art. 12 della legge 5 agosto 1978, n. 468.
+ L'art. 6 del decreto del Presidente della Repubblica 24 dicembre 1974, n. 727, e' soppresso.
+
+## Art. 3.
+
+Al versamento delle somme dovute alle Comunita' europee a titolo di "risorse proprie" provenienti dall'imposta sul valore aggiunto - a norma dell'art. 10 del regolamento (CEE, Euratom, CECA) n. 2891/77 del consiglio del 19 dicembre 1977, e successive modificazioni - si provvede a carico degli stanziamenti iscritti all'apposito capitolo dello stato di previsione del Ministero del tesoro.
+ In corrispondenza a detti versamenti, i titolari del servizio autonomo di cassa istituito presso gli uffici imposta sul valore aggiunto e i ricevitori principali delle dogane sono tenuti a versare - previa autorizzazione del Ministero delle finanze - parte delle somme riscosse a titolo di imposta, con imputazione ad apposito capitolo dello stato di previsione delle entrate statali, per il reintegro delle somme corrisposte alle Comunita' ai sensi del precedente comma.
+ Le modalita' di esecuzione delle disposizioni di cui al presente articolo saranno stabilite con decreto del Ministro delle finanze, di concerto con quello del tesoro.
+
+## Art. 4.
+
+Gli importi da versare a titolo di anticipazione alla commissione delle Comunita' europee per fronteggiare le eventuali esigenze di tesoreria previste dal paragrafo 2 dell'art. 12 del regolamento (CEE, Euratom, CECA) n. 2891/77 del consiglio, fanno carico ad apposito capitolo dello stato di previsione del Ministero del tesoro. Per l'iscrizione delle occorrenti somme si applicano le disposizioni dell'art. 12, primo comma, della legge 5 agosto 1978, n. 468.
+ Le somme stesse possono essere erogate alla commissione medesima attraverso operazioni di giro conto di tesoreria. A tal fine le predette somme sono versate al conto corrente infruttifero di tesoreria istituito a norma del citato art. 7 del decreto del Presidente della Repubblica 4 luglio 1973, n. 532.
+ Le somme rimborsate affluiscono ad apposito corrispondente capitolo dello stato di previsione dell'entrata del bilancio dello Stato.
+
+## Art. 5.
+
+Le norme del presente decreto si applicano a decorrere dal 1 gennaio 1979.
+

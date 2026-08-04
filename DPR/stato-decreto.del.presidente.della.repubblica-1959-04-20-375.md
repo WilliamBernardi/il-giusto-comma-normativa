@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 375
+data: 1959-04-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-04-20;375
+codice_redazionale: 059U0375
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 aprile 1959
+                375
+                Inclusione parziale dell'abitato della frazione Vignolo del comune di Nasino, in provincia di Savona, fra quelli da consolidare e trasferire a cura e spese dello Stato.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 9 luglio 1908, n. 445;
+ Visto il decreto-legge luogotenenziale 30 giugno 1918, n. 1019;
+ Visto il decreto-legge luogotenenziale 13 aprile 1919, n. 568;
+ Visto il parere del Consiglio superiore dei lavori pubblici n. 587, ex-nesso nell'adunanza del 18 marzo 1959;
+ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici;
+
+ Decreta:
+
+ A norma dell'art. 1, sub. 7, del decreto-legge luogotenenziale 30 giugno 1918, n. 1019, e' aggiunto, a tutti gli effetti della legge 9 luglio 1908, n. 445, titolo IV, agli abitati indicati nella tabella D, allegata alla legge stessa (consolidamento di frane minaccianti abitati) quello della frazione Vignolo del comune di Nasino, in provincia di Savona, limitatamente alla zona indicata in tinta rosa nell'annessa planimetria n. 12593, in data 25 febbraio 1959, vistata dal Ministro proponente.
+ A norma dell'art. 4, dei decreto-legge luogotenenziale 33 aprile 1919, n. 568, lo stesso abitato, limitatamente alla zona indicata nella sopracitata planimetria in tinta violacea con quadrettatura, e' aggiunto, a tutti gli effetti della legge 9 luglio 1908, n. 445, titolo IV, agli abitati indicati nella tabella E, allegata alla legge stessa (trasferimento di abitati minacciati da frane).
+

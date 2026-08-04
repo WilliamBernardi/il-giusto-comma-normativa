@@ -1,0 +1,51 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 376
+data: 1948-03-18
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-03-18;376
+codice_redazionale: 048U0376
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 1956-06-25
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:28Z
+---
+
+DECRETO LEGISLATIVO
+                18 marzo 1948
+                376
+                Modificazione della legge 18 aprile 1940, n. 288, riguardante l'ordinamento del personale postale e telegrafico.
+
+Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazioni, di concerto con quello per il tesoro;
+
+## Art. 1.
+
+Presso l'Amministrazione postale e telegrafica e' istituito il ruolo transitorio di gruppo B come dalla tabella annessa al presente decreto, firmata dai Ministri per le poste e le telecomunicazioni e per il tesoro.
+
+## Art. 2.
+
+Possono essere collocati nel ruolo transitorio di gruppo B, su domanda da presentarsi entro 60 giorni dalla pubblicazione del presente decreto nella Gazzetta Ufficiale della Repubblica italiana e previo parere del Consiglio di amministrazione, gli impiegati di seconda categoria delle poste e delle telecomunicazioni dei gradi 8°, 9° e 10° i quali abbiano appartenuto al soppresso gruppo B o siano capi di ufficio vincitori o idonei in esami di concorso per merito distinto, o provengano dai concorsi per esame, indicati all'art. 121, lettera d), del regio decreto 11 novembre 1923, n. 2395, modificato dall'art. 87 del regio decreto 30 dicembre 1923, n. 3084.
+ Il termine di 60 giorni per la presentazione della domanda di cui al precedente comma decorre per i reduci dai campi di prigionia e di internamento dalla data del rientro in servizio, se posteriore a quella predetta.
+ Il collocamento nel ruolo transitorio predetto si effettua nel grado corrispondente a quello rivestito nella seconda categoria nello stesso ordine di ruolo, conservando l'anzianita' di grado della seconda categoria medesima. Nel grado 9° i provenienti dal ruolo A dei capi di ufficio precederanno i primi ufficiali.
+
+## Art. 3.
+
+Con separato provvedimento saranno stabilite le nuove tabelle organiche del ruolo del personale di seconda categoria delle poste e dei telegrafi.
+ Nel frattempo non saranno effettuate in questo ultimo ruolo promozioni nei posti lasciati vacanti dal personale passato nel ruolo transitorio di gruppo B.
+
+## Art. 4.
+
+Le attribuzioni del personale collocato nel ruolo transitorio di gruppo B sono le medesime del personale appartenente al ruolo dei ragionieri, cassieri, direttori d'ufficio, geometri e assimilati di cui alla legge 18 aprile 1940, n. 258.
+
+## Art. 5.
+
+Le promozioni nel ruolo transitorio di gruppo B si effettuano con le stesse norme in vigore per il ruolo dei ragionieri, cassieri, direttori d'ufficio, geometri ed assimilati.
+ Tuttavia non possono essere promossi al grado superiore quei funzionari che non abbiano nel grado rivestito una anzianita' almeno pari a quella posseduta nel grado stesso dal meno anziano dei funzionari del ruolo di gruppo B di cui alla legge 18 aprile 1940, n. 288, che venga, o sia stato nell'ultimo scrutinio, promosso al grado superiore.
+ I posti che si renderanno vacanti nel ruolo transitorio di gruppo B saranno soppressi a cominciare dal grado meno elevato e saranno contemporaneamente portati in aumento nel ruolo di gruppo B di cui alla succitata legge, prima nel grado iniziale fino a raggiungere la proporzione di posti attualmente risultante per detto grado e successivamente, con lo stesso procedimento, per gli altri gradi fino al 7° incluso.
+
+## Art. 6.
+
+Nella tabella del ruolo del personale di gruppo B di cui all'allegato n. 1 della legge 18 aprile 1940, n. 288, i posti dei gradi 10° e 11° sono ridotti a 870, e sono aumentati da 40 a 64 quelli di grado 7° e da 10 a 16 quelli di grado 6°.
+

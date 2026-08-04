@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1326
+data: 1922-09-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-09-29;1326
+codice_redazionale: 022U1326
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:58Z
+---
+
+REGIO DECRETO
+                29 settembre 1922
+                1326
+                Erezione in Ente morale. (022U1326)
+
+Entrata in vigore del provvedimento: 14/11/1922
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

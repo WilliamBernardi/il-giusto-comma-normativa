@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 657
+data: 1930-05-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-05-12;657
+codice_redazionale: 030U0657
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:18Z
+---
+
+REGIO DECRETO
+                12 maggio 1930
+                657
+                Emissione di un segnatasse ordinario per corrispondenze da centesimi 25. (030U0657)
+
+Entrata in vigore del provvedimento: 18/06/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

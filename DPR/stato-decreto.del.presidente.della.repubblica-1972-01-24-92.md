@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 92
+data: 1972-01-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-24;92
+codice_redazionale: 072U0092
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 gennaio 1972
+                92
+                Estinzione dell'opera pia "Legato dotalizio Sermattei", con sede in Genga.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 gennaio 1972, col quale, sulla proposta del Ministro per l'interno, l'opera pia "Legato dotalizio Sermattei", con sede in Genga (Ancona), viene dichiarata estinta ed il residuo patrimonio devoluto al locale ente comunale di assistenza.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 marzo 1972
+ Atti del Governo, registro n. 247, foglio n. 143. - VALENTINI
+

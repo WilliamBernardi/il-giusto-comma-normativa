@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1328
+data: 1967-12-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-12-05;1328
+codice_redazionale: 067U1328
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 dicembre 1967
+                1328
+                Riconoscimento, agli effetti civili, della unione della parrocchia di S. Maria Assunta con quella di S. Michele Arcangelo, in Canepina (Viterbo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 dicembre 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Amministratore apostolico della diocesi di Viterbo in data 13 giugno 1967, relativo alla unione perpetua "aeque principalis" della parrocchia di S. Maria Assunta con quella di S. Michele Arcangelo entrambe in Canepina (Viterbo).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 11 gennaio 1968
+ Atti del Governo, registro n. 216, foglio n. 128. - GRECO
+

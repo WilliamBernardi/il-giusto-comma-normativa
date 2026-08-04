@@ -1,0 +1,58 @@
+---
+tipo: REGIO DECRETO
+data: 1885-11-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-11-09;1924
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:36Z
+---
+
+REGIO DECRETO
+                09 novembre 1885
+                MDCCCCXXIV
+                Che costituisce in ente morale l'asilo infantile fondato in S.
+Stefano al Mare dalla signora Caterina Gogioso, vedova Calvi, e ne approva lo statuto. (8501924R)
+
+Entrata in vigore del provvedimento: 24/12/1885
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduto il testamento pubblico in data 5 ottobre 1883, col quale la fu signora Caterina Gogioso vedova Calvi, di Santo Stefano al Mare (Porto Maurizio) istituiva suo erede universale un asilo infantile da fondarsi nel detto comune;
+
+Veduta la domanda degli esecutori testamentari ed amministratori dell'asilo diretta ad ottenere la erezione in ente morale del medesimo e l'approvazione del relativo statuto organico;
+
+Veduti gli altri atti e ritenuto che l'erigendo istituto ha una casa con giardino per propria sede ed una rendita sufficiente per provvedere alla propria esistenza;
+
+Veduto il voto della deputazione provinciale in data 26 giugno 1885;
+
+Veduta la legge del 3 agosto 1862 sulle opere pie ed il relativo regolamento 27 novembre dello stesso anno;
+
+## Art. 1.
+
+L'asilo infantile fondato in Santo Stefano al Mare dalla fu signora Caterina Gogioso, vedova Calvi, con testamento 5 ottobre 1883 e' eretto in ente morale ed e' autorizzato ad accettare il lascito a suo favore disposto dalla predetta fondatrice.
+
+## Art. 2.
+
+E' approvato il relativo statuto organico in data 16 ottobre 1884 composto di 15 articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 9 novembre 1885. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 21 novembre 1885. 
+ 
+ Reg. 145. Atti del Governo a f. 124. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli D. TAJANI. 
+ 
+ Depretis.
+

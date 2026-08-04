@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 593
+data: 1906-10-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-10-08;593
+codice_redazionale: 006U0593
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:49Z
+---
+
+REGIO DECRETO
+                08 ottobre 1906
+                593
+                Che approva il regolamento sul servizio di tappa in sostituzione del libro VIII del regolamento del 14 gennaio 1881 sul servizio delle intendenze in guerra che rimane abrogato. (006U0593)
+
+Entrata in vigore del provvedimento: 19/12/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+### Art. 1.
+
+Regolamento-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+

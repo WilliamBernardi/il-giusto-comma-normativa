@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 942
+data: 1957-09-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-02;942
+codice_redazionale: 057U0942
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 settembre 1957
+                942
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Giorgio Martire, nel comune di Croviana (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 settembre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 30 marzo 1957, integrato con postilla senza data e con dichiarazione del 7 maggio 1957, relativo alla erezione della parrocchia di San Giorgio Martire, nel comune di Croviana (Trento).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 7 ottobre 1957
+ Atti del Governo, registro n. 108, foglio n. 29. - RELLEVA
+

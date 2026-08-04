@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 694
+data: 1973-09-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-09-20;694
+codice_redazionale: 073U0694
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 settembre 1973
+                694
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Antonio da Padova, in Limbiate.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 settembre 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Milano in data 14 dicembre 1971, integrato con dichiarazione del 13 settembre 1972, relativo alla erezione della parrocchia di S. Antonio da Padova, in frazione Mombello del comune di Limbiate (Milano). Viene, altresi', riconosciuta la personalita' giuridica della chiesa omonima, sede dell'anzidetta parrocchia.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 10 novembre 1973
+ Atti di Governo, registro n. 262, foglio n. 21. - VALENTINI
+

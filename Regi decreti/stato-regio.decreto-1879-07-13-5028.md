@@ -1,0 +1,41 @@
+---
+tipo: REGIO DECRETO
+numero: 5028
+data: 1879-07-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-07-13;5028
+codice_redazionale: 079U5028
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:06Z
+---
+
+REGIO DECRETO
+                13 luglio 1879
+                5028
+                Che autorizza il comune di Traetto (Caserta) ad assumere la denominazione di Minturno. (079U5028)
+
+Entrata in vigore del provvedimento: 10/09/1879
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario per gli affari dell'Interno,
+
+Veduta l'istanza fatta dal Consiglio comunale di Traetto, con deliberazione 5 maggio 1879, perche' all'attuale denominazione del comune venga sostituita quella di Minturno;
+
+## Art. 1.
+
+Il comune di Traetto, nella provincia di Caserta, e' autorizzato ad assumere la denominazione di Minturno. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 luglio 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 573
+data: 1960-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-04-27;573
+codice_redazionale: 060U0573
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1960
+                573
+                Riconoscimento, agli effetti civili, della elevazione in parrocchia della Curazia autonoma della B.M.V. della Mercede, in frazione Agnedo del comune di Villa Agnedo (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 21 dicembre 1959, integrato con dichiarazione di pari data, relativo alla elevazione in parrocchia della Curazia autonoma della B.M.V. della Mercede, in frazione Agnedo del comune di Villa Agnedo (Trento).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 15 giugno 1960
+ Atti del governo, registro n. 127, foglio n. 63. - VILLA
+

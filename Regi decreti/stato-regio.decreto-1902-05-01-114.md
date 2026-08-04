@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1902-05-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-05-01;114
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:04Z
+---
+
+REGIO DECRETO
+                01 maggio 1902
+                CXIV
+                Col quale e' data facolta' al comune di Configni di applicare la tassa sul bestiame. (0200114R)
+
+Entrata in vigore del provvedimento: 06/06/1902
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1884-05-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-05-18;1332
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:05Z
+---
+
+REGIO DECRETO
+                18 maggio 1884
+                MCCCXXXII
+                Che riforma l'amministrazione del conservatorio di Gesu' e Maria in Aderno'. (8401332R)
+
+Entrata in vigore del provvedimento: 31/07/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

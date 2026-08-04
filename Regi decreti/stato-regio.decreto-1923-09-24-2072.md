@@ -1,0 +1,50 @@
+---
+tipo: REGIO DECRETO
+numero: 2072
+data: 1923-09-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-09-24;2072
+codice_redazionale: 023U2072
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:12Z
+---
+
+REGIO DECRETO
+                24 settembre 1923
+                2072
+                Norme per l'uso della Bandiera nazionale. (023U2072)
+
+Entrata in vigore del provvedimento: 26/10/1923
+
+## Art. 1. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 2. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 3. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 4. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 5. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 6. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 7. — ((IL D.P.R. 13 DICEMBRE 2010, N. 248 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+

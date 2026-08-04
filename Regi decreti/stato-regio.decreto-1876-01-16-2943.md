@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2943
+data: 1876-01-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1876-01-16;2943
+codice_redazionale: 076U2943
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:10Z
+---
+
+REGIO DECRETO
+                16 gennaio 1876
+                2943
+                Che approva alcune rettificazioni dei regolamenti universitari. (076U2943)
+
+Entrata in vigore del provvedimento: 04/03/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1874-03-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1874-03-22;830
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:07Z
+---
+
+REGIO DECRETO
+                22 marzo 1874
+                DCCCXXX
+                Che modifica lo statuto della Societa' anonima per l'espurgo inodoro dei pozzi neri in Imola. (7400830R)
+
+Entrata in vigore del provvedimento: 24/04/1874
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

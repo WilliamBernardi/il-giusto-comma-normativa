@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1898-10-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1898-10-19;399
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:19Z
+---
+
+REGIO DECRETO
+                19 ottobre 1898
+                CCCXCIX
+                Che trasforma il pio istituto dei prestiti e risparmi di Albano di Lucania in una cassa di prestanze agrarie. (9800399R)
+
+Entrata in vigore del provvedimento: 27/01/1899
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

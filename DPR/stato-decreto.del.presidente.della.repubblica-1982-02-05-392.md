@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 392
+data: 1982-02-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-05;392
+codice_redazionale: 082U0392
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 febbraio 1982
+                392
+                Modificazioni allo statuto del collegio universitario "Don Nicola Mazza", in Padova.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 febbraio 1982, col quale, sulla proposta del Ministro della pubblica istruzione, vengono approvate le modificazioni agli articoli II e V dello statuto del collegio universitario "Don Nicola Mazza", in Padova, approvato con decreto del Presidente della Repubblica 26 ottobre 1954, n. 1308.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 22 giugno 1982
+ Registro n. 82 Istruzione, foglio n. 147
+

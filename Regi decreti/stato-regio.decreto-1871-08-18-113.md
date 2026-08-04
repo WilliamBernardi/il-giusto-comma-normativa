@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1871-08-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1871-08-18;113
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:43Z
+---
+
+REGIO DECRETO
+                18 agosto 1871
+                CXIII
+                Che modifica il Regolamento per le tasse di famiglia e sul bestiame nella Provincia di Pavia. (7100113R)
+
+Entrata in vigore del provvedimento: 28/10/1871
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

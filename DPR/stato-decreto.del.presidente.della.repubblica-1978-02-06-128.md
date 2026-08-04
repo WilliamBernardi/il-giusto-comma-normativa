@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 128
+data: 1978-02-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-02-06;128
+codice_redazionale: 078U0128
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 febbraio 1978
+                128
+                Riconoscimento, agli effetti civili, della erezione della vicaria
+curata autonoma indipendente di S. Mauro, in Boves.
+
+Il Decreto-Legge non è stato convertito nel termine di sessanta giorni.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 febbraio 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Cuneo 15 maggio 1976, integrato con due dichiarazioni datate 21 gennaio e 7 giugno 1977, relativo all'erezione della vicaria curata autonoma indipendente di S. Mauro, in frazione omonima del comune di Boves (Cuneo).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 14 aprile 1978
+ Registro n. 7 Interno, foglio n. 363
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 855
+data: 1964-08-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-19;855
+codice_redazionale: 064U0855
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 agosto 1964
+                855
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di Maria SS. Assunta in Cielo, denominata anche Madonna di Campagna, in frazione Pallanza del comune di Verbania (Novara).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 agosto 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 1 luglio 1962, integrato con postille del 17 luglio 1963, relativo alla erezione della Parrocchia di Maria SS. Assunta in Cielo, denominata anche Madonna di Campagna, in frazione Pallanza del comune di Verbania (Novara).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 settembre 1964
+ Atti del Governo, registro n. 186, foglio n. 130. - CARUSO
+

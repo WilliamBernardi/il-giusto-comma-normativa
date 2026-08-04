@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 461
+data: 1976-04-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-04-09;461
+codice_redazionale: 076U0461
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 aprile 1976
+                461
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Andrea, in Bibbiena, e di S. Giuseppe, in Chiusi della Verna.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 aprile 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Arezzo 19 giugno 1974, relativo all'unione temporanea aeque principaliter delle parrocchie di S. Andrea, in frazione Campi del comune di Bibbiena (Arezzo), e di S. Giuseppe, in localita' Corsalone del comune di Chiusi della Verna (Arezzo).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 30 giugno 1976
+ Atti di Governo, registro n. 7, foglio n. 18
+

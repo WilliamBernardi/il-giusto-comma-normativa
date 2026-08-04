@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 102
+data: 1956-01-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-23;102
+codice_redazionale: 056U0102
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 gennaio 1956
+                102
+                Cambiamento della denominazione del comune di Pradleve, in provincia di Cuneo, in quella di "Pradleves".
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Pradleve (Cuneo) in data 3 agosto 1954, n. 13, con la quale e' stato chiesto che l'attuale denominazione del Comune sia mutata in quella di "Pradleves";
+ Vista la deliberazione del Consiglio provinciale di Cuneo in data 29 agosto 1955, n. 6, con la quale e' stato espresso parere in ordine al cambiamento di denominazione di cui trattasi;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383, e successive modificazioni;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La denominazione del comune di Pradleve, in provincia di Cuneo, e' mutata in quella di "Pradleves".
+

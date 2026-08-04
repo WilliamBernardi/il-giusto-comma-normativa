@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 455
+data: 1979-07-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-07-03;455
+codice_redazionale: 079U0455
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 luglio 1979
+                455
+                Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 3 luglio 1979, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare la donazione disposta dal comune di Lodi (Milano) con atto redatto dal segretario generale reggente del comune in data 16 dicembre 1975, n. 1183 di repertorio, registrato a Lodi il 26 gennaio 1976 al n. 484 reg. gen. d'ordine, n. 575 reg. part., consistente in una area edificabile di mq 2.000 circa, identificata dai mappali 98 e 99 del foglio 33 del nuovo catasto terreni di Lodi, ubicata in localita' Candi, viale Dalmazia, angolo via C. Sacchi, a condizione che la C.R.I. utilizzi l'area per la realizzazione della nuova sede del sottocomitato di Lodi e rilasci, senza pretese di risarcimenti e indennizzi di sorta, l'attuale sede di proprieta' comunale.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 11 settembre 1979
+ Registro n. 6 Sanita', foglio n. 276
+

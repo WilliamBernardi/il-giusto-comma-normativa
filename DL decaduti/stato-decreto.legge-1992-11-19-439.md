@@ -1,0 +1,72 @@
+---
+tipo: DECRETO-LEGGE
+numero: 439
+data: 1992-11-19
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1992-11-19;439
+codice_redazionale: 092G0494
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1993-01-19
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:48Z
+---
+
+DECRETO-LEGGE
+                19 novembre 1992
+                439
+                 Disciplina della proroga degli organi amministrativi.
+
+Entrata in vigore del decreto: 19/11/1992.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 15 LUGLIO 1994, N. 444.
+

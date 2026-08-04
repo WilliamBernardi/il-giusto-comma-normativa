@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 46
+data: 1969-01-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-01-28;46
+codice_redazionale: 069U0046
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 gennaio 1969
+                46
+                Estinzione delle opere pie: "Leandro Tallandini", "Giacomo d'Isaia", "Ghiotto Molon", "Carlo Combi", "Elisabetta Kerstorf Planat de la Faye" e trasformazione del fine della fondazione "Principe Amedeo di Savoia", con sede in Venezia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 gennaio 1969, col quale, sulla proposta del Ministro per l'interno, le opere pie: 1) "Leandro Tallandini", 2) "Giacomo d'Isaia", 3) "Ghiotto Molon", 4) "Carlo Compi", 5) "Elisabetta Kerstorf Planal de la Faye", con sede in Venezia, vengono dichiarate estinte ed i relativi patrimoni devoluti al locale E.C.A. Vengono, inoltre, approvate la trasformazione del fine, il concentramento nell'E.C.A. e il nuovo statuto della locale fondazione "Principe Amedeo di Savoia".
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 11 marzo 1969
+ Atti del Governo, registro n. 225, foglio n. 138. - GRECO
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1341
+data: 1938-07-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-07-08;1341
+codice_redazionale: 038U1341
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:02Z
+---
+
+REGIO DECRETO
+                08 luglio 1938
+                1341
+                Erezione in ente morale della «Fondazione prof. Massimo Piccinini», presso la Regia universita' di Modena. (038U1341)
+
+Entrata in vigore del provvedimento: 20/09/1938
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 108
+data: 1984-03-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-20;108
+codice_redazionale: 084U0108
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 marzo 1984
+                108
+                Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 marzo 1984, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in un appartamento sito in Savona, via Monturbano n. 6/14, del valore di L. 17.000.000, attribuito con perizia di parte e ritenuto congruo dall'ufficio tecnico erariale di Savona, disposta dalla sig.na Maria Pompei con testamento olografo 1 ottobre 1978, pubblicato in data 9 ottobre 1979, n. 62298 di repertorio, a rogito dott. Attilio Bianchi, notaio in Savona, registrato a Savona in data 12 ottobre 1979 al n. 5054.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 27 aprile 1984
+ Registro n. 4 Presidenza, foglio n. 70
+

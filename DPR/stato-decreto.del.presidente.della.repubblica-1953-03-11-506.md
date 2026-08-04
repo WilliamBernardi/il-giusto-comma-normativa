@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 506
+data: 1953-03-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-03-11;506
+codice_redazionale: 053U0506
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 marzo 1953
+                506
+                Riconoscimento, agli effetti civili, del mutamento di titolo della parrocchia di San Felice II Papa e Martire, in Zovon di Vo' (Padova).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 marzo 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Padova in data 7 ottobre 1950, integrato con postilla di pari data, con cui viene mutato il titolo della parrocchia di San Felice II Papa e Martire, in Zovon di Vo' (Padova) (inteso come Beneficio parrocchiale) e della Chiesa arcipretale, sede della parrocchia, stessa, in quello di San Giuseppe, Sposo di Maria Santissima.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 10 luglio 1953
+ Atti del Governo, registro n. 78, foglio n. 13. - PALLA
+

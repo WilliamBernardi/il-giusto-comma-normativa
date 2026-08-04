@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1907-02-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1907-02-03;45
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:56Z
+---
+
+REGIO DECRETO
+                03 febbraio 1907
+                XLV
+                Istituzione di un collegio di probi-viri per l'industria della seta con sede in Villa San Giovanni. (0700045R)
+
+Entrata in vigore del provvedimento: 05/04/1907
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

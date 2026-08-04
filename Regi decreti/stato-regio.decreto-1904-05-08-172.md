@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 172
+data: 1904-05-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-05-08;172
+codice_redazionale: 004U0172
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:55Z
+---
+
+REGIO DECRETO
+                08 maggio 1904
+                172
+                Che convoca il collegio elettorale di Campi Bisenzio (Firenze). (004U0172)
+
+Entrata in vigore del provvedimento: 25/05/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

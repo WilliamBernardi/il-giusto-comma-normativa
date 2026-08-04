@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1494
+data: 1963-06-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-06-06;1494
+codice_redazionale: 063U1494
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 giugno 1963
+                1494
+                Approvazione delle modificazioni apportate allo statuto della Fondazione "Giorgio Cini", con sede in Venezia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 giugno 1963, col quale, sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Ministri per l'interno e per la pubblica istruzione, vengono approvate le modificazioni allo statuto della Fondazione "Giorgio Cini", con sede in Venezia, deliberate dal Consiglio generale della Fondazione nelle riunioni del 7 aprile 1962 e del 29 aprile 1963.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 2 novembre 1963
+ Atti del Governo, registro n. 175, foglio n. 110. - VILLA
+

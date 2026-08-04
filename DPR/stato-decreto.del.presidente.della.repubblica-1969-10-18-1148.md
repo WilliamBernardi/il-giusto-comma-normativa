@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1148
+data: 1969-10-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-18;1148
+codice_redazionale: 069U1148
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 ottobre 1969
+                1148
+                Dichiarazione di ente ospedaliero dell'"Ospedale civile della Misericordia", con sede in Sant'Elpidio a Mare.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 12 febbraio 1968, n. 132, recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
+ Visto il decreto del medico provinciale di Ascoli Piceno in data 26 febbraio 1969, con il quale, sentito il consiglio provinciale di sanita' l'"Ospedale civile della Misericordia", di Sant'Elpidio a Mare, e' stato classificato ospedale generale di zona a norma degli articoli 19, 20, 21 e 54 della citata legge n. 132;
+ Considerato che l'ente anzidetto alla data di entrata in vigore della legge 12 febbraio 1968, n. 132, provvedeva esclusivamente al ricovero ed alla cura degli infermi, in conformita' dell'art. 2 dello statuto approvato con regio decreto 27 febbraio 1939;
+ Visti gli articoli 3, 4, 9 e 54 della legge stessa;
+ Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno;
+
+ Decreta:
+
+ L'"Ospedale civile della Misericordia", con sede in Sant'Elpidio a Mare (Ascoli Piceno), di cui alle premesse, e' dichiarato ente ospedaliero.
+ Il consiglio di amministrazione dell'ente ospedaliero suddetto, e' composto come segue:
+ un membro eletto dal consiglio provinciale di Ascoli Piceno;
+ tre membri eletti dal consiglio comunale di Santo Elpidio a Mare; due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente approvato con regio decreto 27 febbraio 1939.
+

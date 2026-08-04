@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5952
+data: 1870-10-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1870-10-06;5952
+codice_redazionale: 070U5952
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:14Z
+---
+
+REGIO DECRETO
+                06 ottobre 1870
+                5952
+                Che modifica la Pianta numerica degli Impiegati e serventi negli Stabilimenti scientifici della Regia Universita' di Pavia. (070U5952)
+
+Entrata in vigore del provvedimento: 24/11/1870
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

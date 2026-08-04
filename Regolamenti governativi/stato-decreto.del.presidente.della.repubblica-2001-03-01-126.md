@@ -1,0 +1,44 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 126
+data: 2001-03-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2001-03-01;126
+codice_redazionale: 001G0182
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 2002-07-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 marzo 2001
+                126
+                 Regolamento recante disciplina delle modalita' di versamento del
+contributo unificato per le spese degli atti giudiziari, a norma
+dell'articolo 9, comma 6, della legge 23 dicembre 1999, n. 488.
+
+Entrata in vigore del decreto: 3-5-2001
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+
+

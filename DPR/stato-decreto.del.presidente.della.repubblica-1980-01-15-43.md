@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 43
+data: 1980-01-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-15;43
+codice_redazionale: 080U0043
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 gennaio 1980
+                43
+                Rettifica al decreto del Presidente della Repubblica 9 aprile 1979, n. 274, concernente l'autorizzazione all'Accademia olimpica di lettere, arti, scienze e tecnica, in Vicenza, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 gennaio 1980, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene rettificato, nelle premesse, il decreto del Presidente della Repubblica 9 aprile 1979, n. 274, concernente l'autorizzazione alla Accademia olimpica di lettere, arti, scienze e tecnica, in Vicenza, ad acquistare un immobile, nel senso che il numero di repertorio dell'atto di compravendita e': "32391" anziche': "31391".
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 25 febbraio 1980
+ Registro n. 4 Beni culturali, foglio n. 36
+

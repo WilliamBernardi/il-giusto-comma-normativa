@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1043
+data: 1942-06-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-06-08;1043
+codice_redazionale: 042U1043
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:29Z
+---
+
+REGIO DECRETO
+                08 giugno 1942
+                1043
+                Erezione in ente morale della Fondazione « Pietro Baroncini », con sede in Imola (Bologna). (042U1043)
+
+Entrata in vigore del provvedimento: 04/10/1942
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 4417
+data: 1868-05-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1868-05-22;4417
+codice_redazionale: 068U4417
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:49Z
+---
+
+REGIO DECRETO
+                22 maggio 1868
+                4417
+                Col quale il Comizio agrario del Circondario di Monteleone e' legalmente costituito ed e' riconosciuto come Stabilimento di pubblica utilita'. (068U4417)
+
+Entrata in vigore del provvedimento: 05/07/1868
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

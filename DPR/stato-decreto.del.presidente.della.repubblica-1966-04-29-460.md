@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 460
+data: 1966-04-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-04-29;460
+codice_redazionale: 066U0460
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 aprile 1966
+                460
+                Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ed all'Automobile Club di Benevento ad acquistare in comproprieta' un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto, del Presidente della Repubblica 29 aprile 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma, e l'Automobile Club di Benevento vengono autorizzati ad acquistare in comproprieta', rispettivamente in ragione del 60% e del 40%, dalla Societa' a responsabilita' limitata "Edilsirena s. r. l.", con sede in Benevento, per il prezzo di L. 35.000.000, la porzione di fabbricato sita in Benevento alla via Giustiniani - ora via Salvator Rosa - costituita da locali al piano terreno, coi rispettivi retri e servizi, estesa per complessivi mq. 400 circa, da adibire a sede dei propri uffici.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 giugno 1966
+ Atti del Governo, registro n. 203, foglio n. 135. - VILLA
+

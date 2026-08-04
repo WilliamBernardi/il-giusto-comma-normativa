@@ -1,0 +1,138 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 587
+data: 1993-03-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1993-03-03;587
+codice_redazionale: 093G0143
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2015-01-31
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:46Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 marzo 1993
+                587
+                 Regolamento recante attuazione della direttiva 90/539/CEE relativa alle norme di polizia veterinaria per gli scambi intercomunitari e le importazioni in provenienza dai Paesi terzi di pollame e uova da cova.
+
+Entrata in vigore del decreto: 18-2-1994
+
+## - Capo I DISPOSIZIONI GENERALI
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## - Capo II SCAMBI INTRACOMUNITARI
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 10-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## - Capo III NORME PER L'IMPORTAZIONE IN PROVENIENZA DA PAESI TERZI
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 18-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 21-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## - Capo IV DISPOSIZIONI COMUNI
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 23. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+
+## Art. 24. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 DICEMBRE 2014, N. 199))
+
+
+

@@ -1,0 +1,77 @@
+---
+tipo: DECRETO-LEGGE
+numero: 45
+data: 1994-01-21
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1994-01-21;45
+codice_redazionale: 094G0069
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1995-01-05
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                21 gennaio 1994
+                45
+                 Norme di interpretazione e di modificazione del decreto-legge 19 dicembre 1992, n. 487, convertito, con modificazioni, dalla legge 17 febbraio 1993, n. 33, e successive integrazioni, concernente soppressione dell'EFIM.
+
+Entrata in vigore del decreto: 24/1/1994.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 27 DICEMBRE 1994, N. 738
+

@@ -1,0 +1,602 @@
+---
+tipo: REGIO DECRETO
+numero: 168
+data: 1902-03-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-03-30;168
+codice_redazionale: 002U0168
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:12:53Z
+---
+
+REGIO DECRETO
+                30 marzo 1902
+                168
+                Contenente l'ordinamento dei vari servizi civili e militari della Colonia Eritrea. (002U0168)
+
+Entrata in vigore del provvedimento: 01/04/1902
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+### Art. 1.
+
+Ordinamento-art. 1 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 2.
+
+Ordinamento-art. 2 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 3.
+
+Ordinamento-art. 3 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 4.
+
+Ordinamento-art. 4 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 5.
+
+Ordinamento-art. 5 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 6.
+
+Ordinamento-art. 6 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 7.
+
+Ordinamento-art. 7 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 8.
+
+Ordinamento-art. 8 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 9.
+
+Ordinamento-art. 9 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 10.
+
+Ordinamento-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 11.
+
+Ordinamento-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 12.
+
+Ordinamento-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 13.
+
+Ordinamento-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 14.
+
+Ordinamento-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 15.
+
+Ordinamento-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 16.
+
+Ordinamento-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 17.
+
+Ordinamento-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 18.
+
+Ordinamento-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 19.
+
+Ordinamento-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 20.
+
+Ordinamento-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 21.
+
+Ordinamento-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 22.
+
+Ordinamento-art. 22 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 23.
+
+Ordinamento-art. 23 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 24.
+
+Ordinamento-art. 24 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 25.
+
+Ordinamento-art. 25 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 26.
+
+Ordinamento-art. 26 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 27.
+
+Ordinamento-art. 27 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 28.
+
+Ordinamento-art. 28 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 29.
+
+Ordinamento-art. 29 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 30.
+
+Ordinamento-art. 30 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 31.
+
+Ordinamento-art. 31 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 32.
+
+Ordinamento-art. 32 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 33.
+
+Ordinamento-art. 33 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 34.
+
+Ordinamento-art. 34 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 35.
+
+Ordinamento-art. 35 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 36.
+
+Ordinamento-art. 36 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 37.
+
+Ordinamento-art. 37 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 38.
+
+Ordinamento-art. 38 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 39.
+
+Ordinamento-art. 39 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 40.
+
+Ordinamento-art. 40 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 41.
+
+Ordinamento-art. 41 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 42.
+
+Ordinamento-art. 42 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 43.
+
+Ordinamento-art. 43 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 44.
+
+Ordinamento-art. 44 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 45.
+
+Ordinamento-art. 45 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 46.
+
+Ordinamento-art. 46 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 47.
+
+Ordinamento-art. 47 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 48.
+
+Ordinamento-art. 48 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 49.
+
+Ordinamento-art. 49 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 50.
+
+Ordinamento-art. 50 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 51.
+
+Ordinamento-art. 51 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 52.
+
+Ordinamento-art. 52 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 53.
+
+Ordinamento-art. 53 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 54.
+
+Ordinamento-art. 54 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 55.
+
+Ordinamento-art. 55 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 56.
+
+Ordinamento-art. 56 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 57.
+
+Ordinamento-art. 57 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 58.
+
+Ordinamento-art. 58 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 59.
+
+Ordinamento-art. 59 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 60.
+
+Ordinamento-art. 60 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 61.
+
+Ordinamento-art. 61 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 62.
+
+Ordinamento-art. 62 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 63.
+
+Ordinamento-art. 63 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 64.
+
+Ordinamento-art. 64 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 65.
+
+Ordinamento-art. 65 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 66.
+
+Ordinamento-art. 66 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 67.
+
+Ordinamento-art. 67 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 68.
+
+Ordinamento-art. 68 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 69.
+
+Ordinamento-art. 69 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 70.
+
+Ordinamento-art. 70 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 71.
+
+Ordinamento-art. 71 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 72.
+
+Ordinamento-art. 72 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 73.
+
+Ordinamento-art. 73 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 74.
+
+Ordinamento-art. 74 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 75.
+
+Ordinamento-art. 75 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 76.
+
+Ordinamento-art. 76 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 77.
+
+Ordinamento-art. 77 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 78.
+
+Ordinamento-art. 78 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 79.
+
+Ordinamento-art. 79 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 80.
+
+Ordinamento-art. 80 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 81.
+
+Ordinamento-art. 81 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 82.
+
+Ordinamento-art. 82 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 83.
+
+Ordinamento-art. 83 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 84.
+
+Ordinamento-art. 84 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 85.
+
+Ordinamento-art. 85 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 86.
+
+Ordinamento-art. 86 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 87.
+
+Ordinamento-art. 87 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 88.
+
+Ordinamento-art. 88 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 89.
+
+Ordinamento-art. 89 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 90.
+
+Ordinamento-art. 90 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 91.
+
+Ordinamento-art. 91 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 92.
+
+Ordinamento-art. 92 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 93.
+
+Ordinamento-art. 93 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 94.
+
+Ordinamento-art. 94 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 95.
+
+Ordinamento-art. 95 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 96.
+
+Ordinamento-art. 96 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 97.
+
+Ordinamento-art. 97 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 98.
+
+Ordinamento-art. 98 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 99.
+
+Ordinamento-art. 99 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 100.
+
+Ordinamento-art. 100 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 101.
+
+Ordinamento-art. 101 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 102.
+
+Ordinamento-art. 102 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 103.
+
+Ordinamento-art. 103 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 104.
+
+Ordinamento-art. 104 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 105.
+
+Ordinamento-art. 105 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 106.
+
+Ordinamento-art. 106 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 107.
+
+Ordinamento-art. 107 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 108.
+
+Ordinamento-art. 108 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 109.
+
+Ordinamento-art. 109 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 110.
+
+Ordinamento-art. 110 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 111.
+
+Ordinamento-art. 111 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 112.
+
+Ordinamento-art. 112 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 113.
+
+Ordinamento-art. 113 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 114.
+
+Ordinamento-art. 114 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 115.
+
+Ordinamento-art. 115 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 116.
+
+Ordinamento-art. 116 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 117.
+
+Ordinamento-art. 117 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 118.
+
+Ordinamento-art. 118 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 119.
+
+Ordinamento-art. 119 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 120.
+
+Ordinamento-art. 120 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 121.
+
+Ordinamento-art. 121 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 122.
+
+Ordinamento-art. 122 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 123.
+
+Ordinamento-art. 123 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 124.
+
+Ordinamento-art. 124 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 125.
+
+Ordinamento-art. 125 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 126.
+
+Ordinamento-art. 126 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 127.
+
+Ordinamento-art. 127 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 128.
+
+Ordinamento-art. 128 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 129.
+
+Ordinamento-art. 129 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 130.
+
+Ordinamento-art. 130 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 131.
+
+Ordinamento-art. 131 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 132.
+
+Ordinamento-art. 132 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 133.
+
+Ordinamento-art. 133 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 134.
+
+Ordinamento-art. 134 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 135.
+
+Ordinamento-art. 135 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 136.
+
+Ordinamento-art. 136 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 137.
+
+Ordinamento-art. 137 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 138.
+
+Ordinamento-art. 138 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 139.
+
+Ordinamento-art. 139 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 140.
+
+Ordinamento-art. 140 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 141.
+
+Ordinamento-art. 141 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+### Art. 142.
+
+Ordinamento-art. 142 ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+

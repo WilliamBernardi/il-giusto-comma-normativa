@@ -1,0 +1,43 @@
+---
+tipo: REGIO DECRETO
+numero: 426
+data: 1936-02-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-02-03;426
+codice_redazionale: 036U0426
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:45Z
+---
+
+REGIO DECRETO
+                03 febbraio 1936
+                426
+                Dichiarazione formale dei fini di n. 6 Confraternite della provincia di Catanzaro. (036U0426)
+
+Entrata in vigore del provvedimento: 08/04/1936
+
+## Art. 1.
+
+N.
+
+R. decreto 3 febbraio 1936, col quale sulla proposta del Capo del Capo del Governo Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi delle seguenti Confraternite in provincia di Catanzaro: 
+ 
+ 1. Conflenti - Confraternita dell'immacolata Concezione. 
+ 
+ 2. Curinga - Confraternita di Maria SS.ma Immacolata. 
+ 
+ 3. Curinga - Confraternita di Maria SS.ma del Carmine. 
+ 
+ 4. Gizzeria - Confraternita della SS.ma Annunziata. 
+ 
+ 5. Marcellinara - Arciconfraternita di Maria SS.ma Immacolata. 
+ 
+ 6. Pianopoli - Confraternita dell'Addolorata. 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte dei conti, addi' 14 marzo 1036 - Anno XIV
+

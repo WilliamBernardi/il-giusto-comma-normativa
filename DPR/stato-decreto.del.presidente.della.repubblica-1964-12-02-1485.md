@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1485
+data: 1964-12-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-02;1485
+codice_redazionale: 064U1485
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 dicembre 1964
+                1485
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di Santa Maria degli Angeli, in localita' Convento del comune di Mosciano Sant'Angelo (Teramo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 dicembre 1964, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Teramo in data 1 agosto 1960, integrato con due dichiarazioni rispettivamente del 15 dicembre 1962 e del 28 giugno 1963, relativo alla erezione della Parrocchia di Santa Maria degli Angeli, in localita' Convento del comune di Mosciano Sant'Angelo (Teramo).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 5 gennaio 1965
+ Atti del Governo, registro n. 189, foglio n. 71. - VILLA
+

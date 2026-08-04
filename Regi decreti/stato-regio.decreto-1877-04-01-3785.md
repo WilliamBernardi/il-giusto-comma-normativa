@@ -1,0 +1,41 @@
+---
+tipo: REGIO DECRETO
+numero: 3785
+data: 1877-04-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1877-04-01;3785
+codice_redazionale: 077U3785
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:32Z
+---
+
+REGIO DECRETO
+                01 aprile 1877
+                3785
+                Che autorizza il comune di Pomaro Piacentino ad assumere la denominazione di Piozzano. (077U3785)
+
+Entrata in vigore del provvedimento: 24/05/1877
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'Interno,
+
+Veduta la deliberazione del Consiglio comunale di Pomaro Piacentino in data 5 maggio 1876, con la quale domanda la autorizzazione di cambiare l'attuale denominazione del comune in quella di Piozzano;
+
+## Art. 1.
+
+Il comune di Pomaro Piacentino nella provincia di Piacenza e' autorizzato ad assumere la denominazione di Piozzano. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a S. Rossore, addi' 1° aprile 1877. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ G. Nicotera.
+

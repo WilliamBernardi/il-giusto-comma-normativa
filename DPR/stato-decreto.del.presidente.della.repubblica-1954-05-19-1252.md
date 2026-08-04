@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1252
+data: 1954-05-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-19;1252
+codice_redazionale: 054U1252
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 maggio 1954
+                1252
+                Autorizzazione alla Cassa scolastica del Liceo ginnasio statale "Archita" di Taranto ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale "Archita" di Taranto viene autorizzata ad accettare la donazione di lire 160.000 (centosessantamila) in titoli di Stato disposta dal sig. Domenico Marzulli allo scopo di istituire, col relativo reddito, un premio di studio biennale intitolato al nome del figlio "Francesco Marzulli" ex alunno dell'Istituto medesimo.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 8 gennaio 1955
+ Atti del Governo, registro n. 88, foglio n. 15. - CARLOMAGNO
+

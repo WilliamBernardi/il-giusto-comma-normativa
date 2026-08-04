@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1896-05-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1896-05-07;177
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:06Z
+---
+
+REGIO DECRETO
+                07 maggio 1896
+                CLXXVII
+                Che aggiunge due nuove disposizioni al regolamento del 5 settembre 1877, n. 1717 (serie 2ª), della fondazione Rolli presso la regia universita' di Roma. (9600177R)
+
+Entrata in vigore del provvedimento: 11/06/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

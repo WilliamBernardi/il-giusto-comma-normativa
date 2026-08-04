@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 673
+data: 1965-04-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-15;673
+codice_redazionale: 065U0673
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 aprile 1965
+                673
+                Erezione in ente morale della Cassa scolastica della Scuola elementare "F. D. Guerrazzi", di Cecina (Livorno).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 aprile 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola elementare "F. D. Guerrazzi" di Cecina (Livorno), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 giugno 1965
+ Atti del Governo, registro n. 193, foglio n. 131. - VILLA
+

@@ -1,0 +1,58 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 894
+data: 1951-08-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-08-30;894
+codice_redazionale: 051U0894
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1951-09-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:44Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 agosto 1951
+                894
+                Trasferimento in proprieta' all'Opera per la valorizzazione della Sila di terreni di proprieta' di Galluccio Francesco fu Nicola, in comune di Crotone (Catanzaro).
+
+In virtu' della delegazione concessa con l'art. 5 della legge 12 maggio 1950, n. 230;
+
+Udito il parere, in data 5 luglio 1951, della Commissione parlamentare, nominata a norma dell'art. 5 della legge 12 maggio 1950, n. 230, la quale ha esaminato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Crotone (Catanzaro), della superficie di Ha. 281.27.04, nei confronti di Galluccio Francesco fu Nicola;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+E' approvato il piano particolareggiato di espropriazione, compilato dall'Opera per la valorizzazione della Sila, per i terreni ricadenti nel comune di Crotone (Catanzaro), della superficie di Ha. 281.27.04, nei confronti di Galluccio Francesco fu Nicola.
+
+## Art. 2.
+
+E' ordinata la immediata occupazione, da parte dell'Opera per la valorizzazione della Sila, dei terreni, di cui al precedente art. 1, confinanti:
+ il primo corpo, della superficie di Ha. 20.56.20, a nord, con il fosso Passo Vecchio; ad est e sud-est, con la strada vicinale di Mezzo; ad ovest, con la ferrovia Reggio Calabria-Crotone e con la proprieta' dello stesse Galluccio;
+ il secondo corpo, della superficie di Ha. 0.06.20, ad est, con il Demanio dello Stato; a sud, ovest e nordest, con la strada vicinale di Mezzo;
+ il terzo corpo, della superficie di Ha. 0.00.62, ad est, con il Demanio dello Stato, a nord, ovest e sudovest, con la strada vicinale di Mezzo;
+ il quarto corpo, della superficie di Ha. 0.01.50, a nord e ad est, con il Demanio dello Stato;
+ il quinto corpo, della superficie di Ha. 4.45.40, a nord, con la proprieta' dello stesso Galluccio; ad est, con il Demanio dello Stato; a sud con la proprieta' della Societa' Anonima Montecatini; ad ovest, con la ferrovia Reggio Calabria-Metaponto; a nord-ovest, con la vicinale di Mezzo;
+ il sesto corpo, della superficie di Ha. 76.65.40, a nord, con il fosso Passo Vecchio; ad est; con la ferrovia Reggio Calabria-Metaponto; ad ovest, con la nazionale Crotone-Rocca di Neto e con la proprieta' di Mottola Francesco Saverio fu Antonio; a sud, con la proprieta' della Societa' anonima Pertusola, di germani Gagliardi di Giuseppe, di Mottola Francesco Saverio fu Antonio, di Galluccio Francesco di Nicola;
+ il settimo corpo, della superficie di Ha. 5.90.40, da tutti i lati con il fosso Passo Vecchio;
+ l'ottavo corpo, della superficie di Ha. 0.45.60, a nord-est, con la proprieta' di Cosentino germani fu Francesco; a sud, con il fosso Passo Vecchio; ad ovest, con la ferrovia Reggio Calabria-Metaponto e con la proprieta' dello stesso Galluccio;
+ il nono corpo, della superficie di Ha. 24.88.72, a nord-est, con la proprieta' dello stesso Galluccio; a sud, con la proprieta' del predetto e con la vicinale Poerio; ad ovest, con la vicinale Terzi; a nord, con la delimitazione della particella 1/B del foglio 5 intestato allo stesso Galluccio;
+ il decimo corpo, della superficie di Ha. 44.44.10, a nord, con il fosso Fallao; ad est, con la vicinale Suverito; ad ovest, con la strada comunale Neto; a sud, con la proprieta' dello stesso Galluccio;
+ l'undicesimo corpo, della superficie di Ha. 41.40.00, a nord e nord-ovest, con la proprieta' dello stesso Galluccio; a sud, con la proprieta' del predetto e con quella di Cosentino Rodolfo fu Francesco; ad est, con la comunale di Suverito; a sud-ovest, con la proprieta' di germani Albani fu Filippo ed altri;
+ il dodicesimo corpo, della superficie di Ha. 62.42.90, a nord ed a est, con la vicinale Margherita; a sud, con la proprieta' dello stesso Galluccio; ad ovest, con la proprieta' di Berlingieri Carlo fu Francesco.
+
+## Art. 3.
+
+I terreni di cui sopra sono trasferiti in proprieta' all'Opera per la valorizzazione della Sila.
+
+## Art. 4.
+
+L'elenco dei terreni, compresi nel piano di espropriazione di cui all'art. 1, con l'indicazione dell'indennita' offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+ 
+                        
+                            ((Dato a Gressoney, addi' 30 agosto 1951))
+

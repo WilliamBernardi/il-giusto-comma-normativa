@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1045
+data: 1953-12-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-12-17;1045
+codice_redazionale: 053U1045
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 dicembre 1953
+                1045
+                Riconoscimento della personalita' giuridica della Casa generalizia, con sede in Roma, della Congregazione delle Figlie della Misericordia del Terz'Ordine di San Francesco.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 17 dicembre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Casa generalizia, con sede in Roma, della Congregazione delle Figlie della Misericordia del Terz'Ordine di San Francesco e la stessa Casa generalizia viene autorizzata ad accettare una donazione consistente in un terreno situato in Roma, del valore complessivo di L. 18.407.197.
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 29 gennaio 1954
+ Atti del Governo, registro n. 81, foglio n. 66. - PALLA
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1887-07-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-07-22;2632
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:47Z
+---
+
+REGIO DECRETO
+                22 luglio 1887
+                MMDCXXXII
+                Che scioglie l'amministrazione dell'opera pia Sinatra esistente nel comune di Grammichele (Catania) e ne affida temporaneamente la gestione ad un commissario straordinario. (8702632R)
+
+Entrata in vigore del provvedimento: 24/08/1887
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

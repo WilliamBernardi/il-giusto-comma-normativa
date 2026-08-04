@@ -1,0 +1,57 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1150
+data: 1981-10-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-21;1150
+codice_redazionale: 081U1150
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 ottobre 1981
+                1150
+                Modificazioni allo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano.
+
+Veduto lo statuto dell'Universita' commerciale "Luigi Bocconi" di Milano, approvato con regio decreto 8 marzo 1925, n. 547 e modificato con regio decreto 2 dicembre 1928, n. 3108, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' commerciale "Luigi Bocconi" di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione di concerto con il Ministro del tesoro;
+
+## Art. 1.
+
+L'art. 7, concernente il ruolo organico dei professori, e' abrogato e sostituito come segue:
+ Art. 7. - Il ruolo dei professori universitari dell'Universita' commerciale "Luigi Bocconi" comprende le seguenti fasce:
+ a) professori ordinari e straordinari;
+ b) professori associati.
+ Il ruolo organico dei professori della prima fascia e' costituito da ventinove posti.
+ Il ruolo organico dei professori della seconda fascia e' costituito da ventidue posti.
+ Ai professori di ruolo spetta il trattamento economico e di carriera che lo Stato attribuisce ai professori di ruolo delle Universita' governative provvisti della medesima anzianita' di servizio.
+ In caso di trasferimento alla Universita' "Bocconi" di professori di ruolo appartenenti ad altri istituti universitari, saranno applicate le disposizioni vigenti in materia per i professori delle Universita' governative.
+ Ai professori di ruolo della prima fascia e' assicurato il trattamento di previdenza e di quiescenza che le norme legislative vigenti stabiliscono per i professori di ruolo delle Universita' governative.
+ Ai professori di ruolo della seconda fascia, ai fini del trattamento di previdenza e di quiescenza, sono applicate le vigenti e future disposizioni di legge in materia riguardanti il corrispondente personale docente delle Universita' statali.
+ Dopo l'art. 10, con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti due nuovi articoli concernenti norme per i ricercatori.
+ Art. 11. - Il ruolo organico dei ricercatori universitari e' costituito da trentacinque posti.
+ Ai ricercatori dell'Universita' "Bocconi" spetta il trattamento economico e di carriera che lo Stato attribuisce ai ricercatori di ruolo delle Universita' governative.
+ Ai fini del trattamento di previdenza e di quiescenza, si applicano ai ricercatori le stesse disposizioni di legge in materia previste dal vigente statuto per gli assistenti di ruolo.
+ Art. 12. - Per le modalita' inerenti la ripartizione dei posti di ricercatore e la loro copertura, per lo inquadramento nel ruolo entro i limiti dei posti in organico di cui al precedente articolo, la disciplina generale, i diritti, le funzioni ed i doveri si applicano, in quanto compatibili con il presente statuto e con la natura dell'Universita' non statale, le disposizioni di legge vigenti riguardanti i ricercatori universitari.
+

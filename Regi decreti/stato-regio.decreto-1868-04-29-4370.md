@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 4370
+data: 1868-04-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1868-04-29;4370
+codice_redazionale: 068U4370
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:09Z
+---
+
+REGIO DECRETO
+                29 aprile 1868
+                4370
+                Col quale il Comizio agrario del Circondario di Piazza Armerina e' legalmente costituito ed e' riconosciuto come Stabilimento di pubblica utilita'. (068U4370)
+
+Entrata in vigore del provvedimento: 12/06/1868
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

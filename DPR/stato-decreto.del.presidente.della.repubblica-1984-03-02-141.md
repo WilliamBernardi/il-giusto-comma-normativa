@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 141
+data: 1984-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-02;141
+codice_redazionale: 084U0141
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1984
+                141
+                Autorizzazione all'associazione "Fraternitas", in Mentana, ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 marzo 1984, col quale, sulla proposta del Ministro della pubblica istruzione, l'associazione "Fraternitas", in Mentana (Roma), localita' Conventino, viene autorizzata ad accettare l'eredita' disposta dalla sig.na Cesarina Poggi con testamento pubblico 30 luglio 1977, pubblicato in data 1 giugno 1979, n. 488614 di repertorio, a rogito dott. Arnaldo Vigna Taglianti, coadiutore del dott. Salvatore Albano, notaio in Roma, registrato a Velletri in data 20 giugno 1979 al n. 1205/I.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 11 maggio 1984
+ Registro n. 27 Istruzione, foglio n. 275
+

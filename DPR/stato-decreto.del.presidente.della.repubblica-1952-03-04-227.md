@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 227
+data: 1952-03-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-04;227
+codice_redazionale: 052U0227
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 marzo 1952
+                227
+                Riconoscimento, agli effetti civili, dell'unione temporanea "aeque principaliter" delle parrocchie di San Donato a Vallerano e dei SS.
+Giusto e Clemente a Casciano di Vescovado, entrambe in comune di Murlo (Siena).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 marzo 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Siena in data 15 giugno 1951, col quale e' stata disposta l'unione temporanea "aeque principaliter" delle parrocchie di San Donato a Vallerano e dei SS. Giusto e Clemente a Casciano di Vescovado, entrambe in comune di Murlo (Siena).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 3 aprile 1952
+ Atti del Governo, registro n. 51, foglio n. 11. - FRASCA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 889
+data: 1957-08-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-08-12;889
+codice_redazionale: 057U0889
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 agosto 1957
+                889
+                Riconoscimento della personalita' giuridica della fondazione di culto denominata &quot;Legato Luigi Picchini&quot;, con sede in Treviso.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 agosto 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita, giuridica della fondazione di culto denominata "Legato Luigi Picchini", con sede in Treviso e viene approvato lo statuto della fondazione anzidetta. 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 7 ottobre 1957 
+ Atti del Governo, registro n. 108, foglio n. 13. - RELLEVA
+

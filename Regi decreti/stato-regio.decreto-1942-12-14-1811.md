@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1811
+data: 1942-12-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-12-14;1811
+codice_redazionale: 042U1811
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:34Z
+---
+
+REGIO DECRETO
+                14 dicembre 1942
+                1811
+                Riconoscimento, agli effetti. civili, della erezione della parrocchia di Sant'Antonio di Padova, in frazione Campagna del comune di Maniago (Udine). (042U1811)
+
+Entrata in vigore del provvedimento: 10/03/1943
+
+## Art. 1.
+
+N.
+
+R. decreto 14 dicembre 1942, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Concordia, in Portogruaro, in data 24 giugno 1942-XX, integrato con due postille in data 23 successivo, relativo alla erezione della parrocchia di Sant'Antonio di Padova in frazione Campagna del comune di Maniago (Udine). 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 9 febbraio 1943-XXI
+

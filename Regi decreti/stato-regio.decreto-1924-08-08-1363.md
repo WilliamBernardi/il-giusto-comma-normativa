@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1363
+data: 1924-08-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-08-08;1363
+codice_redazionale: 024U1363
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:00Z
+---
+
+REGIO DECRETO
+                08 agosto 1924
+                1363
+                Classificazione in prima categoria delle opere di bonifica del territorio denominato Isola di Donzella, in provincia di Rovigo. (024U1363)
+
+Entrata in vigore del provvedimento: 03/10/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

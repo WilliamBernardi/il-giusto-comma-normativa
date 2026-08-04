@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1044
+data: 1956-05-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-10;1044
+codice_redazionale: 056U1044
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 maggio 1956
+                1044
+                Erezione in ente morale della Cassa scolastica della Scuola media statale di via Maresca di Torre Annunziata (Napoli).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di via Maresca di Torre Annunziata (Napoli) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 3 settembre 1956
+ Atti del Governo, registro n. 100, foglio n. 123. - CARLOMAGNO
+

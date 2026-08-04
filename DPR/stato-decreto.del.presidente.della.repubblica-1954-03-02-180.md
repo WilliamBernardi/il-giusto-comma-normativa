@@ -1,0 +1,77 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 180
+data: 1954-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-02;180
+codice_redazionale: 054U0180
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1954
+                180
+                Modificazioni dello statuto dell'Istituto universitario di economia e commercio di Venezia.
+
+Veduto lo statuto dell'Istituto universitario di economia e commercio di Venezia, approvato con regio decreto 20 aprile 1939, n. 1029, e modificato con i regi decreti 26 marzo 1942, n. 352 e 24 ottobre 1942, n. 1848;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Istituto universitario di economia e commercio di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 16. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+
+7) "Storia della lingua italiana;
+
+8) Letteratura nord-americana".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 marzo 1954
+
+EINAUDI
+
+MARTINO
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Istituto universitario di economia e commercio di Venezia, approvato con regio decreto 20 aprile 1939, n. 1029, e modificato con i regi decreti 26 marzo 1942, n. 352 e 24 ottobre 1942, n. 1848;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Istituto anzidetto;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Istituto universitario di economia e commercio di Venezia, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Art. 16. - Agli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti quelli di:
+ 7) "Storia della lingua italiana;
+ 8) Letteratura nord-americana".
+

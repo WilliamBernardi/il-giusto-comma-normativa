@@ -1,0 +1,51 @@
+---
+tipo: REGIO DECRETO
+numero: 342
+data: 1909-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-05-06;342
+codice_redazionale: 009U0342
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:57Z
+---
+
+REGIO DECRETO
+                06 maggio 1909
+                342
+                Che iscrive nella 1ª categoria il porto di Giglio. (009U0342)
+
+Entrata in vigore del provvedimento: 11/07/1909
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Vista l'istanza 27 dicembre 1906 del sindaco del comune di Giglio intesa ad ottenere che quel porto, ora appartenente nei riguardi del commercio alla 2ª categoria, 4ª classe, sia iscritto in 1ª categoria come porto di rifugio; 
+ 
+ Sentito il parere del Consiglio dell'industria e del commercio, del Consiglio superiore di marina, del Consiglio superiore dei lavori pubblici e del Consiglio di Stato; 
+ 
+ Vista la legge (testo unico) 2 aprile 1885, n. 3095, ed il relativo regolamento 26 settembre 1904, n. 713; 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato pei lavori pubblici; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il porto di Giglio e' iscritto nella la categoria quale porto di rifugio, ferma restando l'attuale sua classificazione nella 4ª classe della 2ª categoria, nei riguardi commerciali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 maggio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Bertolini. 
+ 
+ Visto, Il guardasigilli: Orlando.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1475
+data: 1961-10-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-20;1475
+codice_redazionale: 061U1475
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 ottobre 1961
+                1475
+                Approvazione della costituzione del Consorzio universitario modenese, con sede in Modena.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 ottobre 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata la costituzione del Consorzio universitario modenese, con sede in Modena, e del relativo statuto, con lo stesso decreto il Consorzio viene eretto in ente morale.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 gennaio 1962
+ Atti del Governo, registro n. 143, foglio n. 36. - VILLA
+

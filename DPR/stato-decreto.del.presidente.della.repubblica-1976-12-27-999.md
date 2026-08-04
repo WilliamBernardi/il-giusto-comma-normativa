@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 999
+data: 1976-12-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-12-27;999
+codice_redazionale: 076U0999
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 dicembre 1976
+                999
+                Autorizzazione al Fondo di assistenza per i finanzieri, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 dicembre 1976, col quale, sulla proposta del Ministro per le finanze, il Fondo di assistenza per i finanzieri, in Roma, viene autorizzato ad acquistare, al prezzo di L. 300.000.000, l'immobile sito in Genova ad angolo tra le vie Nizza e Trieste, nel quartiere residenziale d'Albaro, alle condizioni specificate nella deliberazione consiliare 20 maggio 1976.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 24 febbraio 1977
+ Registro n. 9 Finanze, foglio n. 301
+

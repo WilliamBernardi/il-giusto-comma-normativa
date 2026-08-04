@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2319
+data: 1924-12-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-12-28;2319
+codice_redazionale: 024U2319
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:20Z
+---
+
+REGIO DECRETO
+                28 dicembre 1924
+                2319
+                Composizione della circoscrizione territoriale del Regio consolato a Galatz. (024U2319)
+
+Entrata in vigore del provvedimento: 24/02/1925
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

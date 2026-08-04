@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5950
+data: 1889-02-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-02-10;5950
+codice_redazionale: 089U5950
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:23Z
+---
+
+REGIO DECRETO
+                10 febbraio 1889
+                5950
+                Che autorizza il comune di Ancona ad esigere un dazio di consumo su alcuni generi in conformita' dell'unita tariffa. (089U5950)
+
+Entrata in vigore del provvedimento: 12/03/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

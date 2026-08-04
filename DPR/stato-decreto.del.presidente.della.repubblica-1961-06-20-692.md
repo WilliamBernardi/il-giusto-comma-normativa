@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 692
+data: 1961-06-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-20;692
+codice_redazionale: 061U0692
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 giugno 1961
+                692
+                Riconoscimento, agli effetti civili, dell'unione perpetua nella forma "aeque principaliter" della parrocchia di San Carlo Borromeo in Riana di Monchio delle Corti (Parma) con la parrocchia di San Donnino in Casarola dello stesso Comune.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Parma in data 7 settembre 1960, col quale, e' stata disposta l'unione perpetua nella forma "acque principaliter" della parrocchia di San Carlo Borromeo in Riana di Monchio delle Corti (Parma) con la parrocchia di San Donnino in Casarola dello stesso Comune.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 20 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 164. - VILLA
+

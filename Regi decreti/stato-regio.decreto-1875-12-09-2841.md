@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 2841
+data: 1875-12-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-12-09;2841
+codice_redazionale: 075U2841
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:08Z
+---
+
+REGIO DECRETO
+                09 dicembre 1875
+                2841
+                Che fissa il termine per l'accertamento dei debiti dei comuni di Sicilia stati accollati allo Stato. (075U2841)
+
+Entrata in vigore del provvedimento: 13/01/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

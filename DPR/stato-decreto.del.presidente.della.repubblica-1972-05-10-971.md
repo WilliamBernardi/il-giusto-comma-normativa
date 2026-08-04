@@ -1,0 +1,24 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 971
+data: 1972-05-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-05-10;971
+codice_redazionale: 072U0971
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2010-10-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:42Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 maggio 1972
+                971
+                Varianti all'ordinamento delle scuole militari.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+
+

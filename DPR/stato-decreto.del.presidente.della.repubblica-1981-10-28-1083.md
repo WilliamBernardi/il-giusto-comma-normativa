@@ -1,0 +1,59 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1083
+data: 1981-10-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-28;1083
+codice_redazionale: 081U1083
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 ottobre 1981
+                1083
+                Rettifica al decreto del Presidente della Repubblica 24 febbraio 1977, n. 475, recante modificazioni allo statuto dell'Universita' degli studi di Napoli.
+
+Veduto lo statuto dell'Universita' di Napoli, approvato con regio decreto 20 aprile 1939, n. 1162 e modificato con regio decreto 26 ottobre 1940, n. 1904, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduto il decreto del Presidente della Repubblica 24 febbraio 1977, n. 475, con il quale e' stata istituita, tra l'altro, presso la prima facolta' di medicina e chirurgia dell'Universita' di Napoli la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica;
+
+Vedute le delibere con le quali le autorita' accademiche dell'Universita' di Napoli hanno fatto presente che nella redazione del citato decreto del Presidente della Repubblica 24 febbraio 1977, n. 475, non e' stato inserito l'elenco, in dettaglio delle materie di insegnamento per la scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica;
+
+Riconosciuta la necessita' di apportare la opportuna rettifica al citato decreto del Presidente della Repubblica 24 febbraio 1977, n. 475;
+
+## Art. 1.
+
+L'art. 605 dello statuto dell'Universita' di Napoli di cui al decreto del Presidente della Repubblica 24 febbraio 1977, n. 475, relativo alla scuola di specializzazione in medicina preventiva dei lavoratori e psicotecnica della prima facolta' di medicina e chirurgia dell'Universita' di Napoli, e' integrato con il seguente nuovo comma:
+ Il piano di studio sara' svolto mediante le seguenti materie d'insegnamento:
+ 1° Anno:
+ 1) basi biologiche e cliniche della medicina preventiva (evoluzione del processo scientifico e costruzione di modelli operativi in medicina preventiva);
+ 2) elementi di organizzazione del lavoro artigianale, agricolo, industriale (aggiornamento sul valore e sul significato culturale e socio-economico dell'organizzazione del lavoro agli effetti della salute dei lavoratori);
+ 3) fisiologia della capacita' di lavoro e della fatica (teoria della fatica, fatica ischemica, fattori condizionali di origine endogena ed esogena);
+ 4) psicologia e psicofisiologia della capacita' di lavoro e della fatica (teorie sulla motivazione, fatica sensoriale, fatica mentale, vigilanza);
+ 5) capacita' di lavorare e fatica nella malattia (malattie metaboliche, endocrine, neurologiche, sensoriali, ecc.);
+ 6) basi biologiche e cliniche della medicina preventiva dei lavoratori e psicotecnica (evoluzione del processo scientifico e costruzione dei modelli operativi in medicina preventiva dei lavoratori e psicotecnica).
+ 2° Anno:
+ 1) effetti dei fattori ambientali sui sistemi biologici (mutageni ecc.);
+ 2) analisi dei sistemi in ecologia umana;
+ 3) ecologia medica dei lavoratori (distribuzione delle malattie dei lavoratori in rapporto alla natura del loro lavoro);
+ 4) tossicologia dei lavoratori morfologica, metabolica e comportamentale;
+ 5) basi biologiche e cliniche per l'abilitazione e la riabilitazione al lavoro;
+ 6) basi medico-legali per l'abilitazione e la riabilitazione al lavoro;
+ 7) definizione biologica, medica, psicofisiologica dei limiti di sicurezza consentiti nel lavoro.
+ 3° Anno:
+ 1) controllo tecnico e medico dei limiti di sicurezza consentiti nei posti di lavoro e prevenzione della tossicologia dei lavoratori;
+ 2) controllo tecnico e medico degli scambi di energia e prevenzione della fatica dei lavoratori;
+ 3) controllo psicofisiologico per la prevenzione della patologia sensoriale e della psicopatologia dei lavoratori;
+ 4) controllo medico della sicurezza del lavoro e prevenzione degli infortuni dei lavoratori;
+ 5) organizzazione e metodologia della prevenzione medica in funzione dei rischi connessi al lavoro nell'uomo e nella donna in eta' evolutiva, in eta' adulta e nella senescenza.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 378
+data: 1969-05-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-05-02;378
+codice_redazionale: 069U0378
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 maggio 1969
+                378
+                Autorizzazione all'istituto professionale per l'industria e l'artigianato di Citta' di Castello ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 maggio 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto professionale per l'industria e l'artigianato di Citta' di Castello, viene autorizzato ad accettare una donazione consistente in un appezzamento di terreno della superficie complessiva di ettari sei con sovrastante fabbricato colonico, sito in Citta' di Castello, disposta dal marchese Gioacchino Cappelletti con atto in data 27 ottobre 1965, repertorio n. 46046, registrato a Citta' di Castello il giorno 8 novembre 1965 al n. 1242/128, a rogito doti Francesco Ciavi, notaio iscritto nel distretto notarile di Perugia.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 10 luglio 1969
+ Atti del Governo, registro n. 227, foglio n. 172. - CARUSO
+

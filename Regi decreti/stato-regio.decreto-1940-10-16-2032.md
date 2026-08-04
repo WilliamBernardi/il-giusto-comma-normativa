@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2032
+data: 1940-10-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-10-16;2032
+codice_redazionale: 040U2032
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:27Z
+---
+
+REGIO DECRETO
+                16 ottobre 1940
+                2032
+                Autorizzazione al preside del Regio liceo ginnasio di Sulmona ad accettare una donazione. (040U2032)
+
+Entrata in vigore del provvedimento: 27/03/1941
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

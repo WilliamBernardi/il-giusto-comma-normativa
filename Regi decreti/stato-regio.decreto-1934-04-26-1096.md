@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 1096
+data: 1934-04-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1934-04-26;1096
+codice_redazionale: 034U1096
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:41Z
+---
+
+REGIO DECRETO
+                26 aprile 1934
+                1096
+                Riconoscimento, agli effetti civili, della erezione in Provincia italiana della Congregazione delle Suore di Carita' di S. Vincenzo de' Paoli, in Fiume. (034U1096)
+
+Entrata in vigore del provvedimento: 01/08/1934
+
+## Art. 1.
+
+N.
+
+R. decreto 26 aprile 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il Rescritto della Sacra Congregazione dei Religiosi in data 18 dicembre 1930, relativo alla erezione in Provincia italiana della Congregazione delle Suore di Carita' di S. Vincenzo de' Paoli in Fiume, e viene concessa alla stessa l'autorizzazione per acquisto a titolo gratuito, di un immobile, costituente l'attuale sede della Provincia suddetta, ed attualmente intestato all'Istituto delle Suore di Carita' di S.
+Vincenzo de' Paoli in Zagabria. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ 
+ Registrato alla Corte dei conti, addi' 9 luglio 1934 - Anno XII
+

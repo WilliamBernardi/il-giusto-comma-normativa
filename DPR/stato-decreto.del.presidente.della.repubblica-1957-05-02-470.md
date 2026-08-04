@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 470
+data: 1957-05-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-05-02;470
+codice_redazionale: 057U0470
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 maggio 1957
+                470
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Macario Abate, in localita' Costa Serra del comune di Montacuto (Alessandria).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 maggio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Tortona in data 25 marzo 1956, integrato con due dichiarazioni rispettivamente del 19 giugno e 11 luglio 1956, relativo alla erezione della parrocchia di San Macario Abate in localita' Costa Serra del comune di Montacuto (Alessandria).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 giugno 1957
+ Atti del Governo, registro n. 106, foglio n. 98. - CARLOMAGNO
+

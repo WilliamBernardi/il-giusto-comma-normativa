@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1315
+data: 1958-11-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-11-20;1315
+codice_redazionale: 058U1315
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 novembre 1958
+                1315
+                Modificazioni al decreto istitutivo dell'Istituto professionale per l'agricoltura di Genova Sant'Ilario.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 15 giugno 1931, n. 889, sul riordinamento della istruzione media tecnica;
+ Visto il regio decreto 3 marzo 1934, n. 383, che approva il testo unico della legge comunale e provinciale;
+ Visto l'art. 9 del regio decreto-legge 21 settembre 1938, n. 2038, convertito nella legge 2 giugno 1939, n. 739;
+ Visto il decreto del Presidente della Repubblica 30 settembre 1957, n. 1491, con il quale e' stato istituito con decorrenza 1 ottobre 1957 l'Istituto professionale per l'agricoltura di Genova Sant'Ilario;
+ Ritenuto che occorre procedere a sopprimere, con la stessa decorrenza, la Scuola tecnica agraria statale ivi funzionante;
+ Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli per l'interno e per il tesoro;
+
+ Decreta:
+
+ L'art. 1 del decreto del Presidente della Repubblica 30 settembre 1957, n. 1491, e' modificato come segue: , "A decorrere dal 1 ottobre 1957 e' istituita in Genova Sant'Ilario una scuola avente finalita' ed ordinamento speciali che assume la denominazione di Istituto professionale per l'agricoltura.
+ A decorrere dalla stessa data la Scuola tecnica agraria di Genova Sant'Ilario e' soppressa. La scuola secondaria di avviamento professionale, gia' aggregata alla predetta Scuola tecnica, viene annessa all'Istituto professionale".
+

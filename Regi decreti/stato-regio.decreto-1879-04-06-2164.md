@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1879-04-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-04-06;2164
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:12Z
+---
+
+REGIO DECRETO
+                06 aprile 1879
+                MMCLXIV
+                Che autorizza il comune di Chiaromonte (Siracusa), ad applicare per un quinquennio la tassa di famiglia o fuocatico. (7902164R)
+
+Entrata in vigore del provvedimento: 11/05/1879
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

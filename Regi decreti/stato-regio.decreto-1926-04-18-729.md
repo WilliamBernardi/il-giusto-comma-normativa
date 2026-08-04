@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 729
+data: 1926-04-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1926-04-18;729
+codice_redazionale: 026U0729
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:47Z
+---
+
+REGIO DECRETO
+                18 aprile 1926
+                729
+                Inclusione dell'abitato di Cagliari, localita' San Pancrazio, fra quelli da consolidare a cura e spese dello Stato. (026U0729)
+
+Entrata in vigore del provvedimento: 21/05/1926
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

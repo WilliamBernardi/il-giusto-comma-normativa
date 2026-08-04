@@ -1,0 +1,2388 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 269
+data: 1987-05-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1987-05-18;269
+codice_redazionale: 087U0269
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2025-09-04
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 maggio 1987
+                269
+                Norme risultanti dalla disciplina prevista dall'accordo sindacale,
+per il triennio 1985-1987, riguardante il comparto del personale
+dipendente dalle aziende e dalle amministrazioni dello Stato ad
+ordinamento autonomo.
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro per la funzione pubblica, di concerto con i Ministri del tesoro, del bilancio e della programmazione economica, del lavoro e della previdenza sociale, delle poste e delle telecomunicazioni, delle finanze, dei lavori pubblici, dell'interno e dell'agricoltura e delle foreste;
+
+## Art. 1. — Campo di applicazione e durata
+
+Le disposizioni contenute nel presente decreto, riferentisi al triennio 1 gennaio 1985 - 31 dicembre 1987, si applicano al personale del comparto di contrattazione collettiva delle aziende e delle amministrazioni dello Stato ad ordinamento autonomo, cosi' come determinato e composto per effetto dell'art. 5 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68.
+
+Gli effetti economici decorrono dal 1 gennaio 1986 e si protrarranno fino al 30 giugno 1988.
+
+Il presente decreto si applica inoltre al personale in servizio nella provincia di Bolzano di cui agli articoli 8 e 9 del decreto del Presidente della Repubblica 26 luglio 1976, n. 752.
+
+## - TITOLO I ACCORDI DECENTRATI
+
+## Art. 2. — Livelli di contrattazione
+
+E' previsto un livello di contrattazione decentrata nazionale aziendale o di settore ed un livello di contrattazione decentrata territoriale di settore o azienda.
+
+## Art. 3. — Le materie
+
+## Art. 4. — Soggetti titolari
+
+Qualora l'accordo riguardi una pluralita' di uffici dipendenti da diverse aziende o settori, esclusi quelli dipendenti dallo stesso ministero, aventi sede nella medesima regione, la delegazione di parte pubblica e' presieduta dal commissario del Governo o dal corrispondente organo nelle regioni a statuto speciale.
+
+Per le strutture di rilievo territoriale non inferiore a quello provinciale o per gli uffici, istituti o servizi di particolare rilevanza o stabilimenti di notevole complessita' non riconducibili alla circoscrizione provinciale, la delegazione di parte pubblica, salva diversa delega da parte del ministro, e' presieduta dal titolare di uno degli uffici interessati all'accordo che rivesta qualifica dirigenziale.
+
+Allo scopo di assicurare il pieno svolgimento delle trattative per la stipula degli accordi decentrati cui e' affidata l'attuazione di istituti di rilevante interesse, la facolta' di delega potra' essere esercitata dal ministro con un provvedimento anche a carattere permanente; in tali provvedimenti, col rispetto dei principi indicati dalla legge-quadro e dei criteri stabiliti dal presente decreto dovranno essere impartite direttive intese a conseguire uniformita' di conduzione e di risultati fra gli organi periferici dell'amministrazione.
+
+## Art. 5. — Procedure
+
+Entro trenta giorni dalla data di entrata in vigore del presente decreto, i ministri, salvo i casi in cui ritengono di dover presiedere le delegazioni di parte pubblica, delegano con atto formale i funzionari da preporre alla presidenza delle delegazioni di cui al precedente art. 4.
+
+(( 2. La negoziazione decentrata puo' articolarsi a livello nazionale per ogni singola azienda o branca di essa e per aree territorialmente delimitate per uffici, istituti o servizi di particolare rilevanza o stabilimenti di notevole complessita' non riconducibili a circoscrizione territoriale, purche' diretti da funzionari con qualifica dirigenziale, in relazione alle materie di negoziazione individuate nel presente decreto ))
+
+Le trattative per la stipula degli accordi decentrati devono, in ogni caso, avviarsi entro tre giorni dalla richiesta di apertura ovvero dall'insorgenza di conflitto e devono comunque essere concluse entro il quindicesimo giorno dal loro inizio.
+
+Qualora entro il predetto termine non fosse concluso l'accordo, su richiesta di una delle delegazioni, la rappresentanza di parte pubblica e' integrata dal presidente della delegazione del livello immediatamente superiore.
+
+Qualora entro l'ulteriore termine di quindici giorni non sia stata raggiunta l'ipotesi d'accordo, si fara' ricorso alle delegazioni della contrattazione nazionale.
+
+((
+
+Se entro il medesimo termine non si sia raggiunta l'ipotesi d'accordo, si fara' ricorso all'intervento delle delegazioni di cui all'art. 5 del decreto del Presidente della Repubblica 5 marzo 1986, n. 68, limitando la composizione della delegazione di parte pubblica al Ministro per la funzione pubblica, che la presiede, ed al Ministro competente e quella sindacale alla delegazione di cui all'art. 4, comma 1.
+
+7. All'intervento delle medesime delegazioni del comma 6 si fara' ricorso nel caso in cui, nei termini di cui al comma 3, non fosse raggiunto l'accordo in sede di contrattazione decentrata a livello nazionale o a quello che prevede la presidenza del commissario del Governo ))
+
+L'accordo va redatto per iscritto e deve essere sottoscritto dalla parte pubblica e dalla parte sindacale.
+
+Le organizzazioni sindacali dissenzienti o che non abbiano partecipato alla trattativa possono esprimere le proprie osservazioni nel merito prima che l'accordo venga tradotto in provvedimento amministrativo e comunque entro il termine di quindici giorni dalla sua conclusione.
+
+L'accordo e' recepito con decreto del ministro, oppure con altri atti, secondo i rispettivi ordinamenti, a firma del competente dirigente, quale delegato del ministro, entro trenta giorni dalla scadenza del termine di cui al precedente comma.
+
+Gli accordi decentrati, riguardanti una pluralita' di uffici dipendenti da diverse aziende, escluse quelle dipendenti dallo stesso ministero, aventi sede nella medesima regione, sono recepiti con decreto del commissario del Governo e, ove ritenuto necessario, con decreto del Presidente del Consiglio dei Ministri.
+
+## - TITOLO II ORARIO E ORGANIZZAZIONE DEL LAVORO
+
+## Art. 6. — Riduzione dell'orario di lavoro settimanale
+
+La durata dell'orario di lavoro settimanale del personale di cui all'art. 1 viene ridotta di un massimo di due ore, in modo da non essere in ogni caso inferiore alle 36 ore settimanali.
+
+La riduzione della prima delle predette due ore avra' luogo dal primo giorno del mese successivo alla data di entrata in vigore del presente decreto; la riduzione della seconda eventuale ora a partire dal 31 dicembre 1987.
+
+Esclusa ogni forma di tolleranza in merito alla durata complessiva dell'orario di lavoro, si fara' ricorso a controlli anche di tipo automatico nonche' saltuari.
+
+Le aziende procederanno, sentite le organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto ed in relazione alle linee della organizzazione del lavoro, conseguente alla riduzione dell'orario ad armonizzare l'utilizzo delle risorse umane in modo che la riduzione sopra indicata non comporti nuovi oneri per ricorso a lavoro straordinario.
+
+## Art. 7. — Programmazione dell'orario di servizio ed articolazione dell'orario di lavoro
+
+La programmazione dell'orario di servizio e l'articolazione dell'orario di lavoro saranno regolamentate, in sede di accordi decentrati territoriali secondo i seguenti criteri:
+ rispetto dell'orario massimo giornaliero stabilito per legge;
+ migliore efficienza e produttivita' dell'azienda;
+ piu' efficace erogazione dei servizi a favore dei cittadini;
+ rispetto dei carichi di lavoro;
+ ampliamento dell'arco temporale della fruibilita' dei servizi con il ricorso preferenziale ad articolazioni degli orari connesse alla natura delle prestazioni ed alle caratteristiche funzionali dei servizi che possono richiedere orari diversi e anche piu' prolungati.
+
+L'orario settimanale di lavoro, distribuito a seconda delle aziende e settori su sei o cinque giornate lavorative, puo' essere articolato in termini di flessibilita' e turnazione anche ai fini di una maggiore apertura temporale che si estendera', a titolo di riferimento, fino alle ore 18.
+
+Il suddetto orario potra' essere anticipato o posticipato per alcuni settori da individuare nella contrattazione decentrata, sulla base di riscontri obiettivi dell'effettiva esigenza dell'utenza.
+
+Saranno definite le attivita' a ciclo continuo e quelle che si protraggono fino o oltre le 18.
+
+Le prestazioni per turno saranno opportunamente programmate.
+
+In sede di accordi decentrati per unita' organiche, cosi' come definite nel comma 2 del precedente articolo 5, saranno altresi' individuate le modalita' di completamento dell'orario in relazione ai periodi di presenza in servizio contemporanea di tutto il personale, eccetto quello impegnato in turnazione.
+
+Gli istituti riguardanti la flessibilita' dell'orario di lavoro e la turnazione possono anche coesistere.
+
+## Art. 8. — Orari di lavoro plurisettimanali
+
+In relazione a necessita' esattamente prevedibili quali scadenze legislative, amministrative e produttive che comportino maggiori carichi di lavoro, e' consentita, in sede di accordi decentrati nazionali e territoriali e previa identificazione delle attivita' interessate e dei criteri, da operarsi in sede di accordi aziendali, la programmazione plurisettimanale dell'orario di lavoro, purche' sia assicurata la presenza quotidiana in servizio contemporaneamente per il nucleo centrale dell'orario di lavoro che e' di 4 ore, di tutte le unita' addette ad ogni singolo ufficio, servizio o struttura operativa.
+
+Tale programmazione, fatti salvi i limiti fissati per legge, sara' materia di contrattazione decentrata nelle singole aziende o settori.
+
+## Art. 9. — Orario flessibile
+
+In sede di negoziazione decentrata saranno determinate le articolazioni dell'orario flessibile secondo i seguenti criteri e limiti.
+
+L'orario flessibile consiste nell'anticipare o posticipare l'orario di inizio del lavoro ovvero nell'anticipare o posticipare l'orario di uscita o nell'avvalersi di entrambe le facolta' assicurando, pero' al nucleo centrale dell'orario la contemporanea presenza di tutto il personale addetto alla medesima unita' organica.
+
+La sua adozione presuppone una analisi delle caratteristiche dell'attivita' svolta dall'unita' organica interessata a giovarsene e dei riflessi che una modifica dell'orario di lavoro provoca o puo' provocare nei confronti dell'organizzazione produttiva e 4 dell'utenza, ovvero sui rapporti con altre unita' organiche funzionalmente ad esse collegate, nonche' delle caratteristiche del territorio in cui l'ufficio e' collocato.
+
+Di norma tutto il personale deve trovarsi contemporaneamente in servizio tra le ore 9 e le ore 13, salvo quello impegnato nelle turnazioni.
+
+L'introduzione dell'orario flessibile e' consentita a condizione che negli uffici siano possibili obiettivi e rigorosi controlli, anche di tipo automatico, sulle presenze in servizio del personale.
+
+In sede di negoziazione decentrata, al fine di escludere dai turni di flessibilita', saranno definite le aliquote di personale addetto ai servizi strumentali e di base (custodi, addetti agli archivi correnti, centralinisti, addetti alle macchine e simili) collegato funzionalmente, con carattere di indispensabilita', con l'attivita' complessiva della o delle unita' organiche interessate all'orario flessibile.
+
+I periodi di completamento dell'orario dovranno essere programmati con modalita' da individuarsi nella contrattazione nazionale di azienda o settore.
+
+Qualora per esigenze di servizio si debba prestare attivita', anche al di fuori della sede di ufficio, secondo orari imposti dalla tipologia lavorativa, oltre l'orario ordinario giornaliero, il lavoratore ha diritto al recupero delle ore eccedenti.
+
+Tale recupero puo' avvenire anche con la concessione di giorni di riposo compensativo corrispondente al numero delle ore eccedenti.
+
+L'orario flessibile, in alcuni casi specifici, puo' riguardare tutto il personale di una unita' organica. Puo' essere attuato su singoli gruppi di dipendenti nei casi in cui sia necessario intervenire soltanto su alcuni aspetti della organizzazione del lavoro.
+
+## Art. 10. — Turni di lavoro
+
+Qualora l'orario ordinario e l'orario flessibile non riescano ad assicurare l'effettuazione di determinate lavorazioni ovvero lo svolgimento di attivita' particolarmente articolate o diluite nel tempo o che per essere concluse devono attenersi a tempi tecnici non comprimibili o modificabili, l'organizzazione del lavoro puo' essere articolata su due o piu' turni.
+
+## Art. 11. — Permessi e ritardi
+
+Al dipendente possono essere concessi, per particolari esigenze personali, ed a domanda, brevi permessi di durata non superiore alla meta' dell'orario giornaliero.
+
+Eventuali impreviste protrazioni della durata del permesso concesso vanno calcolate nel monte ore complessivo.
+
+Entro il mese successivo a quello della fruizione del permesso, il dipendente e' tenuto a recuperare le ore non lavorate in una o piu' soluzioni in relazione alle esigenze di servizio.
+
+Nei casi in cui, per eccezionali motivi, non sia stato possibile effettuare i recuperi, l'amministrazione provvede a trattenere una somma pari alla retribuzione spettante al dipendente per il numero di ore non recuperate.
+
+Gli stessi criteri dovranno essere applicati per i ritardi sull'orario di inizio del servizio.
+
+I permessi complessivamente concessi non possono eccedere 36 ore nel corso dell'anno.
+
+Le ipotesi di recupero devono essere programmate in maniera da essere perfettamente individuabili rispetto ad altri tipi di ritorni per completamento di servizio ovvero per turni.
+
+## - TITOLO III PROFILI PROFESSIONALI, DOTAZIONI ORGANICHE, MOBILITA' E RECLUTAMENTO
+
+## Art. 12. — Profili professionali
+
+Entro trenta giorni dalla data di entrata in vigore del presente decreto dovranno essere avviate per ciascuna azienda ed amministrazione autonoma le procedure per definire, ove non ancora provveduto, i profili professionali secondo le previsioni e le modalita' di cui all'articolo 18 della legge 29 marzo 1983, n. 93.
+Dette procedure dovranno essere concluse entro il 31 dicembre 1987.
+
+In relazione alle esigenze derivanti da variazioni all'organizzazione del lavoro o alle competenze dell'amministrazione, da innovazioni tecnologiche, ovvero da ampliamento di servizi, i profili professionali ed i relativi contenuti possono essere modificati nell'ambito delle declaratorie di legge delle rispettive qualifiche funzionali o categorie o equipollenti.
+
+Nell'ambito degli accordi decentrati di cui al precedente titolo I potranno essere evidenziate proposte di modifica, istituzione o soppressione di profili professionali.
+
+Le singole aziende individuano, d'intesa con le organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto, anche sulla scorta delle proposte di cui al precedente comma, i profili professionali da istituire, modificare o sopprimere, formulando le relative proposte al Dipartimento della funzione pubblica per l'attivazione della procedura prevista dall'art. 6 della legge 29 marzo 1983, n. 93.
+
+Nella stessa sede si fara' luogo, ove necessario, alla revisione delle modalita' di accesso ai singoli profili e dei requisiti necessari.
+
+E' fatto salvo comunque quanto previsto dalla normativa speciale vigente, nelle materie del presente articolo, per le singole aziende ed amministrazioni autonome.
+
+## Art. 13. — Dotazioni organiche
+
+Le aziende forniscono alle organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto entro il 30 aprile di ciascun anno, informazioni attinenti in particolare alle dotazioni organiche ed al personale in servizio con le piu' opportune disaggregazioni caratteristiche quali: personale di ruolo e non, livello retributivo, profili e qualifiche funzionali, sesso, eta' ed anzianita' di servizio, tasso di assenteismo annuo, quantita' di ore straordinarie prestate nell'anno precedente.
+
+Le aziende forniscono informazioni in loro possesso sui servizi erogati e sulle caratteristiche dei fruitori degli stessi.
+
+Le informazioni di cui sopra costituiscono supporto per la verifica e definizione dei flussi di attivita' e degli organici, o per le modifiche dei misuratori delle prestazioni lavorative previsti a tal fine nelle diverse aziende.
+
+Al fine di pervenire ad una razionale organizzazione del lavoro in ciascuna azienda, si provvede alla verifica e determinazione delle dotazioni organiche degli uffici delle stesse sulla base del fabbisogno funzionale.
+
+Al riguardo, le singole aziende d'intesa con le organizzazioni sindacali di cui all'art. 4 procedono a definire i criteri necessari alla realizzazione di indagini campionarie, per rilevare i tempi operativi delle diverse attivita' degli uffici compresi nel campione, standards di attivita' e parametri volti a misurarne i carichi di lavoro.
+
+Le indagini prendono a riferimento un numero limitato di uffici di similari valenze, ubicati nelle diverse aree geografiche del Paese e svolgenti funzioni omogenee costituenti un campione sufficientemente rappresentativo, in relazione anche alla dimensione dell'ufficio e ai flussi di lavoro.
+
+I risultati dell'indagine sono riassunti a livello centrale dell'azienda e costituiscono la base per la determinazione - da attuare mediante accordi decentrati per unita' organica di livello provinciale o di uffici, istituti o servizi di particolare rilevanza o stabilimenti di notevole complessita' non riconducibili alla circoscrizione provinciale purche' diretti da personale con qualifica dirigenziale - dei tempi e dei carichi funzionali di lavoro.
+
+Per la formulazione di proposte per la determinazione degli organici, da portare al medesimo livello di negoziazione decentrata nazionale di azienda o settore e decentrata territoriale indicata nel comma 7, si terra' conto anche delle situazioni specifiche dei singoli uffici, strutture operative o stabilimenti, nonche' delle diverse figure professionali impegnate, delle figure professionali addette a servizi indivisibili, delle eventuali necessita' di professionalita' nuove, degli eventuali processi di ristrutturazione delle attivita' degli uffici, delle eventuali iniziative volte ad offrire nuovi servizi all'utenza, degli effetti del turn-over sulle effettive presenze degli addetti, della programmazione dell'orario di servizio e di apertura al pubblico e di quant'altro ritenuto utile al fine di pervenire ad una appropriata definizione delle necessita' organiche degli stessi.
+
+I commi 5 e seguenti non si applicano alle aziende e settori che hanno istituito strumenti e procedure per la determinazione e verifica delle dotazioni organiche.
+
+## Art. 14. — Mobilita'
+
+Alla copertura dei posti che a seguito della rideterminazione delle dotazioni organiche in applicazione dei precedenti articoli, risultino disponibili in ogni singolo ufficio e di quelli resisi vacanti nell'anno di effettuazione della verifica, si provvede con processi di mobilita' del personale con l'osservanza delle modalita' previste dai successivi articoli 15, 16 e 17, concernenti rispettivamente la mobilita' all'interno della singola azienda, quella di comparto e quella derivante dal piano di riequilibrio territoriale.
+
+## Art. 15. — Mobilita' all'interno della singola azienda o settore
+
+Le aziende o settori dopo averla verificata in sede di accordo decentrato per azienda a livello centrale e territoriale, porteranno a conoscenza del personale la situazione delle vacanze dei posti di ogni singolo ufficio, distinti per profilo professionale e relativa qualifica funzionale, al fine di mettere in grado il personale interessato di produrre domanda di trasferimento.
+
+Gli avvisi di disponibilita' dei posti sono pubblicati nel Bollettino ufficiale o altri atti amministrativi, almeno una volta all'anno.
+
+Le aziende o settori provvedono a concordare con le organizzazioni sindacali tempi e modi per l'attuazione dei trasferimenti.
+
+In sede di contrattazione decentrata per azienda a livello centrale sono definiti i criteri ed i punteggi da attribuire a ciascuno dei suddetti requisiti, che saranno recepiti con decreto del Ministro competente da pubblicarsi nel Bollettino ufficiale, o con altri atti amministrativi.
+
+## Art. 16. — Mobilita' di comparto
+
+Le aziende o i settori del comparto, dopo l'attuazione di tutte le norme previste dall'art. 6 del decreto del Presidente della Repubblica n. 13/86, forniranno, ad un'apposita commissione centrale che si costituira' presso il Dipartimento della funzione pubblica con le organizzazioni sindacali di cui all'art. 4, i dati relativi alle vacanze ed esuberi esistenti suddivisi per profilo professionale e per territorio. La commissione, sulla base dei dati forniti, accertera' la possibilita' di attuare la mobilita' di comparto.
+
+Le aziende, mediante bandi di disponibilita', da pubblicizzare mediante inserzione nella Gazzetta Ufficiale della Repubblica ed attraverso mezzi di informazione di massa indicono concorsi per la copertura dei posti vacanti da attuarsi mediante trasferimenti di personale in servizio in uffici di altre aziende, le cui dotazioni organiche siano risultate sovradimensionate rispetto ai fabbisogni funzionali, e che non abbia trovato collocazione negli uffici dell'azienda di appartenenza con i procedimenti di mobilita' interna e sempre che gli interessati appartengano al profilo professionale dei posti da conferire.
+
+Per la formazione della graduatoria si applicano i criteri previsti dalle aziende riceventi per la mobilita' interna.
+
+Il dipendente, trasferito ad altra azienda, e' inserito nell'organico nel posto che gli compete, secondo la data di nomina alla qualifica gia' ricoperta e con la relativa anzianita' di qualifica rivestita.
+
+## Art. 17. — Riequilibrio territoriale
+
+Al fine di accelerare e sostenere le scelte del riequilibrio territoriale delle piante organiche, a livello di contrattazione nazionale aziendale, e' definito un apposito piano con l'obiettivo di:
+ attivare flussi incentivati e Volontari di lavoratori occupati in unita' operative delle regioni con esuberi, verso unita' operative con carenze organiche;
+ incentivare l'insediamento duraturo per il personale in servizio e per i nuovi assunti quando vi siano evidenti carenze di personale.
+
+## Art. 18. — Reclutamento
+
+I posti che si rendano disponibili in seguito a cessazioni dal servizio, a seguito di aumenti di organici, a ristrutturazioni delle attivita' degli uffici ed a nuovi servizi offerti ai cittadini, sono messi a concorso secondo i rispettivi ordinamenti.
+
+I concorsi articolati per compartimento, regione, zona e/o provincia sono banditi per profilo professionale o per qualifica e, ove e' possibile, per gruppi di aziende.
+
+Per la copertura dei posti disponibili si provvedera' anche utilizzando le graduatorie di idonei dei concorsi conclusi nel triennio precedente.
+
+I titoli acquisiti durante il servizio prestato in posizione di fuori ruolo o comando presso altre amministrazioni pubbliche sono valutabili nei concorsi interni per passaggi di livello retributivo o categoria.
+
+## - TITOLO IV OCCUPAZIONE
+
+## Art. 19. — Piano occupazionale
+
+Al fine di favorire l'occupazione si procede ad un ridimensionamento delle prestazioni del lavoro straordinario ed alla riconsiderazione di particolari istituti incentivanti le attivita' per una loro graduale programmazione in sede aziendale.
+
+I piani occupazionali, oggetto della politica programmatica del lavoro, coordinati dal Dipartimento della funzione pubblica, devono realizzare la totale copertura dei posti in organico.
+
+Tali piani, nel rispetto del presente decreto, saranno formulati in sede aziendale previo confronto con le organizzazioni sindacali di cui al precedente art. 4 e sulla base delle informazioni preventivamente fornite. Essi terranno conto del "turn-over", della revisione degli assegni, della introduzione e diffusione del "part-time", della estensione dei servizi all'utenza e delle modificazioni dell'organizzazione del lavoro e saranno inviati al Dipartimento della funzione pubblica entro il 30 settembre di ogni anno.
+
+Entro il 30 aprile di ciascun anno le parti verificheranno lo stato di attuazione del piano occupazionale triennale predisposto dal Governo per la parte relativa allo specifico aziendale e concorderanno i tempi e le modalita' per avviare le procedure in precedenza indicate al fine di consentire al Dipartimento della funzione pubblica la formulazione, entro il termine previsto al comma precedente, delle variazioni annuali al suddetto piano.
+
+## Art. 20. — Progetti finalizzati occupazionali
+
+Le aziende, di intesa con le organizzazioni sindacali di cui all'art. 4, predispongono progetti speciali occupazionali finalizzati agli obiettivi previsti dal primo comma dell'art. 3 del decreto del Presidente della Repubblica n. 13/1986.
+
+I progetti occupazionali prevedono gli obiettivi da conseguire, le professionalita' occorrenti distinte per profilo professionale, la quantita' di ore necessarie per la realizzazione del progetto occupazionale nonche' il tipo di contratto utilizzato per l'assunzione.
+
+Tali progetti sono trasmessi al Dipartimento della funzione pubblica entro il 30 settembre di ciascun anno e costituiranno unitamente ai piani previsti al precedente art. 19, le indicazioni richieste dall'art. 2 del decreto del Presidente della Repubblica n. 13/1986 per la predisposizione del piano occupazionale da parte del Governo.
+
+Per il trattamento economico del personale utilizzato si fa riferimento al disposto di cui al quarto comma dell'art. 3 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13.
+
+## - TITOLO V TUTELA DEI LAVORATORI
+
+## Art. 21. — Pari opportunita'
+
+Le informazioni previste dal presente decreto e quelle richieste dall'osservatorio del lavoro sono elaborate e formulate in modo da consentire una corretta valutazione delle condizioni e della dinamica quantitativa e qualitativa del lavoro femminile.
+
+Le modalita' di applicazione degli istituti regolamentati dal presente decreto e dagli accordi decentrati devono essere tali da eliminare oggettive disparita' di opportunita' fra uomo e donna; particolare attenzione va posta agli effetti che l'introduzione di nuove tecnologie e le modifiche dell'organizzazione del lavoro possono produrre nella collocazione professionale e sulla salute della donna, specie per particolari periodi (gestazione, puerperio, etc.).
+
+Pertanto per attivare misure e meccanismi tesi a consentire una reale parita' tra uomini e donne all'interno del comparto delle aziende sono definiti, con la contrattazione decentrata a livello nazionale specifici interventi che si concretizzino in vere e proprie "azioni positive" a favore delle lavoratrici.
+
+In sede di contrattazione decentrata nazionale potra' essere prevista la costituzione presso ogni azienda o settore di apposito comitato garante di parita' che ha il compito di proporre misure adatte a creare effettive condizioni di reale opportunita' e relazionare almeno una volta all'anno sulle condizioni oggettive in cui si trovano le lavoratrici rispetto alle attribuzioni, alle mansioni, alla partecipazione ai corsi di formazione e aggiornamento, ai nuovi ingressi, al rispetto dell'applicazione della normativa per la prevenzione degli infortuni e delle malattie professionali, alla promozione di misure idonee a tutelarne la salute in relazione alle peculiarita' psicofisiche ed alla prevedibilita' di rischi specifici per le donne, con particolare attenzione alle situazioni di lavoro che rappresentino rischi che possano compromettere una eventuale maternita' e la salute delle gestanti.
+
+## Art. 22. — Tutela della salute
+
+Le rappresentanze sindacali, con modalita' da determinarsi a livello decentrato, possono controllare l'applicazione delle norme per la prevenzione degli infortuni e delle malattie professionali, nonche' promuovere la ricerca, l'elaborazione e l'attuazione di tutte le misure idonee a tutelare la salute e l'integrita' fisica del personale.
+
+## Art. 23. — Visite mediche di controllo
+
+Fermo restando quanto previsto dall'art. 6 della legge 23 dicembre 1978, n. 833, le visite mediche di controllo sulle assenze dal servizio per malattia del personale sono espletate dalle unita' sanitarie locali alle quali spetta la competenza esclusiva di tale accertamento.
+
+Al fine di garantire la riservatezza della diagnosi, la certificazione e' portata a conoscenza dell'amministrazione di appartenenza nella parte in cui e' contenuta la sola prognosi.
+
+Il dipendente che fa domanda di riconoscimento della infermita' come dipendente da causa di servizio, deve dichiarare che la malattia che ha determinato la infermita' e' insorta nei sei mesi precedenti la data della domanda. A tal fine correda la stessa di idonea documentazione.
+
+## Art. 24. — Accertamenti in materia di sicurezza, di igiene e salubrita' del
+ lavoro
+
+Le unita' sanitarie locali hanno competenza in materia di visite preventive e di controlli periodici connessi con attivita' esposte a rischio ed in particolare in presenza di rischi derivanti dall'uso continuativo di video terminali, come dispone la vigente normativa CEE.
+
+Le unita' sanitarie locali e gli altri organismi pubblici a cio' preposti dalle vigenti disposizioni di legge hanno competenza in materia di collaudi e di verifiche periodiche di macchinari, impianti e strutture delle aziende.
+
+## Art. 25. — Libretto sanitario
+
+E' istituito il libretto personale sanitario per garantire ai lavoratori, che operano in ambienti insalubri, visite mediche periodiche a scopo preventivo, secondo le modalita' previste in materia per il personale dei vigili del fuoco dall'art. 13 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210.
+
+## Art. 26. — Mutamento di mansioni per inidoneita' fisica
+
+Fatte salve le eventuali normative piu' favorevoli esistenti nei confronti del dipendente riconosciuto fisicamente inidoneo in via permanente allo svolgimento delle mansioni del proprio profilo professionale, l'azienda non potra' procedere alla dispensa dal servizio per inidoneita' fisica prima di aver esperito ogni utile tentativo, compatibilmente con le strutture organizzative dei vari settori e con le disponibilita' organiche delle amministrazioni del comparto, per recuperarlo al servizio attivo, in mansioni diverse ma affini a quelle proprie del profilo rivestito, appartenente alla stessa qualifica funzionale o, ove in essa non esistano posti disponibili a qualifica funzionale inferiore.
+
+Dal momento del nuovo inquadramento il dipendente seguira' la dinamica retributiva della nuova qualifica funzionale senza alcun riassorbimento del trattamento gia' in godimento.
+
+## - TITOLO VI RELAZIONI SINDACALI
+
+## Art. 27. — Informazione
+
+Nel rispetto delle competenze proprie degli organi istituzionali ed al fine di ricercare ogni utile contributo di partecipazione al miglioramento dell'organizzazione del lavoro ed alla efficienza dei servizi, il Dipartimento della funzione pubblica e le singole aziende assicurano rispettivamente alle organizzazioni sindacali firmatarie dell'accordo recepito nel presente decreto e alle organizzazioni sindacali titolari della contrattazione decentrata, una preventiva costante e tempestiva informazione, anche a livello di strutture periferiche, fatti salvi i casi di riservatezza previsti dalla legge, sugli atti e provvedimenti di carattere generale che riguardano il personale, l'organizzazione del lavoro e il funzionamento dei servizi.
+
+L'informazione sulle innovazioni tecnologiche che si intendono introdurre e sui programmi degli investimenti avviene solo a livello aziendale.
+
+Sulle materie che precedono gli organi competenti delle singole aziende informano le organizzazioni sindacali nazionali di settore attraverso riunioni a carattere semestrale sugli indirizzi di fondo e sui principi ispiratori della loro attivita'.
+
+Con pari periodicita' sono fornite le informazioni alle organizzazioni sindacali titolari della contrattazione decentrata a livello territoriale.
+
+## Art. 28. — Tutela dei dipendenti dirigenti sindacali
+
+Il trasferimento di sede od ufficio dei dirigenti sindacali, componenti di organi statutari delle organizzazioni sindacali, puo' essere disposto solo previo nulla osta delle organizzazioni sindacali di appartenenza, salvo i casi di incompatibilita' e di passaggio di categoria o qualifica.
+
+Le disposizioni di cui al comma 1 si applicano fino alla fine dell'anno successivo alla data di cessazione dell'incarico sindacale.
+
+## Art. 29. — Garanzia di libero accesso sul posto di lavoro
+
+E' garantito alle rappresentanze sindacali il libero accesso nei singoli posti di lavoro.
+
+Le forme di attuazione di detta garanzia sono stabilite in sede di accordo decentrato aziendale.
+
+## Art. 30. — Locali per le rappresentanze sindacali
+
+Fermo restando quanto disposto dall'art. 49, secondo comma della legge 18 marzo 1968, n. 249, e le situazioni piu' favorevoli esistenti, in ciascuna unita' amministrativa con almeno cento dipendenti e' consentito, alle organizzazioni sindacali maggiormente rappresentative, per l'esercizio delle loro funzioni, l'uso di un idoneo locale, se disponibile, all'interno della struttura.
+
+Nelle unita' amministrative con un numero inferiore di dipendenti le organizzazioni sindacali maggiormente rappresentative hanno diritto ad usufruire, ove ne facciano richiesta, di un locale idoneo per le loro riunioni nell'ambito della struttura.
+
+## Art. 31. — Attivita' culturali ricreative ed assistenziali
+
+Le attivita' culturali, ricreative ed assistenziali, promosse nelle aziende o settori od unita' amministrative, sono gestite da organismi formati a maggioranza dai rappresentanti dei lavoratori in conformita' di quanto disposto dall'articolo 11 della legge 20 maggio 1970, n. 300.
+
+Per l'attuazione delle predette attivita' le aziende o settori possono iscrivere in bilancio appositi stanziamenti.
+
+## Art. 32. — Diritto di affissione
+
+Le organizzazioni sindacali dei dipendenti hanno diritto di affiggere, in appositi spazi che l'amministrazione ha l'obbligo di predisporre in luoghi accessibili a tutti i lavoratori all'interno dell'unita' amministrativa, pubblicazioni, testi e comunicati inerenti a materie di interesse sindacale e del lavoro.
+
+## Art. 33. — Garanzie nelle procedure disciplinari
+
+Nei procedimenti dinanzi alle commissioni di disciplina deve essere garantito ai dipendenti l'esercizio del diritto di difesa con l'assistenza, se richiesta dall'interessato, di un legale o di un rappresentante sindacale.
+
+## Art. 34. — (( Patronato sindacale ))
+
+((
+
+I lavoratori in attivita' o in quiescenza possono farsi rappresentare dal sindacato o dall'istituto di patronato sindacale per l'espletamento delle procedure riguardanti prestazioni assistenziali e previdenziali, davanti ai competenti organi dell'azienda di appartenenza.
+
+2. Gli addetti agli stessi istituti hanno diritto d'accesso nei luoghi di lavoro, anche in relazione alla tutela dell'igiene e della sicurezza del lavoro ed alla medicina preventiva, come previsto dal decreto legislativo del Capo provvisorio dello Stato 29 luglio 1947, n. 804 ))
+
+## Art. 35. — Referendum
+
+L'amministrazione deve consentire lo svolgimento, fuori dell'orario di lavoro, di "referendum", sia generali che per categoria, su materie inerenti all'attivita' sindacale, indetti dalle organizzazioni sindacali tra i lavoratori, con diritto di partecipazione di tutti i dipendenti appartenenti all'unita' produttiva ed alla categoria particolarmente interessata.
+
+## Art. 36. — Assemblea
+
+Il personale ha diritto di partecipare alle assemblee sindacali per dieci ore annue pro-capite senza decurtazione della retribuzione.
+
+## Art. 37. — Formazione
+
+La formazione, l'addestramento e l'aggiornamento del personale, in relazione alle esigenze di riqualificazione e specializzazione del medesimo connesse ad innovazioni, riforme e strutturazioni ovvero alle esigenze intese ad assicurare un costante adeguamento delle capacita' e delle attitudini del personale per il perseguimento degli obiettivi di efficienza ed economicita' della pubblica amministrazione possono essere attuati, oltre che dalla Scuola superiore della pubblica amministrazione per le piu' elevate professionalita', anche mediante corsi di formazione organizzati direttamente dalle singole aziende in base alla normativa vigente.
+
+In tale ambito saranno definiti appositi piani di aggiornamento permanente con particolare riferimento al personale inquadrato in profili di altra specializzazione tecnico-scientifica.
+
+Interventi specifici sono diretti ad accrescere la professionalita' delle lavoratrici in modo da realizzare una effettiva parita' fra tutti i dipendenti.
+
+Le aziende, di intesa con le organizzazioni sindacali firmatarie dell'accordo recepito dal presente decreto, formulano al Dipartimento della funzione pubblica le relative proposte indicando la natura dei corsi che intendono organizzare, i destinatari degli stessi, la durata e la sede di svolgimento, al fine di acquisire il parere del Consiglio superiore della pubblica amministrazione previsto dall'art. 21 della legge n. 93/83.
+
+I corsi di cui sopra sono espletati durante il normale orario di servizio e concentrati, ove possibile, in sedi delle aziende capoluoghi di provincia. .((3))
+
+-------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n. 335 ( con l'art. 27) ha disposto che "Per l'Amministrazione delle poste e delle telecomunicazioni, per l'Azienda di Stato per i servizi telefonici e per l'Azienda autonoma dei monopoli di Stato, il comma 5 dell'articolo 37 e' sostituito dal seguente: I corsi sono espletati di norma durante l'orario di servizio ordinario, ad eccezione di quelli per i quali la partecipazione comprometta l'effettiva erogazione del servizio al pubblico"
+
+## - TITOLO VIII TRATTAMENTO ECONOMICO
+
+## Art. 38. — Aumento del trattamento economico e nuovi stipendi
+
+Gli aumenti annui di stipendio derivanti dal presente decreto, rispetto allo stipendio base spettante al 31 dicembre 1985 sono riportati azienda per azienda nei prospetti di cui agli articoli che seguono.
+
+## Art. 39. — Aumenti annui al personale poste A.S.S.T.
+
+Gli aumenti annui lordi di stipendio derivanti dal presente decreto sono cosi' determinati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                          Categoria 
+                                    
+                                    
+                                          Dal 1 gennaio 1986 
+                                    
+                                    
+                                        Dal 1 gennaio 1987 (compreso quello del 1986) 
+                                    
+                                    
+                                        Dal 1 gennaio 1988 (compresi quelli del 1986 e 1987) 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        150.000 
+                                    
+                                    
+                                        325.000 
+                                    
+                                    
+                                        500.000 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        255.000 
+                                    
+                                    
+                                        552.500 
+                                    
+                                    
+                                        850.000 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        342.000 
+                                    
+                                    
+                                        741.000 
+                                    
+                                    
+                                        1.140.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        381.000 
+                                    
+                                    
+                                        825.500 
+                                    
+                                    
+                                        1.270.000 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        465.000 
+                                    
+                                    
+                                        1.007.500 
+                                    
+                                    
+                                        1.550.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        522.000 
+                                    
+                                    
+                                        1.131.000 
+                                    
+                                    
+                                        1.740.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        645.000 
+                                    
+                                    
+                                        1.397.500 
+                                    
+                                    
+                                        2.150.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        810.000 
+                                    
+                                    
+                                        1.755.000 
+                                    
+                                    
+                                        2.700.000
+
+La differenza fra l'aumento di L. 1.140.000 attribuito ai dipendenti della terza categoria e quanto sarebbe spettato loro dal confronto fra nuovo e vecchio stipendio base, costituisce retribuzione individuale di anzianita'.
+
+## Art. 40. — Aumenti annui al personale monopoli di Stato
+
+Gli aumenti annui lordi di stipendio derivanti dal presente decreto sono cosi' determinati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                          Livello 
+                                    
+                                    
+                                          Dal 1 gennaio 1986 
+                                    
+                                    
+                                        Dal 1 gennaio 1987 (compreso quello del 1986) 
+                                    
+                                    
+                                        Dal 1 gennaio 1988 (compresi quelli del 1986 e 1987) 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        150.000 
+                                    
+                                    
+                                        325.090 
+                                    
+                                    
+                                        500.000 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        240.000 
+                                    
+                                    
+                                        520.000 
+                                    
+                                    
+                                        800.000 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        342.000 
+                                    
+                                    
+                                        741.000 
+                                    
+                                    
+                                        1.140.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        369.000 
+                                    
+                                    
+                                        799.500 
+                                    
+                                    
+                                        1.230.000 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        444.000 
+                                    
+                                    
+                                        962.000 
+                                    
+                                    
+                                        1.480.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        489.000 
+                                    
+                                    
+                                        1.059.500 
+                                    
+                                    
+                                        1.630.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        645.000 
+                                    
+                                    
+                                        1.397.500 
+                                    
+                                    
+                                        2.150.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        810.000 
+                                    
+                                    
+                                        1.755.000 
+                                    
+                                    
+                                        2.700.000
+
+## Art. 41. — Aumenti annui al personale A.N.A.S.
+
+Gli aumenti annui lordi di stipendio derivanti dal presente decreto sono cosi' determinati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                          Livello 
+                                    
+                                    
+                                          Dal 1 gennaio 1986 
+                                    
+                                    
+                                        Dal 1 gennaio 1987 (compreso quello del 1986) 
+                                    
+                                    
+                                        Dal 1 gennaio 1988 (compresi quelli del 1986 e 1987) 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        150.000 
+                                    
+                                    
+                                        325.000 
+                                    
+                                    
+                                        500.000 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        240.000 
+                                    
+                                    
+                                        520.000 
+                                    
+                                    
+                                        800.000 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        342.000 
+                                    
+                                    
+                                        741.000 
+                                    
+                                    
+                                        1.140.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        375.000 
+                                    
+                                    
+                                        812.500 
+                                    
+                                    
+                                        1.250.000 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        474.000 
+                                    
+                                    
+                                        1.027.000 
+                                    
+                                    
+                                        1.580.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        570.000 
+                                    
+                                    
+                                        1.235.000 
+                                    
+                                    
+                                        1.900.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        645.000 
+                                    
+                                    
+                                        1.397.500 
+                                    
+                                    
+                                        2.150.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        810.000 
+                                    
+                                    
+                                        1.755.000 
+                                    
+                                    
+                                        2.700.000
+
+## Art. 42. — Aumenti annui al personale vigili del fuoco
+
+Gli aumenti annui lordi di stipendio derivanti dal presente decreto sono cosi' determinati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                          Livello 
+                                    
+                                    
+                                          Dal 1 gennaio 1986 
+                                    
+                                    
+                                        Dal 1 gennaio 1987 (compreso quello del 1986) 
+                                    
+                                    
+                                        Dal 1 gennaio 1988 (compresi quelli del 1986 e 1987) 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        150.000 
+                                    
+                                    
+                                        325.000 
+                                    
+                                    
+                                        500.000 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        240.000 
+                                    
+                                    
+                                        520.000 
+                                    
+                                    
+                                        800.000 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        342.000 
+                                    
+                                    
+                                        741.000 
+                                    
+                                    
+                                        1.140.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        390.000 
+                                    
+                                    
+                                        845.000 
+                                    
+                                    
+                                        1.300.000 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        504.000 
+                                    
+                                    
+                                        1.092.000 
+                                    
+                                    
+                                        1.680.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        570.000 
+                                    
+                                    
+                                        1.235.000 
+                                    
+                                    
+                                        1.900.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        645.000 
+                                    
+                                    
+                                        1.397.500 
+                                    
+                                    
+                                        2.150.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        810.000 
+                                    
+                                    
+                                        1.755.000 
+                                    
+                                    
+                                        2.700.000
+
+## Art. 43. — Aumenti annui al personale Cassa depositi e prestiti
+
+Gli aumenti annui lordi di stipendio derivanti dal presente decreto sono cosi' determinati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                          Livello 
+                                    
+                                    
+                                          Dal 1 gennaio 1986 
+                                    
+                                    
+                                        Dal 1 gennaio 1987 (compreso quello del 1986) 
+                                    
+                                    
+                                        Dal 1 gennaio 1988 (compresi quelli del 1986 e 1987) 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        - 
+                                    
+                                    
+                                        - 
+                                    
+                                    
+                                        - 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        - 
+                                    
+                                    
+                                        - 
+                                    
+                                    
+                                        - 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        342.000 
+                                    
+                                    
+                                        741.000 
+                                    
+                                    
+                                        1.140.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        - 
+                                    
+                                    
+                                        - 
+                                    
+                                    
+                                        - 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        465.000 
+                                    
+                                    
+                                        1.007.500 
+                                    
+                                    
+                                        1.550.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        522.000 
+                                    
+                                    
+                                        1.131.000 
+                                    
+                                    
+                                        1.740.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        645.000 
+                                    
+                                    
+                                        1.397.500 
+                                    
+                                    
+                                        2.150.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        810.000 
+                                    
+                                    
+                                        1.755.000 
+                                    
+                                    
+                                        2.700.000
+
+La differenza fra l'aumento di L. 1.140.000 attribuito ai dipendenti del terzo livello e quanto sarebbe spettato loro dal confronto fra nuovo e vecchio stipendio base, costituisce retribuzione individuale di anzianita'.
+
+## Art. 44. — Aumenti annui al personale A.I.M.A.
+
+Gli aumenti annui lordi di stipendio derivanti dal presente decreto sono cosi' determinati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                          Livello 
+                                    
+                                    
+                                          Dal 1 gennaio 1986 
+                                    
+                                    
+                                        Dal 1 gennaio 1987 (compreso quello del 1986) 
+                                    
+                                    
+                                        Dal 1 gennaio 1988 (compresi quelli del 1986 e 1987) 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        150.000 
+                                    
+                                    
+                                        325.000 
+                                    
+                                    
+                                        500.000 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        240.000 
+                                    
+                                    
+                                        520.000 
+                                    
+                                    
+                                        800.000 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        342.000 
+                                    
+                                    
+                                        741.000 
+                                    
+                                    
+                                        1.140.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        369.000 
+                                    
+                                    
+                                        799.500 
+                                    
+                                    
+                                        1.230.000 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        444.000 
+                                    
+                                    
+                                        962.000 
+                                    
+                                    
+                                        1.480.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        489.000 
+                                    
+                                    
+                                        1.059.500 
+                                    
+                                    
+                                        1.630.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        645.000 
+                                    
+                                    
+                                        1.397.500 
+                                    
+                                    
+                                        2.150.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        810.000 
+                                    
+                                    
+                                        1.755.000 
+                                    
+                                    
+                                        2.700.000
+
+## Art. 45. — Stipendio
+
+In conseguenza degli aumenti di cui agli articoli precedenti, a decorrere dal 1 gennaio 1988 i valori stipendiali di cui all'art. 2 dell'accordo del 12 dicembre 1983 concernente il personale delle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni annesso al decreto del Presidente della Repubblica 15 marzo 1984, n. 53, di cui all'art. 2 dell'accordo 9 febbraio 1984 concernente il personale dell'Amministrazione autonoma dei monopoli di Stato annesso al decreto del Presidente della Repubblica 10 aprile 1984, n. 91, di cui all'art. 3 dell'accordo 4 gennaio 1984 concernente il personale dell'Azienda nazionale autonoma delle strade annesso al decreto del Presidente della Repubblica 15 marzo 1984, n. 52, di cui all'art. 2 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210, relativo al personale del Corpo nazionale dei vigili del fuoco, di cui al protocollo d'intesa 1 luglio 1986 relativo al personale della Cassa depositi e prestiti, nonche' all'art. 2 del decreto del Presidente della Repubblica 14 gennaio 1986, n. 211, relativo al personale dell'Azienda di Stato per gli interventi nel mercato agricolo, sono cosi' modificati: 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                        Livello 
+                                    
+                                    
+                                        Nuove tabelle 
+                                    
+                                
+                                
+                                    
+                                        1 
+                                    
+                                    
+                                        3.800.000 
+                                    
+                                
+                                
+                                    
+                                        2 
+                                    
+                                    
+                                        4.400.000 
+                                    
+                                
+                                
+                                    
+                                        3 
+                                    
+                                    
+                                        4.940.000 
+                                    
+                                
+                                
+                                    
+                                        4 
+                                    
+                                    
+                                        5.700.000 
+                                    
+                                
+                                
+                                    
+                                        5 
+                                    
+                                    
+                                        6.480.000 
+                                    
+                                
+                                
+                                    
+                                        6 
+                                    
+                                    
+                                        7.400.000 
+                                    
+                                
+                                
+                                    
+                                        7 
+                                    
+                                    
+                                        8.550.000 
+                                    
+                                
+                                
+                                    
+                                        8 
+                                    
+                                    
+                                        10.400.000
+
+Per gli appartenenti al IV, V e VI livello delle aziende: Poste, A.S.S.T. e Cassa depositi e prestiti lo stipendio annuo e' rispettivamente di L. 5.870.000, 6.650.000 e 7.470.000.
+
+## Art. 46. — Effetti dei nuovi stipendi
+
+I nuovi stipendi, negli importi effettivamente corrisposti in relazione alla attribuzione degli aumenti determinati nel precedente art. 38, hanno effetto sulla tredicesima mensilita', sul trattamento ordinario di quiescenza, normale e privilegiato, sulla indennita' di buonuscita e di licenziamento, sull'assegno alimentare previsto dall'art. 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, o da disposizioni analoghe, sull'equo indennizzo, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresi la ritenuta in conto entrate Tesoro, o altre analoghe, ed i contributi di riscatto, nonche' sulla determinazione degli importi dovuti per indennita' integrativa speciale.
+
+Non hanno effetto invece su altri istituti comportanti compensi ed erogazioni di natura economica, con esclusione quindi di quelli di cui al comma precedente.
+
+## Art. 47. — Retribuzione individuale di anzianita'
+
+Il valore di classi e scatti o di altro elemento economico riferito all'anzianita' di servizio in godimento al 31 dicembre 1986, con l'aggiunta della valutazione economica dei ratei di classe e scatto o di altro elemento economico maturati al 31 dicembre 1986, costituisce la retribuzione individuale di anzianita'. Tale ultima valutazione si effettua con riferimento al trattamento stipendiale, di cui agli specifici articoli dei rispettivi decreti del Presidente della Repubblica, citati per ogni azienda o amministrazione autonoma dello Stato al precedente art. 45, comma 1, nonche' al capo V del titolo XI, del presente decreto.
+
+((
+
+In assenza di rinnovo contrattuale, entro il 30 giugno 1989, che dovra' provvedere in materia di retribuzione di anzianita', ovvero di una regolamentazione in sede intercompartimentale della stessa materia entro la medesima data, la retribuzione individuale di anzianita' di cui al comma 1, verra' incrementata, con decorrenza dal 1 gennaio 1989, della somma corrispondente a ciascun livello retributivo, prevista nell'art. 2, secondo comma, del decreto del Presidente della Repubblica 15 marzo 1984, n. 53, relativo al personale delle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni, senza limite al numero degli aumenti periodici biennali.
+
+Al personale assunto in data successiva al 31 dicembre 1986 le predette somme competono in ragione del numero di mesi trascorsi dalla data di entrata in servizio al 31 dicembre 1988.
+
+4. Nel caso di passaggio da una qualifica funzionale inferiore a quella superiore, l'importo predetto compete in ragione dei mesi trascorsi nella qualifica di provenienza e in quella di un nuovo inquadramento, con riferimento al 31 dicembre 1988 ))
+
+Le classi o scatti o altro elemento economico maturati nel 1987 ed eventualmente corrisposti prima della pubblicazione del presente decreto costituiscono retribuzione di anzianita' per la parte di biennio fino al 31 dicembre 1986, la restante parte viene posta in detrazione degli aumenti contrattuali relativi al 1986.
+
+## Art. 48. — Lavoro straordinario
+
+Il lavoro straordinario non puo' essere utilizzato come fattore ordinario di programmazione del lavoro ed e' consentito solo per esigenze eccezionali, imprevedibili e non programmabili.
+
+Le ore di lavoro straordinario, a richiesta del dipendente, possono essere compensate con ore libere o riposi giornalieri compensativi da fruire nel mese successivo con modalita' che tengano conto dell'organizzazione ed esigenze delle aziende.
+
+Dal 31 dicembre 1987 la misura oraria dei compensi per lavoro straordinario e' determinata maggiorando la misura oraria di lavoro ordinario calcolata convenzionalmente dividendo per 156 i seguenti elementi retributivi:
+ stipendio tabellare base iniziale di livello mensile in vigore;
+ indennita' integrativa speciale (I.I.S.) in godimento nel mese di dicembre dell'anno precedente;
+ rateo di tredicesima mensilita' delle due precedenti voci.
+
+La maggiorazione di cui sopra e' pari al 15% per lavoro straordinario diurno, al 30% per lavoro straordinario prestato nei giorni festivi o in orario notturno ed al 50% per quello prestato in orario notturno festivo.
+
+In concomitanza con l'incremento della tariffa e' proporzionalmente ridotto il numero delle ore di prestazioni straordinarie al fine di contenerne la spesa complessiva ai livelli dell'anno precedente.
+
+Compensi unitari in vigore piu' elevati rispetto a quelli derivanti dal meccanismo di cui sopra sono mantenuti sino al riassorbimento delle differenze.
+
+## Art. 49. — Passaggi di qualifica
+
+Nei passaggi a qualifica di livello superiore conseguiti con decorrenza successivamente al 31 dicembre 1986, oltre al valore del livello di nuovo inquadramento, compete la retribuzione individuale di anzianita' in godimento alla predetta data.
+
+Per i passaggi conseguenti all'applicazione dell'art. 4 della legge n. 312/1980, nonche' per quelli di cui all'art. 2 del decreto-legge n. 283/1981, convertito, con modificazioni, dalla legge n. 432/1981, continua ad applicarsi l'art. 25 della citata legge n. 312/1980.
+
+Il meccanismo di cui al comma 1 non si applica ai passaggi di categoria o qualifica che avvengano ai sensi di disposizioni particolari relative all'introduzione, verificatasi prima del 31 dicembre 1986, di nuovi ordinamenti.
+
+## Art. 50. — (( Conglobamento di una quota dell'indennita' integrativa speciale ))
+
+((
+
+Con decorrenza dal 30 giugno 1988 verra' conglobata nello stipendio iniziale del livello in godimento alla stessa data una quota di indennita' integrativa speciale pari a L. 1.081.000 annue lorde.
+
+Con la medesima decorrenza la misura dell'indennita' integrativa speciale spettante al personale in servizio e' ridotta di L. 1.081.000 annue lorde.
+
+Nei confronti del personale cessato dal servizio con decorrenza successiva al 30 giugno 1988, la misura dell'indennita' integrativa speciale, spettante ai sensi dell'art. 2 della legge 27 maggio 1959, n. 324, e successive modificazioni ed integrazioni, ai titolari di pensione diretta e' ridotta a cura dei competenti enti dell'importo lordo mensile di L. 72.067. Detto importo, nel caso in cui l'indennita' integrativa speciale e' sospesa o non spetta e' portato in detrazione della pensione dovuta all'interessato.
+
+4. Ai titolari di pensione di reversibilita' aventi causa del personale collocato in quiescenza successivamente al 30 giugno 1988 o deceduto in attivita' di servizio a decorrere dalla stessa data, la riduzione dell'importo lordo mensile di L. 72.067 va operata in proporzione dell'aliquota di reversibilita' della pensione spettante, osservando le stesse modalita' di cui al comma 3. Se la pensione di reversibilita' e' attribuita a piu' compartecipi la predetta riduzione va effettuata in proporzione alla quota assegnata a ciascun compartecipe ))
+
+## Art. 51. — Trattamento di quiescenza
+
+Al personale destinatario del presente decreto che cessa dal servizio per raggiunti limiti di anzianita' o di servizio ovvero per decesso o per inabilita' permanente assoluta i nuovi stipendi hanno effetto sul trattamento ordinario di quiescenza, normale e privilegiato, negli importi effettivamente corrisposti alla data di cessazione dal servizio e nelle misure in vigore alla data del 1 gennaio 1987 e 1 gennaio 1988, con decorrenza dalle date medesime.
+
+## Art. 52. — Trattenute per scioperi brevi
+
+Per gli scioperi di durata inferiore alla giornata lavorativa le relative trattenute sulle retribuzioni sono limitate all'effettiva durata della astensione dal lavoro, salvo che l'interruzione non comporti blocco dell'intero ciclo produttivo giornaliero, e comunque in misura non inferiore ad un'ora. In tal caso la trattenuta per ogni ora e' pari alla misura oraria del lavoro straordinario - senza le maggiorazioni - aumentata della quota corrispondente agli emolumenti a qualsiasi titolo dovuti e non validati per la determinazione della tariffa predetta, con esclusione in ogni caso della quota di aggiunta di famiglia.
+
+## Art. 53. — Bilinguismo
+
+Al personale in servizio nella regione autonoma a statuto speciale Valle d'Aosta e' attribuita una indennita' di bilinguismo, collegata alla professionalita', nella stessa misura e con le stesse modalita' previste per il personale in servizio nella regione autonoma a statuto speciale Trentino-Alto Adige.
+
+## - TITOLO IX NONA QUALIFICA FUNZIONALE
+
+## Art. 54. — Nona qualifica funzionale
+
+## Art. 55. — Dotazioni organiche
+
+In sede di prima applicazione del presente decreto, con decreto del Ministro competente, di concerto con il Ministro del tesoro e per la funzione pubblica, sono determinate le dotazioni organiche della nona qualifica funzionale, per ciascuna azienda o settore e per ogni singolo ruolo, in numero pari alla meta' della dotazione organica dell'ottava qualifica funzionale relativamente al personale della ex carriera direttiva alla data di entrata in vigore del presente decreto.
+
+Con lo stesso provvedimento, deve essere dichiarato indisponibile, nelle dotazioni organiche della settima ed ottava qualifica funzionale, ex carriera direttiva, un numero di posti pari, rispettivamente, alla meta' di quelli costituenti la dotazione della nona qualifica funzionale.
+
+Entro sei mesi dalla data di entrata in vigore del presente decreto, nell'ambito delle declaratorie di cui al precedente titolo III ed in relazione alle attivita' di istituto, si provvede, con la procedura dell'art. 12, all'individuazione dei profili professionali e dei relativi contenuti della nuova qualifica funzionale, prevedendo, ove occorra, anche le eventuali variazioni di quelli appartenenti alla settima ed ottava qualifica funzionale.
+
+## Art. 56. — Il presente articolo non e' stato ammesso al "visto" della Corte dei conti
+
+
+
+## Art. 57. — Trattamento economico
+
+Il trattamento economico tabellare del personale appartenente alla nona qualifica funzionale e' di lire dodicimilionitrecentomila.
+
+Per l'anno 1987 e' fissato in L. 11.635.000.
+
+## Art. 58. — Accesso alla nona qualifica
+
+Dopo gli inquadramenti di cui al precedente art. 56, l'accesso alla nona qualifica funzionale avviene, nel limite dei posti vacanti, e con le modalita' indicate nei singoli profili professionali, mediante concorso per esami, riservato al personale appartenente all'ottava e settima qualifica funzionale della ex carriera direttiva in possesso di un'anzianita' di servizio effettivo di almeno tre o cinque anni rispettivamente maturata in profili professionali della stessa area funzionale delle predette qualifiche.
+
+## - TITOLO X FONDO D'INCENTIVAZIONE, VERIFICA, ACCORDO INTERCOMPARTIMENTALE
+
+## Art. 59. — Fondo di incentivazione
+
+In attuazione dell'accordo intercompartimentale (art. 14 del decreto del Presidente della Repubblica 1 febbraio 1986, n. 13) in ciascuna azienda ed amministrazione autonoma del comparto, e' costituito un fondo di incentivazione da utilizzare quale incentivo alla produzione di beni e servizi delle aziende, finanziato con lo 0,80% del monte retribuzioni di ciascuna azienda nonche' con le economie che si verificano sugli stanziamenti dei capitoli per lavoro straordinario; concorrono inoltre al medesimo fondo le economie di gestione, oggettivamente individuate, sui capitoli del personale relativi alle competenze accessorie.
+
+I piani, le metodologie ed i criteri mediante i quali si da' attuazione all'intervento incentivante sono individuati dalle parti nei diversi livelli di contrattazione decentrata.
+
+A livello aziendale si concordano piani di intervento sia a carattere strumentale che di risultato ai sensi dell'art. 12 del decreto del Presidente della Repubblica n. 13/1986.
+
+A tal fine si predispongono progetti volti al recupero di ritardi operativi, all'accelerazione di tempi di produzione delle unita' di beni e servizi nonche' al conseguimento di piu' rapide risposte alle domande degli utenti.
+
+I progetti indicano obiettivi, procedure, modalita' e tempi di esecuzione, personale utilizzato, compensi complessivi ed unitari da corrispondere a risultato conseguito, modalita' di determinazione individuale dei compensi.
+
+Per la predisposizione di tali progetti sono costituiti, azienda per azienda, nuclei tecnici anche con il compito di valutazione e verifica dei risultati dei progetti.
+
+Per progetti di particolare rilievo, si potra' richiedere la collaborazione e/o il parere del Dipartimento della funzione pubblica.
+
+I predetti nuclei sono composti di dieci unita', cinque delle organizzazioni sindacali, cinque delle aziende.
+
+Le organizzazioni sindacali rappresentate sono quelle maggiormente rappresentative in proporzione ai suffragi conseguiti nelle elezioni per i consigli di amministrazione.
+
+Il premio di produttivita' previsto e' corrisposto a risultato accertato, sulla base dei tempi impiegati per la realizzazione del progetto obiettivo, degli incrementi di beni e servizi effettivamente realizzati, delle quantita' di recupero in termini di arretrato nonche' dell'impegno individuale e collettivo, della partecipazione e della capacita' di iniziativa del lavoratore che ha partecipato al progetto.
+
+Oltre a tali progetti di produttivita' sono previste iniziative volte a favorire quelle modifiche alla organizzazione del lavoro che mirino ad una piu' razionale utilizzazione del lavoro, ad una maggiore efficienza, ad una maggiore fruibilita' dei servizi, mediante una piu' larga apertura degli uffici.
+
+La realizzazione dei predetti progetti e' affidata ai diversi livelli di contrattazione decentrata territoriale aziendale.
+
+Al termine della realizzazione del primo ciclo di progetti la parte pubblica d'intesa con le organizzazioni sindacali di azienda o settore e le confederazioni maggiormente rappresentative unitamente ad associazioni di utenti individuate di intesa, effettueranno un bilancio di verifica delle attivita' incentivanti svolte, per evidenziare i risultati positivi o negativi ottenuti e gli eventuali ostacoli incontrati al fine di migliorare le sperimentazioni future di incentivo alla produttivita' e dare cosi' piena attuazione allo spirito ed alla lettera delle intese intercompartimentali tendenti ad accrescere l'efficienza delle attivita' aziendali.((3))
+
+----------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n. 335 ( con l'art. 23) ha disposto che " A decorrere dal 1 ottobre 1990 il fondo di incentivazione di cui all'art. 59 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' incrementato di una quota pari allo 0,65 del monte retributivo relativo all'anno precedente".
+
+## Art. 60. — Verifica
+
+Con cadenza annuale, di regola entro il mese di settembre, le delegazioni stipulanti l'accordo recepito nel presente decreto effettuano una verifica sullo stato di attuazione dell'accordo stesso in ogni sua parte con particolare riferimento alla programmazione del lavoro e degli orari, ai piani di produttivita', ai criteri di incentivazione, al funzionamento ed all'efficacia dei servizi in favore dell'utenza.
+
+Sulla base dei risultati delle predette verifiche le parti possono formulare osservazioni e proposte da allegare alla relazione indicata dall'articolo 16 della legge-quadro sul pubblico impiego 29 marzo 1983, n. 93, o da porre a base di iniziative dirette a rimuovere eventuali ostacoli alla compiuta e tempestiva attuazione delle intese.
+
+## Art. 61. — Accordo intercompartimentale
+
+In attesa della nuova disciplina resta in vigore la normativa attualmente vigente nelle suindicate materie.
+
+## - TITOLO XI SPECIFICITA' DELLE DIVERSE AZIENDE E AMMINISTRAZIONI DELLO STATO AD ORDINAMENTO AUTONOMO. Capo I PERSONALE DELLE POSTE E DELLE TELECOMUNICAZIONI E DELL'AZIENDA DI STATO PER I SERVIZI TELEFONICI
+
+## Art. 62. — Indennita' oraria per il servizio notturno
+
+La misura dell'indennita' oraria di cui all'art. 1 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, e successive modificazioni, e' aumentata di L. 700.
+
+## Art. 63. — Compenso per prestazioni di lavoro nelle giornate festive
+
+Le misure indicate nell'art. 2 del decreto del Presidente della Repubblica 13 dicembre 1980, n. 985, e successive modificazioni, sono aumentate rispettivamente di L. 3.255 e di L. 1.630 quelle indicate nel primo comma e di L. 4.650 e di L. 2.325 quelle indicate nel secondo comma.
+
+## Art. 64. — Indennita' di lingua estera agli interpreti e traduttori
+
+Le misure di cui all'art. 4 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, e successive modificazioni, sono rispettivamente aumentate di L. 310 e di L. 140.
+
+## Art. 65. — Compenso speciale per la conoscenza di lingue estere a particolari categorie di persone
+
+Gli importi di cui all'art. 5 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, e successive modificazioni, sono rispettivamente aumentati di L. 310 e di L. 140.
+
+## Art. 66. — Premio industriale
+
+Le misure del premio industriale di cui all'art. 8 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, e successive modificazioni, sono aumentate come segue:
+ A) AMMINISTRAZIONE DELLE POSTE E DELLE TELECOMUNICAZIONI
+
+----> Parte di provvedimento in formato grafico <----
+
+ NOTE
+ (a) La maggiorazione compete ai vigilanti.
+ (b) La maggiorazione compete, per gli uffici locali:
+ L. 610 ai direttori degli uffici di minore entita';
+ L. 440 ai vice direttori degli uffici di media e rilevante entita' ed ai capi settore;
+ per gli uffici principali:
+ L. 610 ai direttori degli uffici di cui all'allegato D/2 del decreto ministeriale 5 agosto 1982, n. 4584; L. 440 ai capi settore. (c) La maggiorazione compete, per gli uffici locali: L. 1.050 ai direttori degli uffici di media entita'; L. 710 ai vice direttori vicari degli uffici di rilevante entita'; per gli uffici principali:
+ L. 1.050 ai direttori degli uffici di cui all'allegato C del decreto ministeriale 5 agosto 1982, n. 4584;
+ L. 710 ai vice direttori degli uffici di cui all'allegato B del decreto ministeriale 5 agosto 1982, n. 4584, nonche' ai dipendenti di settima categoria dell'esercizio che espletano funzioni di dirigenza, di coordinamento o ispettive previste dai rispettivi profili professionali.
+ (d) La maggiorazione compete, per gli uffici locali:
+ L. 1.550 ai direttori degli uffici di rilevante entita'; per gli uffici principali:
+ L. 1.550 ai direttori degli uffici di cui all'allegato B del decreto ministeriale 5 agosto 1982, n. 4584; ai capi sezione ed ai funzionari della carriera direttiva che espletano funzioni ispettive ovvero funzioni di dirigenza degli uffici di cui all'allegato A del decreto ministeriale 5 agosto 1982, n. 4584;
+ L. 1.020 al personale di ottava categoria dell'esercizio che espleta funzioni di dirigenza, di coordinamento o ispettive previste dai rispettivi profili professionali; ai vice direttori degli uffici di cui all'allegato A del decreto ministeriale 5 agosto 1982, n. 4584 ed ai funzionari della carriera direttiva ((classificati nelle categorie settima e ottava applicati presso gli organi centrali e periferici;
+ e) la maggiorazione compete :L.80 ai controllori, agli aiuto cassieri ed agli aiuto controllori delle cassa provinciali, delle sezioni contabili autonome, del magazzino centrale carte-valori e del magazzino centrale marche assicurative; L. 630 agli sportellisti degli uffici locali e degli uffici principali che effettuano, in modo diretto ed a contatto con il pubblico, per l'intero orario d'obbligo, operazioni con effettivo maneggio di denaro, attinenti ai servizi di cui all'art.100 del codice postale e delle telecomunicazioni;))
+ L. 550 agli sportellisti degli uffici promiscui, agli sportellisti addetti al servizio postalettere e telegrafico con maneggio di denaro.
+ (f) La maggiorazione compete:
+ L. 220 al personale tecnico delle categorie sesta, settima e ottava addetto alla diagnosi, riparazione e manutenzione degli impianti di meccanizzazione, automazione, telex, radio ed ai programmatori nonche' agli addetti con mansioni tecniche, alla progettazione, direzione, assistenza lavori, verifica e collaudi presso gli uffici;
+ L. 220 al personale addetto con carattere di continuita' ed esclusivita' agli impianti di meccanizzazione ed automazione (C.M.P.
+- C.M.P.P. - C.N.E.D. - C.E.D.) nonche' al personale tecnico della quinta categoria;
+ L. 110 al personale addetto ai terminali interattivi con responsabilita' di procedura e di modifica degli archivi, compresi gli addetti ai terminali per pagamenti in tempo reale, agli addetti al marcaggio, agli apparati telescriventi e di commutazione ed accettazione telefonica, ai tecnici di quarta categoria addetti alla manutenzione e riparazione degli apparati postali, telegrafici, radioelettrici e telefonici.
+ (g) La maggiorazione compete anche ai camminatori ed al personale che espleta il servizio promiscuo di procacciato e recapito pacchi ovvero di solo procaccia con guida presso gli uffici locali.
+ (h) La maggiorazione compete al personale applicato in uffici la cui organizzazione e' articolata in almeno due turni e sempreche' la turnazione venga eseguita per almeno 1/3 delle giornate lavorative nel mese.
+
+ B) AZIENDA DI STATO PER I SERVIZI TELEFONICI
+
+----> Parte di provvedimento in formato grafico <----
+
+ NOTE
+ (a) La maggiorazione compete:
+ L. 610 ai dirigenti dei settori operativi nelle sale di commutazione telefonica e nei posti telefonici pubblici;
+ L. 440 al personale con funzioni di dirigenza e di coordinamento dei lavori di piccola manutenzione.
+ (b) La maggiorazione compete:
+ L. 710 al direttore ripartizione uffici interurbani non in sede centro compartimento; al vicario del direttore di uffici interurbani non in sede centro compartimento; al vicario del direttore di stazione telefonica; al dirigente del servizio telefonico nazionale ed internazionale nelle sale di commutazione e nei posti telefonici pubblici; ai capi dei reparti meccanografici;
+ L. 650 al personale che effettua il coordinamento delle attivita' di gruppi di tecnici applicati ad attrezzature complesse; al personale con funzioni di direzione lavori, collaudo di lavori, impianti ed apparati; al personale con funzioni di coordinamento amministrativo-contabile;
+ L. 1.050 al dirigente di stazione telefonica di terza classe; al dirigente di ripartizione di stazione telefonica di prima e seconda classe.
+ (c) La maggiorazione compete:
+ L. 1.020 al direttore di uffici interurbani nelle sedi non centro compartimento; al direttore di ripartizione ed al vicario del direttore di ufficio interurbano nelle sedi di centro compartimento; al dirigente di ufficio di rilevante entita' non a livello di sezione; agli addetti preposti al coordinamento di raggruppamenti o settori di personale di rilevante entita'; al personale con funzioni ispettive previste nei profili professionali del personale di settima categoria direttivi; al direttore di ripartizione di stazioni telefoniche di rilevante entita'; al vicario del direttore di stazioni telefoniche di rilevante entita'; ai funzionari con qualifiche direttive classificati nelle categorie settima e ottava applicati presso gli organi centrali e periferici;
+ L. 1.550 al direttore di stazione telefonica di prima e seconda classe; al dirigente della segreteria delle direzioni centrali; al direttore di ufficio interurbano in sede di compartimento telefonico; al direttore di sezione; al personale con funzioni ispettive escluse quelle di settima categoria sovraindicate.
+ (d) La maggiorazione compete:
+ L. 630 agli addetti ai posti telefonici pubblici che effettuano in modo diretto ed a contatto con il pubblico per l'intero orario d'obbligo operazioni con effettivo maneggio di danaro;
+ L. 550 ai cassieri ed ai controllori, nonche' ai sostituti cassieri e ai sostituti controllori.
+ (e) La maggiorazione compete:
+ L. 110 agli addetti agli apparati telescriventi, alla riproduzione di documenti con utilizzo di macchine, alla conduzione di impianti termici e di refrigerazione, alla utilizzazione di macchine (taglierine, scarbonatrici, ecc.); al coadiuvante delle squadre di manutenzione esterna degli impianti; agli addetti ad apparecchiature video con sistemi elettronici di composizione ed elaborazione testi e prospetti:
+ L. 220 agli addetti ai terminali interattivi con responsabilita' di procedura e di modifica degli archivi; agli addetti al marcaggio, perforazione, microfilmatura, esecuzione disegni, grafici, utilizzo di macchine accessorie e dei terminali nei centri elaborazione dati; agli operatori nelle sale di commutazione telefonica, compresi i posti telefonici pubblici; agli addetti a mansioni di coadiuvanza tecnica nelle stazioni telefoniche, nei laboratori, nelle officine, nei depositi e negli uffici interurbani; agli addetti agli impianti di meccanizzazione di automazione e di elaborazione dati; agli addetti all'esercizio, manutenzione e riparazione degli impianti e attrezzature presso le stazioni telefoniche, i laboratori e le officine; agli addetti alla diagnosi, riparazione e manutenzione degli impianti di apparati di meccanizzazione, di automazione e di elaborazione dati; ai programmatori; agli addetti, con mansioni tecniche, alla progettazione, direzione, assistenza lavori, verifica e collaudi presso gli uffici; agli addetti alla gestione automatizzata e sorveglianza degli impianti della rete telefonica nazionale, alla esecuzione di speciali lavori di installazione e di manutenzione ed alla effettuazione di speciali misure elettriche sugli impianti della rete presso le direzioni centrali tecniche e gli ispettorati telefonici di zona.
+ (f) La maggiorazione compete: anche ai camminatori.
+ (g) La maggiorazione compete: al personale applicato in uffici la cui organizzazione del servizio e' articolata in almeno due turni di lavoro e sempreche' la turnazione venga eseguita per almeno 1/3 delle giornate lavorative nel mese.
+ Le maggiorazioni previste nelle sopra riportate tabelle A) e B): per gli addetti ai servizi di recapito, guida, piccola manutenzione telefonica e per i giuntisti;
+ per coloro che esplicano funzioni di dirigenza, ispettive e di coordinamento tecnico-amministrativo;
+ per gli addetti agli impianti, alle apparecchiature, ai laboratori e alle officine;
+ per gli addetti ai servizi di cassa;
+ per gli addetti ai turni rotativi, non sono cumulabili tra di loro.
+
+Per i criteri di erogazione del premio industriale valgono le disposizioni contenute nell'art. 29 dell'allegato alla legge 11 febbraio 1970, n. 29.
+
+Ne riguardi dei personali il cui orario di lavoro settimanale e' distribuito su cinque giornate, la misura giornaliera del premio industriale e' maggiorata del 20 per cento.
+
+Per le funzioni non espressamente richiamate nel presente articolo, l'equiparazione e' determinata con decreto del Ministero delle poste e delle telecomunicazioni d'intesa con le organizzazioni sindacali maggiormente rappresentative sul piano nazionale e sentito il consiglio di amministrazione.
+
+Le maggiorazioni del premio industriale competono anche per le giornate di permesso sindacale, di cui all'art. 47 della legge 18 marzo 1968, n. 249, entro il numero massimo di quattro mensili.
+
+## Art. 67. — Indennita' per i servizi viaggianti
+
+Al personale di cui all'art. 16 del decreto del Presidente della Repubblica 6 gennaio 1978, n. 919, come modificato dall'art. 6 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, e dall'art. 1 del decreto del Presidente della Repubblica 1 giugno 1983, n. 356, e' concessa, in aggiunta alle vigenti indennita' per i servizi viaggianti, una maggiorazione oraria di L. 150.
+
+## Art. 68. — Indennita' per servizio svolto nelle isole minori
+
+Al personale in servizio nelle isole minori, prive di collegamento giornaliero con la terraferma compatibile con l'orario di ufficio, compete, per ogni giornata di effettivo servizio, una indennita' di L. 4.000.
+
+## Art. 69. — Indennita' speciale
+
+Al personale in servizio presso gli uffici postali ubicati nelle localita' di Gorgona, Pianosa, Mamone e Asinara-Cala d'Oliva, sedi di stabilimento di pena, e' corrisposta, per ogni giornata di effettivo servizio, una speciale indennita' di L. 6.000.
+
+La presente indennita' non e' cumulabile con la precedente di cui all'art. 68.
+
+## Art. 70. — Decorrenza
+
+I miglioramenti previsti dagli articoli da 62 a 66 sono corrisposti dal 1 febbraio 1987.
+
+Le indennita' di cui agli articoli 67, 68 e 69, competono dal primo giorno del mese successivo a quello di entrata in vigore del presente decreto.
+
+## Art. 71. — Compenso annuale di incentivazione
+
+I nuovi stipendi, negli importi effettivamente corrisposti in relazione alla attribuzione degli aumenti di cui al precedente art. 39, hanno effetto sul compenso annuale di incentivazione, di cui alla legge 22 dicembre 1980, n. 873.
+
+## Art. 72. — Indennita' di direzione
+
+Al personale dell'esercizio delle aziende dipendenti dal Ministero delle poste e delle telecomunicazioni, inquadrato nella ottava categoria, che svolga funzioni di direzione di uffici o servizi di particolare rilevanza, compete una indennita' di direzione per ogni giornata di effettiva dirigenza.
+
+La stessa indennita' compete al sostituto del titolare in caso di assenza e quindi di non corresponsione della indennita' a quest'ultimo.
+
+I criteri per la individuazione degli uffici di cui sopra sono stabiliti in sede di accordo decentrato nazionale in modo che i destinatari non superino il 18% delle dotazioni organiche del personale di esercizio di ottava categoria.
+
+La misura di detta indennita' e' fissata in L. 2.500 dal 1 gennaio 1987 e in L. 4.000 dal 1 gennaio 1988.
+
+## Art. 73. — Accordi decentrati
+
+Le materie relative alle lettere b), f), g) ed o) del comma 1 dell'art. 3 del presente decreto restano disciplinate, per le aziende postelegrafoniche, dalle disposizioni recate dalle leggi 3 aprile 1979, n. 101, e 22 dicembre 1981, n. 797.
+
+## Art. 74. — (( Profili professionali
+
+ 1. I commi 2, 3 e 5 dell'art. 12 del presente decreto sono
+ attuati, nell'ambito delle aziende postelegrafoniche, con la procedura prevista dal sesto comma dell'art. 1 delle leggi 3 aprile 1979, n. 101, e 22 dicembre 1981, n. 797 ))
+
+## Art. 75. — Contingenti centrali e regionali
+
+Entro un anno dalla data di entrata in vigore del presente decreto si provvedera' ad istituire i contingenti centrali e regionali del personale dell'esercizio dell'Amministrazione delle poste e delle telecomunicazioni.
+
+Il personale in servizio alla data di istituzione dei predetti contingenti e' inquadrato negli stessi a seconda dell'ufficio di assegnazione.
+
+I concorsi per l'accesso dall'esterno nonche' quelli interni per i passaggi di categoria sono banditi, con riferimento ai singoli contingenti centrali e regionali, con provvedimento dell'amministrazione centrale.
+
+Per gli uffici decentrati con eventuale esubero di personale i concorsi saranno banditi allorquando, assorbito il soprannumero, si renderanno disponibili posti.
+
+I criteri e le modalita' per l'espletamento dei concorsi di accesso dall'esterno e di quelli interni nonche' per la mobilita' interregionale e fra amministrazione centrale e regioni, da regolare ai sensi dell'art. 200 del testo unico n. 3/1957, sono stabiliti in sede di accordo decentrato nazionale.
+
+Per la mobilita' interregionale e fra centro e regioni sono fatte salve, in sede di prima applicazione della disciplina concernente l'istituzione dei contingenti centrali e regionali, le priorita' e le percentuali stabilite, in precedenti accordi nei confronti del personale in servizio alla data di inquadramento nei rispettivi organici.
+
+Per il personale in servizio in uffici aventi sede nella provincia di Bolzano si applicano le disposizioni di cui al decreto del Presidente della Repubblica 26 luglio 1976, n. 752, e successive modificazioni ed integrazioni.
+
+Il contingente della regione Valle d'Aosta e' compreso in quello della regione Piemonte.
+
+## Art. 76. — (( Riserva
+
+ 1. Nei concorsi di accesso alla qualifica di operaio specializzato
+ dell'Amministrazione delle poste e delle telecomunicazioni il 40% dei posti e' riservato agli operai di seconda categoria, assunti in base alle disposizioni vigenti anteriormente alla data di entrata in vigore della legge 3 aprile 1979, n. 101 ))
+
+## Art. 77. — Riposo compensativo
+
+Le aziende dipendenti dal Ministero delle poste e delle telecomunicazioni possono disporre che il servizio eccedente la durata del lavoro ordinario, ad eccezione di quello notturno e di quello eseguito durante le festivita' settimanali o infrasettimanali, sia cumulato e compensato - nei limiti e con le modalita' stabilite con la contrattazione decentrata a livello aziendale e territoriale - nello stesso mese o in quello successivo con l'equivalente numero di giornate di riposo.
+
+## Art. 78. — Intensificazione e abbinamenti
+
+Entro i limiti e con le modalita' che saranno stabilite in sede di contrattazione decentrata a livello aziendale e territoriale, quando le esigenze di servizio lo richiedano, gli impiegati dell'Amministrazione delle poste e delle telecomunicazioni sono tenuti ad eseguire la quota di lavoro riferibile alle unita' assenti dall'ufficio.
+
+## Art. 79. — Compenso di intensificazione
+
+La disposizione recata dalla lettera b) del primo comma dell'art. 12 del decreto del Presidente della Repubblica 15 marzo 1984, n. 53, va intesa nel senso che il compenso di intensificazione in misura di quattro ore spetta anche negli uffici locali di media entita' con punteggio non inferiore a 11.601.
+
+## Art. 80. — Cumulo indennita'
+
+Le disposizioni di cui agli articoli 2 e 5 del decreto del Presidente della Repubblica 11 maggio 1976, n. 269, come modificate rispettivamente con gli articoli 1 e 2 del decreto del Presidente della Repubblica 23 dicembre 1980, n. 985, devono essere intese nel senso che le indennita' previste dalle disposizioni medesime sono cumulabili con le maggiorazioni del compenso per lavoro straordinario stabilite dal terzo comma dell'art. 4 del decreto del Presidente della Repubblica 6 ottobre 1977, n. 1150.
+
+## Art. 81. — Limite del lavoro straordinario
+
+L'art. 3 del decreto del Presidente della Repubblica 6 ottobre 1977, n. 1150, e' sostituito dal seguente:
+ "Art. 3. - Per il personale applicato ad uffici o servizi la cui attivita' richieda ulteriori prestazioni di lavoro straordinario a tempo od a cottimo assolutamente indilazionabili, in eccedenza al limite individuale annuale di 350 ore, sempre che le relative esigenze non possano essere fronteggiate con la mobilita' del personale, sono determinati, per periodi non eccedenti l'anno finanziario, particolari limiti individuali con motivato decreto del Ministro delle poste e delle telecomunicazioni, sentite le organizzazioni sindacali a carattere nazionale maggiormente rappresentative ed il consiglio di amministrazione.
+ Tale decreto, deve indicare, oltre agli uffici o settori interessati, i motivi per i quali le prestazioni stesse sono rese, l'entita' del personale impiegato, il periodo di tempo per il quale viene richiesta l'esecuzione del lavoro straordinario, nonche' l'ammontare della relativa spesa, che deve in ogni caso essere contenuta entro i limiti degli stanziamenti annuali di bilancio determinati ai sensi del precedente art. 2.
+ Al termine di ogni periodo autorizzato, il direttore compartimentale o il capo dell'ispettorato di zona in cui e' ubicato l'ufficio autorizzato ed il direttore centrale competente per materia presentano una circostanziata relazione finale in ordine all'effettivo risultato conseguito che, a cura dell'amministrazione centrale, viene trasmessa al consiglio di amministrazione".
+
+## Art. 82. — (( Personale di vice dirigenza ))
+
+((
+
+Il personale della ottava categoria di esercizio, che da almeno
+ cinque anni alla data del 1 gennaio 1987 diriga uffici o impianti di rilevante importanza ovvero sia addetto ad attivita' di particolare rilevanza tutte ascritte al profilo professionale di vice dirigente di ottava categoria direttiva, e' inquadrato in quest'ultima.
+
+2. Tale inquadramento avviene nel rispetto del limite del 20% dei posti di ottava categoria direttiva riservata al personale della settima e ottava categoria di esercizio ai sensi della normativa vigente ))
+
+## Art. 83. — Concorsi interni
+
+Per i concorsi interni di passaggio di categoria con decorrenza economica successiva al 1 gennaio 1985 trovano applicazione le disposizioni di cui all'art. 9 del decreto del Presidente della Repubblica 15 marzo 1984, n. 53.
+
+## - Capo II PERSONALE DELL'AMMINISTRAZIONE AUTONOMA DEI MONOPOLI DI STATO
+
+## Art. 84. — Premio per l'incremento del rendimento industriale
+
+Dal 1 gennaio 1987, il premio per l'incremento del rendimento industriale di cui alla legge n. 7433 del 3 luglio 1970, ed all'art. 130 della legge n. 312 dell'11 luglio 1980, e' fissato in misura unica per ogni qualifica e/o livello applicando la maggiorazione del 27% alla terza misura di premio rispettivamente prevista nella tabella allegata al decreto del Ministro delle finanze n. 00/157443 del 27 giugno 1984. Le prime due misure del suddetto premio sono soppresse.
+
+Dalla stessa data cessa la corresponsione del compenso di cui all'art. 8 della legge 3 luglio 1970, n. 483, e successive modificazioni ed integrazioni, compreso gli articoli 8 e 9 del decreto del Presidente della Repubblica 10 aprile 1984, n. 91, salvo le competenze maturate al 31 dicembre 1986.
+
+## Art. 85. — Indennita' di funzione
+
+Dal 1 gennaio 1987 al personale che svolge le funzioni di direttore di manifattura, direttore di salina, capo di ispettorato o ufficio e direttore compartimentale coltivazioni tabacchi a livello non dirigenziale, nonche' di dirigente di deposito, capo agenzia, funzionario ai riscontri, dirigente manutenzione impianti, dirigente lavorazioni, direttore magazzino ricambi di Bologna, vice direttore di stabilimento, vice ispettore compartimentale, vice direttore compartimentale coltivazioni, vice del capo della divisione, compete una maggiorazione del 30% della misura del premio rispettivamente spettante per qualifica o funzione.
+
+La corresponsione della medesima e' revocata al cessare della funzione per qualsiasi motivazione.
+
+## Art. 86. — Maneggio valori
+
+Dal 31 dicembre 1987 e' soppresso il soprassoldo per le funzioni di pagatore di cui al decreto del Ministro delle finanze 5 luglio 1928, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 227 del 29 settembre 1928.
+
+Dalla stessa data al personale, che in forza di legge o di provvedimento formale, e' addetto in via continuativa a servizi di cassa che comportino maneggio di denaro o valori nelle forme ammesse a pagamento e' fissata una indennita' mensile di L. 24.000. ((3))
+
+---------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n. 335 (con l'art. 52) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'art. 86 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in L. 29.000."
+
+## Art. 87. — Servizi meccanografici
+
+Con decorrenza dal 31 dicembre 1987, al personale formalmente assegnato ai centri meccanografici ed elettronici ed effettivamente applicato ai relativi apparati, ivi compresi i direttori dei centri, gli analisti ed i programmatori, nei limiti del contingente stabilito con decreto del Ministro, di concerto con il Ministro per il tesoro, compete una indennita' giornaliera di L. 1.200 per le giornate di effettiva presenza.
+
+L'indennita' vigente corrisposta alla medesima data, in applicazione della legge 27 maggio 1959, n. 324, e' soppressa.((3))
+
+----------------
+                            AGGIORNAMENTO (3)
+                            il D.P.R. 4 agosto 1990, n. 335 (con l'art. 51) ha disposto che "Con decorrenza 1 ottobre 1990, l'indennita' di cui all'art. 87 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in L. 1.800 giornaliere"
+
+## Art. 88. — Indennita' di servizio notturno e festivo
+
+Con decorrenza dal 31 dicembre 1987 al dipendente le cui prestazioni di lavoro ordinario inerenti a servizio di istituto, siano effettuate, anche a turno, nelle ore comprese tra le ore 22 e le ore 6 del giorno feriale successivo o in giorno festivo, compete una indennita' oraria pari a L. 1.500.
+
+Le predette indennita' competono in ragione delle ore di servizio effettivamente prestate e non sono cumulabili con i compensi per lavoro straordinario.(( 3 ))
+
+--------------
+                            AGGIORNAMENTO(3)
+                            Il D.P.R. 4 agosto 1990 n. 335 (con l'art. 48) ha disposto che "A decorrere del 1 ottobre 1990, l'indennita' oraria di cui all'art. 88 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in L. 1.800 ".
+
+## Art. 89. — (( Profili professionali
+
+ 1. I commi 2, 3 e 5 dell'art. 12 del presente decreto sono attuati per l'Amministrazione autonoma dei monopoli di Stato con le modalita' previste dall'art. 4 del decreto-legge 6 giugno 1981, n. 283, convertito, con modificazioni, dalla legge 6 agosto 1981, n. 432, e dagli articoli 98, 104, 110 e 111 della legge 11 luglio 1980, n. 312 ))
+
+## Art. 90. — Alte specializzazioni
+
+Il limite di trecentocinquanta unita' indicato al secondo comma dell'art. 3 del decreto del Presidente della Repubblica 10 aprile 1984, n. 91, sara' gradualmente elevato in relazione alle esigenze della nuova organizzazione del lavoro (e con le decorrenze in cui essa verra' attuata nei singoli stabilimenti). In sede di contrattazione decentrata saranno stabiliti criteri di selezione e titoli per l'attribuzione del beneficio di cui al decreto del Presidente della Repubblica predetto.
+
+## - Capo III PERSONALE DELL'AZIENDA NAZIONALE AUTONOMA DELLE STRADE
+
+## Art. 91. — Alloggi di servizio
+
+Il personale addetto alla manutenzione stradale (capi cantonieri, cantonieri, operai e gli addetti al centro di manutenzione) di cui all'art. 16 del decreto del Presidente della Repubblica 11 dicembre 1981, n. 1126, ha diritto di utilizzare a titolo gratuito gli alloggi di servizio esistenti.
+
+Nei casi in cui l'alloggio venga concesso a titolo oneroso ad altro personale dell'Azienda, il relativo canone di concessione, quale determinato dall'U.T.E., ridotto del 60%, e' aggiornato secondo quanto previsto dalle vigenti disposizioni sull'equo canone.
+
+## Art. 92. — Premio di produzione
+
+Il premio di produzione di cui all'art. 13 della legge 4 marzo 1982, n. 65, e all'art. 9 dell'accordo annesso al decreto del Presidente della Repubblica 15 marzo 1984, n. 52, viene rideterminato per ciascun livello nella misura massima mensile qui appresso indicata di lire: 
+ 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                        
+                                            ((Livello))
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((1))
+                                        
+                                    
+                                    
+                                        
+                                            ((80.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((2))
+                                        
+                                    
+                                    
+                                        
+                                            ((90.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((3))
+                                        
+                                    
+                                    
+                                        
+                                            ((95.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((4))
+                                        
+                                    
+                                    
+                                        
+                                            ((115.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((5))
+                                        
+                                    
+                                    
+                                        
+                                            ((120.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((6))
+                                        
+                                    
+                                    
+                                        
+                                            ((130.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((7))
+                                        
+                                    
+                                    
+                                        
+                                            ((170.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((8))
+                                        
+                                    
+                                    
+                                        
+                                            ((190.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((9))
+                                        
+                                    
+                                    
+                                        
+                                            ((2300.000))
+
+In sede di contrattazione decentrata aziendale sono stabiliti i criteri particolari di corresponsione del premio che debbono tener conto della produttivita', della efficienza e delle effettive presenze in servizio del dipendente.
+
+Gli aumenti rispetto alle misure vigenti decorrono dal 1 febbraio 1987.((3))
+
+---------------
+                            AGGIORNAMENTO (3)
+                            
+Il D.P.R. 4 agosto 1990, n.335 ( con l'art. 56) ha disposto che " A decorrere dal 1 ottobre 1990, entreranno in vigore le modofiche 
+apportate alla tabella."
+
+## Art. 93. — Estensione dell'indennita' di rischio
+
+Dal 1 luglio 1987 l'indennita' di rischio di cui al punto 7, gruppo V della tabella A allegata al decreto del Presidente della Repubblica 5 maggio 1975, n. 146, che approva il regolamento di attuazione dell'art. 4 della legge 15 novembre 1973, n. 734, viene estesa al personale dell'A.N.A.S. adibito alla conduzione di automezzi di servizio destinati al trasporto di persone.
+
+La rispondenza fra le categorie di personale aziendale aventi diritto all'indennita' di rischio di cui alla legge sopracitata e le attivita' comportanti rischio da esse prestate e' in ogni caso determinata secondo le modalita' di cui all'art. 8, primo comma, del sopracitato decreto del Presidente della Repubblica 5 maggio 1975, n. 146.
+
+## Art. 94. — Turno
+
+A decorrere dal 31 dicembre 1987, al personale le cui prestazioni di lavoro per la loro natura o per le obiettive esigenze di servizio risultino formalmente ed in via continuativa articolate in turni, compete una indennita' di turno di L. 2.500 e 3.000 rispettivamente per turni pomeridiani, notturni e festivi.
+
+Per ogni mese il numero dei turni non puo' essere superiore a 10.((3))
+
+---------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n.335 (con l'art. 59) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'art. 94 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in L. 2.800 e L. 3.600, rispettivamente per turni pomeridiani, notturni e festivi."
+
+## Art. 95. — Indennita' di servizio notturno e festivo
+
+Con decorrenza dal 31 dicembre 1987 al dipendente le cui prestazioni di lavoro ordinario inerenti a servizio di istituto, siano effettuate, anche a turno, nelle ore comprese tra le ore 22 e le ore 6 del giorno feriale successivo o in giorno festivo, compete una indennita' oraria pari a L. 1.500.
+
+Le predette indennita' competono in ragione delle ore di servizio effettivamente prestate e non sono cumulabili con i compensi per lavoro straordinario.((3))
+
+----------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n.335 (con l'art. 60) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'art. 95 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in L. 1.800."
+
+## Art. 96. — Maneggio valori
+
+Dal 31 dicembre 1987 al personale che, in forza di legge o di provvedimento formale, e' addetto in via continuativa a servizi di cassa che comportino maneggio di denaro o valori nelle forme ammesse a pagamento e' fissata una indennita' mensile di L. 24.000.((3))
+
+-------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n.335 ( con l'art. 61 ) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'art. 96 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in L. 29.000."
+
+## - Capo IV PERSONALE DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
+
+## Art. 97. — Orario di lavoro
+
+Fermo restando quanto stabilito nella parte generale del presente decreto in materia di orario di lavoro, la durata dell'orario di lavoro settimanale del personale del Corpo nazionale dei vigili del fuoco viene ridotta a 36 ore settimanali a decorrere dal 31 dicembre 1987.
+
+Dalla stessa data il numero massimo dei turni di servizio continuativi diurni e notturni effettuabili da ciascun lavoratore nell'arco dell'anno verra' stabilito con la contrattazione decentrata nazionale di settore.
+
+## Art. 98. — Straordinario
+
+Dal 31 dicembre 1987 le prestazioni di lavoro straordinario del Corpo nazionale dei vigili del fuoco, ivi comprese quelle del personale dei ruoli del supporto tecnico, amministrativo-contabile e dei ruoli sanitario e ginnico sportivo, sono autorizzate, annualmente, con decreto del Presidente del Consiglio dei Ministri, di concerto con il Ministro del tesoro, su proposta del Ministro dell'interno, nell'ambito del limite di spesa di 140 ore pro-capite.
+
+Col medesimo provvedimento e' determinata una ulteriore attribuzione annua di 80.000 ore di lavoro straordinario, ai sensi dell'art. 10, quarto comma, del decreto del Presidente della Repubblica n. 210/1984, per fronteggiare situazioni di servizio imprevedibili ed indilazionabili. (6) (7) ((9))
+
+Lo stanziamento di bilancio, da stabilirsi in non oltre il corrispettivo di ore specificato nei commi 1 e 2, e' destinato a fronteggiare ogni prestazione oltre l'orario d'obbligo, fatta eccezione per quelle da rendersi in caso di calamita'.
+
+Ferma restando annualmente la spesa complessiva nel limite dello stanziamento di bilancio, i limiti individuali di prestazioni di lavoro straordinario sono determinati in sede di contrattazione decentrata nazionale.
+
+------------
+                            AGGIORNAMENTO (6)
+                            
+ La L. 10 agosto 2000, n. 246 ha disposto (con l'art. 11, comma 1) che "Per fronteggiare esigenze di servizio imprevedibili ed indilazionabili, l'attribuzione annua di ore di lavoro straordinario prevista dall'articolo 98, comma 2, del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' elevata a 160.000 ore per il 2000 ed a 240.000 ore a decorrere dal 2001." 
+                            ------------
+                            AGGIORNAMENTO (7)
+                            
+ Il D.L. 14 giugno 2019, n. 53, convertito con modificazioni dalla L. 8 agosto 2019, n. 77, nel modificare l'art. 11, comma 1 della L. 10 agosto 2000, n. 246, ha conseguentemente disposto (con l'art. 8-ter, comma 1) che "Per fronteggiare imprevedibili e indilazionabili esigenze di servizio del Corpo nazionale dei vigili del fuoco, l'attribuzione annua di ore di lavoro straordinario prevista dall'articolo 11 della legge 10 agosto 2000, n. 246, e' elevata a 259.890 ore per l'anno 2019 e a 340.000 ore a decorrere dall'anno 2020". 
+                            ------------
+                            AGGIORNAMENTO (9)
+                            
+ Il D.L. 16 luglio 2020, n. 76, convertito con modificazioni dalla L. 11 settembre 2020, n. 120, nel modificare l'art. 11, comma 1 della L. 10 agosto 2000, n. 246, ha conseguentemente disposto: 
+ - (con l'art. 20, comma 3) che "Per fronteggiare imprevedibili e indilazionabili esigenze di servizio, connesse all'attivita' di soccorso tecnico urgente e alle ulteriori attivita' istituzionali del Corpo nazionale dei vigili del fuoco nonche' al correlato addestramento operativo, l'attribuzione annua di ore di lavoro straordinario prevista dall'articolo 11 della legge 10 agosto 2000, n. 246 e dall'articolo 8-ter del decreto-legge 14 giugno 2019, n. 53, convertito con modificazioni dalla legge 8 agosto 2019, n. 77, e' incrementata di 55.060 ore per l'anno 2021 e di 401.900 ore a decorrere dall'anno 2022"; 
+ - (con l'art. 20, comma 15) che "Gli effetti giuridici ed economici di cui al presente articolo decorrono dal 1° gennaio 2020 ed ai fini previdenziali tali incrementi hanno effetto esclusivamente con riferimento ai periodi contributivi maturati a decorrere dalla medesima data".
+
+## Art. 99. — Mobilita'
+
+Con contrattazione decentrata nazionale di settore saranno stabilite le procedure e le modalita' di attuazione della mobilita' per il Corpo nazionale dei vigili del fuoco, in relazione alle particolari esigenze di servizio.
+
+## Art. 100. — Indennita' di rischio
+
+A decorrere dal 1 gennaio 1986 l'indennita' di cui all'art. 8 del decreto del Presidente della Repubblica 10 aprile 1984, n. 210, e' fissata secondo le seguenti misure lorde mensili: 
+ 
+ 
+ 
+ 
+                            
+                                
+                                    
+                                        
+                                            ((Livello))
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((4))
+                                        
+                                    
+                                    
+                                        
+                                            ((L. 310.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((5))
+                                        
+                                    
+                                    
+                                        
+                                            ((L. 360.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((6))
+                                        
+                                    
+                                    
+                                        
+                                            ((L. 450.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((7))
+                                        
+                                    
+                                    
+                                        
+                                            ((L. 540.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((8))
+                                        
+                                    
+                                    
+                                        
+                                            ((L. 580.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((9))
+                                        
+                                    
+                                    
+                                        
+                                            ((L. 630.000))
+                                            ((3))
+
+Le misure delle indennita' predette assorbono tanto la indennita' mensile lorda pensionabile di L. 100.000 quanto la classe convenzionale del 6% del trattamento base in godimento. Per il personale operativo del Corpo l'assorbimento della indennita' mensile lorda di L. 100.000 opera a partire dal 1 luglio 1986.
+
+L'indennita' pensionabile va corrisposta anche sulla tredicesima mensilita' ed e' valutabile agli effetti della determinazione dell'equo indennizzo di cui all'art. 68 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3.
+
+Al personale del supporto tecnico e amministrativo-contabile del Corpo, fermo restando gli inquadramenti attuali nelle qualifiche funzionali, le indennita' di cui sopra competono a decorrere dal 1 gennaio 1986 nella misura del 50% per 12 mensilita' non pensionabili ed assorbono il compenso incentivante in godimento. Per il terzo, secondo e primo livello la misura dell'indennita' mensile e' fissata rispettivamente in L. 100.000, L. 80.000 e L. 60.000. ((3))
+
+Per il personale della nona qualifica funzionale l'indennita' di cui al comma 1 e' fissata in L. 550.000 lorde mensili.
+
+A decorrere dal 1 luglio 1987 la misura delle indennita' e' aumentata di L. 50.000 mensili per ciascun livello. Per il personale del supporto, la misura e' aumentata di L. 25.000 mensili.(2)
+
+Tale miglioramento rimane subordinato al raggiungimento ed all'attuazione degli accordi, necessari per l'introduzione di una nuova organizzazione del lavoro intesa anche a ridurre il numero delle unita' addette ai turni notturni.(2)
+
+----------
+                            AGGIORNAMENTO (2)
+                            
+ La legge 5 Dicembre 1988, n. 521 (con l'art. 26) ha disposto che "I commi 6 e 7 dell'articolo 100 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, vanno interpretati nel senso che gli aumenti previsti dallo stesso comma 6 devono essere corrisposti a decorrere dal 1 luglio 1987, fermo restando l'eventuale recupero delle somme gia' corrisposte, qualora non si verifichino le 
+circostanze cui l'attribuzione e' condizionata dal comma 7." 
+                            -------------
+                            AGGIORNAMENTO (3)
+                            
+il D.P.R. 4 agosto 1990,n.335 ( con l'art. 64) ha disposto che " a decorrere dal 1 ottobre 1990, l'indennita' di cui all'art. 100 vinene 
+rideterminata" 
+Il D.P.R. 4 agosto 1990,n.335 (con lart. 64 ) ha disposto che "a decorrere dal 1 ottobre 1990, per il personale del supporto tecnico e amministrativo-contabile del Corpo le indennita' non pensionabili di cui al comma 4 dell'articolo 100 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, sono rideterminate nelle seguenti misure: 
+ 
+Livello 1 ................................................ L. 90.000 Livello 2 ................................................ L. 110.000 Livello 3 ................................................ L. 130.000 Livello 4 ................................................ L. 180.000 Livello 5 ................................................ L. 210.000 Livello 6 ................................................ L. 250.000 Livello 7 ................................................ L. 310.000 Livello 8 ................................................ L. 330.000 Livello 9 ................................................ L. 360.000 Tale indennita' non compete al personale del supporto tecnico-amministrativo che transita nel ruolo operativo del Corpo."
+
+## Art. 101. — Indennita' notturne e festive
+
+A decorrere dal 31 dicembre 1987 la misura dell'indennita' oraria notturna e festiva spettante al personale del Corpo nazionale dei vigili del fuoco e' di L. 1.500.
+
+Al personale in turno di servizio a Capodanno, Pasqua, 1 maggio, Ferragosto e Natale l'indennita' di cui al comma precedente e' corrisposta in misura doppia. ((3))
+
+-------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990,n.335 ( con l'art. 66)ha disposto che "1. Per il personale del Corpo dei vigili del fuoco, a decorrere dal 1 ottobre 1990 l'indennita' di cui all'art. 101 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' determinata in L. 1.800.
+2. Per il personale in turno di servizio a Capodanno, Pasqua, 1 maggio, Ferragosto e Natale l'indennita' di cui al comma 1 e' di L. 3.600."
+
+## Art. 102. — Utilizzo del fondo di incentivazione
+
+Il fondo di incentivazione di cui all'art. 59 del presente decreto, e' utilizzato per far fronte agli oneri della retribuzione accessoria di cui ai precedenti articoli 100 e 101.
+
+## Art. 103. — Locali per le rappresentanze sindacali
+
+Per ogni sede di servizio provinciale, l'amministrazione consente l'uso di un idoneo locale ai sensi del precedente art. 30.
+
+## Art. 104. — Altre indennita'
+
+A decorrere dal 31 dicembre 1987 al personale del Corpo nazionale dei vigili del fuoco, in possesso del brevetto di pilota di elicottero, in servizio presso i nuclei elicotteristi e' corrisposta, in sostituzione dell'indennita' prevista dal decreto del Presidente della Repubblica 6 marzo 1981, n. 141, una indennita' mensile di volo di L. 2.200.000 annue. A decorrere dalla stessa data, al personale del predetto Corpo, in possesso del brevetto di motorista o specialista d'elicotteri, con obbligo di volo, e' corrisposta, in sostituzione dell'indennita' prevista dal decreto del Presidente della Repubblica 6 marzo 1981, n. 141, una indennita' mensile di volo di L. 1.900.000 annue. (3)
+
+Agli operatori subacquei del Corpo nazionale dei vigili del fuoco in servizio presso i rispettivi nuclei e' corrisposta, in sostituzione della indennita' prevista dal decreto del Presidente della Repubblica 5 maggio 1975, n. 146, una indennita' mensile di L. 1.700.000 annue. (3)
+
+Dette indennita' sono cumulabili con l'indennita' mensile pensionabile di cui al precedente art. 100 del presente capo. 
+ (11) ((12))
+
+---------------
+                            AGGIORNAMENTO (3)
+                            
+ Il D.P.R. 4 agosto 1990, n.335 ( con l'art. 67 )ha disposto che "A decorrere dal 1 ottobre 1990, le indennita' di cui al comma 1 dell'art. 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, sono determinate rispettivamente in L. 2.640.000 e L. 2.280.000 annue lorde; ha disposto inoltre che Con decorrenza 1 ottobre 1990, per gli operatori subacquei di cui al comma 2 dell'art. 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, l'indennita' ivi prevista e' determinata in L. 2.040.000." 
+                            -----------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.P. R. 1° dicembre 2023, n. 228 ha disposto (con l'art. 2, comma 3) che "A decorrere dal 1° gennaio 2023 sono disapplicate, limitatamente al personale non direttivo e non dirigente del Corpo Nazionale dei Vigili del Fuoco, le previsioni contrattuali e negoziali che istituiscono e regolano analoghi compensi per il suddetto personale e, in particolare, l'articolo 3 del decreto del Presidente della Repubblica 5 maggio 1975, n. 146, l'articolo 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, l'articolo 59, commi 1, 2 e 3, del contratto collettivo nazionale di lavoro comparto aziende del 5 aprile 1996, l'articolo 45, comma 5, del contratto collettivo nazionale di lavoro comparto aziende e amministrazioni autonome dello Stato del 24 maggio 2000, l'articolo 23 del contratto collettivo nazionale di lavoro relativo al personale del comparto delle amministrazioni autonome dello Stato ad ordinamento autonomo del 26 maggio 2004". 
+                            -----------
+                            AGGIORNAMENTO (12)
+                            
+ Il D.P.R. 23 giugno 2025, n. 124 ha disposto (con l'art. 26, comma 3) che "A decorrere dal 1° gennaio 2025 sono disapplicate, limitatamente al personale direttivo del Corpo nazionale dei vigili del fuoco, le previsioni contrattuali e negoziali che istituiscono e regolano analoghi compensi per il suddetto personale e, in particolare, l'articolo 3 del decreto del Presidente della Repubblica 5 maggio 1975, n. 146, l'articolo 104 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, l'articolo 59, commi 1, 2 e 3, del contratto collettivo nazionale di lavoro comparto aziende del 5 aprile 1996, l'articolo 45, comma 5, del contratto collettivo nazionale di lavoro comparto aziende e amministrazioni autonome dello Stato del 24 maggio 2000, l'articolo 23 del contratto collettivo nazionale di lavoro relativo al personale del comparto delle amministrazioni autonome dello Stato ad ordinamento autonomo del 26 maggio 2004".
+
+## - Capo V PERSONALE DELLA CASSA DEPOSITI E PRESTITI
+
+## Art. 105. — Disposizioni particolari
+
+## Art. 106. — Trattamento economico di raccordo
+
+------------
+                            AGGIORNAMENTO (3)
+                            
+Il D.P.R. 4 agosto 1990, n. 335 ( con l'art. 80) ha disposto che "A decorrere dalla data di entrata in vigore del presente regolamento, l'assegno personale mensile non riassorbibile di cui all'articolo 106, comma 1, lettera l), del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' soppresso e dello stesso importo e' 
+aumentata la retribuzione individuale di anzianita"
+
+## Art. 107. — Premio di produzione
+
+Resta inalterata la struttura del premio di produzione precedentemente esposto.
+
+Il premio annuo e' corrisposto negli importi del punto 1-sub a), dell'art. 106.
+
+Il premio mensile di cui al precedente punto 1-sub b), dell'art. 106 e' cosi' rideterminato: 
+ 
+                            
+                                
+                                    
+                                        Livello 
+                                    
+                                    
+                                        Lire 
+                                    
+                                
+                                
+                                    
+                                        1° 
+                                    
+                                    
+                                        130.000 
+                                    
+                                
+                                
+                                    
+                                        2° 
+                                    
+                                    
+                                        160.000 
+                                    
+                                
+                                
+                                    
+                                        3° 
+                                    
+                                    
+                                        190.000 
+                                    
+                                
+                                
+                                    
+                                        4° 
+                                    
+                                    
+                                        220.000 
+                                    
+                                
+                                
+                                    
+                                        5° 
+                                    
+                                    
+                                        255.000 
+                                    
+                                
+                                
+                                    
+                                        6° 
+                                    
+                                    
+                                        290.000
+
+((4. Gli aumenti rispetto alle misure vigenti decorrono dal 1° febbraio 1987))
+
+## Art. 108. — Turno
+
+A decorrere dal 31 dicembre 1987, al personale le cui prestazioni di lavoro per la loro natura o per le obiettive esigenze di servizio risultino formalmente ed in via continuativa articolate in turni, compete una indennita' di turno di L. 2.500 e 3.000 rispettivamente per turni pomeridiani, notturni e festivi.((3))
+
+Per ogni mese il numero dei turni non puo' essere superiore a 10.
+
+------------
+                            AGGIORNAMENTO (3)
+                             Il decreto del presidente della repubblica 4 agosto 1990, n. 335 Ha disposto che A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'articolo 108 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, viene rideterminata in /./L. 3.000 e L. 3.600, rispettivamente per turni pomeridiani, notturni e festivi.
+
+## Art. 109. — Indennita' di servizio notturno e festivo
+
+Con decorrenza dal 31 dicembre 1987 al dipendente le cui prestazioni di lavoro ordinario inerenti a servizio di istituto, siano effettuate, anche a turno, nelle ore comprese tra le ore 22 e le ore 6 del giorno feriale successivo o in giorno festivo, compete una indennita' oraria pari a L. 1.500.
+
+Le predette indennita' competono in ragione delle ore di servizio effettivamente prestate e non sono cumulabili con i compensi per lavoro straordinario.((3))
+
+-----------
+                            AGGIORNAMENTO (3)
+                             Il D.P.R. 4 agosto 1990, n. 335 (con l'art. 77 ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'articolo 109 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in lire 1.800."
+
+## Art. 110. — Servizi meccanografici
+
+Con decorrenza dal 31 dicembre 1987, al personale formalmente assegnato ai centri meccanografici ed elettronici ed effettivamente applicato ai relativi apparati, ivi compresi i direttori dei centri, gli analisti ed i programmatori, nei limiti del contingente stabilito con provvedimento dell'organo competente, spetta una indennita' giornaliera di L. 1.200 per le giornate di effettiva presenza. ((3))
+
+------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990 n. 335 (con l'art. 76 ) ha disposto che " A decorrere dal 1 ottobre 1990, l'indennita' di cui all'articolo 110 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in lire 1.500"
+
+## Art. 111. — Maneggio valori
+
+Dal 31 dicembre 1987 al personale, che in forza di legge o di provvedimento formale, e' addetto in via continuativa a servizi di cassa che comportino maneggio di denaro o valori nelle forme ammesse a pagamento e' fissata una indennita' mensile di L. 24.000. ((3))
+
+-----------
+                            AGGIORNAMENTO (3)
+                             Il D.P.R. 4 agosto 1990 n.335 (con l'art. 75) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'articolo 111 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata inlire 29.000 "
+
+## - Capo VI PERSONALE DELL'AZIENDA DI STATO PER GLI INTERVENTI NEL MERCATO AGRICOLO
+
+## Art. 112. — Lavoro straordinario
+
+I reali fabbisogni globali di ore di lavoro straordinario da utilizzare in ambito aziendale sono determinati, per periodi non eccedenti l'anno finanziario ed entro i limiti dei fondi stanziati in bilancio, con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro-Presidente dell'A.I.M.A., previo parere del consiglio di amministrazione, di concerto con il Ministro del tesoro.
+
+La formulazione della proposta prevista nel comma 1 ed i criteri di utilizzazione saranno determinati d'intesa con le organizzazioni sindacali di cui all'art. 4 del presente decreto.
+
+Dal 1 gennaio 1987 e fino al 31 dicembre 1987, il compenso orario per lavoro straordinario spettante e' quello in vigore nell'Azienda dei monopoli di Stato.
+
+Il 30% della spesa per lavoro straordinario prevista per il 1987 confluisce nel fondo di incentivazione di cui all'art. 59.
+
+## Art. 113. — Premio di incentivazione
+
+Il premio di incentivazione alla produttivita' di cui all'art. 7 del decreto del Presidente della Repubblica 14 gennaio 1986, n. 211, e' rideterminato, per ciascun livello, nella misura massima mensile, per 12 mensilita', qui appresso indicata, di lire: ((3))
+                            
+                            
+                                
+                                    
+                                        
+                                            ((Livello))
+                                        
+                                    
+                                    
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((1))
+                                        
+                                    
+                                    
+                                        
+                                            ((135.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((2))
+                                        
+                                    
+                                    
+                                        
+                                            ((155.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((3))
+                                        
+                                    
+                                    
+                                        
+                                            ((190.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((4))
+                                        
+                                    
+                                    
+                                        
+                                            ((210.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((5))
+                                        
+                                    
+                                    
+                                        
+                                            ((235.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((6))
+                                        
+                                    
+                                    
+                                        
+                                            ((265.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((7))
+                                        
+                                    
+                                    
+                                        
+                                            ((305.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((8))
+                                        
+                                    
+                                    
+                                        
+                                            ((370.000))
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                            ((9))
+                                        
+                                    
+                                    
+                                        
+                                            ((415.000))
+
+Il premio, da corrispondere al personale dell'azienda ed a quello formalmente comandato o assegnato, e' attribuito secondo criteri e modalita' definite in sede di contrattazione decentrata aziendale che tengano comunque conto della produttivita', dell'efficienza e delle presenze effettive in servizio del dipendente.
+
+L'aumento, rispetto al premio di incentivazione alla produttivita' previsto dall'art. 7 del decreto del Presidente della Repubblica n. 211/1986, e' corrisposto dal 1 febbraio 1987.
+
+Il premio di incentivazione di cui sopra non e' cumulabile con compensi od indennita' corrisposti a medesimo titolo nelle amministrazioni di provenienza nonche' con il compenso corrisposto al personale proveniente dal Corpo forestale, ai sensi dell'art. 43 della legge 1 aprile 1981, n. 121. Qualora l'importo di cui al predetto art. 43 risulti inferiore a quello spettante in applicazione del comma 1, il relativo personale avra' diritto alla corresponsione della differenza.
+
+------------
+                            AGGIORNAMENTO (3)
+                            
+Il decreto del presidente della repubblica 4 agosto 1990, n.335 ha disposto che A decorrere dal 1 ottobre 1990, il premio di incentivazione di cui all'articolo 113 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminato.
+
+## Art. 114. — Turno
+
+A decorrere dal 31 dicembre 1987, al personale le cui prestazioni di lavoro per la loro natura o per le obiettive esigenze di servizio risultino formalmente ed in via continuativa articolate in turni, compete una indennita' di turno di L. 2.500 e 3.000 rispettivamente per turni pomeridiani, notturni e festivi.
+
+Per ogni mese il numero dei turni non puo' essere superiore a 10.((3))
+
+-------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n.335 ( con l'art. 83) ha disposto che " A decorrere dal 1 ottobre 1990, l'indennita' di turno di cui all'articolo 114 del decreto del Presidente della Repubblica 18 maggio 1989, n. 269, viene rideterminata in lire 3.000 e lire 3.600, rispettivamente per turni pomeridiani, notturni e festivi"
+
+## Art. 115. — Indennita' di servizio notturno e festivo
+
+Con decorrenza dal 31 dicembre 1987 al dipendente le cui prestazioni di lavoro ordinario inerenti a servizio di istituto, siano effettuate, anche a turno, nelle ore comprese tra le ore 22 e le ore 6 del giorno feriale successivo o in giorni festivo, compete una indennita' oraria pari a L. 1.500.
+
+Le predette indennita' competono in ragione delle ore di servizio effettivamente prestate e non sono cumulabili con i compensi per lavoro straordinario.((3))
+
+-------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990 n. 335 ( con l'art. 84 )ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'articolo 115 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in lire 1.800."
+
+## Art. 116. — Servizi meccanografici
+
+Con decorrenza dal 31 dicembre 1987, al personale formalmente assegnato ai centri meccanografici ed elettronici ed effettivamente applicato ai relativi apparati, ivi compresi i direttori dei centri, gli analisti ed i programmatori, nei limiti del contingente stabilito con decreto del Ministro, di concerto con il Ministro del tesoro, compete una indennita' giornaliera di L. 1.200 per le giornate di effettiva presenza. ((3))
+
+-----------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n.335 ( con lart. 85 ) ha disposto che "a decorrere dal 1 ottobre 1990, l'indennita' di cui all'articolo 116 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, viene rideterminata inlire 1.500. "
+
+## Art. 117. — Maneggio valori
+
+Dal 31 dicembre 1987 al personale, che in forza di legge o di provvedimento formale, e' addetto in via continuativa a servizi di cassa che comportino maneggio di denaro o valori nelle forme ammesse a pagamento e' fissata una indennita' mensile di L. 24.000. ((3))
+
+-------------
+                            AGGIORNAMENTO (3)
+                            Il D.P.R. 4 agosto 1990, n.335 ( con l'art.86 ) ha disposto che "A decorrere dal 1 ottobre 1990, l'indennita' di cui all'articolo 117 del decreto del Presidente della Repubblica 18 maggio 1987, n. 269, e' rideterminata in Lire 29.000."
+
+## Art. 118. — Competenze accessorie
+ per la nona qualifica funzionale
+
+Per il personale inquadrato nella nona qualifica funzionale, le indennita' e compensi accessori previsti dal presente decreto, ove non specificato diversamente, competono nella misura prevista per il personale di ottava qualifica funzionale maggiorata del 18%.
+
+## Art. 119. — Copertura finanziaria
+
+All'onere derivante dall'applicazione del presente decreto per l'anno 1987, al netto delle somme dovute a titolo di anzianita' ed ivi compreso l'onere relativo al 1986, valutato in complessive lire 529 miliardi, di cui lire 14 miliardi relativi all'Azienda nazionale autonoma delle strade (ANAS), lire 21 miliardi relativi all'Azienda autonoma dei monopoli di Stato, lire 346 miliardi relativi all'Amministrazione delle poste e delle telecomunicazioni, lire 19 miliardi relativi all'Azienda di Stato per i servizi telefonici e lire 129 miliardi relativi al personale del Corpo nazionale dei vigili del fuoco, si provvede, quanto a lire 497 miliardi e lire 32 miliardi, mediante corrispondente riduzione, rispettivamente, dello stanziamento iscritto ai capitoli 6868 e 6869 dello stato di previsione del Ministero del tesoro per il medesimo anno finanziario.
+
+All'onere complessivo di lire 503 miliardi derivante dall'applicazione del presente decreto per ciascuno degli anni 1988 e 1989, al netto delle somme dovute a titolo di anzianita', di cui lire 17 miliardi relativi all'Azienda nazionale autonoma delle strade (ANAS), lire 22 miliardi relativi all'Azienda autonoma dei monopoli di Stato, lire 366 miliardi relativi all'Amministrazione delle poste e delle telecomunicazioni, lire 21 miliardi relativi all'Azienda di Stato per i servizi telefonici e lire 77 miliardi relativi al personale del Corpo nazionale dei vigili del fuoco, si provvede, quanto a lire 476 miliardi e lire 27 miliardi, con utilizzo, rispettivamente, di quota parte della proiezione per gli anni medesimi degli stanziamenti iscritti ai capitoli 6868 e 6869 dello stato di previsione del Ministero del tesoro per l'anno 1987.
+
+All'onere derivante dall'applicazione del presente decreto alla Cassa depositi e prestiti ed all'Azienda di Stato per gli interventi nel mercato agricolo (AIMA), valutato, al netto delle somme dovute a titolo di anzianita', rispettivamente in lire 1 miliardo e lire 0,5 miliardi per ciascuno degli anni 1987, ivi compreso l'onere relativo al 1986, 1988 e 1989, provvedono gli enti predetti utilizzando le disponibilita' dei propri bilanci provenienti dai conferimenti operati a carico del bilancio dello Stato o quelle affluite nei loro bilanci in relazione alle specifiche attivita' svolte.
+
+Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 120. — Entrata in vigore
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+
+### Art. 1.
+
+ALLEGATO B 
+
+ 
+CODICE DI AUTOREGOLAMENTAZIONE DELL'ESERCIZIO DEL DIRITTO DI SCIOPERO Confederazioni sindacali: CONFSAL - CISAS 
+Organizzazioni sindacali di categoria aderenti alle confederazioni citate 
+
+ 
+ 
+
+ 
+ Art. 1. 
+
+ 
+ Il diritto di sciopero che costituisce una liberta' fondamentale di ciascun lavoratore, si esercita nei limiti e nel rispetto delle disposizioni contenute all'art. 11, comma 5, della legge n. 93/1983.
+
+### Art. 2.
+
+Le Organizzazioni sindacali si impegnano ad esercitare il diritto di sciopero secondo le modalita' ed i limiti contenuti nelle disposizioni successive.
+
+### Art. 3.
+
+Il presente codice non si applica - oltre che nei casi in cui fossero in gioco i valori fondamentali delle liberta' civili e sindacali, della democrazia e della pace - nelle vertenze di carattere generale che interessano la generalita' del mondo del lavoro.
+
+### Art. 4.
+
+Si conferma il termine di preavviso di giorni quindici di cui all'art. 11, comma 5, lettera a). Nel periodo che intercorre fra il giorno della proclamazione e la data dell'azione collettiva di astensione dal lavoro, si attiveranno le procedure di cui alle disposizioni contenute nel capo VI decreto del Presidente della Repubblica n. 13/1986 e di quelle definite dai singoli contratti di comparto.
+
+### Art. 5.
+
+Gli scioperi di qualsiasi genere dichiarati o in corso di effettuazione saranno immediatamente sospesi in caso di avvenimenti eccezionali di particolare gravita' o di calamita' naturali che richiedono la resa dei servizi di soccorso, di assistenza, di ripristino delle condizioni di normalita'. 
+ Sono pertanto esclusi dagli scioperi i periodi interessati da interventi di vaste proporzioni richiedenti l'opera degli addetti ai vari servizi del comparto aziende. 
+ Per il personale dell'ANAS per quanto attiene al trasporto statale e del Corpo nazionale dei vigili del fuoco per quanto concerne quello aereo sono altresi' esclusi gli scioperi nei periodi compresi fra: 
+ il 17/12 ed il 7/1; 
+ il 26/6 ed il 4/7; 
+ il 28/7 ed il 3/8; 
+ il 10/8 ed il 5/9; 
+ il 30/10 ed il 5/11. 
+ Le cinque giornate che precedono e seguono la Pasqua e le feste natalizie. 
+ La settimana che precede e quella seguente la scadenza delle consultazioni elettorali europee, nazionali, regionali, amministrative generali. 
+ Durante gli scioperi eventualmente effettuati nel periodo 30/6 - 3/9 verranno mantenuti comunque i servizi necessari per consentire i collegamenti con le isole. 
+ Fatta eccezione per gli scioperi generali di carattere nazionale, regionale o territoriale, saranno evitati scioperi concomitanti di piu' comparti interessati al trasporto aereo, marittimo e ferroviario.
+
+### Art. 6.
+
+Il concreto esplicarsi dell'esercizio di sciopero non puo' essere finalizzato ad impedire l'esercizio di potesta' politiche e amministrative degli organi istituzionali delle amministrazioni o enti di appartenenza.
+
+### Art. 7.
+
+La titolarita' a dichiarare, sospendere, revocare gli scioperi e' di competenza delle strutture sindacali nazionali, regionali, territoriali e aziendali secondo le norme statutarie di ciascuna organizzazione sindacale.
+
+### Art. 8.
+
+Durante il periodo compreso tra il giorno della proclamazione e la data di effettuazione dello sciopero dovranno essere attivate le procedure contenute nel titolo VI del decreto del Presidente della Repubblica n. 13/1986 e nel contratto di comparto. In ogni caso l'attivazione di tali procedure non interrompe i termini di preavviso dell'azione sindacale proclamata.
+
+### Art. 9.
+
+Alla cittadinanza va data notizia all'atto stesso della proclamazione di sciopero, divulgando anche per iscritto i motivi ed i contenuti dell'azione collettiva. La effettuazione di ogni azione di autotutela collettiva deve aver riguardo alla sicurezza dei cittadini, dei dipendenti, degli impianti e dei mezzi messi a disposizione della pubblica amministrazione.
+
+### Art. 10.
+
+La salvaguardia dell'essenzialita' dei servizi ovvero uffici preposti alla garanzia dell'esercizio dei diritti soggettivi dei cittadini costituzionalmente garantito, unitamente alla indispensabilita' delle prestazioni comunque da mantenere, deve essere tutelata nell'esercizio delle azioni di sciopero. 
+ Pertanto e' indispensabile garantire: 
+ i servizi di soccorso ai cittadini; 
+ il funzionamento dei collegamenti radioelettrici e telefonici per le attivita' relative alla salvezza della vita umana, la sorveglianza, la salvaguardia e la funzionalita' degli impianti; 
+ l'integrita' della materia prima; 
+ l'efficienza dei mezzi e delle attrezzature. 
+ Mediante accordi - da definire a livello decentrato per unita' operativa/amministrativa tra le organizzazioni sindacali e l'amministrazione - sara' regolato l'esonero delle unita' lavorative minime occorrenti affinche' l'amministrazione provveda - con atto amministrativo conseguente all'accordo medesimo - a garantire le prestazioni descritte.
+
+### Art. 11.
+
+Le organizzazioni sindacali si ritengono svincolate dal presente codice, fatte salve le norme di cui agli articoli 1, 4 e 10 per azioni di sciopero avverso il mancato rispetto di scadenze di legge, regolamentari o contrattuali ed in caso di eventuali comportamenti discriminatori nei confronti di qualcuna delle organizzazioni sindacali firmatarie del protocollo di intesa 25 luglio 1986.
+

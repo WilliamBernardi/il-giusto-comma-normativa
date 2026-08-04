@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 695
+data: 1963-04-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-07;695
+codice_redazionale: 063U0695
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 aprile 1963
+                695
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia dei Santi Apostoli Pietro e Paolo, in frazione Trucco del comune di Ventimiglia (Imperia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 aprile 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Ventimiglia in data 11 ottobre 1962, integrato con dichiarazione del 15 novembre 1962, relativo alla erezione della Parrocchia dei Santi Apostoli Pietro e Paolo, in frazione Trucco del comune di Ventimiglia (Imperia).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 15 maggio 1963
+ Atti del Governo, registro n. 169, foglio n. 34. - VILLA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1106
+data: 1985-12-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-12-31;1106
+codice_redazionale: 085U1106
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 dicembre 1985
+                1106
+                Autorizzazione alla fondazione Campari, in Milano, ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 dicembre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la fondazione Campari, in Milano, viene autorizzata ad accettare il legato, consistente nella somma di L. 100.000.000 in buoni del Tesoro, disposto dalla prof.ssa Angela Maria Barbizzoli ved. Migliavacca con testamento olografo 16 aprile 1975, pubblicato in data 9 giugno 1982, n. 371565/12394 di repertorio, a rogito avv. Luigi Piontelli, notaio in Milano, registrato a Milano in data 11 giugno 1982 al n. 11861. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 12 giugno 1986 
+ Registro n. 1 Lavoro, foglio n. 244
+

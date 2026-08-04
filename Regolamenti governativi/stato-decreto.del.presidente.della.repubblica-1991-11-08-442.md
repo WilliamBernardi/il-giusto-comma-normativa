@@ -1,0 +1,129 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 442
+data: 1991-11-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1991-11-08;442
+codice_redazionale: 092G0443
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 1992-04-04
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 novembre 1991
+                442
+                 Regolamento per il recepimento della disciplina prevista dall'accordo del 24 luglio 1991 concernente il personale dirigente del Registro aeronautico italiano, per il triennio 1988-1990.
+
+Entrata in vigore del decreto: 13/02/1992
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Ministro dei trasporti;
+
+## Art. 1. — Area di applicazione e durata dell'accordo
+
+Il presente contratto si applica a tutti i dirigenti e si riferisce al periodo 14 luglio 1988-31 dicembre 1990.
+
+## Art. 2. — Qualifica dirigenziale
+
+La qualifica di dirigente e' unica.
+
+## Art. 3. — Elementi della retribuzione lorda complessiva
+
+La retribuzione mensile base e' costituita, ad ogni effetto contrattuale, dallo stipendio tabellare, dalla maggiorazione professionale e dall'indennita' integrativa speciale.
+
+La retribuzione mensile globale e' costituita dalla retribuzione base piu' tutti gli altri elementi retributivi corrisposti a carattere continuativo.
+
+## Art. 4. — Numero della mensilita' di retribuzione dei dirigenti
+
+L'ente corrispondera' al dirigente, nella prima decade del mese di dicembre di ciascun anno, una 13a mensilita' di retribuzione mensile base.
+
+Le retribuzioni mensili verranno corrisposte nei termini e con le modalita' previsti per tutto il personale dell'ente.
+
+## Art. 5. — Indennita' di funzione
+
+Al personale dirigente spetta una indennita' di funzione connessa con l'effettivo esercizio delle funzioni.
+
+L'ammontare di detta indennita' non puo' superare il 20% per i primi sei anni di anzianita' riconosciuta nella qualifica dirigenziale, ne' superare il 50% per i successivi anni, della retribuzione mensile base.
+
+L'indennita' di funzione viene corrisposta per 12 mensilita' all'anno e non viene corrisposta in ragione di 1/26 per ogni giorno di assenza dal servizio, con esclusione delle assenze per ferie o infortunio sul lavoro.
+
+L'indennita' e' attribuita con provvedimento del comitato direttivo secondo parametri individuati, sentite le organizzazioni sindacali firmatarie dell'accordo recepito dal presente regolamento, in relazione al coordinamento di programmi definiti dagli organi di amministrazione, all'importanza della direzione delle strutture, ovvero alla rilevanza dell'attivita' di studio, consulenza propositiva, ricerca, vigilanza ed ispezione.
+
+## Art. 6. — Premio annuo di rendimento
+
+A decorrere dal 1 gennaio 1990 e' istituito un incentivo annuale di rendimento da corrispondersi nel mese di dicembre di ciascun anno, commisurato ad un massimo di due mensilita' di retribuzione base.
+
+Ai relativi provvedimenti da' attuazione il presidente su motivata proposta del direttore generale.
+
+## Art. 7. — Retribuzione da attribuire ai dirigenti
+ all'atto della loro assunzione o nomina
+
+All'atto della nomina, al dirigente sara' corrisposta la retribuzione complessiva di cui all'art. 3 con il riconoscimento del 100% o del 60% dell'anzianita' maturata nella qualifica di provenienza, rispettivamente, per il personale dell'area professionale e per il personale dell'area tecnico-amministrativa.
+
+L'anzianita' non valutata all'atto della nomina per il conferimento della successiva maggiorazione professionale da' diritto alla corresponsione, in pari data e fino al raggiungimento dell'anzianita' occorrente, del maturato in itinere.
+
+## Art. 8. — Trattamento di missione di viaggio
+
+Oltre al rimborso delle spese documentate di viaggio per le classi previste (1a classe per mezzo marittimo o ferroviario, busi- ness class per il mezzo aereo, con polizza assicurativa) corrispondenti ai normali mezzi di trasporto aereo, marittimo, ferroviario e su strada e di vitto e alloggio, secondo i criteri stabiliti dal consiglio di amministrazione, al dirigente in trasferta e' dovuto un importo aggiuntivo, per il rimborso delle spese non documentabili, di L. 120.000 giornaliere.
+
+In caso di missione di lunga durata (intendendosi come tali quelle che superano i trenta giorni calendariali) in sostituzione delle spese di vitto e di alloggio potra' essere stabilito un trattamento forfettario, concordato direttamente con il dirigente interessato, e che comunque non potra' superare le spese di cui al comma 1. Per le missioni all'estero sara' corrisposto il trattamento stabilito per le missioni interne con la maggiorazione del 50% per rimborso spese non documentabili.
+
+## Art. 9. — Trasferimento e relativo trattamento economico
+
+Il dirigente puo' essere trasferito di sede soltanto per comprovate ragioni tecniche, organizzative e produttive dell'ente, secondo criteri definiti con la contrattazione aziendale.
+
+Il trasferimento dovra' essere comunicato per iscritto dall'ente al dirigente con un preavviso non inferiore a mesi 3, ovvero a mesi 6 quando il dirigente abbia familiari conviventi a carico.
+
+Al dirigente trasferito sara' corrisposto il rimborso delle spese cui va incontro per se' e la famiglia per effetto del trasferimento stesso, nonche' l'eventuale maggiore spesa effettivamente sostenuta per l'alloggio dello stesso tipo di quello occupato nella sede di origine per un periodo di due anni, oltre ad un'indennita' una tantum pari a quattro mensilita' di retribuzione base per il dirigente con carichi di famiglia ed a due mensilita' e mezzo per il dirigente senza carichi di famiglia.
+
+Qualora nella nuova sede il dipendente abbia un alloggio di proprieta' il rimborso dell'eventuale maggiore spesa sara' determinato con riferimento all'equo canone della casa di proprieta'.
+
+Gli importi erogati per i titoli di cui al presente articolo, attesa la loro particolare natura, non sono computabili agli effetti del trattamento di fine rapporto.
+
+Per il reperimento dell'alloggio nella sede di destinazione, anche l'ente esplichera' il suo interessamento per agevolare il dirigente.
+
+Il trasferimento puo' avvenire anche a domanda dell'interessato, valutate le esigenze di servizio. Il trasferimento a domanda non comporta la corresponsione delle somme previste dal presente articolo.
+
+## Art. 10. — Orario di lavoro
+
+Tenuto conto della particolare natura delle funzioni attribuite il personale dirigente esplica la propria attivita' senza vincolo di orario in entrata e in uscita, entro il limite minimo di 40 ore settimanali.
+
+Il personale dirigente, per particolari esigenze di servizio, e' tenuto a protrarre le prestazioni giornaliere senza diritto al compenso per il lavoro straordinario.
+
+## Art. 11. — Festivita', permessi, aspettative e congedi straordinari
+
+Al personale dirigente si applicano in materia di festivita', ferie, permessi, aspettative e congedi straordinari le stesse disposizioni vigenti per il restante personale.
+
+## Art. 12. — Aggiornamento culturale e professionale
+
+L'ente, allo scopo di promuovere un aggiornamento culturale e professionale consono alle funzioni dirigenziali, attesa la struttura e la natura dell'attivita' svolta, avviera', d'intesa con le organizzazioni sindacali firmatarie dell'accordo recepito dal presente regolamento, interventi formativi per favorire adeguati livelli di preparazione ed esperienza professionale, quale supporto alle responsabilita' affidate all'interessato.
+
+Le modalita' di partecipazione dei singoli dirigenti ai corsi, seminari o altre iniziative formative saranno concordate con il dirigente interessato in relazione ai piani di formazione e aggiornamento professionale periodicamente predisposti dall'ente.
+
+## Art. 13. — Trattenute sindacali
+
+L'ente operera' le trattenute delle quote sindacali, in favore delle organizzazioni sindacali, previo rilascio di deleghe individuali da parte dei dirigenti interessati con validita' sino a revoca scritta da effettuarsi entro il 31 ottobre dell'anno precedente a cui si riferisce.
+
+Le trattenute verranno effettuate secondo le modalita' comunicate dalle organizzazioni sindacali.
+
+## Art. 14. — Disposizioni generali, transitorie e finali
+
+
+
+In sede di prima applicazione, alla data di entrata in vigore del presente regolamento, il trattamento economico del personale che rivestiva una qualifica dirigenziale e' determinato con riferimento all'intera anzianita' posseduta nelle ex qualifiche di dirigente e di dirigente superiore e al 60% di quella posseduta nella ex carriera direttiva, mentre il trattamento economico per il personale proveniente dalla ex 1a qualifica professionale e' determinato con riferimento all'intera anzianita' posseduta in detta qualifica.
+L'anzianita' non valutata per il conferimento della successiva maggiorazione professionale da' diritto alla corresponsione, in pari data e fino al raggiungimento dell'anzianita' occorrente, del maturato in itinere.
+
+Per il periodo 14 luglio 1988-31 dicembre 1990 non si da' luogo a conguaglio del compenso incentivante con il premio di rendimento.
+
+Lo stipendio tabellare e la maggiorazione professionale di cui all'art. 3, comma 1, lettere a) e b), sono corrisposti con le seguenti decorrenze:
+ dal 14 luglio 1988 in misura pari al 90%;
+ dal 1 luglio 1989 in misura pari al 95%;
+ dal 1 luglio 1990 in misura pari al 100%.
+
+Continuano ad applicarsi le disposizioni in vigore per il restante personale dell'ente che non siano state abrogate per incompatibilita' dal presente regolamento.
+

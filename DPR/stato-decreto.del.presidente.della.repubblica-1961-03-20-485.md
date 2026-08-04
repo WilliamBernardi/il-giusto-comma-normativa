@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 485
+data: 1961-03-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-03-20;485
+codice_redazionale: 061U0485
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 marzo 1961
+                485
+                Erezione in ente morale della Cassa scolastica del Liceo scientifico statale di Agnone (Campobasso).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 marzo 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale, di Agnone (Campobasso) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 giugno 1961
+ Atti del Governo, registro n. 137, foglio n. 20. - VILLA
+

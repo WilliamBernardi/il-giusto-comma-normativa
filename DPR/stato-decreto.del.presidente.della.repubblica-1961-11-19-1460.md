@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1460
+data: 1961-11-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-11-19;1460
+codice_redazionale: 061U1460
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 novembre 1961
+                1460
+                Erezione in ente morale della Casa di riposo per vecchi Fondazione Conte Franco Cella di Rivara, con sede in Broni (Pavia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 novembre 1961, col quale, sulla proposta del Ministro per l'interno, viene eretta in ente morale la Casa di riposo per vecchi - Fondazione Conte Franco Cella di Rivara, con sede in Broni (Pavia), e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 gennaio 1962
+ Atti del Governo, registro n. 143, foglio n. 21. - VILLA
+

@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1849
+data: 1962-12-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-03;1849
+codice_redazionale: 062U1849
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 dicembre 1962
+                1849
+                Mutamento della denominazione della frazione Lavinio del comune di Anzio in quella di "Lavinio, Lido di Enea" (Roma).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la istanza del presidente del Consorzio di Lavinio e S. Olivo in data 9 settembre 1960, con la quale e' stato chiesto che l'attuale denominazione della frazione Lavinio del comune di Anzio (Roma) sia mutata in quella di "Lavinio, Lido di Enea";
+ Viste le deliberazioni del Consiglio comunale di Anzio in data 29 dicembre 1961, n. 87, della Giunta provinciale in data 21 marzo 1962, n. 6, e del Consiglio provinciale di Roma in data 8 ottobre 1962, n. 695, con le quali e' stato espresso parere favorevole in merito al mutamento di denominazione in parola;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La denominazione della frazione Lavinio del comune di Anzio, in provincia di Roma, e' mutata in quella di "Lavinio, Lido di Enea".
+

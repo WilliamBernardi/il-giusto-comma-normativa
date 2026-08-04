@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 821
+data: 1965-06-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-06-05;821
+codice_redazionale: 065U0821
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 giugno 1965
+                821
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Giuseppe, nel comune di Carini (Palermo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 giugno 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta, agli effetti civili, il decreto dell'Ordinario diocesano di Monreale in data 1 ottobre 1964, integrato con dichiarazione di pari data, relativo all'erezione della Parrocchia di San Giuseppe, in zona Stazione del comune di Carini (Palermo).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte del conti, addi' 7 luglio 1965
+ Atti del Governo, registro n. 195, foglio n. 62. - VILLA
+

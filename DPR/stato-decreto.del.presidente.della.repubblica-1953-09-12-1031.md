@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1031
+data: 1953-09-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-09-12;1031
+codice_redazionale: 053U1031
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 settembre 1953
+                1031
+                Inclusione dell'abitato di Tossicia (Teramo) fra quelli da trasferire parzialmente a cura e spese dello Stato.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 9 luglio 1908, n. 445;
+ Visto il decreto-legge luogotenenziale 13 aprile 1919, n. 568;
+ Visto il decreto luogotenenziale 22 dicembre 1918, n. 2006, col quale l'abitato di Tossicia, in provincia di Teramo, fu incluso nell'elenco degli abitati da consolidare;
+ Considerato che, per la parte nord-ovest del detto abitato, in seguito a nuovi accertamenti, e' risultata l'impossibilita' di eseguire utili opere di consolidamento, riconoscendosi, invece, opportuno di trasferire la detta zona dell'abitato in nuova sede;
+ Visto il parere del Consiglio superiore dei lavori pubblici n. 1527, emesso nell'adunanza del 28 luglio 1953;
+ Sulla proposta del Ministro per i lavori pubblici;
+
+ Decreta:
+
+ A norma dell'art. 4, del decreto-legge luogotenenziale 13 aprile 1919, n. 568, e' aggiunto, a tutti gli effetti della legge 9 luglio 1908, n. 445, agli abitati indicati nella tabella E, allegata alla legge stessa (trasferimento di abitati minacciati da frane) quello di Tossicia, in provincia di Teramo, limitatamente alla zona nord-ovest, indicata in rosso nell'annessa' planimetria 24 aprile 1953, vistata dal Ministro proponente, restando annullato il succitato decreto luogotenenziale 22 dicembre 1918, n. 2006, per quanto riguarda il consolidamento della zona medesima.
+

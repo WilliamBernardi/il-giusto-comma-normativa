@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 618
+data: 1986-08-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-08-04;618
+codice_redazionale: 086U0618
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 agosto 1986
+                618
+                Pareggiamento della scuola di chitarra istituita presso l'istituto musicale comunale pareggiato "Orazio Vecchi" di Modena.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 4 agosto 1986, col quale, sulla proposta del Ministro della pubblica istruzione, la scuola di chitarra, istituita presso l'istituto musicale comunale pareggiato "Orazio Vecchi" di Modena, viale Berengario n. 49, gestito dal comune di Modena, viene pareggiata, ai sensi del regio decreto 15 maggio 1930, n. 1170, ai conservatori di musica statali, con decorrenza giuridica dall'anno scolastico 1986-87.
+
+Visto, il Guardasigilli: ROGNONI
+ Registrato alla Corte dei conti, addi' 25 settembre 1986
+ Registro n. 72 Istruzione, foglio n. 140
+

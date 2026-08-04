@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2367
+data: 1929-11-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-11-14;2367
+codice_redazionale: 029U2367
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:27Z
+---
+
+REGIO DECRETO
+                14 novembre 1929
+                2367
+                Fusione in unico ente delle Opere pie «Ospedale S. Antonio di Casa Scola» e «Ospedale S. Maria a Vigna della famiglia Girace», con sede in Gragnano. (029U2367)
+
+Entrata in vigore del provvedimento: 26/02/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

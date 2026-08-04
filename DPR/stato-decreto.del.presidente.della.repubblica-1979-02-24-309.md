@@ -1,0 +1,49 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 309
+data: 1979-02-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-02-24;309
+codice_redazionale: 079U0309
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2012-06-06
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:44Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 febbraio 1979
+                309
+                Modificazioni all'ordinamento didattico universitario.
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+
+### Art. 1.
+
+ALLEGATO TABELLA XXXII-bis 
+ LAUREA IN AGRICOLTURA TROPICALE E SUBTROPICALE 
+ Art. 1 
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+
+### Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+
+### Art. 3.
+
+Allegato - art. 3 
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, 
+ CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35))
+

@@ -1,0 +1,46 @@
+---
+tipo: REGIO DECRETO
+numero: 641
+data: 1916-05-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1916-05-21;641
+codice_redazionale: 016U0641
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:56Z
+---
+
+REGIO DECRETO
+                21 maggio 1916
+                641
+                Col quale viene istituito un distintivo speciale per i militari ed assimilati che sopportano le fatiche dell'attuale guerra. (016U0641)
+
+Entrata in vigore del provvedimento: 04/06/1916
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

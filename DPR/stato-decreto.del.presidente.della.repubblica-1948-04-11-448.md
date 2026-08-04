@@ -1,0 +1,71 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 448
+data: 1948-04-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-04-11;448
+codice_redazionale: 048U0448
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 aprile 1948
+                448
+                Assegnazione di fondi agli stati di previsione della spesa di taluni Ministeri per l'esercizio finanziario 1947-48, a norma dell'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato (quinto provvedimento).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto il decreto legislativo Presidenziale 19 giugno 1946, n. 1;
+ Visti i decreti legislativi del Presidente della Repubblica in data 25 marzo 1948, nn. 179, 185, 188, 189 e 195;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro Segretario di Stato per il tesoro;
+
+ Decreta:
+
+ Negli stati di previsione della spesa dei Ministeri sottoindicati, per l'esercizio finanziario 1947-48, sono introdotte le seguenti variazioni in aumento:
+
+
+ Ministero delle finanze:
+
+ Cap. n. 112. - Restituzioni e rimborsi......... L. 100.000.000 Cap. n. 113. - Restituzioni e rimborsi di
+addizionale, ecc................................. L. 3.000.000 Cap. n. 120. - Spese di personale per speciali
+gestioni patrimoniali, ecc....................... L. 7.000.000 Cap. n. 193. - Restituzione di diritti
+all'esportazione, ecc............................ L. 4.000.000
+ ----------- Totale... L. 114.000.000 
+
+
+
+ Ministero dei lavori pubblici:
+
+ Cap. n. 2. - Genio civile - Personale di ruolo
+- Stipendi, ecc.................................. L. 109.000.000 Cap. n. 3. - Ufficiali idraulici - Stipendi,ecc L. 7.000.000 Cap. n. 4. - Incaricati stabili - Salari, ecc.. L. 27.000.000 Cap. n. 5. - Personale di ruolo e non di ruolo
+del Ministero dell'Africa italiana, ecc. -
+Stipendi, ecc.................................... L. 39.000.000 Cap. n. 164. - Personale del ruolo transitorio
+- Stipendi, ecc.................................. L. 9.000.000
+ ------------- Totale... L. 191.000.000 
+
+
+
+ Ministero della marina mercantile:
+
+ Cap. n. 31. - Ufficiali delle Capitanerie di
+porto - Stipendi, ecc,........................... L. 20.500.000 Cap. n. 45. - Ufficiali delle Capitanerie di
+porto collocati in ausiliaria, ecc............... L. 5.650.000
+ ------------ Totale... L. 26.150.000 
+
+
+
+ Ministero della difesa:
+
+ Cap. n. 60. - Sottufficiali, caporali e soldati
+- Stipendi, ecc.................................. L. 267.000.000 Cap. n. 236.-- Ufficiali dell'aeronautica
+militare collocati nella riserva, ecc............ L. 50.000.000
+ ------------ Totale... L. 317.000.000
+

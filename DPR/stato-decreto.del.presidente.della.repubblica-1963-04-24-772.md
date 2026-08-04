@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 772
+data: 1963-04-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-04-24;772
+codice_redazionale: 063U0772
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 aprile 1963
+                772
+                Riconoscimento, agli effetti civili, della istituzione di un ufficio coadiutorale nella Parrocchia del Sacro Cuore di Gesu' e di San Valentino, in Udine.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 aprile 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 1 ottobre 1925, integrato con prospetto dell'11 gennaio 1963, relativo alla istituzione di un ufficio coadiutorale nella Parrocchia del Sacro Cuore di Gesu' e di San Valentino, in Udine.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 31 maggio 1963
+ Atti del Governo, registro n. 170, foglio n. 44. - VILLA
+

@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1376
+data: 1939-07-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-07-28;1376
+codice_redazionale: 039U1376
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:33Z
+---
+
+REGIO DECRETO
+                28 luglio 1939
+                1376
+                Autorizzazione al Ministro per le finanze ad accettare dal comune di Trieste la donazione fatta allo Stato dell'area su cui sorgono gli avanzi del Teatro Romano. (039U1376)
+
+Entrata in vigore del provvedimento: 10/10/1939
+
+## Art. 1.
+
+N.
+
+R. decreto 28 luglio 1939, col quale, sulla proposta del Ministro per le finanze, il Ministro stesso viene autorizzato ad accettare la donazione fatta allo Stato, da parte del comune di Trieste, dell'intera area in quella citta' su cui sorgono gli avanzi del Teatro Romano, della complessiva superficie di mq. 2295,08, giusta contratto del 6 aprile 1939-XVII, stipulato in forma pubblica amministrativa presso l'Intendenza di finanza di Trieste. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 18 settembre 1939-XVII
+

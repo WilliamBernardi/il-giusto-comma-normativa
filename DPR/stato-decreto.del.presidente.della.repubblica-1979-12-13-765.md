@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 765
+data: 1979-12-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-13;765
+codice_redazionale: 079U0765
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 dicembre 1979
+                765
+                Riconoscimento, agli effetti civili, della unione delle parrocchie della Nativita' di Maria SS.ma e dei SS. Pietro e Paolo apostoli, in Trequanda.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 dicembre 1979, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Pienza 1 luglio 1978, integrato con dichiarazione di pari data, relativo all'unione perpetua aeque principaliter delle parrocchie della Nativita' di Maria SS.ma, in Abbadia Sicille del comune di Trequanda (Siena), e dei SS. Pietro e Paolo apostoli, in frazione Petroio dello stesso comune. 
+ 
+Visto, il Guardasigilli: MORLINO 
+ Registrato alla Corte dei conti, addi' 14 febbraio 1980 
+ Registro n. 4 Interno, foglio n. 304
+

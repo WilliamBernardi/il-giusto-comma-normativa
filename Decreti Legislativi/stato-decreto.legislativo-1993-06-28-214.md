@@ -1,0 +1,33 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 214
+data: 1993-06-28
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1993-06-28;214
+codice_redazionale: 093G0283
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:30Z
+---
+
+DECRETO LEGISLATIVO
+                28 giugno 1993
+                214
+                 Differimento dei termini di entrata in vigore delle disposizioni contenute nei titoli III e IV, nonche' di quelle relative agli archivi, all'anagrafe nazionale ed al servizio di monitoraggio contenute nel titolo VII del nuovo codice della strada.
+
+Entrata in vigore del decreto: 30/6/1993
+
+Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta dei Ministri dei lavori pubblici e dei trasporti;
+
+## Art. 1.
+
+Le disposizioni contenute nel titolo III del decreto legislativo 30 aprile 1992, n. 285, si applicano dal 1 ottobre 1993.
+
+## Art. 2.
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

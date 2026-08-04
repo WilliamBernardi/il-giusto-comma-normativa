@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 807
+data: 1957-07-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-07-10;807
+codice_redazionale: 057U0807
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 luglio 1957
+                807
+                Riconoscimento, agli effetti civili, dell'unione temporanea, nella forma "aeque principaliter", delle parrocchie di San Bartolomeo Apostolo, in localita' Leonina, e di San Paolo Apostolo, in localita' Presciano, entrambe nel comune di Asciano (Siena).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 luglio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Siena in data 1° marzo 1957, col quale sono state unite temporaneamente nella forma "aeque principaliter" le due parrocchie di San Bartolomeo Apostolo in localita' Leonina e di San Paolo Apostolo, in localita' Presciano, entrambe nel comune di Asciano (Siena). 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 9 settembre 1957 
+ Atti del Governo, registro n. 107, foglio n. 118. - RELLEVA
+

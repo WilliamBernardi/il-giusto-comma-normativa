@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1861-12-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1861-12-29;252
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:05Z
+---
+
+REGIO DECRETO
+                29 dicembre 1861
+                CCLII
+                Che autorizza i Comuni di Brusasco, di Pezzana, di Montechiaro, di Busca, di Entraque, di Lombriasco e di Pescina a riscuotere in via d'esercizio i diritti di gabella; e quelli di Roccapiatta, di Prarostino e di Vezzi a provvedere, mediante sovraimposta alle contribuzioni dirette, al pagamento del loro canone gabellario. (6100252R)
+
+Entrata in vigore del provvedimento: 29/12/1861
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 2234
+data: 1937-09-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-09-23;2234
+codice_redazionale: 037U2234
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:03Z
+---
+
+REGIO DECRETO
+                23 settembre 1937
+                2234
+                Accettazione, da parte dello Stato, della donazione di un appezzamento di terreno sito in comune di Calci. (037U2234)
+
+Entrata in vigore del provvedimento: 29/01/1938
+
+## Art. 1.
+
+N.
+
+R. decreto 23 settembre 1937, col quale, sulla proposta del Ministro per l'educazione nazionale, viene accettata la donazione di un appezzamento di terreno, situato in comune di Calci e contiguo ai fabbricati del Monastero della Certosa, disposta in favore dello Stato dal cav. dottor Antonio Simoni perche' formi parte integrante del complesso monumentale della Certosa di Calci. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 16 dicembre 1937 - Anno XVI
+

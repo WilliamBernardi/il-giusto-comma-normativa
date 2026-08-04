@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 327
+data: 1985-05-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-05-04;327
+codice_redazionale: 085U0327
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 maggio 1985
+                327
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di "S. Bernardetta", in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 maggio 1985, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Milano 22 dicembre 1981, integrato con altro decreto 10 novembre 1983 e con dichiarazione 1 marzo 1982, relativo alla erezione della parrocchia di "S. Bernardetta", in Milano.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 27 giugno 1985
+ Registro n. 24 Interno, foglio n. 381
+

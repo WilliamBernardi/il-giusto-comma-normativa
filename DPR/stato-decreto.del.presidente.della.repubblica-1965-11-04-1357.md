@@ -1,0 +1,43 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1357
+data: 1965-11-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-11-04;1357
+codice_redazionale: 065U1357
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 novembre 1965
+                1357
+                Autorizzazione alla emissione di francobolli celebrativi o commemorativi per l'anno 1966.
+
+Riconosciuta l'opportunita' di emettere nell'anno 1966 le seguenti serie di francobolli: celebrativi dell'Idea Europea; celebrativi della VIII Giornata del Francobollo; celebrativi del XX anniversario dell'avvento della Repubblica; celebrativi del I Centenario) dell'Unione del Veneto e del Mantovano all'Italia, della Battaglia di Bezzecca e dall'"Obbedisco" di Garibaldi; commemorativi di Giotto nel VII Centenario della nascita; commemorativi di Donatello nel V Centenario della morte; commemorativi di Benedetto Croce nel I Centenario della nascita; a soggetto turistico:
+
+celebrativi dei Campionati Mondiali di Bob a due e Bob a quattro; celebrativi della "Universiade d'Inverno 1966";
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+E' autorizzata l'emissione delle seguenti serie di francobolli nell'anno 1966;
+ a) celebrativi dell'idea Europea;
+ b) celebrativi della VIII Giornata del Francobollo;
+ c) celebrativi del XX anniversario dell'avvento della Repubblica;
+ d) celebrativi del I Centenario dell'Unione del Veneto e del Mantovano all'Italia, della Battaglia di Bezzecca e delle Obbedisco di Garibaldi;
+ e) commemorativi di Giotto nel VII Centenario della nascita;
+ f) commemorativi di Donatello nel V Centenario della morte;
+ g) commemorativi di Benedetto Croce nel I Centenario della nascita;
+ h) a soggetto turistico;
+ i) celebrativi dei Campionati Mondiali di Bob a due e Bob a quattro;
+ l) celebrativi della "Universiade d'inverno 1966".
+
+## Art. 2.
+
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno indicati i valori, le caratteristiche tecniche ed i termini di validita' e di cambio delle serie di francobolli di cui al precedente art. 1.
+

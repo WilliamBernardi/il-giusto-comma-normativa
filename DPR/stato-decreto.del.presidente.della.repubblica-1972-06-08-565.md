@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 565
+data: 1972-06-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-08;565
+codice_redazionale: 072U0565
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 giugno 1972
+                565
+                Autorizzazione all'associazione "Tra noi", con sede in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 giugno 1972, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'associazione "Tra noi", con sede in Roma, viene autorizzata ad accettare la donazione disposta in suo favore dalla societa' anonima italiana immobiliare Orione, con sede in Roma, via Etruria, 6, costituita da un'area edificabile sita in Roma, di mq. 4476.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 2 ottobre 1972
+ Atti del Governo, registro n. 251, foglio n. 55. - CARUSO
+

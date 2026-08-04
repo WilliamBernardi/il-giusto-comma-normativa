@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 787
+data: 1948-02-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-25;787
+codice_redazionale: 048U0787
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 febbraio 1948
+                787
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Rocco, nel comune di Torrevecchia Teatina (Chieti).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 febbraio 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Chieti in data 1 novembre 1936, integrato con postille 20 aprile e 28 luglio 1947, relativo all'erezione della parrocchia di San Rocco, nel comune di Torrevecchia Teatina (Chieti).
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte del conti, addi' 12 giugno 1948
+

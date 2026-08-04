@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2214
+data: 1939-11-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-11-30;2214
+codice_redazionale: 039U2214
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:00Z
+---
+
+REGIO DECRETO
+                30 novembre 1939
+                2214
+                Erezione in ente morale della Cassa scolastica della Regia scuola secondaria di avviamento professionale a tipo industriale «IV Novembre», di Palazzolo sull'Oglio. (039U2214)
+
+Entrata in vigore del provvedimento: 24/03/1940
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

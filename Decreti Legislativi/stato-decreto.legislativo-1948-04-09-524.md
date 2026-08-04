@@ -1,0 +1,86 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 524
+data: 1948-04-09
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-04-09;524
+codice_redazionale: 048U0524
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:21Z
+---
+
+DECRETO LEGISLATIVO
+                09 aprile 1948
+                524
+                Norme modificative ed integrative della legge 26 gennaio 1942, n. 39, istitutiva del ruolo degli ufficiali del Corpo delle guardie di pubblica sicurezza.
+
+## - CAPO I. Commissioni di avanzamento per le promozioni ai gradi di maggiore generale ispettore, di colonnello e di tenente colonnello del Corpo delle guardie di pubblica sicurezza.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## - CAPO II. Esame di idoneita' per le promozioni al grado di maggiore del Corpo delle guardie di pubblica sicurezza.
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## - CAPO III. Reclutamento degli ufficiali del Corpo delle guardie di pubblica sicurezza.
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+
+

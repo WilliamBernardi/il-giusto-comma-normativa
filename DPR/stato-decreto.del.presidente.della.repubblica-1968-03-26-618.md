@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 618
+data: 1968-03-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-26;618
+codice_redazionale: 068U0618
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 marzo 1968
+                618
+                Erezione in ente morale della fondazione "Andrea Biondo", con sede in Palermo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Ministro per l'interno, la fondazione "Andrea Biondo", con sede in Palermo, viene eretta in ente morale e ne viene approvato lo statuto. La fondazione stessa, inoltre, viene autorizzata ad accettare dalla sig.ra Margherita Comida ved. Biondo il conferimento dei beni disposti con atto pubblico 26 gennaio 1966 e testamento olografo del 10 dicembre 1960; tale conferimento ha per oggetto, oltre che beni mobili ed attrezzature varie, i seguenti immobili: grande fabbricato distinto nel nuovo catasto edilizio urbano di Palermo alla partita 9213, foglio di mappa 128, particella 916; negozi in via Teatro Biondo, di cui ai numeri civici 1, 3A, 3c e 9, distinti nel N.C.E.U. di Palermo alla partita 9213, foglio 33, particella 853; immobile, composto di 14 appartamenti, sito in via Tommaso Gargallo n. 4, distinto al N.C.E.U. di Palermo alla partita 9213, foglio 33, particella 366.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 98. - GRECO
+

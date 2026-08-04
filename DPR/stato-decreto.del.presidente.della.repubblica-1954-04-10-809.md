@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 809
+data: 1954-04-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-04-10;809
+codice_redazionale: 054U0809
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 aprile 1954
+                809
+                Autorizzazione all'Universita' di Bari ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 aprile 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Bari, viene autorizzata ad accettare la donazione di L. 102.000 contanti, proveniente dalla somma di 100.000 raccolte mediante sottoscrizioni e dalla somma di L. 2000 versate dal prof.
+ Giuseppe Sangiorgi, disposta in suo favore dal prof. Bernardo Terio, con atto pubblico amministrativo del 28 giugno 1952, per l'istituzione, con la rendita del capitale donato, di un premio di studio biennale intitolato "Premio prof. Augusto Stefanelli" e da conferirsi, per concorso, secondo le modalita' che saranno fissate in apposito regolamento.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 21 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 71. - TEMPESTA
+

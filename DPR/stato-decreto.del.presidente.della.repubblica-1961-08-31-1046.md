@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1046
+data: 1961-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-31;1046
+codice_redazionale: 061U1046
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1961
+                1046
+                Riconoscimento, agli, effetti civili, della erezione della parrocchia della Presentazione della B.V.M. e di San Giovanni Battista, olim San Girolamo, in frazione Passarella del comune di San Dona' di Piave (Venezia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 agosto 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Treviso in data 10 giugno 1911, integrato con altro decreto del 13 febbraio 1960 e dichiarazione del 21 febbraio 1960, relativo alla erezione della parrocchia della Presentazione della B.V.M. e di San Giovanni Battista, olim San Girolamo, in frazione Passarella del comune di San Dona' di Piave (Venezia).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 ottobre 1961
+ Atti del Governo, registro n. 140, foglio n. 161. - VILLA
+

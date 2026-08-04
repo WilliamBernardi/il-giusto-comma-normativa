@@ -1,0 +1,55 @@
+---
+tipo: REGIO DECRETO
+numero: 7158
+data: 1890-09-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-09-01;7158
+codice_redazionale: 090U7158
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:06Z
+---
+
+REGIO DECRETO
+                01 settembre 1890
+                7158
+                Che approva il progetto della nuova circoscrizione territoriale dei comuni di S. Maria di Licodia e di Paterno' (Catania). (090U7158)
+
+Entrata in vigore del provvedimento: 13/11/1890
+
+## Art. 1.
+
+UMBERTO I. 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'interno, presidente del Consiglio dei Ministri; 
+ 
+ Viste le deliberazioni del Consiglio comunale di S. Maria di Licodia 21 agosto 1877 e 23 gennaio 1881, e la domanda di quella Giunta Municipale in data 29 settembre 1877 nonche' la deliberazione 15 dicembre 1877 del Consiglio comunale di Paterno' e quella della Giunta Municipale pure di Paterno' in data 16 dicembre 1880; 
+ 
+ Vista la deliberazione 26 giugno 1878 del Coniglio provinciale di Catania; 
+ 
+ Visti tutti gli atti e documenti relativi; 
+ 
+ Visto l'art. 16 ultimo alinea della legge comunale e provinciale, testo unico, in data 10 febbraio 1889, n. 5921 (serie 3ª); 
+ 
+ Udito il parere del Consiglio di Stato; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ E'approvato il progetto della nuova circoscrizione territoriale dei comuni di S. Maria di Licodia e di Paterno', conseguentemente i confini dei detti comuni sono quelli risultanti dalla pianta corografica bollata il 10 maggio 1889 e firmata 19 maggio 1890, la quale verra', d'ordine Nostro, munita di visto dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta Ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Bergamo, addi' 1 settembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.
+

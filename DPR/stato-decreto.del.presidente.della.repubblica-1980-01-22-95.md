@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 95
+data: 1980-01-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-22;95
+codice_redazionale: 080U0095
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 gennaio 1980
+                95
+                Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 gennaio 1980, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare il legato, consistente in azioni, obbligazioni e libretto di deposito, del valore complessivo lire 19.209.319, disposto dalla sig.ra Maria Zavater ved. Galli con testamento olografo 23 giugno 1975, pubblicato in data 14 luglio 1977, n. 43403 di repertorio, a rogito dott. Mario Matricardi, notaio in Verbania-Pallanza (Novara), registrato a Verbania in data 26 luglio 1977, n. 1750, mod. I, vol. 161.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 21 marzo 1980
+ Registro n. 2 Presidenza, foglio n. 342
+

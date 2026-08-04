@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4509
+data: 1952-11-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-02;4509
+codice_redazionale: 052U4509
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 novembre 1952
+                4509
+                Autorizzazione all'Universita' di Napoli ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 novembre 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' di Napoli viene autorizzata ad accettare la donazione di lire 30.000 in contanti, disposta in suo favore dal professore Luigi Auricchio, a nome e per conto del personale insegnante della Scuola di specializzazione in pediatria e del personale sanitario della clinica pediatrica, con atto pubblico amministrativo in data 8 giugno 1951, per l'istituzione di un premio di studio da intitolarsi "Premio dott. Giovanni Fiordelisi" e da conferirsi, ogni cinque anni, ad uno specializzato nel quinquennio in pediatria presso l'Universita' di Napoli, il quale abbia svolto la migliore tesi in detta specializzazione.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 5 marzo 1953
+ Atti del Governo, registro n. 75, foglio n. 56. - PALLA
+

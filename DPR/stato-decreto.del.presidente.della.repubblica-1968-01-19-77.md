@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 77
+data: 1968-01-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-01-19;77
+codice_redazionale: 068U0077
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 gennaio 1968
+                77
+                Riconoscimento, agli effetti civili, della unione della parrocchia di S. Caterina V. e M. con quella dei SS. Apostoli Pietro e Paolo, nel comune di Roccalbegna (Grosseto).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 gennaio 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Amministratore apostolico di Sovana-Pitigliano in data 1 ottobre 1966, relativo all'unione perpetua "aeque principalis" della parrocchia di 5.
+ Caterina V. e M., in frazione omonima del comune di Roccalbegna (Grosseto), con quella dei SS. Apostoli Pietro e Paolo, nello stesso comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 17 febbraio 1968
+ Atti del Governo, registro n. 217, foglio n. 77. - GRECO
+

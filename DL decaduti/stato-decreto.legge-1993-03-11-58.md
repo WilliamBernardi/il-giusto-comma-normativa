@@ -1,0 +1,67 @@
+---
+tipo: DECRETO-LEGGE
+numero: 58
+data: 1993-03-11
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1993-03-11;58
+codice_redazionale: 093G0114
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1993-07-19
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                11 marzo 1993
+                58
+                 Interventi urgenti in favore dell'economia.
+
+Entrata in vigore del decreto: 11-3-1993.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 19 LUGLIO 1993, N. 237
+

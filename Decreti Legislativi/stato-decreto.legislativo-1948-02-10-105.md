@@ -1,0 +1,84 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 105
+data: 1948-02-10
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-02-10;105
+codice_redazionale: 048U0105
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 1994-01-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:28Z
+---
+
+DECRETO LEGISLATIVO
+                10 febbraio 1948
+                105
+                Disposizioni sull'ordinamento delle banche popolari.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 1 SETTEMBRE 1993, N. 385))
+
+
+

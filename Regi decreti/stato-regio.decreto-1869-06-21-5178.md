@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5178
+data: 1869-06-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1869-06-21;5178
+codice_redazionale: 069U5178
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:06Z
+---
+
+REGIO DECRETO
+                21 giugno 1869
+                5178
+                Col quale e' revocato il Decreto 7 gennaio 1869 di soppressione del Comune di Novegro, ed il Comune di Lambrate e' restituito alla sua autonomia. (069U5178)
+
+Entrata in vigore del provvedimento: 12/08/1869
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

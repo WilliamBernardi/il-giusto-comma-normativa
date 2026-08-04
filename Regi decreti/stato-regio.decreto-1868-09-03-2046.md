@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1868-09-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1868-09-03;2046
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:37Z
+---
+
+REGIO DECRETO
+                03 settembre 1868
+                MMXLVI
+                Col quale i posti di grazia fondati nella Casa di educazione di San Paolo e nei Conservatorii delle Orsoline e delle Vincenzine di Parma, verranno provvisoriamente assegnati al Collegio femminile municipale di S. Agostino di Piacenza. (6802046R)
+
+Entrata in vigore del provvedimento: 02/11/1868
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

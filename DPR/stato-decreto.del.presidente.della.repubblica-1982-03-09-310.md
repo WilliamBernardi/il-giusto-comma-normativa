@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 310
+data: 1982-03-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-09;310
+codice_redazionale: 082U0310
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 marzo 1982
+                310
+                Riconoscimento, agli effetti civili, della separazione della parrocchia di S. Lorenzo martire dalle parrocchie del S. Sepolcro e di S. Vittoria, in Acquapendente.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 marzo 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Montefiascone-Acquapendente 15 settembre 1980, relativo alla separazione della parrocchia di S. Lorenzo martire, in Acquapendente (Viterbo), dalle parrocchie del S. Sepolcro e di S. Vittoria nel medesimo comune.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 28 maggio 1982
+ Registro n. 11 Interno, foglio n. 300
+

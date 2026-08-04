@@ -1,0 +1,34 @@
+---
+tipo: REGIO DECRETO
+numero: 2985
+data: 1866-06-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-06-14;2985
+codice_redazionale: 066U2985
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:48Z
+---
+
+REGIO DECRETO
+                14 giugno 1866
+                2985
+                Che ordina lo discioglimento e la ricostituzione dei Consigli provinciali delle Provincie Toscane, ed approva un nuovo reparto dei Consiglieri provinciali assegnati a ciascuna Pretura delle Provincie stesse. (066U2985)
+
+Entrata in vigore del provvedimento: 13/07/1866
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 831
+data: 1985-10-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-07;831
+codice_redazionale: 085U0831
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 ottobre 1985
+                831
+                Autorizzazione all'Automobile club di Varese ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 ottobre 1985, col quale, sulla proposta del Ministro del turismo e dello spettacolo, l'Automobile club di Varese viene autorizzato ad acquistare dall'Istituto autonomo bustese per le case popolari, al prezzo di L. 255.000.000, due quote del fabbricato sito in Busto Arsizio (Varese), via delle Caserme, 2, distinte nel nuovo catasto edilizio urbano del comune di Busto Arsizio con il mappale 211 rispettivamente sub 26 e sub 6, da destinare agli uffici della locale delegazione. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 31 dicembre 1985 
+ Registro n. 6 Turismo, foglio n. 350
+

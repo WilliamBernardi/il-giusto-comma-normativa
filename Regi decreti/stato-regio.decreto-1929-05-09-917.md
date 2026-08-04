@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 917
+data: 1929-05-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-05-09;917
+codice_redazionale: 029U0917
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:54Z
+---
+
+REGIO DECRETO
+                09 maggio 1929
+                917
+                Erezione in ente morale della Fondazione intitolata « Banca di Perugia gia' Cassa di risparmio », con sede in Perugia. (029U0917)
+
+Entrata in vigore del provvedimento: 27/06/1929
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

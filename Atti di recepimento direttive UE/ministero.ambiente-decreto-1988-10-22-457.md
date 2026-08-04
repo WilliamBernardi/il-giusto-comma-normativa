@@ -1,0 +1,87 @@
+---
+tipo: DECRETO
+numero: 457
+data: 1988-10-22
+titolo: ""
+urn: urn:nir:ministero.ambiente:decreto:1988-10-22;457
+codice_redazionale: 088G0518
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 1998-11-10
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:48Z
+---
+
+DECRETO
+                22 ottobre 1988
+                457
+                 Norme in materia di esportazione ed importazione dei
+rifiuti.
+
+Entrata in vigore del decreto: 15/11/1988
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370))
+
+
+
+## Art. 2. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 3. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 4. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 5. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 6. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 7. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 8. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 9. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 10. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 11. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 12. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 13. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 14. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 15. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+
+## Art. 16. — (( PROVVEDIMENTO ABROGATO DAL DECRETO 3 SETTEMBRE 1998, N. 370 ))
+
+
+

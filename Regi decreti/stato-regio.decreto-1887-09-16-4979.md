@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 4979
+data: 1887-09-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-09-16;4979
+codice_redazionale: 087U4979
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:59Z
+---
+
+REGIO DECRETO
+                16 settembre 1887
+                4979
+                Che determina il numero e l'ampiezza delle zone di servitu' militare da applicarsi alle proprieta' fondiarie adiacenti alle fortificazioni del Passo del Giovo. (087U4979)
+
+Entrata in vigore del provvedimento: 29/10/1887
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

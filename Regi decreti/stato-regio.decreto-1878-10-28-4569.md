@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 4569
+data: 1878-10-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1878-10-28;4569
+codice_redazionale: 078U4569
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:33Z
+---
+
+REGIO DECRETO
+                28 ottobre 1878
+                4569
+                Che dichiara opera di pubblica utilita' la costruzione di un magazzino a polvere in Reggio Calabria. (078U4569)
+
+Entrata in vigore del provvedimento: 10/12/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

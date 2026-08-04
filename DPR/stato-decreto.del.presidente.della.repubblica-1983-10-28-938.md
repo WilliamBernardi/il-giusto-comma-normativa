@@ -1,0 +1,89 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 938
+data: 1983-10-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-10-28;938
+codice_redazionale: 083U0938
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 ottobre 1983
+                938
+                Modificazioni allo statuto dell'Universita' degli studi di Milano.
+
+Veduto lo statuto dell'Universita' di Milano, approvato con regio decreto 4 novembre 1926, n. 2280, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Milano e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+## Art. 1.
+
+Nell'art. 27, concernente il corso di laurea in storia, all'insegnamento fondamentale dell'indirizzo medioevale di "storia romana" e apposto l'asterisco.
+ Nell'elenco degli insegnamenti complementari del medesimo indirizzo medioevale e' apposto l'asterisco agli insegnamenti di "archivistica" e di "antropologia culturale"; inoltre sono inseriti i seguenti insegnamenti:
+ storia greca;
+ demografia storica;
+ letteratura latina;
+ geografia.
+ Nell'elenco degli insegnamenti complementari dell'indirizzo moderno sono inseriti i seguenti insegnamenti:
+ storia dell'Europa occidentale nell'eta' moderna;
+ * archivistica;
+ bibliografia e biblioteconomia;
+ storia del diritto italiano;
+ museologia;
+ didattica della storia;
+ * antropologia culturale;
+ storia delle esplorazioni geografiche;
+ storia del commercio e della navigazione;
+ * storia romana;
+ storia contemporanea;
+ demografia storica;
+ storia della Chiesa;
+ storia delle dottrine politiche;
+ storia economica;
+ storia delle dottrine economiche;
+ storia e civilta' dei Paesi arabi;
+ storia delle istituzioni politiche;
+ storia del giornalismo;
+ storia delle relazioni internazionali;
+ storia dei partiti e dei movimenti politici;
+ storia dell'Italia contemporanea;
+ storia dell'industria;
+ storia della musica;
+ storia della letteratura italiana moderna e contemporanea;
+ storia greca;
+ letteratura ispanoamericana;
+ storia dell'arte contemporanea;
+ storia e civilta' dell'India e dell'Estremo Oriente;
+ storia della pedagogia;
+ storia dell'arte moderna;
+ geografia;
+ geografia politica;
+ geografia economica;
+ geografia storica;
+ storia della geografia;
+ metodologia della ricerca geografica;
+ geografia regionale (per aree linguistiche);
+ geografia delle popolazioni;
+ geografia urbana e rurale.
+

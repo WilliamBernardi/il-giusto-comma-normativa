@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 256
+data: 1970-03-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-03-09;256
+codice_redazionale: 070U0256
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 marzo 1970
+                256
+                Mutamento della denominazione della frazione "Ginestra" del comune di Lastra a Signa, in provincia di Firenze, in quella di "Ginestra Fiorentina".
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione n. 6 del 4 luglio 1969, con la quale il consiglio comunale di Lastra a Signa (Firenze) ha chiesto che, in accoglimento del desiderio degli abitanti della frazione "Ginestra", l'attuale denominazione della frazione stessa sia mutata in quella di "Ginestra Fiorentina", allo scopo di evitare i continui disguidi postali dovuti all'omonimia esistente con localita' di altra provincia;
+ Vista la deliberazione n. 19/c del 19 gennaio 1970, con la quale il consiglio provinciale di Firenze ha espresso parere favorevole in merito al proposto cambio di denominazione;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La denominazione della frazione "Ginestra" del comune di Lastra a Signa, in provincia di Firenze, e' mutata in quella di "Ginestra Fiorentina".
+

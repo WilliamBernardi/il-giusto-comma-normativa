@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1710
+data: 1922-12-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-12-17;1710
+codice_redazionale: 022U1710
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:57Z
+---
+
+REGIO DECRETO
+                17 dicembre 1922
+                1710
+                Erezione in Ente morale. (022U1710)
+
+Entrata in vigore del provvedimento: 25/01/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

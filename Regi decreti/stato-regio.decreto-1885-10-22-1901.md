@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1885-10-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-10-22;1901
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:20Z
+---
+
+REGIO DECRETO
+                22 ottobre 1885
+                MDCCCCI
+                Che scioglie l'amministrazione dell'opera pia intitolata Casa dei poveri in Belvedere Ostrense, e ne affida temporaneamente la gestione alla congregazione di carita'. (8501901R)
+
+Entrata in vigore del provvedimento: 26/11/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

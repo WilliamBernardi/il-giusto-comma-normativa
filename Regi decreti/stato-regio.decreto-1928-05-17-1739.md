@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1739
+data: 1928-05-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-05-17;1739
+codice_redazionale: 028U1739
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:55Z
+---
+
+REGIO DECRETO
+                17 maggio 1928
+                1739
+                Erezione in ente morale dell'«Associazione Messinese Sport e Turismo», in Messina. (028U1739)
+
+Entrata in vigore del provvedimento: 18/08/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

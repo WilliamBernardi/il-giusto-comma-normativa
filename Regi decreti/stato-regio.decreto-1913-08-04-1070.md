@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1070
+data: 1913-08-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-08-04;1070
+codice_redazionale: 013U1070
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:54Z
+---
+
+REGIO DECRETO
+                04 agosto 1913
+                1070
+                Col quale viene aggiunto un articolo al regolamento approvato col R. decreto 21 novembre 1907, n. 805, per l'esecuzione della legge il luglio 1907, n. 491, riguardante l'istituzione di un laboratorio chimico per le sostanze esplosive. (013U1070)
+
+Entrata in vigore del provvedimento: 02/10/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

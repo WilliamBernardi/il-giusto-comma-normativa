@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-08-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-08-10;350
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:14Z
+---
+
+REGIO DECRETO
+                10 agosto 1904
+                CCCL
+                Col quale il comune di Sassari e' autorizzato a continuare a riscuotere un dazio di consumo sull'amido e sulle terraglie. (0400350R)
+
+Entrata in vigore del provvedimento: 29/09/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

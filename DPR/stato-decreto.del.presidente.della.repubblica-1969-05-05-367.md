@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 367
+data: 1969-05-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-05-05;367
+codice_redazionale: 069U0367
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 maggio 1969
+                367
+                Modificazione allo statuto del Consorzio per il nucleo di industrializzazione di Tortoli-Arbatax.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il proprio decreto del 10 ottobre 1962, n. 1601, con il quale e' stato approvato lo statuto del Consorzio per il nucleo di industrializzazione di Tortoli-Arbatax;
+ Visto il proprio decreto del 14 giugno 1968, n. 897, con il quale e' stata approvata la modifica dell'art. 3 dello statuto del Consorzio per il nucleo di industrializzazione di Tortoli-Arbatax;
+ Vista la deliberazione n. 3 del 6 novembre 1968 del consiglio generale del Consorzio per il nucleo di industrializzazione di Tortoli-Arbatax;
+ Viste le note del Ministero dell'industria, del commercio e dell'artigianato n. 107693/74 del 2 gennaio 1969 e n. 100142 del 14 gennaio 1969, concernenti l'approvazione della suindicata deliberazione da parte della commissione per la vigilanza e la tutela dei consorzi di sviluppo industriale;
+ Visto il testo unico delle leggi sul Mezzogiorno approvato con decreto del Presidente della Repubblica 30 giugno 1967, n. 1522;
+ Vista la deliberazione del 18 febbraio 1969 del Comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvata la modifica apportata all'art. 1 dello statuto del Consorzio per il nucleo di industrializzazione di Tortoli-Arbatax nei termini indicati dalla deliberazione n. 3 del 6 novembre 1968 del consiglio generale del consorzio stesso.
+

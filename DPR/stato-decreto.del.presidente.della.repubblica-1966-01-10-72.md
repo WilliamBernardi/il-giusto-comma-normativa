@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 72
+data: 1966-01-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-01-10;72
+codice_redazionale: 066U0072
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 gennaio 1966
+                72
+                Autorizzazione all'Accademia nazionale di Santa Cecilia, con sede in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 gennaio 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Accademia nazionale di Santa Cecilia, con sede in Roma, viene autorizzata ad accettare la somma di L. 500.000 che la signora Vittoria Blumenstihl, per onorare la memoria, del defunto marito Paolo Blumenstihl, ha donato all'Accademia medesima ad incremento del patrimonio dell'annessa Fondazione "Blumenstihl".
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 febbraio 1966
+ Atti del Governo, registro n. 201, foglio n. 84. - VILLA
+

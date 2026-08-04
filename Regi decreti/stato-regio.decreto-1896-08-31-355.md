@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1896-08-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1896-08-31;355
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:31Z
+---
+
+REGIO DECRETO
+                31 agosto 1896
+                CCCLV
+                Con cui si erige in ente morale il ricovero di mendicita' di Tirano (Sondrio), si trasforma a suo favore il locale monte di pieta' e si approva lo statuto per il detto ricovero. (9600355R)
+
+Entrata in vigore del provvedimento: 10/10/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

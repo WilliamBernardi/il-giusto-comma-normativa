@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1908-06-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1908-06-25;440
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:29Z
+---
+
+REGIO DECRETO
+                25 giugno 1908
+                CCCCXL
+                Concernente trasformazione di Monti frumentari in Cassa di prestanze agrarie. (0800440R)
+
+Entrata in vigore del provvedimento: 21/11/1908
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

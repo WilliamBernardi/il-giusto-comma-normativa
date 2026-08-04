@@ -1,0 +1,1712 @@
+---
+tipo: REGIO DECRETO
+numero: 2701
+data: 1865-12-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1865-12-23;2701
+codice_redazionale: 065U2701
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2002-07-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:35Z
+---
+
+REGIO DECRETO
+                23 dicembre 1865
+                2701
+                Che approva la Tariffa in materia penale. (065U2701)
+
+Entrata in vigore del provvedimento: 14/01/1866
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+
+
+### Art. 1.
+
+Tariffa-art. 1 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 2.
+
+Tariffa-art. 2 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 3.
+
+Tariffa-art. 3 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 4.
+
+Tariffa-art. 4 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 5.
+
+Tariffa-art. 5 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 6.
+
+Tariffa-art. 6 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 7.
+
+Tariffa-art. 7 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 8.
+
+Tariffa-art. 8 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 9.
+
+Tariffa-art. 9 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 10.
+
+Tariffa-art. 10 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 11.
+
+Tariffa-art. 11 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 12.
+
+Tariffa-art. 12 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 13.
+
+Tariffa-art. 13 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 14.
+
+Tariffa-art. 14 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 15.
+
+Tariffa-art. 15 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 16.
+
+Tariffa-art. 16 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 17.
+
+Tariffa-art. 17 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 18.
+
+Tariffa-art. 18 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 19.
+
+Tariffa-art. 19 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 20.
+
+Tariffa-art. 20 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 20-bis.
+
+Tariffa-art. 20-bis 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 21.
+
+Tariffa-art. 21 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 22.
+
+Tariffa-art. 22 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 23.
+
+Tariffa-art. 23 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 24.
+
+Tariffa-art. 24 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 25.
+
+Tariffa-art. 25 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 26.
+
+Tariffa-art. 26 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 27.
+
+Tariffa-art. 27 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 28.
+
+Tariffa-art. 28 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 29.
+
+Tariffa-art. 29 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 29-bis.
+
+Tariffa-art. 29-bis 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 29-ter.
+
+Tariffa-art. 29-ter 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 30.
+
+Tariffa-art. 30 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 31.
+
+Tariffa-art. 31 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 32.
+
+Tariffa-art. 32 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 33.
+
+Tariffa-art. 33 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 34.
+
+Tariffa-art. 34 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 35.
+
+Tariffa-art. 35 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 36.
+
+Tariffa-art. 36 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 37.
+
+Tariffa-art. 37 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 38.
+
+Tariffa-art. 38 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 39.
+
+Tariffa-art. 39 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 40.
+
+Tariffa-art. 40 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 41.
+
+Tariffa-art. 41 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 42.
+
+Tariffa-art. 42 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 43.
+
+Tariffa-art. 43 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 44.
+
+Tariffa-art. 44 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 45.
+
+Tariffa-art. 45 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 46.
+
+Tariffa-art. 46 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 47.
+
+Tariffa-art. 47 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 48.
+
+Tariffa-art. 48 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 49.
+
+Tariffa-art. 49 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 50.
+
+Tariffa-art. 50 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 51.
+
+Tariffa-art. 51 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 52.
+
+Tariffa-art. 52 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 53.
+
+Tariffa-art. 53 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 54.
+
+Tariffa-art. 54 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 55.
+
+Tariffa-art. 55 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 56.
+
+Tariffa-art. 56 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 57.
+
+Tariffa-art. 57 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 58.
+
+Tariffa-art. 58 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 59.
+
+Tariffa-art. 59 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 60.
+
+Tariffa-art. 60 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 61.
+
+Tariffa-art. 61 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 62.
+
+Tariffa-art. 62 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 63.
+
+Tariffa-art. 63 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 64.
+
+Tariffa-art. 64 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 65.
+
+Tariffa-art. 65 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 66.
+
+Tariffa-art. 66 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 67.
+
+Tariffa-art. 67 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 68.
+
+Tariffa-art. 68 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 69.
+
+Tariffa-art. 69 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 70.
+
+Tariffa-art. 70 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 71.
+
+Tariffa-art. 71 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 72.
+
+Tariffa-art. 72 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 73.
+
+Tariffa-art. 73 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 74.
+
+Tariffa-art. 74 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 75.
+
+Tariffa-art. 75 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 76.
+
+Tariffa-art. 76 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 77.
+
+Tariffa-art. 77 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 78.
+
+Tariffa-art. 78 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 79.
+
+Tariffa-art. 79 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 80.
+
+Tariffa-art. 80 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 81.
+
+Tariffa-art. 81 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 82.
+
+Tariffa-art. 82 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 83.
+
+Tariffa-art. 83 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 84.
+
+Tariffa-art. 84 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 85.
+
+Tariffa-art. 85 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 86.
+
+Tariffa-art. 86 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 87.
+
+Tariffa-art. 87 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 88.
+
+Tariffa-art. 88 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 89.
+
+Tariffa-art. 89 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 90.
+
+Tariffa-art. 90 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 91.
+
+Tariffa-art. 91 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 92.
+
+Tariffa-art. 92 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 93.
+
+Tariffa-art. 93 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 94.
+
+Tariffa-art. 94 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 95.
+
+Tariffa-art. 95 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 96.
+
+Tariffa-art. 96 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 97.
+
+Tariffa-art. 97 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 98.
+
+Tariffa-art. 98 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 99.
+
+Tariffa-art. 99 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 100.
+
+Tariffa-art. 100 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 101.
+
+Tariffa-art. 101 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 102.
+
+Tariffa-art. 102 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 103.
+
+Tariffa-art. 103 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 104.
+
+Tariffa-art. 104 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 105.
+
+Tariffa-art. 105 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 106.
+
+Tariffa-art. 106 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 107.
+
+Tariffa-art. 107 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 108.
+
+Tariffa-art. 108 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 109.
+
+Tariffa-art. 109 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 110.
+
+Tariffa-art. 110 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 111.
+
+Tariffa-art. 111 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 112.
+
+Tariffa-art. 112 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 113.
+
+Tariffa-art. 113 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 114.
+
+Tariffa-art. 114 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 115.
+
+Tariffa-art. 115 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 116.
+
+Tariffa-art. 116 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 117.
+
+Tariffa-art. 117 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 118.
+
+Tariffa-art. 118 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 119.
+
+Tariffa-art. 119 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 120.
+
+Tariffa-art. 120 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 121.
+
+Tariffa-art. 121 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 122.
+
+Tariffa-art. 122 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 123.
+
+Tariffa-art. 123 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 124.
+
+Tariffa-art. 124 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 125.
+
+Tariffa-art. 125 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 126.
+
+Tariffa-art. 126 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 127.
+
+Tariffa-art. 127 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 128.
+
+Tariffa-art. 128 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 129.
+
+Tariffa-art. 129 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 130.
+
+Tariffa-art. 130 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 131.
+
+Tariffa-art. 131 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 132.
+
+Tariffa-art. 132 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 133.
+
+Tariffa-art. 133 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 134.
+
+Tariffa-art. 134 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 135.
+
+Tariffa-art. 135 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 136.
+
+Tariffa-art. 136 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 137.
+
+Tariffa-art. 137 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 138.
+
+Tariffa-art. 138 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 139.
+
+Tariffa-art. 139 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 140.
+
+Tariffa-art. 140 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 141.
+
+Tariffa-art. 141 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 142.
+
+Tariffa-art. 142 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 143.
+
+Tariffa-art. 143 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 144.
+
+Tariffa-art. 144 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 145.
+
+Tariffa-art. 145 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 146.
+
+Tariffa-art. 146 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 147.
+
+Tariffa-art. 147 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 148.
+
+Tariffa-art. 148 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 149.
+
+Tariffa-art. 149 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 150.
+
+Tariffa-art. 150 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 151.
+
+Tariffa-art. 151 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 152.
+
+Tariffa-art. 152 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 153.
+
+Tariffa-art. 153 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 154.
+
+Tariffa-art. 154 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 155.
+
+Tariffa-art. 155 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 156.
+
+Tariffa-art. 156 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 157.
+
+Tariffa-art. 157 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 158.
+
+Tariffa-art. 158 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 159.
+
+Tariffa-art. 159 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 160.
+
+Tariffa-art. 160 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 161.
+
+Tariffa-art. 161 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 162.
+
+Tariffa-art. 162 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 163.
+
+Tariffa-art. 163 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 164.
+
+Tariffa-art. 164 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 165.
+
+Tariffa-art. 165 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 166.
+
+Tariffa-art. 166 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 167.
+
+Tariffa-art. 167 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 168.
+
+Tariffa-art. 168 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 169.
+
+Tariffa-art. 169 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 170.
+
+Tariffa-art. 170 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 171.
+
+Tariffa-art. 171 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 172.
+
+Tariffa-art. 172 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 173.
+
+Tariffa-art. 173 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 174.
+
+Tariffa-art. 174 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 175.
+
+Tariffa-art. 175 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 176.
+
+Tariffa-art. 176 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 177.
+
+Tariffa-art. 177 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 178.
+
+Tariffa-art. 178 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 179.
+
+Tariffa-art. 179 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 180.
+
+Tariffa-art. 180 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 181.
+
+Tariffa-art. 181 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 182.
+
+Tariffa-art. 182 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 183.
+
+Tariffa-art. 183 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 184.
+
+Tariffa-art. 184 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 185.
+
+Tariffa-art. 185 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 186.
+
+Tariffa-art. 186 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 187.
+
+Tariffa-art. 187 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 188.
+
+Tariffa-art. 188 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 189.
+
+Tariffa-art. 189 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 190.
+
+Tariffa-art. 190 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 191.
+
+Tariffa-art. 191 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 192.
+
+Tariffa-art. 192 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 193.
+
+Tariffa-art. 193 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 194.
+
+Tariffa-art. 194 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 195.
+
+Tariffa-art. 195 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 196.
+
+Tariffa-art. 196 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 197.
+
+Tariffa-art. 197 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 198.
+
+Tariffa-art. 198 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 199.
+
+Tariffa-art. 199 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 200.
+
+Tariffa-art. 200 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 201.
+
+Tariffa-art. 201 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 202.
+
+Tariffa-art. 202 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 203.
+
+Tariffa-art. 203 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 204.
+
+Tariffa-art. 204 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 205.
+
+Tariffa-art. 205 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 206.
+
+Tariffa-art. 206 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 207.
+
+Tariffa-art. 207 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 208.
+
+Tariffa-art. 208 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 209.
+
+Tariffa-art. 209 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 210.
+
+Tariffa-art. 210 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 211.
+
+Tariffa-art. 211 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 212.
+
+Tariffa-art. 212 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 213.
+
+Tariffa-art. 213 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 214.
+
+Tariffa-art. 214 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 215.
+
+Tariffa-art. 215 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 216.
+
+Tariffa-art. 216 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 217.
+
+Tariffa-art. 217 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 218.
+
+Tariffa-art. 218 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 219.
+
+Tariffa-art. 219 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 220.
+
+Tariffa-art. 220 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 221.
+
+Tariffa-art. 221 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 222.
+
+Tariffa-art. 222 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 223.
+
+Tariffa-art. 223 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 224.
+
+Tariffa-art. 224 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 225.
+
+Tariffa-art. 225 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 226.
+
+Tariffa-art. 226 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 227.
+
+Tariffa-art. 227 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 228.
+
+Tariffa-art. 228 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 229.
+
+Tariffa-art. 229 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 230.
+
+Tariffa-art. 230 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 231.
+
+Tariffa-art. 231 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 232.
+
+Tariffa-art. 232 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 233.
+
+Tariffa-art. 233 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 234.
+
+Tariffa-art. 234 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 235.
+
+Tariffa-art. 235 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 236.
+
+Tariffa-art. 236 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 237.
+
+Tariffa-art. 237 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 238.
+
+Tariffa-art. 238 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 239.
+
+Tariffa-art. 239 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 240.
+
+Tariffa-art. 240 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 241.
+
+Tariffa-art. 241 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 242.
+
+Tariffa-art. 242 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 243.
+
+Tariffa-art. 243 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 244.
+
+Tariffa-art. 244 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 245.
+
+Tariffa-art. 245 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 246.
+
+Tariffa-art. 246 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 247.
+
+Tariffa-art. 247 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 248.
+
+Tariffa-art. 248 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 249.
+
+Tariffa-art. 249 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 250.
+
+Tariffa-art. 250 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 251.
+
+Tariffa-art. 251 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 252.
+
+Tariffa-art. 252 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 253.
+
+Tariffa-art. 253 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 254.
+
+Tariffa-art. 254 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 255.
+
+Tariffa-art. 255 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 256.
+
+Tariffa-art. 256 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 257.
+
+Tariffa-art. 257 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 258.
+
+Tariffa-art. 258 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 259.
+
+Tariffa-art. 259 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 260.
+
+Tariffa-art. 260 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 261.
+
+Tariffa-art. 261 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 262.
+
+Tariffa-art. 262 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 263.
+
+Tariffa-art. 263 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 264.
+
+Tariffa-art. 264 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 265.
+
+Tariffa-art. 265 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 266.
+
+Tariffa-art. 266 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 267.
+
+Tariffa-art. 267 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 268.
+
+Tariffa-art. 268 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 269.
+
+Tariffa-art. 269 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 270.
+
+Tariffa-art. 270 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 271.
+
+Tariffa-art. 271 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 272.
+
+Tariffa-art. 272 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 273.
+
+Tariffa-art. 273 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 274.
+
+Tariffa-art. 274 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 275.
+
+Tariffa-art. 275 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 276.
+
+Tariffa-art. 276 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 277.
+
+Tariffa-art. 277 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+
+### Art. 278.
+
+Tariffa-art. 278 
+ 
+ ((PROVVEDIMENTO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115))
+

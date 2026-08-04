@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 286
+data: 1951-03-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-03-10;286
+codice_redazionale: 051U0286
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 marzo 1951
+                286
+                Riconoscimento, agli effetti civili, della erezione in parrocchia della Vicaria curata della Beata Vergine Maria della Neve, in frazione Lazzaretto del comune di Cerreto Guidi (Firenze).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 marzo 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di San Miniato in data 10 giugno 1949, integrato con postilla 1 dicembre 1950, relativo all'erezione in parrocchia della Vicaria curata della Beata Vergine Maria della Neve, in frazione Lazzaretto del comune di Cerreto Guidi (Firenze).
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 24 aprile 1951
+

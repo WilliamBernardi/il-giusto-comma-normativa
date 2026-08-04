@@ -1,0 +1,154 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 578
+data: 1953-05-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-05-30;578
+codice_redazionale: 053U0578
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 1998-05-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:15Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 maggio 1953
+                578
+                Approvazione del regolamento per l'esecuzione della legge 29 marzo 1951, n. 327, che disciplina la produzione e il commercio degli alimenti per la prima Infanzia e prodotti dietetici.
+
+## - TITOLO I Disposizioni generali
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## - TITOLO II Alimenti per la prima infanzia.
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## - TITOLO III Prodotti dietetici.
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 23. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 24. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 25. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## - TITOLO IV Vigilanza.
+
+## Art. 26. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 27. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 28. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 29. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## - TITOLO V Disposizioni transitorie e finali.
+
+## Art. 30. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+
+## Art. 31. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 19 GENNAIO 1998, N 131))
+
+
+

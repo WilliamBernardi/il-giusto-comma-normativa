@@ -1,0 +1,45 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1493
+data: 1965-12-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-12-06;1493
+codice_redazionale: 065U1493
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 dicembre 1965
+                1493
+                Assegnazione dei due rimanenti posti di professore universitario di ruolo dei centoventi istituiti dalla legge 13 luglio 1965, n. 874.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduta la legge 13 luglio 1965, n. 874, con la quale, fra l'altro, sono istituiti, per l'anno accademico 1965-66, nuovi posti di professore universitario di ruolo in misura pari a quella fissata, per l'anno accademico 1964-65, dall'art. 50, primo comma, della legge 24 luglio 1962, n. 1073;
+ Veduta la legge 24 luglio 1962, n. 1073, ed in particolare l'art. 50, con la quale veniva stabilito che i centoventi posti di professore universitario di ruolo istituiti per gli anni accademici 1963-64 e 1964-65 erano da destinare, per almeno un terzo, al raddoppiamento delle cattedre di ruolo, con i criteri di cui all'art. 6 della legge 26 gennaio 1962, n. 17;
+ Veduta la legge 26 gennaio 1962, n. 17;
+ Veduto il proprio decreto in data 22 ottobre 1965, n. 1251, con il quale veniva fatto luogo alla ripartizione di 118 dei 120 posti di professore universitario di ruolo di nuova istituzione, facendosi riserva di successiva assegnazione dei rimanenti due posti;
+ Ravvisata la necessita' di procedere, in relazione alle esigenze degli studi, all'assegnazione dei rimanenti due posti di professore di ruolo;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ I rimanenti due posti di professore universitario di ruolo sono assegnati alle Facolta' sottoindicate, con effetto dall'anno accademico 1965-66:
+
+ UNIVERSITA' DI NAPOLI
+
+ Facolta' di Giurisprudenza:
+
+ per il corso di laurea in Giurisprudenza. . . . . . . . . posti 1 
+ UNIVERSITA' DI ROMA
+
+ Facolta' di Architettura:
+
+ per il corso di laurea. . . . . . . . . . . . . . . . . . posti 1
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 784
+data: 1969-09-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-09-04;784
+codice_redazionale: 069U0784
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 settembre 1969
+                784
+                Modifiche allo statuto della Societa' italiana di scienze farmaceutiche, con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 settembre 1969, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvata la modifica degli articoli 1, 2, 3, 8 e 9 dello statuto della Societa' italiana di scienze farmaceutiche, con sede in Roma.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 6 novembre 1969
+ Atti del Governo, registro n. 230, foglio n. 10. - CARUSO
+

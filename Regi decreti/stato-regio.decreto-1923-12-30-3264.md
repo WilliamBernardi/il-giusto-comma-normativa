@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3264
+data: 1923-12-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-12-30;3264
+codice_redazionale: 023U3264
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:09Z
+---
+
+REGIO DECRETO
+                30 dicembre 1923
+                3264
+                Uso, nelle cerimonie ufficiali, delle uniformi del Presidente del Consiglio dei Ministri, dei Ministri, Sottosegretari di Stato e Ministri di Stato. (023U3264)
+
+Entrata in vigore del provvedimento: 16/05/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

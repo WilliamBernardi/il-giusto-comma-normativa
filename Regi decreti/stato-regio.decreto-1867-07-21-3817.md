@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3817
+data: 1867-07-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-07-21;3817
+codice_redazionale: 067U3817
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:56Z
+---
+
+REGIO DECRETO
+                21 luglio 1867
+                3817
+                Col quale al Consolato all'Assunzione viene destinato un Console di prima categoria. (067U3817)
+
+Entrata in vigore del provvedimento: 26/08/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

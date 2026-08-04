@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1881-10-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1881-10-25;328
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:26Z
+---
+
+REGIO DECRETO
+                25 ottobre 1881
+                CCCXXVIII
+                Che autorizza l'inversione del monte frumentario di Pallagorio (Catanzaro), in una cassa di prestante agrarie, risparmi e depositi, e ne approva lo statuto. (8100328R)
+
+Entrata in vigore del provvedimento: 15/12/1881
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,53 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 122
+data: 1948-01-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-01-01;122
+codice_redazionale: 048U0122
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 gennaio 1948
+                122
+                Collocamento in ausiliaria della terza aliquota di ufficiali generali e superiori dell'Aeronautica militare in servizio permanente effettivo.
+
+IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                
+                    Visto il regio decreto legislativo 14 maggio 1946, n. 384;
+                
+            
+            
+                
+                    Visto il decreto del Capo provvisorio dello Stato in data 19 ottobre 1947, relativo alla determinazione della terza aliquota di ufficiali generali e superiori dell'Aeronautica militare da collocare in ausiliaria ai sensi del regio decreto legislativo 14 maggio 1946, n. 384;
+                
+            
+            
+                Sulla proposta del Ministro per la difesa, di concerto con il Ministro per il tesoro; Decreta:
+
+## Art. 1.
+
+L'aliquota per ciascun grado e ruolo degli ufficiali generali e superiori dell'Aeronautica militare, in servizio permanente effettivo, che possono essere collocati in ausiliaria per la terza applicazione del regio decreto legislativo 14 maggio 1946, n. 384, stabilita con decreto 19 ottobre 1947, n. 1432, e' variata come segue:
+
+ Arma aeronautica - Ruolo naviganti:
+ generale di squadra aerea. . . . . . . . . . . . . . . . . . n. 3 generale di divisione aerea . . . . . . . . . . . . . . . . n. 10 generale di brigata aerea . . . . . . . . . . . . . . . . . n. 12 colonnello. . . . . . . . . . . . . . . . . . . . . . . . . n. 37 tenente colonnello. . . . . . . . . . . . . . . . . . . . . n. 66 maggiore. . . . . . . . . . . . . . . . . . . . . . . . . . n. 39 
+ Arma aeronautica - Ruolo servizi:
+ tenente colonnello. . . . . . . . . . . . . . . . . . . . . n. 19 maggiore. . . . . . . . . . . . . . . . . . . . . . . . . . n. 13 
+ Corpo del Genio aeronautico - Ruolo ingegneri:
+ generale ispettore . . . . . . . . . . . . . . . . . . . . . n. 1 tenente generale . . . . . . . . . . . . . . . . . . . . . . n. 3 colonnello . . . . . . . . . . . . . . . . . . . . . . . . . n. 9 tenente colonnello. . . . . . . . . . . . . . . . . . . . . n. 17 maggiore . . . . . . . . . . . . . . . . . . . . . . . . . . n. 7 
+ Corpo di Commissariato aeronautico - Ruolo Commissariato:
+ tenente generale . . . . . . . . . . . . . . . . . . . . . . n. 1 colonnello. . . . . . . . . . . . . . . . . . . . . . . . . n. 10 tenente colonnello. . . . . . . . . . . . . . . . . . . . . n. 17 maggiore . . . . . . . . . . . . . . . . . . . . . . . . . . n. 1 
+ Corpo sanitario aeronautico:
+ colonnello . . . . . . . . . . . . . . . . . . . . . . . . . n. 1
+
+## Art. 2.
+
+Il termine indicato nell'art. 2 del decreto del Capo provvisorio dello Stato 19 ottobre 1947, n. 1432, e' prorogato al 30 aprile 1948.
+

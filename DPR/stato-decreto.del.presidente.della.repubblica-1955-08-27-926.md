@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 926
+data: 1955-08-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-27;926
+codice_redazionale: 055U0926
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 agosto 1955
+                926
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della Presentazione di Maria Santissima, in frazione Norcen del comune di Pedavena (Belluno).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 agosto 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Feltre e Belluno in data 4 ottobre 1954, integrato con dichiarazione 29 marzo 1955, relativo all'erezione della parrocchia della Presentazione di Maria Santissima, in frazione Norcen del comune di Pedavena (Belluno).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 17 ottobre 1955
+ Atti dei Governo, registro n. 93, foglia n. 50. - CARLOMAGNO
+

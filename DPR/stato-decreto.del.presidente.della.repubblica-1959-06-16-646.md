@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 646
+data: 1959-06-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-06-16;646
+codice_redazionale: 059U0646
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 giugno 1959
+                646
+                Riconoscimento della personalita' giuridica dell'Aero Club "U.
+Perticucci" di Arezzo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 giugno 1959, col quale, sulla proposta del Ministro per la difesa, di concerto con il Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Aero Club "U. Perticucci" di Arezzo e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 agosto 1959
+ Atti del Governo, registro n. 120, foglio n. 38. - VILLA
+

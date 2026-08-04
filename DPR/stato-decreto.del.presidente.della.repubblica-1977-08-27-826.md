@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 826
+data: 1977-08-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-08-27;826
+codice_redazionale: 077U0826
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 agosto 1977
+                826
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Maria Assunta e di S. Lorenzo, in Visso.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 agosto 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Spoleto e Norcia 1 novembre 1976, integrato con dichiarazione di pari data, relativo alla unione temporanea aeque principaliter delle parrocchie di S. Maria Assunta, in frazione Fematre del comune di Visso (Macerata), e di S. Lorenzo, in frazione Riofreddo dello stesso comune. 
+ 
+Visto, il Guardasigilli: BONIFACIO 
+ Registrato alla Corte dei conti, addi' 9 novembre 1977 
+ Registro n. 23 Interno, foglio n. 279
+

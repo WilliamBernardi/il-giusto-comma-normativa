@@ -1,0 +1,76 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 278
+data: 1974-03-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-03-22;278
+codice_redazionale: 074U0278
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1992-05-07
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:42Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 marzo 1974
+                278
+                Norme di attuazione dello statuto speciale per la regione
+Trentino-Alto Adige in materia di turismo ed industrie alberghiere.
+
+Sentita la commissione paritetica per le norme di attuazione prevista dall'art. 107 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Le attribuzioni dell'amministrazione dello Stato in materia di turismo e industria alberghiera, comprese le guide, i portatori alpini, i maestri e le scuole di sci, esercitate sia direttamente dagli organi centrali e periferici dello Stato sia per il tramite di enti e di istituti pubblici a carattere nazionale o sovraprovinciale e quelle gia' spettanti alla regione Trentino-Alto Adige nella stessa materia sono esercitate, per il rispettivo territorio, dalle province di Trento e di Bolzano, ai sensi e nei limiti di cui all'art. 16 del decreto del Presidente della Repubblica 31 agosto 1972, n. 670, e con l'osservanza delle norme contenute negli articoli seguenti.
+
+## Art. 2.
+
+Sono inoltre esercitate dalle province le funzioni amministrative degli organi dello Stato e della regione in ordine agli altri enti, istituzioni e organizzazioni locali operanti nelle materie di cui al precedente art. 1.
+((In caso di soppressione con legge provinciale degli enti previsti nel precedente comma, la legge stessa provvede in ordine al personale e ai beni degli enti soppressi.))
+
+## Art. 3.
+
+Ai fini del rilascio della licenza per l'esercizio del mestiere di guida, interprete, corriere, guida o portatore alpino e per l'abilitazione all'insegnamento dello sci resta fermo quanto previsto al secondo comma dell'art. 123 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773.
+ Sino a quando non sara' diversamente disposto con legge provinciale, al rilascio della licenza di cui al comma precedente continuano a provvedere i presidenti delle giunte provinciali.
+ Sino a quando le province non disporranno diversamente, la commissione esaminatrice istituita per l'applicazione dell'art. 123 del testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, come modificato dall'articolo unico della legge 1 dicembre 1971, n. 1051, conserva la composizione originaria prevista dalle disposizioni in vigore e viene nominata dalla giunta provinciale competente.
+
+## Art. 4.
+
+Fino a quando non sara' diversamente disposto con legge provinciale anche in ordine alle modalita' di inquadramento del personale che verra' trasferito ai sensi del successivo comma, gli enti ed istituti pubblici a carattere nazionale o sovraprovinciale di cui all'art. 1 che hanno tra i loro fini istituzionali anche compiti nelle materie indicate nello stesso articolo, continueranno ad esercitare le proprie attribuzioni e i relativi programmi di attivita' concernenti tali fini debbono essere preventivamente approvati dalla provincia interessata.
+ Il personale in servizio presso le sedi periferiche degli enti pubblici di cui al presente articolo nelle province di Trento e di Bolzano, ed addetto alle attivita' che cessano, sara' trasferito, previo consenso, alle province di Trento e di Bolzano, nel rispetto della posizione giuridico-economica acquisita. I beni mobili ed immobili di tali enti relativi alle attivita' che cessano saranno trasferiti al patrimonio delle province medesime.
+ I provvedimenti relativi alla liquidazione ed al trasferimento alle province del patrimonio degli enti di cui sopra, nonche' al trasferimento del personale, saranno adottati con decreto del Ministro che esercita la vigilanza sull'ente, di concerto con il Ministro per il tesoro e d'intesa con la provincia interessata, da emanare entro 90 giorni dalla data di entrata in vigore della legge provinciale di cui al primo comma.
+
+## Art. 5.
+
+Restano riservati allo Stato:
+ 1) i rapporti internazionali nelle materie di cui al precedente art. 1;
+ 2) l'istituzione e gestione di uffici di rappresentanza, di informazioni e di promozione all'estero, nonche' degli uffici turistici di frontiera;
+ 3) la promozione all'estero a favore del turismo nazionale, che viene esercitata dallo Stato per mezzo dell'Ente nazionale italiano per il turismo (E.N.I.T.), esclusa l'attivita' promozionale turistica all'estero per iniziative da realizzare nel territorio delle due province, le quali a tal fine possono avvalersi dell'Ente nazionale italiano per il turismo.
+
+## Art. 6.
+
+Le licenze per agenzie di viaggio a persone fisiche o giuridiche straniere sono rilasciate dalla provincia previo parere favorevole della competente amministrazione statale. Qualora tale amministrazione non si pronunzi entro 60 giorni dalla richiesta della provincia interessata, questa provvede prescindendo dal parere.
+
+## Art. 7.
+
+Rimane fermo il parere del Ministero delle finanze, in materia di provvedimenti relativi alle stazioni di cura, soggiorno e turismo, fino a quando la materia tributaria attinente a tali provvedimenti non sara' diversamente disciplinata. Qualora il Ministero delle finanze non si pronunzi entro 60 giorni dalla richiesta della provincia interessata, questa provvedera' prescindendo dal parere.
+
+## Art. 8.
+
+Le province di Trento e di Bolzano, in relazione alle esigenze derivanti dalle attribuzioni da esse esercitate ai sensi del presente decreto, possono avvalersi dei servizi tecnici dello Stato operanti per funzioni non trasferite alle province.
+ Lo Stato sara' rimborsato per le spese sostenute per le province.
+La misura e le modalita' dei rimborsi saranno determinate con decreto del Ministro per il tesoro, di concerto con il Ministro competente, previa intesa con la provincia interessata.
+
+## Art. 9.
+
+La definizione dei procedimenti amministrativi che abbiano comportato assunzione di impegni, ai sensi dell'art. 49 della legge di contabilita' di Stato, prima della data del trasferimento alle province delle funzioni amministrative oggetto del presente decreto, rimane di competenza degli organi statali. Rimane, parimenti, di competenza degli organi dello Stato, con oneri a carico del bilancio statale, la liquidazione delle ulteriori annualita' di spese pluriennali a carico di esercizi successivi a quello di trasferimento delle funzioni alle province, qualora l'impegno relativo alla prima annualita' abbia fatto carico ad esercizi finanziari anteriori al detto trasferimento.
+ Resta altresi', fino alla data del 31 dicembre 1974, di competenza degli organi statali la definizione dei provvedimenti che trovino il loro finanziamento in somme mantenute nel conto dei residui ai termini del secondo comma dell'art. 36 del regio decreto 18 novembre 1923, n. 2440, o di altre disposizioni che ad esso facciano riferimento, ovvero in forza di particolari norme.
+
+## Art. 10.
+
+Il decreto del Presidente della Repubblica 27 marzo 1952, n. 354, e' abrogato.
+

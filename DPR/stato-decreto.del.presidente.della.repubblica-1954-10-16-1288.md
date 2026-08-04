@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1288
+data: 1954-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1288
+codice_redazionale: 054U1288
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1954
+                1288
+                Erezione in ente morale della Fondazione "Giovanni Gentile", istituita presso l'istituto di filosofia dell'Universita' di Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Giovanni Gentile", istituita presso l'Istituto di filosofia dell'Universita' di Roma, con atto pubblico amministrativo 30 gennaio 1954 e avente il patrimonio costituito dalla biblioteca, e dall'archivio del defunto prof. sen. Giovanni Gentile e dalla somma di lire 1.000.000 contanti, viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 21 gennaio 1955
+ Atti del Governo, registro n. 88, foglio 73. - CARLOMAGNO
+

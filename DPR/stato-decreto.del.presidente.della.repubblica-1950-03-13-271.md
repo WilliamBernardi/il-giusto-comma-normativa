@@ -1,0 +1,67 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 271
+data: 1950-03-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-03-13;271
+codice_redazionale: 050U0271
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 marzo 1950
+                271
+                Modificazioni allo statuto dell'Universita' degli studi di Macerata.
+
+Veduto lo statuto dell'Universita' degli studi di Macerata, approvato con regio decreto 20 aprile 1939, n. 1074 e modificato con regio decreto 17 ottobre 1941, n. 1206 e con decreto del Capo provvisorio dello Stato 2 aprile 1947, n. 519;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Macerata, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:
+
+Art. 12. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "diritto canonico".
+
+Art. 14. - Alla fine del testo, dopo la parola "penale" viene aggiunto quanto appresso: "ne' l'esame di diritto canonico se non abbiano superato gli esami di istituzioni di diritto romano e di storia del diritto romano".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 marzo 1950
+
+EINAUDI
+
+GONELLA
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Macerata, approvato con regio decreto 20 aprile 1939, n. 1074 e modificato con regio decreto 17 ottobre 1941, n. 1206 e con decreto del Capo provvisorio dello Stato 2 aprile 1947, n. 519;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche dell'Universita' predetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Macerata, approvato e modificato con i decreti succitati, e' cosi' ulteriormente modificato:
+ Art. 12. - Agli insegnamenti complementari del corso di laurea in giurisprudenza e' aggiunto quello di "diritto canonico".
+ Art. 14. - Alla fine del testo, dopo la parola "penale" viene aggiunto quanto appresso: "ne' l'esame di diritto canonico se non abbiano superato gli esami di istituzioni di diritto romano e di storia del diritto romano".
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3700
+data: 1867-05-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-05-07;3700
+codice_redazionale: 067U3700
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:08Z
+---
+
+REGIO DECRETO
+                07 maggio 1867
+                3700
+                Che aggiunge al Consolato in Costantinopoli un quarto Vice-Console di 1ª categoria, con residenza in Trebisonda. (067U3700)
+
+Entrata in vigore del provvedimento: 10/06/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 846
+data: 1956-06-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-08;846
+codice_redazionale: 056U0846
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 giugno 1956
+                846
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della Regalita' di Maria e di San Pio X, in localita' Salto del comune di Fondi (Latina).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 giugno 1956, col quale, sulla, proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Gaeta in data 17 dicembre 1955, integrato con postilla 30 gennaio 1956 e con dichiarazione del 20 dicembre 1955, relativo alla erezione della parrocchia della Regalita' di Maria e di San Pio X, in localita' Salto del comune di Fondi (Latina).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 26 luglio 1956
+ Atti del Governo, registro n. 99, foglio n. 143. - CARLOMAGNO
+

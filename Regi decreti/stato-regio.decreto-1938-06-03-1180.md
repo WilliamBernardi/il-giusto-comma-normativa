@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1180
+data: 1938-06-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-06-03;1180
+codice_redazionale: 038U1180
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:43Z
+---
+
+REGIO DECRETO
+                03 giugno 1938
+                1180
+                Riconoscimento, agli effetti civili, della separazione della Cura delle anime presso la Cattedrale di Lodi. (038U1180)
+
+Entrata in vigore del provvedimento: 23/08/1938
+
+## Art. 1.
+
+N.
+
+R. decreto 3 giugno 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta, agli effetti civili, la Bolla della Dataria Apostolica in data 16 gennaio 1926-IV, relativa alla separazione della Cura delle anime presso la Cattedrale di Lodi dall'unica Dignita' Arcipretale ed annessa in perpetuo ad un canonicato semplice. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 9 luglio 1938 - Anno XVI
+

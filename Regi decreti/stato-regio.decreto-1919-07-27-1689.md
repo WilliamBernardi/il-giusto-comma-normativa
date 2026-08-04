@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1689
+data: 1919-07-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1919-07-27;1689
+codice_redazionale: 019U1689
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:16Z
+---
+
+REGIO DECRETO
+                27 luglio 1919
+                1689
+                Concernente la situazione al 30 giugno 1919 del personale di 3ª categoria dell'Amministrazione delle poste e dei telegrafi, di cui al quadro I della tabella C, annessa alla legge 25 giugno 1911, n. 575. (019U1689)
+
+Entrata in vigore del provvedimento: 12/10/1919
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

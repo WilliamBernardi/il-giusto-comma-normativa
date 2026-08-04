@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1099
+data: 1950-11-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-11-17;1099
+codice_redazionale: 050U1099
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 novembre 1950
+                1099
+                Riconoscimento della personalita' giuridica della Congregazione delle Suore Francescane di Sant'Elisabetta, in Verona.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 17 novembre 1950, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Congregazione delle Suore Francescane di Sant'Elisabetta, in Verona, e la Congregazione stessa viene autorizzata ad accettare una donazione consistente in immobili situati in Verona e valutati L. 210.000.
+
+Visto, il Guardasigilli: SEGNI
+ Registrato alla Corte dei conti, addi' 13 gennaio 1951
+

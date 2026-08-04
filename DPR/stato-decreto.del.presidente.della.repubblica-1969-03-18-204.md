@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 204
+data: 1969-03-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-18;204
+codice_redazionale: 069U0204
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 marzo 1969
+                204
+                Riconoscimento della personalita' giuridica della chiesa parrocchiale del Sacro Cuore, nel comune di Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 marzo 1969, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale del Sacro Cuore, in localita' Pontelambro del comune di Milano, con il patrimonio costituito da un terreno, con insistenti l'edificio sacro e sue dipendenze, una cappella iemale, una sala per riunioni, un magazzino, l'asilo e l'oratorio femminile, la casa canonica e l'oratorio maschile, destinato dall'Opera pia delle chiese e case parrocchiali povere della diocesi di Milano, con sede in quella citta'.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 9 maggio 1969
+ Atti del Governo, registro n. 226, foglio n. 148. - GRECO
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1016
+data: 1955-09-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-09-23;1016
+codice_redazionale: 055U1016
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 settembre 1955
+                1016
+                Riconoscimento, agli effetti civili, dell'unione nella forma "aeque principaliter" delle due parrocchie di San Pietro, in localita' Collegna del comune di Verrua Savoia e di San Pietro, in frazione Marcorengo del comune di Brusasco Cavagnolo (Torino).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 settembre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Casale Monferrato in data 17 marzo 1955, relativo all'unione nella forma "aeque principaliter" delle due parrocchie di San Pietro, in localita' Collegna del comune di Verrua Savoia e di San Pietro, in frazione Marcorengo del comune di Brusasco Cavagnolo (Torino).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 5 novembre 1955
+ Atti del Governo, registro n. 93, foglio n. 131. - CARLOMAGNO
+

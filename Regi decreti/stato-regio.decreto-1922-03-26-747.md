@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 747
+data: 1922-03-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-03-26;747
+codice_redazionale: 022U0747
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:12Z
+---
+
+REGIO DECRETO
+                26 marzo 1922
+                747
+                Erezioni in Ente morale. (022U0747)
+
+Entrata in vigore del provvedimento: 19/07/1922
+
+## Art. 1.
+
+N.
+
+Regio decreto 26 marzo 1922, col quale, sulla proposta del ministro dell'istruzione pubblica, la R. Accademia medica di Roma e' eretta in Ente morale e ne e' approvato lo statuto relativo.
+

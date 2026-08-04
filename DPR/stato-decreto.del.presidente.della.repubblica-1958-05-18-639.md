@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 639
+data: 1958-05-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-05-18;639
+codice_redazionale: 058U0639
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 maggio 1958
+                639
+                Riconoscimento, agli effetti civili, dell'erezione di un canonicato, sotto il titolo dei Santi Giusto e Nazario, nel Capitolo cattedrale di Trieste.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 maggio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trieste e Capodistria in data 17 novembre 1957, integrato con due dichiarazioni del 18 novembre 1957 e 12 febbraio 1958, relativo alla erezione di un canonicato, sotto il titolo dei Santi Giusto e Nazario, nel Capitolo cattedrale di Trieste.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 23 giugno 1958
+ Atti del Governo, registro n. 112, foglio n. 242. - RELLEVA
+

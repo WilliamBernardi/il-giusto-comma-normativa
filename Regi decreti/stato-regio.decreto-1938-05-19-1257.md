@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1257
+data: 1938-05-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-05-19;1257
+codice_redazionale: 038U1257
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:06Z
+---
+
+REGIO DECRETO
+                19 maggio 1938
+                1257
+                Autorizzazione al comune di Buia (Udine) ad applicare le imposte di consumo in base alla tariffa G. (038U1257)
+
+Entrata in vigore del provvedimento: 06/09/1938
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

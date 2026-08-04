@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 853
+data: 1913-06-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-06-19;853
+codice_redazionale: 013U0853
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:49Z
+---
+
+REGIO DECRETO
+                19 giugno 1913
+                853
+                Concentrazione di Monte frumentario. (013U0853)
+
+Entrata in vigore del provvedimento: 14/08/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

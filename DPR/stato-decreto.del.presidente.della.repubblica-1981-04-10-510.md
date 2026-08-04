@@ -1,0 +1,48 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 510
+data: 1981-04-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-04-10;510
+codice_redazionale: 081U0510
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 aprile 1981
+                510
+                Modificazione allo statuto della libera Universita' abruzzese "G.
+D'Annunzio" di Chieti.
+
+Veduto lo statuto della libera Universita' abruzzese "G.
+
+D'Annunzio" di Chieti, approvato con decreto del Presidente della Repubblica 8 maggio 1965, n. 1007 e modificato con decreto del Presidente della Repubblica 20 settembre 1966, n. 1291, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Chieti e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+## Art. 1.
+
+Il testo dell'art. 52, relativo al corso di laurea in medicina e chirurgia, e' modificato nel senso che all'elenco degli insegnamenti complementari sono aggiunti i seguenti:
+ fisiopatologia della riproduzione umana;
+ urologia ginecologica;
+ medicina preventiva dei lavoratori e psicotecnica;
+ immunologia.
+

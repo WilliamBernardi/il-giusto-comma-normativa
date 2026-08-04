@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 705
+data: 1949-08-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-08-23;705
+codice_redazionale: 049U0705
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 agosto 1949
+                705
+                Erezione in ente morale della "Fondazione Luigi Fidenzio Moscon Gazza fu Giuseppe", con sede nel comune di Saonara (Padova).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 agosto 1949, col quale, sulla proposta del Ministro per l'interno, la "Fondazione Luigi Fidenzio Moscon Gazza fu Giuseppe", con sede nel comune di Saonara (Padova), viene eretta in ente morale e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli GRASSI
+ Registrato alla Corte dei conti, addi' 27 settembre 1949
+

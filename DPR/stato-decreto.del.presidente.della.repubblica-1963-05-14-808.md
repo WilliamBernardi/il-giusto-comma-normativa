@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 808
+data: 1963-05-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-05-14;808
+codice_redazionale: 063U0808
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 maggio 1963
+                808
+                Approvazione dello statuto del Consorzio per il nucleo di industrializzazione dell'oristanese.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 29 luglio 1957, n. 634, modificata ed integrata dalla legge 18 luglio 1939, n. 555;
+ Visto l'atto del notaio dott. Ugo Pasolini di Cagliari, dell'8 novembre 1962, n. 13375, del repertorio generale, con il quale e' stato costituito il Consorzio per il nucleo di industrializzazione dell'oristanese;
+ Vista la deliberazione del 6 dicembre 1962 del Comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno:
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+Decreta:
+ E' approvato lo statuto del Consorzio per il nucleo di industrializzazione dell'oristanese, ente di diritto pubblico a norma dell'art. 21 della legge 29 luglio 1957, n. 634, nel testo modificato dall'art. 8 della legge 18 luglio 1959, n. 555.
+

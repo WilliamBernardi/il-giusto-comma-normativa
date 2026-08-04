@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 257
+data: 1978-04-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-04-10;257
+codice_redazionale: 078U0257
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 aprile 1978
+                257
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Patrizio, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 aprile 1978, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di S. S. il Sommo Pontefice 7 novembre 1975, integrato con altro di pari data e con due dichiarazioni datate 8 ottobre e 10 dicembre 1976, relativo all'erezione della parrocchia di S. Patrizio, in Roma.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 31 maggio 1978
+ Registro n. 11 Interno, foglio n. 40
+

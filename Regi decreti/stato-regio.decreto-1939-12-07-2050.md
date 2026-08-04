@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2050
+data: 1939-12-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-12-07;2050
+codice_redazionale: 039U2050
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:01Z
+---
+
+REGIO DECRETO
+                07 dicembre 1939
+                2050
+                Autorizzazione alla Regia universita' di Perugia ad accettare una eredita'. (039U2050)
+
+Entrata in vigore del provvedimento: 07/02/1940
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

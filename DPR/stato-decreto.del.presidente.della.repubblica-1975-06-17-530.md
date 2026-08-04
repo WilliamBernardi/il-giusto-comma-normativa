@@ -1,0 +1,38 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 530
+data: 1975-06-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-06-17;530
+codice_redazionale: 075U0530
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 giugno 1975
+                530
+                Assoggettamento alla tutela della pubblica amministrazione delle acque sotterranee nel territorio di alcuni comuni delle province di Ferrara e Bologna.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 94 del testo unico di leggi sulle acque e sugli impianti elettrici approvato con decreto reale 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione delle acque sotterranee sono soggette alla tutela della pubblica amministrazione;
+ Ritenuta la necessita' di dichiarare soggetto alla tutela della pubblica amministrazione il territorio dei seguenti comuni:
+ provincia di Ferrara: Cento, Sant'Agostino e Poggio Renatico;
+ provincia di Bologna: Pieve di Cento, Galliera, Argelato, San Pietro in Casale, Castel d'Argile, San Giorgio di Piano, Malalbergo, Minerbio, Molinella, Bentivoglio e Baricella;
+ Visto il voto 14 maggio 1970, n. 730, del Consiglio superiore dei lavori pubblici;
+ Sentita la regione Emilia-Romagna;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per i lavori pubblici di concerto col Ministro per l'agricoltura e le foreste;
+
+ Decreta:
+
+ Ai sensi e per gli effetti dell'art. 94 del testo unico di leggi 11 dicembre 1933, n. 1775, sono soggette alla tutela della pubblica amministrazione la ricerca, l'estrazione e la utilizzazione di tutte le acque sotterranee nei territori dei seguenti comuni;
+ provincia di Ferrara: Cento, Sant'Agostino e Poggio Renatico;
+ provincia di Bologna: Pieve di Cento, Galleria, Argelato, San Pietro in Casale, Castel d'Argile, San Giorgio di Piano, Malalbergo, Minerbio, Molinella, Bentivoglio e Baricella.
+

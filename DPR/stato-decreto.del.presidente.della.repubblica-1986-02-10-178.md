@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 178
+data: 1986-02-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-02-10;178
+codice_redazionale: 086U0178
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 febbraio 1986
+                178
+                Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 10 febbraio 1986, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, con beneficio d'inventario, l'eredita', consistente in beni mobili, titoli e libretti al portatore per un valore complessivo L. 17.369.363 al netto delle passivita', disposta dalla sig.ra Maffini Emma con testamento olografo 10 aprile 1980, pubblicato in data 25 ottobre 1983, n. 12497/1687 di repertorio, a rogito dott. Ulderico Brambilla, notaio in Milano, registrato a Milano in data 9 novembre 1983 al n. 1829.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 22 aprile 1986
+ Registro n. 4 Presidenza, foglio n. 46
+

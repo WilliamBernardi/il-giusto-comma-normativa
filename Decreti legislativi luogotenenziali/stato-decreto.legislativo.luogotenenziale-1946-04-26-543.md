@@ -1,0 +1,24 @@
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 543
+data: 1946-04-26
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1946-04-26;543
+codice_redazionale: 046U0543
+vigente: true
+source: normattiva-opendata
+collection: Decreti legislativi luogotenenziali
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:37Z
+---
+
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+                26 aprile 1946
+                543
+                Abrogazione della legge 23 dicembre 1940, n. 2042, e dell'art. 1, lettera u, del R. decreto-legge 9 settembre 1937, n. 1769, concernente l'uso di parole straniere nelle intestazioni delle ditte industriali e commerciali.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

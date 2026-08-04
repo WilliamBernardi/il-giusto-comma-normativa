@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1072
+data: 1953-12-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-12-17;1072
+codice_redazionale: 053U1072
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 dicembre 1953
+                1072
+                Riconoscimento, agli effetti civili dell'erezione della parrocchia del SS.mo Nome di Gesu', in comune di Noci (Bari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 17 dicembre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili il decreto dell'Ordinario diocesano di Conversano in data 10 ottobre 1941, integrato con postilla 20 aprile 1953 e dichiarazione 15 febbraio 1953, relativo all'erezione della parrocchia del SS.mo Nome di Gesu', in comune di Noci (Bari).
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 4 febbraio 1954
+ Atti del Governo, registro n. 81, foglio n. 77. - PALLA
+

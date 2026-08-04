@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-11-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-11-14;471
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:01Z
+---
+
+REGIO DECRETO
+                14 novembre 1903
+                CCCCLXXI
+                Che erige in ente morale la congrega delle dame sotto il titolo dello Spirito Santo in Napoli. (0300471R)
+
+Entrata in vigore del provvedimento: 01/01/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

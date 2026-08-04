@@ -1,0 +1,85 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1082
+data: 1968-08-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-08-11;1082
+codice_redazionale: 068U1082
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 agosto 1968
+                1082
+                Ripartizione di otto nuovi posti di professore universitario di ruolo istituiti, per l'anno accademico 1968-69, con l'art. 1 della legge 24 febbraio 1967, n. 62.
+
+Veduta la legge 24 febbraio 1967, n. 62, che all'art. 1 istituisce, tra l'altro, per l'anno accademico 1968-69, duecentoquaranta nuovi posti di professore universitario di ruolo destinati:
+
+nella misura del 5 per cento (e cioe' in numero di dodici) per le esigenze delle facolta' e scuole delle universita' e degli istituti di istruzione universitaria istituiti dopo il 31 dicembre 1965;
+
+nella misura del 30 per cento della restante parte (e cioe' in numero di sessantanove) per il raddoppiamento delle cattedre di ruolo gia' esistenti;
+
+nella misura del 10 per cento dopo le detrazioni di cui sopra (e cioe' in numero di sedici), per l'assegnazione alle facolta' e scuole che richiedano l'apertura del concorso per quelle discipline che siano impartite continuativamente per incarico da almeno nove anni;
+
+per la restante parte (e cioe' in numero di centoquarantatre), per la ripartizione tra le facolta' e scuole per il normale incremento degli organici;
+
+Veduto il decreto del Presidente della Repubblica 9 maggio 1968, n. 704, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 148 del 12 giugno 1968, con il quale sono stati ripartiti centonovantaquattro nuovi posti di professore universitario di ruolo dei quali centotrentanove per il normale incremento degli organici e 55 per il raddoppiamento delle cattedre di ruolo gia' esistenti, istituiti, per l'anno accademico 1968/69, dalla citata legge 24 febbraio 1967, n. 62;
+
+Veduto il decreto del Presidente della Repubblica 4 giugno 1968, n. 772, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 175 il 12 luglio 1968, con il quale sono stati ripartiti sei nuovi posti di professore universitario di ruolo, dei quali uno per il normale incremento degli organici e cinque per il raddoppiamento delle cattedre di ruolo gia' esistenti, istituiti, per l'anno accademico 1968/69, dalla citata legge n. 62;
+
+Vedute le motivate richieste delle facolta' e scuole, formulate con riferimento ai singoli corsi di laurea e diploma, corredate dei pareri del senato accademico e del consiglio di amministrazione, per l'assegnazione dei posti di ruolo in questione;
+
+Ravvisata l'opportunita' di procedere ad una nuova ripartizione dei posti destinati all'incremento degli organici delle facolta' e scuole ed al raddoppiamento delle cattedre sovraffollate;
+
+## Art. 1.
+
+Per l'anno accademico 1968-69, sono cosi' ripartiti tra le facolta' universitarie di cui appresso altri otto nuovi posti di professore universitario di ruolo dei duecentoquaranta istituiti, per l'anno accademico medesimo, dall'art. 1 della citata legge 24 febbraio 1967, n. 62:
+
+ Numero
+ dei posti 
+ UNIVERSITA DI FIRENZE
+
+ Facolta di magistero:
+ per il raddoppiamento della cattedra di Pedagogia 1
+
+ Facolta di medicina e chirurgia:
+ per il raddoppiamento della cattedra di clinica
+ otorinolaringoiatrica................................ 1
+
+ UNIVERSITA DI GENOVA
+
+ Facolta di lettere e filosofia:
+ per il raddoppiamento della cattedra di storia
+ della filosofia...................................... 1
+
+ UNIVERSITA DI MILANO
+
+ Facolta di giurisprudenza.......................... 1
+
+ UNIVERSITA DI PAVIA
+
+ Facolta di medicina e chirurgia.................... 1
+
+ UNIVERSITA DI PISA
+ Facolta di agraria:
+ per il raddoppiamento della cattedra di agronomia
+generale e coltivazioni erbacee....................... 1
+
+ UNIVERSITA DI ROMA
+
+ Facolta di medicina e chirurgia:
+ per il raddoppiamento della cattedra di anatomia
+ed istologia patologica............................... 1
+
+ UNIVERSITA DI SIENA
+
+ Facolta di medicina e chirurgia.................... 1
+
+## Art. 2.
+
+I rimanenti posti istituiti per l'anno accademico 1968/69 saranno assegnati con separati provvedimenti.
+

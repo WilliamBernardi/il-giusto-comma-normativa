@@ -1,0 +1,41 @@
+---
+tipo: REGIO DECRETO
+data: 1890-09-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-09-27;3945
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:29Z
+---
+
+REGIO DECRETO
+                27 settembre 1890
+                MMMDCCCCXLV
+                Che trasforma la scuola infantile Varetto in Mathi (Torino) in uno asilo infantile e ne approva lo statuto. (9003945R)
+
+Entrata in vigore del provvedimento: 04/11/1890
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Avuto il parere favorevole del consiglio di Stato;
+
+## Art. 1.
+
+La scuola infantile Varetto in Mathi (Torino) e' trasformata in asilo infantile Varetto, ed e' approvato lo statuto organico 13 luglio 1890, composto di cinquantadue articoli, che sara', d'ordine Nostro, visto ed autenticato dal Nostro ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 settembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Registrato alla Corte dei conti addi' 11 ottobre 1890 
+ Reg. 175. Atti del Governo a f. 206. Mandillo 
+ Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI. 
+ 
+ F. CRISPI.
+

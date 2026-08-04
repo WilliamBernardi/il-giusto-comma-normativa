@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2231
+data: 1928-09-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-09-20;2231
+codice_redazionale: 028U2231
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:28Z
+---
+
+REGIO DECRETO
+                20 settembre 1928
+                2231
+                Riunione dei comuni di Colonno, Ossuccio e Sala Comacina in un unico Comune denominato «Isola Comacina» con sede municipale a Sala Comacina. (028U2231)
+
+Entrata in vigore del provvedimento: 03/11/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

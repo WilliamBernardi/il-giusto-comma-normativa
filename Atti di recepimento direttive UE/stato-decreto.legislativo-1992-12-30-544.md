@@ -1,0 +1,70 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 544
+data: 1992-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1992-12-30;544
+codice_redazionale: 093G0005
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:48Z
+---
+
+DECRETO LEGISLATIVO
+                30 dicembre 1992
+                544
+                 Attuazione della direttiva del Consiglio 90/434/CEE relativa al
+regime fiscale comune da applicare alle fusioni, alle scissioni, ai conferimenti d'attivo ed agli altri scambi di azioni concernenti societa' di Stati membri diversi.
+
+Entrata in vigore del decreto: 13/1/1993
+
+IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                
+                    Visti gli articoli 76 e 87 della Costituzione;
+                
+            
+            
+                
+                    Visti gli articoli 1 e 34, comma 1, della legge 19 febbraio 1992, n. 142, recanti la delega al Governo per l'attuazione della direttiva 90/434/CEE del Consiglio del 23 luglio 1990, relativa al regime fiscale comune da applicare alle fusioni, alle scissioni, ai conferimenti d'attivo ed agli scambi d'azioni concernenti societa' di Stati membri diversi;
+                
+            
+            
+                
+                    Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 dicembre 1992;
+                
+            
+            
+                Sulla proposta dei Ministri per il coordinamento delle politiche comunitarie e delle finanze, di concerto con i Ministri degli affari esteri, di grazia e giustizia e del tesoro; E M A N A il seguente decreto legislativo:
+
+## Art. 1.
+
+## Art. 2.
+
+Nelle operazioni indicate nelle lettere a) e b) dell'art. 1 i maggiori valori, che per effetto della eventuale imputazione del disavanzo, il soggetto beneficiario residente nel territorio dello Stato iscrive nel bilancio relativo all'esercizio in cui e' stata eseguita l'operazione, con riferimento ad elementi patrimoniali provenienti dal conferente ed effettivamente connessi a una stabile organizzazione situata nel territorio dello Stato o all'estero, preesistente ovvero risultante dalla operazione, non sono imponibili nei confronti del beneficiario. Tuttavia i beni ricevuti sono valutati fiscalmente in base all'ultimo valore riconosciuto ai fini delle imposte sui redditi al conferente, facendo risultare da apposito prospetto di riconciliazione, da allegare alla dichiarazione dei redditi, i dati esposti in bilancio ed i valori fiscalmente riconosciuti.
+
+I conferimenti di cui alla lettera c) non costituiscono realizzo di plusvalenze o di minusvalenze ma l'ultimo costo dell'azienda o del ramo aziendale conferito fiscalmente riconosciuto costituisce costo fiscalmente riconosciuto della partecipazione ricevuta. La differenza tra il valore delle azioni o quote ricevute e l'ultimo valore dei beni conferiti riconosciuto ai fini delle imposte sui redditi non concorre a formare il reddito imponibile dell'impresa o societa' apportante fino a quando non sia stata realizzata o distribuita ai soci. Se le partecipazioni ricevute sono iscritte in bilancio ad un valore superiore a quello contabile dell'azienda conferita la differenza deve essere iscritta in apposito fondo e concorre alla formazione del reddito imponibile in caso di distribuzione. Le disposizioni del comma 1 si applicano anche nei confronti del beneficiario non residente con riferimento alla stabile organizzazione nello Stato italiano, limitatamente agli elementi patrimoniali del conferente residente o, nell'ipotesi di cui alla lettera d) dell'art. 1, non residente, in essa effettivamente confluiti.
+
+Nelle operazioni indicate al comma 1 le plusvalenze della stabile organizzazione del conferente residente sono imponibili a titolo di realizzo al valore normale, con deduzione dalla relativa imposta, fino al suo totale assorbimento, dell'ammontare della imposta che lo Stato dove e' situata la stabile organizzazione avrebbe effettivamente prelevato in assenza delle norme della direttiva comunitaria n. 90/434 del 23 luglio 1990. Il beneficiario non residente subentra al conferente residente per tutti i diritti e gli obblighi tributari.
+
+Non sono rilevanti ai fini delle imposte sui redditi le differenze positive o negative di fusione e di scissione riferibili al concambio ovvero all'annullamento di una partecipazione il cui titolare acquisisca la corrispondente quota del patrimonio del soggetto partecipato. Agli eventuali maggiori valori iscritti in bilancio per compensare le differenze negative si applicano le disposizioni dei commi 1 e 2.
+
+Le operazioni di fusione, scissione e scambio di partecipazioni mediante permuta o conferimento, indicate nell'art. 1, non comportano realizzo di plusvalenze ne' di minusvalenze sulle azioni o quote date in cambio, il cui valore fiscale viene assunto dalle azioni o quote ricevute, ripartendosi tra tutte in proporzione dei valori alle stesse attribuiti ai fini della determinazione del rapporto di cambio. Gli eventuali conguagli concorrono a formare il reddito dei percettori.
+
+Se e' stata conferita da un soggetto una stabile organizzazione situata in un altro Stato membro, le relative plusvalenze sono imponibili nei confronti del conferente residente a titolo di realizzo al valore normale, con deduzione dalla relativa imposta, fino al suo totale assorbimento, dell'ammontare dell'imposta che lo Stato dove e' situata la stabile organizzazione avrebbe prelevato in assenza delle norme della direttiva comunitaria n. 90/434 del 23 luglio 1990. In tal caso la partecipazione ricevuta e' valutata fiscalmente in base all'ultimo valore riconosciuto ai fini delle imposte sui redditi degli elementi patrimoniali conferiti, aumentato, agli effetti della disposizione di cui al precedente comma, di un importo pari all'imponibile corrispondente all'imposta dovuta a saldo.
+
+## Art. 3.
+
+Nelle fusioni, nelle scissioni e nei conferimenti di cui all'art. 1 i fondi in sospensione di imposta iscritti nell'ultimo bilancio del conferente residente concorrono a formare il reddito della stabile organizzazione nello Stato italiano del soggetto non residente beneficiario nella misura in cui non siano stati ricostituiti nelle scritture contabili della stabile organizzazione.
+
+## Art. 4.
+
+Nelle operazioni di cui alle lettere a) e b) del comma 1 dell'art. 1 le perdite fiscali sono ammesse in deduzione da parte del soggetto non residente alle condizioni e nei limiti di cui al comma 5 dell'art. 123 del testo unico delle imposte sui redditi, proporzionalmente alla differenza tra gli elementi dell'attivo e del passivo effettivamente connessi alla stabile organizzazione sita nel territorio dello Stato risultante dall'operazione e nei limiti di detta differenza.
+
+## Art. 5.
+
+Il presente decreto entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1040
+data: 1973-12-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-12-24;1040
+codice_redazionale: 073U1040
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 dicembre 1973
+                1040
+                Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Matera.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 dicembre 1973, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modifiche agli articoli 4, 6, 9, 10, 11, 12, 15 e 16 dello statuto dell'Istituto autonomo per le case popolari della provincia di Matera, approvato con regio decreto 9 settembre 1937, n. 1789.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 11 marzo 1974
+ Atti di Governo, registro n. 2, foglio n. 22. - SCIARRETTA
+

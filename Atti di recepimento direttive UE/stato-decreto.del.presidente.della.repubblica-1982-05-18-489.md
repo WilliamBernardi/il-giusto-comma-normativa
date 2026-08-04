@@ -1,0 +1,84 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 489
+data: 1982-05-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-18;489
+codice_redazionale: 082U0489
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2004-06-19
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 maggio 1982
+                489
+                Attuazione delle direttive (CEE) n. 75/726 e n. 79/168 relative ai succhi di frutta e prodotti simili.
+
+## Art. 1. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 2. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 3. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 4. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 5. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 6. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 7. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 8. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 9. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 10. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 11. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 12. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 13. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 14. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 15. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+
+## Art. 16. — (PROVVEDIMENTO ABROGATO DAL D. LGS. 21 MAGGIO 2004, N. 151)
+
+
+

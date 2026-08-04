@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 883
+data: 1955-08-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-08;883
+codice_redazionale: 055U0883
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 agosto 1955
+                883
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Assunta, in localita' Ponte Rio del comune di Todi (Perugia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 agosto 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Todi (Perugia) in data 12 marzo 1955, integrato con dichiarazione di pari data, relativo all'erezione della parrocchia di Santa Maria Assunta, in localita' Ponte Rio del comune di Todi (Perugia).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte del conti, addi' 8 ottobre 1955
+ Atti del Governo, registro n. 93, foglio n. 19. - E. GRECO
+

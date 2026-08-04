@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 460
+data: 1956-01-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-01-24;460
+codice_redazionale: 056U0460
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 gennaio 1956
+                460
+                Approvazione del nuovo regolamento speciale per la coltivazione del riso nella provincia di Vercelli.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto il regolamento speciale sulla risicultura nella provincia di Vercelli, approvato con regio decreto 2 dicembre 1929, n. 2321;
+ Ritenuta l'opportunita' di apportare modifiche a tale regolamento;
+ Veduto il nuovo testo del regolamento proposto dal Consiglio provinciale di Vercelli nella seduta del 26 giugno 1952 e deliberato in via definitiva il 17 novembre 1954;
+ Veduto l'art. 204 del testo unico delle leggi sanitarie, approvato con regio decreto 27 luglio 1934, n. 1265 ed il decreto legislativo luogotenenziale 31 luglio 1945, n. 446;
+ Sulla proposta del Presidente del Consiglio dei Ministri e sentito il Ministro per il lavoro e la previdenza sociale;
+
+ Decreta:
+
+ E' approvato il regolamento speciale per la coltivazione del riso nella provincia di Vercelli, deliberato dal Consiglio provinciale con atti 26 giugno 1952, n. 55 e 17 novembre 1954, n. 170.
+

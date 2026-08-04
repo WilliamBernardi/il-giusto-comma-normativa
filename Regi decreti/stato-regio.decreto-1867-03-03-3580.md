@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3580
+data: 1867-03-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-03-03;3580
+codice_redazionale: 067U3580
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:05Z
+---
+
+REGIO DECRETO
+                03 marzo 1867
+                3580
+                Con cui il Comune di Bibbona costituira' una sezione del Collegio elettorale di Volterra con sede nel luogo detto Fitto di Cecina. (067U3580)
+
+Entrata in vigore del provvedimento: 23/03/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

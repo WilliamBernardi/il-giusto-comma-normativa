@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1882-05-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-05-14;557
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:19Z
+---
+
+REGIO DECRETO
+                14 maggio 1882
+                DLVII
+                Che erige in corpo morale la societa' di patronato per i liberati dal carcere in Brescia e ne approva lo statuto. (8200557R)
+
+Entrata in vigore del provvedimento: 13/08/1882
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

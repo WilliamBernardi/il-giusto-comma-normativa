@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1313
+data: 1962-07-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-18;1313
+codice_redazionale: 062U1313
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 luglio 1962
+                1313
+                Erezione in ente morale della "Fondazione nazionale Carlo Collodi", con sede in Pescia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 luglio 1962, col quale, sulla proposta del Ministro per la pubblica istruzione, la "Fondazione nazionale Carlo Collodi", con sede in Pescia, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 29 agosto 1962
+ Atti del Governo, registro n. 158, foglio n. 49. - VILLA
+

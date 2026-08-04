@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1584
+data: 1961-12-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1584
+codice_redazionale: 061U1584
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 dicembre 1961
+                1584
+                Autorizzazione al Consiglio nazionale della ricerche ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 dicembre 1961, col quale, sulla proposta del Presidente del Consiglio dei Ministri, il Consiglio nazionale delle ricerche, viene autorizzato ad acquistare dal signor Guido Cardini per il prezzo di L. 12.000.000 (dodicimilioni), a rogito notaio avv. Andrea Nizzi Nuti di Firenze del 26 maggio 1955, repertorio n. 2563, fascicolo n. 838, un immobile, costituito da un podere con casa colonica, denominato "Il Pino", sito nel comune di Scandicci (Firenze), di ettari 6.53.50, ritenuto necessario al Centro di studio per il miglioramento delle piante da frutto e da orto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 gennaio 1962
+ Atti del Governo, registro n. 143, foglio n. 110. - VILLA
+

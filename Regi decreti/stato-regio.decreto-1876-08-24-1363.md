@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1876-08-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1876-08-24;1363
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:28Z
+---
+
+REGIO DECRETO
+                24 agosto 1876
+                MCCCLXIII
+                Col quale sono approvate alcune deliberazioni di deputazioni provinciali relative all'applicazione delle tasse comunali di famiglia e sul bestiame. (7601363R)
+
+Entrata in vigore del provvedimento: 29/09/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 837
+data: 1984-06-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-06-20;837
+codice_redazionale: 084U0837
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 giugno 1984
+                837
+                Autorizzazione alla Fondazione per lo studio delle malattie del sangue, in Bologna, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 giugno 1984, col quale, sulla proposta del Ministro della sanita', la Fondazione per lo studio delle malattie del sangue, in Bologna, viene autorizzata ad accettare la donazione, consistente nella somma di L. 25.000.000, disposta dalla sig.ra Dina Trippa ved. Vianelli con atto 15 aprile 1982, n. 21499/14336 di repertorio, a rogito dott.
+ Enrico Candi, notaio in Bologna e registrato a Bologna in data 16 aprile 1982 al n. 6096.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 3 dicembre 1984
+ Registro n. 8 Sanita', foglio n. 150
+

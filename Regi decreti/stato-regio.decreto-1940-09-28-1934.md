@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1934
+data: 1940-09-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-09-28;1934
+codice_redazionale: 040U1934
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:37Z
+---
+
+REGIO DECRETO
+                28 settembre 1940
+                1934
+                Fusione in un unico ente denominato « Ospedale S. Giuseppe e Melorio » dell'Ospedale di San Giuseppe e l'Ospedale Melorio, in Santa Maria Capua Vetere. (040U1934)
+
+Entrata in vigore del provvedimento: 18/02/1941
+
+## Art. 1.
+
+N.
+
+R. decreto 28 settembre 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, l'Ospedale di San Giuseppe e l'Ospedale Melorio in Santa Maria Capua Vetere vengono fusi in unico ente denominato « Ospedale S. Giuseppe e Melorio » e viene approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 27 gennaio 1941-XIX
+

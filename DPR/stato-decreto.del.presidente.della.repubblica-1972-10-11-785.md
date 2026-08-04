@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 785
+data: 1972-10-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-10-11;785
+codice_redazionale: 072U0785
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 ottobre 1972
+                785
+                Soppressione del tronco ferroviario Castelvetrano-Salaparuta Poggioreale.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il regio decreto-legge 21 dicembre 1931, n. 1575, convertito nella legge 24 marzo 1932, n. 386;
+ Visto il decreto legislativo 7 maggio 1948, n. 598, ratificato con legge 2 dicembre 1952, n. 1848, e successive modificazioni;
+ Visto il decreto ministeriale 7 marzo 1958, n. 4270, con il quale e' stata autorizzata la soppressione del servizio ferroviario sulla linea Castelvetrano S. Carlo;
+ Visto il decreto presidenziale 11 dicembre 1961, numero 1555, con il quale e' stata disposta la soppressione dalla rete F.S. del tratto Salaparuta Poggioreale S. Carlo della suddetta linea;
+ Ritenuta l'opportunita' di procedere allo smantellamento anche del rimanente tratto Castelvetrano-Salaparuta Poggioreale della linea stessa;
+ Sentito il parere del consiglio di amministrazione delle ferrovie dello Stato;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per i trasporti e l'aviazione civile;
+
+ Decreta:
+
+ E' soppresso il tronco ferroviario Castelvetrano-Salaparuta Poggioreale.
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1880-07-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-07-15;2648
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:07Z
+---
+
+REGIO DECRETO
+                15 luglio 1880
+                MMDCXLVIII
+                Che fa un'aggiunta all'articolo 3 del regio decreto 25 marzo 1880, concernente la istituzione Dionisio. (8002648R)
+
+Entrata in vigore del provvedimento: 05/09/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

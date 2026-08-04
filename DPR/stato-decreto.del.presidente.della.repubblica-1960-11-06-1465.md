@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1465
+data: 1960-11-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-11-06;1465
+codice_redazionale: 060U1465
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 novembre 1960
+                1465
+                Autorizzazione all'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI) ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 novembre 1960, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Istituto nazionale per l'addestramento ed il perfezionamento dei lavoratori dell'industria (INAPLI) viene autorizzato ad acquistare dal Ministero delle finanze (Direzione generale del demanio), un immobile con terreno annesso siti in Pistoia, via Tripoli n. 15, da destinarsi a sede di centro di addestramento professionale dei lavoratori, alle condizioni specificate nell'atto pubblico di compravendita raccolto il 20 marzo 1958, repertorio n. 272, dall'ufficiale delegato a ricevere i contratti in forma pubblica amministrativa dottor Francesco Ariodante dell'Intendenza di finanza di Pistoia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 2 dicembre 1960
+ Atti del Governo, registro n. 132, foglio n. 17. - VILLA
+

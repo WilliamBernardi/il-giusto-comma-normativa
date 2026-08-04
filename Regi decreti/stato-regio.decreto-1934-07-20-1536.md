@@ -1,0 +1,151 @@
+---
+tipo: REGIO DECRETO
+numero: 1536
+data: 1934-07-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1934-07-20;1536
+codice_redazionale: 034U1536
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:46Z
+---
+
+REGIO DECRETO
+                20 luglio 1934
+                1536
+                Approvazione del regolamento per l'amministrazione dei Patronati scolastici. (034U1536)
+
+Entrata in vigore del provvedimento: 31/10/1934
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 1.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 1
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 2.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 2
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 3.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 3
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 4.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 4
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 5.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 5
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 6.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 6
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 7.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 7
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 8.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 8
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 9.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 9
+ ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 10.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 10 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 11.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 11 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 12.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 12 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 13.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 13 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 14.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 14 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 15.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 15 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 16.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 16 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 17.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 17 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 18.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 18 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 19.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 19 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 20.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 20 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+### Art. 21.
+
+Regolamento per l'amministrazione dei Patronati scolastici-art. 21 ((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+

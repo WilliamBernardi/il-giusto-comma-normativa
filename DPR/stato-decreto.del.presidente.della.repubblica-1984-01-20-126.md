@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 126
+data: 1984-01-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-01-20;126
+codice_redazionale: 084U0126
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 gennaio 1984
+                126
+                Riconoscimento, agli effetti civili, della erezione della parrocchia "Madonna del pane", in Novoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 gennaio 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Lecce 22 novembre 1981, integrato con due dichiarazioni in data 20 e 22 gennaio 1982, relativo alla erezione della parrocchia "Madonna del pane", in Novoli (Lecce).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 7 maggio 1984
+ Registro n. 16 Interno, foglio n. 217
+

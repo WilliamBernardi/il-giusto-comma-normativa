@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 418
+data: 1957-04-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-04-17;418
+codice_redazionale: 057U0418
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 aprile 1957
+                418
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Sant'Antonio, in localita' Marina del comune di Pietrasanta (Lucca).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 17 aprile 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Pisa in data 9 febbraio 1950, integrato con quattro postille del 10 settembre 1956, relativa alla erezione della parrocchia di Sant'Antonio, in localita' Marina del comune di Pietrasanta (Lucca) e viene inoltre, riconosciuta la personalita' giuridica della Chiesa omonima sede della parrocchia stessa. 
+ 
+Visto, il Guardasigilli: MORO 
+ Registrato alla Corte dei conti, addi' 11 giugno 1957 
+ Atti del Governo, registro n. 106, foglio n. 48. - CARLOMAGNO
+

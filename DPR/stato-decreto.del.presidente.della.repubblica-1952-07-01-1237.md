@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1237
+data: 1952-07-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-07-01;1237
+codice_redazionale: 052U1237
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 luglio 1952
+                1237
+                Classificazione nella rete delle strade statali della provinciale n. 6 e sua iscrizione nell'elenco delle strade statali col n. 149 e con la denominazione "strada di Montecassino".
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto legislativo Presidenziale 27 giugno 1946, n. 38, col quale e stata istituita l'Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.);
+ Visto l'art. 3 del decreto legislativo 17 aprile 1948, n. 547;
+ Ritenuta l'opportunita' di classificare nella rete statale il tronco di strada provinciale Cassino-Montecassino;
+ Visto il voto n. 200 del 29 agosto 1951, del Consiglio di amministrazione della Azienda Nazionale Autonoma delle Strade Statali (A.N.A.S.);
+ Visto il voto n. 1171 del 5 aprile 1952, del Consiglio superiore dei lavori pubblici;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per i lavori pubblici, di concerto con il Ministro per il tesoro;
+
+ Decreta:
+
+ E' classificata nella rete delle strade statali la strada provinciale Cassino-Montecassino che partendo dal km. 138+500 della strada statale n. 6 "Casilina" raggiunge l'ingresso "Pax" dell'Abbazia.
+ Tale strada e' iscritta nell'elenco delle strade statali col n. 149 e con la denominazione "Strada di Montecassino".
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 398
+data: 1901-07-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1901-07-20;398
+codice_redazionale: 001U0398
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:17Z
+---
+
+REGIO DECRETO
+                20 luglio 1901
+                398
+                Col quale vengono accettate le dimissioni presentate da un membro della Commissione incaricata di esaminare gli effetti delle vigenti Convenzioni per l'esercizio delle Reti ferroviarie Mediterranea, Adriatica e Sicula. (001U0398)
+
+Entrata in vigore del provvedimento: 10/09/1901
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

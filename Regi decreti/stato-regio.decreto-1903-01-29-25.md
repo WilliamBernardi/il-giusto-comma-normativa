@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-01-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-01-29;25
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:11Z
+---
+
+REGIO DECRETO
+                29 gennaio 1903
+                XXV
+                Che approva il regolamento per l'applicazione della tassa bestiame nei comuni della provincia di Genova. (0300025R)
+
+Entrata in vigore del provvedimento: 08/03/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 837
+data: 1960-07-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-10;837
+codice_redazionale: 060U0837
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 luglio 1960
+                837
+                Riconoscimento, agli effetti civili, della nuova parrocchia di Santa Cristina in San Francesco di Pistoia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 luglio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto; agli effetti civili, il decreto dell'Ordinario diocesano di Pistoia in data 24 agosto 1959, con cui la parrocchia di Santa Cristina in Luogomano di Cantagallo e' stata soppressa ed il relativo territorio e' stato unito alla parrocchia di San Michele in Luicciana di Cantagallo; il titolo ed il Beneficio della parrocchia di Santa Cristina in Luogomano sono stati assegnati ad una nuova parrocchia, con sede nella Chiesa di San Francesco di Pistoia, che assume il titolo di Santa Cristina in San Francesco di Pistoia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 agosto 1960
+ Atti del Governo, registro n. 128, foglio n. 148. - VILLA
+

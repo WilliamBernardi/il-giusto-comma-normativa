@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 822
+data: 1985-10-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-30;822
+codice_redazionale: 085U0822
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 ottobre 1985
+                822
+                Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 ottobre 1985, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad acquistare, al prezzo di L. 120.0000.000, un immobile sito in Rignano sull'Arno, (Firenze), piazza XXV Aprile, da adibire a sede del locale comitato C.R.I. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 7 gennaio 1986 
+ Registro n. 1 Sanita', foglio n. 48
+

@@ -1,0 +1,51 @@
+---
+tipo: REGIO DECRETO
+data: 1893-03-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1893-03-19;161
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:53Z
+---
+
+REGIO DECRETO
+                19 marzo 1893
+                CLXI
+                Che inverte il patrimonio del monte frumentario di Pollenza (Macerata) a favore dell'ospedale locale. (9300161R)
+
+Entrata in vigore del provvedimento: 23/04/1893
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Vedute le deliberazioni della congregazione di carita' e del consiglio comunale di Pollenza (Macerata) relative alla inversione pel patrimonio del monte frumentario, amministrato dalla congregazione di carita', a favore del civico ospedale che ha la stessa amministrazione;
+
+Veduto il parere favorevole della giunta provinciale amministrativa di Macerata;
+
+Vedute le dichiarazioni del Ministero di agricoltura, industria e commercio;
+
+Veduta la legge del 17 luglio 1390, n. 6972;
+
+Udito il consiglio di Stato;
+
+## Art. 1.
+
+Il patrimonio del monte frumentario di Pollenza e' invertito a favore dell'ospedale del comune stesso. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 marzo 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 3 aprile 1893. 
+ 
+ Reg. 191. Atti del Governo a f. 8. Gaffino. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti
+

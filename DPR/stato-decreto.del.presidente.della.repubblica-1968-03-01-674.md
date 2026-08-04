@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 674
+data: 1968-03-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-01;674
+codice_redazionale: 068U0674
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 marzo 1968
+                674
+                Erezione in ente morale della cassa scolastica della scuola media statale "Carlo Calcaterra", di Bellinzago Novarese.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 marzo 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, la cassa scolastica della scuola media statale "Carlo Calcaterra", di Bellinzago Novarese, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 21 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 163. - GRECO
+

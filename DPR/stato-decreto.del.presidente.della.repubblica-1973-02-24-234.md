@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 234
+data: 1973-02-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-02-24;234
+codice_redazionale: 073U0234
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 febbraio 1973
+                234
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Vergine Maria, nel comune di Casalpusterlengo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 febbraio 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Lodi in data 2 settembre 1970, integrato con dichiarazioni del 25 novembre successivo e del 13 maggio 1972, relativo alla erezione della parrocchia della Beata Vergine Maria, in localita' S. Salvario del comune di Casalpusterlengo (Milano).
+ Viene, altresi', riconosciuta la personalita' giuridica della chiesa omonima, detta anche Santuario Madonna dei Cappuccini, sede dell'anzidetta parrocchia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 17 maggio 1973
+ Atti di Governo, registro n. 258, foglio n. 51. - VALENTINI
+

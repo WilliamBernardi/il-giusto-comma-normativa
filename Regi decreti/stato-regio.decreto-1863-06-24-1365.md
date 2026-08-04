@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1365
+data: 1863-06-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-06-24;1365
+codice_redazionale: 063U1365
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:43Z
+---
+
+REGIO DECRETO
+                24 giugno 1863
+                1365
+                Che trasferisce sotto la dipendenza del Ministero dell'Istruzione pubblica la Scuola d'applicazione degl'Ingegneri in Napoli. (063U1365)
+
+Entrata in vigore del provvedimento: 13/08/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

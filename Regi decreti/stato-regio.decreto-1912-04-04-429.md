@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 429
+data: 1912-04-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1912-04-04;429
+codice_redazionale: 012U0429
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:50Z
+---
+
+REGIO DECRETO
+                04 aprile 1912
+                429
+                Col quale la Societa' anonima dei tramvai napoletani viene autorizzata a costruire e ad esercitare, a trazione elettrica, una tramvia da Barra a Ponticelli. (012U0429)
+
+Entrata in vigore del provvedimento: 02/06/1912
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

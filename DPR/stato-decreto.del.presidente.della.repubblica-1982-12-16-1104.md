@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1104
+data: 1982-12-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-12-16;1104
+codice_redazionale: 082U1104
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 dicembre 1982
+                1104
+                Riconoscimento, agli effetti civili, della separazione delle parrocchie di "S. Lorenzo" e "Maria SS. di Valleverde", in Bovino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 dicembre 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Bovino 1 novembre 1981, relativo alla separazione della parrocchia di "S. Lorenzo" dalla parrocchia di "Maria SS.ma di Valleverde", entrambe in Bovino (Foggia).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 12 febbraio 1983
+ Registro n. 5 Interno, foglio n. 55
+

@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 53
+data: 1953-02-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-02-10;53
+codice_redazionale: 053U0053
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 febbraio 1953
+                53
+                Istituzione di due posti di notaio in Latina, distretto notarile di Roma.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 4 della legge 16 febbraio 1913, n. 89;
+ Visto il regio decreto 9 dicembre 1937, n. 2141, sulla revisione della tabella, che determina il numero e la residenza dei notai;
+ Visto il decreto legislativo 6 marzo 1948, n. 518;
+ Riconosciuta la necessita' di istituire altri due nuovi posti di notaio nel comune di Latina, distretto notarile di Roma, in considerazione del numero degli abitanti (36.000), della quantita' degli affari e della estensione del territorio;
+ Visti i pareri del Consiglio notarile e della Corte di appello di Roma;
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+
+ Decreta:
+
+ La tabella che determina il numero e la residenza dei notai, approvata con regio decreto 9 dicembre 1937, n. 2141, e' modificata nel senso che e' aumentato a tre il numero dei posti di notaio nella sede notarile di Latina, distretto notarile di Roma, a decorrere dalla data di pubblicazione del presente decreto nella Gazzetta Ufficiale.
+

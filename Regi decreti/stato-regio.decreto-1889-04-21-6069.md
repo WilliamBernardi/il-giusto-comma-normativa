@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 6069
+data: 1889-04-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-04-21;6069
+codice_redazionale: 089U6069
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:05Z
+---
+
+REGIO DECRETO
+                21 aprile 1889
+                6069
+                Per l'accertamento delle rendite dovute per la conversione dei beni immobili degli Enti morali ecclesiastici indicati nell'annesso elenco. (089U6069)
+
+Entrata in vigore del provvedimento: 19/06/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

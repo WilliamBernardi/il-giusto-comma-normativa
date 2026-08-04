@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1398
+data: 1954-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1398
+codice_redazionale: 054U1398
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1954
+                1398
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale di San Carlo Borromeo, in frazione Collepiano del comune di Adrara San Martino (Bergamo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di San Carlo Borromeo, in frazione Collepiano del comune di Adrara San Martino (Bergamo) e la stessa Chiesa viene autorizzata ad accettare una donazione consistente in alcuni immobili, situati in comune di Adrara San Martino.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 17 febbraio 1955
+ Atti del Governo, registro n. 88, foglio n. 144. - CARLOMAGNO
+

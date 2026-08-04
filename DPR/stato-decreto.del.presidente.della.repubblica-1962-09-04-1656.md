@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1656
+data: 1962-09-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-09-04;1656
+codice_redazionale: 062U1656
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 settembre 1962
+                1656
+                Incorporazione del Monte di credito su pegno di Rutigliano (Bari) nella Cassa di risparmio di Puglia.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visti il regio decreto 25 aprile 1929, n. 967, ed il regio decreto 5 febbraio 1931, n. 225;
+ Visto il regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni;
+ Visti la legge 10 maggio 1938, n. 745 ed il regio decreto 25 maggio 1939, n. 1279;
+ Visto il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691;
+ Viste le delibere del Consiglio di amministrazione della Cassa di risparmio di Puglia, con sede in Bari, in data 7 luglio 1962, e del commissario provvisorio del Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), in data 6 luglio 1962;
+ Sentito il Comitato interministeriale per il credito ed il risparmio;
+ Sulla proposta del Ministro per il tesoro;
+
+ Decreta:
+
+ Il Monte di credito su pegno di Rutigliano, di seconda categoria, con sede in Rutigliano (Bari), e' incorporato nella Cassa di risparmio di Puglia, con sede in Bari.
+ Le modalita' dell'incorporazione saranno approvate con decreto del Ministro per il tesoro, ai sensi dell'articolo 47, comma primo, del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni, e del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691.
+

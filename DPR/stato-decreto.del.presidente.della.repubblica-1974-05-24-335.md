@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 335
+data: 1974-05-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-24;335
+codice_redazionale: 074U0335
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 maggio 1974
+                335
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Maria Vergine Regina della pace, in Foggia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 maggio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Foggia in data 8 dicembre 1968, integrato con postilla aggiuntiva 8 settembre 1972, con altro decreto e due dichiarazioni tutti in data 8 settembre 1972, relativo alla erezione della parrocchia della Beata Maria Vergine Regina della pace, in Foggia.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 29 luglio 1974
+ Atti di Governo, registro n. 4, foglio n. 94. - SCIARRETTA
+

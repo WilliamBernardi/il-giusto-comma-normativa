@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 84
+data: 1933-01-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-01-12;84
+codice_redazionale: 033U0084
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:56Z
+---
+
+REGIO DECRETO
+                12 gennaio 1933
+                84
+                Riconoscimento, agli effetti civili, dell'erezione in parrocchia della Chiesa di Maria SS. Regina Pacis, in Roma. (033U0084)
+
+Entrata in vigore del provvedimento: 12/03/1933
+
+## Art. 1.
+
+N.
+
+R. decreto 12 gennaio 1933, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta, agli effetti civili, la erezione in parrocchia della Chiesa di Maria SS. Regina Pacis in Roma (Monteverde), ai sensi della Bolla Pontificia 25 marzo 1932, del decreto 23 aprile 1932 del Cardinale Vicario e della declaratoria del Vicariato di Roma del 4 maggio 1932, con la: dote e la circoscrizione territoriale ivi indicate. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 9 febbraio 1933 - Anno XI
+

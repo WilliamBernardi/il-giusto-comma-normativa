@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2150
+data: 1924-11-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-11-13;2150
+codice_redazionale: 024U2150
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:56Z
+---
+
+REGIO DECRETO
+                13 novembre 1924
+                2150
+                Sostituzione di un membro fisso della Commissione per la risoluzione delle controversie derivanti dall'applicazione dell'ordinamento gerarchico delle Amministrazioni dello Stato. (024U2150)
+
+Entrata in vigore del provvedimento: 28/01/1925
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

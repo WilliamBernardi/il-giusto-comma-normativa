@@ -1,0 +1,122 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 151
+data: 2004-05-21
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2004-05-21;151
+codice_redazionale: 004G0181
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2026-01-06
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:51Z
+---
+
+DECRETO LEGISLATIVO
+                21 maggio 2004
+                151
+                Attuazione della direttiva 2001/112/CE, concernente i succhi di frutta ed altri prodotti analoghi destinati all'alimentazione umana.
+
+Entrata in vigore del provvedimento: 19/6/2004
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Ministro per le politiche comunitarie e del Ministro delle attivita' produttive, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, della salute, delle politiche agricole e forestali e per gli affari regionali;
+
+## Art. 1. — Campo di applicazione
+
+Il presente decreto si applica ai succhi di frutta e prodotti analoghi, destinati all'alimentazione umana e definiti all'allegato I ((parte I)).
+
+((
+
+Salvo quanto espressamente stabilito dal presente decreto legislativo, i prodotti di cui al comma 1 sono soggetti alle norme comunitarie e di derivazione comunitaria applicabili agli alimenti ed in particolare al regolamento (CE) n. 178/2002 del Parlamento europeo e del Consiglio, del 28 gennaio 2002, che stabilisce i principi e i requisiti generali della legislazione alimentare, istituisce l'Autorita' europea per la sicurezza alimentare e fissa procedure nel campo della sicurezza alimentare.
+
+Ai fini del presente decreto legislativo, si applicano le definizioni di cui all'allegato II.
+
+))
+
+Ai prodotti definiti all'allegato III si applicano le disposizioni previste dal presente decreto per i medesimi prodotti dell'allegato I a cui si riferiscono.
+
+Il presente decreto non si applica ai succhi e ai nettari ottenuti da materie prime diverse dalla frutta.
+
+## Art. 2. — Aggiunte
+
+((
+
+Ai prodotti di cui all'articolo 1, comma 1, possono essere aggiunti gli ingredienti autorizzati nell'allegato I, parte II, punto 2.
+
+))
+
+## Art. 3. — Trattamenti e sostanze in essi utilizzati
+
+((
+
+I prodotti di cui all'articolo 1, comma 1, possono essere sottoposti ai trattamenti indicati nell'allegato I, parte II, punto 3, nei quali possono essere utilizzate le sostanze ivi indicate.
+
+))
+
+## Art. 4. — Denominazioni di vendita e altre indicazioni
+
+((4))
+
+La ricomposizione dello stato d'origine, mediante sostanze a cio' strettamente necessarie, dei prodotti definiti nell'allegato I, punti 1 e 2, non comporta l'obbligo di indicare dette sostanze nell'elenco degli ingredienti. L'aggiunta di polpa e cellule ai succhi di frutta di cui all'allegato I deve figurare nell'etichettatura.
+
+Le denominazioni di vendita indicate all'allegato I sono riservate ai prodotti definiti nel medesimo allegato e sono utilizzate nel commercio per designare i prodotti stessi; in alternativa, e con i medesimi effetti e obblighi, possono essere utilizzate le denominazioni di cui all'allegato III, alle condizioni e nelle lingue ivi indicate.
+
+Agli effetti del comma 5, se il prodotto e' fabbricato con una sola specie di frutto, l'indicazione della specie sostituisce il nome «frutta»; se il prodotto e' fabbricato con due o piu' specie di frutta, salvo quando viene utilizzato succo di limone e/o di limetta, alle condizioni stabilite nell'allegato I, parte II, punto 2, la denominazione di vendita e' costituita dall'indicazione della frutta utilizzata, in ordine decrescente di volume dei succhi o delle puree di frutta, come riportata nell'elenco degli ingredienti. Tuttavia, nel caso di prodotti fabbricati con tre o piu' specie di frutta, l'indicazione della frutta utilizzata puo' essere sostituita dalla dicitura 'piu' specie di frutta', da un'indicazione simile o da quella relativa al numero delle specie utilizzate.
+
+(( La fabbricazione dei prodotti elencati nell'allegato I, parte I, e' consentita esclusivamente mediante l'impiego dei trattamenti e l'utilizzo delle sostanze indicati nell'allegato I, parte II, e delle materie prime conformi all'allegato II. I nettari di frutta devono essere conformi ai criteri specifici previsti nell'allegato IV.))
+                            ((4))
+
+((Qualora venga utilizzata la dicitura: "i succhi di frutta contengono solo zuccheri naturalmente presenti", questa deve essere riportata nello stesso campo visivo della denominazione di vendita dei prodotti di cui all'allegato I, parte I, punto 1.))
+                            ((4))
+
+-----------
+                        AGGIORNAMENTO (4)
+                        
+ Il D.Lgs. 30 dicembre 2025, n. 207 ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 14 giugno 2026". 
+ Ha inoltre disposto (con l'art. 5, comma 2) che "I prodotti immessi sul mercato o etichettati anteriormente al 14 giugno 2026, in conformita' alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono essere commercializzati fino all'esaurimento delle scorte".
+
+## Art. 5. — Abrogazione
+
+E' abrogato il decreto del Presidente della Repubblica 18 maggio 1982, n. 489, e successive modificazioni.
+
+## Art. 6. — Sanzioni
+
+Salvo che il fatto costituisca reato, chiunque utilizza le denominazioni di vendita dei prodotti definiti all'allegato I e all'allegato III per prodotti non conformi alle caratteristiche per essi stabilite dal presente decreto, e' punito con la sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila ad euro novemila.
+
+Salvo che il fatto costituisca reato, chiunque aggiunge ai prodotti di cui all'articolo 1, comma 1, sostanze diverse da quelle consentite ((dall'allegato I, parte 2, punto 2,)) e' punito con la sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila ad euro novemila.
+
+Salvo che il fatto costituisca reato, chiunque sottopone prodotti di cui all'articolo 1, comma 1, a trattamenti diversi o utilizza sostanze diverse da quelli consentiti ((dall'allegato I, parte II, punto 3,)) e' punito con la sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila ad euro novemila.
+
+((
+
+Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui all'articolo 4, commi 6 e 6-bis, e' assoggettato alla sanzione amministrativa pecuniaria del pagamento di una somma da euro tremila a euro novemila.
+
+))
+
+Salvo che il fatto costituisca reato, chiunque viola le disposizioni di cui all'articolo 4, commi 2, 3 e 4, e' assoggettato alla sanzione amministrativa pecuniaria del pagamento di una somma da euro duemila ad euro seimila.
+
+## Art. 7. — Norme transitorie
+
+((
+
+I prodotti di cui all'articolo 1, comma 1, e i relativi imballaggi, immessi sul mercato o etichettati conformemente alle disposizioni vigenti prima della data di entrata in vigore del presente decreto, possono continuare ad essere commercializzati fino al 28 aprile 2015.
+
+L'indicazione "Dal 28 aprile 2015 i succhi di frutta non possono contenere zuccheri aggiunti" puo' apparire sull'etichetta nello stesso campo visivo della denominazione dei prodotti di cui all'allegato I, parte I, punti da 1 a 4, fino al 28 ottobre 2016.
+
+))
+
+## Art. 7-bis. — (( (Aggiornamento degli allegati). ))
+
+((
+
+All'aggiornamento e alla modifica delle disposizioni degli allegati al presente decreto legislativo derivanti da aggiornamenti e modifiche della direttiva 2001/112/CE si provvede con decreto del Ministro dello sviluppo economico ai sensi dell'articolo 35, comma 3, della legge 24 dicembre 2012, n. 234.
+
+))
+
+## Art. 8. — Entrata in vigore
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

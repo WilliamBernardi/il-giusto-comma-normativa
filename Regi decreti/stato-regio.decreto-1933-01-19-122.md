@@ -1,0 +1,73 @@
+---
+tipo: REGIO DECRETO
+numero: 122
+data: 1933-01-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-01-19;122
+codice_redazionale: 033U0122
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:05Z
+---
+
+REGIO DECRETO
+                19 gennaio 1933
+                122
+                Iscrizione di rendita pubblica a favore di Enti ecclesiastici conservati. (033U0122)
+
+Entrata in vigore del provvedimento: 23/03/1933
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+## Art. 1.
+
+Le rendite dovute per la conversione dei beni immobili ai sottoindicati Enti ecclesiastici, sono accertate nelle somme seguenti: 
+ 
+
+ 1° all'Oratorio di S. Maria in Paterno di Sassocorvaro. . .L. 31,95 
+ 2° alla Cappella della Madonna degli Angeli in Cerchiara d'Isola del Gran Sasso, amministrata dalla Congregazione di carita' d'Isola del Gran Sasso. . . . . . . . . . . . . . . . . . . . . . . . » 91,91 
+ 3° alla Cappella del Sacramento in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio . . .L. 12,25 
+ 4° alla Compagnia della carita' in Campli, amministrata da quella Congregazione di carita'. . . . . . . . . . . . . . . . . . . » 92,76 
+ 5° alla Compagnia di S. Maria Maddalena in Campli, amministrata da quella Congregazione di carita' . . . . . . . . . . . . . . . . » 7 - 
+ 6° alla Cappella di S. Vito in. Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio . . . » 11,90 
+ 7° alla Cappella di S. Giovenale in Villa Vallucci di Montorio al Vomano, amministrata dalla Congregazione di carita' Montorio. .» 1,75
+
+## Art. 2.
+
+Dal fondo di rendita sul Gran Libro del debito pubblico istituito con R. decreto 21 dicembre 1922, n. 1689, intestato al Demanio dello Stato sara' trasferita, con decorrenza dal 1° gennaio 1933, agli Enti ecclesiastici indicati nel precedente articolo, la rendita consolidato 3,50 % a ciascuno di essi consegnata.
+
+## Art. 3.
+
+Per le rate di rendita maturate a tutto il 31 dicembre 1932 sono assegnate le seguenti somme: 
+ 
+
+ 1° alla Cappella della Madonna degli Angeli in Cerchiara di Isola del Gran Sasso, amministrata dalla Congregazione di carita' d'Isola del Gran Sasso . . . . . . . . . . . . . . . . . . . . . . L. 5403,52 
+ 2° alla Cappella del Sacramento in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . . » 687,34 
+ 3° alla Compagnia della carita' in Campli, amministrata da quella Congregazione di carita' . . . . . . . . . . . . . . . . . .» 5551,75 
+ 4° alla Compagnia di S. Maria Maddalena in Campli, amministrata da quella Congregazione di carita'. . . . . . . . . . . . . . . » 418,85 
+ 5° alla Cappella di S. Vito in Leognano di Montorio al Vomano, amministrata dalla Congregazione di carita' di Montorio. . . » 667,67 
+ 6° alla Cappella di S. Giovenale in Villa Vallucci di Montorio al Vomano, amministrata dalla Congregazione di carita' di Mortorio
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . » 42,29
+
+## Art. 4.
+
+Le somme indicate nel precedente articolo saranno prelevate dal capitolo 364 dello stato di previsione della spesa del Ministero delle finanze per il corrente esercizio finanziario. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 19 gennaio 1933 - Anno XI 
+ 
+ VITTORIO EMANUELE 
+ 
+ JUNG. 
+ 
+Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte del conti, addi' 1° marzo 1933 - Anno XI 
+ 
+ Atti del Governo, registro 330, foglio 1. - Mancini.
+

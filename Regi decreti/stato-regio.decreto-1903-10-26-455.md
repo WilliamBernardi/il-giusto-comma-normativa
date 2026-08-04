@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-10-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-10-26;455
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:20Z
+---
+
+REGIO DECRETO
+                26 ottobre 1903
+                CCCCLV
+                Che erige in ente morale la cassa pia di previdenza dell'associazione della stampa subalpina in Torino. (0300455R)
+
+Entrata in vigore del provvedimento: 18/12/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

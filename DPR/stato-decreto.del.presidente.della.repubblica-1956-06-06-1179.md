@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1179
+data: 1956-06-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-06-06;1179
+codice_redazionale: 056U1179
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 giugno 1956
+                1179
+                Erezione in ente morale della Cassa scolastica del Liceo scientifico statale di Vercelli.
+
+## Art. 1.
+
+N.
+
+Decreto dei Presidente della Repubblica 6 giugno 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale di Vercelli viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 23 ottobre 1956
+ Atti del Governo, registro n. 101, foglio n. 70. - CARLOMAGNO
+

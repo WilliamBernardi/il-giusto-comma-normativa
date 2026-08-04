@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 43
+data: 1925-01-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1925-01-18;43
+codice_redazionale: 025U0043
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:37Z
+---
+
+REGIO DECRETO
+                18 gennaio 1925
+                43
+                Cessazione della gestione, da parte della Cassa di risparmio del Banco di Napoli, delle Casse provinciali di credito agrario di Lecce e di Caserta. (025U0043)
+
+Entrata in vigore del provvedimento: 20/02/1925
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

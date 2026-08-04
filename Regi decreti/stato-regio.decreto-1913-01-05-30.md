@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 30
+data: 1913-01-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-01-05;30
+codice_redazionale: 013U0030
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:56Z
+---
+
+REGIO DECRETO
+                05 gennaio 1913
+                30
+                Determinazione di zone di servitu' militare. (013U0030)
+
+Entrata in vigore del provvedimento: 25/02/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

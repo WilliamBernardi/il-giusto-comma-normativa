@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 170
+data: 1929-01-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-01-28;170
+codice_redazionale: 029U0170
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:36Z
+---
+
+REGIO DECRETO
+                28 gennaio 1929
+                170
+                Erezione in ente morale dell'Opera pia «Ospedale prof. Francesco Arnaldi», in Montechiaro d'Asti. (029U0170)
+
+Entrata in vigore del provvedimento: 16/03/1929
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

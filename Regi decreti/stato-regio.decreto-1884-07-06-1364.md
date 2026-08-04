@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+data: 1884-07-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-07-06;1364
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:02Z
+---
+
+REGIO DECRETO
+                06 luglio 1884
+                MCCCLXIV
+                Che erige in corpo morale l'asilo infantile di Rivoira (Boves), e ne approva lo statuto. (8401364R)
+
+Entrata in vigore del provvedimento: 29/08/1884
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduta la domanda dell'amministrazione dell'asilo infantile di Rivoira, frazione del comune di Boves, per ottenere la erezione in corpo morale del pio istituto e l'approvazione del relativo statuto organico;
+
+Veduto detto statuto organico e gli altri atti dell'affare;
+
+Veduta la deliberazione della deputazione provinciale di Cuneo in data 19 maggio prossimo passato;
+
+Veduta la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno;
+
+Udito l'avviso del consiglio di Stato;
+
+## Art. 1.
+
+L'asilo infantile di Rivoira, frazione del comune di Boves, e' eretto in corpo morale ed e' approvato il relativo statuto organico deliberato dal consiglio comunale in data 3 maggio prossimo passato, composto di ventinove articoli, vistato e sottoscritto dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 6 luglio 1884. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 21 luglio 1884 
+ 
+ Reg.136. Atti del Governo a f. 193 Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli N. FERRACCIU'. 
+ 
+ DEPRETIS.
+

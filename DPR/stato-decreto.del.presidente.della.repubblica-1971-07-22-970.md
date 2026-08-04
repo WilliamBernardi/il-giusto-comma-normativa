@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 970
+data: 1971-07-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-22;970
+codice_redazionale: 071U0970
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 luglio 1971
+                970
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Rocco e di S. Michele, in Dusino San Michele.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 luglio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Asti in data 12 ottobre 1970, relativo alla unione perpetua "aeque principalis" delle parrocchie di S. Rocco e di S.
+ Michele nella frazione omonima, del comune di Dusino San Michele (Asti).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 17 novembre 1971
+ Atti del Governo, registro n. 245, foglio n. 55. - CARUSO
+

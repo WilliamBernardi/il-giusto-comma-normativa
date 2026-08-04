@@ -1,0 +1,50 @@
+---
+tipo: REGIO DECRETO
+numero: 425
+data: 1906-07-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-07-12;425
+codice_redazionale: 006U0425
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:56Z
+---
+
+REGIO DECRETO
+                12 luglio 1906
+                425
+                Apertura di un concorso a premi fra le Associazioni di proprietari agricoli in Sardegna per l'assicurazione dalla mortalita' del bestiame agrario. (006U0425)
+
+Entrata in vigore del provvedimento: 29/08/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 617
+data: 1973-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-08-31;617
+codice_redazionale: 073U0617
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1973
+                617
+                Riconoscimento; agli effetti civili, della separazione della parrocchia di S. Giuseppe e S. Giovanni apostolo ed evangelista da quella di S. Agata vergine e martire, nel comune di Sulmona.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 agosto 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto 1 luglio 1972 dell'ordinario di Valva e Sulmona, relativo alla separazione della parrocchia di San Giuseppe e S. Giovanni apostolo ed evangelista, in contrada. Cappuccini, da quella di S. Agata vergine e martire, nel comune di Sulmona: (L'Aquila). Viene, inoltre, disposta l'unione temporanea. "aeque principalis" della parrocchia di S.
+ Giuseppe e S. Giovanni apostolo ed evangelista con quella di S.
+ Giovanni ante Portam Latinam e della parrocchia di S. Agata vergine e martire con quella di S. Filippo Neri, in Sulmona. 
+ 
+Visto, il Guardasigilli: ZAGARI 
+ Registrato alla Corte dei conti, addi' 19 ottobre 1973 
+ Atti di Governo, registro n. 261, foglio n. 47, - VALENTINI
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1429
+data: 1961-11-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-11-23;1429
+codice_redazionale: 061U1429
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 novembre 1961
+                1429
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria Assunta, in localita' Castello Madonna Missionaria del comune di Tricesimo (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 novembre 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 21 aprile 1961, integrato con prospetto e dichiarazione del 3 maggio 1961, relativo alla erezione della parrocchia di Santa Maria Assunta, in localita' Castello Madonna Missionaria del comune di Tricesimo (Udine), e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 dicembre 1961
+ Atti del Governo, registro n. 142, foglio n. 161. - VILLA
+

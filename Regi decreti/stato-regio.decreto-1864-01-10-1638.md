@@ -1,0 +1,45 @@
+---
+tipo: REGIO DECRETO
+numero: 1638
+data: 1864-01-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1864-01-10;1638
+codice_redazionale: 064U1638
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:19Z
+---
+
+REGIO DECRETO
+                10 gennaio 1864
+                1638
+                Che autorizza il Comune di Celenza (Abruzzo Citra) ad assumere una nuova denominazione. (064U1638)
+
+Entrata in vigore del provvedimento: 10/02/1864
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Ministro dell'Interno;
+
+## Art. 1.
+
+Il Comune di Celenza (Abruzzo Citra) e' autorizzato ad assumere la denominazione di Celenza sul Trigno a vece di quella di Celenza sul Frigno, sanzionata col precedente Nostro Decreto de' 22 gennaio 1863, n.° 1140. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino addi' 10 gennaio 1864. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 19 gennaio 1864 
+ 
+ Reg.° 28 Atti del Governo a c. 17. Salvaja. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Pisanelli. 
+ 
+ U. Peruzzi.
+

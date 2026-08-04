@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1258
+data: 1873-02-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1873-02-02;1258
+codice_redazionale: 073U1258
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:49Z
+---
+
+REGIO DECRETO
+                02 febbraio 1873
+                1258
+                Che assegna L. 18,000 di concorso governativo alla Scuola superiore navale in Genova. (073U1258)
+
+Entrata in vigore del provvedimento: 14/03/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

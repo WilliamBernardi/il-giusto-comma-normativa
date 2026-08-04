@@ -1,0 +1,72 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 190
+data: 2003-06-30
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2003-06-30;190
+codice_redazionale: 003G0217
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2006-01-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:31Z
+---
+
+DECRETO LEGISLATIVO
+                30 giugno 2003
+                190
+                Attuazione della direttiva 2000/26/CE in materia di assicurazione della responsabilita' civile risultante dalla circolazione di autoveicoli, che modifica anche le direttive 73/239/CEE e 88/357/CEE.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 7 SETTEMBRE 2005, N. 209))
+
+
+

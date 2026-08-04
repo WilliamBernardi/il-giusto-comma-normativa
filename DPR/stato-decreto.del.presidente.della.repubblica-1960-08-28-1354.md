@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1354
+data: 1960-08-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-08-28;1354
+codice_redazionale: 060U1354
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 agosto 1960
+                1354
+                Erezione in ente morale della Cassa scolastica della Scuola secondaria di avviamento professionale a tipo agrario e industriale femminile di Tarquinia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 agosto 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola secondaria di avviamento professionale a tipo agrario e industriale femminile di Tarquinia viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 novembre 1960
+ Atti del Governo, registro n. 131, foglio n. 38. - VILLA
+

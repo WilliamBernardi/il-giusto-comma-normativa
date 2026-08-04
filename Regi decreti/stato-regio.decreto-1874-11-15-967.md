@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1874-11-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1874-11-15;967
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:24Z
+---
+
+REGIO DECRETO
+                15 novembre 1874
+                DCCCCLXVII
+                Che approva il trasferimento della sede della Banca per il commercio dei metalli preziosi, sedente in Genova. (7400967R)
+
+Entrata in vigore del provvedimento: 18/12/1874
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

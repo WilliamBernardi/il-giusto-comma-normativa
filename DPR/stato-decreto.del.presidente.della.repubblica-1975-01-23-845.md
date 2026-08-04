@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 845
+data: 1975-01-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-01-23;845
+codice_redazionale: 075U0845
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2022-09-27
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:43Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 gennaio 1975
+                845
+                Integrazione al regolamento di polizia veterinaria approvato con decreto del Presidente della Repubblica 8 febbraio 1954, n. 320, e riguardante la disciplina igienica delle penne, piume e piumini destinati all'imbottitura.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 5 AGOSTO 2022, N. 136))
+
+
+

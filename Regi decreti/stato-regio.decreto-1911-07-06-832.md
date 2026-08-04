@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 832
+data: 1911-07-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1911-07-06;832
+codice_redazionale: 011U0832
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:56Z
+---
+
+REGIO DECRETO
+                06 luglio 1911
+                832
+                Modificazione di circoscrizione nel Collegio di probiviri per le industrie minerarie e metallurgiche di vari comuni della provincia di Grosseto. (011U0832)
+
+Entrata in vigore del provvedimento: 27/08/1911
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

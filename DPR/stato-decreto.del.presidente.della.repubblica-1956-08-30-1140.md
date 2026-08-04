@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1140
+data: 1956-08-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-08-30;1140
+codice_redazionale: 056U1140
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 agosto 1956
+                1140
+                Riconoscimento, agli effetti civili, dello stralcio ed assegnazione alla Mensa vescovile della somma di L. 15.000.000 di pertinenza del Beneficio parrocchiale di Sant'Antimo, in frazione Montepagano del comune di Roseto degli Abruzzi (Teramo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 agosto 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Teramo, in data 15 marzo 1956, relativo allo stralcio ed assegnazione alla Mensa vescovile della somma di L. 15.000.000 di pertinenza del Beneficio parrocchiale di Sant'Antimio, in frazione Montepagano del comune di Roseto degli Abruzzi (Teramo) da devolversi per lire dieci milioni per la costruzione della chiesa ed edifici antiessi della nuova parrocchia del Sacro Cuore, in Roseto degli Abruzzi, e per L. 5.000.000 per l'istituzione della parrocchia di Santa Lucia, in frazione di Montepagano.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 12 ottobre 1956
+ Atti del Governo, registro n. 101, foglio n. 15. - CARLOMAGNO
+

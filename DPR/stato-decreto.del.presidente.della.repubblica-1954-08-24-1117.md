@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1117
+data: 1954-08-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-24;1117
+codice_redazionale: 054U1117
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 agosto 1954
+                1117
+                Autorizzazione al Corpo nazionale dei giovani esploratori italiani ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della, Repubblica 24 agosto 1954, col quale, sulla proposta del Ministro per la, pubblica, istruzione, il Corpo nazionale dei giovani esploratori italiani, viene autorizzato ad accettare la donazione di due appezzamenti di terreno, con casetta colonica annessa, in localita' denominata "Contra" e di una casetta alpina in localita' detta "Colla" o "Osteria del Becco", situate nel comune di Sori (Genova).
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 30 novembre 1954
+ Atti del Governo, registro n. 87, foglio n. 50. - CARLOMAGNO
+

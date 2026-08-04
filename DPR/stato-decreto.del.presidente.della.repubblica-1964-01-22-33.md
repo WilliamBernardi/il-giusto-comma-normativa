@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 33
+data: 1964-01-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-01-22;33
+codice_redazionale: 064U0033
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 gennaio 1964
+                33
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Giuseppe Cottolengo Canfessore, nella citta' di Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 gennaio 1964, col quale sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario Generale di Sua Santita' il Sommo Pontefice in data 10 dicembre 1962, integrato con altro decreto dell'11 dicembre 1962 e con due dichiarazioni entrambe del 27 giugno 1963, relativo alla erezione della Parrocchia di San Giuseppe Cottolengo Confessore, nella citta' di Roma, ed alla istituzione di due Uffici coadiutorali nella Parrocchia stessa.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 20 febbraio 1964
+ Atti del Governo, registro n. 181, foglio n. 77 - VILLA
+

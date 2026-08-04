@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1517
+data: 1948-09-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-09-14;1517
+codice_redazionale: 048U1517
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 settembre 1948
+                1517
+                Autorizzazione all'Universita' di Bologna ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 settembre 1948, col quale, sulla proposta; del Ministro per la pubblica istruzione, l'Universita' di Bologna viene autorizzata ad accettare la donazione della somma di L. 200.000 nominali in titoli di Stato, disposta in suo favore dal prof. Antonio Gasbarrini, dal Municipio di Teramo e da altri, con atto pubblico in data 29 gennaio 1947, per l'istituzione di un premio di studio da intitolarsi al nome del "professore Salvatore Gasbarrini".
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 23 dicembre 1948
+

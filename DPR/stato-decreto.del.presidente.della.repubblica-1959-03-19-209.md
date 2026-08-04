@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 209
+data: 1959-03-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-19;209
+codice_redazionale: 059U0209
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 marzo 1959
+                209
+                Assegnazioni di fondi allo stato di previsione del Ministero della pubblica istruzione per l'esercizio finanziario 1958-59, a norma dell'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato. (Secondo provvedimento).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;
+ Visto l'art. 87, comma quinto, della Costituzione;
+ Viste le leggi 31 ottobre 1958, numeri 965 e 975;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro Segretario di Stato per il tesoro;
+
+ Decreta:
+
+ Nello stato di previsione del Ministero della pubblica istruzione, per l'esercizio finanziario 1958-59, sono introdotte le seguenti variazioni in aumento:
+
+ Cap. n. 87. - Stipendi, ecc. . . . . . . . . . . . . L. 300.000.000 Cap. n. 108. - Stipendi, ecc . . . . . . . . . . . . L. 295.000.000 Cap. n. 131. - Stipendi, ecc . . . . . . . . . . . L. 1.308.337.000 Cap. n. 133. - Spesa per retribuzioni ai professori incaricati, ecc. . . . . . . . . . . . . . . . . . . . . . . . . L. 1.000.000.000 Cap. n. 243. - Retribuzioni, ecc . . . . . . . . . . . L. 5.895.000 
+ L. 2.909.232.000
+

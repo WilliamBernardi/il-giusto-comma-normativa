@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 342
+data: 1974-05-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-24;342
+codice_redazionale: 074U0342
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 maggio 1974
+                342
+                Riconoscimento, agli effetti civili, della soppressione, trasferimento e mutamento del titolo del beneficio parrocchiale di S.
+Michele arcangelo, in Bucine.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 maggio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Arezzo in data 2 gennaio 1973, relativo all'incorporazione del territorio della soppressa parrocchia di S.
+ Michele arcangelo, in localita' Tontenano del comune di Bucine (Arezzo), nella limitrofa parrocchia di S. Leolino nello stesso comune e trasferimento del beneficio parrocchiale di S. Michele arcangelo, con il mutato titolo di S. Donato, nella chiesa omonima, in localita' Maccagnolo di Arezzo, con assegnazione di nuova circoscrizione territoriale.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 29 luglio 1974
+ Atti di Governo, registro n. 4, foglio n. 91. - SCIARRETTA
+

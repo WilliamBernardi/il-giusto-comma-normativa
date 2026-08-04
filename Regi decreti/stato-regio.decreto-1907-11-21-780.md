@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 780
+data: 1907-11-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1907-11-21;780
+codice_redazionale: 007U0780
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:41Z
+---
+
+REGIO DECRETO
+                21 novembre 1907
+                780
+                Che sopprime posti di inserviente e ne istituisce nuovi di usciere nei ruoli del Ministero di agricoltura, industria e commercio. (007U0780)
+
+Entrata in vigore del provvedimento: 08/01/1908
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,42 @@
+---
+tipo: REGIO DECRETO
+numero: 590
+data: 1915-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-05-06;590
+codice_redazionale: 015U0590
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:45Z
+---
+
+REGIO DECRETO
+                06 maggio 1915
+                590
+                Recante provvedimenti relativi al Sindacato obbligatorio per gli infortuni degli operai nelle solfare della Sicilia. (015U0590)
+
+Entrata in vigore del provvedimento: 23/05/1915
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+

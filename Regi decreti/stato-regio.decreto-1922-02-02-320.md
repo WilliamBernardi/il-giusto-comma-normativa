@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 320
+data: 1922-02-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-02-02;320
+codice_redazionale: 022U0320
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:39Z
+---
+
+REGIO DECRETO
+                02 febbraio 1922
+                320
+                Erezione Ente morale (022U0320)
+
+Entrata in vigore del provvedimento: 16/04/1922
+
+## Art. 1.
+
+N.
+
+Regio decreto 2 febbraio 1922, col quale, sulla proposta del ministro dell'interno, presidente del Consiglio dei ministri, l'asilo infantile «Vittoria Bosi», di Ossona, viene eretto in Ente morale, con amministrazione autonoma, e ne e' approvato lo statuto organico.
+

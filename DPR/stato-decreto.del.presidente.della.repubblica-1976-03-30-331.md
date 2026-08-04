@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 331
+data: 1976-03-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-03-30;331
+codice_redazionale: 076U0331
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 marzo 1976
+                331
+                Riconoscimento, agli effetti civili, della unione delle parrocchie dei SS. Pietro e Paolo e di S. Vincenzo martire, in Matelica.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 marzo 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Matelica 1° dicembre 1974, integrato con dichiarazione di pari data, relativo all'unione perpetua aeque principaliter delle parrocchie dei SS. Pietro e Paolo, in frazione Vinano del comune di Matelica (Macerata), e di S. Vincenzo martire, in frazione Colli dello stesso comune. 
+ 
+Visto, il Guardasigilli: BONIFACIO 
+ Registrato alla Corte dei conti, addi' 24 maggio 1976 
+ Atti di Governo, registro n. 6, foglio n. 26
+

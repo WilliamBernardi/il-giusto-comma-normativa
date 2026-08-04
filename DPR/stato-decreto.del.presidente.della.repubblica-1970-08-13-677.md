@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 677
+data: 1970-08-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-08-13;677
+codice_redazionale: 070U0677
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 agosto 1970
+                677
+                Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", con sede in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 agosto 1970, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi" con sede in Roma, viene autorizzata ad accettare la donazione disposta con atto n. 46569 di rep. e n. 19886 fasc. del 30 gennaio 1957 a rogito notaio dott. Giovanni Ghione (iscritto al collegio notarile dei distretti riuniti di Torino e Pinerolo, con residenza in Torino), dalla signora Bergero (o Bargero) Cecilia fu Giuseppe, vedova del signor Balma Tivola Alfredo, nata a Torino, ove risiede, e dal figlio Balma Tivola Giovanni Maria (o Giovanni Mario) fu Alfredo, nato a Torino, ove risiede.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 16 settembre 1970
+ Atti del Governo, registro n. 237, foglio n. 99. - GRECO
+

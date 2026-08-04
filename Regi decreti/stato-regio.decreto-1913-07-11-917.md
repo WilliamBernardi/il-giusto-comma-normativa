@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 917
+data: 1913-07-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-07-11;917
+codice_redazionale: 013U0917
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:09Z
+---
+
+REGIO DECRETO
+                11 luglio 1913
+                917
+                Col quale viene istituito in Udine un ufficio per il rilascio di certificati di nulla osta per gli oggetti d'arte. (013U0917)
+
+Entrata in vigore del provvedimento: 24/08/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1483
+data: 1925-07-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1925-07-23;1483
+codice_redazionale: 025U1483
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:45Z
+---
+
+REGIO DECRETO
+                23 luglio 1925
+                1483
+                Erezione in Ente morale della cassa scolastica del Regio ginnasio Marcantonio Flaminio, in Vittorio Veneto. (025U1483)
+
+Entrata in vigore del provvedimento: 15/09/1925
+
+## Art. 1.
+
+N.
+
+R. decreto 23 luglio 1925, col quale, sulla proposta del Ministro per la pubblica istruzione, viene eretta in Ente morale la cassa scolastica del Regio ginnasio Marcantonio Flaminio, in Vittorio Veneto, ed e' approvato il relativo statuto. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 agosto 1925.
+

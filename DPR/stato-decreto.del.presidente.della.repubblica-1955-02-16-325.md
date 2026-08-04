@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 325
+data: 1955-02-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-02-16;325
+codice_redazionale: 055U0325
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 febbraio 1955
+                325
+                Autorizzazione alla Cassa scolastica del Liceo scientifico statale "G. D. Cassini" di Genova ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 febbraio 1955; col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo scientifico statale "G. D. Cassini" di Genova viene autorizzata ad accettare la donazione di L. 200.000 (duecentomila) nominali, fatta da colleghi, amici ed alunni del prof. Gian Battista Gonella, allo scopo di istituire, col relativo reddito, un premio di studio annuo intitolato "Prof. Gian Battista Gonella".
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 30 aprile 1955
+ Atti del Governo, registro n. 90, foglio n. 101. - CARLOMAGNO
+

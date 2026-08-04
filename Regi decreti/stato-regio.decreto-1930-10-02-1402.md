@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+numero: 1402
+data: 1930-10-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-10-02;1402
+codice_redazionale: 030U1402
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:24Z
+---
+
+REGIO DECRETO
+                02 ottobre 1930
+                1402
+                Rettifica della denominazione del comune di Spezia in «La Spezia». (030U1402)
+
+Entrata in vigore del provvedimento: 18/11/1930
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Veduta la domanda con cui il commissario prefettizio reggente il comune di Spezia, in esecuzione della deliberazione 9 maggio 1930, chiede che la denominazione del Comune stesso, sia rettificata in «La Spezia»; 
+ Veduto il parere espresso dal Rettorato provinciale in adunanza 19 luglio 1930; 
+ Ritenuto che la denominazione «La Spezia» risponde alla tradizione storica e all'uso locale; 
+ Veduti il testo unico della legge comunale e provinciale, approvato con R. decreto 4 febbraio 1915, n. 148, il R. decreto 30 dicembre 1923, n. 2839, e la legge 27 dicembre 1928, n. 2962; 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ Abbiamo decretato e decretiamo: 
+ La denominazione del comune di Spezia e' rettificata in «La Spezia». 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ Dato a San Rossore, addi' 2 ottobre 1930 - Anno VIII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 25 ottobre 1930 - Anno VIII 
+ Atti del Governo, registro 301, foglio 61. - Mancini.
+

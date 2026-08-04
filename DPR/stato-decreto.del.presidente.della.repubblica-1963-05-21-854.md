@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 854
+data: 1963-05-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-05-21;854
+codice_redazionale: 063U0854
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 maggio 1963
+                854
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Massimo Confessore, in borgata "La Rustica", nel comune di Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 maggio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di Sua Santita' il Sommo Pontefice in data 12 giugno 1962, integrato con altro decreto del 13 giugno 1962 e con dichiarazione del 27 settembre 1962, relativo alla erezione della Parrocchia di San Massimo Confessore, in borgata "La Rustica" nel comune di Roma, e alla istituzione di due uffici coadiutorali nella Parrocchia stessa.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 22 giugno 1963
+ Atti del Governo, registro n. 171, foglio n. 11. - VILLA
+

@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1395
+data: 1970-12-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-12-22;1395
+codice_redazionale: 070U1395
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 dicembre 1970
+                1395
+                Modifica della denominazione e approvazione del nuovo statuto della Societa' mineralogica italiana, con sede in Pavia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 dicembre 1970, col quale, sulla proposta del Ministro per la pubblica istruzione, viene abrogato lo statuto della Societa' mineralogica italiana, con sede in Pavia.
+ La predetta societa', inoltre, assume la denominazione di Societa' italiana di mineralogia e petrologia, con sede in Milano, di cui viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 27 febbraio 1971
+ Atti del Governo, registro n. 240, foglio n. 260. - GRECO
+

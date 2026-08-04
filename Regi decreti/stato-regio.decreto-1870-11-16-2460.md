@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1870-11-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1870-11-16;2460
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:35Z
+---
+
+REGIO DECRETO
+                16 novembre 1870
+                MMCCCCLX
+                Che approva il Regolamento per la tassa sul bestiame nella Provincia di Ferrara. (7002460R)
+
+Entrata in vigore del provvedimento: 05/01/1871
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

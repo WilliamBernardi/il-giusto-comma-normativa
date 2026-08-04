@@ -1,0 +1,371 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 177
+data: 2005-07-31
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2005-07-31;177
+codice_redazionale: 005G0206
+vigente: true
+source: normattiva-opendata
+collection: Leggi delega e relativi provvedimenti delegati
+vigenza_date: 2023-01-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:16Z
+---
+
+DECRETO LEGISLATIVO
+                31 luglio 2005
+                177
+                ((Testo unico dei servizi di media audiovisivi e radiofonici)).
+
+Entrata in vigore del decreto: 8-9-2005
+
+## - Titolo I PRINCIPI Capo I Principi generali
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 1-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 1-ter. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo II SOGGETTI Capo I Funzioni del Ministero
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo II Funzioni dell'Autorita'
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo III Altre competenze
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo IV Regioni
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo III ATTIVITA' Capo I Disciplina di operatore di rete radiotelevisiva
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo II ((Disciplina dell'emittente su frequenze terrestri))
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo III ((Disciplina dell'emittente via satellite e via cavo))
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - ((Capo III-bis Disciplina del fornitore di servizi di media audiovisivi a richiesta))
+
+## Art. 22-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo IV Disposizioni in materia di radiodiffusione sonora e televisiva in tecnica analogica e digitale
+
+## Art. 23. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 24. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 24-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 25. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 26. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 27. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 28. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 29. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 30. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo V ((Disciplina del fornitore di servizi interattivi associati o di servizi di accesso condizionato))
+
+## Art. 31. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo IV ((DISCIPLINA DEI SERVIZI DI MEDIA AUDIOVISIVI E RADIOFONICI)) Capo I ((Disposizioni applicabili a tutti i servizi di media
+audiovisivi e radiofonici - Norme a tutela dell'utenza))
+
+## Art. 32. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 32-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 32-ter. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 32-quater. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 32-quinquies. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 33. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo II ((Tutela dei minori nella programmazione audiovisiva))
+
+## Art. 34. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 35. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 35-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo III Trasmissioni transfrontaliere
+
+## Art. 36. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 36-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo IV ((Disposizioni sulla pubblicita', le sponsorizzazioni e l'inserimento di prodotti))
+
+## Art. 37. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 38. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 39. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 40. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 40-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 41. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo V USO EFFICIENTE DELLO SPETTRO ELETTROMAGNETICO E PIANIFICAZIONE DELLE FREQUENZE
+
+## Art. 42. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo VI NORME A TUTELA DELLA CONCORRENZA E DEL MERCATO
+
+## Art. 43. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo VII ((PROMOZIONE DELLE OPERE ITALIANE ED EUROPEE DA PARTE DEI FORNITORI DEI SERVIZI DI MEDIA AUDIOVISIVI))
+
+## Art. 44. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 44-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 44-ter. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 44-quater. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 44-quinquies. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 44-sexies. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 44-septies. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo VIII SERVIZIO PUBBLICO GENERALE RADIOTELEVISIVO E DISCIPLINA DELLA CONCESSIONARIA
+
+## Art. 45. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 46. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 47. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 48. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 49. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 49-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 49-ter. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 49-quater. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo IX COMMISSIONE PARLAMENTARE DI VIGILANZA
+
+## Art. 50. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Titolo X DISPOSIZIONI SANZIONATORIE E FINALI Capo I Sanzioni
+
+## Art. 51. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 52. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## - Capo II Disposizioni finali
+
+## Art. 53. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 54. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 55. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+
+## Art. 56. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 8 NOVEMBRE 2021, N. 208))
+
+
+

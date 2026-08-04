@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1889-08-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-08-06;3458
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:08Z
+---
+
+REGIO DECRETO
+                06 agosto 1889
+                MMMCCCCLVIII
+                Che erige in corpo morale il pio legato Zanantoni in Belluno e ne approva lo statuto. (8903458R)
+
+Entrata in vigore del provvedimento: 20/09/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

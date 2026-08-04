@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 496
+data: 1906-07-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-07-19;496
+codice_redazionale: 006U0496
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:20Z
+---
+
+REGIO DECRETO
+                19 luglio 1906
+                496
+                Col quale si deferiscono al Consiglio superiore dei lavori pubblici le attribuzioni della soppressa Commissione per l'esame preliminare delle domande di concessione di ferrovie. (006U0496)
+
+Entrata in vigore del provvedimento: 30/09/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

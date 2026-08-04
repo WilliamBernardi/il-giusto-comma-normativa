@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1411
+data: 1863-08-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-08-11;1411
+codice_redazionale: 063U1411
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:30Z
+---
+
+REGIO DECRETO
+                11 agosto 1863
+                1411
+                Col quale si aumenta lo stipendio dell'Economo-Cassiere e del secondo Scrittore nella Segreteria della R. Universita' di Modena. (063U1411)
+
+Entrata in vigore del provvedimento: 08/09/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

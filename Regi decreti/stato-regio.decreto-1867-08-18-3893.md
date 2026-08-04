@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3893
+data: 1867-08-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-08-18;3893
+codice_redazionale: 067U3893
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:44Z
+---
+
+REGIO DECRETO
+                18 agosto 1867
+                3893
+                Che autorizza alcuni Comuni delle Provincie di Vicenza ed Udine ad assumere una nuova denominazione. (067U3893)
+
+Entrata in vigore del provvedimento: 08/10/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

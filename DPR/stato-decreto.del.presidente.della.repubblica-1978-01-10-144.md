@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 144
+data: 1978-01-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-01-10;144
+codice_redazionale: 078U0144
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 gennaio 1978
+                144
+                Approvazione del nuovo statuto dell'ente "Casa Buonarroti", in Firenze.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 gennaio 1978, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene approvato il nuovo statuto dell'ente "Casa Buonarroti", in Firenze.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 21 aprile 1978
+ Registro n. 5 Beni culturali, foglio n. 152
+

@@ -1,0 +1,62 @@
+---
+tipo: DECRETO-LEGGE
+numero: 921
+data: 1986-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1986-12-30;921
+codice_redazionale: 086U0921
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1987-12-30
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                30 dicembre 1986
+                921
+                Disposizioni urgenti in materia sanitaria.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 29 DICEMBRE 1987, N. 531
+

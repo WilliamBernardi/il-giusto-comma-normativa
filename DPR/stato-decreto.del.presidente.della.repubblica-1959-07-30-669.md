@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 669
+data: 1959-07-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-07-30;669
+codice_redazionale: 059U0669
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 luglio 1959
+                669
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Maria delle Grazie e Sant'Attanasio, in Napoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 luglio 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Maria delle Grazie e Sant'Attanasio, in Napoli.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 agosto 1959
+ Atti del Governo, registro n. 120, foglio n. 54. - VILLA
+

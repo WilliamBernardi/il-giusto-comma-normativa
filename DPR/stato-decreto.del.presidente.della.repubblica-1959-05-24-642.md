@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 642
+data: 1959-05-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-05-24;642
+codice_redazionale: 059U0642
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 maggio 1959
+                642
+                Riconoscimento della personalita' giuridica dell'Aero Club di Gorizia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 maggio 1959, col quale, sulla proposta del Ministro per la difesa, di concerto con il Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Aero Club di Gorizia e ne viene approvato, il relativo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 agosto 1959
+ Atti del Governo, registro n. 120, foglio n. 39. - VILLA
+

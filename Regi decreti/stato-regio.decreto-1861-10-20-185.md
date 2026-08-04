@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1861-10-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1861-10-20;185
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:23Z
+---
+
+REGIO DECRETO
+                20 ottobre 1861
+                CLXXXV
+                Che autorizza il Comune di Massa ad imporre una tassa di pedaggio sul trasporto dei marmi; quello di Codigoro a riscuotere una tassa sui cani; quello di Brescello una tassa sui pubblici esercizi. (6100185R)
+
+Entrata in vigore del provvedimento: 20/10/1861
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

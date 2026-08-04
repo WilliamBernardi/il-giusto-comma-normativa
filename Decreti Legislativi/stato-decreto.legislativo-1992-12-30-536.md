@@ -1,0 +1,62 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 536
+data: 1992-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1992-12-30;536
+codice_redazionale: 093G0020
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2005-11-08
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:21Z
+---
+
+DECRETO LEGISLATIVO
+                30 dicembre 1992
+                536
+                 Attuazione della direttiva 91/683/CEE concernente le misure di protezione contro l'introduzione negli Stati membri di organismi nocivi ai vegetali e ai prodotti vegetali.
+
+Entrata in vigore del decreto: 26/1/1993
+
+## Art. 1. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 2. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 3. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 4. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 5. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 6. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 7. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 8. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 9. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+
+## Art. 10. — (( PROVVEDIMENTO ABROGATO DAL D. LGS. 19 AGOSTO 2005, N. 214 ))
+
+
+

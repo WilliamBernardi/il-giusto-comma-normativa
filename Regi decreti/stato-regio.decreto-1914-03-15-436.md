@@ -1,0 +1,42 @@
+---
+tipo: REGIO DECRETO
+numero: 436
+data: 1914-03-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1914-03-15;436
+codice_redazionale: 014U0436
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:02Z
+---
+
+REGIO DECRETO
+                15 marzo 1914
+                436
+                Col quale l'amministrazione delle scuole elementari e popolari di alcuni Comuni della provincia di Piacenza e' affidata al Consiglio scolastico della stessa Provincia (014U0436)
+
+Entrata in vigore del provvedimento: 18/06/1914
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

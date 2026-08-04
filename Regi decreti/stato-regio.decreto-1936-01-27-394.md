@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 394
+data: 1936-01-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-01-27;394
+codice_redazionale: 036U0394
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:38Z
+---
+
+REGIO DECRETO
+                27 gennaio 1936
+                394
+                Riconoscimento, agli effetti civili, del trasferimento del titolo e del Beneficio parrocchiale della Chiesa della Beata Vergine Maria del SS.mo Rosario di Valguarnera Rakali, in Partinico (Palermo). (036U0394)
+
+Entrata in vigore del provvedimento: 02/04/1936
+
+## Art. 1.
+
+N.
+
+R. decreto 27 gennaio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Monreale in data 15 settembre 1935, relativo al trasferimento del titolo e del Beneficio parrocchiale della Chiesa della Beata Vergine Maria del SS.mo Rosario di Valguarnera Rakali, in comune di Partinico (Palermo), alla Chiesa della Casa Santa nello stesso Comune. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 5 marzo 1936 - Anno XIV
+

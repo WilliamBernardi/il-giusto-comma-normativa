@@ -1,0 +1,36 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 534
+data: 1948-05-03
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-05-03;534
+codice_redazionale: 048U0534
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:30Z
+---
+
+DECRETO LEGISLATIVO
+                03 maggio 1948
+                534
+                Provvidenze a favore della cinematografia a passo ridotto.
+
+## Art. 1. — ((IL D.L. 25 GIUGNO 2008, N.112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 2. — ((IL D.L. 25 GIUGNO 2008, N.112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 3. — ((IL D.L. 25 GIUGNO 2008, N.112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+
+## Art. 4. — ((IL D.L. 25 GIUGNO 2008, N.112, CONVERTITO, CON MODIFICAZIONI, DALLA L. 6 AGOSTO 2008, N. 133 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE PROVVEDIMENTO))
+
+
+

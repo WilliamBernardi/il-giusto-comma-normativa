@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 199
+data: 1982-01-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-01-29;199
+codice_redazionale: 082U0199
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 gennaio 1982
+                199
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Caterina da Siena, in Forli'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Forli' e Bertinoro 25 settembre 1978, integrato con dichiarazione del 7 maggio 1980, relativo alla erezione della parrocchia di S. Caterina da Siena, in Forli', con il trasferimento in essa del beneficio parrocchiale dei SS. Fabiano e Sebastiano dalla frazione Spescia del comune di S. Sofia (Forli).
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 22 aprile 1982
+ Registro n. 9 Interno, foglio n. 156
+

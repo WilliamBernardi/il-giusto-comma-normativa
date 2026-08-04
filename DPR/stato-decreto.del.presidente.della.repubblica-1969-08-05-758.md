@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 758
+data: 1969-08-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-08-05;758
+codice_redazionale: 069U0758
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 agosto 1969
+                758
+                Riconoscimento della personalita' giuridica del consorzio
+intercamerale per la costruzione di una nuova dogana in Como.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 agosto 1969, col quale, sulla proposta del Ministro per l'industria, il commercio e l'artigianato viene riconosciuta la personalita' giuridica del consorzio intercamerale per la costruzione di una nuova dogana in Como, localita' "Navedano", promosso dalle camere di commercio, industria, artigianato e agricoltura di Como e di Milano.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 6 novembre 1969
+ Atti del Governo, registro n. 230, foglio n. 7. - GRECO
+

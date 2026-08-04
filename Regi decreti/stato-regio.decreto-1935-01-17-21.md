@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 21
+data: 1935-01-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-01-17;21
+codice_redazionale: 035U0021
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:58Z
+---
+
+REGIO DECRETO
+                17 gennaio 1935
+                21
+                11ª prelevazione dal fondo di riserva per le spese impreviste
+dell'esercizio finanziario 1934-35. (035U0021)
+
+Entrata in vigore del provvedimento: 15/02/1935
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

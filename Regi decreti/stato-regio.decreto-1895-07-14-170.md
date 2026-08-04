@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-07-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-07-14;170
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:54Z
+---
+
+REGIO DECRETO
+                14 luglio 1895
+                CLXX
+                Che accorda al Consorzio d'irrigazione del Rivo Gazzola in provincia di Piacenza la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (9500170R)
+
+Entrata in vigore del provvedimento: 22/08/1895
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

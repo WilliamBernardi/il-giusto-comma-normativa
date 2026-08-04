@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1886-05-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1886-05-09;2194
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:58Z
+---
+
+REGIO DECRETO
+                09 maggio 1886
+                MMCXCIV
+                Che scioglie l'amministrazione del monte frumentario di Cropalati, in provincia di Cosenza, e ne affida la provvisoria gestione ad un delegato straordinario. (8602194R)
+
+Entrata in vigore del provvedimento: 07/08/1886
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

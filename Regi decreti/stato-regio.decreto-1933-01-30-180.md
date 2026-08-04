@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 180
+data: 1933-01-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-01-30;180
+codice_redazionale: 033U0180
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:25Z
+---
+
+REGIO DECRETO
+                30 gennaio 1933
+                180
+                Approvazione dello statuto organico della Congregazione di Carita' di
+Laives. (033U0180)
+
+Entrata in vigore del provvedimento: 13/04/1933
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

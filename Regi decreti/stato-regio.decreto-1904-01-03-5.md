@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5
+data: 1904-01-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-01-03;5
+codice_redazionale: 004U0005
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:54Z
+---
+
+REGIO DECRETO
+                03 gennaio 1904
+                5
+                Proroga del termine assegnato pel compimento dei lavori della conduttura d'acqua potabile di Messina. (004U0005)
+
+Entrata in vigore del provvedimento: 10/02/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

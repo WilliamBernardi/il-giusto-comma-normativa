@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 633
+data: 1909-08-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-08-20;633
+codice_redazionale: 009U0633
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:44Z
+---
+
+REGIO DECRETO
+                20 agosto 1909
+                633
+                Che apporta variazioni al bilancio dello stato di previsione della spesa del Ministero d'agricoltura, industria e commercio per l'esercizio finanziario 1908-909. (009U0633)
+
+Entrata in vigore del provvedimento: 03/10/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

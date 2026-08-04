@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2038
+data: 1962-06-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-06-07;2038
+codice_redazionale: 062U2038
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 giugno 1962
+                2038
+                Concessione di un contributo statale a favore del comune di Muggia quale concorso nella spesa per la fornitura di acqua a territori limitrofi.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Il comune di Muggia e' autorizzato a cedere acqua agli enti gestori della parte di rete del proprio acquedotto sito in territorio sotto amministrazione jugoslava a prezzo inferiore a quello di costo e cioe' a L. 18 al mc. per la rete bassa ed a L. 30 per la rete alta.
+
+## Art. 2.
+
+E' autorizzata la concessione di un contributo a favore del comune di Muggia quale concorso agli oneri ad esso derivanti dalla, fornitura d'acqua a territori limitrofi sotto amministrazione jugoslava di cui all'articolo precedente.
+ Tale contributo viene determinato in L. 2.863.570 per il periodo dal 26 ottobre 1954 al 31 dicembre 1958 ed in L. 1.048.740 annue per il periodo dal 1 gennaio 1959 al 31 dicembre 1963.
+ La relativa spesa fara' carico al capitolo dello stato di previsione del Ministero del tesoro concernente gli oneri dipendenti dalla esecuzione delle clausole economiche del trattato di pace e di Accordi internazionali connessi con il trattato stesso.
+
+## Art. 3.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+

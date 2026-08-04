@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1870-07-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1870-07-28;2420
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:18Z
+---
+
+REGIO DECRETO
+                28 luglio 1870
+                MMCCCCXX
+                Col quale la Societa' col titolo Impresa dei forni Hoffman assume la denominazione di Impresa delle fornaci Hoffman nel Circondario di Firenze, ed e' autorizzata ad aumentare il suo capitale. (7002420R)
+
+Entrata in vigore del provvedimento: 30/09/1870
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

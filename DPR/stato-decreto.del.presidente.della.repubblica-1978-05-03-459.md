@@ -1,0 +1,56 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 459
+data: 1978-05-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-05-03;459
+codice_redazionale: 078U0459
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 maggio 1978
+                459
+                Rettifica al decreto del Presidente della Repubblica 1° giugno 1977,
+n. 824, concernente modificazioni allo statuto dell'Universita' degli
+studi di Torino.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Veduto lo statuto dell'Universita' di Torino, approvato con regio decreto 14 ottobre 1926, n. 2284 e modificato con regio decreto 13 ottobre 1927, n. 2788, e successive modificazioni; 
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592; 
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73; 
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni; 
+ Veduta la legge 11 aprile 1953, n. 312; 
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta; 
+ Riconosciuta la necessita' di rettificare il decreto del Presidente della Repubblica 1° giugno 1977, n. 824, nel quale, per errore materiale non sono stati inclusi alcuni insegnamenti complementari richiesti dalle autorita' accademiche ed approvati dal Consiglio superiore nella seduta del 21 gennaio 1977; 
+ Sulla proposta del Ministro della pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Il decreto del Presidente della Repubblica 1 giugno 1977, n. 824, citato nelle premesse, e' rettificato nel senso che sono inclusi i seguenti insegnamenti complementari: 
+ Art. 47 - all'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono aggiunti i seguenti: 
+ lingua inglese; 
+ lingua spagnola; 
+ lingua tedesca; 
+ storia della lingua inglese; 
+ storia della lingua spagnola. 
+ Art. 48 - all'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono aggiunti i seguenti: 
+ lingua inglese; 
+ lingua spagnola; 
+ lingua tedesca; 
+ storia della lingua inglese; 
+ storia della lingua spagnola. 
+ Art. 49 - all'elenco degli insegnamenti complementari del corso di laurea in lingue e letterature straniere sono aggiunti i seguenti: 
+ lingua inglese; 
+ lingua spagnola; 
+ lingua tedesca; 
+ storia della lingua inglese; 
+ storia della lingua spagnola.
+

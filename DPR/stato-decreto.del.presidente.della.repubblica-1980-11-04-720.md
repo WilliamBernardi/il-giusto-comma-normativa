@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 720
+data: 1980-11-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-11-04;720
+codice_redazionale: 080U0720
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 novembre 1980
+                720
+                Corresponsione di acconti sui futuri benefici economici al personale della scuola.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Al personale ispettivo, direttivo, docente, educativo e non docente della scuola materna, elementare, secondaria ed artistica dello Stato, sono corrisposte, a titolo di acconto sui futuri benefici economici, le seguenti somme:
+ L. 10.000 una tantum individuali, a partire dal 1 aprile 1979, per ogni mese di servizio prestato nell'anno 1979, con esclusione della tredicesima mensilita';
+ L. 40.000 mensili individuali, a partire dal 1 gennaio 1980, da corrispondersi anche con la tredicesima mensilita'. L'integrazione di L. 40.000 della tredicesima mensilita' e' proporzionalmente ridotta nei casi in cui la tredicesima stessa non competa in misura intera.
+ Le somme di L. 10.000 e 40.000 mensili si corrispondono in quanto competa lo stipendio, paga o retribuzione e sono ridotte, nella stessa proporzione, in ogni posizione di stato che comporti la riduzione di dette competenze fondamentali. Sono corrisposte ad un solo titolo nei casi di consentito cumulo di impieghi.
+ Per il personale docente e non docente non di ruolo al quale, ai sensi delle vigenti disposizioni, spetti una retribuzione ragguagliata all'effettiva durata del servizio, le somme di cui al primo comma sono corrisposte in proporzione e parimenti in proporzione sono corrisposte al personale docente non di ruolo che presti servizio per un numero di ore settimanali di insegnamento non comportante il trattamento di cattedra.
+ Le somme di L. 10.000 mensili per l'anno 1979 e di L. 40.000 mensili per l'anno 1980 si considerano nella base pensionabile di cui all'art. 43 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1092, e successive modificazioni. Le stesse somme non sono computabili ai fini dell'indennita' di buonuscita.
+ Gli importi di L. 10.000 e 40.000 di cui al primo comma sono assoggettati alle ritenute anche erariali, ad eccezione di quelle di cui all'art. 37 del decreto del Presidente della Repubblica 29 dicembre 1973, n. 1032, e successive modificazioni.
+
+## Art. 2.
+
+Alla copertura della spesa derivante dall'applicazione del presente decreto si provvede ai sensi della legge 3 novembre 1980, n. 707.
+

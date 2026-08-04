@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 907
+data: 1961-08-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-02;907
+codice_redazionale: 061U0907
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 agosto 1961
+                907
+                Attribuzione della nuova denominazione "Capilungo" ad una frazione del comune di Alliste (Lecce).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Alliste (Lecce) in data 11 luglio 1960, n. 62, con la quale e' stato chiesto che alla frazione di quel Comune ora comunemente indicato con il nome di "Capilungo" sia attribuita ufficialmente tale denominazione;
+ Vista la deliberazione del Consiglio provinciale di Lecce in data 1 marzo 1961, n. 17, con la quale e' stato espresso parere favorevole in merito alla denominazione predetta;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ E' attribuita, la denominazione "Capilungo" alla frazione del comune di Alliste (Lecce), gia' indicata nell'uso comune con la denominazione medesima.
+

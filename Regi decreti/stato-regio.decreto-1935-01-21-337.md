@@ -1,0 +1,54 @@
+---
+tipo: REGIO DECRETO
+numero: 337
+data: 1935-01-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-01-21;337
+codice_redazionale: 035U0337
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:54Z
+---
+
+REGIO DECRETO
+                21 gennaio 1935
+                337
+                Dichiarazione formale dei fini di n. 11 Confraternite della provincia di Pesaro. (035U0337)
+
+Entrata in vigore del provvedimento: 27/04/1935
+
+## Art. 1.
+
+N.
+
+R. decreto 21 gennaio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo esclusivo di culto nei riguardi delle seguenti Confaternite della provincia di Pesaro: 
+ 
+ 1. S. Costanzo (frazione Cerasa) - Confraternita del SS.
+Sacramento. 
+ 
+ 2. Saltara - Confraternita del SS. Sacramento. 
+ 
+ 3. Saltara - Confraternita del SS. Suffragio. 
+ 
+ 4. S. Angelo in Vado - Confraternita della Buona Morte. 
+ 
+ 5. S. Angelo in vado - Confraternita di S. Caterina V. M. 
+ 
+ 6. S. Angelo in Vado - Confraternita di S. Giuseppe. 
+ 
+ 7. S. Costanzo - Confraternita del SS. Sacramento. 
+ 
+ 8. S. Costanzo - Confraternita del SS. Sacramento e Rosario. 
+ 
+ 9. S. Giorgio (frazione di Poggio di Pesaro) - Confraternita del SS. Sacramento. 
+ 
+ 10. Serrungarina - Confraternita del Gonfalone. 
+ 
+ 11. S. Giorgio - Confraternita del SS. Sacramento e Rosario. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 3 aprile 1935 - Anno XIII
+

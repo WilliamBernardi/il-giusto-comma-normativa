@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 464
+data: 1952-03-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-29;464
+codice_redazionale: 052U0464
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 marzo 1952
+                464
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria di Monteverde, in comune di Grumo Appula (Bari).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 marzo 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Bari in data 2 dicembre 1950, integrato con postilla 27 ottobre 1951, relativo alla erezione della parrocchia di Santa Maria di Monteverde, in comune di Grunio Appula (Bari).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 8 maggio 1952
+ Atti del Governo, registro n. 53, foglio n. 49. - FRASCA
+

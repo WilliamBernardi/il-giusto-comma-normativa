@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2391
+data: 1919-11-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1919-11-27;2391
+codice_redazionale: 019U2391
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:07Z
+---
+
+REGIO DECRETO
+                27 novembre 1919
+                2391
+                Che devolve rispettivamente ai governatori ed ai Governi della Tripolitania e della Cirenaica tutte le facolta' attribuite al ministro e al Ministero delle colonie relativamente alla concessione di spazi acquei e zone di demanio marittimo per l'impianto di tonnare in Tripolitania e Cirenaica. (019U2391)
+
+Entrata in vigore del provvedimento: 27/01/1920
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

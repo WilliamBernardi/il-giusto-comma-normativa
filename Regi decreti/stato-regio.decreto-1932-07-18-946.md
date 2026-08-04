@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 946
+data: 1932-07-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-07-18;946
+codice_redazionale: 032U0946
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:46Z
+---
+
+REGIO DECRETO
+                18 luglio 1932
+                946
+                Abrogazione del secondo comma dell'art. 126 del regolamento 27 novembre 1924, n, 2367, sullo stato giuridico dei presidi e professori delle scuole medie. (032U0946)
+
+Entrata in vigore del provvedimento: 31/08/1932
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+

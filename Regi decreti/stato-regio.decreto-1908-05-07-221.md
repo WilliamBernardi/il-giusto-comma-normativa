@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1908-05-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1908-05-07;221
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:25Z
+---
+
+REGIO DECRETO
+                07 maggio 1908
+                CCXXI
+                Che riunisce in un solo posto gratuito i due posti semigratuiti istituiti nel convitto nazionale «Longone» di Milano. (0800221R)
+
+Entrata in vigore del provvedimento: 16/07/1908
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

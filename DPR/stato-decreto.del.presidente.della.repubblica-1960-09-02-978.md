@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 978
+data: 1960-09-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-09-02;978
+codice_redazionale: 060U0978
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 settembre 1960
+                978
+                Mutamento della denominazione del comune di Caramanico in quella di Caramanico Terme (Pescara).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Caramanico (Pescara) in data 19 giugno 1958, n. 14, con la quale e' stato chiesto che l'attuale denominazione del Comune stesso sia mutata in quella di "Caramanico Terme";
+ Vista la deliberazione del Consiglio provinciale di Pescara in data 29 ottobre 1958, n. 247, con la quale e' stato espresso parere favorevole in ordine al mutamento di denominazione in parola;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La denominazione del comune di Caramanico, in provincia di Pescara, e' mutata in quella di "Caramanico Terme".
+

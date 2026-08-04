@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2907
+data: 1876-01-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1876-01-06;2907
+codice_redazionale: 076U2907
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:29Z
+---
+
+REGIO DECRETO
+                06 gennaio 1876
+                2907
+                Con cui e' autorizzata una concessione d'acqua a favore del comune di Bologna. (076U2907)
+
+Entrata in vigore del provvedimento: 09/02/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

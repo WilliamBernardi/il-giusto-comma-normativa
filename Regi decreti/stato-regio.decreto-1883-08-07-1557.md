@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1557
+data: 1883-08-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-08-07;1557
+codice_redazionale: 083U1557
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:05Z
+---
+
+REGIO DECRETO
+                07 agosto 1883
+                1557
+                Che proroga il trattato di commercio e di navigazione fra l'Italia e il Messico. (083U1557)
+
+Entrata in vigore del provvedimento: 13/09/1883
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

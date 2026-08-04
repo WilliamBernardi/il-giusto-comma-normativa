@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 980
+data: 1951-04-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;980
+codice_redazionale: 051U0980
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 aprile 1951
+                980
+                Autorizzazione alla Cassa scolastica della Scuola di avviamento a tipo agrario di Alba (Cuneo) ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento a tipo agrario di Alba (Cuneo) viene autorizzata ad accettare una donazione, in titoli di Stato, di nominali L. 12.000, disposta al line dell'istituzione di un premio di studio intitolato "Prof. Sara Galante".
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 17 settembre 1951
+ Atti del Governo, registro n. 44, foglio n. 6. - CARLOMAGNO
+

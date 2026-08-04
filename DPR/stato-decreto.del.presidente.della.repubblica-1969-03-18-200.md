@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 200
+data: 1969-03-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-18;200
+codice_redazionale: 069U0200
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 marzo 1969
+                200
+                Riconoscimento, agli effetti civili, della separazione della parrocchia di Cristo Lavoratore da quella di S. Veneranda, e, dell'unione perpetua di quest'ultima con la parrocchia di S.
+Gregorio, nel comune di Fermignano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 marzo 1969, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Urbino in data 28 settembre 1968, col quale viene disposta la separazione della parrocchia di Cristo Lavoratore, in localita' Calpino del comune di Fermignano (Pesaro), da quella di S. Veneranda, nello stesso comune, nonche' la unione perpetua "aeque principalis" di quest'ultima con la parrocchia di S.
+ Gregorio, in localita' Monteasdrualdo sempre nello stesso comune.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 9 maggio 1969
+ Atti del Governo, registro n. 226, foglio n. 149. - GRECO
+

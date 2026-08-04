@@ -1,0 +1,43 @@
+---
+tipo: REGIO DECRETO
+data: 1892-10-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-10-02;696
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:01Z
+---
+
+REGIO DECRETO
+                02 ottobre 1892
+                DCXCVI
+                Che approva il nuovo statuto organico degli asili infantili di Monza. (9200696R)
+
+Entrata in vigore del provvedimento: 11/11/1892
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Udito il parere del consiglio di Stato;
+
+## Art. 1.
+
+E' approvato il nuovo statuto organico degli asili infantili di Monza in data 3 maggio corrente anno, composto di 47 articoli, che sara' visto e sottoscritto d'ordine Nostro dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 2 ottobre 1892. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 19 ottobre 1892. 
+ 
+ Reg. 188. Atti del Governo a f. 96. Gaffino. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli Bonacci. 
+ 
+ G. Giolitti
+

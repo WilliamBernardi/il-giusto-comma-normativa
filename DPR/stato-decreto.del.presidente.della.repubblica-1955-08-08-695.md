@@ -1,0 +1,51 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 695
+data: 1955-08-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-08;695
+codice_redazionale: 055U0695
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 agosto 1955
+                695
+                Sospensione dell'applicazione del dazio di importazione per alcuni macchinari ed attrezzature destinati alla coltivazione delle ligniti nazionali o alla produzione di energia elettrica con tali ligniti.
+
+Ritenuta la necessita' di sospendere i dazi sui macchinari e sulle attrezzature destinati alla coltivazione delle ligniti nazionali o alla produzione di energia elettrica con tali ligniti;
+
+Sentita la Commissione parlamentare costituita a norma dell'art. 3 della legge 24 dicembre 1949, n. 993, e confermata con le leggi 7 dicembre 1952, n. 1846 e 3 novembre 1954, n. 1077;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+E' sospesa l'applicazione del dazio di importazione per i sottoindicati macchinari ed attrezzature, anche se incompleti, che non possono essere forniti dall'industria nazionale e che risultino necessari per la coltivazione delle ligniti nazionali o per la produzione, con tali ligniti, di energia elettrica nell'ambito del bacino minerario:
+ ex 898 - tubi di acciaio legato per pressioni non inferiori alle 40 ata e temperature non inferiori ai 150° C;
+ ex 901 - raccordi, gomiti, giunti, manicotti, flange, ecc., per i tubi di acciaio sopra descritti;
+ ex 1042 - caldaie a vapore multitubolari ad alta pressione, capaci di produrre almeno 220 Tn, di vapore all'ora, a non meno di 80 ata e 450 °C, e loro parti (corpi cilindrici, ecc.);
+ ex 1043 - apparecchi ausiliari ed accessori delle caldaie sopra descritte (apparecchi di pulitura, recupero gas, epurazione e trattamento acqua caldaia, disaeramento acque alimentazione e simili, surriscaldatori, riscaldatori di acqua e di aria, economizzatori, condensatori, accumulatori di vapore, apparecchi e scambiatori di calore per riscaldare ed evaporare acqua destinata alla alimentazione delle caldaie e simili);
+ ex 1046 - turbine a vapore, di potenza di targa non inferiore a 80 mila HP, per vapore a pressione non inferiore ad 80 ata e temperatura di almeno 450° C alla ammissione;
+ ex 1059 - elettropompe per alimentazione caldaie con non meno di 220 Tn. di acqua all'ora a piu' di 150° C - 80 ata;
+ ex 1062 - parti staccate delle turbine sopra descritte (pale, palette, rotori, regolatori di pressione, guarnizioni per tubazioni di vapore o acqua);
+ ex 1063 - ventilatori centrifughi per tiraggio forzato e indotto per le caldaie sopra descritte;
+ ex 1068 bruciatori misti a combustibili liquidi ed a lignite polverizzata, per le caldaie sopra descritte;
+ ex 1142 - trasportatori meccanici a nastro di gomma, scomponibili;
+ ex 1147-d - macchine per l'estrazione dei minerali, per l'escavazione e la preparazione del terreno (escavatori meccanici semoventi e girevoli, azionati da motori elettrici della potenza complessiva di non meno di 1000 kW. per quelli destinati all'escavazione della terra, e di non meno 300 kW. per quelli destinati all'escavazione della lignite, anche muniti di spanditori per terra, meccanici semoventi e girevoli, azionati da motori elettrici della potenza complessiva di non meno di 300 kW., di tramoggie semoventi su binario, di trasportatori per terra, meccanici a nastro, su carri semoventi, girevoli, azionati da motori elettrici della potenza non inferiore a 50 kW.);
+ ex 1148 - macchine speciali per frantumazione e polverizzazione di lignite contenente elevata umidita' (50%) ed alta percentuale (8%) di corpi estranei;
+ ex 1171 - alternatori elettrici trifasi, muniti di rotori senza polisalienti, di potenza di targa superiore a 65.000 kW., da accoppiare a turbine a vapore;
+ ex 1178 - apparecchi automatici di regolazione (di intensita', di tensione, termostatici e simili) per gli alternatori sopra descritti; ex 1197, ex 1283 - precipitatori elettrostatici per la depurazione dei fumi; apparecchiature e complessi per la regolazione, la protezione, il controllo ed il comando del funzionamento termico e meccanico di caldaie e di turbo-alternatori di potenza non inferiore a 65.000 kW.;
+ ex 1210 - locomotive ferroviarie, a scartamento in uso per le Ferrovie dello Stato, azionate da gruppi Diesel elettrici;
+ ex 1218-a-2 - trattori a cingoli, azionati da motore a combustione interna con cilindrata superiore ai 7000 cmc.;
+ ex 1284 - apparecchi elettrici di misura e di registrazione e loro parti, da montare sulle apparecchiature e sui complessi per la regolazione, ecc., sopra descritti.
+ La sospensione daziaria e' limitata ai macchinari ed alle attrezzature, la cui importazione verra' effettuata non oltre il 14 luglio 1957, previo accertamento, da parte del Ministero delle finanze - Direzione generale delle dogane, d'intesa col Ministero dell'industria e del commercio, della sussistenza delle condizioni indicate nel primo comma del presente articolo.
+
+## Art. 2.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale.
+

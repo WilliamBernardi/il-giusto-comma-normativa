@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 3228
+data: 1866-09-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-09-26;3228
+codice_redazionale: 066U3228
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:04Z
+---
+
+REGIO DECRETO
+                26 settembre 1866
+                3228
+                Col quale e' stabilita l'epoca in cui nelle nuove Provincie i tessuti pervenuti dalle Provincie austriache, i tessuti esteri muniti del bollo di daziato, e quelli che per la tariffa austriaca ne erano esenti, saranno sottoposti ad un bollo, la di cui forma sara' determinata dal Ministro delle Finanze. (066U3228)
+
+Entrata in vigore del provvedimento: 05/11/1866
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

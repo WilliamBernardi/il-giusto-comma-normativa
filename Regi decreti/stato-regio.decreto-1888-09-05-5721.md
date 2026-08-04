@@ -1,0 +1,49 @@
+---
+tipo: REGIO DECRETO
+numero: 5721
+data: 1888-09-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-09-05;5721
+codice_redazionale: 088U5721
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:18Z
+---
+
+REGIO DECRETO
+                05 settembre 1888
+                5721
+                Che converte la R. Scuola normale femminile inferiore annessa al Regio Conservatorio di San Giovanni Battista in Pistoia (Firenze) in R. Scuola normale femminile superiore (088U5721)
+
+Entrata in vigore del provvedimento: 07/11/1888
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduto il titolo V della legge organica del 13 novembre 1859 sul riordinamento della Pubblica Istruzione ed il regolamento per le Scuole normali approvato con Nostro decreto del 21 giugno 1883;
+
+Veduto l'altro Nostro decreto del 17 febbraio 1884, N. 2016, che approva il testo unico delle leggi sull'Amministrazione e sulla Contabilita' generale dello Stato;
+
+Veduto il decreto ministeriale del 13 settembre 1886 col quale la R. Scuola normale femminile inferiore di Sambuca Pistoiese e' trasferita in Pistoia;
+
+Riconosciuta la convenienza di dotare quel lembo della regione toscana di una Scuola dove le fanciulle che s'avviano all'insegnamento magistrale possano procacciarsi il titolo di abilitazione all'insegnamento elementare superiore;
+
+## Art. 1.
+
+La R. Scuola normale femminile inferiore annessa al R.
+Conservatorio di S. Giovanni Battista in Pistoia e' convertita in R.
+Scuola normale femminile superiore, a far tempo dal primo ottobre dell'anno corrente 1888. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Forli', addi' 5 settembre 1888. 
+ 
+ UMBERTO. 
+ 
+ Boselli. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.
+

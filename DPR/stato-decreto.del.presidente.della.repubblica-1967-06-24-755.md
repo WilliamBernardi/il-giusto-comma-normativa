@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 755
+data: 1967-06-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-06-24;755
+codice_redazionale: 067U0755
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 giugno 1967
+                755
+                Autorizzazione alla Fondazione Pro Juventute Don Carlo Gnocchi, con sede in Roma, ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 giugno 1967, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la "Fondazione Pro Juventute Don Carlo Gnocchi" viene autorizzata ad accettare un legato consistente in tre buoni novennali del Tesoro del valore nominale complessivo di lire 1.200.000, disposto dal defunto, sig. Albera Pietro Luigi - con testamento olografo del 28 agosto 1961, pubblicato e depositato con atto a rogito notaio dottor Pier Luigi Perabo' (iscritto nel Collegio notarile di Milano), in data 8 settembre 1965, n. 17515/5408 rep. - in favore dell'"Istituto dei Mutilatini di Don Gnocchi", che si identifica con la Fondazione Pro Juventute suindicata.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 17 agosto 1967
+ Atti del Governo, registro n. 213, foglio n. 7. - CARUSO
+

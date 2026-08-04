@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 547
+data: 1960-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-04-27;547
+codice_redazionale: 060U0547
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1960
+                547
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Michele Arcangelo, nel comune di Rho (Milano).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data.
+ 25 maggio 1959, integrato con dichiarazione del 16 luglio 1959, relativo alla erezione della parrocchia di San Michele Arcangelo, nel comune di Rho (Milano), e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 giugno 1960
+ Atti del Governo, registro n. 127, foglio n. 38. - VILLA
+

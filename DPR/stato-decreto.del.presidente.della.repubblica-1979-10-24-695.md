@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 695
+data: 1979-10-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-10-24;695
+codice_redazionale: 079U0695
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 ottobre 1979
+                695
+                Autorizzazione alla regione Lombardia ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 ottobre 1979, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la regione Lombardia viene autorizzata ad accettare la donazione disposta a suo favore dal comune di Luino, costituita da un appezzamento di terreno della superficie di mq 1500, mappali 1458, 3991/b, 1466/b, del valore di L. 4.500.000, per la costruzione del nuovo centro di formazione professionale. 
+ 
+Visto, il Guardasigilli: MORLINO 
+ Registrato alla Corte dei conti, addi' 11 gennaio 1980 
+ Registro n. 1 Presidenza, foglio n. 80
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 396
+data: 1899-11-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1899-11-12;396
+codice_redazionale: 099U0396
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:46Z
+---
+
+REGIO DECRETO
+                12 novembre 1899
+                396
+                Che autorizza prelevamenti di somme dal fondo di riserva per le «spese impreviste» dello stato di previsione della spesa del Ministero del Tesoro. (099U0396)
+
+Entrata in vigore del provvedimento: 29/11/1899
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

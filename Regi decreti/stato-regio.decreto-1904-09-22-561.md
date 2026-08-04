@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 561
+data: 1904-09-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-09-22;561
+codice_redazionale: 004U0561
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:52Z
+---
+
+REGIO DECRETO
+                22 settembre 1904
+                561
+                Che autorizza l'esecuzione di opere edilizie carcerarie in alcune localita' del Regno. (004U0561)
+
+Entrata in vigore del provvedimento: 11/11/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

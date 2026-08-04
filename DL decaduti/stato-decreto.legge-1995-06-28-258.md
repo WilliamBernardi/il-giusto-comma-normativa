@@ -1,0 +1,43 @@
+---
+tipo: DECRETO-LEGGE
+numero: 258
+data: 1995-06-28
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1995-06-28;258
+codice_redazionale: 095G0299
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1995-10-28
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                28 giugno 1995
+                258
+                 Differimento di termini previsti da disposizioni legislative in
+materia di rapporti internazionali.
+
+Entrata in vigore del decreto: 29-6-1995.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 27 OTTOBRE 1995, N. 437
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 27 OTTOBRE 1995, N. 437
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 27 OTTOBRE 1995, N. 437
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 27 OTTOBRE 1995, N. 437
+

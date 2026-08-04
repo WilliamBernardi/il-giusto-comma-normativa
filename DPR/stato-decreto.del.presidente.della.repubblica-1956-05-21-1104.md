@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1104
+data: 1956-05-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-21;1104
+codice_redazionale: 056U1104
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 maggio 1956
+                1104
+                Erezione in ente morale della Cassa scolastica della Scuola media statale di Tolmezzo (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 maggio 1956, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale di Tolmezzo (Udine) viene eretta in ente morale ed approvato lo statuto; inoltre viene soppressa la Cassa scolastica dell'ex Istituto tecnico inferiore pareggiato di Tolmezzo (Udine).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 22 settembre 1956
+ Atti del Governo, registro n. 100, foglio n. 192. - CARLOMAGNO
+

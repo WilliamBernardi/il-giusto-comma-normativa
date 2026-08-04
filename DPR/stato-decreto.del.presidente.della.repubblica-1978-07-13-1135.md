@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1135
+data: 1978-07-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-07-13;1135
+codice_redazionale: 078U1135
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 luglio 1978
+                1135
+                Autorizzazione all'Universita' degli studi di Firenze ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 luglio 1978, col quale, sulla proposta del Ministro della pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare l'eredita' consistente in due immobili siti in Firenze, il primo in piazza Cavalleggeri n. 2, censito al nuovo catasto edilizio urbano alla partita 43655, foglio di mappa 175, part. 273, l'altro in via dei Serragli n. 76, censito al nuovo catasto edilizio urbano alla partita 87440, foglio di mappa 171, part. 128, in un immobile sito in Borgo S. Lorenzo (Firenze), localita' "Volpinaia", iscritto al nuovo catasto terreni del comune di Borgo S. Lorenzo alla partita 2396, foglio di mappa 18, particella 108, per un valore complessivo di L. 32.000.000, e in beni mobili per un valore di circa L. 28.370.000, disposta dalla sig.ra Adele Pietrabissa con il testamento, pubblico in data 19 agosto 1975, pubblicato col verbale n. 32411 del 18 ottobre 1975, a rogito dott. Vincenzo Ferro, notaio in Pistoia, per destinarne capitali e frutti eventuali agli studi specifici nel campo dei tumori.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 21 dicembre 1979
+ Registro n. 99 Istruzione, foglio n. 339
+

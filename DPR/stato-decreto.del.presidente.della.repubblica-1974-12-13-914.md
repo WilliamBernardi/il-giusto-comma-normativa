@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 914
+data: 1974-12-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-12-13;914
+codice_redazionale: 074U0914
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 dicembre 1974
+                914
+                Autorizzazione all'Associazione nazionale famiglie di fanciulli subnormali, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 dicembre 1974, col quale, sulla proposta del Ministro per la sanita', l'Associazione nazionale famiglie di fanciulli subnormali, in Roma, viene autorizzata ad acquistare un complesso immobiliare costituito da fabbricati denominati "Villa Salvini" contraddistinti alla partita n. 18383, foglio 16, particelle 142/2, 156, 157, 180, del nuovo catasto edilizio urbano di Firenze, nonche' da una porzione di podere denominato "Torricella", contraddistinta alla partita n. 2658, foglio 16, particelle 124, 125, 141, 142, 143, 144, 145, 146, 147, 148, 155, 158, 159, 160, 161, 162, del nuovo catasto terreni di Firenze, ubicato in Firenze, via Bolognese, numeri 232-234, di proprieta' dell'Opera nazionale "Pro Derelictis" di Firenze, da destinare alla costruzione di un istituto per subnormali.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 4 giugno 1975
+ Atti di Governo, registro n. 10, foglio n. 8
+

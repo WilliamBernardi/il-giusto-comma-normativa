@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 267
+data: 1973-03-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-03-05;267
+codice_redazionale: 073U0267
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 marzo 1973
+                267
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Martino e di S. Gaudenzio, nel comune di Certaldo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 marzo 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Firenze in data 17 novembre 1971, relativo all'unione temporanea "aecque principalis" delle parrocchie di S. Martino, in localita' Maiano e di S. Gaudenzio, in localita' Ruballa del comune di Certaldo (Firenze).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 maggio 1973
+ Atti di Governo, registro n. 258, foglio n. 80. - VALENTINI
+

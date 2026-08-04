@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1891-08-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1891-08-01;289
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:14Z
+---
+
+REGIO DECRETO
+                01 agosto 1891
+                CCLXXXIX
+                Che autorizza la trasformazione del monte frumentario di Rogliano in una cassa di prestanze agrarie e ne approva lo statuto. (9100289R)
+
+Entrata in vigore del provvedimento: 11/09/1891
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

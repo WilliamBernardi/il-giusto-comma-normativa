@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2381
+data: 1963-12-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-12-26;2381
+codice_redazionale: 063U2381
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 dicembre 1963
+                2381
+                Autorizzazione alla Fondazione "Aldo della Rocca", con sede in Roma, ad acquistare cinque appartamenti.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 dicembre 1963, col quale, sulla proposta del Ministro per la pubblica istruzione, la Fondazione "Aldo della Rocca", con sede in Roma, viene autorizzata ad acquistare dalla Societa' immobiliare via Falda a responsabilita' limitata, cinque appartamenti posti a pian terreno di una palazzina sita in Roma, via G. B. Falda, 24, per il prezzo complessivo di lire 18.750.000.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 18 marzo 1964
+ Atti del Governo, registro n. 182, foglio n. 44. - VILLA
+

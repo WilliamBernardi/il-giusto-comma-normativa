@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1141
+data: 1912-10-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1912-10-20;1141
+codice_redazionale: 012U1141
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:38Z
+---
+
+REGIO DECRETO
+                20 ottobre 1912
+                1141
+                Col quale viene vietata l'importazione di armi e di munizioni in Tripolitania ed in Cirenaica. (012U1141)
+
+Entrata in vigore del provvedimento: 21/11/1912
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

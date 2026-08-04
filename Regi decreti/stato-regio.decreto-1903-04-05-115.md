@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1903-04-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1903-04-05;115
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:35Z
+---
+
+REGIO DECRETO
+                05 aprile 1903
+                CXV
+                Che erige in ente morale l'opera pia Ricchetti di Venezia. (0300115R)
+
+Entrata in vigore del provvedimento: 10/05/1903
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

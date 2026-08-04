@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 674
+data: 1934-03-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1934-03-05;674
+codice_redazionale: 034U0674
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:32Z
+---
+
+REGIO DECRETO
+                05 marzo 1934
+                674
+                Dichiarazione formale dei fini della Confraternita di S. Maria Maddalena, in Ragusa Ibla. (034U0674)
+
+Entrata in vigore del provvedimento: 16/05/1934
+
+## Art. 1.
+
+N.
+
+R. decreto 5 marzo 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto alla dichiarazione formale dei fini della Confraternita di S. Maria Maddalena, in Ragusa Ibla. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 18 aprile 1934 - Anno XII.
+

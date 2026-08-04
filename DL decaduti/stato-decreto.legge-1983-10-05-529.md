@@ -1,0 +1,67 @@
+---
+tipo: DECRETO-LEGGE
+numero: 529
+data: 1983-10-05
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1983-10-05;529
+codice_redazionale: 083U0529
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1985-03-02
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                05 ottobre 1983
+                529
+                Norme per la rilevazione e la sanatoria delle opere edilizie abusive.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 2.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 3.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 4.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 5.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 6.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 7.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 8.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 28 FEBBRAIO 1985, N. 47
+
+## Art. 9.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA 
+ L. 28 FEBBRAIO 1985, N. 47
+

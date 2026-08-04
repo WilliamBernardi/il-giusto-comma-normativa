@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2813
+data: 1875-12-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-12-05;2813
+codice_redazionale: 075U2813
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:09Z
+---
+
+REGIO DECRETO
+                05 dicembre 1875
+                2813
+                Col quale agli archivi notarili vien tolta la facolta' di far uso dei francobolli e delle cartoline postali di Stato. (075U2813)
+
+Entrata in vigore del provvedimento: 01/01/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

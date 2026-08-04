@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 750
+data: 1962-05-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-05-12;750
+codice_redazionale: 062U0750
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 maggio 1962
+                750
+                Autorizzazione all'istituto zooprofilattico sperimentale della Lombardia e dell'Emilia, con sede in Brescia, ad acquistare un'area demaniale fabbricabile, sita in Forli', da destinarsi alla costruzione della nuova sezione di diagnostica in quella citta'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 maggio 1962, col quale, sulla proposta del Ministro per la sanita', l'Istituto zooprofilattico sperimentale della Lombardia e dell'Emilia, con sede in Brescia, viene autorizzato ad acquistare, al prezzo di L. 9.135.000 (novemilionicentotrentacinquemila), un'area demaniale fabbricabile della superficie di mq. 2155 di proprieta' dell'Amministrazione delle ferrovie dello Stato, sita in Forli'; da destinarsi alla costruzione della nuova sezione di diagnostica in quella citta'.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 3 luglio 1962
+ Atti del Governo, registro n. 152, foglio n. 23. - VILLA
+

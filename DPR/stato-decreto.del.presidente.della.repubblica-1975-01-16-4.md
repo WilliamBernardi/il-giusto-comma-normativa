@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4
+data: 1975-01-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-01-16;4
+codice_redazionale: 075U0004
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 gennaio 1975
+                4
+                Assegnazione di un posto di assistente ordinario alla seconda facolta' di medicina e chirurgia dell'Universita' di Napoli.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto il decreto del Presidente della Repubblica 29 marzo 1973, n. 356, con il quale e' stata disposta, fra l'altro, l'assegnazione alla cattedra di diritto amministrativo della facolta' di scienze politiche dell'Universita' di Napoli di un posto di assistente ordinario; 
+ Considerato che l'assegnazione del predetto posto alla cattedra di diritto amministrativo della facolta' di scienze politiche dell'Universita' di Napoli e' stata effettuata per mero errore materiale in quanto il posto stesso doveva, invece, essere attribuito alla cattedra di medicina del lavoro della seconda facolta' di medicina e chirurgia dell'Universita' di Napoli; 
+ Considerato che il posto di che trattasi e' rimasto inutilizzato in quanto non risulta coperto ne' da un assistente di ruolo ne' da un incaricato; 
+ Sulla proposta del Ministro per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Il posto di assistente ordinario gia' assegnato alla cattedra di diritto amministrativo della facolta' di scienze politiche dell'Universita' di Napoli con il decreto del Presidente della Repubblica 29 marzo 1973, n. 356, deve, invece, intendersi assegnato alla cattedra di medicina del lavoro della seconda facolta' di medicina e chirurgia della stessa Universita' di Napoli.
+

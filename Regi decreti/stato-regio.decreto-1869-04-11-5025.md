@@ -1,0 +1,49 @@
+---
+tipo: REGIO DECRETO
+numero: 5025
+data: 1869-04-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1869-04-11;5025
+codice_redazionale: 069U5025
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:17Z
+---
+
+REGIO DECRETO
+                11 aprile 1869
+                5025
+                Col quale i Comuni di S. Andrea di Suasa e di Torre S. Marco sono soppressi ed aggregati il primo a quello di Mondavio, ed il secondo a quello di Fratte Rosa. (069U5025)
+
+Entrata in vigore del provvedimento: 03/06/1869
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Ministro dell'Interno;
+
+## Art. 1.
+
+A partire dal l° luglio venturo, i Comuni di S. Andrea di Suasa e di Torre S. Marco sono soppressi ed aggregati il primo a quello di Mondavio, il secondo a quello di Fratte Rosa.
+
+## Art. 2.
+
+Fino alla costituzione dei novelli Consigli comunali di Mondavio e di Fratte Rosa, cui si procedera' a cura del Prefetto della Provincia entro il mese di giugno prossimo, nei modi di Legge, le attuali Rappresentanze dei Comuni sovraccennati continueranno nell'esercizio delle loro attribuzioni, ma cureranno di non prendere deliberazioni che possano vincolare l'azione del futuro Consiglio. 
+ 
+ Ordiniamo che il presente Decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle Leggi e dei Decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze addi' 11 aprile 1869. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 28 aprile 1869 
+ 
+ Reg. 46 Atti del Governo a c. 153. Ayres. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli De Filippo. 
+ 
+ G. Cantelli.
+

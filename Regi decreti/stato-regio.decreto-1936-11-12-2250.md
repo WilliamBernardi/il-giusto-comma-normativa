@@ -1,0 +1,37 @@
+---
+tipo: REGIO DECRETO
+numero: 2250
+data: 1936-11-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-11-12;2250
+codice_redazionale: 036U2250
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:47Z
+---
+
+REGIO DECRETO
+                12 novembre 1936
+                2250
+                Dichiarazione formale dei fini di n. 3 Confraternite della provincia di Aquila. (036U2250)
+
+Entrata in vigore del provvedimento: 02/02/1937
+
+## Art. 1.
+
+N.
+
+R. decreto 12 novembre 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle seguenti Confraternite in provincia di Aquila: 
+ 
+ 1. Castel del Monte - Confraternita di S. Maria del Suffragio. 
+ 
+ 2. Pratola Peligna - Confraternita di S. Antonio da Padova. 
+ 
+ 3. Pratola Peligna - Confraternita della SS-ma Trinita'. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 24 dicembre 1936 - Anno XV
+

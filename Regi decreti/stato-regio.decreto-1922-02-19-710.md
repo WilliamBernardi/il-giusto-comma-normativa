@@ -1,0 +1,38 @@
+---
+tipo: REGIO DECRETO
+numero: 710
+data: 1922-02-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-02-19;710
+codice_redazionale: 022U0710
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:13Z
+---
+
+REGIO DECRETO
+                19 febbraio 1922
+                710
+                Che stabilisce il trattamento economico degli ispettori scolastici distrettuali nelle nuove Provincie. (022U0710)
+
+Entrata in vigore del provvedimento: 01/07/1922
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

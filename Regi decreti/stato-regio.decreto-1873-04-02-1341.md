@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1341
+data: 1873-04-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1873-04-02;1341
+codice_redazionale: 073U1341
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:20Z
+---
+
+REGIO DECRETO
+                02 aprile 1873
+                1341
+                Che respinge un ricorso del Comune di Porto d'Anzio in materia di dazio di consumo. (073U1341)
+
+Entrata in vigore del provvedimento: 19/05/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

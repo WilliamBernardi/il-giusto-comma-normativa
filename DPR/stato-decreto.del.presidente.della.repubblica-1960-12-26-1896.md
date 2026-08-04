@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1896
+data: 1960-12-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-12-26;1896
+codice_redazionale: 060U1896
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 dicembre 1960
+                1896
+                Erezione in ente morale della Cassa scolastica della Scuola statale di avviamento industriale maschile e femminile di Pomigliano d'Arco.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 dicembre 1960, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola statale di avviamento industriale maschile e femminile di Pomigliano d'Arco viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 marzo 1961
+ Atti del Governo, registro n. 135, foglio n. 88. - VILLA
+

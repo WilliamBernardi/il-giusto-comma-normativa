@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1386
+data: 1952-09-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-09-12;1386
+codice_redazionale: 052U1386
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 settembre 1952
+                1386
+                Autorizzazione alla fondazione "Maggiore Mario Fiore, medaglia d'oro" ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto dei Presidente della Repubblica 12 settembre 1952, col quale, sulla proposta del Ministro per la difesa, la fondazione "Maggiore Mario Fiore, medaglia d'oro" viene autorizzata ad accettare la donazione del tenente generale del genio aeronautico ing. Amedeo Fiore, consistente in nominali L. 95.000, in titoli di Stato Consolidato 5%.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 23 ottobre 1952
+ Atti del Governo, registro n. 59, foglio n. 3. - CARLOMAGNO
+

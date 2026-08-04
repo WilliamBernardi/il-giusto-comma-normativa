@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1427
+data: 1932-10-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-10-14;1427
+codice_redazionale: 032U1427
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:48Z
+---
+
+REGIO DECRETO
+                14 ottobre 1932
+                1427
+                Riconoscimento della personalita' giuridica del Convento di Maria SS.ma del Buon Consiglio in Napoli, della Congregazione di S.
+Giovanni a Carbonara dell'Ordine Eremitano di S. Agostino. (032U1427)
+
+Entrata in vigore del provvedimento: 27/11/1932
+
+## Art. 1.
+
+N.
+
+R. decreto 14 ottobre 1932, col quale, sulla proposta del Capo del Governo, Primo Ministro, Ministro per l'interno, viene riconosciuta la personalita' giuridica del Convento di Maria SS.ma del Buon Consiglio in Napoli, della Congregazione di S. Giovanni a Carbonara dell'Ordine Eremitano di S. Agostino, ed e' autorizzato il trasferimento al Convento stesso, che ne e' gia' in possesso da epoca anteriore al Concordato, di un fabbricato con annesso giardino, attualmente intestato al Rev. Padre Carlo Driscoll. 
+ Visto, il Guardasigilli: De Francisci. 
+ Registrato alla Corte dei conti, addi' 9 novembre 1932 - Anno XI
+

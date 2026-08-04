@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 296
+data: 1974-05-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-24;296
+codice_redazionale: 074U0296
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 maggio 1974
+                296
+                Riconoscimento, agli effetti civili, dell'unione perpetua delle parrocchie di S. Maria e di S. Bartolomeo, in Scandeluzza.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 maggio 1974, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Casale Monferrato in data 1 febbraio 1973, relativo all'unione perpetua "aeque principaliter" delle parrocchie di S.
+ Maria, in Scandeluzza (Asti), e di S. Bartolomeo, in frazione Rineo dello stesso comune.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 11 luglio 1974
+ Atti di Governo, registro n. 4, foglio n. 59. - SCIARRETTA
+

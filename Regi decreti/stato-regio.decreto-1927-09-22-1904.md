@@ -1,0 +1,54 @@
+---
+tipo: REGIO DECRETO
+numero: 1904
+data: 1927-09-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-09-22;1904
+codice_redazionale: 027U1904
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:25Z
+---
+
+REGIO DECRETO
+                22 settembre 1927
+                1904
+                Delimitazione territoriale fra i comuni di Teglio ed Aprica. (027U1904)
+
+Entrata in vigore del provvedimento: 06/11/1927
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduta la legge 20 dicembre 1923, n. 2793, con cui la frazione Aprica e' stata separata dal comune di Teglio e costituita in Comune autonomo;
+
+Veduto il progetto di delimitazione territoriale fra i comuni di Teglio ed Aprica, predisposto, d'incarico del prefetto di Sondrio, dal dott. Gino Nucci e vistato in data 30 aprile 1927 dall'ingegnere capo dell'ufficio del Genio civile di Sondrio;
+
+## Art. 1.
+
+I confini fra i comuni di Teglio ed Aprica sono stabiliti in conformita' della pianta topografica vistata in data 30 aprile 1927 dall'ingegnere capo dell'ufficio del Genio civile di Sondrio. 
+ 
+ Tale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 2.
+
+Al prefetto di Sondrio e' demandato di provvedere, sentita la Giunta provinciale amministrativa, alla separazione patrimoniale fra i due Comuni suddetti. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 22 settembre 1927 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 19 ottobre 1927 - Anno V  
+ Atti del Governo, registro 265, foglio 122. - Sirovich.
+

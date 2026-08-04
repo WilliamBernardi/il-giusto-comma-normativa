@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1335
+data: 1964-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-01;1335
+codice_redazionale: 064U1335
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 dicembre 1964
+                1335
+                Autorizzazione all'istituto centrale di statistica ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 dicembre 19(4, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Istituto centrale di statistica, viene autorizzato ad acquistare dall'Istituto romano di beni stabili, societa' per azioni, con sede in Roma, per il prezzo di L. 790.000.000, un immobile costituito da un fabbricato sito in Roma, via Balbo angolo via Depretis, da destinare a sede di uffici.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 dicembre 1964
+ Atti del Governo, registro n. 189, foglio n. 7. - VILLA
+

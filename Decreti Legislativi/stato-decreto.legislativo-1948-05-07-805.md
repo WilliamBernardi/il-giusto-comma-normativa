@@ -1,0 +1,39 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 805
+data: 1948-05-07
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-05-07;805
+codice_redazionale: 048U0805
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2009-12-14
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:23Z
+---
+
+DECRETO LEGISLATIVO
+                07 maggio 1948
+                805
+                Proroga delle disposizioni di carattere transitorio per il funzionamento dei Tribunali militari.
+
+Sulla proposta del Ministro per la difesa, di concerto con i Ministri per l'Africa italiana, per la grazia e giustizia e per il tesoro;
+
+## Art. 1.
+
+L'applicabilita' delle norme transitorie contenute negli articoli 11, 12 e 13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144, sul passaggio dall'applicazione della legge penale militare di guerra a quella di pace, modificate dall'art. 1 del decreto legislativo del Capo provvisorio dello Stato 28 dicembre 1947, n. 1627, e' ulteriormente prorogata fino al 31 dicembre 1948.
+ Le norme del sopraindicato art. 11 sono applicabili, tranne quella del capoverso 1°, anche ai magistrati ed ai cancellieri appartenenti ai ruoli organici del personale civile della Giustizia militare che siano stati o vengano, quali ufficiali del Corpo della giustizia militare, ricollocati in congedo.
+
+## Art. 2.
+
+Nel numero massimo di 300 ufficiali da assegnarsi ai Tribunali militari, previsto dall'art. 13 del decreto legislativo luogotenenziale 21 marzo 1946, n. 144, modificato dall'art. 1 del decreto legislativo del Capo provvisorio dello Stato 28 dicembre 1947, n. 1627, sono compresi gli ufficiali appartenenti ai ruoli organici del personale civile della Giustizia militare, anche se siano stati o vengono ricollocati in congedo.
+
+## Art. 3.
+
+Gli ufficiali appartenenti ad armi o corpi diversi dal Corpo della giustizia militare, i quali possono, ai termini dell'art. 1, continuare ad essere destinati ai Tribunali militari con funzioni di magistrato o di cancelliere non devono superare le 120 unita' ne' aver grado piu' elevato di quello di tenente colonnello.
+
+## Art. 4.
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+

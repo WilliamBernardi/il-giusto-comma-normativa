@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 376
+data: 1895-06-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-06-09;376
+codice_redazionale: 095U0376
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:38Z
+---
+
+REGIO DECRETO
+                09 giugno 1895
+                376
+                Che abroga le disposizioni riferentisi al Collegio italiano di Alessandria d'Egitto e lo statuto organico del Collegio stesso. (095U0376)
+
+Entrata in vigore del provvedimento: 18/07/1895
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

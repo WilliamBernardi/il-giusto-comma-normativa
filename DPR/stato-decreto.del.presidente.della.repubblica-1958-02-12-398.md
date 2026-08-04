@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 398
+data: 1958-02-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-02-12;398
+codice_redazionale: 058U0398
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 febbraio 1958
+                398
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Caterina Martire, in frazione Ganaghello del comune di Castel San Giovanni (Piacenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica, 12 febbraio 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Piacenza in data 31 luglio 1956, integrato con postilla del 30 agosto 1957, relativo alla erezione della parrocchia di santa Caterina Martire, in frazione Ganaghello del comune di Castel San Giovanni (Piacenza).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 marzo 1958
+ Atti del Governo, registro n. 111, foglio n. 161. - RELLEVA
+

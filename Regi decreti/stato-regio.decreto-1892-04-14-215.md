@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+numero: 215
+data: 1892-04-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-04-14;215
+codice_redazionale: 092U0215
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:08Z
+---
+
+REGIO DECRETO
+                14 aprile 1892
+                215
+                Che segrega la frazione Fontane dal comune di Praly per aggregarla a quello di Salza di Pinerolo. (092U0215)
+
+Entrata in vigore del provvedimento: 20/05/1892
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduta la domanda 26 settembre 1890 di Giovanni Abramo Pascal ed altri per la segregazione, dal comune di Praly, della frazione Fontane e per la sua aggregazione a quello di Salza di Pinerolo;
+
+Veduta la carta topografica agosto 1891, estesa dal geometra Alessandro Bert e firmata dalle Giunte municipali di Praly e di Salza di Pinerolo;
+
+Vedute le deliberazioni dei Consigli comunali di Praly e di Salza in data rispettivamente del 20 e 23 ottobre 1890;
+
+Veduta la deliberazione 2 giugno 1891 del Consiglio provinciale di Torino;
+
+## Art. 1.
+
+A cominciare dal 1° gennaio 1893, la frazione Fontane apparterra' al comune di Salza di Pinerolo.
+
+## Art. 2.
+
+Il confine fra i territori di Praly e di Salza di Pinerolo sara' quello risultante dalla sovracitata carta topografica, che fara' parte integrante del presente decreto e sara', d'ordine Nostro, vidimata dal Ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 14 aprile 1892. 
+ 
+ UMBERTO. 
+ 
+ G. NICOTERA. 
+ 
+ Visto, Il Guardasigilli: B. CHIMIRRI.
+

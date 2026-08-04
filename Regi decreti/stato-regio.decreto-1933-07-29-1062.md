@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1062
+data: 1933-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-07-29;1062
+codice_redazionale: 033U1062
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:13Z
+---
+
+REGIO DECRETO
+                29 luglio 1933
+                1062
+                Riconoscimento come corpo morale dell'Istituto autonomo per le case popolari di Massalombarda. (033U1062)
+
+Entrata in vigore del provvedimento: 12/09/1933
+
+## Art. 1.
+
+N.
+
+R. decreto 29 luglio 1933, col quale, sulla proposta del Ministro per i lavori pubblici, l'Istituto autonomo per le case popolari di Massalombarda viene riconosciuto come corpo morale e ne e' approvato lo statuto. 
+ 
+ Visto, il Guardasigilli: De Francisci. 
+ 
+ Registrato alla Corte dei conti, addi' 22 agosto 1933 - Anno XI
+

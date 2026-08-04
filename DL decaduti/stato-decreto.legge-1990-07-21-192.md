@@ -1,0 +1,87 @@
+---
+tipo: DECRETO-LEGGE
+numero: 192
+data: 1990-07-21
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1990-07-21;192
+codice_redazionale: 090G0243
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1990-11-15
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                21 luglio 1990
+                192
+                 Disposizioni fiscali urgenti in materia di finanza locale, di accertamenti in base ad elementi segnalati dall'anagrafe tributaria e disposizioni per il contenimento del disavanzo del bilancio dello Stato.
+
+Entrata in vigore del decreto: 22/7/1990.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 12.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+
+## Art. 13.
+
+DECRETO DECADUTO; I SUOI EFFETTI 
+ SONO STATI FATTI SALVI DALLA L. 12 NOVEMBRE 1990 N. 331
+

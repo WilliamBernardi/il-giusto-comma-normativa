@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 631
+data: 1961-06-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-06;631
+codice_redazionale: 061U0631
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 giugno 1961
+                631
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Rita da Cascia Matrona, nel comune di Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 21 ottobre 1959, relativo alla erezione della parrocchia di Santa Rita da Cascia Matrona, nel comune di Milano.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 107. - VILLA
+

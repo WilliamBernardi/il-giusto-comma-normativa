@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3882
+data: 1877-06-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1877-06-15;3882
+codice_redazionale: 077U3882
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:17Z
+---
+
+REGIO DECRETO
+                15 giugno 1877
+                3882
+                Che convoca il collegio elettorale di Albano per l'elezione del deputato. (077U3882)
+
+Entrata in vigore del provvedimento: 04/07/1877
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

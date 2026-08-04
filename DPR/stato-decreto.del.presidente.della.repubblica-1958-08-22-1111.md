@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1111
+data: 1958-08-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-08-22;1111
+codice_redazionale: 058U1111
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 agosto 1958
+                1111
+                Riconoscimento della personalita' giuridica dell'Associazione "Italia Nostra".
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 agosto 1958, col quale, sulla proposta del Ministro per la pubblica istruzione, viene riconosciuta la personalita' giuridica dell'Associazione "Italia Nostra", costituita in Roma il 29 ottobre 1955, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 30 dicembre 1958
+ Atti del Governo, registro n. 115, foglio n. 159. - RELLEVA
+

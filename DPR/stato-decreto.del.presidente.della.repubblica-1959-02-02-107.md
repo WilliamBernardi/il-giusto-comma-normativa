@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 107
+data: 1959-02-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-02-02;107
+codice_redazionale: 059U0107
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 febbraio 1959
+                107
+                Riconoscimento della personalita' giuridica della "Assipolio - Associazione Assistenza Infanzia Poliomielitica", con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 febbraio 1959, col quale, silla proposta del Ministro per la sanita', viene riconosciuta la personalita' giuridica della "Assipolio - Associazione Assistenza Infanzia Poliomielitica", con sede in Roma, e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 31 marzo 1959
+ Atti del Governo, registro n. 117, foglio n. 47. - VILLA
+

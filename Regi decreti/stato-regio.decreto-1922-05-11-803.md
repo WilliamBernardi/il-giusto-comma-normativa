@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 803
+data: 1922-05-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-05-11;803
+codice_redazionale: 022U0803
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:59Z
+---
+
+REGIO DECRETO
+                11 maggio 1922
+                803
+                Col quale viene approvata la Convenzione aggiuntiva 12 aprile 1922, per aumento di sovvenzione governativa alla tramvia Revello-Envie-Barge. (022U0803)
+
+Entrata in vigore del provvedimento: 13/07/1922
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

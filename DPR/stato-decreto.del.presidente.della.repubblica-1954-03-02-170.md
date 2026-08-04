@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 170
+data: 1954-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-02;170
+codice_redazionale: 054U0170
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1954
+                170
+                Ricostituzione dell'Archivio notarile distrettuale in Lucera.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il regio decreto 9 luglio 1926, n. 1268, con cui il Distretto notarile di Lucera fu aggregato a quello di Foggia, restando quindi soppresso l'Archivio notarile distrettuale in Lucera;
+ Visto l'art. 106 del regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, approvato con regio decreto 10 settembre 1914, n. 1326;
+ Visto l'art. 1, comma primo, del regio decreto 31 dicembre 1923, n. 3138;
+ Visto l'art. 6 del regio decreto-legge 14 luglio 1937, n. 1666;
+ Visto il decreto Presidenziale 18 gennaio 1954, n. 18, col quale e' stata disposta la separazione dei Distretti notarili riuniti di Foggia e Lucera;
+ Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia;
+
+ Decreta:
+
+ E' ricostituito in Lucera l'Archivio notarile distrettuale.
+

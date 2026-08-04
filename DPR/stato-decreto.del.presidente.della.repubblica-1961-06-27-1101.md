@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1101
+data: 1961-06-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-27;1101
+codice_redazionale: 061U1101
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 giugno 1961
+                1101
+                Norme sul trattamento economico e normativo dei lavoratori a domicilio dipendenti dalle imprese manifatturiere di ombrelli.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 87, comma quinto, della Costituzione;
+ Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+ Vista, la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+ Visto l'accordo 17 maggio 1960 per i lavoranti a domicilio dipendenti dalle aziende manifatturiere di ombrelli, stipulato tra l'Associazione italiana Manifatture Ombrelli e la Federazione, italiana Lavoratori dell'Abbigliamento, la Federazione Unitaria italiana Lavoratori dell'Abbigliamento con l'assistenza della Confederazione Italia Sindacati Lavoratori, l'Unione italiana, Lavoratori Abbigliamento, con l'assistenza dell'Unione italiana del Lavoro: e, in pari data, tra l'Associazione italiana Manifatture Ombrelli e la Federazione Nazionale dell'Abbigliamento con l'assistenza della Confederazione italiana Sindacati Nazionali Lavoratori;
+ Vista la pubblicazione nell'apposito Bollettino, n. 133 del 21 dicembre 1960, dell'accordo sopra indicato, depositato presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per il lavoro e la previdenza sociale;
+
+ Decreta:
+
+ I rapporti di lavoro costituiti per l'attivita' per la, quale, e' stato stipulato l'accordo 17 maggio 1960, relativo a i lavoratori a domicilio dipendenti dalle aziende manifatturiere di ombrelli sono regolati da norme giuridiche uniformi alle clausole del contratto collettivo anzidetto, annesso al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori a domicilio dipendenti dalle imprese manifatturiere di ombrelli.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1142
+data: 1973-06-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-06-11;1142
+codice_redazionale: 073U1142
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 giugno 1973
+                1142
+                Autorizzazione all'automobile club di Catania all'attribuzione in piena proprieta' di un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 giugno 1973, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'automobile club di Catania viene autorizzato all'attribuzione in piena proprieta' di un immobile sito in Catania, via Sabotino n. 1, individuato in catasto alla partita 37560, al foglio 69/K di mappa, particelle 23383/1, 23383/2 e 23384, da adibire a sede sociale.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 26 settembre 1974
+ Atti di Governo, registro n. 5, foglio n. 92. - SCIARRETTA
+

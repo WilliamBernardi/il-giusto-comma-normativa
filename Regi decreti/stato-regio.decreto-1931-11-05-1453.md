@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1453
+data: 1931-11-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1931-11-05;1453
+codice_redazionale: 031U1453
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:16Z
+---
+
+REGIO DECRETO
+                05 novembre 1931
+                1453
+                Pareggiamento del Liceo musicale di Cagliari ai Conservatori musicali governativi. (031U1453)
+
+Entrata in vigore del provvedimento: 16/12/1931
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

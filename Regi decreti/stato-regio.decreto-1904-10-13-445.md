@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-10-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-10-13;445
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:17Z
+---
+
+REGIO DECRETO
+                13 ottobre 1904
+                CCCCXLV
+                Con cui il pio istituto Girolamo Conte di Breganze (provincia di Vicenza) viene eretto in ente morale e ne viene approvato lo statuto organico. (0400445R)
+
+Entrata in vigore del provvedimento: 26/11/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 107
+data: 1980-01-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-01-31;107
+codice_redazionale: 080U0107
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 gennaio 1980
+                107
+                Riconoscimento, agli effetti civili, della erezione della parrocchia
+della Madonna delle lacrime, in S. Giovanni La Punta.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 gennaio 1980, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Catania 6 maggio 1973, integrato con due dichiarazioni datate 12 maggio 1978 e 23 gennaio 1979, relativo all'erezione della parrocchia della Madonna delle lacrime, in frazione Trappeto del comune di S. Giovanni La Punta (Catania).
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 26 marzo 1980
+ Registro n. 6 Interno, foglio n. 165
+

@@ -1,0 +1,112 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 116
+data: 1992-01-27
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1992-01-27;116
+codice_redazionale: 092G0157
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2014-03-29
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:21Z
+---
+
+DECRETO LEGISLATIVO
+                27 gennaio 1992
+                116
+                 Attuazione della direttiva n. 86/609/CEE in materia di protezione degli animali utilizzati a fini sperimentali o ad altri fini scientifici.
+
+Entrata in vigore del decreto: 4-3-1992
+
+## - Capo I DISPOSIZIONI GENERALI
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## - Capo II Disposizioni Derogatorie
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## - Capo III Stabilimenti
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## - Capo IV S A N Z I O N I
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## - Capo V NORME FINALI E TRANSITORIE
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 MARZO 2014, N. 26))
+
+
+

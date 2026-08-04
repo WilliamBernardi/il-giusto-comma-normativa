@@ -1,0 +1,60 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 51
+data: 1950-03-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-03-10;51
+codice_redazionale: 050U0051
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 marzo 1950
+                51
+                Prezzi di vendita al pubblico da tabacchi lavorati nazionali.
+
+Udito il Consiglio di amministrazione dei monopoli di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+A decorrere dall'11 marzo 1950 la tariffa dei prezzi di vendita al pubblico dei sottoindicati tipi di tabacchi lavorati nazionali e' determinata come segue:
+
+ Trinciati:
+Superiore "Italia"..... L. 8.400 al kg. peso convenzionale
+Macedonia.............. " 8.000 " " "
+Nazionale.............. " 6.500 " " "
+1ª qualita spuntature.. " 4.000 " " "
+1ª qualita forte....... " 4.000 " " "
+2ª qualita comune...... " 3.000 " " "
+
+ Sigari:
+Cavour................. " 30.000 " " "
+Minghetti.............. " 30.000 " " "
+Attenuati.............. " 8.000 " " "
+Virginia............... " 8.000 " " "
+
+ Sigaretti:
+Branca................. " 10.000 " " "
+Avana.................. " 8.800 " " "
+Roma................... " 4.800 " " "
+
+ Sigarette:
+Rosa d'Oriente......... L. 15.500 al kg. peso convenzionale
+Serraglio.............. " 14.500 " " "
+Eva.................... " 14.000 " " "
+Mentola................ " 13.500 " " "
+Macedonia Extra........ " 12.500 " " "
+Giubek................. " 10.500 " " "
+Macedonia.............. " 9.000 " " "
+Nazionali Esportazione. " 9.000 " " "
+Nazionali.............. " 7.500 " " "
+Alfa................... " 5.500 " " "
+
+ A partire dalla stessa data viene inscritto nella tariffa generale dei tabacchi lavorati nazionali il sigaro "Romaeus", al prezzo di L. 20.000 al kg. peso convenzionale.
+

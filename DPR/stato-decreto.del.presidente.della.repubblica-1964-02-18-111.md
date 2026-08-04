@@ -1,0 +1,77 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 111
+data: 1964-02-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-02-18;111
+codice_redazionale: 064U0111
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2011-01-26
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:46Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 febbraio 1964
+                111
+                Modificazioni allo statuto dell'Universita' degli studi di Pavia.
+
+Veduto lo statuto dell'Universita' degli studi di Pavia approvato con regio decreto 14 ottobre 1926, numero 2130 e modificato con regio decreto 13 ottobre 1927, n. 2229, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+
+Art. 15. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+
+16) Diritto tributario;
+
+17) Teoria generale del diritto.
+
+Art. 59, relativo alla propedeuticita' del corso di laurea in Farmacia e' modificato nel senso che e' abrogato al secondo comma la propedeuticita' per l'iscrizione ai corsi e agli esami dell'insegnamento di "Istituzioni di matematiche" nei riguardi dell'insegnamento di "Chimica fisica".
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 18 febbraio 1964
+
+SEGNI
+
+GUI
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Pavia approvato con regio decreto 14 ottobre 1926, numero 2130 e modificato con regio decreto 13 ottobre 1927, n. 2229, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita', accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Pavia, approvato e modificato con i decreti sopraindicati e' ulteriormente modificato come appresso:
+ Art. 15. - Agli insegnamenti complementari del corso di laurea in Giurisprudenza sono aggiunti quelli di:
+ 16) Diritto tributario;
+ 17) Teoria generale del diritto.
+ Art. 59, relativo alla propedeuticita' del corso di laurea in Farmacia e' modificato nel senso che e' abrogato al secondo comma la propedeuticita' per l'iscrizione ai corsi e agli esami dell'insegnamento di "Istituzioni di matematiche" nei riguardi dell'insegnamento di "Chimica fisica".
+

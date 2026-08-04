@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1883
+data: 1929-10-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-10-10;1883
+codice_redazionale: 029U1883
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:43Z
+---
+
+REGIO DECRETO
+                10 ottobre 1929
+                1883
+                Erezione in ente morale dell'Opera pia «Ricovero di mendicita' Paolo Vagliasindi del Castello», con sede in Randazzo. (029U1883)
+
+Entrata in vigore del provvedimento: 23/11/1929
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

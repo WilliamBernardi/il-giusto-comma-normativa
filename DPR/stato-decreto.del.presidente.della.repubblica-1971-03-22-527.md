@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 527
+data: 1971-03-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-03-22;527
+codice_redazionale: 071U0527
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 marzo 1971
+                527
+                Fusione in unico ente degli Orfanotrofi maschile e femminile e dell'opera pia Carlo Carloni, con sede in Cremona.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 marzo 1971, col quale, sulla proposta del Ministro per l'interno, gli Orfanotrofi maschile e femminile e la opera pia Carlo Carloni, con sede in Cremona, vengono fusi in un unico ente denominato "Istituto educativo cremonese - gia' orfanotrofi". Viene, altresi' approvato lo statuto della predetta istituzione.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 27 luglio 1971
+ Atti del Governo, registro n. 243, foglio n. 99. - CARUSO
+

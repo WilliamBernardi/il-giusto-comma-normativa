@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1377
+data: 1970-09-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-09-25;1377
+codice_redazionale: 070U1377
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 settembre 1970
+                1377
+                Riconoscimento della personalita' giuridica dell'associazione "Camphill" per l'educazione e l'integrazione dei ritardati mentali, con sede in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 settembre 1970, col quale, sulla proposta del Ministro per la sanita', viene riconosciuta la personalita' giuridica ed approvato lo statuto dell'associazione "Camphill" per l'educazione e l'integrazione dei ritardati mentali, con sede in Milano.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 24 febbraio 1971
+ Atti del Governo, registro n. 240, foglio n. 240. - GRECO
+

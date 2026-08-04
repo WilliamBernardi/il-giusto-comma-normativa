@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1294
+data: 1962-07-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-07-14;1294
+codice_redazionale: 062U1294
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 luglio 1962
+                1294
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Nicola di Bari nel comune di Palagiano (Taranto).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 luglio 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Castellaneta in data 1 dicembre 1961, integrato con dichiarazione di pari data, relativo all'erezione della parrocchia di San Nicola di Bari nel comune di Palagiano (Taranto).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 24 agosto 1962
+ Atti del Governo, registro n. 158, foglio n. 33. - VILLA
+

@@ -1,0 +1,49 @@
+---
+tipo: REGIO DECRETO
+numero: 769
+data: 1927-05-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-05-08;769
+codice_redazionale: 027U0769
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:02Z
+---
+
+REGIO DECRETO
+                08 maggio 1927
+                769
+                Riunione dei comuni di Merate e di Novate Brianza in un unico Comune denominato Merate. (027U0769)
+
+Entrata in vigore del provvedimento: 09/06/1927
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo corrente anno, n. 383;
+
+## Art. 1.
+
+I Comuni di Merate e di Novate Brianza, in provincia di Como, sono riuniti in unico Comune denominato Merate.
+
+## Art. 2.
+
+Le condizioni dell'unione saranno determinate dal Prefetto di Como, sentita la Giunta provinciale amministrativa. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno, d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 8 maggio 1927 - Anno V 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 24 maggio 1927 - Anno V 
+ 
+ Atti del Governo, registro 260, foglio 163. - Ferretti.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 477
+data: 1977-02-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-02-10;477
+codice_redazionale: 077U0477
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 febbraio 1977
+                477
+                Autorizzazione all'istituto farmacologico "Filippo Serpero", in Milano, ad accettare un'eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 febbraio 1977, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto farmacologico "Filippo Serpero", in Milano, viene autorizzato ad accettare l'eredita' disposta dalla sig.ra Anita Barigozzi ved. Serpero con testamenti olografi rispettivamente in data 25-28 ottobre 1965, 7 aprile 1966, 27 settembre 1967, 1° giugno 1968, 3 aprile 1969, 29 novembre 1969, 4 aprile 1970, 20 dicembre 1970, pubblicati con atto pubblico in data 20 luglio 1973, n. 21176 di repertorio, a rogito dott. Antonio Mascheroni, notaio in Milano, costituita da beni mobili, immobili e titoli azionari per un valore di L. 1.400.000.000 circa, con l'obbligo di adempiere ad alcuni legati. 
+ 
+Visto, il Guardasigilli: BONIFACIO 
+ Registrato alla Corte dei conti, addi' 26 luglio 1977 
+ Registro n. 86 Istruzione, foglio n. 155
+

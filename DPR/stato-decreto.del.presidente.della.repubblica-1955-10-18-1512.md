@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1512
+data: 1955-10-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-10-18;1512
+codice_redazionale: 055U1512
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 ottobre 1955
+                1512
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia dei Quattro SS. Evangelisti, in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 ottobre 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Milano in data 26 agosto 1954, integrato con postilla e dichiarazione del 30 gennaio 1955, relativo alla erezione della parrocchia dei Quattro SS. Evangelisti, in Milano.
+
+Visto, il Guardasigilli: MORO
+ Registrato atta Corte dei conti, addi' 18 febbraio 1956
+ Atti del Governo, registro n. 96, foglio n. 32. - CARLOMAGNO
+

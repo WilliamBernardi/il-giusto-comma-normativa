@@ -1,0 +1,66 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 526
+data: 1994-04-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1994-04-18;526
+codice_redazionale: 094G0567
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 2006-08-12
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 aprile 1994
+                526
+                 Regolamento recante norme per disciplinare la valutazione dell'impatto ambientale relativa alla prospezione, ricerca e coltivazione di idrocarburi liquidi e gassosi.
+
+Entrata in vigore del decreto: 20/9/1994
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 3 APRILE 2006, N. 152, COME MODIFICATO DAL D. LGS. 16 GENNAIO 2008, N. 4 ))
+
+
+

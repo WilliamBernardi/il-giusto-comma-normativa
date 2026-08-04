@@ -1,0 +1,81 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 339
+data: 1980-02-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-02-20;339
+codice_redazionale: 080U0339
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1982-02-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:46Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 febbraio 1980
+                339
+                Modificazioni allo statuto dell'Universita' degli studi di Ancona.
+
+Veduto lo statuto dell'Universita' di Ancona, approvato con decreto del Presidente della Repubblica 4 ottobre 1971, n. 1330 e modificato con decreto del Presidente della P pubblici 7 agosto 1973, 909 e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 22 maggio 1978, n. 217;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Ancona e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il parere della sezione prima del Consiglio di Stato, n. 1902/74 del 14 febbraio 1975;
+
+## Art. 1.
+
+Lo statuto dell'Universita' di Ancona, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: 
+ 
+ Dopo l'art. 17, e con il conseguente spostamento della numerazione degli articoli successivi, sono inseriti i seguenti nuovi articoli relativi alla istituzione della scuola di specializzazione in oncologia. 
+ 
+ Scuola di specializzazione in oncologia 
+ 
+ Art. 18. - La scuola di specializzazione in oncologia ha sede presso l'istituto di anatomia patologica e conferisce il diploma di specialista in oncologia. 
+ Art. 19. - La direzione della scuola e' affidata al professore di ruolo o fuori ruolo della stessa materia della specializzazione o, in carenza, al professore di ruolo o fuori ruolo di materia affine. 
+ Art. 20. - Possono iscriversi alla scuola di specializzazione i laureati in medicina e chirurgia. E' richiesto, almeno all'inizio del corso, il possesso del diploma di abilitazione all'esercizio professionale, rilasciato dall'autorita' competente. 
+ Art. 21. - La durata del corso di studi e' di tre anni e non e' suscettibile di abbreviazione. 
+ Art. 22. - ((Il numero massimo degli allievi e' di quindici per anno di corso, e complessivamente di quarantacinque iscritti per l'intero corso di studi.)) 
+ Art. 23. - L'ammissione al corso avviene per titoli ed esami. 
+ Art. 24. - Le materie di insegnamento sono le seguenti: 
+ 1° Anno: 
+ patologia generale dei tumori (I); 
+ oncologia sperimentale (I); 
+ anatomia ed istologia patologica dei tumori (I); 
+ epidemiologia dei tumori; 
+ cancerogenesi ambientale e professionale e prevenzione primaria; 
+ immunologia dei tumori. 
+ 2° Anno: 
+ patologia generale dei tumori (II); 
+ oncologia sperimentale (II); 
+ anatomia e istologia patologica dei tumori (II); 
+ citodiagnostica dei tumori; 
+ prevenzione clinica e tecniche diagnostiche e di laboratorio;  radiodiagnostica dei tumori; 
+ oncologia medica (I); 
+ oncologia chirurgica (I). 
+ 3° Anno: 
+ oncologia medica (II); 
+ oncologia chirurgica (II); 
+ radioterapia dei tumori; 
+ oncologia dell'apparato genitale femminile; 
+ oncologia pediatrica; 
+ principi di riabilitazione oncologica; 
+ organizzazione della lotta contro i tumori. 
+ Ogni scuola deve provvedere ad organizzare seminari e conferenze su specifici argomenti con l'integrazioni di quelli elencati nello statuto. 
+ Art. 25. - La frequenza alle lezioni, alle esercitazioni pratiche e' obbligatoria per l'ammissione agli esami; il superamento degli esami di ciascun anno e' condizione indispensabile per l'iscrizione all'anno successivo. 
+ Per le materie a corso pluriennale l'esame e' sostenuto alla fine dei corsi medesimi. 
+ Art. 26. - Al termine del triennio per ottenere il diploma i candidati devono presentare una dissertazione scritta su un argomento attinente alla specializzazione.(1)
+

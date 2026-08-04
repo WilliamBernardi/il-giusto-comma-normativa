@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1505
+data: 1911-12-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1911-12-24;1505
+codice_redazionale: 011U1505
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:31Z
+---
+
+REGIO DECRETO
+                24 dicembre 1911
+                1505
+                Col quale viene variata la circoscrizione delle soprintendenze alle gallerie ai musei medioevali e moderni ed agli oggetti d'arte di Roma e di Ancona. (011U1505)
+
+Entrata in vigore del provvedimento: 22/03/1912
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

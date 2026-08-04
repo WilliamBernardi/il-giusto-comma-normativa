@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2718
+data: 1884-09-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-09-19;2718
+codice_redazionale: 084U2718
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:36Z
+---
+
+REGIO DECRETO
+                19 settembre 1884
+                2718
+                Che concede al Consorzio irriguo detto della Bealera Tagliarotta in Cavallermaggiore (Cuneo) la facolta' di riscuotere il contributo dei socii coi privilegi e nelle forme fiscali. (084U2718)
+
+Entrata in vigore del provvedimento: 12/11/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

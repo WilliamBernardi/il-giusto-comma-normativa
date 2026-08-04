@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 379
+data: 1958-03-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-03-23;379
+codice_redazionale: 058U0379
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 marzo 1958
+                379
+                Erezione in ente morale delle Casse comunali di credito agrario di Marrubiu (Cagliari), Lula, Talana e Arzana (Nuoro) e Bassacutena di Tempio Pausania (Sassari).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visti i regi decreti-legge 29 luglio 1927, n. 1509, e 29 luglio 1928, n. 2085, convertiti, rispettivamente, nelle leggi 5 luglio 1928, n. 1760, e 20 dicembre 1928, n. 3130, riguardanti l'ordinamento del credito agrario;
+ Visti il regolamento per l'esecuzione del citato regio decreto-legge 29 luglio 1927, n. 1509, approvato con decreto Ministeriale 23 gennaio 1928, e le successive modificazioni ed integrazioni;
+ Visti il regio decreto-legge 12 marzo 1936, n. 375, sulla difesa del risparmio e sulla disciplina della funzione creditizia, le successive modificazioni ed integrazioni, nonche' i decreti legislativi 17 luglio 1947, n. 691, 20 gennaio 1948, n. 10, e la legge 22 dicembre 1956, n. 1589;
+ Vista la richiesta formulata dal Banco di Sardegna, istituto di credito di diritto pubblico, con sede legale in Cagliari e sede amministrativa e direzione generale in Sassari;
+ Sentito il Comitato interministeriale per il credito ed il risparmio;
+ Udito il parere del Consiglio di Stato nell'adunanza della Sezione terza del 5 febbraio 1958, le cui considerazioni si intendono qui integralmente riprodotte e condivise;
+ Sulla proposta del Ministro per il tesoro;
+
+ Decreta:
+
+ Sono erette in ente morale le Casse comunali di credito agrario di Marrubiu (Cagliari), Lula, Talana e Arzana (Nuoro) e Bassacutena di Tempio Pausania (Sassari).
+

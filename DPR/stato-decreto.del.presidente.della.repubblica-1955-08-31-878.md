@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 878
+data: 1955-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-31;878
+codice_redazionale: 055U0878
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1955
+                878
+                Approvazione dell'atto capitolato di concessione per l'impianto e l'esercizio della funicolare aerea da Cortina d'Ampezzo al Belvedere di Poco.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 23 giugno 1927, n. 1110;
+ Visto il regio decreto-legge 24 novembre 1930, n. 1632, convertito nella legge 17 aprile 1931, n. 526;
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con regio decreto 9 maggio 1912, n. 1447, e successive modificazioni;
+ Udito il parere della Commissione per le funicolari aeree e terrestri Sulla proposta del Ministro per i trasporti;
+
+ Decreta:
+
+ E' approvato e reso esecutorio l'atto-capitolato stipulato il 28 giugno 1955, tra il delegato del Ministro per i trasporti in rappresentanza dello Stato, e la Societa' Funivie Aeree italiane Turistiche (F.A.I.T.), s.p.a. con sede in Venezia, per la concessione a questa ultima dell'impianto e dell'esercizio della funicolare aerea in servizio pubblico per trasporto di persone e di cose da Cortina d'Ampezzo al Belvedere di Poco.
+

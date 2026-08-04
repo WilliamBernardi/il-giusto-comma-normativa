@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1060
+data: 1983-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-12-01;1060
+codice_redazionale: 083U1060
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 dicembre 1983
+                1060
+                Riconoscimento della personalita' giuridica della fondazione "Dottor Marcello Candia", in Milano, ed autorizzazione alla stessa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 dicembre 1983, col quale, sulla proposta del Ministro degli affari esteri, viene riconosciuta la personalita' giuridica ed approvato lo statuto della fondazione "Dottor Marcello Candia", in Milano. La fondazione stessa viene, altresi', autorizzata ad accettare la donazione disposta dalla sig.ra Maria Vismara in Moreiro con atto n. 147646/26596 di repertorio, a rogito dott. Domenico Moretti, notaio in Milano.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 8 febbraio 1984
+ Registro n. 3 Esteri, foglio n. 20
+

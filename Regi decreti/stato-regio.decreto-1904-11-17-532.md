@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-11-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-11-17;532
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:19Z
+---
+
+REGIO DECRETO
+                17 novembre 1904
+                DXXXII
+                Che stabilisce la sezione elettorale del collegio di probi-viri per la industria edilizia e affini in Como. (0400532R)
+
+Entrata in vigore del provvedimento: 01/02/1905
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

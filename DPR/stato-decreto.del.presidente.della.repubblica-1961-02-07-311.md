@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 311
+data: 1961-02-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-02-07;311
+codice_redazionale: 061U0311
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 febbraio 1961
+                311
+                Erezione in ente morale della Cassa scolastica della Scuola media statale "Giosue' Carducci" di Arquata Scrivia (Alessandria).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 febbraio 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "Giosue' Carducci" di Arquata Scrivia (Alessandria) viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 2 maggio 1961
+ Atti del Governo, registro n. 136, foglio n. 74. - VILLA
+

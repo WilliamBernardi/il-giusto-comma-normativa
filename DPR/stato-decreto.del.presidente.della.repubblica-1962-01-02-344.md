@@ -1,0 +1,26 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 344
+data: 1962-01-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;344
+codice_redazionale: 062U0344
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 gennaio 1962
+                344
+                Norme sul trattamento economico e normativo degli operai dipendenti dalle imprese boschive e forestali della provincia di Matera.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per l'attivita' per la quale e' stato stipulato, per la provincia di Matera, l'accordo collettivo 17 marzo 1947, relativo agli operai dipendenti dalle imprese boschive, sono regolati da norme giuridiche uniformi alle clausole dell'accordo anzidetto, annesso al presente decreto, purche' compatibili con la disciplina nazionale della categoria.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti gli operai dipendenti delle imprese boschive della provincia di Matera.
+

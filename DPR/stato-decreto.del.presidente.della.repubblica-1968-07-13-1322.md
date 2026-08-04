@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1322
+data: 1968-07-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-13;1322
+codice_redazionale: 068U1322
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 luglio 1968
+                1322
+                Autorizzazione al collegio Ghislieri di Favia ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 luglio 1968, col quale, sulla proposta del Ministro per la pubblica istruzione, il collegio Ghislieri di Pavia, viene autorizzato ad accettare la donazione di 2000 azioni della societa' Italcementi per un valore di lire 32.340.000 circa, disposta in suo favore dai fratelli Radici per la istituzione di un posto di alunno da intitolare al nome di "Luigi Radici".
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 7 gennaio 1969
+ Atti del Governo, registro n. 224, foglio n. 127. - GRECO
+

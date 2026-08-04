@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 758
+data: 1948-04-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-04-06;758
+codice_redazionale: 048U0758
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 aprile 1948
+                758
+                Modificazioni allo statuto dell'Universita' degli studi di Siena.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Siena, approvato con regio decreto 13 ottobre 1927, n. 2831, e modificato con i regi decreti 31 ottobre 1929, n. 2395; 30 ottobre 1930, n. 1771; 22 ottobre 1931, n. 1421; 27 ottobre 1932, n. 2078; 26 ottobre 1933, n. 1091; 5 ottobre 1939, n. 1645 e 2 ottobre 1940, n. 1472;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071;
+ Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+ Vedute le nuove proposte di modifiche allo statuto avanzate dalle autorita' accademiche dell'Universita' anzidetta;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Siena, approvato e modificato con i regi decreti sopraindicati, e' cosi' ulteriormente modificato:
+ Art. 9. - All'elenco delle materie complementari per il corso di laurea in giurisprudenza viene aggiunto l'insegnamento di "Storia dei trattati e politica internazionale".
+

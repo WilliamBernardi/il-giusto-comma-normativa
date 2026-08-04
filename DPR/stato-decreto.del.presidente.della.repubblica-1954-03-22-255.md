@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 255
+data: 1954-03-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-22;255
+codice_redazionale: 054U0255
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 marzo 1954
+                255
+                Concessione dell'impianto e dell'esercizio della funicolare aerea monofune da Otro al Belvedere di Alagna alla Societa' "Funivia Alagna Belvedere" (F.A.B.), con sede in Torino.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 23 giugno 1927, n. 1110;
+ Visto il regio decreto-legge 24 novembre 1930, n. 1632, convertito nella legge 17 aprile 1931, n. 526;
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con regio decreto 9 maggio 1912, n. 1447, e successive modificazioni;
+ Udito il parere della Commissione per le funicolari aeree e terrestri;
+ Sulla proposta del Ministro per i trasporti;
+
+ Decreta:
+
+ E' approvato e reso esecutorio l'atto-capitolato stipulato il 21 gennaio 1954 tra il delegato del Ministro per i trasporti, in rappresentanza dello Stato, ed il rappresentante della Societa' a r.l. "Funivia Alagna -Belvedere" (F.A.B.), con sede in Torino, per la concessione a quest'ultima, dell'impianto e dell'esercizio della funicolare aerea monofune a seggiolini monoposto, con attacchi fissi, in servizio pubblico per trasporto di persone, da Otro al Belvedere di Alagna, in comune di Alagna Valsesia.
+

@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 181
+data: 1963-01-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-23;181
+codice_redazionale: 063U0181
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 gennaio 1963
+                181
+                Incorporazione del Monte di credito su pegno di Cosenza nella Cassa di risparmio di Calabria e Lucania.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visti il regio decreto 25 aprile 1929, n. 967, ed il regio decreto 5 febbraio 1931, n. 225;
+ Visto il regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni;
+ Visti la legge 10 maggio 1938, n. 745, ed il regio decreto 25 maggio 1939, n. 1279;
+ Visto il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691;
+ Viste le delibere del Consiglio di amministrazione della Cassa di risparmio di Calabria e di Lucania, con sede in Cosenza, in data 12 novembre 1962, e del commissario provvisorio del Monte di credito su pegno di Cosenza, di seconda categoria, con sede in Cosenza, in data 15 ottobre 1962;
+ Sentito il Comitato interministeriale per il credito ed il risparmio;
+ Sulla proposta del Ministro per il tesoro;
+
+ Decreta:
+
+ Il Monte di credito su pegno di Cosenza, di seconda categoria, con sede in Cosenza, e' incorporato nella Cassa di risparmio di Calabria e di Lucania, con sede in Cosenza.
+ Le modalita' dell'incorporazione saranno approvate con decreto del Ministro per il tesoro, ai sensi dell'articolo 47, comma primo, del regio decreto-legge 12 marzo 1936, n. 375, e successive modificazioni, e del decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691.
+

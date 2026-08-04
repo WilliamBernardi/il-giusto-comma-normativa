@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1312
+data: 1966-12-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-12-02;1312
+codice_redazionale: 066U1312
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 dicembre 1966
+                1312
+                Scioglimento del Consorzio fra cooperative di produzione e lavoro "Comunita' Nuova", con sede in Bologna.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto del Presidente della Repubblica in data 11 luglio 1953, n. 846, con il quale fu costituito il Consorzio fra cooperative di produzione e lavoro "Comunita' Nuova", con sede in Bologna, e ne fu approvato il relativo statuto;
+ Visto il decreto ministeriale in data 8 settembre 1965, con il quale fu sciolto il Consiglio di amministrazione del Consorzio suddetto ed il dott. Gastone Casadei fu nominato amministratore provvisorio, con il compito di provvedere nel termine di tre mesi alla regolarizzazione dell'Ente;
+ Vista la relazione in data 3 dicembre 1965, con la quale il predetto amministratore provvisorio comunicava di non aver potuto provvedere alla regolarizzazione dell'Ente, che e' risultato inattivo dal 1963;
+ Considerato che il suddetto Consorzio non ha provveduto al deposito dei bilanci annuali dal 1962;
+ Sentito in via d'urgenza il parere del Comitato centrale per le cooperative di cui all'art. 19 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577;
+ Visto l'art. 85 del regolamento per le cooperative ed i loro consorzi ammessi ai pubblici appalti, approvato con regio decreto 12 febbraio 1911, n. 278;
+ Sulla proposta del Ministro per il lavoro e la previdenza sociale;
+
+ Decreta:
+
+ Il Consorzio fra cooperative di produzione e lavoro "Comunita' Nuova", con sede in Bologna, e' sciolto.
+

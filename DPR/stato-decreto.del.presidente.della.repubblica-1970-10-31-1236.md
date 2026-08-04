@@ -1,0 +1,101 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1236
+data: 1970-10-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-10-31;1236
+codice_redazionale: 070U1236
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 ottobre 1970
+                1236
+                Modificazioni allo statuto dell'Istituto universitario navale di Napoli.
+
+Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con regio decreto 16 gennaio 1933, n. 1570 e modificato con regio decreto 16 ottobre 1934, n. 2081, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia marittima sono aggiunti i seguenti:
+
+Diritto privato comparato;
+
+Diritto aeronautico e spaziale;
+
+Diritto doganale;
+
+Diritto internazionale della navigazione;
+
+Politica economica e finanziaria;
+
+Ricerca operativa;
+
+Complementi di matematica;
+
+Tecnica industriale e commerciale;
+
+Tecnica bancaria e professionale;
+
+Economia internazionale.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 ottobre 1970
+
+SARAGAT
+
+MISASI
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Istituto universitario navale di Napoli, approvato con regio decreto 16 gennaio 1933, n. 1570 e modificato con regio decreto 16 ottobre 1934, n. 2081, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Istituto universitario navale di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 18. - All'elenco degli insegnamenti complementari del corso di laurea in economia marittima sono aggiunti i seguenti:
+
+ Diritto privato comparato;
+ Diritto aeronautico e spaziale;
+ Diritto doganale;
+ Diritto internazionale della navigazione;
+ Politica economica e finanziaria;
+ Ricerca operativa;
+ Complementi di matematica;
+ Tecnica industriale e commerciale;
+ Tecnica bancaria e professionale;
+ Economia internazionale.
+

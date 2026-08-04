@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1086
+data: 1872-09-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1872-09-29;1086
+codice_redazionale: 072U1086
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:42Z
+---
+
+REGIO DECRETO
+                29 settembre 1872
+                1086
+                Che approva sette Elenchi di Enti morali ecclesiastici soppressi e determina la rendita da iscriversi a favore del Fondo per il culto. (072U1086)
+
+Entrata in vigore del provvedimento: 25/12/1872
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

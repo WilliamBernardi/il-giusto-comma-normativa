@@ -1,0 +1,38 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 3862
+data: 1952-11-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-11-07;3862
+codice_redazionale: 052U3862
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 novembre 1952
+                3862
+                Trasferimento della Rappresentanza italiana presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.) dalla sede di Londra a quella di Parigi.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il regio decreto 29 novembre 1870, n. 6090;
+ Visto il decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266;
+ Vista la legge 4 gennaio 1951, n. 13;
+ Visto il decreto del Presidente della Repubblica 25 giugno 1950, n. 1029, relativo all'istituzione di una Rappresentanza presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.) con sede in Londra;
+ Considerato che il Consiglio Atlantico ha deciso di trasferire la sede dell'Organizzazione del Trattato Nord Atlantico da Londra a Parigi a decorrere dal 1 maggio 1952;
+ Considerata conseguentemente la necessita' politica e l'urgenza di trasferire anche la Rappresentanza italiana presso la N.A.T.O. da Londra a Parigi;
+ Udito il parere del Consiglio di Stato;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro;
+
+ Decreta:
+
+ La Rappresentanza italiana presso l'Organizzazione del Trattato Nord Atlantico (N.A.T.O.) e' trasferita dalla sede di Londra a quella di Parigi.
+ Il presente decreto ha effetto dal 1 maggio 1952.
+

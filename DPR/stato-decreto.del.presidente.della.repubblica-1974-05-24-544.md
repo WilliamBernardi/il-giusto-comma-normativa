@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 544
+data: 1974-05-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-24;544
+codice_redazionale: 074U0544
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 maggio 1974
+                544
+                Autorizzazione alla cassa mutua di malattia per gli esercenti attivita' commerciali della provincia di Palermo ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 maggio 1974, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la cassa mutua di malattia per gli esercenti attivita' commerciali della provincia di Palermo viene autorizzata ad acquistare per il prezzo di L. 48.000.000, la porzione di immobile rappresentata dall'intero primo piano (3ª elevazione fuoriterra) di un fabbricato sito in Palermo, via Roma, 519, angolo via Emerico Amari, di proprieta' del sig. D'Alco Andrea, come da rogito per notaio Ermanno Virga di Palermo, n. 833691 di repertorio, dell'11 ottobre 1965. 
+ 
+Visto, il Guardasigilli: ZAGARI 
+ Registrato alla Corte dai conti, addi' 29 novembre 1974 
+ Atti di Governo, registro n. 6, foglio n. 79. - SCIARRETTA
+

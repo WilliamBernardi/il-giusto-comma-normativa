@@ -1,0 +1,76 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 267
+data: 1999-05-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1999-05-11;267
+codice_redazionale: 099G0337
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 2008-02-02
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:16Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 maggio 1999
+                267
+                 Regolamento recante norme per l'individuazione degli uffici di
+livello dirigenziale generale, nonche' delle relative funzioni,
+dell'Amministrazione centrale del Ministero degli affari esteri.
+
+Entrata in vigore del decreto: 21-8-1999
+
+## Art. 1. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 2. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 3. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 3-bis. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 4. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 5. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 6. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 6-bis. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 7. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 8. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 9. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 10. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+
+## Art. 11. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 19 DICEMBRE 2007, N. 258 ))
+
+
+

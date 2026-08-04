@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1509
+data: 1919-08-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1919-08-10;1509
+codice_redazionale: 019U1509
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:32Z
+---
+
+REGIO DECRETO
+                10 agosto 1919
+                1509
+                Erezione in Ente morale. (019U1509)
+
+Entrata in vigore del provvedimento: 19/10/1919
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

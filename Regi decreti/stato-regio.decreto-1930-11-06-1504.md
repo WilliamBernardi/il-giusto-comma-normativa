@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1504
+data: 1930-11-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-11-06;1504
+codice_redazionale: 030U1504
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:43Z
+---
+
+REGIO DECRETO
+                06 novembre 1930
+                1504
+                Norme per la promozione al grado 7° degli impiegati doganali del gruppo B provenienti dal cessato regime. (030U1504)
+
+Entrata in vigore del provvedimento: 18/12/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 618
+data: 1953-05-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-05-12;618
+codice_redazionale: 053U0618
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 maggio 1953
+                618
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria di Fatima, nel comune di Scicli (Ragusa).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 maggio 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Nuto (Ragusa) in data 1 giugno 1952, relativo alla erezione della parrocchia di Santa Maria di Fatima nel comune di Scicli (Ragusa).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla corte dei conti, addi' 17 agosto 1953
+ Atti del Governo, registro n. 8, foglio n. 169. - CARLOMAGNO
+

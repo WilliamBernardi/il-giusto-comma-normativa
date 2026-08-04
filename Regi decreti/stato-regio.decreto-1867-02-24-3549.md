@@ -1,0 +1,34 @@
+---
+tipo: REGIO DECRETO
+numero: 3549
+data: 1867-02-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-02-24;3549
+codice_redazionale: 067U3549
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:48Z
+---
+
+REGIO DECRETO
+                24 febbraio 1867
+                3549
+                Col quale e' stabilito che le cinte urbane delle citta' di Guastalla, Reggio e Mirandola cessano di essere considerate come opere fortificate. (067U3549)
+
+Entrata in vigore del provvedimento: 02/04/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

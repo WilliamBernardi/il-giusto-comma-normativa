@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2098
+data: 1874-08-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1874-08-18;2098
+codice_redazionale: 074U2098
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:42Z
+---
+
+REGIO DECRETO
+                18 agosto 1874
+                2098
+                Che determina le condizioni di idoneita' fisica, di buona condotta e di istruzione cui devono soddisfare gli aspiranti alla rafferma con premio. (074U2098)
+
+Entrata in vigore del provvedimento: 21/10/1874
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

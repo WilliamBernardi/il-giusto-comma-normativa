@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 657
+data: 1928-03-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-03-11;657
+codice_redazionale: 028U0657
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:28Z
+---
+
+REGIO DECRETO
+                11 marzo 1928
+                657
+                Erezione in ente morale dell'«Ente nazionale case economiche popolari (sistema Venturini) - E.N.C.E.P.», con sede in Roma. (028U0657)
+
+Entrata in vigore del provvedimento: 29/04/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

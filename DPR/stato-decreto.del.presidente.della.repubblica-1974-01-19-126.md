@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 126
+data: 1974-01-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-01-19;126
+codice_redazionale: 074U0126
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 gennaio 1974
+                126
+                Trasferimento di un posto di professore di ruolo presso la facolta' di magistero dell'Universita' di Genova.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto del Presidente della Repubblica 9 maggio 1968, n. 704, con il quale alla facolta' di magistero dell'Universita' di Genova e' stato assegnato un posto di professore di ruolo per il raddoppiamento della cattedra di filosofia, ai sensi della legge 24 febbraio 1967, n. 62;
+ Visto il verbale dell'adunanza del 14 novembre 1973, nella quale la predetta facolta' ha proposto che il posto anzidetto venga trasferito al raddoppiamento della cattedra di storia della filosofia;
+ Ritenuta l'opportunita' dell'accoglimento della predetta richiesta;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Il decreto del Presidente della Repubblica 9 maggio 1968, n. 704, citato nelle premesse, e' parzialmente rettificato nel senso che il posto di professore di ruolo gia' assegnato alla facolta' di magistero dell'Universita' di Genova per il raddoppiamento della cattedra di filosofia e' destinato al raddoppiamento della cattedra di storia della filosofia, con effetto dall'anno accademico 1973-74.
+

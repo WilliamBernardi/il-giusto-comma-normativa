@@ -1,0 +1,52 @@
+---
+tipo: REGIO DECRETO
+numero: 2963
+data: 1928-12-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-12-02;2963
+codice_redazionale: 028U2963
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:51Z
+---
+
+REGIO DECRETO
+                02 dicembre 1928
+                2963
+                Cambiamento della denominazione della frazione Madruzzo del Comune omonimo in quella di « Castel Madruzzo ». (028U2963)
+
+Entrata in vigore del provvedimento: 24/01/1929
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Visto il R. decreto 7 giugno 1928, n. 1522, con cui e' stata disposta la riunione dei comuni di Calavino e Lasino in unico ente denominato Madruzzo con capoluogo Lasino; 
+ 
+ In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383, convertito nella legge 7 giugno 1928, n. 1382; 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Ferma restando la denominazione «Madruzzo» attribuita al Comune predetto, la frazione omonima del Comune stesso assume la denominazione di «Castel Madruzzo». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 dicembre 1928 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 5 gennaio 1929 - Anno VII  
+ Atti del Governo, registro 280, foglio 1. - Sirovich.
+

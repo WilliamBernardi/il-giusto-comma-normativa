@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1882-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-07-29;693
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:51Z
+---
+
+REGIO DECRETO
+                29 luglio 1882
+                DCXCIII
+                Che approva la Societa' mutua popolare cooperativa di Maschito. (8200693R)
+
+Entrata in vigore del provvedimento: 08/10/1882
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

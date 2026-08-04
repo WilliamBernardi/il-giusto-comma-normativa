@@ -1,0 +1,37 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1189
+data: 1961-10-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-10-17;1189
+codice_redazionale: 061U1189
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 ottobre 1961
+                1189
+                Modifica dello statuto della Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso l'Istituto bancario San Paolo di Torino.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visti il regio decreto-legge 12 marzo 1936, n. 375, e le successive modificazioni ed integrazioni, nonche' i decreti legislativi 17 luglio 1947, n. 691 e 20 gennaio 1948, n. 10 e la legge 22 dicembre 1956, n. 1589;
+ Vista la legge 11 marzo 1958, n. 238;
+ Visto il proprio decreto in data 16 dicembre 1959, n. 1257, con il quale e' stato approvato lo statuto della
+ Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso l'Istituto bancario San Paolo di Torino;
+ Vista la deliberazione in data 28 aprile 1961 del Consiglio di amministrazione del predetto Istituto;
+ Sentito il Comitato interministeriale per il credito ed il risparmio;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro per il tesoro;
+
+ Decreta:
+
+ Il secondo comma dell'art. 11 dello statuto della Sezione autonoma per il finanziamento di opere pubbliche e di impianti di pubblica utilita' presso l'Istituto bancario San Paolo di Torino, e' modificato come appresso:
+ "Il fondo di dotazione e' costituito dalla somma di lire un miliardo, assegnata dall'Istituto".
+

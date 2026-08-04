@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1292
+data: 1958-12-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-27;1292
+codice_redazionale: 058U1292
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 dicembre 1958
+                1292
+                Autorizzazione all'accettazione della donazione di un immobile sito in Genova, disposta a favore dello Stato dai marchesi Francesco e Paolo Spinola.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 dicembre 1958, col quale, sulla proposta del Ministro per le finanze, viene autorizzata l'accettazione della donazione, disposta a favore dello Stato dai marchesi Francesco e Paolo Spinola, con atto 31 maggio 1958, dell'immobile denominato palazzo Spinola, sito in Genova, piazza Pellicceria n. 1, e dei quadri, mobili, tappeti e porcellane in esso contenuti.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 marzo 1959
+ Atti del Governo, registro n. 117, foglio n. 43. - VILLA
+

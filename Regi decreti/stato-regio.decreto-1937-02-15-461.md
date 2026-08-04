@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 461
+data: 1937-02-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-02-15;461
+codice_redazionale: 037U0461
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:35Z
+---
+
+REGIO DECRETO
+                15 febbraio 1937
+                461
+                Riconoscimento, agli effetti civili, della dissacrazione e chiusura al culto della Chiesa del Carmelo, in Castronovo (Palermo). (037U0461)
+
+Entrata in vigore del provvedimento: 04/05/1937
+
+## Art. 1.
+
+N.
+
+R. decreto 15 febbraio 1937, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Cardinale Arcivescovo di Palermo, in data 25 gennaio 1936, relativo alla dissacrazione e alla chiusura al culto della Chiesa del Carmelo in Castronovo (Palermo). 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 26 marzo 1937 - Anno XV
+

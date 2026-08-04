@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1889-11-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-11-28;3568
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:00Z
+---
+
+REGIO DECRETO
+                28 novembre 1889
+                MMMDLXVIII
+                Che, sciogliendo il consiglio di amministrazione della cassa di risparmio di Loreto, nomina nella qualita' di commissario regio presso detta cassa il sig. Alessandro Sartori. (8903568R)
+
+Entrata in vigore del provvedimento: 01/01/1890
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

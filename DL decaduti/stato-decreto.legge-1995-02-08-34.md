@@ -1,0 +1,66 @@
+---
+tipo: DECRETO-LEGGE
+numero: 34
+data: 1995-02-08
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1995-02-08;34
+codice_redazionale: 095G0059
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1995-06-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                08 febbraio 1995
+                34
+                 Attuazione delle risoluzioni ONU numeri 942 e 944 del 1994,
+relative all'embargo nei confronti della Bosnia Erzegovina ed alla
+revoca dell'embargo nei confronti di Haiti, nonche' autorizzazione
+alla partecipazione italiana alla missione di polizia civile della
+U.E.O. a Mostar.
+
+Entrata in vigore del decreto: 9-2-1995.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI
+ DALLA L. 7 GIUGNO 1995, N. 222
+

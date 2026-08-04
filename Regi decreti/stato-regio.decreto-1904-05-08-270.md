@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+data: 1904-05-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-05-08;270
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:39Z
+---
+
+REGIO DECRETO
+                08 maggio 1904
+                CCLXX
+                Con cui l'asilo infantile Pizzala di Molina, (Como) Viene eretto in ente morale e ne viene approvato lo statuto organo. (0400270R)
+
+Entrata in vigore del provvedimento: 24/07/1904
+
+## Art. 1.
+
+Con cui l'asilo infantile Pizzala di Molina, (Como) Viene eretto in ente morale e ne viene approvato lo statuto organo. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto Ronchetti. 
+ 
+ Registrato alla Corte dei conti addi' 6 luglio 1904. 
+ 
+ Reg. 17. Atti del Governo a f. 90.
+

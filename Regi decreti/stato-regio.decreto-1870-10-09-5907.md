@@ -1,0 +1,34 @@
+---
+tipo: REGIO DECRETO
+numero: 5907
+data: 1870-10-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1870-10-09;5907
+codice_redazionale: 070U5907
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:11Z
+---
+
+REGIO DECRETO
+                09 ottobre 1870
+                5907
+                Col quale e' abolita l'azione penale e sono condonate le pene pronunciate per i reati politici, per i reati di stampa e della Guardia nazionale, e per alcune contravvenzioni. (070U5907)
+
+Entrata in vigore del provvedimento: 24/10/1870
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

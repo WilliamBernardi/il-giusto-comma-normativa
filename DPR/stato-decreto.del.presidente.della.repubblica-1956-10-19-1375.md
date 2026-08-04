@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1375
+data: 1956-10-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-10-19;1375
+codice_redazionale: 056U1375
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 ottobre 1956
+                1375
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia del Sacro Cuore di Gesu', in localita' Farinia del comune di Pontecagnano (Salerno).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 ottobre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Salerno, in data 1 dicembre 1951, integrato con due postille 1 giugno 1954 e 12 settembre 1955, relativo alla erezione della parrocchia del Sacro Cuore di Gesu', in localita' Farinia del comune di Pontecagnano (Salerno) e della Chiesa omonima, sede della parrocchia stessa, ne viene riconosciuta la personalita' giuridica.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 14 dicembre 1956
+ Atti del Governo, registro n. 101, foglio n. 100. - CARLOMAGNO
+

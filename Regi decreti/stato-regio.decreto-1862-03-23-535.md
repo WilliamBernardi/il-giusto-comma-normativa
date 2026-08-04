@@ -1,0 +1,45 @@
+---
+tipo: REGIO DECRETO
+numero: 535
+data: 1862-03-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1862-03-23;535
+codice_redazionale: 062U0535
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:33Z
+---
+
+REGIO DECRETO
+                23 marzo 1862
+                535
+                Col quale alla denominazione del Comune di Bagno a Corsena e' sostituita quella di Bagni di Lucca. (062U0535)
+
+Entrata in vigore del provvedimento: 27/04/1862
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposizione del Presidente del Consiglio dei Ministri, Ministro dell'Interno;
+
+## Art. 1.
+
+Alla denominazione del Comune di Bagno a Corsena e' sostituita quella di Bagni di Lucca. 
+ 
+ Ordiniamo che il presente Decreto, munito del Sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato in Torino addi' 23 marzo 1862. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 5 aprile 1862 
+ 
+ Reg.° 19 Atti del Governo a c. 137. Wehrlin. 
+ 
+ Luogo del sigillo. V. Il Guardasigilli U. Rattazzi. 
+ 
+ U. Rattazzi.
+

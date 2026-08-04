@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 117
+data: 1905-04-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1905-04-02;117
+codice_redazionale: 005U0117
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:19Z
+---
+
+REGIO DECRETO
+                02 aprile 1905
+                117
+                Che sostituisce il colore del fondo nei biglietti di Stato da lire cinque. (005U0117)
+
+Entrata in vigore del provvedimento: 28/04/1905
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 905
+data: 1963-06-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-06-06;905
+codice_redazionale: 063U0905
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 giugno 1963
+                905
+                Riconoscimento agli effetti civili, della erezione della Parrocchia di Santa Maria della Cancellata, nel comune di Lacedonia (Avellino).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 giugno 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Lacedonia in data 8 dicembre 1961, integrato con due dichiarazioni del 15 febbraio 1963 relativo alla erezione della Parrocchia di Santa Maria della Cancellata, nel comune di Lacedonia (Avellino).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 3 luglio 1963
+ Atti del Governo, registro n. 171, foglio n. 64. - VILLA
+

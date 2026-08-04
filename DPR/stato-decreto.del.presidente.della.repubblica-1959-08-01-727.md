@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 727
+data: 1959-08-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-08-01;727
+codice_redazionale: 059U0727
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 agosto 1959
+                727
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giuseppe, in contrada San Cesareo del comune di Anagni (Frosinone).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 agosto 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Anagni in data 10 agosto 1954, integrato con due dichiarazioni del 2 aprile 1959, relativo all'erezione della parrocchia di San Giuseppe, in contrada San Cesareo del comune di Anagni (Frosinone) e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 5 settembre 1959
+ Atti del Governo, registro n. 120, foglio n. 91. - VILLA
+

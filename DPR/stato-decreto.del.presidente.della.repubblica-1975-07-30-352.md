@@ -1,0 +1,45 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 352
+data: 1975-07-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-07-30;352
+codice_redazionale: 075U0352
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 luglio 1975
+                352
+                Assegnazione di fondi agli stati di previsione della spesa dei Ministeri del tesoro, delle finanze, di grazia e giustizia e della difesa, per l'anno finanziario 1975, a norma dell'articolo 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto l'art. 41, primo comma, del regio decreto 18 novembre 1923, n. 2440, sull'amministrazione del patrimonio e sulla contabilita' generale dello Stato;. 
+ Visto l'art. 87, comma quinto, della Costituzione; 
+ Vista la legge 26 aprile 1975, n. 132; 
+ Sentito il Consiglio dei Ministri; 
+ Sulla proposta del Ministro per il tesoro; 
+ 
+ Decreta: 
+ 
+ Negli stati di previsione dei Ministeri del tesoro, delle finanze, di grazia e giustizia e della difesa, per l'anno finanziario 1975, sono introdotte le seguenti variazioni in aumento: 
+ 
+ Ministero del tesoro: 
+ Cap. 3541. - Stipendi, retribuzioni, ecc . . . L. 1.275.000.000 Cap. 3811. - Stipendi, retribuzioni, ecc . . . L. 2.500.000.000 Cap. 3981. - Stipendi, retribuzioni, ecc . . . L. 1.600.000.000  
+ Ministero delle finanze: 
+ Cap. 3971. - Restituzioni e rimborsi di IGE. . L. 50.000.000.000 Cap. 3975. - Restituzioni e rimborsi di IVA. . L. 100.000.000.000 
+ 
+ Ministero di grazia e giustizia: 
+ Cap. 1017. - Stipendi, retribuzioni, ecc . . . L. 1.085.975.000 Cap. 1501. - Stipendi, retribuzioni, ecc . . . L. 52.439.000.000  
+ Ministero della difesa: 
+ Cap. 1601. - Stipendi, retribuzioni, ecc. . . . L. 400.000.000 
+ 
+ L. 209.299.975.000
+

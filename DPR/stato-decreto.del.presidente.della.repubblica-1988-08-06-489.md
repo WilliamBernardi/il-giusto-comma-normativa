@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 489
+data: 1988-08-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1988-08-06;489
+codice_redazionale: 088G0571
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 agosto 1988
+                489
+                 Soppressione dell'archivio notarile mandamentale di Amelia.
+
+Entrata in vigore del decreto: 2/12/1988
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+ Visto il regio decreto 29 giugno 1879, n. 4949, con il quale venne istituito l'archivio notarile mandamentale di Amelia;
+ Visto l'art. 248, terzo comma, del regio decreto 10 settembre 1914, n. 1326;
+ Visto l'art. 3, primo comma, della legge 17 maggio 1952, n. 629;
+ Visti gli articoli 23 e 73 del decreto del Presidente della Repubblica 30 settembre 1963, n. 1409;
+ Visto l'art. 3 del testo unico 28 dicembre 1985, n. 1092, e l'art. 1 del relativo regolamento approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217;
+ Visto l'art. 12 della legge 4 gennaio 1968, n. 15;
+ Considerato che, nonostante i ripetuti inviti, la competente amministrazione comunale non ha provveduto ad adottare i necessari provvedimenti per il regolare funzionamento del predetto ufficio, inattivo dal 1978, per cui sussiste grave e persistente trascuranza nella custodia e manutenzione degli atti e delle carte dell'archivio;
+ Sulla proposta del Ministro di grazia e giustizia;
+ E M A N A
+ il seguente decreto:
+ L'archivio notarile mandamentale di Amelia e' soppresso e i relativi atti debbono depositarsi nell'archivio notarile distrettuale di Terni salvo quelli anteriori al 31 dicembre 1888 da versarsi invece al competente archivio di Stato.
+

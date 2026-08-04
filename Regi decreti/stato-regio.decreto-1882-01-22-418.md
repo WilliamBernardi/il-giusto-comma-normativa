@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1882-01-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-01-22;418
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:28Z
+---
+
+REGIO DECRETO
+                22 gennaio 1882
+                CCCCXVIII
+                Che approva la riduzione del capitale della Societa' anonima per acquisto e vendita di beni immobili. (8200418R)
+
+Entrata in vigore del provvedimento: 22/02/1882
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,8338 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 209
+data: 2005-09-07
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2005-09-07;209
+codice_redazionale: 005G0233
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2026-06-19
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:34Z
+---
+
+DECRETO LEGISLATIVO
+                07 settembre 2005
+                209
+                Codice delle assicurazioni private.
+
+Entrata in vigore del decreto: 1-1-2006
+
+Acquisito il parere della Conferenza unificata in data 25 novembre 2004;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi nell'Adunanza del 14 febbraio 2005;
+
+Acquisito il parere delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Ministro delle attivita' produttive e del Ministro per le politiche comunitarie, di concerto con il Ministro per la funzione pubblica, con il Ministro dell'economia e delle finanze e con il Ministro della giustizia;
+
+## - - Titolo I DISPOSIZIONI GENERALI Capo I Definizioni e classificazioni generali
+
+## Art. 1. — Definizioni
+
+
+
+((70))
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            -------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 2. — Classificazione per ramo
+
+Nei rami vita la classificazione per ramo e' la seguente: 
+ I. le assicurazioni sulla durata della vita umana; 
+ II. le assicurazioni di nuzialita' e di natalita'; 
+ III. le assicurazioni, di cui ai rami I e II, le cui prestazioni principali sono direttamente collegate al valore di quote di organismi di investimento collettivo del risparmio o di fondi interni ovvero a indici o ad altri valori di riferimento; 
+ IV. l'assicurazione malattia e l'assicurazione contro il rischio di non autosufficienza che siano garantite mediante contratti di lunga durata, non rescindibili, per il rischio di invalidita' grave dovuta a malattia o a infortunio o a longevita'; 
+ V. le operazioni di capitalizzazione; 
+ VI. le operazioni di gestione di fondi collettivi costituiti per l'erogazione di prestazioni in caso di morte, in caso di vita o in caso di cessazione o riduzione dell'attivita' lavorativa.
+
+L'impresa che ha ottenuto l'autorizzazione all'esercizio delle assicurazioni di cui ai rami I, II o III del comma 1, ovvero quella di cui al ramo V del comma 1 se e' stata autorizzata ad esercitare anche un altro ramo vita con assunzione di un rischio demografico, con i relativi contratti puo' garantire in via complementare i rischi di danni alla persona, comprese l'incapacita' al lavoro professionale, la morte in seguito ad infortunio, l'invalidita' a seguito di infortunio o di malattia. L'impresa che ha ottenuto l'autorizzazione all'esercizio delle operazioni di cui al ramo VI del comma 1, in via complementare ai relativi contratti, puo' garantire prestazioni di invalidita' e di premorienza secondo quanto previsto nella normativa sulle forme pensionistiche complementari.
+
+Nei rami danni la classificazione dei rischi e' la seguente: 
+ 1. Infortuni (compresi gli infortuni sul lavoro e le malattie professionali); prestazioni forfettarie; indennita' temporanee; forme miste; persone trasportate; 
+ 2. Malattia: prestazioni forfettarie; indennita' temporanee; forme miste; 
+ 3. Corpi di veicoli terrestri (esclusi quelli ferroviari): ogni danno subito da: veicoli terrestri automotori; veicoli terrestri non automotori;
+
+Corpi di veicoli ferroviari: ogni danno subito da veicoli ferroviari;
+
+Corpi di veicoli aerei: ogni danno subito da veicoli aerei;
+
+Corpi di veicoli marittimi, lacustri e fluviali: ogni danno subito da: veicoli fluviali; veicoli lacustri; veicoli marittimi;
+
+Merci trasportate (compresi merci, bagagli e ogni altro bene): ogni danno subito dalle merci trasportate o dai bagagli, indipendentemente dalla natura del mezzo di trasporto;
+
+Incendio ed elementi naturali: ogni danno subito dai beni (diversi dai beni compresi nei rami 3, 4, 5, 6 e 7) causato da: incendio; esplosione; tempesta; elementi naturali diversi dalla tempesta; energia nucleare; cedimento del terreno;
+
+Altri danni ai beni: ogni danno subito dai beni (diversi dai beni compresi nei rami 3, 4, 5, 6 e 7) causato dalla grandine o dal gelo, nonche' da qualsiasi altro evento, quale il furto, diverso da quelli compresi al n. 8;
+
+Responsabilita' civile autoveicoli terrestri: ogni responsabilita' risultante dall'uso di autoveicoli terrestri (compresa la responsabilita' del vettore);
+
+Responsabilita' civile aeromobili: ogni responsabilita' risultante dall'uso di veicoli aerei (compresa la responsabilita' del vettore);
+
+Responsabilita' civile veicoli marittimi, lacustri e fluviali: ogni responsabilita' risultante dall'uso di veicoli fluviali, lacustri e marittimi (compresa la responsabilita' del vettore);
+
+Responsabilita' civile generale: ogni responsabilita' diversa da quelle menzionate ai numeri 10, 11 e 12;
+
+Credito: perdite patrimoniali derivanti da insolvenze; credito all'esportazione; vendita a rate; credito ipotecario; credito agricolo;
+
+Cauzione: cauzione diretta; cauzione indiretta;
+
+Perdite pecuniarie di vario genere: rischi relativi all'occupazione; insufficienza di entrate (generale); intemperie; perdite di utili; persistenza di spese generali; spese commerciali impreviste; perdita di valore venale; perdita di fitti o di redditi; perdite commerciali indirette diverse da quelle menzionate precedentemente; perdite pecuniarie non commerciali; altre perdite pecuniarie;
+
+Tutela legale: tutela legale;
+
+## - - Capo II Vigilanza sull'attivita' assicurativa e riassicurativa
+
+## Art. 3. — (( (Finalita' della vigilanza).))
+
+((
+
+Scopo principale della vigilanza e' l'adeguata protezione degli assicurati e degli aventi diritto alle prestazioni assicurative. A tal fine l'IVASS persegue la sana e prudente gestione delle imprese di assicurazione e riassicurazione, nonche', unitamente alla Consob, ciascuna secondo le rispettive competenze, la loro trasparenza e correttezza nei confronti della clientela. Altro obiettivo della vigilanza, ma subordinato al precedente, e' la stabilita' del sistema e dei mercati finanziari.
+
+))
+
+## Art. 3-bis. — (( (Principi generali della vigilanza).))
+
+((
+
+La vigilanza e' basata su un metodo prospettico fondato sul rischio ed include la verifica continua del corretto esercizio dell'attivita' di assicurazione o di riassicurazione e dell'osservanza delle disposizioni di vigilanza da parte delle imprese di assicurazione o di riassicurazione.
+
+La vigilanza sulle imprese di assicurazione e di riassicurazione comprende un'opportuna combinazione di attivita' cartolari e ispezioni in loco.
+
+I requisiti stabiliti nel presente codice sono applicati in modo proporzionato alla natura, alla portata e alla complessita' dei rischi inerenti all'attivita' di un'impresa di assicurazione o di riassicurazione.
+
+L'IVASS, nell'esercizio delle sue funzioni, tiene conto della convergenza degli strumenti di vigilanza e delle pratiche di vigilanza dell'Unione europea.
+
+Ai fini del comma 4 l'IVASS partecipa alle attivita' dell'AEAP e si conforma ai suoi orientamenti e raccomandazioni, fornendo adeguata motivazione ove ritenga di non conformarsi.
+
+))
+
+## Art. 4. — ((Ministro dello sviluppo economico))
+
+Il ((Ministro dello sviluppo economico)) adotta i provvedimenti previsti nel presente codice nell'ambito delle linee di politica assicurativa determinate dal Governo.
+
+## Art. 5. — Autorita' di vigilanza
+
+L'((IVASS)) svolge le funzioni di vigilanza sul settore assicurativo mediante l'esercizio dei poteri di natura autorizzativa, prescrittiva, accertativa, cautelare e repressiva previsti dalle disposizioni del presente codice.
+
+L'((IVASS)), nell'esercizio delle funzioni di vigilanza, e' parte del SEVIF e partecipa alle attivita' che esso svolge, tenendo conto della convergenza degli strumenti e delle prassi di vigilanza in ambito europeo.
+
+((
+
+Fatto salvo quanto previsto dall'articolo 3, comma 1, l'IVASS, nell'espletamento delle sue funzioni, prende in considerazione il potenziale impatto delle sue decisioni sulla stabilita' dei sistemi finanziari dell'Unione europea, soprattutto in situazioni di emergenza, tenendo conto delle informazioni disponibili al momento, anche avvalendosi degli opportuni scambi di informazioni con l'AEAP, il Comitato congiunto, il CERS e le autorita' di vigilanza degli altri Stati membri. In periodi di turbolenze eccezionali sui mercati finanziari, l'IVASS tiene conto dei potenziali effetti prociclici derivanti dai suoi interventi.
+
+))
+
+L'((IVASS)) adotta ogni regolamento necessario per la sana e prudente gestione delle imprese o per la trasparenza e la correttezza dei comportamenti dei soggetti vigilati ed allo stesso fine rende nota ogni utile raccomandazione o interpretazione.
+
+L'((IVASS)) effettua le attivita' necessarie per promuovere un appropriato grado di protezione del consumatore e per sviluppare la conoscenza del mercato assicurativo, comprese le indagini statistiche ed economiche e la raccolta di elementi per l'elaborazione delle linee di politica assicurativa.
+
+COMMA ABROGATO DAL D.LGS. 30 LUGLIO 2012, N. 130.
+
+((5. L'ordinamento dell'IVASS e' disciplinato dalla legge 12 agosto 1982, n. 576, e successive modificazioni, e dall'articolo 13 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, nel rispetto dei principi di autonomia organizzativa, finanziaria e contabile necessari ai fini dell'esercizio imparziale ed efficace delle funzioni di vigilanza sul settore assicurativo))
+
+((
+
+L'IVASS, nell'ambito della propria autonomia, garantisce comunque il rispetto dei principi di contenimento dei costi di cui al Capo I del Titolo I del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122.
+
+))
+
+## Art. 6. — Destinatari della vigilanza
+
+## Art. 7. — (( (Reclami) ))
+
+((
+
+Le persone fisiche e giuridiche, nonche' le associazioni riconosciute per la rappresentanza degli interessi dei consumatori hanno facolta' di proporre reclamo all'IVASS, per l'accertamento dell'osservanza delle disposizioni previste nel presente codice, nei confronti delle imprese di assicurazione e di riassicurazione e degli intermediari secondo la procedura prevista con regolamento.
+
+))
+
+## Art. 8. — Rapporti con il diritto dell'Unione europea e integrazione nel SEVIF
+
+Il Ministero dello sviluppo economico e l'((IVASS)) esercitano i poteri attribuiti in armonia con le disposizioni dell'Unione europea, si conformano ai regolamenti e alle decisioni dell'Unione europea e provvedono in merito alle raccomandazioni concernenti le materie disciplinate dal presente codice.
+
+## Art. 9. — Regolamenti e altri provvedimenti
+
+I regolamenti ministeriali sono adottati ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.
+
+I regolamenti adottati dall'((IVASS)) ai sensi del presente codice sono emanati ((...)) nel rispetto della procedura prevista dall'articolo 191, commi 4 e 5.
+
+L'((IVASS)) stabilisce, con regolamento, i termini e le procedure per l'adozione degli atti e dei provvedimenti di competenza. L'((IVASS)) disciplina, in particolare, i procedimenti relativi all'accertamento delle violazioni ed all'irrogazione delle sanzioni nel rispetto dei principi della facolta' di denuncia di parte, della piena conoscenza degli atti istruttori, del contraddittorio, della verbalizzazione nonche' della distinzione tra le funzioni istruttorie e quelle decisorie. Si applicano, in quanto compatibili, i principi sull'individuazione e sulle funzioni del responsabile del procedimento, sulla partecipazione al procedimento e sull'accesso agli atti amministrativi previsti dalla legge 7 agosto 1990, n. 241. L'((IVASS)) determina i casi di necessita' ed urgenza o i motivi di riservatezza per cui e' consentito derogare ai principi sanciti nel presente comma.
+
+Le disposizioni del presente codice che prevedono un'autorizzazione dell'((IVASS)) possono essere applicate dall'Istituto anche mediante il rilascio di autorizzazioni relative a determinate categorie di atti o di soggetti. Le autorizzazioni rilasciate dall'((IVASS)) in via generale sono rese pubbliche secondo le modalita' previste per i regolamenti.
+
+I regolamenti ministeriali, i regolamenti, le raccomandazioni di carattere generale adottati dall'((IVASS)) sono pubblicati nella Gazzetta Ufficiale. I medesimi atti, nonche' ogni altro provvedimento rilevante relativo ai soggetti sottoposti a vigilanza, sono pubblicati dall'((IVASS)) nel suo bollettino entro il mese successivo a quello della loro adozione e sono altresi' resi prontamente disponibili sul suo sito Internet.
+
+Entro il 31 gennaio di ogni anno, tutti i regolamenti e i provvedimenti di carattere generale emanati ai sensi del presente codice sono pubblicati, a cura del ((Ministero dello sviluppo economico)), in un'unica raccolta, anche in forma elettronica, se nel corso dell'anno precedente ne siano stati emanati di nuovi o siano intervenute modifiche di quelli gia' emanati.
+
+## Art. 9-bis. — (( (Trasparenza e responsabilita' dell'attivita' di vigilanza) ))
+
+((
+
+Le informazioni di cui al comma 1 sono pubblicate in modo tale da consentire un raffronto dei metodi di vigilanza adottati dalle autorita' di vigilanza degli Stati membri, anche mediante l'utilizzo di un formato comune definito a livello comunitario.
+
+))
+
+## - - ((Capo III Segreto d'ufficio e collaborazione con altre autorita' e altri soggetti))
+
+## Art. 10. — ((Segreto d'ufficio))
+
+Tutte le notizie, le informazioni e i dati in possesso dell'((IVASS)) in ragione della sua attivita' di vigilanza sono coperti dal segreto d'ufficio anche nei confronti delle pubbliche amministrazioni. Sono fatti salvi i casi previsti dalla legge per le indagini su violazioni sanzionate penalmente.
+
+I dipendenti dell'((IVASS)), nell'esercizio delle funzioni di vigilanza, sono pubblici ufficiali e hanno l'obbligo di riferire esclusivamente al presidente dell'((IVASS)) tutte le irregolarita' constatate, anche se costituenti reato perseguibile d'ufficio.
+
+((
+
+I dipendenti dell'IVASS, i consulenti, i revisori e gli esperti dei quali l'Istituto si avvale sono vincolati dal segreto d'ufficio, anche dopo la cessazione del rapporto di lavoro o la conclusione dell'incarico. Tutte le notizie, informazioni, dati ricevuti da questi soggetti nell'esercizio delle loro funzioni non possono essere divulgati ad alcuna persona o autorita' se non in forma sommaria o aggregata in modo che non si possano individuare le singole imprese di assicurazione o di riassicurazione.
+
+))
+
+((
+
+La disposizione di cui al comma 3 non osta a che l'IVASS collabori, anche mediante scambio di informazioni, con la Banca d'Italia, la Commissione nazionale per le societa' e la borsa (CONSOB), l'Autorita' garante della concorrenza e del mercato, la Commissione di vigilanza sui fondi pensione (COVIP), e ciascuna delle suddette istituzioni collabora con l'IVASS al fine di agevolare l'esercizio delle rispettive funzioni. Non puo' essere reciprocamente opposto il segreto di ufficio.
+
+))
+
+Il segreto di ufficio non puo' essere altresi' opposto nei confronti del ((Ministro dello sviluppo economico)) e nei confronti dei due rami del Parlamento che acquisiscono i dati, le notizie e le informazioni secondo le competenze e le modalita' stabilite nei rispettivi regolamenti.
+
+Le pubbliche amministrazioni e gli enti pubblici forniscono dati, notizie e documenti e ogni ulteriore collaborazione richiesta dall'((IVASS)), in conformita' alle leggi disciplinanti i rispettivi ordinamenti.
+
+L'((IVASS)), secondo le modalita' e alle condizioni previste dalle disposizioni dell'Unione europea, collabora, anche mediante scambio di informazioni, con l'AEAP e le altre autorita' di vigilanza europee, con il Comitato congiunto, con il CERS, con le istituzioni dell'Unione europea e le autorita' di vigilanza dei singoli Stati membri, al fine di agevolare l'esercizio delle rispettive funzioni.
+L'((IVASS)) adempie nei confronti di tali soggetti agli obblighi di comunicazione stabiliti dalle disposizioni dell'Unione europea. ((Le informazioni ricevute dall'IVASS provenienti da Autorita' di vigilanza di altri Stati membri possono essere trasmesse ad altre autorita' italiane o a terzi solo con il consenso dell'autorita' che le ha fornite e unicamente per i fini per cui il consenso e' stato accordato.))
+
+Nei casi e nei modi previsti dalle disposizioni dell'Unione europea, l'((IVASS)) puo' concludere con l'AEAP e con le autorita' di vigilanza degli altri Stati membri accordi che possono prevedere anche la delega di compiti; puo', inoltre, ricorrere all'AEAP per la risoluzione delle controversie con le autorita' di vigilanza degli altri Stati membri in situazioni transfrontaliere.
+
+Nell'ambito di accordi di cooperazione e a condizione di reciprocita' e di equivalenti obblighi di riservatezza, l'((IVASS)) puo' scambiare informazioni con le autorita' competenti degli Stati terzi rispetto all'Unione europea.
+
+L'((IVASS)) puo' scambiare informazioni con le autorita' amministrative o giudiziarie ((o gli altri organi che intervengono)) nell'ambito di procedimenti di liquidazione o concorsuali, in Italia o all'estero, relativi ai soggetti vigilati. Nei rapporti con le autorita' di Stati terzi lo scambio di informazioni avviene con le modalita' di cui al comma 7.
+
+## Art. 10-bis. — (( (Utilizzo delle informazioni riservate) ))
+
+((
+
+))
+
+## Art. 10-ter. — (( (Scambio di informazioni con altre Autorita' dell'Unione europea) ))
+
+((
+
+Nelle situazioni di emergenza, ivi incluse quelle di cui all'articolo 18 del regolamento (UE) n. 1094/2010, l'IVASS comunica immediatamente informazioni alle banche centrali del SEBC, inclusa la BCE, quando le informazioni siano attinenti all'esercizio dei rispettivi compiti statutari, ivi incluse la gestione della politica monetaria e la relativa concessione di liquidita', la sorveglianza dei sistemi di pagamento, di compensazione e di regolamento titoli e la tutela della stabilita' del sistema finanziario, e al CERS, quando le informazioni siano attinenti all'esercizio dei suoi compiti.
+
+Le informazioni ricevute dall'IVASS ai sensi dei commi 1 e 2 sono soggette alle disposizioni relative al segreto d'ufficio stabilite dal presente Capo.
+
+))
+
+## - - ((Capo IIIbis Sistemi interni di segnalazione delle violazioni e procedura di segnalazione))
+
+## Art. 10-quater. — (Sistemi interni di segnalazione delle violazioni)
+
+Le imprese di assicurazione o di riassicurazione ((e le ultime societa' controllanti di cui all'articolo 210, comma 2)), gli intermediari assicurativi e riassicurativi, inclusi gli intermediari assicurativi a titolo accessorio, adottano procedure specifiche per la segnalazione al proprio interno, da parte del personale, di atti o fatti che possano costituire violazioni delle norme disciplinanti ((l'attivita' assicurativa e distributiva svolta)).
+
+Fuori dei casi di responsabilita' a titolo di calunnia o diffamazione, ovvero per lo stesso titolo ai sensi dell'articolo 2043 del codice civile, la presentazione di una segnalazione nell'ambito della procedura di cui al comma 1 non costituisce violazione degli obblighi derivanti dal rapporto di lavoro.
+
+La disposizione di cui all'articolo 7, comma 2, del decreto legislativo 30 giugno 2003, n. 196, non trova applicazione avuto riguardo all'eta' del segnalante, che puo' essere rivelata solo con il suo consenso quando la conoscenza sia indispensabile per la difesa del segnalato. Le imprese di assicurazione o di riassicurazione, gli intermediari assicurativi e riassicurativi, inclusi gli intermediari assicurativi a titolo accessorio osservano le disposizioni di attuazione del presente articolo emanate dall'IVASS. 
+ (45)
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 10-quinquies. — (Procedura di segnalazione di violazioni)
+
+Gli atti relativi alle segnalazioni di cui al comma 1 sono sottratti all'accesso previsto dagli articoli 22 e seguenti della legge 7 agosto 1990, n. 241, e successive modificazioni. 
+ (45)
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Titolo II ACCESSO ALL'ATTIVITA' ASSICURATIVA Capo I Disposizioni generali
+
+## Art. 11. — Attivita' assicurativa
+
+L'esercizio dell'attivita' assicurativa nei rami vita e nei rami danni, come classificati all'articolo 2, e' riservato alle imprese di assicurazione.
+
+L'impresa di assicurazione limita l'oggetto sociale all'esercizio dei soli rami vita oppure dei soli rami danni e della relativa riassicurazione.
+
+In deroga al comma 2, e' consentito l'esercizio congiunto dei rami vita e dei soli rami danni infortuni e malattia di cui all'articolo 2, comma 3. L'impresa e' tenuta ad una gestione separata per ciascuna delle due attivita' secondo le disposizioni stabilite dall'((IVASS)) con regolamento.
+
+L'impresa di assicurazione puo' inoltre svolgere le operazioni connesse o strumentali all'esercizio dell'attivita' assicurativa o riassicurativa. Sono inoltre consentite le attivita' relative alla costituzione ed alla gestione delle forme di assistenza sanitaria e di previdenza integrative, nei limiti ed alle condizioni stabilite dalla legge.
+
+## Art. 12. — Operazioni vietate
+
+Sono vietate le associazioni tontinarie o di ripartizione, le assicurazioni che hanno per oggetto il trasferimento del rischio di pagamento delle sanzioni amministrative e quelle che riguardano il prezzo del riscatto in caso di sequestro di persona. In caso di violazione del divieto il contratto e' nullo e si applica l'articolo 167, comma 2.
+
+E' vietata la costituzione nel territorio della Repubblica di societa' che hanno per oggetto esclusivo l'esercizio all'estero dell'attivita' assicurativa.
+
+## - - Capo II Imprese aventi sede legale nel territorio della Repubblica
+
+## Art. 13. — Autorizzazione
+
+L'((IVASS)) alle condizioni previste dall'articolo 14 autorizza, con provvedimento da pubblicare nel bollettino, l'impresa che intende esercitare l'attivita' nei rami vita oppure nei rami danni ovvero, congiuntamente, nei rami vita e nei rami infortuni e malattia di cui all'articolo 2, comma 3.
+
+L'autorizzazione puo' essere rilasciata per uno o piu' rami vita o danni e copre tutte le attivita' rientranti nei rami cui si riferisce, a meno che l'impresa non chieda che sia limitata ad una parte soltanto di esse.
+
+L'autorizzazione e' valida per il territorio della Repubblica, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento o di prestazione di servizi, nonche' per quello degli Stati terzi, nel rispetto della legislazione di tali Stati.
+
+## Art. 14. — Requisiti e procedura
+
+((
+
+))
+
+L'((IVASS)) nega l'autorizzazione quando dalla verifica delle condizioni indicate nel comma 1 non risulti garantita la sana e prudente gestione, senza che si possa aver riguardo alla struttura e all'andamento dei mercati interessati. Il provvedimento che nega l'autorizzazione e' specificatamente e adeguatamente motivato ed e' comunicato all'impresa interessata entro novanta giorni dalla presentazione della domanda di autorizzazione completa dei documenti richiesti.
+
+Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti l'autorizzazione di cui all'articolo 13.
+
+L'((IVASS)), verificata l'iscrizione nel registro delle imprese, iscrive in un'apposita sezione dell'albo le imprese di assicurazione autorizzate in Italia e ne da' pronta comunicazione all'impresa interessata. Le imprese indicano negli atti e nella corrispondenza l'iscrizione all'albo.
+
+L'((IVASS)) determina, con regolamento, la procedura di autorizzazione ((, inclusi l'aggiornamento degli importi previsti per il rilascio dell'autorizzazione)) e le forme di pubblicita' dell'albo.
+
+((
+
+))
+
+## Art. 14-bis. — (Programma di attivita')
+
+
+
+## Art. 15. — (( (Estensione ad altri rami) ))
+
+((
+
+L'impresa gia' autorizzata all'esercizio di uno o piu' rami vita o danni che intende estendere l'attivita' ad altri rami indicati nell'articolo 2, commi 1 o 3, deve essere preventivamente autorizzata dall'IVASS. Si applica l'articolo 14, comma 2.
+
+Per ottenere l'estensione dell'autorizzazione, l'impresa da' prova di disporre di fondi propri di base ammissibili per un importo minimo pari a quello previsto dall'articolo 14, comma 1, lettera c), per l'esercizio dei nuovi rami, di possedere attivi a copertura delle riserve tecniche e di essere in regola con le disposizioni relative al Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis ed al Requisito Patrimoniale Minimo di cui all'articolo 47-bis.
+Qualora per l'esercizio dei nuovi rami sia prescritto un minimo assoluto del Requisito Patrimoniale Minimo di cui all'articolo 47-ter piu' elevato di quello posseduto, l'impresa deve altresi' dimostrare di disporre di tale minimo assoluto.
+
+Per ottenere l'estensione dell'autorizzazione, l'impresa deve altresi' presentare un nuovo programma di attivita' conforme all'articolo 14-bis.
+
+Fatto salvo il comma 2, l'impresa che esercita i rami vita e che intende estendere l'attivita' ai rami 1 e 2, ovvero l'impresa che esercita i rami danni 1 e 2 indicati nell'articolo 2, commi 1 o 3, e che intende estendere l'attivita' ai rischi dell'assicurazione vita, per ottenere l'estensione dell'autorizzazione da' prova di disporre di attivi a copertura delle riserve tecniche e dei fondi propri di base ammissibili necessari per coprire l'importo cumulato del minimo assoluto del Requisito Patrimoniale Minimo previsto dall'articolo 47-ter, comma 1, lettera d), numero 3), e si impegna a coprire in prospettiva i Requisiti Patrimoniali Minimi Nozionali di cui all'articolo 348, comma 2-ter.
+
+Le disposizioni del presente articolo si applicano anche nel caso in cui l'impresa, dopo aver ottenuto un'autorizzazione limitata ai sensi dell'articolo 13, comma 2, intenda estendere l'esercizio ad altre attivita' o rischi rientranti nei rami per i quali e' stata autorizzata in via limitata.
+
+L'IVASS determina, con regolamento, la procedura per l'estensione dell'autorizzazione ad altri rami.
+
+L'impresa non puo' estendere l'attivita' prima dell'adozione del provvedimento che aggiorna l'albo, del quale e' data pronta comunicazione all'impresa medesima.
+
+Il provvedimento di estensione e' comunicato all'AEAP in conformita' all'articolo 14, comma 5-bis.
+
+))
+
+## Art. 16. — Attivita' in regime di stabilimento in un altro Stato membro
+
+L'impresa, qualora intenda istituire una sede secondaria in un altro Stato membro, ne da' preventiva comunicazione all'((IVASS)).
+
+L'impresa trasmette, insieme alla comunicazione, un programma di attivita' recante, in particolare, l'indicazione dei rischi e delle obbligazioni che essa intende assumere e la struttura organizzativa della sede secondaria.
+
+L'impresa trasmette inoltre la documentazione comprovante la nomina di un rappresentante generale, che deve essere munito di un mandato comprendente espressamente anche i poteri di rappresentare l'impresa in giudizio e davanti a tutte le autorita' dello Stato membro di stabilimento, nonche' di concludere e sottoscrivere i contratti e gli altri atti relativi alle attivita' esercitate nel territorio di tale Stato. Il rappresentante generale deve avere domicilio all'indirizzo della sede secondaria. Qualora la rappresentanza sia conferita ad una persona giuridica, questa deve a sua volta designare come proprio rappresentante una persona fisica che sia munita di mandato comprendente i predetti poteri.
+
+Il rappresentante generale o, se diversa, la persona preposta alla gestione effettiva della sede secondaria deve essere in possesso, per tutta la durata dell'incarico, dei requisiti di onorabilita' e professionalita' secondo quanto previsto nell'articolo 76. La perdita dei requisiti comporta la decadenza dalla carica ai sensi dell'articolo 76, comma 2, e l'obbligo per l'impresa di provvedere alla sostituzione del rappresentante o, se diversa, della persona preposta alla gestione effettiva della sede secondaria.
+
+## Art. 17. — Procedura per l'accesso in regime di stabilimento
+
+L'((IVASS)), entro sessanta giorni dalla data di ricevimento della richiesta di cui all'articolo 16, ove non rilevi l'esistenza degli impedimenti previsti al comma 2, trasmette la comunicazione all'autorita' di vigilanza dello Stato membro nel quale l'impresa intende stabilirsi, unitamente ad una certificazione attestante che l'impresa ((, per l'insieme delle sue attivita', copre il Requisito Patrimoniale di Solvibilita' ed il Requisito Patrimoniale Minimo calcolati in conformita' agli articoli 45-bis e 47-ter)).
+
+L'((IVASS)) respinge la richiesta qualora abbia motivo di dubitare dell'adeguatezza ((del sistema di governo societario)) o della stabilita' della situazione finanziaria dell'impresa, anche tenuto conto del programma di attivita' presentato, ovvero quando il rappresentante generale non possieda i requisiti di onorabilita' e di professionalita' ((di cui all'articolo 76.))
+
+L'((IVASS)) informa prontamente l'impresa dell'avvenuta comunicazione ai sensi del comma 1 ovvero del diniego motivato ai sensi del comma 2.
+
+L'impresa non puo' insediare la sede secondaria e dare inizio all'attivita' prima di aver ricevuto una comunicazione da parte dell'autorita' di vigilanza dello Stato membro nel quale intende stabilirsi o, nel caso di silenzio, prima che siano trascorsi sessanta giorni dal momento in cui tale autorita' ha ricevuto dall'((IVASS)) la comunicazione di cui all'articolo 16. L'((IVASS)) trasmette prontamente all'impresa ogni altra comunicazione, che sia ricevuta dalla ((autorita' di vigilanza dello Stato membro ospitante)) e che pervenga entro il medesimo termine, relativamente alle disposizioni di interesse generale alle quali la sede secondaria deve attenersi.
+
+L'impresa, qualora intenda modificare il contenuto della comunicazione effettuata ai sensi dell'articolo 16, ((...)), deve informarne l'((IVASS)) e l'autorita' di vigilanza dello Stato membro ((ospitante)) almeno trenta giorni prima di mettere in atto quanto comunicato. L'((IVASS)), entro sessanta giorni dalla data di ricevimento delle informazioni, ne valuta la rilevanza in relazione alla permanenza delle condizioni che hanno giustificato l'invio della comunicazione di cui al comma 3 e, se del caso, provvede ad informare l'autorita' competente dello Stato membro interessato. L'((IVASS)) trasmette prontamente all'impresa ogni eventuale comunicazione che pervenga dall'autorita' di vigilanza dello Stato membro della sede secondaria entro il medesimo termine.
+
+## Art. 18. — Attivita' in regime di prestazione di servizi in un altro Stato membro
+
+L'impresa, qualora intenda effettuare per la prima volta attivita' in regime di liberta' di prestazione di servizi in un altro Stato membro, ne da' preventiva comunicazione all'((IVASS)).
+
+Insieme alla comunicazione l'impresa trasmette un programma nel quale sono indicati gli stabilimenti dai quali l'impresa si propone di svolgere l'attivita', gli Stati membri nei quali intende operare, la natura dei rischi e delle obbligazioni che intende assumere e le altre informazioni indicate dall'((IVASS)).
+
+## Art. 19. — Procedura per l'accesso in regime di prestazione di servizi
+
+L'((IVASS)), entro trenta giorni dalla data di ricevimento della comunicazione di cui all'articolo 18, trasmette all'autorita' di vigilanza dello Stato membro, nel quale l'impresa si propone di operare in regime di liberta' di prestazione di servizi, le necessarie informazioni ((stabilite dall'IVASS con regolamento)) e contestualmente ne da' notizia all'impresa interessata.
+
+L'((IVASS)) respinge la richiesta qualora abbia motivo di dubitare dell'adeguatezza ((del sistema di governo societario)) o della stabilita' della situazione finanziaria dell'impresa, anche tenuto conto del programma di attivita' presentato. In tale caso l'((IVASS)) adotta provvedimento motivato, che trasmette all'impresa interessata entro il termine indicato al comma 1.
+
+L'impresa puo' dare inizio all'attivita' dal momento in cui riceve dall'((IVASS)) l'avviso dell'avvenuta trasmissione delle informazioni di cui al comma 1.
+
+L'impresa, qualora intenda modificare il contenuto della comunicazione effettuata, applica la procedura prevista dall'articolo 17, comma 5.
+
+## Art. 20. — Assicurazione malattia in sostituzione di un regime legale di previdenza sociale
+
+L'impresa, qualora intenda assumere rischi del ramo malattia ubicati in altri Stati membri, nei quali tali assicurazioni sostituiscono parzialmente o integralmente la copertura sanitaria fornita da un regime legale di previdenza sociale e sono obbligatoriamente gestite secondo una tecnica analoga a quella dell'assicurazione sulla vita secondo quanto previsto dalle disposizioni dell'ordinamento comunitario, deve richiedere all'((IVASS)) le tabelle di frequenza della malattia e gli altri dati statistici pertinenti pubblicati e trasmessi dalle autorita' di vigilanza degli Stati interessati. L'((IVASS)) effettua prontamente la relativa comunicazione all'impresa richiedente.
+
+## Art. 21. — Attivita' svolta da sedi secondarie situate in altri Stati membri
+
+L'impresa, qualora intenda operare in regime di liberta' di prestazione di servizi nel territorio della Repubblica attraverso una sede secondaria situata in un altro Stato membro, ne da' preventiva comunicazione all'((IVASS)).
+
+L'impresa puo' iniziare l'attivita' a decorrere dal momento in cui l'((IVASS)) comunica di aver ricevuto la comunicazione prevista dal comma 1. L'impresa informa preventivamente l'((IVASS)) di ogni modifica della comunicazione effettuata.
+
+L'esercizio dell'attivita' di cui al comma 1 e' soggetto alle disposizioni applicabili alle imprese con sede legale in Italia, nonche' ((agli articoli 23, comma 1-bis, e 26)).
+
+## Art. 22. — Attivita' in uno Stato terzo
+
+L'impresa, qualora intenda istituire una sede secondaria in uno Stato terzo, ne da' preventiva comunicazione all'((IVASS)).
+
+L'((IVASS)) vieta all'impresa di procedere all'insediamento della sede secondaria, qualora rilevi che la situazione finanziaria non sia sufficientemente stabile ovvero ritenga inadeguata, sulla base del programma di attivita' presentato, la struttura organizzativa della sede secondaria.
+
+Le disposizioni di cui ai commi 1 e 2 si applicano anche all'impresa che intende effettuare operazioni in regime di liberta' di prestazione di servizi in uno Stato terzo.
+
+## - - Capo III Imprese aventi la sede legale in un altro Stato membro
+
+## Art. 23. — Attivita' in regime di stabilimento
+
+L'accesso all'attivita' dei rami vita o dei rami danni in regime di stabilimento nel territorio della Repubblica, da parte di un'impresa avente la sede legale in un altro Stato membro, e' subordinato alla comunicazione all'((IVASS)), da parte dell'autorita' di vigilanza di tale Stato, delle informazioni e degli adempimenti previsti dalle disposizioni dell'ordinamento comunitario. Se l'impresa si propone di assumere rischi concernenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, la comunicazione include la dichiarazione che l'impresa e' divenuta membro dell'Ufficio centrale italiano e aderente al Fondo di garanzia per le vittime della strada.
+
+((
+
+E' considerato esercizio dell'attivita' assicurativa in regime di stabilimento ai sensi del comma 1, anche in assenza di succursali, agenzie o sedi secondarie, qualsiasi presenza permanente nel territorio della Repubblica, inclusa l'organizzazione di un semplice ufficio gestito da personale dipendente dell'impresa ovvero da una persona indipendente ma incaricata di agire in modo permanente per conto dell'impresa stessa.
+
+))
+
+Il rappresentante generale della sede secondaria deve essere munito di un mandato comprendente espressamente anche i poteri di rappresentare l'impresa in giudizio e davanti a tutte le autorita' della Repubblica, nonche' quello di concludere e sottoscrivere i contratti e gli altri atti relativi alle attivita' esercitate nel territorio della Repubblica. Il rappresentante generale deve avere domicilio all'indirizzo della sede secondaria. Qualora la rappresentanza sia conferita ad una persona giuridica, questa deve avere la sede legale nel territorio della Repubblica e deve a sua volta designare come proprio rappresentante una persona fisica che abbia domicilio in Italia e che sia munita di un mandato comprendente i medesimi poteri.
+
+Nel termine di trenta giorni dalla data di ricevimento della comunicazione l'((IVASS)) indica all'autorita' di vigilanza dello Stato membro di origine la normativa, giustificata da motivi d'interesse generale, che l'impresa deve osservare nell'esercizio dell'attivita'.
+
+L'impresa ((di cui al comma 1)) puo' insediare la sede secondaria e dare inizio all'attivita' nel territorio della Repubblica dal momento in cui riceve dall'autorita' di vigilanza dello Stato di origine la comunicazione dell'((IVASS)) ovvero, in caso di silenzio, dalla scadenza del termine di cui al comma 3.
+
+L'impresa ((di cui al comma 1)), qualora intenda modificare la comunicazione effettuata, ne informa l'((IVASS)) almeno trenta giorni prima di mettere in atto quanto comunicato. L'((IVASS)) valuta la rilevanza delle informazioni ricevute in relazione alla permanenza dei presupposti che hanno giustificato la comunicazione di cui al comma 4 e, se del caso, informa l'autorita' competente dello Stato membro interessato.
+
+## Art. 24. — Attivita' in regime di prestazione di servizi
+
+L'accesso all'attivita' dei rami vita o dei rami danni, in regime di liberta' di prestazione di servizi nel territorio della Repubblica, da parte di una impresa avente la sede legale in un altro Stato membro, e' subordinato alla comunicazione all'((IVASS)), da parte dell'autorita' di vigilanza di tale Stato, delle informazioni e degli adempimenti previsti dalle disposizioni dell'ordinamento comunitario. Se l'impresa si propone di assumere rischi concernenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, la comunicazione include l'indicazione del nominativo e l'indirizzo del rappresentante per la gestione dei sinistri e una dichiarazione che l'impresa e' divenuta membro dell'Ufficio centrale italiano e aderente al Fondo di garanzia per le vittime della strada.
+
+L'impresa ((di cui al comma 1)) puo' iniziare l'attivita' dal momento in cui l'((IVASS)) attesta di aver ricevuto la comunicazione dell'autorita' di vigilanza dello Stato di origine di cui al comma 1.
+
+L'impresa ((di cui al comma 1)) comunica all'((IVASS)), attraverso l'autorita' di vigilanza dello Stato membro d'origine, ogni modifica che intende apportare alla comunicazione per l'accesso nel territorio della Repubblica in regime di liberta' di prestazione di servizi.
+
+((COMMA SOPPRESSO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+## Art. 25. — Rappresentante per la gestione dei sinistri
+
+L'impresa ((di assicurazione comunitaria)), qualora intenda operare nel territorio della Repubblica in regime di liberta' di prestazione di servizi per l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, nomina un rappresentante incaricato della gestione dei sinistri e della liquidazione dei relativi risarcimenti.
+Al rappresentante possono essere indirizzate le richieste di risarcimento da parte dei terzi aventi diritto.
+
+Il rappresentante deve risiedere nel territorio della Repubblica.
+
+Il rappresentante deve essere munito di un mandato comprendente espressamente i poteri di rappresentare l'impresa in giudizio e davanti a tutte le autorita' competenti per quanto riguarda le richieste di risarcimento dei danni, nonche' di attestare l'esistenza e la validita' dei contratti stipulati dall'impresa in regime di liberta' di prestazione di servizi.
+
+Le funzioni del rappresentante per la gestione dei sinistri possono essere esercitate anche dal rappresentante fiscale.
+
+Le generalita' e l'indirizzo del rappresentante sono indicati nel contratto di assicurazione, nel contrassegno e nel certificato.
+
+## Art. 26. — Elenco delle imprese comunitarie operanti in Italia
+
+L'((IVASS)) pubblica, in appendice all'albo delle imprese di assicurazione ((comunitarie)), l'elenco delle imprese ammesse ad accedere all'esercizio dei rami vita e dei rami danni nel territorio della Repubblica in regime di stabilimento o in liberta' di prestazione di servizi.
+
+## Art. 27. — Rispetto delle norme di interesse generale
+
+L'impresa ((di assicurazione comunitaria)) non puo' stipulare contratti, nonche' fare ricorso a forme di pubblicita' che siano in contrasto con disposizioni nazionali di interesse generale, ivi comprese quelle poste a protezione degli assicurati e degli altri aventi diritto a prestazioni assicurative.
+
+## - - Capo IV Imprese aventi la sede legale in uno Stato terzo
+
+## Art. 28. — Attivita' in regime di stabilimento
+
+L'impresa ((di assicurazione di un Paese terzo)), qualora intenda esercitare nel territorio della Repubblica i rami vita o i rami danni, e' preventivamente autorizzata dall'((IVASS)) con provvedimento pubblicato nel Bollettino.
+
+L'autorizzazione e' efficace limitatamente al territorio nazionale, salva l'applicazione delle disposizioni sulle condizioni per l'accesso all'attivita' all'estero in regime di liberta' di prestazione di servizi.
+
+L'impresa, qualora nello Stato di origine eserciti congiuntamente i rami vita e i rami danni, puo' essere autorizzata ad esercitare esclusivamente i rami danni o i rami vita, salvo che richieda l'autorizzazione all'esercizio dei rami vita e dei rami infortuni e malattia.
+
+L'impresa di cui al comma 1 deve insediare nel territorio della Repubblica una sede secondaria e nominare un rappresentante generale che abbia residenza in Italia e che sia fornito dei poteri previsti dall'articolo 23, comma 2, nonche' del potere di compiere le operazioni necessarie per la costituzione ed il vincolo del deposito cauzionale previsto dal comma 5. Qualora la rappresentanza sia conferita ad una persona giuridica, si applica la disposizione contenuta nell'articolo 23, comma 2, ultimo periodo. Il rappresentante generale o, se diversa, la persona preposta alla gestione effettiva della sede secondaria deve essere in possesso, per la durata dell'incarico, dei requisiti di onorabilita' e professionalita' previsti dall'articolo 76.
+
+L'((IVASS)) determina, con regolamento, gli altri requisiti per il rilascio dell'autorizzazione iniziale, ivi compreso l'obbligo di presentare un programma di attivita', nonche' il possesso nel territorio della Repubblica di investimenti per un ammontare almeno uguale ((alla meta' degli importi di cui all'articolo 14, comma 1, lettera c) )) e con il deposito a titolo di cauzione, presso la Cassa depositi e prestiti o presso la Banca d'Italia, di una somma, in numerario o in titoli, ((pari ad almeno un quarto)) dell'importo minimo. Si applica l'articolo 14, commi 2, 3 e 4.
+
+Con il ((regolamento)) di cui al comma 5 sono inoltre disciplinati i procedimenti e le condizioni di estensione dell'attivita' ad altri rami, di esercizio congiunto dei rami vita e dei rami infortuni e malattia e di diniego dell'autorizzazione. Si applica l'articolo 15.
+
+L'autorizzazione non puo' essere altresi' rilasciata quando non sia rispettato dallo Stato di origine il principio di parita' di trattamento o di reciprocita' nei confronti delle imprese aventi la sede legale nel territorio della Repubblica che intendano costituire o abbiano gia' costituito in tale Stato una sede secondaria.
+
+## Art. 29. — Divieto di operare in regime di prestazione di servizi
+
+E' vietato all'impresa ((di un Paese terzo)) l'esercizio, nel territorio della Repubblica, dell'attivita' nei rami vita o nei rami danni in regime di liberta' di prestazione di servizi.
+
+Il comma 1 si applica anche nei confronti delle sedi secondarie situate in Stati terzi appartenenti ad imprese aventi sede legale in un altro Stato membro.
+
+E' fatto divieto ai soggetti che hanno il domicilio o, se persone giuridiche, la sede legale nel territorio della Repubblica di concludere contratti con imprese che svolgono l'attivita' in violazione di quanto previsto ai commi 1 e 2. E' altresi' vietata qualsiasi forma di intermediazione per la stipulazione di tali contratti.
+
+In caso di violazione del divieto il contratto e' nullo e si applica l'articolo 167, comma 2.
+
+## - - Titolo III ESERCIZIO DELL'ATTIVITA' ASSICURATIVA Capo I Disposizioni generali ((Sezione I Responsabilita' del consiglio di amministrazione))
+
+## Art. 29-bis. — (( (Responsabilita' del consiglio di amministrazione) ))
+
+((
+
+Il consiglio di amministrazione dell'impresa ha la responsabilita' ultima dell'osservanza delle norme legislative, regolamentari e delle norme europee direttamente applicabili.
+
+))
+
+## - - ((Sezione II Sistema di governo societario))
+
+## Art. 30. — (Sistema di governo societario dell'impresa)
+
+L'impresa si dota di un efficace sistema di governo societario , ivi inclusi i sistemi di remunerazione e di incentivazione, che consenta una gestione sana e prudente dell'attivita'. Il sistema di governo societario e' proporzionato alla natura, alla portata e alla complessita' delle attivita' dell'impresa.
+
+Il sistema di governo societario e' sottoposto ad una revisione interna periodica almeno annuale.
+
+((L'impresa adotta misure ragionevoli idonee a garantire la continuita' e la regolarita' dell'attivita' esercitata, inclusa l'elaborazione di piani di emergenza. A tal fine, l'impresa utilizza sistemi, risorse e procedure interne adeguati e proporzionati e, in particolare, istituisce e gestisce sistemi informatici e di rete conformemente al regolamento (UE) 2022/2554 del Parlamento europeo e del Consiglio, del 14 dicembre 2022.))
+
+L'impresa adotta politiche scritte con riferimento quanto meno al sistema di gestione dei rischi, al sistema di controllo interno, alla revisione interna e, ove rilevante, all'esternalizzazione, nonche' una politica per l'adeguatezza nel continuo delle informazioni fornite al supervisore ai sensi dell'articolo 47-quater e per le informazioni contenute nella relazione sulla solvibilita' e sulla condizione finanziaria di cui agli articoli 47-septies, 47-octies e 47-novies e garantisce che ad esse sia data attuazione.
+
+Le politiche di cui al comma 5 sono approvate preventivamente dal consiglio di amministrazione. Il consiglio di amministrazione riesamina le politiche almeno una volta l'anno in concomitanza con la revisione di cui al comma 3 e, in ogni caso, apporta le modifiche necessarie in caso di variazioni significative del sistema di governo societario.
+
+L'IVASS detta con regolamento disposizioni di dettaglio in materia di sistema di governo societario di cui alla presente Sezione.
+
+## Art. 30-bis. — (( (Sistema di gestione dei rischi) ))
+
+((
+
+L'impresa si dota di un efficace sistema di gestione dei rischi che comprende le strategie, i processi e le procedure di segnalazione necessari per individuare, misurare, monitorare, gestire e segnalare, su base continuativa, i rischi a livello individuale ed aggregato, ai quali l'impresa e' o potrebbe essere esposta, nonche' le interdipendenze tra i rischi.
+
+Il sistema di gestione dei rischi e' efficace e correttamente integrato nella struttura organizzativa e nei processi decisionali dell'impresa, tenendo in adeguata considerazione il ruolo dei soggetti che svolgono funzioni di amministrazione, direzione e controllo dell'impresa o altre funzioni fondamentali.
+
+L'impresa che applica l'aggiustamento di congruita' di cui all'articolo 36-quinquies o l'aggiustamento per la volatilita' di cui all'articolo 36-septies, predispone un piano di liquidita' con la proiezione dei flussi di cassa in entrata e in uscita in rapporto agli attivi e passivi soggetti a tali aggiustamenti.
+
+L'impresa presenta le valutazioni di cui al comma 6, lettere a), b) e c), ogni anno all'IVASS nel quadro delle informazioni trasmesse a norma dell'articolo 47-quater. Qualora l'azzeramento dell'aggiustamento di congruita' o dell'aggiustamento per la volatilita' si risolva nel mancato rispetto del Requisito Patrimoniale di Solvibilita', l'impresa presenta anche un elenco di misure da applicare in tale situazione per ripristinare il livello di fondi propri ammissibili a copertura del Requisito Patrimoniale di Solvibilita' o per ridurre il profilo di rischio e rimettersi in tal modo in regola con il Requisito Patrimoniale di Solvibilita'.
+
+Ove venga applicato l'aggiustamento per la volatilita' di cui all'articolo 36-septies, la politica scritta sulla gestione dei rischi, comprende una politica relativa ai criteri di applicazione di detto aggiustamento.
+
+Con riferimento al rischio di investimento, l'impresa osserva le disposizioni degli articoli 35-bis, 37-ter, 38 e 41.
+
+L'impresa istituisce una funzione di gestione dei rischi strutturata in modo da facilitare l'attuazione del sistema di gestione dei rischi.
+
+L'impresa quando utilizza rating creditizi esterni puo' rivolgersi esclusivamente ad un'ECAI di cui all'articolo 1, comma 1, lettera n-ter). L'impresa, tuttavia, non si affida esclusivamente o meccanicamente ai rating del credito per la valutazione del merito di credito di un'entita' o di uno strumento finanziario.
+
+Onde evitare un'eccessiva dipendenza dalle agenzie di rating del credito, l'impresa, quando utilizza rating creditizi esterni ai fini del calcolo delle riserve tecniche e del Requisito Patrimoniale di Solvibilita', verifica l'idoneita' dei rating esterni nel quadro della propria gestione del rischio, utilizzando ove possibile e praticabile analisi supplementari per evitare ogni dipendenza automatica dai rating esterni.
+
+L'IVASS puo' fornire con il regolamento di cui all'articolo 30, comma 7, indicazioni sulle procedure da seguire in sede di valutazione dei rating creditizi esterni di cui al comma 12.
+
+))
+
+## Art. 30-ter. — (( (Valutazione interna del rischio e della solvibilita') ))
+
+((
+
+Nell'ambito del sistema di gestione dei rischi di cui all'articolo 30-bis l'impresa effettua la valutazione interna del rischio e della solvibilita'. La valutazione interna del rischio e della solvibilita' e' parte integrante della strategia operativa dell'impresa e di tale valutazione l'impresa tiene conto in modo sistematico nell'ambito delle proprie decisioni strategiche.
+
+Ai fini del comma 2, lettera a), l'impresa adotta processi proporzionati alla natura, alla portata e alla complessita' dei rischi inerenti alla propria attivita', idonei a consentire la corretta individuazione e la valutazione dei rischi a cui e' o potrebbe essere esposta nel breve e nel lungo termine. L'impresa giustifica i metodi utilizzati ai fini di tale valutazione.
+
+L'impresa che applica l'aggiustamento di congruita' di cui all'articolo 36-quinquies, l'aggiustamento per la volatilita' di cui all'articolo 36-septies, o le misure transitorie di cui agli articoli 344-novies e 344-decies, valuta la conformita' con i requisiti di capitale di cui al comma 2, lettera b), sia tenendo che non tenendo conto degli aggiustamenti e delle misure transitorie di cui sopra.
+
+Nel caso di cui al comma 2, lettera c), se e' utilizzato un modello interno, la valutazione e' eseguita insieme alla ricalibrazione che trasforma la quantificazione interna del rischio nella misura del rischio e calibrazione del Requisito Patrimoniale di Solvibilita'.
+
+L'impresa esegue la valutazione interna del rischio e della solvibilita' almeno una volta all'anno e, in ogni caso, immediatamente dopo il verificarsi di qualsiasi variazione significativa del suo profilo di rischio.
+
+L'impresa comunica all'IVASS i risultati di ciascuna valutazione interna del rischio e della solvibilita' nell'ambito dell'informativa da fornire ai sensi dell'articolo 47-quater.
+
+La valutazione interna del rischio e della solvibilita' non e' finalizzata al calcolo del requisito patrimoniale. Il Requisito Patrimoniale di Solvibilita' e' soggetto ad adeguamento solo sulla base di quanto disposto dagli articoli 47-sexies, 207-octies, 216-sexies, comma 1, lettera b), 216-septies, 217-quater.
+
+))
+
+## Art. 30-quater. — (( (Sistema di controllo interno) ))
+
+((
+
+L'impresa si dota di un efficace sistema di controllo interno.
+
+Il sistema di controllo interno comprende almeno la predisposizione di idonee procedure amministrative e contabili, l'organizzazione di un adeguato sistema di trasmissione delle informazioni per ogni livello dell'impresa, nonche' l'istituzione della funzione di verifica della conformita' dell'attivita' dell'impresa alla normativa vigente, alle direttive e alle procedure aziendali.
+
+La funzione di verifica della conformita' svolge l'attivita' di consulenza al consiglio di amministrazione sull'osservanza delle norme legislative, regolamentari e delle norme europee direttamente applicabili, effettua la valutazione del possibile impatto sulle attivita' dell'impresa derivanti da modifiche del quadro normativo e degli orientamenti giurisprudenziali e identifica e valuta il rischio di non conformita'.
+
+))
+
+## Art. 30-quinquies. — (( (Funzione di revisione interna) ))
+
+((
+
+L'impresa istituisce una efficace funzione di revisione interna e ne garantisce l'autonomia di giudizio e l'indipendenza rispetto alle funzioni operative.
+
+La funzione di revisione interna include la valutazione dell'adeguatezza e l'efficacia del sistema di controllo interno e delle ulteriori componenti del sistema di governo societario dell'impresa di cui al presente Capo.
+
+La funzione di revisione interna comunica al consiglio di amministrazione le risultanze e le raccomandazioni in relazione all'attivita' svolta, indicando gli interventi correttivi da adottare in caso di rilevazione di disfunzioni e criticita'. Il consiglio di amministrazione definisce i provvedimenti da porre in essere in relazione a ciascuna raccomandazione ricevuta e individua le misure dirette ad eliminare le carenze riscontrate dalla funzione di revisione interna, garantendone l'attuazione.
+
+))
+
+## Art. 30-sexies. — (( (Funzione attuariale) ))
+
+((
+
+))
+
+## Art. 30-septies. — (( (Esternalizzazione) ))
+
+((
+
+L'impresa che esternalizza funzioni o attivita' relative all'attivita' assicurativa o riassicurativa conserva la piena responsabilita' dell'osservanza degli obblighi ad essa imposti da norme legislative, regolamentari e dalle disposizioni dell'Unione europea direttamente applicabili.
+
+L'impresa informa tempestivamente l'IVASS prima dell'esternalizzazione di funzioni o attivita' essenziali o importanti nonche' di significativi sviluppi successivi in relazione all'esternalizzazione di tali funzioni o compiti.
+
+L'IVASS con regolamento stabilisce i termini e le condizioni per l'esternalizzazione delle funzioni o delle attivita', di cui ai commi 2 e 3.
+
+))
+
+## Art. 30-octies. — (( (Requisiti organizzativi dell'impresa che esercita il ramo assistenza) ))
+
+((
+
+L'impresa che esercita l'attivita' assicurativa nel ramo assistenza soddisfa i requisiti di professionalita' del personale e rispetta le caratteristiche tecniche delle attrezzature determinate dall'IVASS con regolamento.
+
+))
+
+## Art. 30-novies. — (( (Strumenti del sistema di gestione dei rischi sulle tariffe) ))
+
+((
+
+In applicazione dell'articolo 30-bis, comma 3, lettera a) l'impresa, per ciascuna nuova tariffa, opera valutazioni dei rischi assicurabili, delle ipotesi poste a base del calcolo dei premi, della redditivita' attesa e dell'equilibrio tariffario atteso. Dette valutazioni formano oggetto di una relazione tecnica da conservare presso l'impresa.
+
+Ai fini del comma 1, l'impresa applica il principio di cui all'articolo 30-ter, comma 3.
+
+La relazione tecnica, di cui al comma 1, e' trasmessa, su richiesta, alla societa' di revisione, all'organo di controllo e all'IVASS.
+
+L'IVASS, nel rispetto delle disposizioni della presente Sezione, puo' disciplinare con regolamento i contenuti della relazione di cui al comma 1, anche in relazione a talune tipologie tariffarie e stabilire altri obblighi di trasmissione del documento.
+
+))
+
+## Art. 30-decies. — (( (Requisiti di Governo e controllo del prodotto applicabili alle imprese di assicurazione e agli intermediari che realizzano prodotti assicurativi da vendere ai clienti). ))
+
+((
+
+Fermi restando gli obblighi di cui al Titolo IX e agli articoli 185, 185-bis e 185-ter, le imprese di assicurazione e gli intermediari che realizzano prodotti assicurativi da vendere ai clienti, elaborano e attuano un processo di approvazione per ciascun prodotto assicurativo e per ogni modifica significativa di un prodotto assicurativo esistente, prima che sia commercializzato o distribuito ai clienti, in conformita' alle disposizioni del presente articolo e alle disposizioni dell'Unione europea direttamente applicabili.
+
+Il processo di approvazione di cui al comma 1 e' proporzionato e adeguato alla natura dei prodotti assicurativi ed e' sottoposto a regolare revisione.
+
+I soggetti di cui al comma 1 trasmettono all'IVASS, su richiesta, la documentazione relativa al processo di approvazione del prodotto.
+
+Il processo di approvazione di cui al comma 1 individua per ciascun prodotto un mercato di riferimento e le categorie di clienti ai quali il prodotto non puo' essere distribuito, garantisce che tutti i rischi specificamente attinenti a tale mercato di riferimento siano stati analizzati e che la strategia di distribuzione prevista sia coerente con il mercato di riferimento stesso, e adotta ogni ragionevole misura per assicurare che il prodotto assicurativo sia distribuito al mercato di riferimento individuato.
+
+I soggetti di cui al comma 1 comprendono e riesaminano regolarmente i prodotti assicurativi che commercializzano o distribuiscono, tenendo conto di qualsiasi evento che possa incidere significativamente sui rischi potenziali per il mercato di riferimento individuato. Il riesame e' finalizzato a valutare se il prodotto continui ad essere coerente con le esigenze del mercato di riferimento e se la prevista strategia distributiva continui a essere adeguata.
+
+I soggetti di cui al comma 1 trasmettono ai distributori di prodotti assicurativi tutte le informazioni rilevanti sul prodotto assicurativo e sul processo di approvazione del prodotto, compreso il relativo mercato di riferimento individuato.
+
+7. L'IVASS, sentita la Consob, adotta le disposizioni attuative del presente articolo in modo da garantire uniformita' alla disciplina applicabile alla vendita dei prodotti d'investimento assicurativo a prescindere dal canale distributivo e la coerenza e l'efficacia complessiva del sistema di vigilanza sui prodotti di investimento assicurativi, ai sensi ed in coerenza con quanto disposto all'articolo 5, comma 1, lettera b), n. 1, della legge 25 ottobre 2017, n. 163.))
+
+((45))
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 31. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 32. — Determinazione delle tariffe nei rami vita
+
+I premi relativi alle assicurazioni ed alle operazioni indicate nell'articolo 2, comma 1, sono calcolati, per ciascuna nuova tariffa, sulla base di adeguate ipotesi attuariali che consentano all'impresa, mediante il ricorso ai premi ed ai relativi proventi, di far fronte ai costi e alle obbligazioni assunte nei confronti degli assicurati e, in particolare, di costituire per i singoli contratti le riserve tecniche necessarie. A tal fine puo' essere presa in considerazione la situazione patrimoniale e finanziaria dell'impresa, ma non possono essere impiegate in modo sistematico e permanente risorse che non derivano dai premi pagati ((e dai relativi rendimenti, in modo da non ledere la solvibilita' sul lungo termine.))
+
+Le ipotesi attuariali sono determinate nel rispetto ((dei principi di cui)) all'articolo 33, nonche' delle regole applicative dei principi attuariali riconosciute dall'((IVASS)) con regolamento.
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+Nel caso di utilizzazione sistematica e permanente di risorse estranee ai premi ed ai relativi proventi, l'((IVASS)) puo' vietare l'ulteriore commercializzazione dei prodotti assicurativi che hanno provocato la situazione di squilibrio.
+
+E' consentito l'impiego di formule tariffarie a premio naturale a condizione che sia data una adeguata informativa precontrattuale ed in corso di contratto, fermo restando il divieto di revisione delle basi tecniche. In caso di violazione del divieto il contratto e' nullo e si applica l'articolo 167, comma 2.
+
+L'impresa comunica all'((IVASS)) gli elementi essenziali delle basi tecniche utilizzate per il calcolo dei premi e delle riserve tecniche di ciascuna tariffa.
+
+## Art. 33. — Tasso di interesse garantibile nei contratti relativi ai rami vita
+
+
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+((
+
+L'impresa definisce il tasso di interesse garantito nei contratti relativi ai rami vita, in coerenza con le proprie politiche di investimento e del sistema di gestione dei rischi di cui gli articoli 30, comma 5, e 30-bis, commi 3, lettera a), e 9, attenendosi a criteri prudenziali. Il tasso tiene conto della moneta in cui e' espresso il contratto e degli attivi corrispondenti.
+
+))
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+((
+
+L'IVASS, ai fini di cui all'articolo 5, ed in particolare nei casi di cui al comma 1-ter del suddetto articolo, puo' determinare limiti alle basi tecniche di costruzioni tariffarie e ai tassi di interesse garantibili da contratti relativi ai rami vita, che siano applicabili per periodi di tempo definiti.
+
+))
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+## Art. 34. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 35. — Determinazione delle tariffe nei rami responsabilita' civile veicoli e natanti
+
+Nella formazione delle tariffe ((nei rami responsabilita' civile veicoli e natanti)) l'impresa calcola distintamente i premi puri ed i caricamenti in coerenza con le proprie basi tecniche, sufficientemente ampie ed estese ad almeno cinque esercizi. Ove tali basi non siano disponibili, l'impresa puo' fare ricorso a rilevazioni statistiche di mercato.
+
+Per i rischi che, per le loro caratteristiche, non possono essere ricondotti ad alcuna delle tariffe stabilite dall'impresa, questa puo' avvalersi, ai fini della conoscenza degli elementi statistici necessari per la determinazione del premio puro, delle informazioni in possesso di uno o piu' organismi costituiti tra le imprese esercenti l'assicurazione obbligatoria autoveicoli, i quali sono tenuti a fornire gli elementi richiesti.
+
+Le disposizioni di cui al comma 2 si applicano anche per i rischi che presentano, per qualsiasi causa soggettiva od oggettiva, carattere di particolarita' o di eccezionalita' rispetto a quelli stabiliti dall'impresa.
+
+Gli elementi statistici utilizzati dall'impresa per la determinazione del premio puro per i rischi di cui ai commi 2 e 3 devono essere comunicati tempestivamente agli organismi indicati nel comma 2.
+
+## Art. 35-bis. — (( (Strumenti del sistema di gestione dei rischi sulle riserve tecniche) ))
+
+((
+
+In applicazione dell'articolo 30-bis, comma 3, lettera a), l'impresa annualmente redige una relazione sulle riserve tecniche costituite alla chiusura dell'esercizio, in cui viene data evidenza anche delle valutazioni, dei procedimenti e dei controlli operati nonche' delle ipotesi di calcolo utilizzate.
+
+Ai fini del comma 1, l'impresa applica il principio di cui all'articolo 30-ter, comma 3.
+
+La relazione di cui al comma 1 e' trasmessa almeno alla societa' di revisione e all'organo di controllo e, su richiesta, all'IVASS.
+
+La relazione di cui al comma 1 e' conservata presso l'impresa per almeno cinque anni dalla data di redazione.
+
+L'IVASS, nel rispetto delle disposizioni della presente Sezione, puo' disciplinare con regolamento i contenuti della relazione di cui al comma 1, anche in relazione a singole linee di attivita' e gli obblighi di trasmissione del documento.
+
+))
+
+## Art. 35-ter. — (( (Strumenti del sistema di gestione dei rischi nei rami della responsabilita' civile veicoli a motore e natanti) ))
+
+((
+
+L'impresa nello svolgimento delle attivita' individuate alla presente Sezione fa specifico riferimento ai rischi dei rami responsabilita' civile veicoli a motore e natanti, in particolare avuto riguardo ai rischi di tariffazione e di riservazione.
+
+L'IVASS puo' disciplinare con regolamento gli strumenti di sistema di gestione dei rischi di cui al comma 1 da adottarsi da parte delle imprese che esercitano le attivita' dei rami responsabilita' civile veicoli a motore e natanti nel territorio della Repubblica.
+
+))
+
+## - - ((Capo Ibis Principi generali per la valutazione degli attivi e delle passivita' per fini di vigilanza sulla solvibilita'))
+
+## Art. 35-quater. — (( (Valutazione degli attivi e delle passivita') ))
+
+((
+
+Ai fini della valutazione delle passivita' di cui al comma 1, lettera b), l'impresa non effettua alcun aggiustamento per tenere conto del proprio merito di credito.
+
+))
+
+## - - Capo II ((Calcolo delle riserve tecniche))
+
+## Art. 36. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 36-bis. — (( (Disposizioni generali in materia di riserve tecniche) ))
+
+((
+
+L'impresa costituisce riserve tecniche sufficienti a far fronte ad ogni impegno assicurativo e riassicurativo derivante dai contratti di assicurazione o riassicurazione nei confronti dei contraenti, degli assicurati, dei beneficiari e degli aventi diritto a prestazioni assicurative, secondo le disposizioni stabilite dall'IVASS con regolamento.
+
+L'impresa detiene riserve tecniche per un valore corrispondente all'importo attuale che l'impresa medesima dovrebbe pagare se dovesse trasferire immediatamente i propri impegni assicurativi e riassicurativi ad un'altra impresa di assicurazione o di riassicurazione.
+
+Per il calcolo delle riserve tecniche l'impresa utilizza in modo coerente con le valutazioni di mercato le informazioni fornite dai mercati finanziari e i dati generalmente disponibili sui rischi di sottoscrizione.
+
+L'impresa calcola le riserve tecniche in modo prudente, affidabile ed obiettivo.
+
+L'impresa calcola le riserve tecniche ai sensi degli articoli da 36-ter a 36-undecies, dell'articolo 36-duodecies, commi 1 e 2, e delle misure di attuazione adottate dalla Commissione europea nel rispetto dei principi di cui ai commi 2, 3, e 4 e tenuto conto dei principi di cui all'articolo 35-quater, commi 1 e 2.
+
+))
+
+## Art. 36-ter. — (( (Calcolo delle riserve tecniche) ))
+
+((
+
+L'impresa detiene riserve tecniche per un valore corrispondente alla somma della migliore stima e del margine di rischio di cui ai commi da 2 a 6.
+
+La migliore stima corrisponde al valore attuale atteso dei flussi di cassa futuri. Tale valore corrisponde alla media dei flussi di cassa futuri ponderata con la probabilita', tenendo conto del valore temporale del denaro, sulla base della pertinente struttura per scadenza dei tassi di interesse privi di rischio.
+
+L'impresa calcola la migliore stima sulla base di informazioni aggiornate e attendibili nonche' su ipotesi realistiche, utilizzando metodi attuariali e statistici che siano adeguati, applicabili e pertinenti.
+
+Nel calcolo della migliore stima l'impresa utilizza la proiezione dei flussi di cassa che tiene conto dei flussi di cassa in entrata e in uscita necessari per regolare gli impegni assicurativi e riassicurativi per la loro intera durata.
+
+L'impresa calcola la migliore stima al lordo, senza la deduzione degli importi, da calcolare separatamente, recuperabili da contratti di riassicurazione e societa' veicolo, ai sensi dell'articolo 36-undecies.
+
+L'impresa calcola il margine di rischio in modo tale da garantire che il valore delle riserve tecniche equivalga all'importo di cui l'impresa medesima dovrebbe disporre per assumere e onorare gli impegni assicurativi e riassicurativi.
+
+L'impresa valuta separatamente la migliore stima e il margine di rischio.
+
+Quando i flussi di cassa futuri connessi con gli impegni assicurativi o riassicurativi possono essere riprodotti in modo attendibile, facendo ricorso a strumenti finanziari per i quali sia osservabile un valore di mercato attendibile, l'impresa determina il valore delle riserve tecniche associato a tali futuri flussi di cassa sulla base del valore di mercato di tali strumenti finanziari. In tal caso l'impresa non e' tenuta a calcolare separatamente la migliore stima e il margine di rischio.
+
+Nei casi di cui al comma 7, l'impresa calcola il margine di rischio determinando il costo per la costituzione di fondi propri ammissibili per un importo pari al Requisito Patrimoniale di Solvibilita' necessario per far fronte agli impegni assicurativi e riassicurativi per la loro intera durata.
+
+Nella determinazione del costo della costituzione di fondi propri ammissibili per l'importo di cui al comma 9, ogni impresa utilizza lo stesso tasso del costo del capitale. Tale tasso e' sottoposto a revisione periodica.
+
+Il tasso del costo del capitale utilizzato e' pari alla maggiorazione rispetto al pertinente tasso d'interesse privo di rischio in cui un'impresa incorrerebbe detenendo un importo di fondi propri ammissibili, determinato ai sensi del Capo II-bis, del presente Titolo e delle relative misure di attuazione adottate dalla Commissione europea, pari al Requisito Patrimoniale di Solvibilita' necessario per far fronte agli impegni assicurativi o riassicurativi per la loro intera durata.
+
+))
+
+## Art. 36-quater. — (( (Estrapolazione della pertinente struttura per scadenza dei tassi d'interesse privi di rischio) ))
+
+((
+
+La pertinente struttura per scadenza dei tassi d'interesse privi di rischio di cui all'articolo 36-ter, comma 2, fa riferimento ed e' coerente con le informazioni derivanti da strumenti finanziari pertinenti.
+
+Ai fini della determinazione della struttura per scadenza, di cui al comma 1, rileva anche la scadenza degli strumenti finanziari pertinenti.
+
+Per le scadenze per cui i mercati degli strumenti finanziari pertinenti o di titoli obbligazionari sono idonei per spessore, liquidita' e trasparenza degli scambi, la struttura di cui al comma 1 e' determinata tenendo conto degli strumenti finanziari pertinenti stessi.
+
+Per le scadenze per cui i mercati degli strumenti finanziari pertinenti o di titoli obbligazionari non sono idonei ai sensi del comma 3, la struttura dei tassi di cui al comma 1 e' determinata per estrapolazione.
+
+La parte estrapolata della pertinente struttura per scadenza dei tassi d'interesse privi di rischio e' basata su tassi a termine (tassi forward), convergenti gradualmente verso un tasso a termine finale atteso («tasso forward finale» - Ultimate Forward Rate), definiti a partire da uno o un insieme di tassi forward relativi alle scadenze piu' lunghe per le quali gli strumenti finanziari pertinenti o i titoli obbligazionari possono essere osservati in mercati idonei ai sensi del comma 3.
+
+))
+
+## Art. 36-quinquies. — (( (Aggiustamento di congruita' della pertinente struttura per scadenza dei tassi di interesse privi di rischio) ))
+
+((
+
+L'impresa puo' applicare un aggiustamento di congruita' («matching adjustment») alla pertinente struttura per scadenza dei tassi di interesse privi di rischio ai fini del calcolo della migliore stima di un portafoglio di impegni di assicurazione o riassicurazione vita, e di contratti di rendita derivanti da contratti di assicurazione o riassicurazione danni, nel rispetto delle disposizioni di cui all'articolo 36-octies.
+
+Nonostante quanto disposto al comma 2, lettera h), l'impresa puo' fare ricorso ad attivi caratterizzati da flussi di cassa fissi, o comunque soggetti solo all'inflazione, a condizione che essi replichino flussi di cassa del portafoglio degli impegni di assicurazione o di riassicurazione anch'essi dipendenti dall'inflazione.
+
+L'eventuale facolta' di emittenti o terze parti di modificare i flussi di cassa di un attivo in maniera tale da offrire all'investitore una compensazione sufficiente a permettergli di ottenere i medesimi flussi di cassa reinvestendo in attivi caratterizzati da un merito di credito equivalente o superiore non inficia l'ammissibilita' dell'attivo stesso al portafoglio dedicato in virtu' di quanto disposto al comma 2, lettera h).
+
+L'impresa che applica l'aggiustamento di congruita' a un portafoglio degli impegni di assicurazione o di riassicurazione non puo' piu' optare per la non applicazione dell'aggiustamento di congruita' stesso.
+
+Laddove un'impresa che applica l'aggiustamento di congruita' non sia piu' in grado di rispettare le condizioni fissate ai commi da 2 a 4, essa ne informa immediatamente l'IVASS e adotta le misure necessarie per ripristinare la conformita' a dette condizioni.
+
+Qualora l'impresa non sia in grado di ripristinare la conformita', di cui al comma 6, entro due mesi dalla data del mancato rispetto, essa non applica piu' l'aggiustamento di congruita' a tutti i suoi impegni di assicurazione o di riassicurazione per un periodo di ulteriori 24 mesi.
+
+L'aggiustamento di congruita' non si applica agli impegni di assicurazione o di riassicurazione la cui struttura per scadenza dei tassi di interesse privi di rischio per il calcolo della migliore stima degli impegni stessi comprende un aggiustamento per la volatilita' ai sensi dell'articolo 36-septies oppure una misura transitoria sui tassi di interesse privi di rischio ai sensi dell'articolo 344-novies.
+
+))
+
+## Art. 36-sexies. — (( (Calcolo dell'aggiustamento di congruita') ))
+
+((
+
+La probabilita' di inadempimento di cui al comma 2, lettera a), numero 1), si basa su statistiche di inadempimento a lungo termine pertinenti per il singolo attivo in rapporto alla durata relativa (duration), al merito di credito e alla classe di quest'ultimo.
+
+Laddove non sia possibile desumere uno spread di credito dalle statistiche di inadempimento, di cui al comma 3, lo spread "fondamentale" e' pari alla percentuale della media a lungo termine dello spread sul tasso di interesse privo di rischio di cui al comma 2, lettere b) e c).
+
+))
+
+## Art. 36-septies. — (Aggiustamento per la volatilita' della pertinente struttura per scadenza dei tassi di interesse privi di rischio)
+
+L'impresa puo' applicare un aggiustamento per la volatilita' (volatility adjustment) alla pertinente struttura per scadenza dei tassi di interesse privi di rischio ai fini del calcolo della migliore stima di cui all'articolo 36-ter, commi da 2 a 5, nel rispetto delle disposizioni di cui all'articolo 36-octies.
+
+Per ognuna delle valute interessate, l'aggiustamento per la volatilita' della pertinente struttura per scadenza dei tassi di interesse privi di rischio, di cui al comma 1, si basa sullo spread tra il tasso di interesse ottenibile dagli attivi inclusi in un portafoglio di riferimento per la valuta in questione e i tassi della pertinente struttura per scadenza dei tassi di interesse privi di rischio per la medesima valuta.
+
+Il portafoglio di riferimento per una valuta e' rappresentativo degli attivi denominati nella valuta in questione che l'impresa pone a copertura della migliore stima degli impegni di assicurazione e di riassicurazione denominati nella medesima valuta.
+
+L'aggiustamento per la volatilita' dei tassi di interesse privi di rischio e' pari al 65 per cento dello spread valutario (currency spread) corretto per il rischio.
+
+Lo spread valutario corretto per il rischio, di cui al comma 4, e' calcolato come differenza tra lo spread di cui al comma 2 e la quota dello stesso attribuibile a una valutazione realistica delle perdite attese, del rischio di credito non previsto o di altri rischi connessi agli attivi.
+
+L'aggiustamento per la volatilita' si applica ai soli tassi di interesse privi di rischio o della struttura per scadenza non ottenuti mediante estrapolazione, di cui all'articolo 36-quater, comma 3.
+
+L'estrapolazione della pertinente struttura per scadenza dei tassi di interesse privi di rischio si basa sui tassi di interesse privi di rischio di cui al comma 6.
+
+Per ciascun paese interessato, l'aggiustamento per la volatilita' dei tassi di interesse privi di rischio di cui ai commi da 4 a 7, da applicare alla valuta del paese prima dell'applicazione del fattore del 65 per cento, e' aumentato della differenza tra lo spread nazionale (country spread) corretto per il rischio e il doppio dello spread valutario corretto per il rischio.
+
+((
+
+A decorrere dall'esercizio 2019, fatte salve le disposizioni di cui all'articolo 36-octies, comma 1, l'aumento di cui al comma 8 e' applicato quando la differenza descritta al medesimo comma sia positiva e lo spread nazionale corretto per il rischio superi gli 85 punti base.
+
+))
+
+L'impresa applica l'aggiustamento per la volatilita' maggiorata al calcolo della migliore stima degli impegni di assicurazione e di riassicurazione legati a contratti commercializzati nel mercato nazionale in questione.
+
+Lo spread nazionale corretto per il rischio e' calcolato come quello valutario corretto per il rischio in relazione alla valuta del paese, ma sulla base di un portafoglio di riferimento che sia rappresentativo degli attivi in cui ha investito l'impresa ai fini della copertura della migliore stima degli impegni di assicurazione e di riassicurazione legati a contratti commercializzati nel mercato nazionale in questione e denominati nella sua valuta.
+
+L'impresa non applica l'aggiustamento per la volatilita' in relazione agli impegni di assicurazione la cui struttura per scadenza dei tassi di interesse privi di rischio per il calcolo della migliore stima degli impegni stessi comprende un aggiustamento di congruita' ai sensi dell'articolo 36-quinquies.
+
+In deroga all'articolo 45-ter, il requisito patrimoniale di solvibilita' non comprende il rischio di perdita di fondi propri di base derivante da modifiche dell'aggiustamento per la volatilita'.
+
+## Art. 36-octies. — (( (Informazioni tecniche) ))
+
+((
+
+Per quanto concerne le valute e i mercati nazionali per i quali la rettifica di cui al comma 1, lettera c), non e' stabilita dagli atti di esecuzione della Commissione europea in conformita' alle disposizioni dell'Unione europea, l'impresa, ai fini del calcolo della migliore stima, non applica alcun aggiustamento per la volatilita' alla struttura per scadenza dei pertinenti tassi di interesse privi di rischio.
+
+))
+
+## Art. 36-novies. — (( (Altri elementi da prendere in considerazione nel calcolo delle riserve tecniche) ))
+
+((
+
+))
+
+## Art. 36-decies. — (( (Valutazione delle garanzie finanziarie e delle opzioni contrattuali incluse nei contratti di assicurazione e di riassicurazione) ))
+
+((
+
+L'impresa nel calcolo delle riserve tecniche tiene conto del valore delle garanzie finanziarie e di tutte le opzioni contrattuali previste nei contratti di assicurazione e riassicurazione.
+
+Le ipotesi dell'impresa sulla probabilita' dell'esercizio da parte dei contraenti delle opzioni contrattuali, ivi incluse le ipotesi di riduzione e di estinzione anticipata, compresi i riscatti, dei contratti di assicurazione e riassicurazione, sono realistiche e basate su informazioni attuali ed attendibili.
+
+Le ipotesi di cui al comma 2 tengono conto esplicitamente o implicitamente dell'impatto delle future variazioni delle condizioni finanziarie e non finanziarie sull'esercizio delle opzioni contrattuali di cui al medesimo comma 2.
+
+))
+
+## Art. 36-undecies. — (( (Importi recuperabili da contratti di riassicurazione e societa' veicolo) ))
+
+((
+
+L'impresa calcola l'ammontare degli importi recuperabili da contratti di riassicurazione e societa' veicolo in conformita' degli articoli da 36-bis a 36-decies.
+
+Nel calcolo di cui al comma 1, l'impresa tiene conto del periodo temporale intercorrente tra i recuperi dei crediti e i pagamenti diretti.
+
+L'impresa, per tenere conto delle perdite attese a causa dell'inadempimento della controparte, rettifica il risultato del calcolo di cui al comma 1 sulla base della valutazione della probabilita' di inadempimento di controparte e della perdita media per inadempimento (loss given default).
+
+))
+
+## Art. 36-duodecies. — (( (Qualita' dei dati) ))
+
+((
+
+L'impresa si dota di procedure e processi interni per garantire l'appropriatezza, la completezza e l'accuratezza dei dati utilizzati nel calcolo delle riserve tecniche.
+
+Nel caso in cui l'impresa, al ricorrere di specifiche circostanze, non disponga di sufficienti dati di adeguata qualita' per l'applicazione di un metodo attuariale attendibile ad un gruppo o ad un sottogruppo dei propri impegni assicurativi e riassicurativi o agli importi recuperabili da contratti di riassicurazione e dalle societa' veicolo, puo' utilizzare per il calcolo della migliore stima adeguate approssimazioni, inclusi metodi caso per caso.
+
+L'impresa si dota di processi e procedure idonei a garantire che le migliori stime e le ipotesi sottese al calcolo delle migliori stime siano periodicamente confrontate con i dati tratti dall'esperienza.
+
+Qualora dal confronto di cui al comma 3 emerga uno scostamento sistematico tra i dati tratti dall'esperienza ed il calcolo delle migliori stime, l'impresa effettua gli appropriati aggiustamenti ai metodi attuariali utilizzati o alle ipotesi elaborate o ad entrambi.
+
+))
+
+## Art. 36-terdecies. — (( (Adeguatezza delle riserve tecniche) ))
+
+((
+
+L'IVASS puo' richiedere all'impresa di dimostrare l'adeguatezza del livello delle proprie riserve tecniche, l'applicabilita' e la pertinenza dei metodi utilizzati nonche' l'adeguatezza dei sottostanti dati statistici utilizzati.
+
+L'IVASS, nel caso di cui il calcolo delle riserve tecniche dell'impresa non sia conforme alle previsioni degli articoli da 36-bis a 36-duodecies, puo' richiedere all'impresa di incrementare l'importo delle riserve tecniche fino all'ammontare calcolato nel rispetto di quanto previsto da tali articoli.
+
+))
+
+## Art. 37. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 37-bis. — ( Riserve tecniche del lavoro indiretto )
+
+((
+
+L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicurazione costituisce per il lavoro indiretto le riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, in relazione agli impegni assunti, in coerenza con le disposizioni del presente Titolo e con le disposizioni dell'Unione europea direttamente applicabili.
+
+))
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+## - - ((Capo IIbis Principi generali in materia di investimenti))
+
+## Art. 37-ter. — (( (Principio della persona prudente) ))
+
+((
+
+L'impresa investe tutti gli attivi, inclusi quelli che coprono il Requisito Patrimoniale Minimo e il Requisito Patrimoniale di Solvibilita', conformemente al principio della persona prudente, come specificato nei commi da 2 a 6, nonche' dal regolamento dell'IVASS adottato in conformita' con le disposizioni dell'Unione europea.
+
+L'impresa puo' localizzare gli attivi anche al di fuori del territorio della Repubblica o degli Stati membri, nel rispetto del principio di cui al comma 2, lettera c).
+
+L'IVASS, qualora l'impresa vanti crediti verso i riassicuratori o i retrocessionari aventi sede in uno Stato terzo il cui regime di solvibilita' non sia ritenuto equivalente conformemente all'ordinamento comunitario, puo' richiedere all'impresa cedente di localizzare all'interno del territorio della Repubblica attivi di importo corrispondente ai suddetti crediti.
+
+L'IVASS, qualora non abbia esercitato il potere di cui al comma 5, puo' chiedere alle imprese di assicurazione o di riassicurazione aventi sede in uno Stato terzo, il cui regime di solvibilita' non sia ritenuto equivalente conformemente all'ordinamento comunitario, di costituire nel territorio della Repubblica garanzie reali a fronte dei propri impegni nei confronti di un'impresa italiana.
+
+))
+
+## - - Capo III ((Attivi a copertura delle riserve tecniche))
+
+## Art. 38. — Copertura delle riserve tecniche
+
+Le riserve tecniche sono coperte con attivi di proprieta' dell'impresa.
+
+L'impresa investe gli attivi a copertura delle riserve tecniche in modo adeguato alla natura dei rischi e delle obbligazioni assunte e alla durata delle passivita' e nel migliore interesse dei contraenti, degli assicurati, dei beneficiari e degli aventi diritto a prestazioni assicurative, tenendo conto degli obiettivi strategici resi noti dall'impresa.
+
+In caso di conflitto di interessi, l'impresa o il soggetto che gestisce il portafoglio di attivita' dell'impresa garantisce che l'investimento sia realizzato nel migliore interesse dei contraenti, degli assicurati, dei beneficiari e degli aventi diritto a prestazioni assicurative.
+
+((2-bis. Le imprese di assicurazione osservano le disposizioni dell'articolo 114, comma 2-bis, del Testo unico bancario o delle relative norme di attuazione emanate dalla Banca d'Italia e dall'IVASS.))
+
+((45))
+
+COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74.
+
+COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74.
+
+In caso di attivi a copertura che rappresentano un investimento in una societa' controllata, che per conto dell'impresa di assicurazione ne gestisce in tutto o in parte gli investimenti, l'IVASS, nel verificare la corretta applicazione delle norme e dei principi di cui al presente articolo, tiene conto degli attivi detenuti dalla societa' controllata.
+
+COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74.
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 39. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 40. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 41. — Contratti direttamente collegati ad indici o a quote di organismi di investimento collettivo del risparmio
+
+Qualora le prestazioni previste in un contratto siano direttamente collegate al valore delle quote di un organismo di investimento collettivo del risparmio oppure al valore di attivi contenuti in un fondo interno detenuto dall'impresa di assicurazione, le riserve tecniche relative a tali contratti sono rappresentate con la massima approssimazione possibile dalle quote dell'organismo di investimento collettivo del risparmio oppure da quelle del fondo interno, se e' suddiviso in quote definite, oppure dagli attivi contenuti nel fondo stesso.
+
+Qualora le prestazioni previste in un contratto siano direttamente collegate ad un indice azionario o ad un altro valore di riferimento diverso da quelli di cui al comma 1, le riserve tecniche relative a tali contratti sono rappresentate con la massima approssimazione possibile dalle quote rappresentanti il valore di riferimento oppure, qualora le quote non siano definite, da attivi di adeguata sicurezza e negoziabilita' che corrispondano il piu' possibile a quelli su cui si basa il valore di riferimento particolare.
+
+((
+
+Agli attivi detenuti a copertura delle riserve tecniche relative ai contratti di cui ai commi 1 e 2 si applicano l'articolo 37-ter, commi 1, 2, 4, 5 e 6, e l'articolo 38.
+
+))
+
+((
+
+Agli attivi detenuti a copertura delle riserve tecniche relative ai contratti di cui ai commi 1 e 2 che comprendano una garanzia di risultato dell'investimento o qualsiasi altra prestazione garantita, si applicano gli articoli 37-ter e 38.
+
+))
+
+((
+
+L'IVASS, con regolamento, puo' limitare i tipi di attivi o i valori di riferimento cui possono essere collegate le prestazioni, nel caso in cui il rischio di investimento sia sopportato dall'assicurato che sia una persona fisica. Per i contratti di assicurazione le cui prestazioni sono direttamente collegate al valore delle quote di un organismo di investimento collettivo del risparmio, le disposizioni stabilite dall'IVASS sono coerenti con quanto previsto dal decreto legislativo 16 aprile 2012, n. 47.
+
+))
+
+## Art. 42. — ((Registro degli attivi a copertura delle riserve tecniche))
+
+((
+
+L'impresa tiene un registro da cui risultano gli attivi a copertura delle riserve tecniche. In qualsiasi momento l'importo degli attivi iscritti deve essere, tenendo conto delle annotazioni dei movimenti, almeno pari all'ammontare delle riserve tecniche.
+
+))
+
+((
+
+Ai fini di cui al comma 1, gli attivi posti a copertura delle riserve tecniche sono iscritti nel registro per un importo netto dei debiti contratti per la loro acquisizione e delle eventuali poste rettificative e sono valutati in conformita' alle disposizioni dell'articolo 35-quater.
+
+Gli attivi utilizzati dall'impresa per coprire le riserve tecniche relative alle accettazioni in riassicurazione devono essere gestiti ed organizzati separatamente dalle attivita' di assicurazione diretta senza possibilita' di trasferimenti.
+
+))
+
+((
+
+Gli attivi posti a copertura delle riserve tecniche ed iscritti nel registro sono riservati in modo esclusivo all'adempimento delle obbligazioni assunte dall'impresa con i contratti ai quali le riserve stesse si riferiscono. Gli attivi di cui al presente comma costituiscono patrimonio separato rispetto alle altre attivita' detenute dall'impresa e non iscritte nel registro.
+
+))
+
+L'impresa comunica all'((IVASS)) la situazione ((degli attivi)) risultante dal registro. L'((IVASS)) determina, con regolamento, le disposizioni per la formazione e la tenuta del registro, con particolare riguardo all'annotazione delle operazioni effettuate, nonche' i termini, le modalita' e gli schemi per le comunicazioni periodiche.
+
+## Art. 42-bis. — (Attivi a copertura delle riserve tecniche del lavoro indiretto)
+
+
+
+((
+
+Gli attivi a copertura delle riserve tecniche del lavoro indiretto dei rami vita e dei rami danni sono investiti nel rispetto del principio della persona prudente di cui all'articolo 37-ter e tengono conto del tipo di affari assunti dall'impresa ed in particolare, della natura, dell'ammontare e della cadenza dei pagamenti nei confronti dell'impresa cedente.
+
+))
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+## Art. 42-ter. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 43. — Riserve tecniche relative all'attivita' esercitata in regime di stabilimento negli Stati terzi
+
+Per le obbligazioni assunte dalle sedi secondarie situate in Stati terzi, l'impresa costituisce le riserve tecniche previste dalle leggi di tali Stati ((e dispone di attivi sufficienti alla relativa copertura secondo quanto disposto dall'articolo 38.))
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+## - - Capo IV ((Fondi propri))
+
+## Art. 44. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 44-bis. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - ((Sezione I Determinazione dei fondi propri))
+
+## Art. 44-ter. — (( (Fondi propri) ))
+
+((
+
+I fondi propri sono costituiti dalla somma dei fondi propri di base di cui all'articolo 44-quater e dei fondi propri accessori di cui all'articolo 44-quinquies, secondo le disposizioni stabilite dall'IVASS con regolamento, che disciplina anche la procedura di autorizzazione di cui all'articolo 44-quinquies.
+
+Nell'individuare i fondi propri, l'impresa rispetta le disposizioni dell'Unione europea direttamente applicabili in materia di trattamento delle partecipazioni detenute in enti finanziari e creditizi, nonche' gli adeguamenti che dovrebbero essere effettuati per riflettere la mancanza di trasferibilita' degli elementi dei fondi propri che possono essere utilizzati solo per coprire perdite derivanti da un particolare segmento di passivita' o da rischi particolari (fondi separati, o ring fenced funds).
+
+Per le finalita' del presente articolo, si intendono per partecipazioni detenute in enti finanziari e creditizi: 1) le partecipazioni e 2) gli altri tipi di strumenti finanziari rilevanti secondo la normativa settoriale applicabile che l'impresa detiene in enti creditizi, finanziari ed imprese di investimento.
+
+))
+
+## Art. 44-quater. — (( (Fondi propri di base) ))
+
+((
+
+))
+
+## Art. 44-quinquies. — (( (Fondi propri accessori) ))
+
+((
+
+I fondi propri accessori sono costituiti da elementi patrimoniali diversi dai fondi propri di base di cui all'articolo 44-quater che possono essere richiamati per assorbire le perdite.
+
+Nella societa' mutua assicuratrice, costituita ai sensi dell'articolo 2546 del codice civile, i fondi propri accessori possono comprendere qualsiasi credito futuro che tale mutua puo' vantare nei confronti dei suoi soci tramite il richiamo di contributi supplementari entro i dodici mesi successivi.
+
+Quando un elemento dei fondi propri accessori e' stato versato o richiamato e' trattato come un'attivita' e cessa di far parte dei fondi propri accessori.
+
+Gli importi degli elementi dei fondi propri accessori da prendere in considerazione per la determinazione dei fondi propri sono soggetti all'autorizzazione dell'IVASS.
+
+L'importo assegnato a ciascun elemento dei fondi propri accessori riflette la capacita' di assorbimento delle perdite di tale elemento ed e' determinato sulla base di ipotesi prudenti e realistiche. Qualora un elemento dei fondi propri accessori abbia un valore nominale fisso, l'importo di tale elemento e' pari al suo valore nominale, purche' tale valore nominale rifletta in modo adeguato la sua capacita' di assorbimento delle perdite.
+
+))
+
+## Art. 44-sexies. — (( (Fondi propri relativi a contratti particolari con partecipazione agli utili) ))
+
+((
+
+L'IVASS individua con regolamento le caratteristiche dei contratti con partecipazione agli utili, in presenza delle quali le relative riserve di utili costituiscono importi di cui l'impresa dispone per l'eventuale messa a disposizione ai contraenti e ai beneficiari.
+
+Tali importi sono considerati fondi propri se soddisfano i criteri di cui all'articolo 44-octies, comma 2.
+
+))
+
+## - - ((Sezione II Classificazione ed ammissibilita' dei fondi propri))
+
+## Art. 44-septies. — (( (Caratteristiche e aspetti utilizzati per classificare i fondi propri in livelli) ))
+
+((
+
+Per valutare il possesso da parte dei fondi propri delle caratteristiche di cui al comma 1, lettere a) e b), viene presa in considerazione la durata dell'elemento, in particolare se abbia una scadenza. Nel caso in cui l'elemento abbia una scadenza, la durata e' valutata prendendo in considerazione la durata relativa (duration) dell'elemento rispetto alla durata relativa (duration) degli impegni di assicurazione e di riassicurazione dell'impresa.
+
+))
+
+## Art. 44-octies. — (( (Classificazione in livelli) ))
+
+((
+
+L'impresa classifica gli elementi dei fondi propri sulla base dei criteri di cui ai commi 2, 3, 4 e 5.
+
+Gli elementi dei fondi propri di base sono classificati nel livello 1 quando possiedono sostanzialmente le caratteristiche di cui all'articolo 44-septies, comma 1, lettere a) e b), tenendo conto degli aspetti di cui all'articolo 44-septies, commi 2 e 3.
+
+Gli elementi dei fondi propri di base sono classificati nel livello 2 quando possiedono sostanzialmente le caratteristiche di cui all'articolo 44-septies, comma 1, lettera b), tenendo conto degli aspetti di cui all'articolo 44-septies, commi 2 e 3.
+
+Gli elementi dei fondi propri accessori sono classificati nel livello 2 quando possiedono sostanzialmente le caratteristiche di cui all'articolo 44-septies, comma 1, lettere a) e b), tenendo conto degli aspetti di cui all'articolo 44-septies, commi 2 e 3.
+
+Tutti gli elementi dei fondi propri di base e accessori che non hanno le caratteristiche di cui ai commi 1, 2 o 3 sono classificati nel livello 3.
+
+Ai fini di cui al comma 1, l'impresa fa riferimento, ove applicabile, all'elenco degli elementi dei fondi propri adottato dalla Commissione europea.
+
+L'impresa valuta e classifica gli elementi non inclusi nell'elenco di cui al comma 6 conformemente al comma 1. La classificazione effettuata dall'impresa e' soggetta all'autorizzazione dell'IVASS.
+
+))
+
+## Art. 44-novies. — (( (Classificazione di specifici elementi dei fondi propri) ))
+
+((
+
+2. Nel rispetto dell'articolo 44-octies, comma 4, qualsiasi credito futuro che la societa' mutua assicuratrice di cui all'articolo 2546 del codice civile puo' vantare nei confronti dei propri soci tramite il richiamo di contributi supplementari, entro i dodici mesi successivi, che non rientra nel comma 1, lettera c), e' classificato nel livello 2 quando possiede le caratteristiche di cui all'articolo 44-septies, comma 1, lettere a) e b), tenendo conto degli aspetti di cui all'articolo 44-septies, commi 2 e 3.
+
+))
+
+## Art. 44-decies. — (( (Ammissibilita' e limiti applicabili ai livelli 1, 2 e 3) ))
+
+((
+
+Ai fini del rispetto della copertura del Requisito Patrimoniale Minimo, gli elementi dei fondi propri di base ammissibili sono individuati nel rispetto dei limiti quantitativi previsti dalle disposizioni dell'Unione europea direttamente applicabili e tali da assicurare, come minimo, che l'importo degli elementi di livello 1 dei fondi propri di base ammissibili sia superiore alla meta' dell'importo totale dei fondi propri di base ammissibili.
+
+L'importo dei fondi propri ammissibile ai fini del rispetto della copertura del Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis e' pari alla somma dell'importo degli elementi di livello 1, dell'importo ammissibile degli elementi di livello 2 e dell'importo ammissibile degli elementi di livello 3.
+
+L'importo dei fondi propri di base ammissibile ai fini del rispetto della copertura del Requisito Patrimoniale Minimo di cui all'articolo 47-bis e' pari alla somma dell'importo degli elementi di livello 1 e dell'importo ammissibile degli elementi dei fondi propri di base classificati nel livello 2.
+
+L'IVASS, con regolamento, detta disposizioni per l'applicazione delle disposizioni della presente Sezione.
+
+))
+
+## Art. 45. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - ((Capo IVbis  Requisiti patrimoniali di solvibilita'  Sezione I Disposizioni generali sul calcolo del requisito patrimoniale di solvibilita'))
+
+## Art. 45-bis. — (( (Requisito Patrimoniale di Solvibilita') ))
+
+((
+
+L'impresa dispone di fondi propri ammissibili sufficienti a coprire il Requisito Patrimoniale di Solvibilita'.
+
+Il Requisito Patrimoniale di Solvibilita' e' calcolato utilizzando la formula standard di cui alla Sezione II del presente Capo ed alle relative disposizioni di attuazione adottate dalla Commissione europea o un modello interno come previsto dalla Sezione III, del presente Capo e dalle relative disposizioni di attuazione adottate dalla Commissione europea, secondo le indicazioni fornite da IVASS con regolamento.
+
+))
+
+## Art. 45-ter. — (( (Calcolo del Requisito Patrimoniale di Solvibilita') ))
+
+((
+
+L'impresa calcola il Requisito Patrimoniale di Solvibilita' conformemente ai commi da 2 a 6.
+
+L'impresa calcola il Requisito Patrimoniale di Solvibilita' in base al presupposto di continuita' aziendale.
+
+Il requisito patrimoniale di solvibilita' e' calibrato in modo da garantire che siano presi in considerazione tutti i rischi quantificabili cui e' esposta l'impresa. Tale Requisito copre l'attivita' esistente nonche' le nuove attivita' che l'impresa prevede di effettuare nel corso dei dodici mesi successivi. Con riguardo all'attivita' esistente, tale requisito copre esclusivamente le perdite inattese.
+
+Il Requisito Patrimoniale di Solvibilita' corrisponde al valore a rischio dei fondi propri di base dell'impresa soggetto ad un livello di confidenza del novantanove virgola cinque percento (99,5%) su un periodo di un anno.
+
+Nel calcolo del Requisito Patrimoniale di Solvibilita' l'impresa tiene conto dell'effetto delle tecniche di mitigazione del rischio, purche' il Requisito Patrimoniale di Solvibilita' rifletta adeguatamente il rischio di credito e gli altri rischi derivanti dall'uso di tali tecniche.
+
+))
+
+## Art. 45-quater. — (( (Frequenza del calcolo del Requisito Patrimoniale di Solvibilita') ))
+
+((
+
+L'impresa calcola il Requisito Patrimoniale di Solvibilita' almeno una volta all'anno e comunica il risultato di tale calcolo all'IVASS.
+
+L'impresa detiene fondi propri ammissibili in misura tale da coprire il Requisito Patrimoniale di Solvibilita' da ultimo comunicato, ai sensi del comma 1.
+
+L'impresa verifica nel continuo l'importo dei fondi propri ammissibili e il Requisito Patrimoniale di Solvibilita'.
+
+Se il profilo di rischio dell'impresa si discosta in modo significativo dalle ipotesi sottese al Requisito Patrimoniale di Solvibilita', da ultimo comunicato ai sensi del comma 1, l'impresa ricalcola immediatamente il Requisito Patrimoniale di Solvibilita' e ne da' pronta comunicazione all'IVASS.
+
+L'IVASS, se vi sono elementi tali da far ritenere che il profilo di rischio dell'impresa e' cambiato in modo significativo dalla data in cui e' stata effettuata la comunicazione di cui al comma 1, puo' chiedere all'impresa il ricalcolo del Requisito Patrimoniale di Solvibilita'.
+
+))
+
+## - - ((Sezione II Formula standard))
+
+## Art. 45-quinquies. — (( (Struttura della formula standard) ))
+
+((
+
+L'IVASS, con regolamento, detta disposizioni applicative in merito alla formula standard in coerenza con le disposizioni dell'Unione europea.
+
+))
+
+## Art. 45-sexies. — (( (Struttura del Requisito Patrimoniale di Solvibilita' di base) ))
+
+((
+
+Ai fini del comma 1, lettere a), b) e c), le operazioni di assicurazione o di riassicurazione sono imputate al modulo del rischio di sottoscrizione che meglio riflette la natura tecnica dei rischi sottostanti.
+
+I coefficienti di correlazione per l'aggregazione dei moduli di rischio di cui al comma 1 e la calibrazione dei requisiti patrimoniali per ciascun modulo di rischio determinano un Requisito Patrimoniale di Solvibilita' complessivo conforme ai principi di cui all'articolo 45-ter.
+
+Ogni modulo di rischio di cui al comma 1 e' calibrato utilizzando una misura di rischio del tipo valore a rischio con un livello di confidenza del novantanove virgola cinque percento (99,5%) su un periodo di un anno. Gli effetti di diversificazione sono presi in considerazione nella struttura di ogni modulo di rischio, qualora appropriato.
+
+L'impresa utilizza la stessa struttura e le stesse specifiche per i moduli di rischio, sia per il requisito patrimoniale di solvibilita' di base che per qualsiasi calcolo semplificato di cui all'articolo 45-duodecies.
+
+Per i rischi catastrofali possono essere utilizzate, qualora appropriato, specifiche geografiche per il calcolo dei moduli del rischio di sottoscrizione per l'assicurazione vita, per l'assicurazione danni e per l'assicurazione malattia.
+
+Nel calcolo dei moduli del rischio di sottoscrizione per l'assicurazione vita, per l'assicurazione danni e per l'assicurazione malattia, l'impresa puo' sostituire, previa autorizzazione dell'IVASS, nell'ambito della formula standard, un sottoinsieme di parametri con parametri specifici dell'impresa. Tali parametri sono calibrati sulla base dei dati interni dell'impresa o di dati che sono direttamente rilevanti per le operazioni di tale impresa tramite l'uso di metodi standardizzati. Ai fini dell'autorizzazione, l'IVASS verifica la completezza, l'accuratezza e l'adeguatezza dei dati utilizzati.
+
+))
+
+## Art. 45-septies. — (( (Calcolo del Requisito Patrimoniale di Solvibilita' di base) ))
+
+((
+
+L'impresa calcola il Requisito Patrimoniale di Solvibilita' di base conformemente ai commi da 2 a 11.
+
+Il modulo del rischio di sottoscrizione per l'assicurazione danni riflette il rischio derivante dagli impegni della assicurazione danni, tenuto conto di tutti i rischi coperti e delle procedure utilizzate nell'esercizio dell'attivita'. Tale modulo tiene conto altresi' dell'incertezza dei risultati dell'impresa in rapporto agli impegni di assicurazione e di riassicurazione esistenti nonche' delle attivita' future che l'impresa prevede di effettuare nel corso dei dodici mesi successivi.
+
+Il modulo del rischio di sottoscrizione per l'attivita' di assicurazione vita riflette il rischio derivante dalle obbligazioni dell'assicurazione vita, tenuto conto di tutti i rischi coperti e delle procedure utilizzate nell'esercizio dell'attivita'.
+
+Il modulo del rischio di sottoscrizione per l'assicurazione malattia riflette il rischio derivante dalla sottoscrizione di impegni dell'assicurazione malattia, sia quando gli impegni sono definiti sulla base di costruzioni tecniche simili a quelle usate per le assicurazioni vita sia quando sono definiti sulla base di costruzioni tecniche delle assicurazioni danni, tenuto conto sia dei rischi coperti che dei processi utilizzati nell'esercizio dell'attivita'.
+
+Il modulo del rischio di mercato riflette il rischio derivante dal livello o dalla volatilita' dei prezzi di mercato degli strumenti finanziari tali da avere un impatto sul valore delle attivita' e delle passivita' dell'impresa. Tale modulo riflette adeguatamente il disallineamento strutturale tra attivita' e passivita', in particolare rispetto alla loro durata relativa (duration).
+
+Il modulo del rischio di inadempimento della controparte riflette le possibili perdite dovute all'inadempimento imprevisto o al deterioramento del merito di credito delle controparti e dei debitori dell'impresa nei successivi dodici mesi. Tale modulo copre i contratti di mitigazione del rischio, quali gli accordi di riassicurazione, le cartolarizzazioni e i derivati, nonche' i crediti nei confronti di intermediari e qualsiasi altra esposizione non coperta nel sottomodulo del rischio di spread. Il modulo tiene adeguatamente conto delle garanzie collaterali o di altro genere detenute dall'impresa o da terzi per suo conto e dei rischi ivi associati.
+
+Il modulo del rischio di inadempimento della controparte di cui al comma 10 tiene conto, per ciascuna controparte, dell'esposizione globale al rischio di controparte dell'impresa nei confronti di tale controparte, indipendentemente dalla forma giuridica degli impegni contrattuali esistenti.
+
+))
+
+## Art. 45-octies. — (( (Calcolo del sottomodulo del rischio azionario: meccanismo di aggiustamento simmetrico) ))
+
+((
+
+L'aggiustamento simmetrico di cui al comma 1, lettera b), determina un sottomodulo del rischio azionario (equity risk charge), calcolato secondo la formula standard, che non e' inferiore o superiore di piu' di dieci (10) punti percentuali rispetto al fabbisogno standard di cui al comma 1, lettera a).
+
+))
+
+## Art. 45-novies. — (( (Sottomodulo del rischio azionario basato sulla durata) ))
+
+((
+
+L'autorizzazione di cui al comma 1 puo' essere rilasciata dall'IVASS quando ricorrono congiuntamente le seguenti condizioni: 
+ 1) tutte le poste dell'attivo e del passivo corrispondenti alle attivita' siano individuate, gestite e organizzate separatamente dalle altre attivita' dell'impresa e non siano trasferibili; 
+ 2) le attivita' dell'impresa di cui al comma 1, lettere a) e b), alle quali si applica il metodo di cui al presente articolo, sono svolte solo nel territorio della Repubblica; 
+ 3) la durata relativa (duration) media delle passivita' corrispondenti alle attivita' detenute dall'impresa superi i dodici anni.
+
+Il sottomodulo del rischio azionario del Requisito Patrimoniale di Solvibilita' di cui al comma 1 e' calibrato, utilizzando la misura del valore a rischio, su un periodo di tempo determinato che e' in linea con il periodo tipico di detenzione degli investimenti azionari per tale impresa, con un livello di confidenza che offra ai contraenti e ai beneficiari un livello di tutela equivalente a quello previsto all'articolo 45-ter, se il metodo di cui al presente articolo e' utilizzato solo in relazione alle attivita' e passivita' di cui al comma 2, numero 1).
+
+L'impresa nel calcolo del Requisito Patrimoniale di Solvibilita' tiene pienamente conto delle attivita' e passivita' di cui al comma 2, numero 1), al fine di valutare gli effetti di diversificazione, fatta salva la necessita' di tutelare gli interessi dei contraenti e dei beneficiari in altri Stati membri.
+
+L'IVASS rilascia l'autorizzazione di cui al comma 1 qualora la solvibilita' e la liquidita' nonche' le strategie, i processi e le procedure di segnalazione dell'impresa in relazione alla gestione integrata di attivo e passivo sono tali da assicurare, nel continuo, che l'impresa e' in grado di detenere investimenti azionari per un periodo coerente con il periodo tipico di detenzione degli investimenti azionari per tale impresa.
+
+L'impresa, ai fini dell'autorizzazione di cui al comma 1, dimostra altresi' all'IVASS che il rispetto della condizione di cui al comma 5 e' verificato con il livello di confidenza necessario per offrire ai contraenti e ai beneficiari un livello di tutela equivalente a quello stabilito all'articolo 45-ter.
+
+L'impresa che applichi il sottomodulo del rischio azionario ai sensi del comma 1 non puo' tornare ad applicare il metodo di cui all'articolo 45-septies, salvo che ricorrano adeguate giustificazioni e previa autorizzazione dell'IVASS.
+
+))
+
+## Art. 45-decies. — (( (Requisito patrimoniale per il rischio operativo) ))
+
+((
+
+Il requisito patrimoniale per il rischio operativo riflette i rischi operativi nella misura in cui non siano gia' coperti nei moduli di rischio di cui all'articolo 45-sexies. Tale requisito e' calibrato conformemente all'articolo 45-ter, commi 3 e 4.
+
+Per i contratti di assicurazione vita in cui il rischio di investimento e' sopportato dagli assicurati, il calcolo del requisito patrimoniale per il rischio operativo tiene conto dell'importo delle spese annuali sostenute in relazione a tali obbligazioni di assicurazione.
+
+Per le operazioni assicurative e riassicurative diverse da quelle di cui al comma 2, il calcolo del requisito patrimoniale per il rischio operativo tiene conto del volume di tali operazioni in termini di premi acquisiti e di riserve tecniche detenute in relazione a tali impegni di assicurazione e di riassicurazione. In questo caso il requisito patrimoniale per il rischio operativo non supera il trenta percento (30%) del Requisito Patrimoniale di Solvibilita' di base relativo a tali operazioni assicurative e riassicurative.
+
+))
+
+## Art. 45-undecies. — (( (Aggiustamento per la capacita' di assorbimento delle perdite delle riserve tecniche e delle imposte differite) ))
+
+((
+
+L'aggiustamento per la capacita' di assorbimento di perdite delle riserve tecniche e delle imposte differite di cui all'articolo 45-quinquies, comma 1, lettera c), riflette la compensazione potenziale di perdite inattese tramite una riduzione simultanea delle riserve tecniche o delle imposte differite o una combinazione delle due.
+
+L'aggiustamento tiene conto dell'effetto di mitigazione del rischio esercitato dalle future partecipazioni agli utili a carattere discrezionale dei contratti di assicurazione nella misura in cui l'impresa puo' dimostrare che la riduzione di tali partecipazioni possa essere utilizzata per coprire perdite inattese al loro verificarsi. L'effetto di mitigazione del rischio esercitato dalle future partecipazioni agli utili a carattere discrezionale non supera la somma delle riserve tecniche e delle imposte differite relative a tali partecipazioni.
+
+Ai fini del comma 2 il valore delle future partecipazioni agli utili a carattere discrezionale in circostanze avverse e' raffrontato al valore di tali partecipazioni in base alle ipotesi sottese al calcolo della migliore stima delle riserve tecniche.
+
+))
+
+## Art. 45-duodecies. — (( (Semplificazioni della formula standard) ))
+
+
+
+## Art. 45-terdecies. — (( (Scostamenti significativi dalle ipotesi sottese al calcolo della formula standard) ))
+
+((
+
+Qualora risulti inappropriato calcolare il Requisito Patrimoniale di Solvibilita' conformemente alla formula standard perche' il profilo di rischio dell'impresa si discosta significativamente dalle ipotesi sottese al calcolo della formula standard, l'IVASS puo' richiedere, con decisione motivata, all'impresa di sostituire un sottogruppo dei parametri utilizzati nel calcolo della formula standard con dei parametri specifici di tale impresa in sede di calcolo dei moduli del rischio di sottoscrizione per l'assicurazione vita, per l'assicurazione danni e per l'assicurazione malattia, ai sensi dell'articolo 45-sexies, comma 7.
+Tali parametri specifici sono calcolati in modo tale da assicurare che l'impresa ottemperi all'articolo 45-ter, commi 3 e 4.
+
+))
+
+## Art. 46. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - ((Sezione III  Modelli interni completi o parziali))
+
+## Art. 46-bis. — (Autorizzazione all'utilizzo dei modelli interni completi o parziali: disposizioni generali)
+
+L'impresa puo' essere autorizzata dall'IVASS a calcolare il Requisito Patrimoniale di Solvibilita' utilizzando un modello interno completo o uno o piu' modelli parziali, in coerenza con le disposizioni dell'Unione europea direttamente applicabili.
+
+Fatto salvo quanto previsto dal comma 2, l'impresa puo' applicare modelli parziali a tutta l'attivita' o solo ad uno o piu' settori di attivita' rilevanti.
+
+L'impresa allega alla richiesta di autorizzazione tutti i documenti necessari a comprovare che il modello interno soddisfi i requisiti di cui agli articoli 46-novies, 46-decies, 46-undecies, 46-duodecies, 46-terdecies, 46-quaterdecies.
+
+Se la richiesta di autorizzazione si riferisce ad un modello interno parziale, i requisiti di cui agli articoli 46-novies, 46-decies, 46-undecies, 46-duodecies, 46-terdecies, 46-quaterdecies sono adeguati all'applicazione limitata del modello.
+
+((5-bis. L'IVASS informa l'AEAP in merito alla richiesta di autorizzazione all'utilizzo o alla modifica di un modello interno.
+L'IVASS puo' chiedere all'AEAP assistenza tecnica per la decisione sulla domanda))
+
+L'IVASS rilascia l'autorizzazione di cui al comma 1 entro sei mesi dal ricevimento della richiesta completa della documentazione previo accertamento della adeguatezza dei sistemi di identificazione, misurazione, monitoraggio, gestione e segnalazione dei rischi dell'impresa ed in particolare della conformita' del modello interno ai requisiti di cui ai commi 4 e 5.
+
+In caso di diniego dell'autorizzazione all'utilizzo del modello interno, l'IVASS provvede con decisione motivata.
+
+A seguito del rilascio dell'autorizzazione all'utilizzo di un modello interno, di cui al comma 1, l'IVASS puo' richiedere all'impresa, con decisione motivata, di fornire una stima del Requisito Patrimoniale di Solvibilita' calcolato conformemente alla formula standard di cui, alla Sezione II del presente Capo.
+
+## Art. 46-ter. — (( (Autorizzazione all'utilizzo dei modelli interni parziali: disposizioni specifiche) ))
+
+((
+
+Nell'ambito del procedimento di valutazione della richiesta di autorizzazione all'utilizzo di un modello interno parziale che si applica, con riguardo ad un modulo di rischio specifico, soltanto a taluni sottomoduli o a taluni settori di attivita' dell'impresa o a parti di entrambi, l'IVASS puo' richiedere all'impresa di presentare un piano di transizione realistico per l'estensione dell'ambito di applicazione del modello.
+
+Il piano di transizione di cui al comma 2 indica le modalita' con cui l'impresa intende estendere l'ambito di applicazione del modello parziale di cui al comma 1 ad altri sottomoduli o settori di attivita' per garantire che il modello copra una parte predominante delle sue operazioni di assicurazione con riguardo a tale modulo di rischio specifico.
+
+))
+
+## Art. 46-quater. — (( (Politica per la modifica dei modelli interni completi e parziali) ))
+
+((
+
+L'impresa puo' modificare il modello interno conformemente alla politica approvata dall'IVASS nell'ambito del procedimento di autorizzazione del modello interno completo o parziale ai sensi dell'articolo 46-bis.
+
+La politica di cui al comma 1 comprende la specificazione delle modifiche minori e delle modifiche rilevanti da apportare al modello interno.
+
+Le modifiche rilevanti al modello interno e le modifiche della politica di cui al comma 1, sono soggette all'autorizzazione dell'IVASS, come previsto dall'articolo 46-bis.
+
+Le modifiche minori al modello interno non sono soggette all'autorizzazione dell'IVASS nella misura in cui sono conformi alla politica di cui al comma 1.
+
+))
+
+## Art. 46-quinquies. — (( (Responsabilita' del consiglio di amministrazione relativa ai modelli interni) ))
+
+((
+
+Il consiglio di amministrazione dell'impresa approva la richiesta di autorizzazione all'utilizzo del modello interno da inviare all'IVASS ai sensi dell'articolo 46-bis, nonche' la richiesta di autorizzazione di eventuali modifiche rilevanti da apportare successivamente a tale modello.
+
+Il consiglio di amministrazione pone in essere sistemi atti a garantire che il modello interno funzioni adeguatamente su base continuativa.
+
+))
+
+## Art. 46-sexies. — (( (Ritorno alla formula standard) ))
+
+((
+
+L'impresa che ha ottenuto l'autorizzazione all'utilizzo di un modello interno completo o parziale ai sensi dell'articolo 46-bis non ritorna a calcolare il Requisito Patrimoniale di Solvibilita' o una parte di esso in base alla formula standard secondo quanto previsto dalla Sezione II del presente Capo, salvo che sussistano circostanze debitamente motivate e previa autorizzazione dell'IVASS.
+
+))
+
+## Art. 46-septies. — (( (Non conformita' del modello interno) ))
+
+((
+
+L'impresa, autorizzata ad utilizzare un modello interno ai sensi dell'articolo 46-bis, che cessa di rispettare i requisiti di cui agli articoli 46-novies, 46-decies, 46-undecies, 46-duodecies, 46-terdecies, 46-quaterdecies, presenta tempestivamente all'IVASS un piano che preveda il ripristino entro un periodo di tempo ragionevole della conformita' o dimostra che l'effetto della non conformita' e' irrilevante.
+
+Qualora l'impresa non riesca ad attuare il piano di cui al comma 1, l'IVASS puo' imporre all'impresa di ritornare a calcolare il Requisito Patrimoniale di Solvibilita' conformemente alla formula standard di cui alla Sezione II del presente Capo.
+
+))
+
+## Art. 46-octies. — (( (Scostamenti significativi dalle ipotesi sottese alla formula standard) ))
+
+((
+
+L'IVASS, qualora sia inappropriato calcolare il Requisito Patrimoniale di Solvibilita' conformemente alla formula standard perche' il profilo di rischio dell'impresa si discosta significativamente dalle ipotesi sottostanti al calcolo della formula standard, puo' chiedere all'impresa, con decisione motivata, di utilizzare un modello interno per calcolare il Requisito Patrimoniale di Solvibilita' o i moduli di rischio rilevanti di quest'ultimo.
+
+))
+
+## Art. 46-novies. — (( (Prova dell'utilizzo) ))
+
+((
+
+L'impresa dimostra che la frequenza del calcolo del Requisito Patrimoniale di Solvibilita' tramite il modello interno e' coerente con la frequenza con la quale utilizza tale modello interno per le altre finalita' di cui al comma 1.
+
+Il consiglio di amministrazione garantisce la costante adeguatezza della struttura e del funzionamento del modello interno ed assicura che il modello interno continui a riflettere in maniera appropriata il profilo di rischio dell'impresa.
+
+))
+
+## Art. 46-decies. — (( (Standard di qualita' statistica) ))
+
+((
+
+L'impresa assicura che il modello interno, ed in particolare il calcolo della distribuzione di probabilita' prevista (probability distribution forecast) ad esso sottostante, sia conforme ai criteri di cui al presente articolo.
+
+L'impresa utilizza, ai fini del calcolo della distribuzione di probabilita' prevista, metodi basati su tecniche attuariali e statistiche adeguate, applicabili e pertinenti, nonche' coerenti con i metodi utilizzati per calcolare le riserve tecniche. I metodi per il calcolo della distribuzione di probabilita' prevista sono basati su informazioni attuali e credibili e su ipotesi realistiche.
+L'impresa giustifica all'IVASS, laddove richiesto, le ipotesi sottese al modello interno.
+
+L'impresa utilizza per il modello interno dati accurati, completi e adeguati ed aggiorna almeno annualmente le serie di dati utilizzati nel calcolo della distribuzione di probabilita' prevista.
+
+Indipendentemente dal metodo scelto per il calcolo della distribuzione di probabilita' prevista, l'impresa assicura che la capacita' del modello interno di classificare i rischi e' sufficiente a garantire che tale modello sia ampiamente utilizzato e svolga un ruolo importante nel sistema di governo societario, in particolare nel sistema di gestione dei rischi e nei processi decisionali nonche' nell'allocazione del capitale conformemente all'articolo 46-novies.
+
+Il modello interno copre tutti i rischi sostanziali ai quali l'impresa e' esposta ed almeno i rischi di cui all'articolo 45-ter, comma 5.
+
+Ai fini degli effetti di diversificazione, l'impresa puo' tenere conto nel proprio modello interno delle interdipendenze all'interno e tra le categorie di rischio, purche' l'IVASS giudichi adeguato il sistema utilizzato per misurare tali effetti di diversificazione.
+
+L'impresa puo' tenere pienamente conto dell'effetto delle tecniche di mitigazione del rischio nel proprio modello interno, nella misura in cui il rischio di credito e altri rischi derivanti dall'uso di tali tecniche di mitigazione del rischio siano adeguatamente riflessi nel proprio modello interno.
+
+L'impresa valuta accuratamente nel proprio modello interno i rischi particolari connessi alle garanzie finanziarie e alle opzioni contrattuali, laddove siano significativi. L'impresa valuta altresi' i rischi connessi alle opzioni esistenti per i contraenti per le imprese di assicurazione e riassicurazione. A tal fine l'impresa tiene conto dell'impatto che le future variazioni delle condizioni finanziarie e non finanziarie possono avere sull'esercizio di tali opzioni.
+
+L'impresa puo' tenere conto, nel proprio modello interno, delle future azioni gestionali che prevede ragionevolmente di attuare in circostanze specifiche, prendendo in considerazione anche i tempi necessari per l'attuazione di tali azioni.
+
+L'impresa tiene conto nel proprio modello interno di tutti i pagamenti che prevede di effettuare a favore di contraenti, beneficiari, assicurati e altri aventi diritto a prestazioni assicurative, indipendentemente dal fatto che questi pagamenti siano o meno contrattualmente garantiti.
+
+))
+
+## Art. 46-undecies. — (( (Standard di calibrazione) ))
+
+((
+
+L'impresa puo' utilizzare per il modello interno un periodo di tempo o una misura di rischio diversi da quelli di cui all'articolo 45-ter, commi 3 e 4, nella misura in cui le risultanze di tale modello interno possano essere utilizzate da tale impresa per calcolare il Requisito Patrimoniale di Solvibilita' in modo da fornire ai contraenti, ai beneficiari, agli assicurati e agli altri aventi diritto a prestazioni assicurative un livello di tutela equivalente a quello derivante dall'utilizzo dei parametri di cui all'articolo 45-ter.
+
+L'impresa, laddove sia possibile, deriva il Requisito Patrimoniale di Solvibilita' direttamente dalla distribuzione di probabilita' prevista prodotta dal proprio modello interno, utilizzando la misura del valore a rischio di cui all'articolo 45-ter, comma 4.
+
+Nel caso in cui l'impresa non possa derivare il Requisito Patrimoniale di Solvibilita' direttamente dalla distribuzione di probabilita' prevista prodotta dal proprio modello interno, l'IVASS puo' autorizzare l'uso di approssimazioni nel processo di calcolo del Requisito Patrimoniale di Solvibilita' nella misura in cui tale impresa possa dimostrare che i contraenti e gli assicurati beneficiano di un livello di tutela equivalente a quello di cui all'articolo 45-ter.
+
+L'IVASS puo' imporre all'impresa di applicare il modello interno a portafogli di riferimento rilevanti, utilizzando ipotesi basate su dati esterni anziche' interni, per verificare la calibrazione del modello interno e per controllare che le specifiche di tale modello siano in linea con la prassi di mercato generalmente accettata.
+
+))
+
+## Art. 46-duodecies. — (( (Attribuzione di utili e di perdite) ))
+
+((
+
+L'impresa esamina, almeno una volta all'anno, le cause e le fonti degli utili e delle perdite per ciascuno dei principali settori di attivita'.
+
+L'impresa dimostra le modalita' con cui la categorizzazione dei rischi adottata nel modello interno spieghi le cause e le fonti degli utili e delle perdite. La categorizzazione dei rischi e l'attribuzione degli utili e delle perdite riflettono il profilo di rischio dell'impresa.
+
+))
+
+## Art. 46-terdecies. — (( (Standard di convalida) ))
+
+((
+
+L'impresa adotta un ciclo regolare di convalida del proprio modello interno che include, con riferimento a tale modello, il monitoraggio del corretto funzionamento, il riesame della continua adeguatezza delle specifiche e il raffronto delle risultanze con i dati tratti dall'esperienza.
+
+L'impresa include nella procedura di convalida del modello interno un processo statistico efficace che consenta all'impresa medesima di dimostrare all'IVASS che i requisiti patrimoniali che risultano da tale modello sono appropriati.
+
+L'impresa utilizza metodi statistici che consentano di verificare l'appropriatezza della distribuzione di probabilita' prevista sia rispetto all'esperienza passata sia rispetto a tutti i nuovi dati rilevanti e alle nuove informazioni relativi a tale distribuzione di probabilita'.
+
+L'impresa include nella procedura di convalida del modello interno un'analisi della stabilita' di tale modello ed in particolare la verifica della sensibilita' delle risultanze a variazioni delle principali ipotesi sottostanti. Tale procedura di convalida include altresi' la valutazione dell'accuratezza, della completezza e dell'adeguatezza dei dati utilizzati nel modello interno.
+
+))
+
+## Art. 46-quaterdecies. — (( (Standard di documentazione) ))
+
+((
+
+L'impresa documenta la struttura e i dettagli operativi del modello interno utilizzato.
+
+L'impresa documenta ogni modifica rilevante apportata al proprio modello interno conformemente all'articolo 46-quater.
+
+))
+
+## Art. 46-quindecies. — (( (Modelli e dati esterni) ))
+
+
+
+## Art. 47. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - ((Sezione IV Requisito patrimoniale minimo))
+
+## Art. 47-bis. — (( (Requisito Patrimoniale Minimo: disposizioni generali) ))
+
+((
+
+L'impresa detiene fondi propri di base ammissibili in misura tale da coprire il Requisito Patrimoniale Minimo.
+
+))
+
+## Art. 47-ter. — (( (Calcolo del Requisito Patrimoniale Minimo) ))
+
+((
+
+Fatto salvo il comma 3, il Requisito Patrimoniale Minimo e' calcolato come funzione lineare di un insieme o sottoinsieme delle seguenti variabili: riserve tecniche, premi contabilizzati, capitale a rischio, imposte differite e costi amministrativi dell'impresa. Le variabili utilizzate sono calcolate al netto della riassicurazione.
+
+Fatto salvo quanto previsto al comma 1, lettera d), il Requisito Patrimoniale Minimo non puo' scendere al di sotto del venticinque per cento (25%) ne' superare il quarantacinque per cento (45%) del Requisito Patrimoniale di Solvibilita' dell'impresa, calcolato conformemente alle Sezioni II e III del presente Capo, ivi incluse le eventuali maggiorazioni del capitale imposte ai sensi dell'articolo 47-sexies.
+
+Fino al 31 dicembre 2017, l'IVASS ha la facolta' di esigere che l'impresa applichi le percentuali di cui al comma 3 solo al Requisito Patrimoniale di Solvibilita' calcolato conformemente alla Sezione II del presente Capo.
+
+L'impresa calcola il Requisito Patrimoniale Minimo almeno ogni tre mesi e comunica il risultato di tale calcolo all'IVASS.
+
+Ai fini del calcolo dei limiti di cui al comma 3 l'impresa non e' tenuta a calcolare il proprio requisito patrimoniale di solvibilita' su base trimestrale.
+
+Se il Requisito Patrimoniale Minimo di cui al comma 5 coincide con uno dei limiti di cui al comma 3, l'impresa fornisce all'IVASS le informazioni necessarie a comprendere adeguatamente le ragioni per cui si e' verificata tale coincidenza.
+
+))
+
+## - - ((Capo IVter Informativa e processo di controllo prudenziale))
+
+## Art. 47-quater. — (( (Requisiti dell'informativa all'IVASS ai fini della verifica delle condizioni di esercizio) ))
+
+((
+
+Fermo restando quanto previsto dall'articolo 190, commi 1-bis e 1-ter, l'IVASS determina, con regolamento, la natura, la portata e il formato delle informazioni di cui al comma 1 che l'impresa e' tenuta a presentare in periodi predefiniti, in caso di eventi predefiniti e in caso di indagini in merito alla situazione dell'impresa.
+
+Il comma 3 non si applica se le informazioni periodiche di vigilanza riguardino imprese di assicurazione o di riassicurazione facenti parte di un gruppo come definito dall'articolo 210 a meno che l'impresa non riesca a dimostrare all'IVASS che una frequenza superiore all'anno e' inopportuna data la natura, la portata e la complessita' dei rischi inerenti all'attivita' del gruppo.
+
+Limitazioni alle informazioni periodiche di vigilanza sono concesse solo alle imprese che non rappresentano piu' del 20 per cento del mercato nazionale rispettivamente vita e danni. La quota di mercato danni si basa su premi lordi contabilizzati e la quota vita sulle riserve tecniche lorde.
+
+L'IVASS, in sede di concessione delle limitazioni di cui ai commi 3 e 5, tiene conto delle dimensioni delle imprese dando priorita' alle imprese di dimensioni minori.
+
+L'IVASS non esonera dall'obbligo di fornire informazioni analitiche le imprese facenti parte di un gruppo ai sensi dell'articolo 210 a meno che l'impresa non dimostri all'IVASS che un'informativa di questo tipo e' inopportuna data la natura, la portata e la complessita' dei rischi inerenti all'attivita' del gruppo e tenuto conto dell'obiettivo della stabilita' finanziaria.
+
+Esoneri all'obbligo di fornire informazioni analitiche sono concessi solo alle imprese che non rappresentino piu' del 20 per cento del mercato nazionale rispettivamente vita e danni, ove la quota di mercato danni si basa su premi lordi contabilizzati e la quota vita sulle riserve tecniche lorde.
+
+L'IVASS, in sede di concessione delle deroghe di cui ai commi 7, 8 e 9, tiene conto delle dimensioni delle imprese dando priorita' alle imprese di dimensioni minori.
+
+))
+
+## Art. 47-quinquies. — (( (Processo di controllo prudenziale) ))
+
+((
+
+L'IVASS riesamina e valuta le strategie, i processi e le procedure di reportistica adottati dall'impresa per rispettare le norme del presente codice e delle disposizioni dell'ordinamento dell'Unione europea direttamente applicabili. Il processo di controllo prudenziale include la verifica dei requisiti qualitativi relativi al sistema di governo societario, la valutazione dei rischi a cui le imprese sono o potrebbero essere esposte e la valutazione della capacita' dell' impresa di valutare tali rischi tenuto conto del contesto in cui la stessa svolge l'attivita'.
+
+L'IVASS monitora con adeguati strumenti l'impresa al fine di rilevare qualsiasi deterioramento delle condizioni finanziarie e di verificare come l'impresa vi abbia posto rimedio.
+
+Nell'ambito del processo di controllo prudenziale l'IVASS, in aggiunta al calcolo del Requisito Patrimoniale di Solvibilita', ove appropriato puo' utilizzare gli strumenti quantitativi necessari a consentire la valutazione della capacita' delle imprese di far fronte a possibili eventi o cambiamenti futuri delle condizioni economiche che potrebbero avere effetti negativi sulla loro situazione finanziaria globale. L'IVASS puo' imporre all'impresa di attuare verifiche o analisi corrispondenti.
+
+L'IVASS, in caso di deficienze o carenze individuate nel quadro del processo di controllo prudenziale, adotta le misure che ritiene piu' appropriate tra quelle previste nei Titoli XIV, XVI e XVIII.
+
+Il processo di controllo prudenziale si svolge periodicamente.
+L'IVASS stabilisce con regolamento la frequenza minima e l'ambito del processo di controllo prudenziale in funzione della natura, della portata e della complessita' delle attivita' dell'impresa.
+
+))
+
+## Art. 47-sexies. — (( (Maggiorazione del capitale) ))
+
+((
+
+Nei casi di cui al comma 1, lettere a) e b), la maggiorazione del capitale e' calcolata in modo tale da garantire che l'impresa rispetti l'articolo 45-ter, commi 3 e 4.
+
+Nel caso di cui al comma 1, lettera c), la maggiorazione del capitale e' commisurata ai rischi sostanziali imputabili alle carenze che hanno indotto l'IVASS ad imporre tale maggiorazione.
+
+Nei casi di cui al comma 1, lettera d), la maggiorazione del capitale e' commisurata ai rischi sostanziali legati agli scostamenti.
+
+Nei casi di cui al comma 1, lettere b) e c), l'IVASS verifica che l'impresa adotti ogni iniziativa necessaria a rimediare alle carenze che hanno determinato l'imposizione della maggiorazione del capitale.
+
+L'IVASS riesamina, almeno annualmente, l'imposizione della maggiorazione del capitale e revoca tale imposizione nel caso in cui l'impresa abbia sanato le carenze riscontrate.
+
+Il Requisito Patrimoniale di Solvibilita' comprendente la maggiorazione del capitale imposta sostituisce il Requisito Patrimoniale di Solvibilita' inadeguato.
+
+Fermo quanto disposto al comma 7, ai fini del calcolo del margine di rischio di cui all'articolo 36-ter, commi 9, 10 e 11, il Requisito Patrimoniale di Solvibilita' non include la maggiorazione del capitale imposta nel caso di cui al comma 1, lettera c).
+
+L'IVASS con regolamento, detta disposizioni per l'applicazione delle maggiorazioni di capitale di cui al presente articolo.
+
+))
+
+## Art. 47-septies. — (( (Relazione sulla solvibilita' e sulla condizione finanziaria:
+ contenuto) ))
+
+((
+
+L'impresa, tenuto conto di quanto previsto all'articolo 190, commi 1-bis e 1-ter, pubblica annualmente una relazione sulla propria solvibilita' e condizione finanziaria e la trasmette all'IVASS congiuntamente alle informazioni di cui all'articolo 47-quater, comma 1.
+
+Quando si applica l'aggiustamento di congruita' di cui all'articolo 36-quinquies, la descrizione di cui al comma 2, lettera d), riguarda, oltre all'aggiustamento, anche il portafoglio degli impegni e gli attivi dedicati cui l'aggiustamento stesso si applica nonche' la quantificazione dell'impatto dell'azzeramento dell'aggiustamento di congruita' sulla situazione finanziaria dell'impresa. La descrizione di cui al comma 2, lettera d), indica anche se l'impresa utilizza l'aggiustamento per la volatilita' di cui all'articolo 36-sexies e quantifica l'impatto dell'azzeramento dell'aggiustamento per la volatilita' sulla situazione finanziaria dell'impresa.
+
+La descrizione di cui al comma 2, lettera e), numero 1), comprende un'analisi relativa ad ogni cambiamento significativo rispetto al precedente periodo oggetto della relazione e l'illustrazione di ogni variazione significativa rispetto al valore di tali elementi nel bilancio, nonche' una breve descrizione della trasferibilita' del capitale.
+
+Nella pubblicazione del Requisito Patrimoniale di Solvibilita' di cui al comma 2, lettera e), numero 2), sono indicati separatamente l'importo calcolato secondo quanto previsto dal Titolo III, Capo IV-bis, Sezione II e Sezione III, e l'eventuale importo maggiorato del capitale richiesto dall'IVASS ai sensi dell'articolo 47-sexies o l'impatto dei parametri specifici richiesti dall'IVASS all'impresa ai sensi dell'articolo 45-terdecies, congiuntamente ad una breve indicazione delle motivazioni fornite dall'IVASS.
+
+La pubblicazione di cui al comma 2, lettera e) numero 2), e' accompagnata, ove applicabile, dall'indicazione che il Requisito Patrimoniale di Solvibilita' e' in corso di valutazione da parte dell'IVASS.
+
+L'IVASS determina, con regolamento, gli elementi della relazione di cui al comma 1 che sono corredati dalla relazione del revisore legale o della societa' di revisione legale.
+
+))
+
+## Art. 47-octies. — (( (Relazione sulla solvibilita' e sulla condizione finanziaria: principi applicabili) ))
+
+((
+
+Nel caso di cui al comma 1, l'impresa dichiara nella relazione sulla solvibilita' e sulla condizione finanziaria l'esonero dall'obbligo di pubblicazione e le relative motivazioni.
+
+L'IVASS autorizza l'impresa ad utilizzare o a fare riferimento alle informazioni pubblicate in adempimento di altri obblighi di legge o regolamentari, se tali informazioni sono di natura e portata equivalenti a quelle richieste dall'articolo 47-septies.
+
+I commi 1 e 2 non si applicano alle informazioni di cui all'articolo 47-septies, comma 2, lettera e).
+
+L'IVASS con regolamento determina modalita', termini e contenuti della relazione di solvibilita' e sulla condizione finanziaria.
+
+))
+
+## Art. 47-novies. — (( (Relazione sulla solvibilita' e sulla condizione finanziaria: aggiornamenti e informazioni facoltative aggiuntive) ))
+
+((
+
+Nel caso si verifichino circostanze rilevanti che abbiano un impatto significativo sulle informazioni pubblicate ai sensi degli articoli 47-septies e 47-octies, l'impresa pubblica appropriate informazioni sulla natura e sugli effetti di tali circostanze.
+
+Nel caso di cui al comma 2, lettera a), l'IVASS richiede all'impresa di pubblicare immediatamente l'importo corrispondente all'inosservanza del Requisito Patrimoniale Minimo, congiuntamente ad una illustrazione delle relative cause e dei relativi effetti per l'impresa, incluse le eventuali misure adottate per porvi rimedio.
+Quando, nonostante il piano di finanziamento a breve termine considerato inizialmente realistico, il problema dell'inosservanza del Requisito Patrimoniale Minimo non e' stato risolto a distanza di tre mesi dal rilevamento, l'impresa ne da' comunicazione alla fine di tale periodo, insieme ad una spiegazione della sua origine e delle sue conseguenze, comprese eventuali altre misure adottate per porvi rimedio, nonche' le eventuali altre misure correttive previste.
+
+Nel caso di cui al comma 2, lettera b), l'IVASS richiede all'impresa di pubblicare immediatamente l'importo corrispondente all'inosservanza, congiuntamente ad una illustrazione delle cause e dei relativi effetti per l'impresa, incluse le eventuali misure adottate per porvi rimedio. Quando, nonostante il piano di risanamento considerato inizialmente realistico, il problema dell'inosservanza del Requisito Patrimoniale di Solvibilita' non e' stato risolto a distanza di sei mesi dal rilevamento, l'impresa ne da' comunicazione alla fine di tale periodo, insieme ad una spiegazione della sua origine e delle sue conseguenze, comprese eventuali altre misure per porvi rimedio, nonche' le eventuali altre misure correttive.
+
+L'impresa puo' pubblicare ogni informazione anche di natura esplicativa relativa alla propria solvibilita' e condizione finanziaria che non sia gia' soggetta all'obbligo di pubblicazione ai sensi degli articoli 47-septies e 47-octies e dei commi 1, 2, 3 e 4 del presente articolo.
+
+))
+
+## Art. 47-decies. — (( (Approvazione della relazione sulla solvibilita' e condizione finanziaria) ))
+
+((
+
+La relazione relativa alla solvibilita' e alla condizione finanziaria e' soggetta all'approvazione del consiglio di amministrazione ed e' pubblicata solo dopo tale approvazione.
+
+))
+
+## Art. 47-undecies. — (( (Informativa all'AEAP) ))
+
+((
+
+))
+
+## - - ((Capo IVquater Imprese di assicurazione che operano come investitori istituzionali))
+
+## Art. 47-duodecies. — (( (Trasparenza degli investitori istituzionali). ))
+
+((
+
+L'impresa di cui all'articolo 124-quater, comma 1, lettera b), n. 1) del decreto legislativo 24 febbraio 1998, n. 58, osserva le disposizioni della Parte IV, Titolo III, Capo II, Sezione I-ter del predetto decreto legislativo, in tema di trasparenza degli investitori istituzionali.
+
+L'IVASS detta disposizioni di attuazione del comma 1, in conformita' a quanto previsto dall'articolo 124-novies, comma 3, del decreto legislativo 24 febbraio 1998, n. 58.
+
+))
+
+## - - Capo V Imprese aventi la sede legale in uno stato terzo
+
+## Art. 48. — (Disposizioni applicabili alle imprese aventi sede legale in uno Stato terzo)
+
+La sede secondaria, insediata nel territorio della Repubblica dall'impresa di assicurazione ((di uno Stato terzo)), e' soggetta alle disposizioni di vigilanza di cui al presente Capo.
+
+L'IVASS esercita i poteri di cui agli articoli 188, 189, 190, 190-bis, comma 1, e 191 anche nei confronti della sede secondaria, insediata nel territorio della Repubblica dall'impresa di assicurazione di un Paese terzo.
+
+L'IVASS determina con regolamento le disposizioni applicabili alle sedi secondarie di cui al comma 1, anche con riferimento ai requisiti organizzativi e alle condizioni di esercizio ivi inclusi quelli applicabili alle sedi secondarie autorizzate ad esercitare congiuntamente i rami vita ed i rami infortuni e malattia. Si applicano gli articoli 30-octies, 30-novies, 32, 33, 35, 35-bis e 35-ter.
+
+## Art. 48-bis. — (( (Bilancio, registri e scritture contabili) ))
+
+((
+
+La sede secondaria, insediata nel territorio della Repubblica dall'impresa di assicurazione di un Paese terzo, e' soggetta alle disposizioni in materia di registri, bilancio e scritture contabili di cui al Titolo VIII.
+
+))
+
+## Art. 49. — (( (Riserve tecniche) ))
+
+((
+
+L'impresa di assicurazione di un Paese terzo rispetta, per gli impegni di assicurazione e di riassicurazione compresi nel portafoglio della sede secondaria, le disposizioni relative alla disciplina delle riserve tecniche delle imprese con sede legale nella Repubblica, di cui al Capo II, del presente Titolo.
+
+L'impresa di cui al comma 1 valuta le attivita' e le passivita' della sede secondaria conformemente all'articolo 35-quater, determina i fondi propri della sede secondaria conformemente alle disposizioni di cui alle Sezioni I e II, Capo IV, del presente Titolo e investe in attivita' conformemente alle disposizioni di cui agli articoli 37-ter, commi 1, 2, 3, 5 e 6, 38, 41 e 42.
+
+L'IVASS puo' richiedere che gli attivi a copertura delle riserve tecniche siano localizzati nel territorio della Repubblica, ove cio' sia ritenuto necessario per la salvaguardia degli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.
+
+))
+
+## Art. 50. — (( (Calcolo del Requisito Patrimoniale di solvibilita' e del Requisito Patrimoniale Minimo) ))
+
+((
+
+L'impresa di assicurazione di un Paese terzo dispone, per la sede secondaria, di un importo di fondi propri ammissibili, costituito dagli elementi di cui all'articolo 44-decies, comma 3.
+
+L'impresa di cui al comma 1 calcola il Requisito Patrimoniale di Solvibilita' e il Requisito Patrimoniale Minimo conformemente alle disposizioni di cui al Capo IV-bis, con riguardo alle operazioni realizzate dalla sede secondaria.
+
+L'importo ammissibile dei fondi propri di base richiesti a copertura del Requisito Patrimoniale Minimo e il minimo assoluto di tale Requisito Patrimoniale minimo sono costituiti in conformita' all'articolo 44-decies, comma 4. L'importo ammissibile dei fondi propri di base non puo' essere inferiore alla meta' del minimo assoluto previsto dall'articolo 47-ter, comma 1, lettera d).
+
+I fondi propri di base ammissibili a copertura del Requisito Patrimoniale Minimo includono la cauzione depositata in conformita' dell'articolo 28, comma 5.
+
+Le attivita' a copertura del Requisito Patrimoniale di Solvibilita' sono localizzate, fino a concorrenza dell'ammontare del Requisito Patrimoniale Minimo, nel territorio della Repubblica, mentre per l'eccedenza possono essere localizzate nel territorio di altri Stati membri.
+
+Le disposizioni dei commi 1 e 1-bis non si applicano all'impresa autorizzata ad operare anche in altri Stati membri, che sia soggetta a vigilanza globale di solvibilita' esercitata dalla autorita' di controllo di uno di tali Stati ai sensi dell'articolo 51.
+
+))
+
+## Art. 51. — (( (Agevolazioni per l'impresa operante in piu' Stati membri) ))
+
+((
+
+L'istanza di cui al comma 1 e' presentata all'IVASS ed alle autorita' di vigilanza degli altri Stati membri interessati.
+
+Le agevolazioni possono essere richieste anche dall'impresa che, dopo aver ottenuto l'autorizzazione ad operare nel territorio della Repubblica, insedia una sede secondaria anche nel territorio di un altro Stato membro.
+
+Nella domanda l'impresa deve indicare l'autorita' alla quale chiede che venga demandato il controllo di solvibilita' per il complesso delle attivita' effettuate dalle sedi secondarie stabilite negli Stati membri. La domanda deve essere motivata. In caso di accoglimento l'impresa deve costituire la cauzione prevista dall'articolo 28, comma 5, nello Stato membro alla cui autorita' e' demandato il controllo della solvibilita' per l'insieme delle attivita' esercitate nel territorio dell'Unione europea.
+
+Le agevolazioni possono essere concesse soltanto congiuntamente e con l'accordo di tutte le autorita' degli Stati membri interessati.
+Esse hanno effetto dal momento in cui l'autorita' prescelta per il controllo della solvibilita' globale, avuta notizia dell'accordo di tutti gli Stati membri interessati, comunica alle altre autorita' di essere disposta ad esercitare la vigilanza. Le agevolazioni vengono meno in tutti gli Stati membri interessati nel caso in cui siano soppresse ad iniziativa di uno o piu' Stati membri interessati.
+
+L'impresa alla quale sono state concesse le agevolazioni calcola il Requisito Patrimoniale di Solvibilita' avendo riguardo all'attivita' complessiva svolta dall'insieme delle sedi secondarie stabilite negli Stati membri.
+
+L'IVASS collabora con le autorita' di vigilanza degli altri Stati membri al fine di scambiare le informazioni necessarie per il controllo della solvibilita' globale.
+
+))
+
+## - - Titolo IV ((IMPRESE LOCALI E PARTICOLARI MUTUE ASSICURATRICI)) ((Capo I Disposizioni generali))
+
+## Art. 51-bis. — (( (Disposizioni relative a imprese locali e a particolari mutue assicuratrici) ))
+
+((
+
+Le imprese di cui al comma 1, lettera a), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Imprese locali di cui al Titolo IV, Capo II, del Codice delle Assicurazioni private. 
+ 3. Le imprese di cui al comma 1, lettera b), sono iscritte nella sezione dell'albo delle imprese di assicurazione, rubricata «Particolari mutue assicuratrici di cui al Titolo IV, Capo III, del Codice delle Assicurazioni private». 
+ 4. L'IVASS da' pronta comunicazione all'impresa interessata dell'iscrizione nell'albo, ai sensi dei commi 2 e 3. Le imprese indicano negli atti e nella corrispondenza l'iscrizione all'albo.
+
+))
+
+## - - ((Capo II Imprese di assicurazione locali))
+
+## Art. 51-ter. — (( (Nozione di impresa di assicurazione locale) ))
+
+((
+
+))
+
+## Art. 51-quater. — (( (Regime applicabile alle imprese di assicurazione locali) ))
+
+((
+
+L'IVASS individua con regolamento le condizioni di accesso, di esercizio e le altre disposizioni del presente codice che si applicano alle imprese locali di cui all'articolo 51-ter. In ogni caso si applicano gli articoli 12 e 14, comma 3.
+
+Il regime di cui al comma 1 si applica altresi' alle imprese autorizzate ai sensi dell'articolo 13 che non hanno superato per i tre esercizi consecutivi precedenti e verosimilmente non supereranno per ulteriori cinque esercizi consecutivi successivi gli importi di cui all'articolo 51-ter. L'IVASS determina con regolamento la procedura per l'accertamento dei presupposti per l'applicazione del regime di cui al comma 1.
+
+Il regime di cui al comma 1 cessa di applicarsi, a decorrere dal quarto esercizio, qualora l'impresa abbia superato per tre esercizi consecutivi gli importi di cui alle lettere a), b), c), e) dell'articolo 51-ter. L'IVASS determina con regolamento la procedura di accertamento del mancato rispetto delle condizioni di cui all'articolo 51-ter e di conseguente presentazione dell'istanza di autorizzazione, ai sensi dell'articolo 13, da inviare entro trenta giorni dall'approvazione del bilancio relativo al terzo esercizio.
+
+))
+
+## - - ((Capo III Particolari mutue assicuratrici))
+
+## Art. 52. — ((Particolari mutue assicuratrici))
+
+((
+
+La mutua assicuratrice, costituita ai sensi dell'articolo 2546 del codice civile, e' qualificata particolare mutua assicuratrice ai sensi del presente Capo quando ricorrono le condizioni rispettivamente stabilite nei commi 2 e 3. Tale impresa puo' esercitare l'attivita' assicurativa nei rami vita o nei rami danni e limitatamente al territorio della Repubblica, senza che trovi applicazione la disciplina sui requisiti per l'accesso di cui al capo II del titolo II. Le quote di partecipazione devono essere rappresentate da azioni.
+
+))
+
+((La mutua assicuratrice)), ai fini dell'esercizio dei rami vita, deve prevedere nello statuto la possibilita' di esigere contributi supplementari, o di ridurre le prestazioni, e riscuotere contributi annui non superiori ad euro cinquecentomila.
+
+((La mutua assicuratrice)), ai fini dell'esercizio dei rami danni, deve prevedere nello statuto la possibilita' di esigere contributi supplementari e riscuotere contributi annui non superiori ad un milione di euro, provenienti per almeno la meta' dai soci.
+
+((
+
+Se gli importi di cui ai commi 2 e 3 sono superati durante tre esercizi consecutivi, a decorrere dal quarto esercizio l'impresa cessa di essere qualificata particolare mutua assicuratrice, non e' piu' soggetta alle disposizioni del presente Capo ed e' tenuta a richiedere l'autorizzazione ai sensi dell'articolo 51-quater o ai sensi dell'articolo 13, in caso di superamento degli importi di cui all'articolo 51-ter, entro trenta giorni dall'approvazione del bilancio relativo al terzo esercizio nel quale gli importi sono stati superati.
+
+))
+
+## Art. 53. — Attivita' esercitabili
+
+L'impresa di cui all'articolo 52, comma 2, puo' esercitare esclusivamente i rami I e II di cui all'articolo 2, comma 1.
+
+L'impresa di cui all'articolo 52, comma 3, non puo' esercitare i rami 10, 11, 12, 13, 14, 15, 17 e 18 di cui all'articolo 2, comma 3.
+
+((Le particolari mutue assicuratrici)) limitano l'oggetto sociale all'esercizio dei soli rami vita o dei soli rami danni ed alle operazioni connesse o strumentali. Si applica l'articolo 12.
+
+## Art. 54. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 55. — Autorizzazione
+
+L'((IVASS)) o, nel caso delle regioni a statuto speciale, l'organo regionale a cio' preposto, fermo quanto disposto ((all'articolo 347, commi 3 e 4,)) autorizzano le mutue assicuratrici di cui all'articolo 52.
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+L'((IVASS)), con regolamento, determina, salve le competenze delle regioni a statuto speciale, il procedimento per il rilascio, l'estensione ed il diniego dell'autorizzazione. Si applica l'articolo 14, comma 3.
+
+## Art. 56. — ((Regime applicabile alle particolari mutue assicuratrici))
+
+((
+
+))
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+((Alle particolari mutue assicuratrici di cui al presente Capo)) non si applicano gli articoli 2346, sesto comma, 2349, secondo comma, 2519, secondo comma, 2526, 2541, 2543, 2544, secondo comma, primo periodo, 2545-quater, 2545-quinquies, 2545-octies, secondo comma, 2545-undecies, terzo comma, 2545-terdecies, 2545-quinquies-decies, 2545-sexiesdecies, 2545-septiesdecies, 2545-octiesdecies del codice civile.
+
+## - - Titolo V ACCESSO ALL'ATTIVITA' DI RIASSICURAZIONE Capo I Disposizioni generali
+
+## Art. 57. — Attivita' di riassicurazione
+
+((
+
+L'esercizio della sola attivita' riassicurativa e' riservata alle imprese di riassicurazione.
+
+))
+
+((L'impresa di riassicurazione limita)) l'oggetto sociale all'esercizio della riassicurazione ed alle operazioni connesse o strumentali. Rientrano in tali operazioni la funzione di impresa di partecipazione e le attivita' svolte nell'ambito del settore finanziario ai sensi dell'articolo 1, comma 1, lettera m), del decreto legislativo 30 maggio 2005, n. 142.
+
+E' vietata la costituzione nel territorio della Repubblica di societa' che hanno per oggetto esclusivo l'esercizio all'estero dell'attivita' riassicurativa.
+
+L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicurazione rimane soggetta alla disciplina di cui al titolo II. PERIODO SOPPRESSO D.LGS. 29 FEBBRAIO 2008, N. 56.
+
+## Art. 57-bis. — (Societa' veicolo)
+
+L'esercizio dell'attivita' nel territorio della Repubblica da parte di societa' veicolo aventi sede legale nel territorio della Repubblica e' subordinato alla preventiva autorizzazione dell'((IVASS)).
+
+## - - Capo II Imprese di riassicurazione aventi la sede legale nel territorio della Repubblica
+
+## Art. 58. — Autorizzazione
+
+L'impresa che ha la sede legale nel territorio della Repubblica e che intende esercitare esclusivamente l'attivita' di riassicurazione e' autorizzata dall'((IVASS)), con provvedimento da pubblicare nel Bollettino, alle condizioni previste dall'articolo 59.
+
+L'autorizzazione e' rilasciata per uno o piu' dei rami vita o per uno o piu' dei rami danni oppure, congiuntamente, per uno o piu' dei rami vita e danni.
+
+((
+
+L'autorizzazione e' valida per il territorio della Repubblica, per quello degli altri Stati membri, nel rispetto delle disposizioni relative alle condizioni di accesso in regime di stabilimento o di prestazione di servizi di cui agli articoli 59-ter e 59-quater, nonche' per quello degli Stati terzi di cui all'articolo 59-quinquies, nel rispetto della legislazione di tali Stati.
+
+))
+
+## Art. 59. — Requisiti e procedura
+
+L'IVASS nega l'autorizzazione quando dalla verifica delle condizioni indicate nel comma 1 non risulti garantita la sana e prudente gestione, senza che si possa aver riguardo alla struttura e all'andamento dei mercati interessati. Il provvedimento e' specificatamente e adeguatamente motivato ed e' comunicato all'impresa interessata entro novanta giorni dalla presentazione della domanda di autorizzazione completa dei documenti richiesti.
+
+((2-bis. Qualora il programma di attivita' indichi che una parte rilevante dell'attivita' dell'impresa sara' esercitata in regime di stabilimento o di libera prestazione dei servizi in altro Stato membro e che tale attivita' e' potenzialmente rilevante per il mercato dello Stato membro ospitante, l'IVASS, con adeguato livello di dettaglio, informa l'AEAP e l'autorita' di vigilanza dello Stato membro interessato in merito))
+
+Non si puo' dare corso al procedimento per l'iscrizione nel registro delle imprese se non consti l'autorizzazione di cui all'articolo 58.
+
+L'IVASS, verificata l'iscrizione nel registro delle imprese, iscrive in apposita sezione dell'albo le imprese di riassicurazione autorizzate in Italia e ne da' pronta comunicazione all'impresa interessata. L'impresa indica negli atti e nella corrispondenza l'iscrizione all'albo.
+
+L'IVASS determina, con regolamento, la procedura di autorizzazione e le forme di pubblicita' dell'albo.
+
+L'IVASS comunica all'AEAP ogni autorizzazione rilasciata ai fini della pubblicazione nell'elenco dalla stessa tenuto, con l'indicazione: 
+ 1) dei rami e dei rischi per i quali l'impresa e' autorizzata; 
+ 2) dell'eventuale abilitazione ad operare negli altri Stati membri in stabilimento o in libera prestazione di servizi.
+
+## Art. 59-bis. — (Estensione ad altri rami)
+
+L'impresa gia' autorizzata all'esercizio dell'attivita' riassicurativa in uno o piu' rami vita o danni che intende estendere l'attivita' ad altri rami indicati nell'articolo 2, commi 1 o 3, deve essere preventivamente autorizzata dall'((IVASS)). Si applica l'articolo 59, comma 2.
+
+((
+
+Per ottenere l'estensione dell'autorizzazione l'impresa da' prova di essere in regola con le disposizioni relative alle riserve tecniche, al Requisito Patrimoniale di Solvibilita' ed al Requisito Patrimoniale Minimo.
+
+))
+
+((
+
+Per ottenere l'estensione dell'autorizzazione, l'impresa deve altresi' presentare un programma di attivita' conforme all'articolo 59, comma 1, lettera d).
+
+))
+
+L'((IVASS)) determina, con regolamento, la procedura per l'estensione dell'autorizzazione ad altri rami e il contenuto del programma di attivita'.
+
+L'impresa non puo' estendere l'attivita' prima dell'adozione del provvedimento che aggiorna l'albo, del quale e' data pronta comunicazione all'impresa medesima.
+
+((
+
+Il provvedimento di estensione e' comunicato all'AEAP in conformita' all'articolo 59, comma 5-bis.
+
+))
+
+## Art. 59-ter. — (Attivita' in regime di stabilimento in un altro Stato membro)
+
+L'((IVASS)), entro trenta giorni dalla data di ricezione della comunicazione di cui al comma 1, ove non ravvisi la sussistenza di elementi ostativi, comunica all'autorita' di vigilanza competente dello Stato membro interessato l'intenzione dell'impresa di istituire una succursale in tale Stato, trasmettendo le informazioni previste dalle disposizioni dell'ordinamento comunitario.
+
+L'((IVASS)) informa contestualmente l'impresa dell'avvenuta comunicazione ai sensi del comma 2.
+
+L'impresa, qualora intenda modificare il contenuto della comunicazione di cui al comma 1, ne informa preventivamente l'((IVASS)). L'((IVASS)) valuta la rilevanza delle informazioni ricevute in relazione alla permanenza dei presupposti che hanno giustificato la comunicazione di cui al comma 2 e informa l'autorita' competente dello Stato membro interessato secondo le disposizioni previste dall'ordinamento comunitario.
+
+## Art. 59-quater. — (Attivita' in regime di prestazione di servizi in un altro Stato membro)
+
+L'impresa di riassicurazione, qualora intenda effettuare per la prima volta attivita' in regime di liberta' di prestazione di servizi in un altro Stato membro, ne da' comunicazione all'((IVASS)). Insieme alla comunicazione l'impresa trasmette un programma nel quale sono indicati gli stabilimenti dai quali l'impresa si propone di svolgere l'attivita', gli Stati membri nei quali intende operare, il tipo di attivita' che intende esercitare.
+
+## Art. 59-quinquies. — (Attivita' in uno Stato terzo)
+
+L'impresa di riassicurazione, qualora intenda istituire una sede secondaria in uno Stato terzo, ne da' preventiva comunicazione all'((IVASS)).
+
+L'((IVASS)) vieta all'impresa di procedere all'insediamento della sede secondaria, qualora rilevi che la situazione finanziaria non sia sufficientemente stabile ovvero ritenga inadeguata, sulla base del programma di attivita' presentato, la struttura organizzativa della sede secondaria.
+
+All'impresa che intende effettuare operazioni in regime di liberta' di prestazione di servizi in uno Stato terzo si applica l'articolo 59-quater.
+
+## - - Capo III Imprese di riassicurazione aventi la sede legale in un altro stato membro o in uno stato terzo
+
+## Art. 60. — (Attivita' in regime di stabilimento delle imprese aventi sede legale in un altro Stato membro)
+
+L'accesso all'attivita' riassicurativa in regime di stabilimento nel territorio della Repubblica, da parte di un'impresa avente la sede legale in un altro Stato membro, e' subordinato alla comunicazione all'((IVASS)), da parte dell'autorita' di vigilanza di tale Stato delle informazioni e degli adempimenti previsti dalle disposizioni dell'ordinamento comunitario.
+
+Il rappresentante generale della sede secondaria deve essere munito di un mandato comprendente espressamente anche i poteri di rappresentare l'impresa in giudizio e davanti a tutte le autorita' della Repubblica, nonche' quello di concludere e sottoscrivere i contratti e gli altri atti relativi alle attivita' esercitate nel territorio della Repubblica. Il rappresentante generale deve avere domicilio all'indirizzo della sede secondaria. Qualora la rappresentanza sia conferita ad una persona giuridica, questa deve avere la sede legale nel territorio della Repubblica e deve a sua volta designare come proprio rappresentante una persona fisica che abbia domicilio in Italia e che sia munita di un mandato comprendente i medesimi poteri.
+
+L'impresa puo' insediare la sede secondaria e dare inizio all'attivita' nel territorio della Repubblica dal momento in cui riceve notizia dall'autorita' di vigilanza dello Stato di origine dell'avvenuta trasmissione all'((IVASS)) della comunicazione di cui al comma 1.
+
+L'autorita' competente dello Stato membro di origine informa l'((IVASS)), secondo le disposizioni previste dall'ordinamento comunitario, di ogni modifica del contenuto della comunicazione di cui al comma 1.
+
+## Art. 60-bis. — (Attivita' in regime di stabilimento delle imprese aventi sede legale in uno Stato terzo)
+
+L'impresa avente sede legale in uno Stato terzo, qualora intenda esercitare nel territorio della Repubblica l'attivita' riassicurativa in regime di stabilimento, e' preventivamente autorizzata dall'((IVASS)) con provvedimento pubblicato nel Bollettino.
+
+L'autorizzazione e' efficace limitatamente al territorio nazionale, salva l'applicazione delle disposizioni sulle condizioni per l'accesso all'attivita' all'estero in regime di liberta' di prestazione di servizi.
+
+L'impresa di cui al comma 1 deve insediare nel territorio della Repubblica una sede secondaria e nominare un rappresentante generale che abbia residenza in Italia e che sia fornito dei poteri previsti dall'articolo 60, comma 2, nonche' del potere di compiere le operazioni necessarie per la costituzione ed il vincolo del deposito cauzionale ((previsto dall'articolo 28, comma 5)). Il rappresentante generale o, se diversa, la persona preposta alla gestione effettiva della sede secondaria deve essere in possesso, per la durata dell'incarico, dei requisiti di onorabilita' e professionalita' previsti dall'articolo 76.
+
+L'((IVASS)) determina, con regolamento, nel rispetto di condizioni equivalenti a quelle di cui all'articolo 59, comma 1, i requisiti e la procedura per il rilascio dell'autorizzazione iniziale. Si applica l'articolo 59, commi 2 e 3.
+
+L'((IVASS)), verificata l'iscrizione nel registro delle imprese, iscrive l'impresa in apposita sezione dell'albo, dandone pronta informazione alla stessa. Le imprese indicano negli atti e nella corrispondenza l'iscrizione all'albo.
+
+Con il regolamento di cui al comma 4 sono disciplinati i procedimenti e le condizioni di estensione dell'attivita' ad altri rami e di diniego dell'autorizzazione. Si applica l'articolo 59-bis.
+
+## Art. 61. — Attivita' in regime di prestazione di servizi
+
+E' consentito, senza necessita' di autorizzazione, l'accesso e l'esercizio dell'attivita' di riassicurazione in regime di libera prestazione di servizi nel territorio della Repubblica da parte delle imprese aventi la sede legale in un altro Stato membro o in uno Stato terzo.
+
+Ai fini dell'esercizio dell'attivita' riassicurativa in regime di liberta' di prestazione di servizi nel territorio della Repubblica si applica ((l'articolo 23, comma 1-bis)).
+
+## - - Titolo VI ESERCIZIO DELL'ATTIVITA' DI RIASSICURAZIONE Capo I Imprese di riassicurazione aventi la sede legale nel territorio della Repubblica
+
+## Art. 62. — Esercizio dell'attivita' di riassicurazione
+
+((
+
+L'IVASS determina, con regolamento, le disposizioni relative alle condizioni di esercizio dell'attivita' di riassicurazione nel rispetto dei principi generali previsti dagli articoli 63, 63-bis, 64, 64-bis, 65, 65-bis, 66-bis, 66-quater, 66-sexies, 66-sexies.1 e 66-septies, avuto riguardo all'esigenza di sana e prudente gestione dell'impresa.
+
+))
+
+L'impresa di assicurazione che esercita congiuntamente l'attivita' di riassicurazione rimane soggetta alla disciplina di cui al titolo III. PERIODO SOPPRESSO D.LGS. 29 FEBBRAIO 2008, N. 56.
+
+## Art. 63. — (( (Responsabilita' del consiglio di amministrazione e sistema di governo societario) ))
+
+((
+
+L'impresa di riassicurazione si dota di un sistema di governo societario nel rispetto delle disposizioni di cui al Titolo III, Capo I, Sezioni I e II.
+
+I soggetti che svolgono funzioni di amministrazione, direzione e controllo nonche' funzioni fondamentali all'interno dell'impresa possiedono i requisiti di professionalita', onorabilita' ed indipendenza stabiliti dall'IVASS ai sensi dell'articolo 76.
+
+))
+
+## Art. 63-bis. — (( (Valutazione delle attivita' e passivita') ))
+
+((
+
+L'impresa di riassicurazione valuta le proprie attivita' e passivita' nel rispetto dell'articolo 35-quater.
+
+))
+
+## Art. 64. — (( (Riserve tecniche) ))
+
+((
+
+L'impresa di riassicurazione costituisce riserve tecniche alla fine di ciascun esercizio, al lordo delle retrocessioni, sufficienti in relazione agli impegni assunti per l'insieme delle sue attivita' nel rispetto delle disposizioni del Capo II, Titolo III.
+
+L'ammontare delle riserve tecniche e' calcolato in conformita' del Titolo III, Capo II.
+
+))
+
+## Art. 64-bis. — (( (Principi in materia di investimenti) ))
+
+((
+
+L'impresa di riassicurazione investe gli attivi nel rispetto delle disposizioni di cui all'articolo 37-ter.
+
+))
+
+## Art. 65. — (( (Attivi a copertura delle riserve tecniche) ))
+
+((
+
+Le riserve tecniche di cui all'articolo 64 sono coperte con attivi di proprieta' dell'impresa in conformita' dell'articolo 38 e dell'articolo 41.
+
+L'impresa di riassicurazione investe gli attivi a copertura delle riserve tecniche in modo adeguato alla natura degli impegni e alla durata delle passivita' derivanti dalla riassicurazione e dalla retrocessione.
+
+))
+
+## Art. 65-bis. — (Registro delle attivita' a copertura delle riserve tecniche)
+
+L'impresa di riassicurazione deve tenere un registro da cui risultano le attivita' a copertura delle riserve tecniche dei rami vita e dei rami danni. In qualsiasi momento l'importo degli attivi iscritti deve essere, tenendo conto delle annotazioni dei movimenti, almeno pari all'ammontare delle riserve tecniche.
+
+((
+
+Ai fini di cui al comma 1, gli attivi a copertura delle riserve tecniche sono iscritti nel registro per un importo netto dei debiti contratti per la loro acquisizione e delle eventuali poste rettificative e sono valutati in conformita' alle disposizioni dell'articolo 35-quater.
+
+))
+
+((
+
+Gli attivi utilizzati dall'impresa per coprire le riserve tecniche relative alle accettazioni in retrocessione devono essere gestiti ed organizzati separatamente dalle attivita' di riassicurazione senza possibilita' di trasferimenti.
+
+))
+
+Le attivita' poste a copertura delle riserve tecniche ed iscritte nel registro sono riservate in modo esclusivo all'adempimento delle obbligazioni assunte dall'impresa di riassicurazione con i contratti ai quali le riserve stesse si riferiscono. Le attivita' di cui al presente comma costituiscono patrimonio separato rispetto alle altre attivita' detenute dall'impresa di riassicurazione e non iscritte nel registro.
+
+L'impresa di riassicurazione comunica all'((IVASS)) la situazione delle attivita' risultante dal registro. L'((IVASS)) determina, con regolamento, le disposizioni per la formazione e la tenuta del registro, con particolare riguardo all'annotazione delle operazioni effettuate, nonche' i termini, le modalita' e gli schemi per le comunicazioni periodiche.
+
+## Art. 66. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 66-bis. — (( (Fondi propri) ))
+
+((
+
+All'impresa di riassicurazione si applicano le disposizioni di cui agli articoli 44-ter, 44-quater, 44-quinquies, 44-septies, 44-octies, 44-decies, nonche' alle relative misure di attuazione adottate dalla Commissione europea per la classificazione e l'ammissibilita' dei fondi propri.
+
+))
+
+## Art. 66-ter. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 66-quater. — ((( Requisiti Patrimoniali di Solvibilita' ))
+
+
+
+-------------
+                            AGGIORNAMENTO (22)
+                            
+ Il Provvedimento 14 settembre 2010, (in G.U. 24/09/2010, n. 224), ha disposto (con l'art. 1, comma 1) che "L'importo minimo della quota di garanzia dell'impresa di riassicurazione fissato dall'art. 66 sexies, comma 2, del decreto legislativo 7 settembre 2005 n. 209, in euro 3.000.000 e' aumentato a euro 3.200.000, al fine di tener conto delle variazioni dell'indice europeo dei prezzi al consumo pubblicato da Eurostat". 
+ Ha inoltre disposto (con l'art. 4, comma 1) che "Le disposizioni di cui agli articoli 1 e 3 del presente Provvedimento entrano in vigore a decorrere dal bilancio dell'esercizio 2010".
+
+## Art. 66-quinquies. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 66-sexies. — ((( Calcolo del Requisito Patrimoniale Minimo ))
+
+((
+
+Fatto salvo il comma 3, il Requisito Patrimoniale Minimo e' calcolato come funzione lineare di un insieme o sottoinsieme delle seguenti variabili: riserve tecniche, premi contabilizzati, capitale a rischio, imposte differite e costi amministrativi dell'impresa. Le variabili utilizzate sono calcolate al netto della riassicurazione.
+
+Fatto salvo quanto previsto al comma 1, lettera d), il Requisito Patrimoniale Minimo non puo' scendere al di sotto del venticinque per cento (25%) ne' superare il quarantacinque per cento (45%) del Requisito Patrimoniale di Solvibilita' dell'impresa, calcolato conformemente al Titolo III, Capo IV-bis, Sezione II e Sezione III.
+
+Fino al 31 dicembre 2017, l'IVASS ha la facolta' di esigere che l'impresa applichi le percentuali di cui al comma 3 solo al Requisito Patrimoniale di Solvibilita' calcolato conformemente al Titolo III, Capo IV-bis, Sezione II.
+
+L'impresa calcola il Requisito Patrimoniale Minimo almeno ogni tre mesi e comunica il risultato di tale calcolo all'IVASS.
+
+Ai fini del calcolo dei limiti di cui al comma 3 le imprese non sono tenute a calcolare il proprio Requisito Patrimoniale di Solvibilita' su base trimestrale.
+
+Se il Requisito Patrimoniale Minimo dell'impresa coincide con uno dei limiti di cui al comma 3, tale impresa fornisce all'IVASS le informazioni necessarie a comprendere adeguatamente le ragioni per cui si e' verificata tale coincidenza.
+
+))
+
+## Art. 66-sexies.1. — (( (Informativa e processo di controllo prudenziale) ))
+
+
+
+## Art. 66-septies. — ( Riassicurazione finite )
+
+((
+
+L'impresa che stipula contratti di riassicurazione finite o esercita attivita' di riassicurazione finite adotta adeguati processi e procedure di reportistica ed e' in grado di identificare, quantificare, monitorare, gestire, controllare e segnalare in modo adeguato i rischi derivanti da detti contratti e attivita'.
+
+))
+
+((
+
+L'IVASS, con regolamento, stabilisce specifiche disposizioni per l'esercizio dell'attivita' di riassicurazione finite nel rispetto delle disposizioni dell'Unione europea e vigila sul rispetto delle condizioni e disposizioni di cui al presente articolo.
+
+))
+
+## - - Capo II ((Imprese di riassicurazione aventi la sede legale in uno Stato terzo))
+
+## Art. 67. — ( Attivita' in regime di stabilimento )
+
+L'IVASS determina, con regolamento, le disposizioni applicabili alle sedi secondarie di imprese di riassicurazione ((di uno Stato terzo)), nel rispetto dei principi generali di cui al Capo I del presente Titolo nonche' le disposizioni alle stesse applicabili in materia di registri, bilancio e scritture contabili di cui al Titolo VIII.
+
+Le disposizioni di cui al comma 1 si applicano anche alle imprese aventi la sede legale in uno Stato terzo e ivi autorizzate all'esercizio congiunto dell'assicurazione e della riassicurazione, che chiedono di esercitare nel territorio della Repubblica la sola riassicurazione.
+
+## - - Titolo VII ((ASSETTI PROPRIETARI)) Capo I Partecipazioni nelle imprese di assicurazione e di riassicurazione
+
+## Art. 68. — Autorizzazioni
+
+L'IVASS autorizza preventivamente l'acquisizione, a qualsiasi titolo, in un'impresa di assicurazione o di riassicurazione di partecipazioni che comportano il controllo o l'acquisizione di una partecipazione qualificata, tenuto conto delle azioni o quote gia' possedute.
+
+L'IVASS autorizza preventivamente le variazioni delle partecipazioni nei casi in cui la quota dei diritti di voto o del capitale raggiunga o superi il 20 per cento, 30 per cento, o 50 per cento ed, in ogni caso, quando le variazioni comportano il controllo dell'impresa di assicurazione o di riassicurazione.
+
+Ai fini dell'applicazione dei Capi I e II del presente Titolo, si considera anche l'acquisizione di partecipazioni da parte di piu' soggetti che intendono esercitare in modo concertato i relativi diritti sulla base di accordi in qualsiasi forma conclusi, quando tali partecipazioni, cumulativamente considerate, configurino una partecipazione ai sensi dei commi 1 e 2.
+
+L'autorizzazione prevista dal comma 1 e' necessaria anche per l'acquisizione del controllo di una societa' che detiene le partecipazioni di cui al medesimo comma. Le autorizzazioni previste dal presente articolo si applicano anche all'acquisizione, in via diretta o indiretta, del controllo derivante da un contratto con l'impresa di assicurazione o di riassicurazione o da una clausola del suo statuto.
+
+L'IVASS individua, con regolamento, i soggetti tenuti a richiedere l'autorizzazione quando i diritti derivanti dalle partecipazioni indicate nei commi 1 e 2 spettano o sono attribuiti a un soggetto diverso dal titolare delle partecipazioni stesse.
+
+L'IVASS rilascia l'autorizzazione quando ricorrono condizioni atte a garantire una gestione sana e prudente dell'impresa di assicurazione o di riassicurazione, valutando la qualita' del potenziale acquirente e la solidita' finanziaria del progetto di acquisizione avuto riguardo anche ai possibili effetti dell'operazione sulla protezione degli assicurati dell'impresa interessata, sulla base dei seguenti criteri: la reputazione del potenziale acquirente ((da valutarsi in conformita' a quanto previsto dall'ordinamento europeo anche tenuto conto dei relativi orientamenti, disposizioni e raccomandazioni,)), ivi compreso il possesso dei requisiti previsti ai sensi dell'articolo 77; il possesso dei requisiti previsti ai sensi dell'articolo 76 da parte di coloro che, in esito all'acquisizione, svolgeranno funzioni di amministrazione, direzione e controllo nell'impresa; la solidita' finanziaria del potenziale acquirente; la capacita' dell'impresa di rispettare a seguito dell'acquisizione le disposizioni che ne regolano l'attivita'; l'idoneita' della struttura del gruppo del potenziale acquirente a consentire l'esercizio efficace della vigilanza; l'assenza di fondato sospetto che l'acquisizione sia connessa ad operazioni di riciclaggio o di finanziamento del terrorismo.
+
+L'IVASS opera in piena consultazione con le altre Autorita' competenti, nei casi in cui il potenziale acquirente sia una banca, un'impresa di investimento o una societa' di gestione ai sensi dell'articolo 2, paragrafo 1, lettera b), della direttiva 2009/65/CE autorizzato in Italia, ovvero uno dei soggetti di cui all'articolo 204, comma 1, lettere b) o c), ad essi relativi. Si applicano, in tali casi, le disposizioni di cui all'articolo 204, commi 1-bis e 1-ter.
+
+Se alle operazioni di cui ai commi 1 e 3 partecipano soggetti appartenenti a Stati terzi che non assicurano condizioni di reciprocita', l'IVASS comunica la richiesta di autorizzazione al Ministro dello sviluppo economico, su proposta del quale il Presidente del Consiglio dei Ministri puo' vietare, entro un mese dalla comunicazione, il rilascio dell'autorizzazione.
+
+L'IVASS puo' sospendere o revocare l'autorizzazione, tenuto conto delle partecipazioni acquisite o rafforzate per effetto di accordi di cui all'articolo 70 o di altri eventi successivi all'autorizzazione.
+
+I provvedimenti che concedono, rifiutano, revocano o sospendono l'autorizzazione sono adeguatamente motivati e sono prontamente comunicati al richiedente e all'impresa interessata e sono quindi pubblicati nel Bollettino.
+
+L'IVASS determina con regolamento le disposizioni di attuazione sulla base delle rilevanti disposizioni dell'ordinamento comunitario, e in particolare disciplina i criteri di calcolo dei diritti di voto rilevanti ai fini dell'applicazione delle soglie previste ai commi 1 e 2, ivi inclusi i casi in cui i diritti di voto non sono computati ai fini dell'applicazione dei medesimi commi ed i criteri per l'individuazione dei casi di influenza notevole.
+
+## Art. 69. — Obblighi di comunicazione
+
+Chiunque intende divenire titolare ((di partecipazioni indicate)) dall'articolo 68 in un'impresa di assicurazione o di riassicurazione ne da' comunicazione all'((IVASS)). Negli altri casi le variazioni delle partecipazioni sono comunicate quando il titolare ha superato, in aumento o in diminuzione, la misura stabilita con regolamento adottato dall'((IVASS)).
+
+Le societa' fiduciarie, che intendono assumere a proprio nome partecipazioni che appartengono a terzi, comunicano all'((IVASS)) le generalita' dei fiducianti.
+
+L'((IVASS)), al fine di verificare l'osservanza degli obblighi indicati nel presente articolo, puo' chiedere informazioni, ordinare l'esibizione di documenti e il compimento di accertamenti ai soggetti comunque interessati.
+
+L'((IVASS)), con regolamento, determina presupposti, modalita', termini e contenuto delle comunicazioni previste dai commi 1 e 2, anche con riguardo alle ipotesi nelle quali il diritto di voto spetta o e' attribuito ad un soggetto diverso dal titolare ((delle partecipazioni)).
+
+## Art. 70. — Comunicazione degli accordi di voto
+
+Ogni accordo in qualsiasi forma concluso, che ha per oggetto o per effetto l'esercizio concertato del voto in un'impresa di assicurazione o di riassicurazione o in una societa' che la controlla e' comunicato all'((IVASS)) dai partecipanti ovvero dai legali rappresentanti dell'impresa cui l'accordo si riferisce. L'((IVASS)) stabilisce in via generale i termini e le modalita' della comunicazione.
+
+Quando dall'accordo derivi una concertazione del voto tale da pregiudicare la sana e prudente gestione dell'impresa di assicurazione o di riassicurazione, l'((IVASS)) puo' sospendere il diritto di voto dei partecipanti all'accordo stesso e stabilire un termine entro il quale le partecipazioni oggetto dell'accordo devono essere alienate.
+
+Alle comunicazioni previste dal comma 1 si applicano i commi 3 e 4 dell'articolo 69.
+
+## Art. 71. — Richiesta di informazioni
+
+L'((IVASS)) puo' chiedere alle imprese di assicurazione e di riassicurazione e alle societa' e agli enti di qualsiasi natura che possiedono partecipazioni nelle imprese medesime l'indicazione nominativa dei titolari delle partecipazioni secondo quanto risulta dal libro dei soci, dalle comunicazioni ricevute o da altri dati a loro disposizione.
+
+L'((IVASS)) puo' altresi' richiedere agli amministratori delle societa' e degli enti titolari di partecipazioni in imprese di assicurazione e di riassicurazione l'indicazione dei soggetti controllanti.
+
+L'((IVASS)), per la verifica di ogni interrelazione finanziaria con le societa' controllanti, controllate e collegate alle imprese di assicurazione e di riassicurazione, puo' chiedere informazioni, ordinare l'esibizione di documenti ed il compimento di accertamenti alle medesime societa'.
+
+Per gli accertamenti di cui ai commi 1, 2 e 3, l'((IVASS)) puo' chiedere informazioni ai soggetti, anche stranieri, titolari ((di partecipazioni)) in un'impresa di assicurazione o di riassicurazione.
+
+L'((IVASS)) puo' inoltre chiedere alle societa' fiduciarie, alle societa' di intermediazione mobiliare ed a chiunque ne sia a conoscenza informazioni sulle operazioni di assunzione di partecipazioni in imprese di assicurazione e di riassicurazione.
+
+L'((IVASS)), in relazione alle richieste che interessano societa' con titoli negoziati in un mercato regolamentato, informa la CONSOB, della cui assistenza puo' avvalersi per le indagini che interessano le medesime societa'.
+
+## Art. 72. — Nozione di controllo
+
+Ai fini del presente titolo, il controllo sussiste anche con riferimento a soggetti diversi dalle societa', nei casi previsti dall'articolo 2359, primo e secondo comma, del codice civile ed in presenza di contratti o di clausole statutarie che abbiano per oggetto o per effetto il potere di esercitare l'attivita' di direzione e coordinamento.
+
+## Art. 73. — Partecipazioni indirette
+
+## Art. 74. — Sospensione del diritto di voto e degli altri diritti, obbligo di alienazione
+
+Non possono essere esercitati i diritti di voto e gli altri diritti, che consentono di influire sull'impresa, inerenti a partecipazioni per le quali le autorizzazioni previste dall'articolo 68 non siano state ottenute ovvero siano state sospese o revocate. I diritti di voto e gli altri diritti, che consentono di influire sull'impresa, non possono essere altresi' esercitati per le partecipazioni per le quali siano state omesse le comunicazioni di cui agli articoli 69 e 70.
+
+In caso di inosservanza del divieto, la deliberazione o il diverso atto, adottati con il voto o con il contributo determinanti delle partecipazioni previste dal comma 1, e' impugnabile, secondo le previsioni del codice civile. L'impugnazione puo' essere proposta anche dall'((IVASS)) entro sei mesi dalla data della deliberazione o, se questa e' soggetta a iscrizione nel registro delle imprese, entro sei mesi dall'iscrizione ovvero, se questa e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro sei mesi dalla data di questo. Le partecipazioni per le quali non puo' essere esercitato il diritto di voto sono computate ai fini della regolare costituzione della relativa assemblea.
+
+Le partecipazioni per le quali le autorizzazioni previste dall'articolo 68 non sono state ottenute o sono state revocate devono essere alienate entro i termini stabiliti dall'((IVASS)).
+
+Non possono essere esercitati i diritti derivanti dai contratti o dalle clausole statutarie per i quali le autorizzazioni previste dall'articolo 68 non siano state ottenute ovvero siano state sospese o revocate.
+
+## Art. 75. — Protocolli di autonomia
+
+Al fine dell'applicazione del presente capo, l'((IVASS)) puo' richiedere, in ogni momento, ai titolari di partecipazioni indicate dall'articolo 68 nelle imprese di assicurazione e di riassicurazione, ((...)), una responsabile dichiarazione, nel contenuto e nei termini prescritti dall'Istituto in via generale o in via particolare, attestante la natura e l'entita' dei rapporti finanziari ed operativi, nonche' le misure e gli impegni che i titolari delle partecipazioni intendono adottare per assicurare l'autonomia dell'impresa.
+
+L'((IVASS)) puo' sospendere il diritto di voto dei titolari di partecipazioni che hanno rifiutato la dichiarazione o hanno comunicato dati falsi o hanno disatteso gli impegni assunti, avuto riguardo al pregiudizio alla gestione sana e prudente dell'impresa di assicurazione o di riassicurazione.
+
+## - - Capo II Requisiti di onorabilita' professionalita' e indipendenza
+
+## Art. 76. — Requisiti di professionalita', onorabilita' e indipendenza degli esponenti aziendali e dei soggetti che svolgono funzioni fondamentali
+
+((65))
+
+L'impresa di assicurazione o di riassicurazione ((dimostra)) all'IVASS che i soggetti che svolgono funzioni di amministrazione, di direzione, di controllo nonche' i soggetti titolari di funzioni fondamentali sono in possesso dei ((requisiti e criteri di cui ai commi 1-ter, 1-quater e 1-quinquies.)). ((65))
+
+((1-ter. Ai fini del comma 1, gli esponenti aziendali devono possedere requisiti di professionalita', onorabilita' e indipendenza, soddisfare criteri di competenza e correttezza, dedicare il tempo necessario all'efficace espletamento dell'incarico in modo da garantire la sana e prudente gestione dell'impresa di assicurazione o di riassicurazione.))
+
+((65))
+
+((1-quater. Il Ministro dello sviluppo economico, con regolamento adottato sentito l'IVASS, in conformita' a quanto previsto dall'ordinamento europeo anche tenuto conto dei relativi orientamenti e raccomandazioni, individua:
+
+a) i requisiti di onorabilita' omogenei per tutti gli esponenti;
+
+b) i requisiti di professionalita' ed indipendenza graduati secondo principi di proporzionalita' e tenuto conto della rilevanza e complessita' del ruolo ricoperto;
+
+c) i criteri di competenza coerenti con la carica da ricoprire e con le caratteristiche dell'impresa di assicurazione o di riassicurazione, e di adeguata composizione dell'organo;
+
+d) i criteri di correttezza, con riguardo, tra l'altro, alle relazioni d'affari dell'esponente, alle condotte tenute nei confronti delle autorita' di vigilanza e alle sanzioni o misure correttive da queste irrogate, ai provvedimenti restrittivi inerenti ad attivita' professionali svolte, nonche' ad ogni altro elemento suscettibile di incidere sulla correttezza dell'esponente;
+
+e) i limiti al cumulo di incarichi per gli esponenti delle imprese di assicurazione o di riassicurazione, graduati secondo principi di proporzionalita';
+
+f) le cause che comportano la sospensione temporanea dalla carica e la sua durata.))
+
+((65))
+
+((1-quinques. Con il regolamento di cui al comma 1-quater sono altresi' determinati i casi in cui tali requisiti e criteri di idoneita' si applicano a coloro che svolgono funzioni fondamentali nelle imprese di assicurazione o di riassicurazione.))
+
+((65))
+
+((1-sexies. Gli organi di amministrazione e controllo delle imprese di assicurazione o di riassicurazione valutano l'idoneita' dei propri esponenti e l'adeguatezza complessiva dell'organo, documentando il processo di analisi e motivando opportunamente l'esito della valutazione. In caso di specifiche e limitate carenze riferite ai criteri previsti ai sensi del comma 1-quater, lettera c), i medesimi organi possono adottare misure necessarie a colmarle. La valutazione riguarda altresi' i titolari delle funzioni fondamentali.))
+
+((65))
+
+((2. Il difetto di idoneita', iniziale o sopravvenuto o la violazione al cumulo degli incarichi determina la decadenza dall'ufficio. Essa e' deliberata dall'organo di appartenenza entro trenta giorni dalla nomina o dalla conoscenza del difetto sopravvenuti. Per i soggetti che non sono componenti di un organo la valutazione e la pronuncia della decadenza sono effettuate dall'organo che li ha nominati. La sostituzione e' comunicata all'IVASS.))
+
+((65))
+
+((2-bis. L'IVASS, secondo modalita' e termini da esso stabiliti, anche al fine di ridurre al minimo gli oneri gravanti sui soggetti vigilati, valuta l'idoneita' degli esponenti e il rispetto dei limiti al cumulo degli incarichi e l'idoneita' dei titolari delle funzioni fondamentali tenendo conto anche dell'analisi compiuta dalle imprese e delle eventuali misure adottate ai sensi del comma 1-sexies. In caso di difetto o violazione pronuncia la decadenza dalla carica.))
+
+((65))
+
+Nel caso di difetto dei requisiti di indipendenza stabiliti dal codice civile o dallo statuto dell'impresa di assicurazione o di riassicurazione, ((si applicano i commi 2 e 2-bis.)). ((65))
+
+Il regolamento di cui ((ai commi 1-quater e 1-quinquies.)) stabilisce le cause che comportano la sospensione temporanea dalla carica e la sua durata. La sospensione e' dichiarata con le modalita' indicate nel comma 2. ((65))
+
+---------------
+                            AGGIORNAMENTO (65)
+                            
+ Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 2) che le presenti modifiche "si applicano alle nomine successive alla data di entrata in vigore del regolamento previsto dall'articolo 76 del decreto legislativo 7 settembre 2005, n. 209, come modificato dal presente decreto".
+
+## Art. 77. — Requisiti dei partecipanti
+
+((65))
+                                ((1-bis. Il Ministro dello sviluppo economico, con regolamento adottato sentito l'IVASS, in conformita' a quanto previsto dall'ordinamento europeo anche tenuto conto dei relativi orientamenti e raccomandazioni, individua: 
+ a) i requisiti di onorabilita'; 
+b) i criteri di competenza, graduati in relazione all'influenza sulla gestione dell'impresa di assicurazione o di riassicurazione che il titolare della partecipazione puo' esercitare; 
+ c) i criteri di correttezza, con riguardo, tra l'altro, alle relazioni d'affari del titolare della partecipazione, alle condotte tenute nei confronti delle autorita' di vigilanza e alle sanzioni o misure correttive da queste irrogate, a provvedimenti restrittivi inerenti ad attivita' professionali svolte, nonche' a ogni altro elemento suscettibile di incidere sulla correttezza, inclusa la reputazione, del titolare della partecipazione.))
+                                ((65))
+
+COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 21.
+
+((Qualora non siano soddisfatti i requisiti e i criteri)) non possono essere esercitati i diritti di voto e gli altri diritti, che consentono di influire sull'impresa di assicurazione o di riassicurazione, inerenti alle partecipazioni eccedenti le soglie di cui al comma 1. In caso di inosservanza, la deliberazione o il diverso atto, adottati con il voto o il contributo determinanti delle partecipazioni previste dal comma 1, sono impugnabili secondo le previsioni del codice civile. L'impugnazione puo' essere proposta anche dall'IVASS entro sei mesi dalla data della deliberazione o, se questa e' soggetta a iscrizione nel registro delle imprese, entro sei mesi dall'iscrizione ovvero, se questa e' soggetta solo a deposito presso l'ufficio del registro delle imprese, entro sei mesi dalla data del deposito. Le partecipazioni per le quali non puo' essere esercitato il diritto di voto sono computate ai fini della regolare costituzione della relativa assemblea. ((65))
+
+Le partecipazioni, eccedenti le soglie previste dal comma 1, dei soggetti ((che non soddisfano i requisiti e i criteri))
+                                ((sono)) alienate entro i termini stabiliti dall'IVASS. ((65))
+
+---------------
+                            AGGIORNAMENTO (65)
+                            
+ Il D.Lgs. 14 luglio 2020, n. 84 ha disposto (con l'art. 4, comma 3) che le presenti modifiche "si applicano a decorrere dalla data di entrata in vigore del regolamento previsto dall'articolo 77 del decreto legislativo 7 settembre 2005, n. 209, come modificato dal presente decreto".
+
+## Art. 78. — Consiglio di gestione, consiglio di sorveglianza e comitato per il controllo sulla gestione
+
+Se non diversamente disposto, le norme del presente codice che fanno riferimento al consiglio di amministrazione e agli amministratori si applicano anche al consiglio di gestione e ai suoi componenti.
+
+Se non diversamente disposto, le norme del presente codice che fanno riferimento al collegio sindacale, ai sindaci e all'organo che svolge la funzione di controllo si applicano anche al consiglio di sorveglianza e al comitato per il controllo sulla gestione.
+
+## - - Capo III Partecipazioni delle imprese di assicurazione e di riassicurazione
+
+## Art. 79. — Partecipazioni assunte dalle imprese di assicurazione e di riassicurazione
+
+L'impresa di assicurazione e di riassicurazione ((...)) puo' assumere partecipazioni, anche di controllo, in altre societa' ancorche' esercitino attivita' diverse da quelle consentite alle stesse imprese.
+
+((
+
+Quando le partecipazioni in una societa' controllata, assunte ai sensi del comma 1, hanno carattere di strumentalita' o di connessione con l'attivita' assicurativa o riassicurativa, l'IVASS puo' chiedere che cio' risulti da un programma di attivita'.
+
+))
+
+((
+
+L'IVASS disciplina con regolamento le condizioni ed i criteri per individuare le operazioni di assunzione di partecipazioni soggette a comunicazione preventiva ovvero sottoposte ad autorizzazione preventiva, nonche' i presupposti per l'esercizio dei poteri di cui al comma 3-bis e all'articolo 81.
+
+))
+
+((
+
+L'IVASS puo' condizionare o negare l'autorizzazione o l'acquisizione di partecipazioni soggette a comunicazione preventiva qualora l'operazione sia in contrasto con la sana e prudente gestione dell'impresa o derivi un pericolo per la stabilita' della stessa.
+
+))
+
+((
+
+Ai fini delle comunicazioni di cui al comma 3, rileva ogni altra assunzione di partecipazioni, quando la stessa, da sola o unitamente ad altra gia' posseduta, risulti consistente in base al patrimonio netto o al totale degli investimenti dell'impresa di assicurazione o di riassicurazione ovvero rispetto all'entita' dei diritti di voto o alla rilevanza degli altri diritti che consentono di influire sulla societa' partecipata.
+
+))
+
+Le disposizioni di cui al presente capo si applicano anche per ogni altra assunzione ((...)) che riguardi partecipazioni in imprese di assicurazione o di riassicurazione estere. In deroga al presente capo, nel caso di assunzione di partecipazioni indicate dall'articolo 68 in altre imprese di assicurazione o di riassicurazione italiane, si applicano le disposizioni di cui al capo I.
+
+## Art. 80. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 81. — Vigilanza prudenziale
+
+L'((IVASS)), al fine di verificare l'osservanza degli obblighi ((indicati nell'articolo 79)), puo' chiedere informazioni ai soggetti comunque interessati.
+
+Qualora dalla partecipazione derivi un pericolo alla stabilita' dell'impresa, avuto riguardo alla natura ed all'andamento dell'attivita' svolta dalla societa' partecipata, alla dimensione dell'investimento ((...)) dell'impresa, l'((IVASS)) ordina che la stessa sia alienata ovvero opportunamente ridotta, anche al di sotto del controllo, assegnando a tal fine un termine compatibile con l'esigenza che l'operazione possa aver luogo senza pregiudizio per la stabilita' dell'impresa di assicurazione o di riassicurazione.
+
+Nel caso in cui l'impresa non ottemperi all'ordine, l'((IVASS)) nomina un commissario con i compiti previsti dall'articolo 229 o, se ricorrono i presupposti di cui all'articolo 230, un commissario per la gestione provvisoria col compito di provvedervi ovvero propone al ((Ministro dello sviluppo economico)) l'adozione del provvedimento di amministrazione straordinaria oppure la revoca dell'autorizzazione all'esercizio dell'attivita'.
+
+((
+
+La mancata ottemperanza all'ordine di cui al comma 2 comporta, in ogni caso, la decurtazione di pari importo dai fondi propri a copertura del Requisito Patrimoniale di Solvibilita' dell'impresa di assicurazione o di riassicurazione.
+
+))
+
+## - - Capo IV Gruppo assicurativo ((CAPO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+## Art. 82. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 83. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 84. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 85. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 86. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 87. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 87-bis. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - Titolo VIII BILANCIO E SCRITTURE CONTABILI Capo I Disposizioni generali sul bilancio
+
+## Art. 88. — Disposizioni applicabili
+
+Le imprese di assicurazione e di riassicurazione che hanno sede legale nel territorio della Repubblica redigono il bilancio secondo la disciplina prevista nei capi I, II e III del presente titolo.
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+Le disposizioni relative ai rami vita si applicano anche alle imprese di assicurazione che esercitano solo l'attivita' nei ramo malattia esclusivamente o principalmente secondo i metodi dell'assicurazione dei rami vita.
+
+## Art. 89. — Disposizioni particolari
+
+Per quanto non previsto dal presente titolo e dai provvedimenti di attuazione, si applicano le disposizioni del codice civile e quelle di cui al decreto legislativo 9 aprile 1991 n. 127, al decreto legislativo 26 maggio 1997, n. 173, ed al decreto legislativo 28 febbraio 2005, n. 38.
+
+E' consentita la tenuta di una contabilita' plurimonetaria. In deroga a quanto previsto dall'articolo 2423, ultimo comma, del codice civile, l'((IVASS)), con regolamento, puo' prescrivere o consentire che la nota integrativa sia redatta in migliaia di euro oppure prescrivere o consentire un grado di sintesi maggiore delle migliaia, sentita la CONSOB per le societa' quotate.
+
+## Art. 90. — Schemi
+
+((1. L'IVASS, nel rispetto delle disposizioni di cui al codice civile, al decreto legislativo 9 aprile 1991 n. 127, al decreto legislativo 26 maggio 1997, n. 173, ed al decreto legislativo 28 febbraio 2005, n. 38, con regolamento determina: 
+ a) gli schemi di bilancio; 
+b) il piano dei conti che le imprese adottano nella loro gestione; 
+c) le modalita' di calcolo, ai fini della redazione del bilancio di cui ai Capi II e III, delle riserve tecniche; 
+ d) le modalita' di calcolo, ai fini della redazione del bilancio di cui ai Capi II e III, delle altre voci di bilancio.))
+
+L'((IVASS)), con regolamento, puo' emanare istruzioni esplicative ed applicative, prescrivere informazioni integrative o piu' dettagliate, anche in materia di operazioni con parti correlate e di accordi non risultanti dallo stato patrimoniale di cui all'articolo 2427, primo comma, numeri 22-bis) e 22-ter), del codice civile e all'articolo 38, comma 1, lettere o-quinquies) e o-sexies), del decreto legislativo 9 aprile 1991, n. 127. L'((IVASS)) puo' altresi' stabilire la documentazione necessaria all'espletamento delle funzioni di vigilanza ai fini delle verifiche sul bilancio di esercizio e sul bilancio consolidato. (11)
+
+Le modalita' di tenuta del sistema contabile devono consentire il raccordo con i conti di bilancio secondo quanto disposto dall'((IVASS)) con regolamento.
+
+I poteri dell'((IVASS)) sono esercitati nel rispetto dei principi contabili internazionali nei confronti dei soggetti che redigono il bilancio di esercizio o il bilancio consolidato in conformita' ai principi contabili internazionali. Al fine di verificare l'esattezza dei dati del bilancio consolidato, l'((IVASS)) puo' richiedere dati, notizie ed informazioni alle societa' ed agli enti controllati da imprese di assicurazione e di riassicurazione ovvero eseguire ispezioni presso i medesimi enti e societa'. Nel caso in cui la societa' o l'ente sia sottoposto alla vigilanza di un'altra autorita', l'((IVASS)) ne richiede la collaborazione.
+
+-------------
+                            AGGIORNAMENTO (11)
+                            
+ Il D.Lgs. 3 novembre 2008, n. 173 ha disposto (con l'art. 6, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci e alle relazioni relativi agli esercizi aventi inizio da data successiva a quella della sua entrata in vigore".
+
+## - - Capo II Bilancio di esercizio
+
+## Art. 91. — Principi di redazione
+
+Le imprese di assicurazione e di riassicurazione di cui all'articolo 88, comma 1, che emettono strumenti finanziari ammessi alla negoziazione in mercati regolamentati di qualsiasi Stato membro dell'Unione europea e che non redigono il bilancio consolidato, redigono il bilancio di esercizio in conformita' ai principi contabili internazionali.
+
+Le imprese di assicurazione e di riassicurazione di cui all'articolo 88, comma 1, ((...)) che non utilizzano i principi contabili internazionali, redigono il bilancio in conformita' al decreto legislativo 26 maggio 1997, n. 173. Per ciascun patrimonio destinato costituito ai sensi dell'articolo 2447-bis, primo comma, lettera a), del codice civile, va allegato al bilancio di esercizio un separato rendiconto redatto secondo le disposizioni previste dall'articolo 89.
+
+## Art. 92. — Esercizio sociale e termine per l'approvazione
+
+L'esercizio sociale ha inizio il 1° gennaio e termina il 31 dicembre di ogni anno.
+
+Ove previsto dallo statuto, il termine di cui all'articolo 2364, secondo comma, del codice civile puo' essere prorogato dall'impresa di assicurazione sino al 30 giugno quando particolari esigenze lo richiedano ovvero quando sia autorizzata anche all'attivita' riassicurativa e la eserciti in misura rilevante ovvero nel caso di imprese tenute alla redazione del bilancio consolidato.
+
+Le imprese che esercitano la sola riassicurazione approvano il bilancio di esercizio entro il 30 giugno dell'anno successivo a quello a cui si riferisce il bilancio stesso. Ove previsto dallo statuto, il termine puo' essere prorogato dall'impresa di riassicurazione sino al 30 settembre quando particolari esigenze lo richiedano.
+
+Le imprese di assicurazione e di riassicurazione, che si avvalgono della facolta' prevista dai commi 2 e 3, ne danno evidenza nella nota integrativa e ne fanno oggetto di preventiva comunicazione all'((IVASS)), specificando le ragioni della proroga.
+
+## Art. 93. — Deposito e pubblicazione
+
+Le imprese di assicurazione e di riassicurazione di cui all'articolo 88, comma 1, ((...)) sono tenute al deposito e alla pubblicazione del bilancio ai sensi dell'articolo 2435 del codice civile.
+
+Le imprese di assicurazione e di riassicurazione sono soggette all'obbligo di revisione del bilancio e depositano la relazione della societa' di revisione ((...)).
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+Le imprese di assicurazione che esercitano il ramo assistenza depositano, in allegato al bilancio, una relazione dalla quale risultino il personale e le attrezzature di cui l'impresa dispone per far fronte agli impegni assunti.
+
+((COMMA ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74)).
+
+## Art. 94. — Relazione sulla gestione
+
+L'analisi di cui al comma 1 e' coerente con l'entita' e la complessita' degli affari dell'impresa e contiene, nella misura necessaria alla comprensione della situazione dell'impresa e dell'andamento e del risultato della sua gestione, gli indicatori di risultato finanziari e, se del caso, quelli non finanziari pertinenti all'attivita' specifica dell'impresa, comprese le informazioni attinenti all'ambiente e al personale. L'analisi contiene, ove opportuno, riferimenti agli importi riportati nel bilancio dell'impresa e chiarimenti aggiuntivi su di essi. Per le imprese di grandi dimensioni e per le piccole e medie imprese, a eccezione delle micro-imprese, i cui valori mobiliari sono ammessi alla negoziazione su mercati regolamentati, l'analisi di cui al comma 1 e', altresi', corredata delle informazioni sulle risorse immateriali essenziali e spiega in che modo il modello aziendale dell'impresa dipende fondamentalmente da tali risorse e come tali risorse costituiscono una fonte di creazione del valore per l'impresa. Tali ultime informazioni sono inserite in una sezione apposita della relazione sulla gestione. (74) ((79))
+
+Le disposizioni del comma 1, lettera g), si applicano anche alle azioni o quote detenute, acquistate o alienate per il tramite di societa' fiduciaria o per interposta persona. (5)
+
+-------------
+                            AGGIORNAMENTO (5)
+                            
+ Il D.Lgs. 2 febbraio 2007, n. 32 ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore." 
+                            -------------
+                            AGGIORNAMENTO (74)
+                            
+ Il D.Lgs. 6 settembre 2024, n. 125, ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+ a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva: 
+ 1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio; 
+ 2) agli enti di interesse pubblico ai sensi dell'articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39, che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio; 
+ b) per gli esercizi aventi inizio il 1° gennaio 2025 o in data successiva: 
+ 1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
+ 2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2); 
+ c) per gli esercizi aventi inizio il 1° gennaio 2026 o in data successiva: 
+ 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese, fermo restando quanto previsto dall'articolo 3, comma 10; 
+ 2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese; 
+ 3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese". 
+                            -------------
+                            AGGIORNAMENTO (79)
+                            
+ Il D.Lgs. 6 settembre 2024, n. 125, come modificato dal D.L. 30 giugno 2025, n. 95, convertito con modificazioni dalla L. 8 agosto 2025, n. 118, ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+ [...] 
+ b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
+ 1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
+ 2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2); 
+ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese; 
+ 2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese; 
+ 3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
+
+## - - Capo III Bilancio consolidato
+
+## Art. 95. — Imprese obbligate
+
+Le imprese di assicurazione e di riassicurazione aventi sede legale nel territorio della Repubblica ((...)) che controllano una o piu' societa', redigono il bilancio consolidato conformemente ai principi contabili internazionali.
+
+Allo stesso obbligo sono soggette le imprese di partecipazione assicurativa con sede legale in Italia, che detengono il controllo di una o piu' imprese di assicurazione o di riassicurazione ovunque costituite.
+
+Al medesimo obbligo sono soggette anche le imprese di partecipazione finanziaria mista con sede legale in Italia, che detengono il controllo di una o piu' imprese di assicurazione o di riassicurazione ovunque costituite, qualora il settore di maggiori dimensioni all'interno del conglomerato finanziario sia quello assicurativo, determinato ai sensi del decreto legislativo 30 maggio 2005, n. 142.
+
+Ai soli fini dell'obbligo di redazione del bilancio consolidato sono considerate imprese controllate quelle indicate nell'articolo 26 del decreto legislativo 9 aprile 1991, n. 127.
+
+## Art. 96. — Direzione unitaria
+
+((
+
+L'obbligo di redazione del bilancio consolidato sussiste anche nel caso in cui due o piu' imprese di assicurazione o riassicurazione aventi sede legale nel territorio della Repubblica ovvero imprese di partecipazione assicurativa o imprese di partecipazione finanziaria mista di cui all'articolo 95, commi 2 o 2-bis, tra le quali non esistano le relazioni di cui all'articolo 95, comma 3, operino secondo una direzione unitaria in virtu' di un contratto o di una clausola dei rispettivi statuti oppure quando i loro organi di amministrazione siano composti in maggioranza dalle medesime persone.
+La direzione unitaria tra le imprese puo' concretizzarsi anche in legami importanti e durevoli di riassicurazione.
+
+))
+
+Sono in ogni caso assimilate alle imprese di cui al comma 1 quelle sottoposte alla direzione unitaria di uno dei seguenti soggetti controllanti: 
+ ((a) un'impresa o un ente, costituito in Italia, diverso da un'impresa di assicurazione o riassicurazione ovvero da una impresa di partecipazione assicurativa o da un'impresa di partecipazione finanziaria mista di cui all'articolo 95, commi 2 o 2-bis;)) 
+ b) un'impresa o un ente costituito in un altro Stato, salvo che non ricorrano le condizioni di esonero previste all'articolo 97; 
+ c) una persona fisica.
+
+Nei casi di cui ai commi 1 e 2 e' tenuta alla redazione del bilancio consolidato l'impresa che, in base ai dati dell'ultimo bilancio d'esercizio approvato, presenta l'ammontare maggiore del totale dell'attivo.
+
+In caso di esonero dall'obbligo di redazione del bilancio consolidato ai sensi del comma 4, le ragioni dell'esonero sono indicate nella nota integrativa al bilancio d'esercizio. La nota integrativa indica altresi' la denominazione e la sede dell'impresa che redige il bilancio consolidato ai sensi del presente articolo.
+Copia dello stesso, della relazione sulla gestione e di quella dell'organo di controllo sono depositati presso l'ufficio del registro delle imprese del luogo ove e' la sede dell'impresa esonerata.
+
+Restano salve le disposizioni relative alle societa' che hanno emesso titoli quotati in mercati regolamentati.
+
+## Art. 97. — Esonero dall'obbligo di redazione
+
+L'obbligo di redazione del bilancio consolidato non sussiste nei confronti delle imprese di cui all'articolo 95, commi 1 e 2, a loro volta controllate direttamente o indirettamente da altra impresa tenuta alla redazione del bilancio consolidato ai sensi del presente titolo ovvero da un'impresa di assicurazione o riassicurazione costituita in un altro Stato membro.
+
+Le ragioni dell'esonero sono indicate nella nota integrativa al bilancio di esercizio. La nota integrativa indica altresi' la denominazione e la sede dell'impresa che redige il bilancio consolidato ai sensi del presente articolo. Una copia del bilancio della controllante, della relazione sulla gestione e di quella dell'organo di controllo, redatti in lingua italiana, e' depositata presso l'ufficio del registro delle imprese del luogo ove e' la sede dell'impresa controllata.
+
+## Art. 98. — Obbligo di redazione a esclusivi fini di vigilanza
+
+L'((IVASS)) individua, con regolamento, i soggetti non sottoposti agli obblighi di redazione del bilancio consolidato previsti dagli articoli 95 e 96, che sono tenuti, ad esclusivi fini di vigilanza, a redigere il bilancio consolidato.
+
+## Art. 99. — Data di riferimento
+
+La data di riferimento del bilancio consolidato coincide con la data di chiusura del bilancio di esercizio dell'impresa controllante obbligata alla redazione. ((Nel caso quest'ultima sia un'impresa di partecipazione assicurativa o un'impresa di partecipazione finanziaria mista di cui all'articolo 95, commi 2 o 2-bis, la data di riferimento coincide con la data di chiusura dell'esercizio delle imprese assicurative controllate.))
+
+## Art. 100. — Relazione sulla gestione
+
+L'analisi di cui al comma 1 e' coerente con l'entita' e la complessita' degli affari dell'insieme delle imprese incluse nel consolidamento e contiene, nella misura necessaria alla comprensione della situazione dell'insieme delle imprese incluse nel consolidamento e dell'andamento e del risultato della loro gestione, gli indicatori di risultato finanziari e, se del caso, quelli non finanziari pertinenti alle attivita' specifiche delle imprese, comprese le informazioni attinenti all'ambiente e al personale.
+L'analisi contiene, ove opportuno, riferimenti agli importi riportati nel bilancio consolidato e chiarimenti aggiuntivi su di essi.
+L'analisi di cui al comma 1, e', altresi', corredata delle informazioni sulle risorse immateriali essenziali, spiegando in che modo il modello aziendale dell'impresa dipende fondamentalmente da tali risorse e come tali risorse costituiscono una fonte di creazione del valore per l'impresa. Tali ultime informazioni sono inserite in una sezione apposita della relazione sulla gestione. (74) ((79))
+
+La relazione di cui al comma 1 e la relazione di cui all'articolo 94 possono essere presentate in un unico documento, dando maggiore rilievo, ove opportuno, alle questioni che sono rilevanti per il complesso delle societa' incluse nel consolidamento. (5)
+
+-------------
+                            AGGIORNAMENTO (5)
+                            
+ Il D.Lgs. 2 febbraio 2007, n. 32 ha disposto (con l'art. 5, comma 1) che "Le disposizioni del presente decreto si applicano ai bilanci relativi agli esercizi aventi inizio dalla data successiva a quella della sua entrata in vigore". 
+                            -------------
+                            AGGIORNAMENTO (74)
+                            
+ Il D.Lgs. 6 settembre 2024, n. 125, ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+ a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva: 
+ 1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio; 
+ 2) agli enti di interesse pubblico ai sensi dell'articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39, che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio; 
+ b) per gli esercizi aventi inizio il 1° gennaio 2025 o in data successiva: 
+ 1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
+ 2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2); 
+ c) per gli esercizi aventi inizio il 1° gennaio 2026 o in data successiva: 
+ 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese, fermo restando quanto previsto dall'articolo 3, comma 10; 
+ 2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese; 
+ 3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese". 
+                            -------------
+                            AGGIORNAMENTO (79)
+                            
+ Il D.Lgs. 6 settembre 2024, n. 125, come modificato dal D.L. 30 giugno 2025, n. 95, convertito con modificazioni dalla L. 8 agosto 2025, n. 118, ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano: 
+ [...] 
+ b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva: 
+ 1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1); 
+ 2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2); 
+ c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese; 
+ 2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese; 
+ 3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
+
+## - - Capo IV Libri e registri obbligatori
+
+## Art. 101. — Libri e registri obbligatori
+
+Le imprese di assicurazione con sede legale nel territorio della Repubblica ((...)), ferme restando le altre disposizioni stabilite dalla legge, devono tenere i libri e i registri secondo quanto previsto ai commi 2 e 3.
+
+L'((IVASS)) adotta, con regolamento, le disposizioni per la tenuta dei registri assicurativi previsti dai commi 2 e 3 e determina le informazioni, i termini e le modalita' per la loro conservazione e compilazione nel rispetto delle prescrizioni dell'articolo 2421, ultimo comma, del codice civile.
+
+L'((IVASS)) individua, con regolamento, i libri e i registri per l'attivita' delle imprese di riassicurazione, determinando le informazioni, i termini e le modalita' per la loro conservazione e compilazione nel rispetto delle prescrizioni dell'articolo 2421, ultimo comma, del codice civile.
+
+## - - Capo V ((Revisione legale dei conti))
+
+## Art. 102. — Revisione legale del bilancio
+
+((
+
+Il bilancio delle imprese di assicurazione e di riassicurazione con sede legale nel territorio della Repubblica e' corredato dalla relazione di un revisore legale o di una societa' di revisione legale iscritti nell'apposito registro.
+
+))
+
+((La relazione del revisore legale o della societa' di revisione legale esprime anche un giudizio sulla sufficienza delle riserve tecniche dell'impresa, avuto riguardo alle disposizioni del presente codice e tenuto conto di corrette tecniche attuariali. A tal fine, l'IVASS individua con regolamento i criteri per la determinazione della sufficienza delle riserve tecniche e le corrette tecniche attuariali alla luce delle quali deve essere espresso il giudizio del revisore o della societa' di revisione legale, nonche' le modalita' e i termini di espressione del giudizio medesimo.))
+
+Alle imprese di cui al comma 1 si applicano le disposizioni sulla revisione legale dei conti di cui alla sezione VI del capo II del titolo III del testo unico dell'intermediazione finanziaria, ad eccezione degli articoli 155, comma 2, 156, comma 4, 157, comma 2, e 159, comma 1.
+
+L'impugnazione della deliberazione assembleare che approva il bilancio delle imprese di assicurazione e di riassicurazione, per mancata conformita' alle norme che ne disciplinano i criteri di redazione, puo' essere proposta dall'((IVASS)) nel termine di sei mesi dall'iscrizione della relativa deliberazione nel registro delle imprese.
+
+COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39.
+
+## Art. 103. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 104. — (Accertamenti sulla gestione contabile)
+
+L'((IVASS)) puo' far svolgere al revisore legale o alla societa' di revisione legale una verifica, previo accertamento dell'esatta rilevazione nelle scritture contabili dei fatti di gestione, in ordine alla conformita' alle scritture contabili delle situazioni periodiche concernenti lo stato patrimoniale e il conto economico dell'impresa. Nello svolgimento di tale verifica il revisore legale o la societa' di revisione legale ((utilizzano corrette tecniche attuariali)). Le spese sono a carico dell'impresa.
+
+## Art. 105. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - Titolo IX ((ATTIVITA' DI DISTRIBUZIONE ASSICURATIVA E RIASSICURATIVA)) Capo I Disposizioni generali
+
+## Art. 106. — (( (Attivita' di distribuzione assicurativa e riassicurativa).))
+
+((
+
+Le attivita' di distribuzione assicurativa consistono nel fornire consulenza, ai sensi dell'articolo 1, comma 1, lettera m-ter), in materia di contratti di assicurazione, proporre contratti di assicurazione o compiere altri atti preparatori relativi alla loro conclusione, concludere tali contratti ovvero collaborare, segnatamente in caso di sinistri, alla loro gestione ed esecuzione, inclusa la fornitura di informazioni relativamente a uno o piu' contratti di assicurazione sulla base di criteri scelti dal cliente tramite un sito internet o altri mezzi e la predisposizione di una classifica di prodotti assicurativi, compreso il confronto tra prezzi e tra prodotti o lo sconto sul premio di un contratto di assicurazione, se il cliente e' in grado di stipulare direttamente o indirettamente un contratto di assicurazione tramite un sito internet o altri mezzi.
+
+Le attivita' di distribuzione riassicurativa, anche quando svolte da un'impresa di riassicurazione senza il coinvolgimento di un intermediario riassicurativo, consistono nel fornire consulenza, ai sensi dell'articolo 1, comma 1, lettera m-ter), in materia di contratti di riassicurazione, proporre contratti di riassicurazione o compiere altri atti preparatori relativi alla loro conclusione, concludere tali contratti ovvero collaborare, segnatamente in caso di sinistri, alla loro gestione ed esecuzione.
+
+))
+
+## Art. 107. — (( (Ambito di applicazione).))
+
+((
+
+Fermo restando quanto previsto dai Titoli II, III e IV per le imprese di assicurazione e V e VI per le imprese di riassicurazione, le disposizioni del presente Titolo disciplinano le condizioni di accesso ed esercizio dell'attivita' di distribuzione assicurativa e riassicurativa nel territorio della Repubblica, ivi inclusa l'attivita' di intermediazione assicurativa e riassicurativa a titolo oneroso svolta da persone fisiche o giuridiche con residenza o sede legale nel territorio della Repubblica e in regime di stabilimento o di libera prestazione di servizi nel territorio di altri Stati membri, nonche' l'attivita' di distribuzione assicurativa e riassicurativa connessa con rischi e impegni situati al di fuori dell'Unione europea, quando e' svolta da intermediari registrati in Italia.
+
+Le disposizioni del presente titolo disciplinano altresi' l'attivita' di distribuzione assicurativa, anche a titolo accessorio, e riassicurativa da parte di persone fisiche o giuridiche con residenza o sede legale nel territorio di altri Stati membri dell'Unione europea, svolta nel territorio della Repubblica.
+
+Fatto salvo quanto previsto dal testo unico dell'intermediazione finanziaria, le persone giuridiche di cui all'articolo 109, comma 2, lettera d), sono sottoposte, limitatamente all'attivita' di distribuzione assicurativa, alla vigilanza dell'IVASS, che la esercita mediante i poteri previsti dall'articolo 5, comma 1, anche per quanto riguarda l'osservanza delle disposizioni sulle regole di comportamento di cui al Capo III, informando e collaborando con le altre autorita' interessate.
+
+7. L'IVASS monitora il mercato, ivi incluso il mercato dei prodotti assicurativi commercializzati, distribuiti o venduti, a titolo accessorio, nel o dal territorio della Repubblica.))
+
+((45))
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 107-bis. — (( (Soggetti abilitati all'esercizio della distribuzione assicurativa o riassicurativa).))
+
+((1. L'attivita' di distribuzione assicurativa o riassicurativa puo' essere esercitata dai seguenti soggetti: 
+ a) imprese di assicurazione o riassicurazione, di cui all'articolo 1, comma 1, lettere t) e cc), e relativi dipendenti, laddove esercitino direttamente tale attivita'; 
+b) intermediari, iscritti nelle sezioni da a) ad e) del registro di cui al comma 2 dell'articolo 109; 
+c) intermediari assicurativi a titolo accessorio, di cui all'articolo 1, comma 1, lettera cc-septies), iscritti alla sezione f) del registro di cui al comma 2 dell'articolo 109; 
+ d) intermediari assicurativi, anche a titolo accessorio, e riassicurativi, con residenza o sede legale in altro Stato membro e abilitati all'esercizio dell'attivita' di intermediazione in regime di libera prestazione dei servizi o di stabilimento nel territorio della Repubblica ai sensi degli articoli 116-quater e 116-quinquies.))
+                                ((45))
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Capo II ((Disposizioni generali in materia di distribuzione))
+
+## Art. 108. — ((Attivita' di distribuzione))
+
+((1. L'attivita' di distribuzione assicurativa o riassicurativa e' riservata alle imprese di cui all'articolo 107-bis, comma 1, lettera a), ai relativi dipendenti, nonche' agli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, iscritti nel registro di cui all'articolo 109. Il registro indica gli Sati membri in cui l'intermediario assicurativo, anche a titolo accessorio, o riassicurativo opera in regime di libero stabilimento o di libera prestazione dei servizi.))
+                                ((45))
+                                ((2. Fatta salva l'ipotesi in cui l'attivita' di distribuzione assicurativa e riassicurativa sia esercitata, ai sensi del comma 1, direttamente da imprese e relativi dipendenti, tale attivita' non puo' essere esercitata da chi non e' iscritto nel registro, applicandosi in caso di violazione gli articoli 305, comma 2, e 308, comma 2.))
+                                ((45))
+
+E' inoltre consentita l'attivita' agli intermediari assicurativi ((, anche a titolo accessorio,)) e riassicurativi che hanno residenza o sede legale nel territorio di un altro Stato membro e che operano secondo quanto previsto dall'articolo 116 ((...)). ((45))
+
+L'esercizio dell'attivita' di intermediario di assicurazione ((, anche a titolo accessorio,)) e riassicurazione e' vietato agli enti pubblici, agli enti o societa' da essi controllati ed ai pubblici dipendenti con rapporto lavorativo a tempo pieno ovvero a tempo parziale, quando superi la meta' dell'orario lavorativo a tempo pieno. ((45))
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 108-bis. — (( (Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi).))
+
+((
+
+L'Organismo e' sottoposto al controllo dell'IVASS che, con regolamento, disciplina le modalita' di esercizio del controllo, inclusi i flussi informativi e i poteri ispettivi,1 secondo modalita' improntate a criteri di proporzionalita' ed economicita' dell'azione di controllo, con la finalita' di verificare l'adeguatezza delle procedure interne adottate e l'efficacia dell'attivita' svolta in relazione alle funzioni affidate.
+
+L'Organismo e' finanziato mediante una quota del contributo di vigilanza sugli intermediari di assicurazione e riassicurazione di cui all'articolo 336 del Codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209 versato all'IVASS e successivamente trasferito allo stesso Organismo, secondo la misura e le modalita' individuate dal regolamento di cui al comma 1.
+
+4. L'IVASS, con regolamento, stabilisce le modalita' con cui l'Organismo esercita la propria attivita' e le forme di collaborazione con l'IVASS per l'attuazione delle disposizioni di cui al presente Capo, inclusi le procedure e i poteri nei confronti degli intermediari iscritti al registro, tenendo anche presente l'esigenza di evitare duplicazioni di costi e adempimenti per soggetti iscritti in altri albi o registri.))
+
+((45))
+
+-------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 2) che "Fino alla data di entrata in vigore del regolamento di cui all'art. 108-bis del decreto legislativo 7 settembre 2005, n. 209, restano attribuite all'IVASS le funzioni di registrazione degli intermediari di cui all'art. 109, assegnate all'Organismo ai sensi degli articoli 109, 112, 113, 116, 116-bis, 116-ter, 116-quater e 116-quinquies del medesimo decreto legislativo". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 109. — Registro degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi
+
+L'IVASS disciplina, con regolamento, la formazione e l'aggiornamento del registro unico elettronico nel quale sono iscritti gli intermediari assicurativi, anche a titolo accessorio, e riassicurativi che hanno residenza o sede legale nel territorio della Repubblica.(45)
+
+L'impresa che opera in qualita' di distributore, individua la persona fisica, nell'ambito della dirigenza, responsabile della distribuzione assicurativa o riassicurativa e ne comunica il nominativo all'IVASS. Tale soggetto possiede adeguati requisiti di professionalita' ed onorabilita' individuati dall'IVASS con regolamento.(45)
+
+Il registro e' agevolmente accessibile e consente la registrazione integrale e diretta, secondo quanto disposto dall'IVASS con regolamento di cui al comma 1. (45)
+
+Per i siti internet mediante i quali e' possibile l'esercizio dell'attivita' di distribuzione assicurativa, ai sensi dell'articolo 106, e' necessaria l'iscrizione al registro del titolare del dominio. (45)
+
+Nel registro sono altresi' indicati gli intermediari persone fisiche, di cui al comma 2, lettere a) e b), abilitati ma temporaneamente non operanti, per i quali 1'adempimento dell'obbligo di copertura assicurativa di cui all'articolo 110, comma 3, e' sospeso sino all'avvio dell'attivita', che forma oggetto di tempestiva comunicazione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi.(45)
+
+L'intermediario di cui al comma 2, lettere a), b) e d), che si avvale di dipendenti, collaboratori, produttori o altri incaricati addetti all'intermediazione provvede, per conto dei medesimi, all'iscrizione nella sezione del registro di cui alla lettera e) del medesimo comma. L'intermediario di cui al comma 2, lettera a), che si avvale di dipendenti, collaboratori, produttori o altri incaricati addetti all'intermediazione e' tenuto a dare all'impresa preponente contestuale notizia della richiesta di iscrizione dei soggetti che operano per suo conto fermo restando quanto previsto nel contratto di agenzia. L'impresa di assicurazione, che si avvale di produttori diretti, provvede ad effettuare la comunicazione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi al fine dell'iscrizione nella sezione del registro di cui al comma 2, lettera c). (45)
+
+Nella domanda di iscrizione al registro l'intermediario che si avvale di soggetti iscritti alla sezione del registro di cui al comma 2, lettera e), per l'esercizio dell'attivita' di distribuzione, ai sensi del comma 4, attesta di avere accertato in capo agli stessi il possesso dei requisiti previsti dal presente Capo e dalle relative disposizioni di attuazione ai fini della registrazione, ivi incluso quanto previsto dalla lettera c) del comma 4-sexies, e di una formazione conforme a quanto stabilito dall'articolo 111 e dalle relative disposizioni di attuazione.(45)
+
+Nella domanda di iscrizione al registro l'impresa che si avvale di soggetti iscritti alla sezione di cui al comma 2, lettera c) per l'esercizio della distribuzione, secondo quanto previsto ai sensi del comma 4, attesta di avere accertato in capo agli stessi il possesso dei requisiti previsti dal presente Capo e dalle relative disposizioni di attuazione ai fini della registrazione, ivi incluso quanto previsto dalla lettera c) del comma 4-sexies, e di una formazione conforme a quanto stabilito dall'articolo 111 e dalle relative disposizioni di attuazione.(45)
+
+L'IVASS fornisce tempestivamente all'AEAP, secondo le istruzioni da questa impartite, le informazioni rilevanti ai fini dell'alimentazione del registro unico europeo degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi di cui al paragrafo 4, dell'articolo 3 della direttiva 2016/97 e puo' richiedere la modifica dei dati in esso riportati.(45)
+
+Le domande presentate, ai fini dell'iscrizione nel registro di cui al comma 2, sono esaminate nel termine fissato dal regolamento IVASS di cui al comma 1 e comunque non oltre 90 giorni dalla data di presentazione dell'istanza. L'avvenuta iscrizione e' comunicata ai soggetti interessati nelle forme indicate dalle disposizioni di attuazione emanate dall'IVASS.(45)
+
+Ogni modifica alle informazioni di cui al comma 4-sexies e' tempestivamente comunicata.(45)
+
+L'iscrizione al registro di cui all'articolo 109, comma 2, non puo' essere consentita se le disposizioni legislative, regolamentari o amministrative di uno Stato terzo, cui sono soggette una o piu' persone fisiche o giuridiche con le quali l'intermediario ha stretti legami, ovvero difficolta' inerenti l'applicazione di tali disposizioni legislative, regolamentari e amministrative, siano di ostacolo all'effettivo esercizio delle funzioni di vigilanza. (45)
+
+L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi rilascia, a richiesta dell'impresa o dell'intermediario interessato, un'attestazione di avvenuta iscrizione nel registro, fermi restando gli adempimenti necessari alle procedure di verifica e di revisione delle iscrizioni effettuate.(45)
+
+L'IVASS, con regolamento, stabilisce gli obblighi di comunicazione a carico delle imprese e degli intermediari, nonche' le forme di pubblicita' piu' idonee ad assicurare l'accesso pubblico al registro. 
+ 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+ Ha inoltre disposto (con l'art. 3, comma 1) che "Gli intermediari che, alla data di entrata in vigore del presente decreto legislativo, sono iscritti nel registro di cui all'art. 109 del decreto legislativo 7 settembre 2005, n. 209, assicurano entro il 23 febbraio 2019 l'adeguamento dei requisiti professionali di cui agli articoli 109, 109-bis, 110, 111, 112 del medesimo decreto legislativo, n. 209 del 2005, conformemente a quanto previsto dal presente decreto legislativo".
+
+## Art. 109-bis. — (Regime applicabile agli intermediari assicurativi a titolo accessorio)
+
+L'intermediario assicurativo a titolo accessorio, di cui alla sezione del registro prevista all'articolo 109, comma 2, lettera f), agisce su incarico di una o piu' imprese di assicurazione. Laddove sia una persona fisica e' tenuto ad osservare i requisiti di cui all'articolo 110, commi 1 e 3. Nell'ipotesi in cui sia una persona giuridica rispetta i requisiti di cui all'articolo 112, commi 1, 2 e 3.
+
+((
+
+Ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettera f), l'intermediario di cui al comma 1, persona fisica, deve inoltre possedere, tenuto conto della natura dei prodotti distribuiti, adeguate cognizioni e capacita' professionali individuate e accertate secondo le modalita' definite con regolamento adottato dall'IVASS, con il quale sono altresi' disciplinati gli obblighi di aggiornamento professionale e le relative modalita' di registrazione.
+
+))
+
+((
+
+L'intermediario assicurativo a titolo accessorio di cui al comma 1 si dota di presidi di separazione patrimoniale conformi all'articolo 117. L'adempimento delle obbligazioni pecuniarie effettuato mediante l'intermediario assicurativo a titolo accessorio e' conforme a quanto previsto dall'articolo 118, comma 1. Si applica altresi' la previsione di cui al comma 3 dell'articolo 119.
+
+))
+
+Si applicano altresi' le disposizioni di cui agli articoli 109, commi 3, 4, 4-quinquies, 4-sexies, 4-septies, 4-octies, 5 e 6, nonche' degli articoli 111, comma 5 e 113, comma 2, agli addetti all'attivita' di intermediazione nei locali dell'intermediario assicurativo a titolo accessorio di cui al comma 1. Tali intermediari sono inoltre ammessi ad operare in regime di stabilimento e di libera prestazione di servizi in altri Stati membri, conformemente a quanto previsto dall'articolo 116 e seguenti.».
+
+Gli intermediari assicurativi a titolo accessorio che agiscono su incarico di altro intermediario di cui alle sezioni del registro previste all'articolo 109, comma 2, lettere a), b) o d), sono soggetti alle norme applicabili agli addetti all'attivita' di intermediazione iscritti alla sezione del registro di cui al comma 2, lettera e) del citato articolo 109.
+
+L'IVASS con regolamento disciplina le modalita' applicative del presente articolo. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 110. — Requisiti per l'iscrizione delle persone fisiche
+
+Ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a) o b), la persona fisica deve inoltre possedere adeguate cognizioni e capacita' professionali sulle materie individuate dall'IVASS con regolamento, che sono accertate, tramite una prova di idoneita', consistente in un esame su tali aree tematiche.L'IVASS, con regolamento, detta anche disposizioni di dettaglio in merito ai requisiti per l'iscrizione al registro, determinando altresi' le modalita' di svolgimento della ((prova di idoneita')). (45)
+
+Salvo quanto previsto all'articolo 109, comma 3, ed all'articolo 112, comma 3, la persona fisica, ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a) o b), deve altresi' stipulare una polizza di assicurazione della responsabilita' civile per l'attivita' svolta in forza dell'iscrizione al registro con massimale di almeno un milione duecentocinquantamila euro per ciascun sinistro e di un milione e ottocentocinquantamila euro all'anno globalmente per tutti i sinistri, valida in tutto il territorio dell'Unione europea, per danni arrecati da negligenze ed errori professionali propri ovvero da negligenze, errori professionali ed infedelta' dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge. (45)
+
+Gli importi di cui al comma 3 sono aggiornati mediante disposizioni dell'Unione europea direttamente applicabili per tener conto delle variazioni nell'indice dei prezzi al consumo pubblicato da Eurostat. (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 111. — ((Requisiti particolari per l'iscrizione dei produttori diretti, dei collaboratori degli intermediari e per i dipendenti delle imprese))
+
+Il possesso dei requisiti di onorabilita' di cui all'articolo 110, comma 1, e' richiesto anche per i dipendenti dell'impresa, direttamente coinvolti nell'attivita' di distribuzione, per i produttori diretti ed e' accertato dall'impresa per conto della quale tali soggetti operano. (45)
+
+Le imprese che operano come distributori e le imprese per conto delle quali agiscono i produttori diretti provvedono ad impartire una ((formazione e un aggiornamento professionale adeguati ai soggetti di cui al comma 1)) in rapporto ai prodotti intermediati ed all'attivita' complessivamente svolta.(45)
+
+Il possesso dei requisiti di onorabilita' di cui all'articolo 110, comma 1, e' richiesto anche per i soggetti iscritti nella sezione del registro di cui all'articolo 109, comma 2, lettera e), ed e' accertato dall'intermediario per conto del quale essi operano.
+
+I soggetti iscritti nella sezione del registro di cui all'articolo 109, comma 2, lettera e), devono possedere cognizioni e capacita' professionali adeguate all'attivita' ed ai prodotti sui quali operano, accertate mediante attestato con esito positivo relativo alla frequenza a corsi di formazione ((e aggiornamento)) professionale a cura delle imprese o dell'intermediario assicurativo per conto dei quali tali soggetti operano.(45)
+
+Le disposizioni previste nei commi 3 e 4 si applicano altresi' ai soggetti direttamente coinvolti nell'attivita' di distribuzione, inclusa quella svolta nei locali dove l'intermediario di cui alle sezioni del registro previste all'articolo 109, comma 2, lettere a), b), d), e) ed f) opera o attraverso forme di vendita a distanza. (45)
+
+L'IVASS disciplina con regolamento le modalita' applicative del presente articolo. (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 112. — Requisiti per l'iscrizione delle societa'
+
+Ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettere a), b) ed e), la societa' deve inoltre avere affidato la responsabilita' dell'attivita' di distribuzione ad almeno una persona fisica iscritta nella sezione del registro al quale la medesima chiede l'iscrizione. Nelle societa' iscritte nella sezione del registro di cui all'articolo 109, comma 2, lettera b), il rappresentante legale e, ove nominati, l'amministratore delegato e il direttore generale devono essere iscritti nella medesima sezione del registro. (45)
+
+Ai fini dell'iscrizione, la societa' deve altresi' avere stipulato la polizza di assicurazione della responsabilita' civile professionale di cui all'articolo 110, comma 3, per l'attivita' di distribuzione svolta dalla societa', dalle persone fisiche di cui al comma 2, nonche' per i danni arrecati da negligenze, errori professionali ed infedelta' dei dipendenti, dei collaboratori o delle persone del cui operato deve rispondere a norma di legge. (45)
+
+Qualora eserciti la distribuzione riassicurativa, la societa' deve inoltre disporre di un capitale sociale non inferiore all'importo stabilito con regolamento adottato dall'IVASS. E' fatto obbligo alla societa' che esercita contemporaneamente la distribuzione assicurativa e riassicurativa di preporre alle due attivita' persone fisiche diverse iscritte alla medesima sezione e di dotarsi di una organizzazione adeguata. (45)
+
+E' altresi' necessario il possesso dei requisiti di cui all'articolo 111, commi 3 e 4, in capo alle persone fisiche addette all'attivita' di intermediazione della societa' di cui alla sezione e) del registro di cui all'articolo 109, comma 2. E' in ogni caso preclusa l'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettera e), per la societa' che operi, direttamente o indirettamente, attraverso altra societa'. (45)
+
+((5-bis. Ai fini dell'iscrizione nella sezione del registro di cui all'articolo 109, comma 2, lettera d), la societa' fornisce indicazione dei dati identificativi della persona fisica responsabile, nell'ambito della dirigenza, della distribuzione assicurativa. Tale soggetto deve possedere adeguati requisiti di professionalita' e onorabilita' individuati dall'IVASS con regolamento.))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 113. — Cancellazione
+
+L'istanza di cancellazione, nel caso di cui al comma 1, lettere b) e c), relativa ai produttori diretti dell'impresa o ai soggetti iscritti alla sezione del registro di cui all'articolo 109, comma 2, lettera e), e' presentata dall'impresa o, rispettivamente, dall'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettere a), b) e d). Nel caso di interruzione del rapporto con il produttore diretto ovvero con il soggetto iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera e), l'impresa o, rispettivamente, l'intermediario sono tenuti a darne comunicazione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi. L'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera a), comunica all'impresa preponente ogni variazione concernente i soggetti iscritti ai sensi dell'articolo 109, comma 2, lettera e). (45)
+
+COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2020, N. 187.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 114. — Reiscrizione
+
+((
+
+))
+
+L'intermediario, che sia stato cancellato per mancato versamento del contributo di vigilanza, puo' essere iscritto nuovamente purche' abbia provveduto al pagamento di quanto non corrisposto sino alla cancellazione.
+
+L'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera b), che sia stato cancellato dal registro per non aver provveduto al versamento del contributo al Fondo di garanzia, puo' esservi nuovamente iscritto purche' provveda al pagamento delle somme dovute sino alla data di cancellazione, maggiorate degli interessi moratori.
+
+Se l'intermediario, intervenuta la cancellazione dal registro, chiede una nuova iscrizione, essa viene disposta previa verifica della sussistenza dei requisiti di cui agli articoli 110, 111 e 112, rimanendo valida, per le persone fisiche, l'idoneita' gia' conseguita ai sensi dell'articolo 110, comma 2, o della formazione ricevuta ai sensi dell'articolo 111, commi 2 e 4.
+
+## Art. 114-bis. — (( (Requisiti organizzativi dell'impresa di assicurazione o riassicurazione, finalizzati al rispetto dei requisiti professionali e organizzativi di cui agli articoli 109, 109-bis, 110, 111, 112). ))
+
+((
+
+Al fine di garantire il rispetto dei requisiti professionali e organizzativi di cui agli articoli 109, 109-bis, 110, 111, 112 in capo ai soggetti identificati in tali disposizioni, le imprese si dotano di politiche e procedure interne soggette ad approvazione, attuazione, nonche' a riesame almeno annuale, individuando altresi' una funzione che ne assicuri l'adeguata attuazione.
+
+Le imprese definiscono, mantengono ed aggiornano procedure per l'adeguata conservazione della documentazione riguardante il rispetto degli articoli 109-bis, 110, 111, 112 e rendono disponibili all'IVASS, su richiesta, il nominativo del responsabile della funzione di cui al comma 1.
+
+3. L'IVASS con regolamento puo' individuare disposizioni di dettaglio in merito ai presidi interni all'impresa richiesti per l'osservanza dei commi 1 e 2.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 115. — Fondo di garanzia per i mediatori di assicurazione e di riassicurazione
+
+I. L'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera b), deve aderire al Fondo di garanzia costituito presso la CONSAP per risarcire il danno patrimoniale causato agli assicurati e alle imprese di assicurazione o di riassicurazione derivante dall'esercizio dell'attivita' di mediatore assicurativo o riassicurativo che non sia stato risarcito dall'intermediario o non sia stato indennizzato attraverso la polizza di cui, rispettivamente, all'articolo 110, comma 3, e all'articolo 112, comma 3. 
+ 2. L'amministrazione del Fondo spetta ad un comitato nominato con decreto del ((Ministro dello sviluppo economico)), che e' composto da un dirigente del ((Ministero dello sviluppo economico)), con funzioni di presidente, da un dirigente del Ministero dell'economia e delle finanze, da un funzionario dell'((IVASS)), da un funzionario della CONSAP, da due rappresentanti degli intermediari iscritti nella corrispondente sezione del registro, da un rappresentante delle imprese di assicurazione e di riassicurazione. 
+ 3. Le norme relative all'amministrazione, alla contribuzione ed ai limiti di intervento sono stabilite con regolamento del ((Ministro dello sviluppo economico)), sentito l'((IVASS)). Il contributo e' determinato annualmente con decreto del ((Ministro dello sviluppo economico)), sentito l'((IVASS)) ed il comitato di gestione, in misura non superiore allo zero virgola cinquanta per cento delle provvigioni annualmente acquisite, anche al fine di garantire comunque la copertura degli oneri di funzionamento del comitato di cui al comma 2. 
+ 4. Il fondo costituisce patrimonio separato da quello del soggetto presso il quale e' costituito e da eventuali altri fondi. Sul fondo non sono ammesse azioni, sequestri o pignoramenti dei creditori del soggetto che li amministra ne' dei creditori dei singoli intermediari, o nell'interesse degli stessi, diversi dagli assicurati o dalle imprese. Il fondo non puo' essere compreso nelle procedure concorsuali che riguardano il soggetto che li amministra o i singoli intermediari partecipanti. 
+ 5. Il fondo e' surrogato nei diritti degli assicurati e delle imprese di assicurazione e di riassicurazione fino alla concorrenza dei pagamenti effettuati a loro favore.
+
+## - - ((Sezione I Intermediari con sede legale o residenza nel territorio della Repubblica))
+
+## Art. 116. — (( (Attivita' in regime di stabilimento e di libera prestazione di servizi). ))
+
+((
+
+L'iscrizione consente agli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, indicati nelle sezioni del registro di cui all'articolo 109, comma 2, lettere a), b), d) ed f), con residenza o con sede legale nel territorio della Repubblica di operare negli altri Stati membri, in regime di stabilimento e di libera prestazione di servizi previo espletamento delle procedure di cui agli articoli 116-bis e 116-ter.
+
+Gli intermediari di cui al comma 1 laddove, per l'esercizio dell'attivita' di intermediazione in regime di libera prestazione di servizi o di stabilimento in altro Stato membro, intendano avvalersi di soggetti iscritti alla sezione del registro di cui all'articolo 109, comma 2, lettera e), indicano nell'ambito delle procedure di cui agli articoli 116-bis e 116-ter i dati identificativi relativi a tale intermediario, al fine di richiedere per detti soggetti l'estensione dell'operativita' nello Stato membro nel quale intende operare l'intermediario che di tale collaborazione si avvale.
+
+3. L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi rende nota, mediante annotazione integrativa dell'iscrizione al registro, l'indicazione degli altri Stati membri nei quali gli intermediari operano in regime di stabilimento o di liberta' di prestazione di servizi, ai sensi di quanto previsto dall'articolo 108, comma 1))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-bis. — (( (Attivita' in regime di libera prestazione di servizi in un altro Stato membro). ))
+
+((
+
+Entro trenta giorni dalla ricezione delle informazioni di cui al comma 1, l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi ne fornisce comunicazione all'autorita' competente dello Stato membro ospitante.
+L'intermediario puo' iniziare ad esercitare l'attivita' nello Stato membro ospitante dal momento in cui l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi lo informa dell'avvenuta ricezione da parte dell'autorita' competente dello Stato membro ospitante delle informazioni trasmesse ai sensi del comma 1. L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi da' notizia di tale operativita' nel registro.
+
+L'intermediario e' tenuto a rispettare le disposizioni di interesse generale applicabili nello Stato membro ospitante, accessibili attraverso il sito internet dell'Autorita' competente e tramite il sito internet dell'AEAP, mediante appositi collegamenti ipertestuali, oggetto della comunicazione di cui al comma 2.
+
+4. L'intermediario comunica all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi le modifiche intervenute rispetto alle informazioni trasmesse ai sensi del comma 1, almeno trenta giorni prima della relativa attuazione. L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, nel termine di trenta giorni successivi alla data di ricezione delle variazioni delle informazioni di cui al comma 1, informa altresi' l'autorita' competente dello Stato membro ospitante))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-ter. — (( (Attivita' in regime di stabilimento in un altro Stato membro). ))
+
+((
+
+Fatto salvo il caso in cui l'IVASS abbia motivo di dubitare dell'adeguatezza della struttura organizzativa o della situazione finanziaria dell'intermediario in relazione all'attivita' di distribuzione prospettata, entro trenta giorni dalla ricezione della comunicazione di cui al comma 1, l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi trasmette le informazioni di cui al comma 1 all'autorita' competente dello Stato membro ospitante.
+
+L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi comunica all'intermediario l'avvenuta ricezione delle informazioni da parte dell'autorita' competente dello Stato membro ospitante, nonche' l'accessibilita' alle disposizioni di interesse generale applicabili nello Stato membro ospitante, che l'intermediario e' tenuto a rispettare per l'esercizio dell'attivita' in tale Stato membro attraverso il sito internet dell'Autorita' competente e, mediante appositi collegamenti ipertestuali, tramite il sito internet dell'AEAP.
+
+L'intermediario puo' altresi' iniziare ad esercitare l'attivita' nello Stato ospitante, in assenza della comunicazione di cui al comma 3 nel termine di trenta giorni successivi alla ricezione delle informazioni di cui al comma 1.
+
+L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, entro trenta giorni dalla ricezione delle informazioni di cui al comma 1, comunica all'intermediario con provvedimento motivato, il rifiuto di procedere alla comunicazione all'autorita' competente dello Stato membro ospitante.
+
+6. L'intermediario comunica all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi le modifiche intervenute rispetto alle informazioni trasmesse ai sensi del comma 1, almeno 30 giorni prima della relativa attuazione. L'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, nel termine di 30 giorni successivi alla data di ricezione delle variazioni alle informazioni di cui al comma 1, informa altresi' l'autorita' competente dello Stato membro ospitante))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - ((Sezione II Intermediari con residenza o sede legale in un altro Stato membro))
+
+## Art. 116-quater. — (( (Attivita' in regime di libera prestazione dei servizi nel territorio della Repubblica). ))
+
+((
+
+L'accesso all'attivita' di intermediazione in regime di libera prestazione di servizi nel territorio della Repubblica da parte di intermediari assicurativi, anche a titolo accessorio, e riassicurativi, che hanno residenza o sede legale nel territorio di un altro Stato membro, e' subordinato alla trasmissione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, da parte dell'Autorita' di tale Stato, delle informazioni di cui all'articolo 116-bis.
+
+2. L'intermediario di cui al comma 1 puo' iniziare ad esercitare l'attivita' sul territorio della Repubblica dal momento in cui riceve da parte dell'Autorita' dello Stato di origine la comunicazione dell'avvenuta notifica all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi delle informazioni trasmesse ai sensi del comma 1))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-quinquies. — (( (Attivita' in regime di stabilimento nel territorio della Repubblica). ))
+
+((
+
+L'accesso all'attivita' di intermediazione in regime di stabilimento nel territorio della Repubblica da parte di intermediari assicurativi, anche a titolo accessorio, o riassicurativi, che hanno residenza o sede legale in un altro Stato membro, e' subordinato alla trasmissione all'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi, da parte dell'Autorita' di tale Stato, delle informazioni di cui all'articolo 116-ter.
+
+Entro trenta giorni dalla ricezione delle informazioni di cui al comma 1, l'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi comunica all'autorita' competente dello Stato membro d'origine le disposizioni di interesse generale che l'intermediario e' tenuto a rispettare per l'esercizio dell'attivita' sul territorio della Repubblica, applicabili ed accessibili attraverso il sito internet dell'Autorita' competente e, mediante appositi collegamenti ipertestuali, tramite il sito internet dell'AEAP.
+
+L'intermediario puo' iniziare a svolgere l'attivita' di intermediazione in regime di stabilimento sul territorio della Repubblica dal momento in cui riceve da parte dell'Autorita' dello Stato membro d'origine la comunicazione dell'Organismo per la registrazione degli intermediari assicurativi, anche a titolo accessorio, e riassicurativi o in caso di silenzio, dalla scadenza del termine di cui al comma 2.
+
+L'IVASS verifica che l'attivita' di intermediazione esercitata in regime di stabilimento nel territorio della Repubblica sia conforme alle disposizioni di cui agli articoli 30-decies, ai Capi III, III-bis, III-ter del Titolo IX, ed agli articoli 185, 185-bis e 185-ter, nonche' alle relative misure di attuazione. A tal fine, l'IVASS puo' esaminare le modalita' di insediamento e richiedere le modifiche necessarie per consentire all'autorita' dello Stato membro d'origine di far rispettare gli obblighi previsti da tali disposizioni.
+
+5. L'IVASS disciplina, con regolamento, la pubblicita' delle comunicazioni ricevute dalle autorita' di vigilanza degli altri Stati membri relative all'attivita' svolta in libera prestazione di servizi o in regime di stabilimento dagli intermediari di tali Stati nel territorio della Repubblica mediante annotazione nell'elenco annesso al registro di cui all'articolo 109, comma 2))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - ((Sezione III Ripartizione di competenze: accordi tra Autorita' ai fini dell'esercizio della vigilanza))
+
+## Art. 116-sexies. — (( (Accordi per la ripartizione di competenze tra Stato membro d'origine e Stato membro ospitante). ))
+
+((
+
+Nell'ipotesi in cui l'attivita' principale di un intermediario assicurativo, anche a titolo accessorio, o riassicurativo sia esercitata in uno Stato membro diverso da quello di origine, le autorita' competenti dello Stato membro d'origine e dello Stato membro ospitante possono concludere un accordo in forza del quale l'esercizio delle funzioni di vigilanza sia rimesso all'autorita' dello stato membro ospitante con riguardo alle disposizioni di cui agli articoli 6, 7, 30-decies, 185, 185-bis, 185-ter, 187-ter e 205-ter, al Titolo IX, con esclusione delle disposizioni relative agli obblighi di registrazione, e al Titolo XVIII.
+
+2. Laddove ricorra l'ipotesi di accordo di cui al comma 1, l'IVASS, se agisce in qualita' di autorita' dello stato membro d'origine, informa tempestivamente l'intermediario interessato e l'AEAP))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - ((Sezione IV Violazioni in caso di esercizio dell'attivita' in regime di libera prestazione di servizi o di stabilimento))
+
+## Art. 116-septies. — (( (Violazione degli obblighi nell'esercizio della libera prestazione dei servizi). ))
+
+((
+
+L'IVASS qualora, in qualita' di autorita' competente dello Stato membro ospitante, abbia motivo di ritenere che l'intermediario assicurativo, anche a titolo accessorio, o riassicurativo operante nel territorio della Repubblica in regime di libera prestazione dei servizi violi le disposizioni per l'esercizio di tale attivita', ne informa l'Autorita' dello Stato membro d'origine.
+
+Nell'ipotesi in cui, nonostante le misure adottate dall'autorita' dello Stato membro di origine o in caso di inadeguatezza o assenza di tali misure, l'intermediario continui ad operare nel territorio della Repubblica in modo dannoso rispetto agli interessi generali degli assicurati e altri aventi diritto a prestazioni assicurative e per il corretto funzionamento del mercato assicurativo e riassicurativo italiano, l'IVASS puo', dopo aver informato l'Autorita' dello stato membro di origine, adottare misure idonee a prevenire il compimento di ulteriori irregolarita', ivi inclusa la possibilita' di vietare all'intermediario interessato la prosecuzione dell'esercizio dell'attivita' sul territorio della Repubblica.
+
+L'IVASS puo' rinviare la questione all'AEAP e chiederne l'assistenza conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Nel caso in cui si renda necessaria un'azione immediata finalizzata a tutelare i diritti degli assicurati e degli altri aventi diritto a prestazioni assicurative l'IVASS puo' adottare ogni misura non discriminatoria idonea a prevenire o porre fine alle irregolarita' commesse sul territorio della Repubblica, ivi inclusa l'adozione di un provvedimento che vieti l'esercizio dell'attivita' di intermediazione assicurativa o riassicurativa in regime di libera prestazione dei servizi nel territorio della Repubblica.
+
+5. Le misure adottate dall'IVASS in conformita' alle disposizioni del presente articolo, sono assunte con provvedimento motivato e oggetto di comunicazione all'intermediario interessato, nonche' senza indugio all'autorita' competente dello Stato membro d'origine, all'AEAP e alla Commissione europea))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-octies. — (( (Violazione degli obblighi nell'esercizio della liberta' di stabilimento). ))
+
+((
+
+L'IVASS qualora, in qualita' di autorita' competente dello Stato membro ospitante, accerta che un intermediario assicurativo, anche a titolo accessorio, o riassicurativo, che eserciti l'attivita' in regime di stabilimento sul territorio della Repubblica, violi le disposizioni di cui agli articoli 30-decies, ai Capi III, III-bis, III-ter del Titolo IX ed agli articoli 185, 185-bis e 185-ter e relative disposizioni di attuazione, puo' adottare misure idonee.
+
+Laddove l'IVASS abbia motivo di ritenere che un intermediario assicurativo, anche a titolo accessorio, o riassicurativo di altro Stato membro, operante nel territorio della Repubblica, attraverso una stabile organizzazione, violi le disposizioni in materia di distribuzione assicurativa o riassicurativa di cui al presente codice rispetto alle quali ai sensi del comma 1 l'IVASS, in qualita' di Autorita' dello Stato membro ospitante, non esercita la vigilanza, ne informa l'autorita' competente dello Stato membro d'origine, ai fini dell'adozione di eventuali misure che pongano rimedio alle irregolarita' commesse.
+
+Qualora, nonostante le misure adottate ai sensi del comma 2 o in ipotesi di mancata adozione delle misure necessarie o di inadeguatezza delle stesse, l'intermediario continui ad agire nel territorio della Repubblica in modo contrario all'interesse generale degli assicurati e altri aventi diritto a prestazioni assicurative o al corretto funzionamento del mercato assicurativo o riassicurativo italiano, l'IVASS puo', dopo averne informato l'autorita' competente dello Stato membro di origine, adottare adeguate misure preventive di nuove irregolarita', ivi inclusa l'adozione di un provvedimento motivato che vieti la continuazione dell'esercizio dell'attivita' sul territorio della Repubblica, in regime di stabilimento da parte di intermediario di altro Stato membro.
+
+L'IVASS puo' rinviare la questione all'AEAP e chiederne l'assistenza conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Nel caso in cui si renda strettamente necessaria un'azione immediata finalizzata a tutelare i diritti degli assicurati e altri aventi diritto a prestazioni assicurative e se i provvedimenti equivalenti adottati dallo Stato membro d'origine risultano inadeguati o in caso di mancata adozione di tali provvedimenti, fermo quanto previsto dai commi 2, 3 e 4, l'IVASS puo' adottare misure idonee non discriminatorie volte a prevenire o porre fine alle irregolarita' commesse sul territorio italiano, ivi inclusa l'adozione nei confronti dell'intermediario, anche a titolo accessorio, di un provvedimento di divieto dell'esercizio dell'attivita' di intermediazione in regime di stabilimento nel territorio della Repubblica.
+
+6. Le misure adottate dall'IVASS in conformita' al presente articolo, sono assunte con provvedimento motivato e comunicate all'intermediario interessato, nonche' senza indugio all'autorita' competente dello Stato membro d'origine, all'AEAP e alla Commissione europea))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-novies. — (( (Violazione degli obblighi nell'esercizio di libera prestazione di servizi o stabilimento da parte di intermediari italiani). ))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-decies. — (( (Poteri legati alle disposizioni nazionali di interesse generale). ))
+
+((
+
+L'IVASS, in qualita' di autorita' competente dello Stato membro ospitante, puo' adottare misure non discriminatorie idonee a sanzionare le irregolarita' commesse nel territorio della Repubblica, in caso di mancata osservanza delle disposizioni di interesse generale di cui all'articolo 116-undecies, ivi inclusa l'adozione di misure che vietino all'intermediario assicurativo, anche a titolo accessorio, o riassicurativo di esercitare l'attivita', in regime di stabilimento o libera prestazione dei servizi, nel territorio della Repubblica.
+
+L'IVASS, in qualita' di autorita' competente dello Stato membro ospitante, puo' adottare misure dirette a vietare l'esercizio da parte di un distributore di prodotti assicurativi con sede in altro Stato membro dell'attivita' sul territorio della Repubblica, in regime di libera prestazione di servizi o di stabilimento, qualora l'attivita' sia svolta completamente o prevalentemente nel territorio della Repubblica, al fine di sottrarsi all'applicazione delle disposizioni ivi vigenti per i distributori italiani e, laddove al contempo, tale attivita' pregiudichi l'efficace funzionamento dei mercati assicurativi o riassicurativi italiani con riguardo alla tutela degli assicurati e altri aventi diritto a prestazioni assicurative.
+
+Nell'ipotesi di cui al comma 2, l'IVASS, dopo aver informato l'autorita' competente dello Stato membro d'origine, puo' adottare nei confronti del distributore di prodotti assicurativi misure idonee dirette alla tutela dei diritti degli assicurati e altri aventi diritto a prestazioni assicurative.
+
+4. L'IVASS puo' rinviare la questione all'AEAP e chiederne l'assistenza conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 116-undecies. — (( (Pubblicazione delle norme di interesse generale). ))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Capo III Regole di comportamento
+
+## Art. 117. — Separazione patrimoniale
+
+I premi pagati all'intermediario e le somme destinate ai risarcimenti o ai pagamenti dovuti dalle imprese di assicurazione, se regolati per il tramite dell'intermediario, sono versati in un conto separato, del quale puo' essere titolare anche l'intermediario espressamente in tale qualita', e che costituiscono un patrimonio autonomo rispetto a quello dell'intermediario medesimo.
+
+Sul conto separato non sono ammesse azioni, sequestri o pignoramenti da parte di creditori diversi dagli assicurati e dalle imprese di assicurazione. Sono ammesse le azioni da parte dei loro creditori ma nei limiti della somma rispettivamente spettante al singolo assicurato o alla singola impresa di assicurazione.
+
+Sul conto separato non operano le compensazioni legale e giudiziale e non puo' essere pattuita la compensazione convenzionale rispetto ai crediti vantati dal depositario nei confronti dell'intermediario.
+
+((3-bis. Sono esenti dagli obblighi previsti dal comma 1 gli intermediari di cui all'articolo 109, comma 2, lettere a), b) e d), che possano documentare in modo permanente con fideiussione bancaria una capacita' finanziaria pari al 4 per cento dei premi incassati, con un minimo di euro 18.750. Il limite minimo e' aggiornato mediante disposizioni dell'Unione europea direttamente applicabili per tener conto delle variazioni dell'indice europeo dei prezzi al consumo pubblicato da Eurostat.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 118. — Adempimento delle obbligazioni pecuniarie attraverso intermediari assicurativi
+
+Il pagamento del premio eseguito in buona fede all'intermediario o ai suoi collaboratori si considera effettuato direttamente all'impresa di assicurazione. Salvo prova contraria a carico dell'impresa o dell'intermediario, le somme dovute agli assicurati ed agli altri aventi diritto a prestazioni assicurative si considerano effettivamente percepite dall'avente diritto solo col rilascio di quietanza scritta.
+
+La disposizione di cui al comma 1 si applica nei confronti dell'intermediario iscritto nella sezione del registro di cui all'articolo 109, comma 2, lettera b), esclusivamente se tali attivita' sono espressamente previste dall'accordo sottoscritto con l'impresa. A tal fine l'intermediario e' tenuto a darne specifica comunicazione al cliente nell'ambito dell'informazione precontrattuale di cui all'articolo 120.
+
+La disposizione di cui al comma 1 si applica nei confronti dell'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera b), anche nel caso di polizza assunta in coassicurazione ed ha effetto nei confronti di ogni impresa coassicuratrice se le attivita' previste dal comma 1 sono incluse nell'accordo sottoscritto con l'impresa delegataria.
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)).
+
+## Art. 119. — Doveri e responsabilita' verso gli assicurati
+
+L'impresa di assicurazione per conto della quale agiscono i produttori diretti risponde in solido dei danni arrecati dall'operato dei medesimi, anche se tali danni siano conseguenti a responsabilita' accertata in sede penale.
+
+L'impresa di assicurazione, o un intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera a) o b), risponde in solido dei danni arrecati dall'operato dell'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettera d), cui abbia dato incarico, compresi quelli provocati dai soggetti iscritti alla sezione del registro di cui all'articolo 109, comma 2, lettera e), anche se tali danni siano conseguenti a responsabilita' accertata in sede penale.
+Possono essere distribuiti attraverso gli intermediari di cui all'articolo 109, comma 2, lettera d), salvo iscrizione ad altra sezione del registro, esclusivamente i prodotti assicurativi ai quali accedono garanzie o clausole predeterminate che vengano rimesse alla libera scelta dell'assicurato e non siano modificabili dal soggetto incaricato della distribuzione.
+
+L'intermediario iscritto alla sezione del registro di cui all'articolo 109, comma 2, lettere a), b) o d), e' responsabile dell'attivita' di intermediazione assicurativa svolta dai soggetti iscritti nella sezione del registro di cui all'articolo 109, comma 2, lettera e).
+
+## Art. 119-bis. — (Regole di comportamento e conflitti di interesse)
+
+I distributori di prodotti assicurativi operano con equita', onesta', professionalita', correttezza e trasparenza nel miglior interesse dei contraenti.
+
+Le informazioni relative alla distribuzione assicurativa, comprese le comunicazioni pubblicitarie relative ai prodotti distribuiti, indirizzate dai distributori di prodotti assicurativi a contraenti o potenziali contraenti sono corrette, chiare e non fuorvianti, imparziali e complete. Le comunicazioni pubblicitarie sono sempre chiaramente identificabili come tali. ((Si applicano le disposizioni di cui all'articolo 182)).
+
+L'IVASS puo' richiedere, in via non sistematica, la trasmissione del materiale pubblicitario, nelle sue diverse forme, utilizzato dai distributori.
+
+((
+
+I distributori di prodotti assicurativi non ricevono un compenso e non offrono un compenso ai loro dipendenti sulla base di criteri che siano contrari al loro dovere di agire nel migliore interesse dei contraenti previsto dal comma 1.
+
+))
+
+((
+
+Ai fini di cui al comma 4, il distributore non adotta disposizioni in materia di compenso, obiettivi di vendita o di altro tipo che potrebbero incentivare se stesso o i propri dipendenti a raccomandare ai contraenti un particolare prodotto assicurativo, ogniqualvolta tale distributore possa offrire un prodotto assicurativo differente che risponda meglio alle esigenze del contraente.
+
+))
+
+Quando i presidi adottati ai sensi del comma 6, lettera a), non sono sufficienti per assicurare, con ragionevole certezza, che sia evitato il rischio di nuocere agli interessi del contraente, ((il distributore)) informa chiaramente il contraente stesso, prima della conclusione di un contratto di assicurazione, della natura o della fonte di tale conflitto di interesse, in occasione dell'informativa fornita ai sensi dell'articolo 120-ter.
+
+I distributori possono incassare i premi esclusivamente con mezzi di pagamento che assicurano la tracciabilita' dell'operazione secondo soglie e per tipologie di contratti individuati dall'IVASS con regolamento.
+
+L'IVASS disciplina con regolamento le modalita' applicative del presente articolo. 
+ 
+ (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 119-ter. — (( (Consulenza e norme per le vendite senza consulenza).))
+
+((
+
+Qualsiasi contratto proposto deve essere coerente con le richieste e le esigenze assicurative del contraente.
+
+Se viene offerta una consulenza prima della conclusione del contratto, il distributore di prodotti assicurativi fornisce al contraente una raccomandazione personalizzata contenente i motivi per cui un particolare contratto e' ritenuto piu' indicato a soddisfare le richieste e le esigenze del contraente medesimo.
+
+Quando un intermediario assicurativo fornisce consulenze fondate su un'analisi imparziale e personale, lo stesso deve fondare tali consulenze sull'analisi di un numero sufficiente di contratti di assicurazione disponibili sul mercato, che gli consenta di formulare una raccomandazione personalizzata, secondo criteri professionali, in merito al contratto assicurativo adeguato a soddisfare le esigenze del contraente.
+
+5. L'IVASS disciplina con regolamento le modalita' applicative del presente articolo, tenendo conto delle differenti esigenze di protezione e tipologie degli assicurati, della diversa tipologia dei rischi, delle caratteristiche e complessita' del contratto offerto e delle cognizioni e della capacita' professionale degli addetti all'attivita' di distribuzione. L'IVASS disciplina altresi' con regolamento le modalita' di tenuta della documentazione concernente l'attivita' svolta.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 120. — (( (Informazione precontrattuale).))
+
+((
+
+Il distributore consegna al contraente, prima della conclusione del contratto e in caso di successive modifiche di rilievo o di rinnovo, la documentazione di cui all'articolo 185.
+
+Agli intermediari a titolo accessorio si applicano le disposizioni di cui al comma 1, lettere a), c) e d).
+
+Sono esclusi dagli obblighi informativi di cui al presente articolo e agli articoli 119-ter, 120-bis e 120-ter i distributori di prodotti assicurativi che operano nei grandi rischi e gli intermediari riassicurativi.
+
+6. L'IVASS, con regolamento, individua le modalita' applicative del presente articolo.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 120-bis. — (( (Trasparenza sulle remunerazioni).))
+
+((
+
+Nel caso di cui al precedente comma 1, lettera a), l'intermediario assicurativo e l'intermediario assicurativo a titolo accessorio comunicano al contraente anche l'importo del compenso.
+Qualora cio' non sia possibile, forniscono al contraente informazioni relative al metodo per calcolare il compenso stesso.
+
+Se il contraente effettua dei pagamenti diversi dai premi in corso e dai pagamenti programmati previsti dal contratto di assicurazione dopo averlo stipulato, l'intermediario assicurativo e l'intermediario assicurativo a titolo accessorio comunicano al contraente le informazioni previste dai commi 1 e 2 per ciascuno di tali pagamenti.
+
+Prima della conclusione di un contratto di assicurazione, l'impresa di assicurazione informa il contraente in merito alla natura del compenso percepito dai propri dipendenti direttamente coinvolti nella distribuzione del contratto di assicurazione.
+
+Se il contraente effettua dei pagamenti diversi dai premi in corso e dai pagamenti programmati previsti dal contratto di assicurazione dopo averlo stipulato, l'impresa di assicurazione comunica al contraente anche le informazioni di cui al comma 4 per ciascuno di tali pagamenti.
+
+6. L'IVASS, con regolamento, stabilisce le modalita' di comunicazione delle suddette informazioni, ai sensi dell'articolo 120-quater.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 120-ter. — (( (Trasparenza sui conflitti di interesse).))
+
+((1. Prima della conclusione del contratto di assicurazione l'intermediario assicurativo comunica al contraente almeno le seguenti informazioni: 
+ a) se detiene una partecipazione diretta o indiretta pari o superiore al 10 per cento del capitale sociale o dei diritti di voto di una determinata impresa di assicurazione; 
+b) se una determinata impresa di assicurazione, o l'impresa controllante di una determinata impresa di assicurazione, detiene una partecipazione diretta o indiretta pari o superiore al 10 per cento del capitale sociale o dei diritti di voto dell'intermediario assicurativo; 
+c) se fornisce consulenze fondate su una analisi imparziale e personale ai sensi dell'articolo 119-ter, comma 4; 
+d) fermo quanto previsto dal decreto-legge 31 gennaio 2007 n. 7, convertito, con modificazioni, dalla legge 2 aprile 2007, n. 40, se distribuisce determinati prodotti sulla base di un obbligo contrattuale che lo vincoli in modo esclusivo con una o piu' imprese di assicurazione; in tal caso l'intermediario comunica al contraente la denominazione di tali imprese; 
+e) se distribuisce determinati prodotti in assenza di obblighi contrattuali con imprese di assicurazione di cui alla lettera d) e non fornisce una consulenza basata su una analisi imparziale e personale; in tal caso comunica la denominazione delle imprese di assicurazione con le quali ha o potrebbe avere rapporti d'affari; 
+ f) ogni altra informazione utile a garantire il rispetto delle regole di trasparenza previste dal comma 5 dell'articolo 119-bis.))
+                                ((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 120-quater. — (( (Modalita' dell'informazione).))
+
+((
+
+Se le informazioni di cui al comma 1 sono fornite per mezzo di un supporto durevole non cartaceo o tramite un sito Internet, al cliente viene gratuitamente fornita, su richiesta, una copia in formato cartaceo.
+
+Ai fini dei commi 4 e 5, la fornitura di informazioni tramite un supporto durevole non cartaceo o per mezzo di un sito Internet e' ritenuta appropriata rispetto alle modalita' di distribuzione del prodotto assicurativo se il contraente ha regolarmente accesso ad Internet, ossia nel caso in cui fornisca un indirizzo di posta elettronica ai fini della distribuzione del prodotto.
+
+7. L'IVASS, con regolamento, disciplina la struttura del documento, da consegnare ai contraenti, che deve essere presentato e strutturato in modo tale da essere chiaro e di facile lettura e con caratteri di dimensione leggibile.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 120-quinquies. — (Vendita abbinata)
+
+Il distributore che propone un prodotto assicurativo insieme a un prodotto o servizio accessorio diverso da una assicurazione, come parte di un pacchetto o dello stesso accordo, informa il contraente dell'eventuale possibilita' di acquistare separatamente le due componenti e fornisce una descrizione adeguata delle diverse componenti dell'accordo o del pacchetto e i giustificativi separati dei costi e degli oneri di ciascuna componente.
+
+Nelle circostanze di cui al comma 1 e quando il rischio o la copertura assicurativa derivanti dall'accordo o dal pacchetto proposto a un contraente sono diversi dalle componenti considerate separatamente, il distributore di prodotti assicurativi fornisce una descrizione adeguata delle diverse componenti dell'accordo o del pacchetto e del modo in cui la loro interazione modifica i rischi o la copertura assicurativa.
+
+Se un prodotto assicurativo e' accessorio rispetto a un bene o servizio diverso da una assicurazione, come parte di un pacchetto o dello stesso accordo, il distributore di prodotti assicurativi offre al contraente la possibilita' di acquistare il bene o servizio separatamente. Il presente comma non si applica se un prodotto assicurativo e' accessorio rispetto a un servizio o attivita' di investimento quali definiti all'articolo 1, comma 5, del testo unico dell'intermediazione finanziaria, a un contratto di credito quale definito all'articolo 120- quinquies, comma 1, lettera c), del testo unico bancario ((, a un contratto di credito al consumo quale definito all'articolo 121, comma 1, lettera c), del testo unico bancario)) o a un conto di pagamento quale definito all'articolo 126-decies del testo unico bancario. ((83))
+
+Nei casi di cui ai commi 1 e 3, il distributore di prodotti assicurativi specifica al contraente i motivi per cui il prodotto assicurativo che e' parte del pacchetto complessivo o dello stesso accordo e' ritenuto indicato a soddisfare le richieste e le esigenze del contraente medesimo.
+
+Nei casi di cui ai commi 1 e 3, in relazione all'obiettivo di protezione degli assicurati, l'IVASS, con riferimento all'attivita' di distribuzione assicurativa, puo' applicare le misure cautelari e interdittive previste dal presente codice, ivi incluso il potere di vietare la vendita, come parte di un pacchetto o dello stesso accordo, di una assicurazione insieme a un servizio o prodotto diverso dall'assicurazione indipendentemente dal fatto che l'accessorieta' afferisca all'assicurazione o al servizio o prodotto diverso dall'assicurazione, quando tale pratica sia dannosa per i consumatori. Con riferimento ai prodotti di investimento assicurativi, i suddetti poteri sono esercitati da IVASS e CONSOB, coerentemente con le rispettive competenze.
+
+Le disposizioni di cui al presente articolo non si applicano alla distribuzione di prodotti assicurativi che offrono copertura per diversi tipi di rischio.».
+
+Sono fatte salve le previsioni del Codice del Consumo di cui al decreto legislativo 6 settembre 2005, n. 206, ove applicabili. 
+ 
+ (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            --------------
+                            AGGIORNAMENTO (83)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 212 ha disposto (con l'art. 6, comma 2) che "Fatto salvo quanto previsto dall'articolo 4, comma 2, i finanziatori e gli intermediari del credito si adeguano alle disposizioni del presente decreto entro il 20 novembre 2026 ovvero, se successivo, entro il termine di novanta giorni dalla data di entrata in vigore delle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia. Ai contratti di credito ai consumatori stipulati prima della scadenza di tale termine continuano ad applicarsi le pertinenti disposizioni del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, vigenti alla data di entrata in vigore del presente decreto, e le relative disposizioni di attuazione emanate dalle autorita' creditizie". 
+ Ha inoltre disposto (con l'art. 6, comma 3) che "In deroga al comma 2, ai contratti di credito ai consumatori a tempo indeterminato stipulati prima della scadenza del termine di cui al medesimo comma 2 e ancora in essere a tale data si applicano le disposizioni indicate all'articolo 47, terzo comma, della direttiva (UE) 2023/2225 del Parlamento europeo e del Consiglio, del 18 ottobre 2023, secondo le modalita' stabilite dalle disposizioni di attuazione dell'articolo 1 adottate dalla Banca d'Italia".
+
+## Art. 121. — (Informazione precontrattuale in caso di vendita a distanza)
+
+In ogni caso l'informazione e' fornita al contraente prima della conclusione del contratto di assicurazione. La stessa puo' essere fornita verbalmente solo a su espressa richiesta del contraente o qualora sia necessaria una copertura immediata del rischio. In caso di collocamento di un contratto a distanza mediante telefonia vocale, se il contraente lo richiede espressamente, gli obblighi di trasmissione della documentazione sono adempiuti, subito dopo la conclusione del contratto a distanza e comunque non oltre i cinque giorni successivi; in mancanza della predetta richiesta gli obblighi di trasmissione della documentazione sono adempiuti prima della conclusione del contratto di assicurazione. Anche se il contraente ha scelto di ottenere precedentemente le informazioni tramite un supporto durevole non cartaceo in conformita' a quanto previsto dall'articolo 120-quater, comma 4, l'informazione e' fornita al contraente dal distributore di prodotti assicurativi a norma dell'articolo 120-quater, commi 1 e 2, subito dopo la conclusione del contratto di assicurazione.
+
+L'IVASS, con regolamento, disciplina la promozione e il collocamento di contratti di assicurazione a distanza, anche per via telefonica, e determina le informazioni sul distributore e sulle caratteristiche del contratto, che sono comunicate al contraente in modo chiaro e comprensibile nel rispetto di quanto previsto ai commi 1 e 2, in conformita' alle disposizioni dell'unione europea direttamente applicabili e nel rispetto del Codice del Consumo di cui al decreto legislativo 6 settembre 2005, n. 206. 
+ 
+ (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            --------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## - - (( Capo IIIbis (Requisiti di Governo e controllo del prodotto applicabili ai distributori di prodotti assicurativi non realizzati in proprio) ))
+
+## Art. 121-bis. — (Acquisizione dal produttore delle necessarie informazioni sui prodotti assicurativi)
+
+) e agli articoli 185, 185-bis e 185-ter, i distributori di prodotti assicurativi non realizzati in proprio adottano opportune disposizioni per ottenere dai soggetti di cui all'articolo 30-decies, comma 1, le informazioni di cui all'articolo 30-decies, comma 5, e per comprendere le caratteristiche e il mercato di riferimento individuato per ciascun prodotto assicurativo.
+
+Le previsioni del presente articolo si applicano in conformita' con le disposizioni dell'Unione europea direttamente applicabili e con quanto stabilito dall'IVASS con regolamento. 
+ 
+ (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 121-ter. — (( (Disposizioni particolari in materia di Governo e controllo del prodotto).))
+
+((
+
+Le disposizioni in materia di Governo e controllo del prodotto di cui agli articoli 30-decies e 121-bis non si applicano ai prodotti assicurativi che consistono nell'assicurazione dei grandi rischi.
+
+2. Fatta salva l'applicazione alle imprese di assicurazione e agli intermediari che realizzano prodotti assicurativi da vendere ai clienti delle disposizioni di cui all'articolo 30-decies e relative disposizioni di attuazione, in caso di distribuzione di prodotti assicurativi attraverso i soggetti di cui all'articolo 107, comma 4, l'impresa di assicurazione o l'intermediario che se ne avvale:
+
+a) stabilisce le modalita' di accertamento dell'appartenenza dell'assicurato al mercato di riferimento individuato;
+
+b) adotta procedure idonee a garantire l'acquisizione delle informazioni relative alle ipotesi in cui il prodotto non risponda piu' agli interessi, agli obiettivi e alle caratteristiche del mercato di riferimento, nonche' alle altre circostanze relative al prodotto che aggravino il rischio di pregiudizio per il cliente.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - (( Capo IIIter (Requisiti supplementari per la distribuzione dei prodotti di investimento assicurativi) ))
+
+## Art. 121-quater. — (Vigilanza sulla distribuzione dei prodotti di investimento assicurativi)
+
+), l'IVASS esercita i poteri di vigilanza in relazione alla distribuzione del prodotto di investimento assicurativo svolta da parte delle imprese di assicurazione o per il tramite degli intermediari iscritti nelle sezioni del Registro di cui all'articolo 109, comma 2, lettere a) e b), e relativi collaboratori di cui alla lettera e), e intermediari di cui alla lettera c) del medesimo registro, secondo le disposizioni di cui al presente Capo.
+
+I regolamenti di attuazione del presente Capo sono adottati da IVASS, sentita la CONSOB, in modo da garantire uniformita' alla disciplina applicabile alla vendita dei prodotti di investimento assicurativo a prescindere dal canale distributivo e la coerenza e l'efficacia complessiva del sistema di vigilanza sui prodotti di investimento assicurativi.
+
+L'IVASS e la CONSOB si accordano sulle modalita' di esercizio dei poteri di vigilanza secondo le rispettive competenze, in modo da ridurre gli oneri a carico dei soggetti vigilati. 
+ 
+ (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 121-quinquies. — (( (Conflitti di interesse).))
+
+((
+
+Le imprese di assicurazione e gli intermediari assicurativi che distribuiscono prodotti di investimento assicurativi rispettano le disposizioni di cui all'articolo 119-bis in materia di regole di comportamento e conflitti di interesse.
+
+2. In deroga all'articolo 120-quater, comma 1, le informazioni di cui all'articolo 119-bis, comma 7, sono:
+
+a) fornite su un supporto durevole;
+
+b) sufficientemente dettagliate, in considerazione delle caratteristiche dei contraenti, per consentire a questi ultimi di prendere una decisione informata sulle attivita' di distribuzione assicurativa nel cui contesto sorge il conflitto di interesse.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 121-sexies. — (( (Informativa al contraente e incentivi).))
+
+((
+
+Le informazioni su tutti i costi e gli oneri, compresi quelli connessi alla distribuzione del prodotto di investimento assicurativo non causati dal verificarsi di un rischio di mercato sottostante, sono comunicate in forma aggregata per permettere al contraente di conoscere il costo totale e il suo effetto complessivo sul rendimento dell'investimento. Su richiesta del contraente, i costi e gli oneri sono comunicati in forma analitica. Se necessario, tali informazioni sono fornite al contraente con periodicita' regolare, e comunque almeno annuale, per tutto il periodo dell'investimento.
+
+Le informazioni di cui ai commi 1 e 2 sono fornite in una forma comprensibile in modo che i contraenti possano ragionevolmente comprendere la natura del prodotto di investimento assicurativo che viene loro proposto nonche' i rischi ad esso connessi e, di conseguenza, possano assumere decisioni consapevoli in materia di investimenti. Le informazioni di cui ai commi 1 e 2 sono fornite con modalita' uniformi, individuate dall'IVASS, sentita la CONSOB, con il regolamento di cui all'articolo 121-quater, in modo che le medesime informazioni risultino chiare e comprensibili.
+
+Fatto salvo l'articolo 120-bis, commi 1 e 3, gli intermediari assicurativi o le imprese di assicurazione adempiono agli obblighi di cui agli articoli 119-bis, comma 1, e 121-quinquies, quando pagano o percepiscono un onorario o una commissione o forniscono o ricevono benefici non monetari in relazione alla distribuzione di un prodotto di investimento assicurativo o di un servizio accessorio da un qualsiasi soggetto diverso dal contraente o da una persona che agisce per conto del contraente medesimo, solo se operano in conformita' alle disposizioni dell'Unione europea direttamente applicabili e alle disposizioni stabilite dall'IVASS con il regolamento di cui all'articolo 121-quater.
+
+5. I regolamenti IVASS di cui all'articolo 121-quater, in materia di incentivi tra intermediari assicurativi ed intermediari finanziari sono adottati conformemente alla disciplina prevista in materia alla direttiva 2014/65/UE ed in conformita' alle disposizioni dell'Unione europea direttamente applicabili.))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 121-septies. — (Valutazione dell'adeguatezza e dell'appropriatezza del prodotto assicurativo e comunicazione ai clienti)
+
+L'IVASS stabilisce con il regolamento di cui all'articolo 121-quater i casi in cui l'impresa di assicurazione o l'intermediario assicurativo sono obbligati a fornire consulenza per la distribuzione del prodotto di investimento assicurativo.
+
+Fatto salvo l'articolo 119-ter, commi 1 e 2, l'intermediario assicurativo o l'impresa di assicurazione che forniscono consulenza su un prodotto di investimento assicurativo, acquisiscono anche le informazioni necessarie in merito alle conoscenze ed esperienze del contraente in relazione al tipo di investimento, alla sua situazione finanziaria, tra cui la sua capacita' di sostenere perdite, e ai suoi obiettivi di investimento, inclusa la sua tolleranza al rischio, al fine di consentire all'intermediario assicurativo o all'impresa di assicurazione di raccomandare al contraente i prodotti di investimento assicurativi che siano a lui adeguati, con particolare riferimento alla sua tolleranza, al rischio e alla sua capacita' di sostenere perdite. La consulenza resa nell'ambito della distribuzione assicurativa del prodotto di investimento assicurativo, quando e' obbligatoria o quando e' svolta su iniziativa del distributore, non deve gravare economicamente sui clienti.
+
+Se l'intermediario assicurativo o l'impresa di assicurazione fornisce consulenza in materia di investimenti e raccomanda un pacchetto di servizi o prodotti abbinati a norma dell'articolo 120-quinquies, l'intero pacchetto raccomandato deve rispondere ai requisiti di adeguatezza previsti dal comma 2 del presente articolo.
+
+Fatto salvo l'articolo 119-ter, commi 1, 2 e 3, l'intermediario assicurativo o l'impresa di assicurazione che svolge attivita' di distribuzione in relazione a vendite che non prevedono una consulenza, chiede al contraente di fornire informazioni in merito alle sue conoscenze ed esperienze in materia di investimenti riguardo al tipo specifico di prodotto o servizio proposto o richiesto, al fine di consentire all'intermediario assicurativo o all'impresa di assicurazione di determinare se il servizio o il prodotto assicurativo in questione sia appropriato al contraente stesso.
+
+Se l'intermediario assicurativo o l'impresa di assicurazione distribuisce un pacchetto di servizi o prodotti abbinati a norma dell'articolo 120-quinquies, accerta che l'intero pacchetto sia appropriato nel suo insieme ai sensi del comma 4.
+
+L'intermediario assicurativo o l'impresa di assicurazione informa il contraente se ritiene, sulla base delle informazioni ottenute a norma del comma 4, che il prodotto non sia appropriato al contraente stesso. L'intermediario assicurativo o l'impresa di assicurazione informano altresi' il cliente, ai sensi dalla valutazione di cui all'articolo 30-decies, della fascia di clientela alla quale il prodotto non puo' essere distribuito.
+
+Se il contraente non fornisce ((le informazioni di cui al comma 4)) o fornisce informazioni insufficienti circa le sue conoscenze ed esperienze, l'intermediario assicurativo o l'impresa di assicurazione lo informa che tale circostanza pregiudica la capacita' dell'intermediario assicurativo o dell'impresa di assicurazione di valutare se il prodotto sia appropriato alle esigenze del contraente stesso.
+
+L'intermediario assicurativo o l'impresa di assicurazione mantiene evidenza dei documenti in cui sono precisati i diritti e gli obblighi delle parti nonche' delle altre condizioni alle quali l'intermediario assicurativo o l'impresa di assicurazione fornira' servizi al contraente. I diritti e gli obblighi delle parti del contratto possono essere incorporati attraverso riferimento ad altri documenti o testi normativi.
+
+L'intermediario assicurativo o l'impresa di assicurazione fornisce ai contraenti, su un supporto durevole, adeguate relazioni sui servizi prestati, che includono comunicazioni periodiche, tenendo conto della tipologia e della complessita' dei prodotti di investimento assicurativi e della natura del servizio prestato e comprendono, se del caso, i costi delle operazioni e dei servizi prestati per conto dei contraenti.
+
+Quando fornisce consulenza in merito al prodotto di investimento assicurativo, l'intermediario assicurativo o l'impresa di assicurazione fornisce al contraente, su un supporto durevole, prima della conclusione del contratto, una dichiarazione di adeguatezza in cui sia indicata la fornitura della consulenza e in che modo essa risponda alle preferenze, agli obiettivi e ad altre caratteristiche del contraente. Si applicano le disposizioni di cui all'articolo 120-quater, commi da 1 a 4.
+
+Se l'intermediario assicurativo o l'impresa di assicurazione ha informato il contraente che effettuera' periodicamente la valutazione di adeguatezza, la relazione periodica contiene una dichiarazione aggiornata che spieghi in che modo il prodotto di investimento assicurativo corrisponde alle preferenze, agli obiettivi e alle altre caratteristiche del contraente stesso.
+
+Le disposizioni del presente articolo si applicano in conformita' alle disposizioni direttamente applicabili dell'Unione europea. L'IVASS disciplina con il regolamento di cui all'articolo 121-quater le modalita' applicative del presente articolo, inclusa la possibilita' di fornire le relative informazioni in formato standardizzato. 
+ 
+ (45)
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 121-octies. — (( (Protocollo d'intesa).))
+
+((45))
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Titolo X ASSICURAZIONE OBBLIGATORIA PER I VEICOLI A MOTORE E I NATANTI Capo I Obbligo di assicurazione
+
+## Art. 122. — Veicoli a motore
+
+((70))
+                                ((1-bis. La disposizione di cui al comma 1 si applica a prescindere dalle caratteristiche del veicolo, dal terreno su cui e' utilizzato e dal fatto che sia fermo o in movimento.))
+                                ((70))
+                                ((1-ter. L'obbligo di cui al comma 1 riguarda anche i veicoli utilizzati esclusivamente in zone il cui accesso e' soggetto a restrizioni. Resta valida, ai fini dell'adempimento dell'obbligo di cui al comma 1, la stipula, da parte di soggetti pubblici o privati, di polizze che coprono il rischio di una pluralita' di veicoli secondo la prassi contrattuale in uso, quando utilizzati per le attivita' proprie di tali soggetti, sempre che i veicoli siano analiticamente individuati nelle polizze.))
+                                ((70))
+                                ((1-quater. Alla violazione della disposizione di cui al comma 1 si applicano le sanzioni amministrative di cui all'articolo 193 del decreto legislativo 30 aprile 1992, n. 285. La violazione della disposizione di cui al comma 1-ter e' soggetta alle sanzioni amministrative di cui all'articolo 193, commi 2 e 3, del medesimo decreto legislativo 30 aprile 1992, n. 285. La violazione delle disposizioni di cui all'articolo 122-bis, comma 2, e' soggetta alle sanzioni amministrative di cui al citato articolo 193 del decreto legislativo n. 285 del 1992, aumentando della meta' la sanzione amministrativa pecuniaria prevista dal comma 2 del citato articolo 193. Si applicano le disposizioni del titolo VI del medesimo decreto legislativo n. 285 del 1992.))
+                                ((70))
+
+L'assicurazione comprende la responsabilita' per i danni alla persona causati ai trasportati, qualunque sia il titolo in base al quale e' effettuato il trasporto.
+
+L'assicurazione non ha effetto nel caso di circolazione avvenuta contro la volonta' del proprietario, dell'usufruttuario, dell'acquirente con patto di riservato dominio o del locatario in caso di locazione finanziaria, fermo quanto disposto dall'articolo 283, comma 1, lettera d), a partire dal giorno successivo alla denuncia presentata all'autorita' di pubblica sicurezza. In deroga all'articolo 1896, primo comma, secondo periodo, del codice civile l'assicurato ha diritto al rimborso del rateo di premio, relativo al residuo periodo di assicurazione, al netto dell'imposta pagata e del contributo previsto dall'articolo 334.
+
+L'assicurazione copre anche la responsabilita' per i danni causati nel territorio degli altri Stati membri, secondo le condizioni ed entro i limiti stabiliti dalle legislazioni nazionali di ciascuno di tali Stati, concernenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore, ferme le maggiori garanzie eventualmente previste dal contratto o dalla legislazione dello Stato in cui stazionano abitualmente.
+
+-------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 122-bis. — (Deroghe)
+
+In deroga a quanto disposto dall'articolo 122, comma 1, del presente codice e dall'articolo 193 del codice della strada di cui al decreto legislativo 30 aprile 1992, n. 285, i veicoli formalmente ritirati dalla circolazione nonche' quelli il cui uso e' vietato, in via temporanea o permanente, in forza di una misura adottata dall'autorita' competente conformemente alla normativa vigente, non sono soggetti all'obbligo di assicurazione.
+
+La deroga di cui al comma 1 trova altresi' applicazione per i veicoli di cui all'articolo 1, comma 1, lettera rrr), del presente codice rientranti nella tipologia dei carrelli di cui all'articolo 58, comma 2, lettera c), del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, non immatricolati, quando operano all'interno di aree aziendali, stabilimenti, magazzini o depositi, nonche' per i veicoli utilizzati esclusivamente in zone non accessibili al pubblico nelle aree ferroviarie, portuali e aeroportuali, coperti da polizza assicurativa per la responsabilita' civile verso terzi diversa dall'assicurazione obbligatoria. Nei casi di cui al presente comma non vi e' obbligo di indennizzo da parte del Fondo di garanzia di cui all'articolo 283 del presente codice, se la responsabilita' verso terzi, per i sinistri occorsi nelle aree indicate, e' comunque coperta da assicurazione volontaria o contratta in forza di disposizioni speciali.
+
+La deroga di cui al comma 1 trova altresi' applicazione per le macchine agricole di cui all'articolo 57 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, non immatricolate o prive del certificato di idoneita' tecnica alla circolazione, che operano esclusivamente all'interno di fondi agricoli, aziende agrarie o spazi a uso interno non accessibili al pubblico, a condizione che siano coperte da polizza assicurativa per la responsabilita' civile verso terzi diversa dall'assicurazione obbligatoria. Nei casi di cui al presente comma non vi e' obbligo di indennizzo da parte del Fondo di garanzia di cui all'articolo 283 del presente codice, se la responsabilita' verso terzi, per i sinistri occorsi nelle aree indicate, e' comunque coperta da assicurazione volontaria o contratta in forza di disposizioni speciali.
+
+((La deroga di cui al comma 1 si applica anche quando il veicolo non e' idoneo all'uso come mezzo di trasporto, inclusa l'ipotesi in cui il veicolo sia privo di parti essenziali, che lo rendano, in maniera stabile, inidoneo per il suo utilizzo. Con decreto del Ministero delle infrastrutture e dei trasporti sono identificate le parti essenziali dei veicoli la cui mancanza li renda, in maniera stabile, inidonei al loro utilizzo. Tale deroga trova applicazione anche quando l'utilizzo del veicolo e' stato volontariamente sospeso su richiesta dei soggetti di cui all'articolo 122, comma 3, per effetto di una formale comunicazione all'impresa di assicurazione resa ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.)) Il termine di sospensione, inizialmente comunicato dal soggetto legittimato, puo' essere prorogato piu' volte, previa formale comunicazione all'impresa di assicurazione da effettuarsi entro dieci giorni prima della scadenza del periodo di sospensione in corso e non puo' avere una durata superiore a dieci mesi, rispetto all'annualita'. Per i veicoli di cui all'articolo 60 del decreto legislativo 30 aprile 1992, n. 285, il termine di sospensione, inizialmente comunicato dal soggetto legittimato, puo' essere prorogato piu' volte, previa formale comunicazione all'impresa di assicurazione da effettuarsi entro cinque giorni prima della scadenza del periodo di sospensione in corso e non puo' avere una durata superiore a undici mesi, rispetto all'annualita'. Con decreto del Ministro delle imprese e del made in Italy e del Ministro delle infrastrutture e dei trasporti, sentito l'Ivass, possono essere disciplinati ulteriori casi e modalita' di sospensione dell'obbligo assicurativo tenuto conto del precipuo valore collezionistico dei veicoli di cui al medesimo articolo 60. ((Ferma restando la necessita' che la carta di circolazione riporti la classificazione conseguita e i dati del certificato di rilevanza storica, in relazione ai veicoli di interesse storico e collezionistico di cui all'articolo 60, comma 4, del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, l'obbligo assicurativo puo' essere adempiuto anche con schemi assicurativi diversi dallo schema della responsabilita' civile dei veicoli a motore, sempre che sia indicato separatamente il premio relativo al rischio dinamico rispetto a quello statico.))
+
+((Nei casi di uso stagionale, nonche' nelle ipotesi di trasferimento di proprieta', demolizione o esportazione definitiva all'estero dei veicoli, con decreto del Ministro delle imprese e del made in Italy, di concerto con il Ministro delle infrastrutture e dei trasporti, sentito l'IVASS, possono essere, altresi', previsti schemi di contratti di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti la cui durata puo' essere inferiore al termine di cui all'articolo 170-bis.))
+
+La sospensione di cui al comma 2 e' attivata dal momento della registrazione nella banca dati di cui all'articolo 1, comma 1, lettera c), del regolamento di cui al decreto del Ministro dello sviluppo economico 9 agosto 2013, n. 110, secondo le modalita' previste dall'articolo 3, comma 2, del medesimo regolamento.
+L'impresa ne da' tempestiva comunicazione all'assicurato.
+
+In caso di sinistro provocato da un veicolo di cui ai commi 1 e 2, si applicano le disposizioni di cui all'articolo 283, comma 1, lettera b).
+
+Qualora il veicolo responsabile del sinistro stazioni abitualmente in un altro Stato membro, il Fondo di garanzia di cui all'articolo 283 puo' presentare una richiesta di indennizzo nei confronti del fondo di garanzia nello Stato membro in cui il veicolo staziona abitualmente. 
+ (70)
+
+-------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 123. — Natanti
+
+Le unita' da diporto, con esclusione delle unita' non dotate di motore, non possono essere poste in navigazione in acque ad uso pubblico o su aree a queste equiparate se non siano coperte dall'assicurazione della responsabilita' civile verso terzi prevista dall'articolo 2054 del codice civile, compresa quella dell'acquirente con patto di riservato dominio e quella del locatario in caso di locazione finanziaria, per danni alla persona. Il regolamento, adottato dal ((Ministro dello sviluppo economico)) su proposta dell'((IVASS)), individua la tipologia dei natanti esclusi dall'obbligo di assicurazione e le acque equiparate a quelle di uso pubblico.
+
+Sono altresi' soggetti all'obbligo assicurativo i natanti di stazza lorda non superiore a venticinque tonnellate che siano muniti di motore inamovibile di potenza superiore a tre cavalli fiscali e adibiti ad uso privato, diverso dal diporto, o al servizio pubblico di trasporto di persone.
+
+L'obbligo assicurativo e' esteso ai motori amovibili, di qualsiasi potenza, indipendentemente dall'unita' alla quale vengono applicati, risultando in tal caso assicurato il natante sul quale e' di volta in volta collocato il motore.
+
+Alle unita' da diporto, ai natanti e ai motori amovibili si applicano, in quanto compatibili, le norme previste per l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore.
+
+## Art. 124. — Gare e competizioni sportive
+
+
+
+L'assicurazione ((stipulata dall'organizzatore)) copre la responsabilita' dell'organizzatore e degli altri obbligati per i danni arrecati alle persone, agli animali e alle cose, esclusi i danni prodotti ai partecipanti stessi e ai veicoli da essi adoperati.
+
+## Art. 125. — Veicoli e natanti immatricolati o registrati in Stati esteri
+
+Per i veicoli e i natanti soggetti all'obbligo di assicurazione ed immatricolati o registrati in Stati esteri nonche' per i motori amovibili di cui all'articolo 123, comma 3, muniti di certificato di uso straniero o di altro documento equivalente emesso all'estero, che circolino temporaneamente nel territorio o nelle acque territoriali della Repubblica, deve essere assolto, per la durata della permanenza in Italia, l'obbligo di assicurazione.
+
+Per i veicoli a motore muniti di targa di immatricolazione rilasciata da uno Stato membro diverso dalla Repubblica italiana, l'obbligo di assicurazione si considera assolto quando l'Ufficio centrale italiano si sia reso garante per il risarcimento dei danni cagionati dalla circolazione in Italia di detti veicoli, sulla base di accordi stipulati con i corrispondenti uffici nazionali di assicurazione e l'Unione europea abbia riconosciuto tali accordi.
+
+Nell'ipotesi di cui al comma 3, lettera c), l'Ufficio centrale italiano provvede alla liquidazione dei danni, garantendone il pagamento agli aventi diritto, nei limiti dei massimali minimi di legge o, se maggiori, di quelli eventualmente previsti dalla polizza di assicurazione alla quale si riferisce la carta verde. Nelle ipotesi di cui al comma 3, lettera b), ed in quelle di cui al comma 4, l'Ufficio centrale italiano provvede alla liquidazione dei danni cagionati in Italia, garantendone il pagamento agli aventi diritto nei limiti dei massimali minimi di legge o, se maggiori, di quelli eventualmente previsti dalla polizza di assicurazione.
+
+L'Ufficio centrale italiano, entro tre mesi dalla ricezione della richiesta di risarcimento comunica agli aventi diritto un'offerta di risarcimento motivata ovvero indica i motivi per i quali non ritiene di fare offerta.
+
+Le disposizioni di cui ai commi 3 e 4 si applicano anche ai veicoli a motore di proprieta' di agenti diplomatici e consolari o di funzionari internazionali, o di proprieta' di Stati esteri o di organizzazioni internazionali.
+
+Le disposizioni di cui al comma 3, lettera b), ed al comma 4 non si applicano per l'assicurazione della responsabilita' civile per danni cagionati dalla circolazione dei veicoli aventi targa di immatricolazione rilasciata da uno Stato estero e individuati nel regolamento adottato, su proposta dell'((IVASS)), dal ((Ministro dello sviluppo economico)).
+
+## Art. 126. — Ufficio centrale italiano
+
+L'Ufficio centrale italiano e' abilitato all'esercizio delle funzioni di Ufficio nazionale di assicurazione e allo svolgimento degli altri compiti stabiliti dall'ordinamento comunitario e dal presente codice a seguito di riconoscimento del Ministro dello sviluppo economico.
+
+((3. Ai fini della proposizione dell'azione diretta di risarcimento nei confronti dell'Ufficio centrale italiano il termine per comparire di cui all'articolo 163-bis, primo comma, del codice di procedura civile e' aumentato a duecentodieci giorni e il termine previsto dall'articolo 281-undecies, secondo comma, terzo periodo del codice di procedura civile e' aumentato a cento giorni.))
+
+((75))
+
+L'Ufficio centrale italiano e' abilitato ad emettere le carte verdi richieste per la circolazione all'estero di veicoli a motore immatricolati in Italia, garantendo nei confronti dei corrispondenti uffici nazionali di assicurazione le obbligazioni che il rilascio di tali certificati comporta.
+
+Per i rimborsi effettuati agli uffici nazionali di assicurazione esteri, che in base agli accordi con esso stipulati abbiano dovuto intervenire per risarcire danni causati nel territorio del loro Stato da veicoli a motore immatricolati in Italia non coperti da assicurazione, l'Ufficio centrale italiano ha diritto di rivalsa nei confronti del proprietario o del conducente del veicolo per le somme pagate e le relative spese.
+
+In caso di incidente cagionato nel territorio della Repubblica dalla circolazione di veicoli a motore o natanti immatricolati o registrati all'estero, l'Ufficio centrale italiano puo' richiedere ai competenti organi di polizia le informazioni acquisite relativamente alle modalita' dell'incidente, alla residenza e al domicilio delle parti e alla targa di immatricolazione o altro analogo segno distintivo.
+
+---------------
+                            AGGIORNAMENTO (75)
+                            
+ Il D.Lgs. 31 ottobre 2024, n. 164, ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
+
+## Art. 127. — Certificato di assicurazione e contrassegno
+
+L'adempimento dell'obbligo di assicurazione dei veicoli a motore e' comprovato da apposito certificato rilasciato dall'impresa di assicurazione o dalla delegataria in caso di coassicurazione, da cui risulti il periodo di assicurazione per il quale sono stati pagati il premio o la rata di premio.
+
+L'impresa di assicurazione e' obbligata nei confronti dei terzi danneggiati per il periodo di tempo indicato nel certificato, salvo quanto disposto dall'articolo 1901, secondo comma, del codice civile e dall'articolo 122, comma 3, primo periodo.
+
+All'atto del rilascio del certificato di assicurazione l'impresa di assicurazione consegna un contrassegno recante il numero della targa di riconoscimento del veicolo e l'indicazione dell'anno, mese e giorno di scadenza del periodo di assicurazione per cui e' valido il certificato. Il contrassegno e' esposto sul veicolo al quale si riferisce l'assicurazione entro cinque giorni dal pagamento del premio o della rata di premio. (30)
+
+L'((IVASS)), con regolamento, stabilisce le modalita' per il rilascio, nonche' le caratteristiche del certificato di assicurazione, del contrassegno e di eventuali documenti provvisoriamente equipollenti e le modalita' per l'emissione di duplicati in caso di sottrazione, smarrimento o distruzione.
+
+-------------
+                            AGGIORNAMENTO (30)
+                            
+ Il Decreto 9 agosto 2013, n. 110 ha disposto (con l'art. 2, comma 2) che "Il processo di dematerializzazione si conclude entro due anni dall'entrata in vigore del presente regolamento con conseguente cessazione da quella data dell'obbligo di esposizione del contrassegno di cui all'articolo 127 del decreto legislativo 7 settembre 2005, n. 209, nonche' all'articolo 181 del decreto legislativo 30 aprile 1992, n. 285."
+
+## Art. 128. — (( (Massimali di garanzia). ))
+
+((
+
+2. Ogni cinque anni dalla data del 22 dicembre 2021, gli importi di cui al comma 1, lettere a) e b), sono indicizzati automaticamente in linea con l'indice dei prezzi al consumo armonizzato (IPCA) stabilito a norma del regolamento (UE) 2016/792 del Parlamento europeo e del Consiglio, dell'11 maggio 2016, relativo agli indici dei prezzi al consumo armonizzati e all'indice dei prezzi delle abitazioni, e recante abrogazione del regolamento (CE) n. 2494/95 del Consiglio, per effetto degli atti delegati adottati dalla Commissione europea entro sei mesi dalla fine di ciascun periodo di cinque anni.))
+
+((70))
+
+---------------
+                            AGGIORNAMENTO (40)
+                            
+ Il Decreto 9 giugno 2017 (in G.U. 27/07/2017, n. 174) ha disposto (con l'art. 1, comma 1) che "A decorrere dall'11 giugno 2017, gli importi indicati al comma 1 dell'art. 128, del decreto legislativo 7 settembre 2005, n. 209, sono aggiornati ai seguenti valori; 
+ euro 6.070.000,00 per sinistro, indipendentemente dal numero delle vittime, per quanto riguarda l'importo minimo di copertura nel caso di danni alle persone, di cui alla lettera a); 
+ euro 1.220.000,00 per sinistro, indipendentemente dal numero delle vittime, per quanto riguarda l'importo minima di copertura nel caso di danni alle cose, di cui alla lettera b)". 
+                            ------------
+                            AGGIORNAMENTO (43)
+                            
+ La L. 4 agosto 2017, n. 124 ha disposto (con l'art. 1, comma 29) che "I massimali di cui all'articolo 128, comma 1, lettera b-bis), del codice di cui al decreto legislativo 7 settembre 2005, n. 209, introdotta dalla lettera a) del comma 28 del presente articolo, si applicano a decorrere dalla data di entrata in vigore della presente legge e sono raddoppiati a decorrere dal 1° gennaio dell'anno successivo a quello di entrata in vigore della presente legge". 
+                            ---------------
+                            AGGIORNAMENTO (66)
+                            
+ Il Decreto 31 maggio 2022 (in G.U. 27/06/2022, n. 148) ha disposto (con l'art. 1, comma 1) che "A decorrere dall'11 giugno 2022, gli importi indicati al comma 1 dell'art. 128, del decreto legislativo 7 settembre 2005, n. 209, sono aggiornati ai seguenti valori: 
+ euro 6.450.000,00 per sinistro, indipendentemente dal numero delle vittime, per quanto riguarda l'importo minimo di copertura nel caso di danni alle persone, di cui alla lettera a); 
+ euro 1.300.000,00 per sinistro, indipendentemente dal numero delle vittime, per quanto riguarda l'importo minimo di copertura nel caso di danni alle cose, di cui alla lettera b)". 
+                            -------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 129. — Soggetti esclusi dall'assicurazione
+
+Non e' considerato terzo e non ha diritto ai benefici derivanti dal contratto di assicurazione obbligatoria il solo conducente del veicolo responsabile del sinistro.
+
+## - - Capo II Esercizio dell'assicurazione
+
+## Art. 130. — Imprese autorizzate
+
+L'assicurazione puo' essere stipulata con qualsiasi impresa autorizzata ad esercitare nel territorio della Repubblica, anche in regime di stabilimento e di liberta' di prestazione di servizi, l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli e dei natanti.
+
+Le imprese di assicurazione aventi la sede legale nel territorio della Repubblica e le imprese di assicurazione aventi la sede legale in uno Stato terzo autorizzate ad esercitare l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, esclusa la responsabilita' del vettore, designano in ogni Stato membro un mandatario incaricato della gestione e della liquidazione dei sinistri nei casi di cui all'articolo 151.
+
+Nel caso in cui l'impresa di assicurazione, che opera in regime di liberta' di prestazione di servizi, non abbia nominato il rappresentante per la gestione dei sinistri di cui all'articolo 25, il mandatario nominato ai sensi del comma 2 ne assume la funzione.
+
+## Art. 131. — Trasparenza dei premi e delle condizioni di contratto
+
+Al fine di garantire la trasparenza e la concorrenzialita' delle offerte dei servizi assicurativi, nonche' un'adeguata informazione ai soggetti che devono adempiere all'obbligo di assicurazione dei veicoli e dei natanti, le imprese mettono a disposizione del pubblico, presso ogni punto di vendita e nei siti internet, ((il documento informativo)) e le condizioni di contratto praticate nel territorio della Repubblica.
+
+La pubblicita' dei premi e' attuata mediante preventivi personalizzati rilasciati presso ogni punto di vendita dell'impresa di assicurazione, nonche' mediante siti internet che permettono di ricevere il medesimo preventivo per i veicoli e per i natanti individuati nel regolamento di attuazione.
+
+Per l'offerta di contratti relativi all'assicurazione r.c. auto, l'intermediario rilascia preventiva informazione al consumatore sulle provvigioni riconosciutegli dall'impresa o, distintamente, dalle imprese per conto di cui opera. L'informazione e' affissa nei locali in cui l'intermediario opera e risulta nella documentazione rilasciata al contraente.
+
+I preventivi e le polizze indicano, in modo evidenziato, il premio di tariffa, la provvigione dell'intermediario, nonche' lo sconto complessivamente riconosciuto al sottoscrittore del contratto.
+
+L'IVASS determina, con regolamento, gli obblighi a carico delle imprese e degli intermediari.
+
+## Art. 132. — Obbligo a contrarre
+
+((
+
+Le imprese di assicurazione stabiliscono preventivamente le condizioni di polizza e le tariffe relative all'assicurazione obbligatoria, comprensive di ogni rischio derivante dalla circolazione dei veicoli a motore e dei natanti.
+
+Le imprese di assicurazione sono tenute ad accettare le proposte che sono loro presentate secondo le condizioni e le tariffe di cui al comma 1, fatta salva la necessaria verifica della correttezza dei dati risultanti dall'attestato di rischio, nonche' dell'identita' del contraente e dell'intestatario del veicolo, se persona diversa.
+
+1-ter. Qualora dalla verifica, effettuata anche mediante consultazione delle banche di dati di settore e dell'archivio informatico integrato istituito presso l'IVASS di cui all'articolo 21 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e successive modificazioni, risulti che le informazioni fornite dal contraente non siano corrette o veritiere, le imprese di assicurazione non sono tenute ad accettare le proposte loro presentate. Le imprese di assicurazione, in caso di mancata accettazione della proposta, ricalcolano il premio e inviano un nuovo preventivo al potenziale contraente))
+
+Le imprese di assicurazione possono richiedere che l'autorizzazione sia limitata, ai fini dell'assolvimento agli obblighi derivanti dal comma 1, ai rischi derivanti dalla circolazione di flotte di veicoli a motore o di natanti.
+
+Al fine di facilitare le verifiche propedeutiche all'osservanza dell'obbligo a contrarre di cui al comma 1, le imprese di assicurazione hanno diritto di accedere in via telematica al pubblico registro automobilistico ed all'archivio nazionale dei veicoli previsto dal codice della strada secondo condizioni economiche e tecniche strettamente correlate ai costi del servizio erogato in ragione dell'esigenza di consultazioni anche sistematiche nell'ambito delle attivita' di prevenzione e contrasto delle frodi nell'assicurazione obbligatoria. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti, sono adottate le disposizioni di attuazione.
+
+((3-bis. In caso di segnalazione di violazione o elusione dell'obbligo a contrarre, incluso il rinnovo, i termini regolamentari di gestione dei reclami da parte dell'IVASS sono dimezzati. Decorso inutilmente il termine, l'IVASS provvede a irrogare le sanzioni di cui all'articolo 314))
+
+## Art. 132.1. — (( (Preventivatore per il confronto dei prezzi dell'assicurazione autoveicoli). ))
+
+((
+
+I consumatori confrontano gratuitamente i prezzi, le tariffe e le condizioni contrattuali delle imprese di assicurazione che forniscono copertura nel ramo dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore, attraverso lo strumento indipendente denominato "Preventivass", consultabile nei siti internet dell'IVASS e del Ministero delle imprese e del made in Italy.
+
+2. Il preventivatore e' dotato delle seguenti caratteristiche:
+
+a) assicura che i prestatori di servizi ricevano pari trattamento nei risultati di ricerca;
+
+b) indica chiaramente l'identita' dei proprietari e degli operatori dello strumento di confronto;
+
+c) enuncia i criteri chiari e oggettivi su cui si basa il confronto;
+
+d) utilizza un linguaggio chiaro;
+
+e) fornisce informazioni precise e aggiornate e indica la data dell'ultimo aggiornamento;
+
+f) e' aperto a qualsiasi prestatore dell'assicurazione obbligatoria di cui al comma 1, mette a disposizione le informazioni pertinenti, include un'ampia gamma di offerte che copre un segmento significativo del mercato dell'assicurazione autoveicoli e, se le informazioni presentate non forniscono un quadro completo del mercato, fornisce all'utente una chiara indicazione in tal senso prima di mostrare i risultati;
+
+g) prevede una procedura efficace per segnalare le informazioni errate;
+
+h) comprende una dichiarazione indicante che i prezzi si basano sulle informazioni fornite e fa salvi ulteriori sconti applicabili in sede di sottoscrizione del contratto.))
+
+((70))
+
+-------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 132-bis. — (Obblighi informativi degli intermediari)
+
+Gli intermediari, prima della sottoscrizione di un contratto di assicurazione obbligatoria per i veicoli a motore, sono tenuti a informare il consumatore in modo corretto, trasparente ed esaustivo sui premi offerti da tutte le imprese di assicurazione di cui sono mandatari relativamente al contratto base previsto dall'articolo 22 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e successive modificazioni.
+
+((2. Al fine di cui al comma 1, gli intermediari forniscono l'indicazione dei premi offerti dalle imprese di assicurazione mediante collegamento telematico al preventivatore di cui all'articolo 132.1, consultabile nei siti internet dell'IVASS e del Ministero delle imprese del made in Italy e senza obbligo di rilascio di supporti cartacei.))
+
+((70))
+
+L'IVASS adotta disposizioni attuative in modo da garantire l'accesso e la risposta per via telematica, sia ai consumatori che agli intermediari, esclusivamente per i premi applicati dalle imprese di assicurazione per il contratto base relativo ad autovetture e motoveicoli. Con le stesse disposizioni sono definite le modalita' attraverso le quali, ottenuti i preventivi sulla base delle informazioni inserite nel servizio informativo di cui all'articolo 136, comma 3-bis, e' consentita la conclusione del contratto, a condizioni non peggiorative rispetto a quanto indicato nel preventivo stesso, o presso un'agenzia della compagnia ovvero, per le imprese che lo prevedano, attraverso un collegamento diretto al sito internet di ciascuna compagnia di assicurazione.
+
+Il contratto stipulato senza la dichiarazione del cliente di aver ricevuto, ove prescritte, le informazioni di cui al comma 1 e' affetto da nullita' rilevabile solo a favore del cliente.
+
+-------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 132-ter. — (Sconti obbligatori)
+
+L'IVASS, con proprio regolamento, definisce criteri e modalita' nell'ambito dei processi di costruzione della tariffa e di ricalcolo del premio, per la determinazione da parte delle imprese di assicurazione dello sconto di cui al comma 1. Le imprese di assicurazione, in attuazione dei criteri stabiliti dall'IVASS, definiscono uno sconto significativo da applicare alla clientela a fronte della riduzione del rischio connesso al ricorrere di una o piu' delle condizioni di cui al comma 1 ed evidenziano in sede di preventivo e nel contratto, in caso di accettazione da parte del contraente, lo sconto praticato per ciascuna delle condizioni di cui al comma 1, in valore assoluto e in percentuale, rispetto al prezzo della polizza altrimenti applicato.
+
+L'IVASS identifica, sulla scorta di dati in proprio possesso e di indagini statistiche, la lista delle province a maggiore tasso di sinistrosita' e con premio medio piu' elevato. Tale lista e' aggiornata con cadenza almeno biennale.
+
+Con il regolamento di cui al comma 2, l'IVASS, tenuto conto dei premi piu' elevati applicati nelle province individuate ai sensi del comma 3 e di quelli praticati nelle altre province a piu' bassa sinistrosita' ad assicurati con le medesime caratteristiche soggettive e collocati nella medesima classe di merito, definisce altresi' i criteri e le modalita' finalizzati alla determinazione da parte delle imprese di assicurazione di uno sconto, aggiuntivo e significativo rispetto a quello praticato ai sensi del comma 2, da applicare ai soggetti residenti nelle province di cui al comma 3, che non abbiano provocato sinistri con responsabilita' esclusiva o principale o paritaria negli ultimi quattro anni sulla base dell'evidenza dell'attestato di rischio, e che abbiano installato o installino, a seguito della stipula del contratto, il dispositivo di cui al comma 1, lettera b).
+
+Le attivita' di cui ai commi precedenti sono svolte nell'ambito delle risorse umane e strumentali disponibili a legislazione vigente e comunque senza nuovi o maggiori oneri per la finanza pubblica.
+
+Le imprese di assicurazione, in attuazione dei criteri stabiliti dall'IVASS, a decorrere dalla data di entrata in vigore della presente disposizione, applicano lo sconto nei confronti dei soggetti che si trovino nelle condizioni previste dal comma 4, di importo significativo e aggiuntivo rispetto a quello praticato ai sensi del comma 2, ed evidenziano in sede di preventivo e nel contratto, in caso di accettazione da parte del contraente, lo sconto praticato, in valore assoluto e in percentuale, rispetto al prezzo della polizza altrimenti applicato. Lo sconto di cui al presente comma si applica ai nuovi contratti o in occasione del rinnovo di quelli in essere.
+
+Resta fermo, nei casi di cui ai commi 2 e 4, l'obbligo di rispettare i parametri stabiliti dal contratto di assicurazione. Al fine del conseguimento della massima trasparenza, l'impresa di assicurazione pubblica nel proprio sito internet l'entita' degli sconti effettuati in attuazione delle disposizioni di cui ai commi 1, 2, 4 e 7, secondo forme di pubblicita' che ne rendano efficace e chiara l'applicazione.
+
+L'IVASS, attraverso periodiche verifiche a campione, anche in via ispettiva ovvero a seguito di circostanziata segnalazione da parte di terzi, accerta che le imprese assicurative tengano effettivamente conto, ai fini dell'applicazione delle disposizioni di cui ai commi 1, 2, 4 e 7, nel processo di costruzione della tariffa e di ricalcolo del premio, dei criteri definiti dal regolamento di cui al comma 2 e del rispetto dei criteri e delle modalita' finalizzati alla determinazione dello sconto di cui al comma 4.
+
+L'IVASS verifica, inoltre, che lo sconto aggiuntivo di cui al comma 4 garantisca la progressiva riduzione delle differenze dei premi applicati sul territorio nazionale nei confronti di assicurati con le medesime caratteristiche soggettive e collocati nella medesima classe di merito.
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)).
+
+Nei casi di cui al comma 1, lettere b) e c), i costi di installazione, disinstallazione, funzionamento, sostituzione e portabilita' sono a carico dell'impresa. La titolarita' delle dotazioni di cui alle citate lettere b) e c) spetta all'assicurato.
+La riduzione di premio praticata dall'impresa di assicurazione di cui al comma 1 si applica, altresi', in caso di contratto stipulato con un nuovo assicurato e in caso di scadenza di un contratto o di stipulazione di un nuovo contratto di assicurazione fra le stesse parti. Resta fermo l'obbligo di rispettare i parametri stabiliti dal contratto di assicurazione.
+
+## Art. 133. — Formule tariffarie
+
+Per i ciclomotori, i motocicli, le autovetture e per altre categorie di veicoli a motore che possono essere individuate dall'IVASS, con regolamento, i contratti di assicurazione debbono essere stipulati in base a condizioni di polizza che prevedano ad ogni scadenza annuale la variazione in aumento od in diminuzione del premio applicato all'atto della stipulazione o del rinnovo, in relazione al verificarsi o meno di sinistri nel corso di un certo periodo di tempo, oppure in base a clausole di franchigia che prevedano un contributo dell'assicurato al risarcimento del danno o in base a formule miste fra le due tipologie. L'individuazione delle categorie di veicoli e' effettuata tenendo conto delle esigenze di prevenzione. La predetta variazione del premio, in aumento o in diminuzione, da indicare, in valore assoluto e in percentuale rispetto alla tariffa in vigore applicata dall'impresa, all'atto dell'offerta di preventivo della stipulazione o di rinnovo, si applica automaticamente, fatte salve le migliori condizioni, nella misura preventivamente quantificata in rapporto alla classe di appartenenza attribuita alla polizza ed esplicitamente indicata nel contratto. ((PERIODO SOPPRESSO DAL D.LGS. 21 MAGGIO 2018, N. 68)).
+
+E' fatto divieto alle imprese di assicurazione di differenziare la progressione e l'attribuzione delle classi di merito interne in funzione della durata del rapporto contrattuale tra l'assicurato e la medesima impresa, ovvero in base a parametri che ostacolino la mobilita' tra diverse imprese di assicurazione. In particolare, le imprese di assicurazione devono garantire al soggetto che stipula il nuovo contratto, nell'ambito della classe di merito, le condizioni di premio assegnate agli assicurati aventi identiche caratteristiche di rischio.
+
+Le imprese di assicurazione hanno diritto di accesso telematico all'anagrafe nazionale delle persone abilitate alla guida prevista dal codice della strada presso il Ministero delle infrastrutture e dei trasporti a scopo di verifica e aggiornamento delle informazioni relative all'abilitazione alla guida secondo condizioni economiche e tecniche strettamente correlate ai costi del servizio erogato. Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle infrastrutture e dei trasporti, sentito il Garante per la protezione dei dati personali, sono adottate le disposizioni di attuazione.
+
+## Art. 134. — Attestazione sullo stato del rischio
+
+Il contraente o, se persona diversa, il proprietario ovvero l'usufruttuario, l'acquirente con patto di riservato dominio o il locatario in caso di locazione finanziaria hanno diritto di esigere in qualunque momento, entro quindici giorni dalla richiesta, l'attestazione sullo stato del rischio relativo ad almeno gli ultimi cinque anni del contratto di assicurazione obbligatoria relativo ai veicoli a motore, oppure dell'assenza di sinistri. Le imprese di assicurazione non trattano i contraenti in maniera discriminatoria, ne' maggiorano i premi in ragione della loro nazionalita' o unicamente sulla base del loro precedente Stato membro di residenza.
+Le imprese di assicurazione trattano le attestazioni emesse in altri Stati membri alla pari di quelle emesse da un'impresa di assicurazione avente sede nel territorio della Repubblica, anche in relazione all'applicazione di eventuali sconti. La consegna dell'attestazione sullo stato del rischio e' effettuata per via telematica, attraverso l'utilizzo delle banche dati elettroniche di cui al comma 2 o di cui all'articolo 135. ((L'IVASS vigila sulla corretta alimentazione e gestione della banca dati elettronica di cui al comma 2.)) (70)
+
+COMMA ABROGATO DAL D.LGS. 22 NOVEMBRE 2023, N. 184.
+
+COMMA ABROGATO DAL D.LGS. 22 NOVEMBRE 2023, N. 184.
+
+L'impresa di assicurazione inserisce le informazioni riportate sull'attestato di rischio in una banca dati elettronica detenuta da enti pubblici ovvero, qualora gia' esistente, da enti privati, al fine di consentire adeguati controlli nell'assunzione dei contratti di assicurazione di cui all'articolo 122, comma 1. In ogni caso l'IVASS ha accesso gratuito alla banca dati contenente le informazioni sull'attestazione. (70)
+
+La classe di merito indicata sull'attestato di rischio si riferisce al proprietario del veicolo. PERIODO SOPPRESSO DAL D.LGS. 22 NOVEMBRE 2023, N. 184. ((L'IVASS con regolamento determina le indicazioni aggiuntive relative all'attestazione sullo stato del rischio, rispetto a quelle previste dal modello europeo, approvato con regolamento di esecuzione (UE) 2024/1855 della Commissione, del 3 luglio 2024, ne stabilisce la validita', comunque non inferiore a dodici mesi, e individua i termini relativi alla decorrenza e alla durata del periodo di osservazione del rischio. Le indicazioni contenute nell'attestazione sullo stato del rischio devono comprendere i dati relativi ai sinistri e al conducente del veicolo.
+Con medesimo regolamento l'IVASS disciplina le modalita' di alimentazione e di accesso alla banca dati elettronica di cui al comma 2 e le modalita' di consegna dell'attestato di rischio. Per le finalita' di vigilanza di cui al comma 1, l'IVASS accede alle banche dati di cui agli articoli 225 e 226 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285.))
+
+L'attestazione sullo stato del rischio, all'atto della stipulazione di un contratto per il medesimo veicolo al quale si riferisce l'attestato, e' acquisita direttamente dall'impresa assicuratrice in via telematica attraverso le banche dati di cui al comma 2 del presente articolo e di cui all'articolo 135.
+
+L'impresa di assicurazione, in tutti i casi di stipulazione di un nuovo contratto e in tutti i casi di rinnovo di contratti gia' stipulati, purche' in assenza di sinistri con responsabilita' esclusiva o principale o paritaria negli ultimi cinque anni, sulla base delle risultanze dell'attestato di rischio, relativi a un ulteriore veicolo, anche di diversa tipologia, acquistato dalla persona fisica gia' titolare di polizza assicurativa o da un componente stabilmente convivente del suo nucleo familiare, non puo' assegnare al contratto una classe di merito piu' sfavorevole rispetto a quella risultante dall'ultimo attestato di rischio conseguito sul veicolo gia' assicurato e non puo' discriminare in funzione della durata del rapporto garantendo, nell'ambito della classe di merito, le condizioni di premio assegnate agli assicurati aventi le stesse caratteristiche di rischio del soggetto che stipula il nuovo contratto. (57) (59)
+
+Conseguentemente al verificarsi di un sinistro, le imprese di assicurazione non possono applicare alcuna variazione di classe di merito prima di aver accertato l'effettiva responsabilita' del contraente, che e' individuata nel responsabile principale del sinistro, secondo la liquidazione effettuata in relazione al danno e fatto salvo un diverso accertamento in sede giudiziale. Ove non sia possibile accertare la responsabilita' principale, ovvero, in via provvisoria, salvo conguaglio, in caso di liquidazione parziale, la responsabilita' si computa pro quota in relazione al numero dei conducenti coinvolti, ai fini della eventuale variazione di classe a seguito di piu' sinistri. In ogni caso, le variazioni peggiorative apportate alla classe di merito e i conseguenti incrementi del premio per gli assicurati che hanno esercitato la facolta' di cui all'articolo 132-ter, comma 1, lettera b), devono essere inferiori a quelli altrimenti applicati. 
+ 4-ter.1. Conseguentemente al verificarsi di un sinistro, qualora l'assicurato accetti l'installazione di uno dei dispositivi di cui all'articolo 132-ter, le variazioni peggiorative apportate alla classe di merito e i conseguenti incrementi del premio devono essere inferiori a quelli altrimenti applicati. 
+ 4-ter.2. Al verificarsi di un sinistro di cui si sia reso responsabile in via esclusiva o principale un conducente collocato nella classe di merito piu' favorevole per il veicolo di diversa tipologia ai sensi delle disposizioni del comma 4-bis e che abbia comportato il pagamento di un indennizzo complessivamente superiore a euro 5.000, le imprese di assicurazione, alla prima scadenza successiva del contratto, possono assegnare, per il solo veicolo di diversa tipologia coinvolto nel sinistro, una classe di merito superiore fino a cinque unita' rispetto ai criteri indicati dall'IVASS ai sensi del presente articolo. Le disposizioni del presente comma si applicano unicamente ai soggetti beneficiari dell'assegnazione della classe di merito piu' favorevole per il solo veicolo di diversa tipologia ai sensi delle disposizioni del comma 4-bis nel testo in vigore successivamente alle modifiche introdotte dall'articolo 55-bis, comma 1, lettera a), del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157.
+
+E' fatto comunque obbligo alle imprese di assicurazione di comunicare tempestivamente al contraente le variazioni peggiorative apportate alla classe di merito.
+
+L'impresa adotta, ai sensi dell'articolo 30, comma 5, politiche relative all'uso delle attestazioni di sinistralita' pregressa nel calcolare i premi e pubblica una panoramica generale delle stesse. (70)
+
+Fino all'emanazione da parte della Commissione europea dell'atto di esecuzione di cui all'articolo 16 della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009, il quale specifica, per mezzo di un modello, la forma e il contenuto delle attestazioni di sinistralita' pregressa, si applicano le disposizioni adottate dall'IVASS con proprio regolamento. (70)
+
+--------------
+                            AGGIORNAMENTO (57)
+                            
+ Il D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha disposto (con l'art. 55-bis, comma 2) che "Per i contratti stipulati anteriormente alla data di entrata in vigore della legge di conversione del presente decreto, le disposizioni di cui al comma 1, lettera a), si applicano in sede di rinnovo dei medesimi contratti". 
+                            --------------
+                            AGGIORNAMENTO (59)
+                            
+ Il D.L. 30 dicembre 2019, n. 162, nel modificare l'art. 55-bis del D.L. 26 ottobre 2019, n. 124, convertito con modificazioni dalla L. 19 dicembre 2019, n. 157, ha conseguentemente disposto (con l'art. 12, comma 4) che "Le disposizioni di cui all'articolo 55-bis del decreto-legge 26 ottobre 2019, n. 124, convertito, con modificazioni, dalla legge 19 dicembre 2019, n. 157, si applicano dal 16 febbraio 2020". 
+                            -------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 135. — Banca dati sinistri e banche dati anagrafe testimoni e anagrafe danneggiati
+
+Allo scopo di rendere piu' efficace la prevenzione e il contrasto di comportamenti fraudolenti nel settore delle assicurazioni obbligatorie per i veicoli a motore immatricolati in Italia, sono istituite presso l'IVASS una banca dati dei sinistri ad essi relativi e due banche dati denominate 'anagrafe testimoni' e 'anagrafe danneggiati'.
+
+((2. Le imprese di assicurazione autorizzate in Italia all'esercizio dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore sono tenute a comunicare i dati riguardanti i sinistri gestiti, compresi i sinistri gestiti in qualita' di impresa designata ai sensi dell'articolo 286, nonche' i sinistri gestiti dall'Ufficio centrale italiano ai sensi dell'articolo 125, comma 5, e dell'articolo 296, secondo le modalita' stabilite con regolamento adottato dall'IVASS.
+Al medesimo adempimento sono tenute le imprese aventi sede legale in uno Stato membro dell'Unione europea ammesse a operare in Italia in regime di libera prestazione dei servizi o in regime di stabilimento e abilitate all'esercizio dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore nel territorio della Repubblica))
+
+Le procedure di organizzazione e di funzionamento, le modalita' e le condizioni di accesso alle banche dati di cui al comma 1, da parte delle pubbliche amministrazioni, dell'autorita' giudiziaria, delle forze di polizia, delle imprese di assicurazione e di soggetti terzi, nonche' gli obblighi di consultazione delle banche dati da parte delle imprese di assicurazione in fase di liquidazione dei sinistri, sono stabiliti dall'IVASS, con regolamento, sentiti il Ministero dello sviluppo economico e il Ministero dell'interno, e, per i profili di tutela della riservatezza, il Garante per la protezione dei dati personali.
+
+((
+
+In caso di sinistri con soli danni a cose, l'identificazione di eventuali testimoni sul luogo di accadimento dell'incidente deve risultare dalla denuncia di sinistro o comunque dal primo atto formale del danneggiato nei confronti dell'impresa di assicurazione o, in mancanza, deve essere richiesta dall'impresa di assicurazione con espresso avviso all'assicurato delle conseguenze processuali della mancata risposta. In quest'ultimo caso, l'impresa di assicurazione deve effettuare la richiesta di indicazione dei testimoni con raccomandata con avviso di ricevimento entro il termine di sessanta giorni dalla denuncia del sinistro e la parte che riceve tale richiesta effettua la comunicazione dei testimoni, a mezzo di raccomandata con avviso di ricevimento, entro il termine di sessanta giorni dalla ricezione della richiesta. L'impresa di assicurazione deve procedere a sua volta all'individuazione e alla comunicazione di eventuali ulteriori testimoni entro il termine di sessanta giorni.
+Fatte salve le risultanze contenute in verbali delle autorita' di polizia intervenute sul luogo dell'incidente, l'identificazione dei testimoni avvenuta in un momento successivo comporta l'inammissibilita' della prova testimoniale addotta.
+
+In caso di giudizio, il giudice, sulla base della documentazione prodotta, non ammette le testimonianze che non risultino acquisite secondo le modalita' previste dal comma 3-bis. Il giudice dispone l'audizione dei testimoni che non sono stati indicati nel rispetto del citato comma 3-bis nei soli casi in cui risulti comprovata l'oggettiva impossibilita' della loro tempestiva identificazione.
+
+3-quater. Nelle controversie civili promosse per l'accertamento della responsabilita' e per la quantificazione dei danni, il giudice, anche su documentata segnalazione delle parti che, a tale fine, possono richiedere i dati all'IVASS, trasmette un'informativa alla procura della Repubblica, per quanto di competenza, in relazione alla ricorrenza dei medesimi nominativi di testimoni presenti in piu' di tre sinistri negli ultimi cinque anni registrati nella banca dati dei sinistri di cui al comma 1. Il presente comma non si applica agli ufficiali e agli agenti delle autorita' di polizia che sono chiamati a testimoniare))
+
+## Art. 136.
+
+Funzioni del ((Ministero dello sviluppo economico))
+
+Al fine di consentire lo svolgimento delle funzioni del ((Ministero dello sviluppo economico)), l'((IVASS)) e' tenuto a comunicare al Ministero dati, informazioni e notizie relativi alle tariffe dell'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti.
+
+Per le finalita' di cui al comma 1, e' istituito presso il ((Ministero dello sviluppo economico)) un comitato di esperti in materia di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, con il compito di osservare l'andamento degli incrementi tariffari praticati dalle imprese di assicurazione operanti nel territorio della Repubblica, valutando in particolare le differenze tariffarie applicate sul territorio della Repubblica italiana e anche in quale misura si sia tenuto conto del comportamento degli assicurati che nel corso dell'anno non abbiano denunciato incidenti. Con decreto del ((Ministro dello sviluppo economico)), e' disciplinata la costituzione e il funzionamento del comitato di esperti, fermo restando che ai predetti esperti non puo' essere attribuita alcuna indennita' o emolumento comunque denominato.
+
+Al fine della diffusione di un'adeguata informazione agli utenti e della realizzazione di un sistema di monitoraggio permanente sui premi relativi all'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore, il Consiglio nazionale dei consumatori e degli utenti e' autorizzato a stipulare apposita convenzione con l'Istituto nazionale di statistica e a co-finanziare, secondo modalita' e criteri stabiliti con decreto del ((Ministro dello sviluppo economico)), programmi di informazione e orientamento rivolti agli utenti dei servizi assicurativi promossi dalle associazioni dei consumatori e degli utenti, a valere sulle disponibilita' finanziarie assegnate al Consiglio stesso dalla legge istitutiva.
+
+Il Ministero dello sviluppo economico utilizza il sistema tariffario completo in tutte le sue estensioni organizzato dall'((IVASS)), sulla base dei dati forniti dalle imprese di assicurazione, per realizzare un servizio informativo, anche tramite il proprio sito internet, che consente al consumatore di comparare le tariffe applicate dalle diverse imprese di assicurazione relativamente al proprio profilo individuale.
+
+## - - Capo III Risarcimento del danno
+
+## Art. 137. — Danno patrimoniale
+
+Nel caso di danno alla persona, quando agli effetti del risarcimento si debba considerare l'incidenza dell'inabilita' temporanea o dell'invalidita' permanente su un reddito di lavoro comunque qualificabile, tale reddito si determina, per il lavoro dipendente, sulla base del reddito di lavoro, maggiorato dei redditi esenti e al lordo delle detrazioni e delle ritenute di legge, che risulta il piu' elevato tra quelli degli ultimi tre anni e, per il lavoro autonomo, sulla base del reddito netto che risulta il piu' elevato tra quelli dichiarati dal danneggiato ai fini dell'imposta sul reddito delle persone fisiche negli ultimi tre anni ovvero, nei casi previsti dalla legge, dall'apposita certificazione rilasciata dal datore di lavoro ai sensi delle norme di legge.
+
+E' in ogni caso ammessa la prova contraria, ma, quando dalla stessa risulti che il reddito sia superiore di oltre un quinto rispetto a quello risultante dagli atti indicati nel comma 1, il giudice ne fa segnalazione al competente ufficio dell'Agenzia delle entrate.
+
+In tutti gli altri casi il reddito che occorre considerare ai fini del risarcimento non puo' essere inferiore a tre volte l'ammontare annuo della pensione sociale.
+
+## Art. 138. — (Danno non patrimoniale per lesioni di non lieve entita')
+
+Qualora la menomazione accertata incida in maniera rilevante su specifici aspetti dinamico-relazionali personali documentati e obiettivamente accertati, l'ammontare del risarcimento del danno, calcolato secondo quanto previsto (( dalla tabella unica nazionale di cui al comma 1, lettera b) )), puo' essere aumentato dal giudice, con equo e motivato apprezzamento delle condizioni soggettive del danneggiato, fino al 30 per cento.
+
+L'ammontare complessivo del risarcimento riconosciuto ai sensi del presente articolo e' esaustivo del risarcimento del danno conseguente alle lesioni fisiche.
+
+Gli importi stabiliti nella tabella unica nazionale ((di cui al comma 1, lettera b),)) sono aggiornati annualmente, con decreto del Ministro dello sviluppo economico, in misura corrispondente alla variazione dell'indice nazionale dei prezzi al consumo per le famiglie di operai e impiegati accertata dall'ISTAT. 
+ (43)
+
+---------------
+                            AGGIORNAMENTO (43)
+                            
+ La L. 4 agosto 2017, n. 124 ha disposto (con l'art. 1, comma 18) che "La tabella unica nazionale predisposta con il decreto del Presidente della Repubblica di cui all'articolo 138, comma 1, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, come sostituito dal comma 17 del presente articolo, si applica ai sinistri e agli eventi verificatisi successivamente alla data di entrata in vigore del medesimo decreto del Presidente della Repubblica".
+
+## Art. 139. — (Danno non patrimoniale per lesioni di lieve entita')
+
+Ai fini di cui al comma 1, per danno biologico si intende la lesione temporanea o permanente all'integrita' psico-fisica della persona, suscettibile di accertamento medico-legale, che esplica un'incidenza negativa sulle attivita' quotidiane e sugli aspetti dinamico-relazionali della vita del danneggiato, indipendentemente da eventuali ripercussioni sulla sua capacita' di produrre reddito. In ogni caso, le lesioni di lieve entita', che non siano suscettibili di accertamento clinico strumentale obiettivo, ovvero visivo, con riferimento alle lesioni, quali le cicatrici, oggettivamente riscontrabili senza l'ausilio di strumentazioni, non possono dar luogo a risarcimento per danno biologico permanente.
+
+Qualora la menomazione accertata incida in maniera rilevante su specifici aspetti dinamico-relazionali personali documentati e obiettivamente accertati ovvero causi o abbia causato una sofferenza psico-fisica di particolare intensita', l'ammontare del risarcimento del danno, calcolato secondo quanto previsto dalla tabella di cui al comma 4, puo' essere aumentato dal giudice, con equo e motivato apprezzamento delle condizioni soggettive del danneggiato, fino al 20 per cento. L'ammontare complessivo del risarcimento riconosciuto ai sensi del presente articolo e' esaustivo del risarcimento del danno non patrimoniale conseguente a lesioni fisiche.
+
+Con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei ministri, su proposta del Ministro della salute, di concerto con il Ministro del lavoro e delle politiche sociali, con il Ministro della giustizia e con il Ministro dello sviluppo economico, si provvede alla predisposizione di una specifica tabella delle menomazioni dell'integrita' psico-fisica comprese tra 1 e 9 punti di invalidita'.
+
+Gli importi indicati nel comma 1 sono aggiornati annualmente con decreto del Ministro dello sviluppo economico, in misura corrispondente alla variazione dell'indice nazionale dei prezzi al consumo per le famiglie di operai e impiegati accertata dall'ISTAT.
+
+Ai fini del calcolo dell'importo di cui al comma 1, lettera a), per un punto percentuale di invalidita' pari a 1 si applica un coefficiente moltiplicatore pari a 1, per un punto percentuale di invalidita' pari a 2 si applica un coefficiente moltiplicatore pari a 1,1, per un punto percentuale di invalidita' pari a 3 si applica un coefficiente moltiplicatore pari a 1,2, per un punto percentuale di invalidita' pari a 4 si applica un coefficiente moltiplicatore pari a 1,3, per un punto percentuale di invalidita' pari a 5 si applica un coefficiente moltiplicatore pari a 1,5, per un punto percentuale di invalidita' pari a 6 si applica un coefficiente moltiplicatore pari a 1,7, per un punto percentuale di invalidita' pari a 7 si applica un coefficiente moltiplicatore pari a 1,9, per un punto percentuale di invalidita' pari a 8 si applica un coefficiente moltiplicatore pari a 2,1 e per un punto percentuale di invalidita' pari a 9 si applica un coefficiente moltiplicatore pari a 2,3.
+
+--------------
+                            AGGIORNAMENTO (1)
+                            
+ Il Decreto 31 maggio 2006, (in G.U. 6/6/2006, n. 129), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2006, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e determinati, da ultimo, con il decreto ministeriale 10 giugno 2005, sono aggiornati nelle misure seguenti:  seicentottantotto euro e ventotto centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quaranta euro e sedici centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b). 
+                            --------------
+                            AGGIORNAMENTO (6)
+                            
+ Il Decreto 12 giugno 2007, (in G.U. 20/06/2007, n. 141), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2007, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e determinati, da ultimo, con il decreto ministeriale 31 maggio 2006, sono aggiornati nelle seguenti misure:  seicentonovantasette euro e novantadue centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quaranta euro e settantadue centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            --------------
+                            AGGIORNAMENTO (14)
+                            
+ Il Decreto 19 giugno 2009, (in G.U. 9/7/2009, n. 157), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2009, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 24 giugno 2008, sono aggiornati nelle seguenti misure:  settecentoventotto euro e sedici centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantadue euro e quarantotto centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            --------------
+                            AGGIORNAMENTO (19)
+                            
+ Il Decreto 27 maggio 2010, (in G.U. 15/06/2010, n. 137), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2010, gli importi indicati nel comma 1 dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 19 giugno 2009, sono aggiornati nelle seguenti misure:  settecentotrentanove euro e ottantuno centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantatre euro e sedici centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b). 
+                            --------------
+                            AGGIORNAMENTO (23)
+                            
+ Il Decreto 17 giugno 2011, (in G.U. 27/06/2011, n. 147), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2011, gli importi indicati nel comma 1, dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 27 maggio 2010, sono aggiornati nelle seguenti misure: 
+ settecentocinquantanove euro e quattro centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantaquattro euro e ventotto centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)." 
+                            -------------
+                            AGGIORNAMENTO (24)
+                            
+ Il D.L. 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla L. 24 marzo 2012, n. 27 ha disposto (con l'art. 32, comma 3-quater) che "Il danno alla persona per lesioni di lieve entita' di cui all'articolo 139 del decreto legislativo 7 settembre 2005, n. 209, e' risarcito solo a seguito di riscontro medico legale da cui risulti visivamente o strumentalmente accertata l'esistenza della lesione." 
+                            -------------
+                            AGGIORNAMENTO (25)
+                            
+ Il Decreto 15 giugno 2012, (in G.U. 28/06/2012, n. 149), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2012, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 17 giugno 2011, sono aggiornati nelle seguenti misure: 
+ - settecentottantatre euro e trentatre centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita' di cui alla lettera a); 
+ - quarantacinque euro e settanta centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            -------------
+                            AGGIORNAMENTO (28)
+                            
+ Il Decreto 6 giugno 2013, (in G.U. 14/06/2013, n. 138), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2013, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 15 giugno 2012, sono aggiornati nelle seguenti misure:  settecentonovantuno euro e novantacinque centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasei euro e venti centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            -------------
+                            AGGIORNAMENTO (33)
+                            
+ Il Decreto 20 giugno 2014, (G.U. 4/7/2014, n. 153), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2014, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 6 giugno 2013, sono aggiornati nelle seguenti misure: 
+ settecentonovantacinque euro e novantuno centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasei euro e quarantatre centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            -------------
+                            AGGIORNAMENTO (35)
+                            
+ Il Decreto 25 giugno 2015, (in G.U. 15/07/2015, n. 162), ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2015, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 20 giugno 2014, sono aggiornati nelle seguenti misure:  settecentonovantatre euro e cinquantadue centesimi per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasei euro e ventinove centesimi per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (39)
+                            
+ Il Decreto 19 luglio 2016 (in G.U. 13/08/2016, n. 189) ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2016, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 25 giugno 2015, sono aggiornati nelle seguenti misure:  settecentonovanta euro e trentacinque centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasei euro e dieci centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)." 
+                            ---------------
+                            AGGIORNAMENTO (44)
+                            
+ Il Decreto 17 luglio 2017 (in G.U. 23/08/2017, n. 196) ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2017, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 19 luglio 2016, sono aggiornati nelle seguenti misure:  ottocentotre euro e settantanove centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasei euro e ottantotto centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (50)
+                            
+ Il Decreto 9 gennaio 2019 (in G.U. 04/02/2019, n. 29) ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2018, gli importi indicati nel comma 1 dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 17 luglio 2017, sono aggiornati nelle seguenti misure:  ottocentosette euro e zerouno centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasette euro e zerosette centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (55)
+                            
+ Il Decreto 22 luglio 2019 (in G.U. 13/08/2019, n. 189) ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2019, gli importi indicati nel comma 1, dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 9 gennaio 2019, sono aggiornati nelle seguenti misure:  ottocentoquattordici euro e ventisette centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ quarantasette euro e quarantanove centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (65)
+                            
+ Il Decreto 8 giugno 2022 (in G.U. 22/06/2022, n. 144) ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2022, gli importi indicati nel comma 1, dell'art. 139 del Codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale 22 luglio 2019, sono aggiornati nelle seguenti misure:  ottocentosettanta euro e novantasette centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ cinquanta euro e settantanove centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (69)
+                            
+ Il Decreto 16 ottobre 2023 (in G.U. 21/10/2023, n. 247) ha disposto (con l'art. 1, comma 1) che "A decorrere dal mese di aprile 2023, gli importi indicati nel comma 1 dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto ministeriale adottato in data 8 giugno 2022, sono aggiornati nelle seguenti misure: 
+ novecentotrentanove euro e settantotto centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ cinquantaquattro euro e ottanta centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (73a)
+                            
+ Il Decreto 16 luglio 2024 (in G.U. 25/07/2024, n. 173) ha disposto (con l'art. 1, comma 1, lettere a) e b)) che "A decorrere dal mese di aprile 2024, gli importi indicati nel comma 1, dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto del Ministro delle imprese e del made in Italy del 16 ottobre 2023, sono aggiornati nelle seguenti misure: 
+ a) novecentoquarantasette euro e trenta centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ b) cinquantacinque euro e ventiquattro centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)". 
+                            ---------------
+                            AGGIORNAMENTO (78)
+                            
+ Il Decreto 18 luglio 2025 (in G.U. 31/07/2025, n. 176) ha disposto (con l'art. 1, comma 1, lettere a) e b)) che "A decorrere dal mese di aprile 2025, gli importi indicati nel comma 1, dell'art. 139 del codice delle assicurazioni private e rideterminati, da ultimo, con il decreto del Ministro delle imprese e del made in Italy del 16 luglio 2024, sono aggiornati nelle seguenti misure: 
+ a) novecentosessantatre' euro e quaranta centesimi, per quanto riguarda l'importo relativo al valore del primo punto di invalidita', di cui alla lettera a); 
+ b) cinquantasei euro e diciotto centesimi, per quanto riguarda l'importo relativo ad ogni giorno di inabilita' assoluta, di cui alla lettera b)".
+
+## Art. 140. — Pluralita' di danneggiati e supero del massimale
+
+Qualora vi siano piu' persone danneggiate nello stesso sinistro e il risarcimento dovuto dal responsabile superi le somme assicurate, i diritti delle persone danneggiate nei confronti dell'impresa di assicurazione sono proporzionalmente ridotti fino alla concorrenza delle somme assicurate.
+
+L'impresa di assicurazione che, decorsi trenta giorni dall'incidente e ignorando l'esistenza di altre persone danneggiate, pur avendone ricercata l'identificazione con la normale diligenza, ha pagato ad alcuna di esse una somma superiore alla quota spettante, risponde verso le altre persone danneggiate nei limiti dell'eccedenza della somma assicurata rispetto alla somma versata.
+
+Nel caso di cui al comma 2, le altre persone danneggiate, il cui credito rimanesse insoddisfatto, hanno diritto di ripetere, da chi abbia ricevuto il risarcimento dall'impresa di assicurazione, quanto sarebbe loro spettato in applicazione del comma 1.
+
+Nei giudizi promossi fra l'impresa di assicurazione e le persone danneggiate sussiste litisconsorzio necessario, applicandosi l'articolo 102 del codice di procedura civile. L'impresa di assicurazione puo' effettuare il deposito di una somma, nei limiti del massimale, con effetto liberatorio nei confronti di tutte le persone aventi diritto al risarcimento, se il deposito e' irrevocabile e vincolato a favore di tutti i danneggiati.
+
+## Art. 141. — Risarcimento del terzo trasportato
+
+Salva l'ipotesi di sinistro cagionato da caso fortuito, il danno subito dal terzo trasportato e' risarcito dall'impresa di assicurazione del veicolo sul quale era a bordo al momento del sinistro entro il massimale minimo di legge, fermo restando quanto previsto all'articolo 140, a prescindere dall'accertamento della responsabilita' dei conducenti dei veicoli coinvolti nel sinistro, fermo il diritto al risarcimento dell'eventuale maggior danno nei confronti dell'impresa di assicurazione del responsabile civile, se il veicolo di quest'ultimo e' coperto per un massimale superiore a quello minimo.
+
+Per ottenere il risarcimento il terzo trasportato promuove nei confronti dell'impresa di assicurazione del veicolo sul quale era a bordo al momento del sinistro la procedura di risarcimento prevista dall'articolo 148.
+
+L'azione diretta avente ad oggetto il risarcimento e' esercitata nei confronti dell'impresa di assicurazione del veicolo sul quale il danneggiato era a bordo al momento del sinistro nei termini di cui all'articolo 145. L'impresa di assicurazione del responsabile civile puo' intervenire nel giudizio e puo' estromettere l'impresa di assicurazione del veicolo, riconoscendo la responsabilita' del proprio assicurato. Si applicano, in quanto compatibili, le disposizioni del capo IV.
+
+L'impresa di assicurazione che ha effettuato il pagamento ha diritto di rivalsa nei confronti dell'impresa di assicurazione del responsabile civile nei limiti ed alle condizioni previste dall'articolo 150.
+
+## Art. 142. — Diritto di surroga dell'assicuratore sociale
+
+Qualora il danneggiato sia assistito da assicurazione sociale, l'ente gestore dell'assicurazione sociale ha diritto di ottenere direttamente dall'impresa di assicurazione il rimborso delle spese sostenute per le prestazioni erogate al danneggiato ai sensi delle leggi e dei regolamenti che disciplinano detta assicurazione, sempreche' non sia gia' stato pagato il risarcimento al danneggiato, con l'osservanza degli adempimenti prescritti nei commi 2 e 3.
+
+Prima di provvedere alla liquidazione del danno, l'impresa di assicurazione e' tenuta a richiedere al danneggiato una dichiarazione attestante che lo stesso non ha diritto ad alcuna prestazione da parte di istituti che gestiscono assicurazioni sociali obbligatorie.
+Ove il danneggiato dichiari di avere diritto a tali prestazioni, l'impresa di assicurazione e' tenuta a darne comunicazione al competente ente di assicurazione sociale e potra' procedere alla liquidazione del danno solo previo accantonamento di una somma idonea a coprire il credito dell'ente per le prestazioni erogate o da erogare. ((52))
+
+Trascorsi quarantacinque giorni dalla comunicazione di cui al comma 2 senza che l'ente di assicurazione sociale abbia dichiarato di volersi surrogare nei diritti del danneggiato, l'impresa di assicurazione potra' disporre la liquidazione definitiva in favore del danneggiato. L'ente di assicurazione sociale ha diritto di ripetere dal danneggiato le somme corrispondenti agli oneri sostenuti se il comportamento del danneggiato abbia pregiudicato l'azione di surrogazione.
+
+In ogni caso l'ente gestore dell'assicurazione sociale non puo' esercitare l'azione surrogatoria con pregiudizio del diritto dell'assistito al risarcimento dei danni alla persona non altrimenti risarciti.
+
+---------------
+                            AGGIORNAMENTO (52)
+                            
+ Il D.L. 30 aprile 2019, n. 34, convertito con modificazioni dalla L. 28 giugno 2019, n. 58, nel modificare l'art. 1, comma 1126, lettera f) della L. 30 dicembre 2018, n. 145, ha conseguentemente disposto (con l'art. 3-sexies, comma 1) che "All'articolo 1, comma 1126, della citata legge n. 145 del 2018, le lettere a), b), c), d), e) e f) sono abrogate; le disposizioni ivi indicate riacquistano efficacia nel testo vigente prima della data di entrata in vigore della medesima legge n. 145 del 2018".
+
+## Art. 142-bis. — (((Informazioni sulla copertura assicurativa))
+
+((
+
+Il danneggiato ha diritto di ottenere dal Centro di informazione di cui all'articolo 154 le informazioni riguardanti la copertura assicurativa dei veicolo che ha causato il sinistro, il numero di polizza e la data di scadenza della stessa.
+
+))
+
+## Art. 142-ter. — ((Utenti della strada non motorizzati))
+
+((
+
+L'assicurazione obbligatoria per i veicoli a motore e i natanti copre i danni alle persone e i danni alle cose subiti da pedoni, ciclisti e altri utenti non motorizzati della strada i quali, in conseguenza di un incidente nel quale sia stato coinvolto un veicolo, hanno diritto alla riparazione del danno, nei limiti in cui sussista la responsabilita' civile dei conducenti.
+
+## - - Capo IV Procedure liquidative
+
+## Art. 143. — Denuncia di sinistro
+
+Nel caso di sinistro avvenuto tra veicoli a motore per i quali vi sia obbligo di assicurazione, i conducenti dei veicoli coinvolti o, se persone diverse, i rispettivi proprietari sono tenuti a denunciare il sinistro alla propria impresa di assicurazione, avvalendosi del modulo fornito dalla medesima, il cui modello e' approvato dall'((IVASS)). In caso di mancata presentazione della denuncia di sinistro si applica l'articolo 1915 del codice civile per l'omesso avviso di sinistro.
+
+Quando il modulo sia firmato congiuntamente da entrambi i conducenti coinvolti nel sinistro si presume, salvo prova contraria da parte dell'impresa di assicurazione, che il sinistro si sia verificato nelle circostanze, con le modalita' e con le conseguenze risultanti dal modulo stesso.
+
+## Art. 144. — Azione diretta del danneggiato
+
+Il danneggiato per sinistro causato dalla circolazione di un veicolo o di un natante, per i quali vi e' obbligo di assicurazione, ha azione diretta per il risarcimento del danno nei confronti dell'impresa di assicurazione del responsabile civile, entro i limiti delle somme per le quali e' stata stipulata l'assicurazione.
+
+Per l'intero massimale di polizza l'impresa di assicurazione non puo' opporre al danneggiato eccezioni derivanti dal contratto, ne' clausole che prevedano l'eventuale contributo dell'assicurato al risarcimento del danno. L'impresa di assicurazione ha tuttavia diritto di rivalsa verso l'assicurato nella misura in cui avrebbe avuto contrattualmente diritto di rifiutare o ridurre la propria prestazione.
+
+Nel giudizio promosso contro l'impresa di assicurazione e' chiamato anche il responsabile del danno.
+
+L'azione diretta che spetta al danneggiato nei confronti dell'impresa di assicurazione e' soggetta al termine di prescrizione cui sarebbe soggetta l'azione verso il responsabile.
+
+## Art. 144-bis. — (( (Tutela dei danneggiati nei sinistri in cui e' coinvolto un rimorchio trainato da un veicolo). ))
+
+((
+
+L'impresa di assicurazione del rimorchio che ha indennizzato il danneggiato esercita l'azione di regresso nei confronti dell'impresa che ha assicurato il veicolo trainante o del Fondo di garanzia per le vittime della strada o dell'equivalente organismo dello Stato membro la cui legge nazionale si applica nel caso di sinistro.
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 145. — Proponibilita' dell'azione di risarcimento
+
+Nel caso si applichi la procedura di cui all'articolo 148, l'azione per il risarcimento dei danni causati dalla circolazione dei veicoli e dei natanti, per i quali vi e' obbligo di assicurazione, puo' essere proposta solo dopo che siano decorsi sessanta giorni, ovvero novanta in caso di danno alla persona, decorrenti da quello in cui il danneggiato abbia chiesto all'impresa di assicurazione il risarcimento del danno, a mezzo lettera raccomandata con avviso di ricevimento, anche se inviata per conoscenza, avendo osservato le modalita' ed i contenuti previsti all'articolo 148.
+
+Nel caso in cui si applichi la procedura di cui all'articolo 149 l'azione per il risarcimento dei danni causati dalla circolazione dei veicoli e dei natanti, per i quali vi e' obbligo di assicurazione, puo' essere proposta solo dopo che siano decorsi sessanta giorni, ovvero novanta in caso di danno alla persona, decorrenti da quello in cui il danneggiato abbia chiesto alla propria impresa di assicurazione il risarcimento del danno, a mezzo lettera raccomandata con avviso di ricevimento, inviata per conoscenza all'impresa di assicurazione dell'altro veicolo coinvolto, avendo osservato le modalita' ed i contenuti previsti dagli articoli 149 e 150.
+
+## Art. 145-bis. — (Valore probatorio delle cosiddette «scatole nere» e di altri dispositivi elettronici)
+
+Quando uno dei veicoli coinvolti in un incidente risulta dotato di un dispositivo elettronico che presenta le caratteristiche tecniche e funzionali stabilite ai sensi dell'articolo 132-ter, comma 1, lettere b) e c), e fatti salvi, in quanto equiparabili, i dispositivi elettronici gia' in uso alla data di entrata in vigore delle citate disposizioni, le risultanze del dispositivo formano piena prova, nei procedimenti civili, dei fatti a cui esse si riferiscono, salvo che la parte contro la quale sono state prodotte dimostri il mancato funzionamento o la manomissione del predetto dispositivo. Le medesime risultanze sono rese fruibili alle parti.
+
+L'interoperabilita' e la portabilita' dei meccanismi elettronici che registrano l'attivita' del veicolo di cui all'articolo 132-ter, comma 1, lettera b), anche nei casi di sottoscrizione da parte dell'assicurato di un contratto di assicurazione con un'impresa assicuratrice diversa da quella che ha provveduto a installare i meccanismi elettronici, sono garantite da operatori, di seguito denominati «provider di telematica assicurativa», i cui dati identificativi sono comunicati all'IVASS da parte delle imprese di assicurazione che ne utilizzano i servizi. I dati sull'attivita' del veicolo sono gestiti in sicurezza dagli operatori del settore sulla base dello standard tecnologico comune indicato nell'articolo 32, comma 1-ter, del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, e successive modificazioni, e sono successivamente inviati alle rispettive imprese di assicurazione.
+
+Le modalita' per assicurare l'interoperabilita' dei meccanismi elettronici nonche' delle apparecchiature di telecomunicazione a essi connesse e dei relativi sistemi di gestione dei dati, in caso di sottoscrizione da parte dell'assicurato di un contratto di assicurazione con un'impresa diversa da quella che ha provveduto a installare tale meccanismo, o di portabilita' tra diversi provider di telematica assicurativa, sono determinate dal regolamento previsto dall'articolo 32, comma 1-bis, del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, e successive modificazioni. Gli operatori rispondono del funzionamento ai fini dell'interoperabilita'.
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)).
+
+I dati sono trattati dall'impresa di assicurazione nel rispetto delle disposizioni del codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196.
+L'impresa di assicurazione e' titolare del trattamento dei dati ai sensi dell'articolo 28 del citato codice di cui al decreto legislativo n. 196 del 2003. Salvo consenso espresso dell'assicurato in relazione alla disponibilita' di ulteriori servizi connessi con la mobilita' del veicolo, e' fatto divieto all'impresa di assicurazione, nonche' ai soggetti a essa collegati, di utilizzare i dispositivi di cui al presente articolo al fine di raccogliere dati ulteriori rispetto a quelli destinati alla finalita' di determinazione delle responsabilita' in occasione dei sinistri e ai fini tariffari, o di rilevare la posizione e le condizioni del veicolo in maniera continuativa o comunque sproporzionata rispetto alla medesima finalita'.
+
+E' fatto divieto all'assicurato di disinstallare, manomettere o comunque rendere non funzionante il dispositivo installato. In caso di violazione del divieto di cui al periodo precedente da parte dell'assicurato, la riduzione del premio di cui all'articolo 132-ter non e' applicata per la durata residua del contratto. L'assicurato che abbia goduto della riduzione di premio e' tenuto alla restituzione dell'importo corrispondente alla riduzione accordata, fatte salve le eventuali sanzioni penali.
+
+## Art. 146. — Diritto di accesso agli atti
+
+Fermo restando quanto previsto per l'accesso ai singoli dati personali dal codice in materia di protezione dei dati personali, le imprese di assicurazione esercenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti sono tenute a consentire ai contraenti ed ai danneggiati il diritto di accesso agli atti a conclusione dei procedimenti di valutazione, constatazione e liquidazione dei danni che li riguardano.
+
+L'esercizio del diritto di accesso non e' consentito quando abbia ad oggetto atti relativi ad accertamenti che evidenziano indizi o prove di comportamenti fraudolenti. E' invece sospeso in pendenza di controversia giudiziaria tra l'impresa e il richiedente, fermi restando i poteri attribuiti dalla legge all'autorita' giudiziaria.
+
+Se, entro sessanta giorni dalla richiesta scritta, l'assicurato o il danneggiato non e' messo in condizione di prendere visione degli atti richiesti ed estrarne copia a sue spese, puo' inoltrare reclamo all'((IVASS)) anche al fine di veder garantito il proprio diritto.
+
+Il ((Ministro dello sviluppo economico)), di concerto con il Ministro della giustizia, con regolamento adottato su proposta dell'((IVASS)), individua la tipologia degli atti soggetti e di quelli esclusi dall'accesso e determina gli obblighi delle imprese, gli oneri a carico dei richiedenti, nonche' i termini e le altre condizioni per l'esercizio del diritto di cui al comma 1.
+
+## Art. 147. — Stato di bisogno del danneggiato
+
+Nel corso del giudizio di primo grado, gli aventi diritto al risarcimento che, a causa del sinistro, vengano a trovarsi in stato di bisogno, possono chiedere che sia loro assegnata una somma da imputarsi nella liquidazione definitiva del danno.
+
+Il giudice civile o penale, sentite le parti, qualora da un sommario accertamento risultino gravi elementi di responsabilita' a carico del conducente, con ordinanza immediatamente esecutiva provvede all'assegnazione della somma ai sensi del comma 1, nei limiti dei quattro quinti della presumibile entita' del risarcimento che sara' liquidato con la sentenza. Se la causa civile e' sospesa ai sensi dell'articolo 75, comma 3, del codice di procedura penale, l'istanza e' proposta al presidente del tribunale dinanzi al quale e' pendente la causa.
+
+L'istanza puo' essere riproposta nel corso del giudizio.
+
+L'ordinanza e' irrevocabile fino alla decisione del merito.
+
+## Art. 148. — Procedura di risarcimento
+
+Per i sinistri con soli danni a cose, la richiesta di risarcimento deve recare l'indicazione degli aventi diritto al risarcimento e del luogo, dei giorni e delle ore in cui le cose danneggiate sono disponibili, per non meno di cinque giorni non festivi, per l'ispezione diretta ad accertare l'entita' del danno.
+Entro sessanta giorni dalla ricezione di tale documentazione, l'impresa di assicurazione formula al danneggiato congrua e motivata offerta per il risarcimento, ovvero comunica specificatamente i motivi per i quali non ritiene di fare offerta. Il termine di sessanta giorni e' ridotto a trenta quando il modulo di denuncia sia stato sottoscritto dai conducenti coinvolti nel sinistro. Il danneggiato puo' procedere alla riparazione delle cose danneggiate solo dopo lo spirare del termine indicato al periodo precedente, entro il quale devono essere comunque completate le operazioni di accertamento del danno da parte dell'assicuratore, ovvero dopo il completamento delle medesime operazioni, nel caso in cui esse si siano concluse prima della scadenza del predetto termine. Qualora le cose danneggiate non siano state messe a disposizione per l'ispezione nei termini previsti dal presente articolo, ovvero siano state riparate prima dell'ispezione stessa, l'impresa, ai fini dell'offerta risarcitoria, effettuera' le proprie valutazioni sull'entita` del danno solo previa presentazione di fattura che attesti gli interventi riparativi effettuati. Resta comunque fermo il diritto dell'assicurato al risarcimento anche qualora ritenga di non procedere alla riparazione.((62))
+
+L'obbligo di proporre al danneggiato congrua e motivata offerta per il risarcimento del danno, ovvero di comunicare i motivi per cui non si ritiene di fare offerta, sussiste anche per i sinistri che abbiano causato lesioni personali o il decesso. La richiesta di risarcimento deve essere presentata dal danneggiato o dagli aventi diritto con le modalita' indicate al comma 1. La richiesta deve contenere l'indicazione del codice fiscale degli aventi diritto al risarcimento e la descrizione delle circostanze nelle quali si e' verificato il sinistro ed essere accompagnata, ai fini dell'accertamento e della valutazione del danno da parte dell'impresa, dai dati relativi all'eta', all'attivita' del danneggiato, al suo reddito, all'entita' delle lesioni subite, da attestazione medica comprovante l'avvenuta guarigione con o senza postumi permanenti, nonche' dalla dichiarazione ai sensi dell'articolo 142, comma 2, o, in caso di decesso, dallo stato di famiglia della vittima. L'impresa di assicurazione e' tenuta a provvedere all'adempimento del predetto obbligo entro novanta giorni dalla ricezione di tale documentazione.((62))
+
+Ai fini di prevenzione e contrasto dei fenomeni fraudolenti, l'impresa di assicurazione provvede alla consultazione dell'archivio informatico integrato di cui all'articolo 21 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, e successive modificazioni, e, qualora dal risultato della consultazione, avuto riguardo al codice fiscale dei soggetti coinvolti ovvero ai veicoli danneggiati, emergano gli indici di anomalia definiti dall'IVASS con apposito provvedimento, o qualora altri indicatori di frode siano segnalati dai dispositivi elettronici di cui all'articolo 132-ter, comma 1, del presente codice o siano emersi in sede di perizia da cui risulti documentata l'incongruenza del danno dichiarato dal richiedente, l'impresa puo' decidere, entro i termini di cui ai commi 1 e 2 del presente articolo, di non fare offerta di risarcimento, motivando tale decisione con la necessita' di condurre ulteriori approfondimenti in relazione al sinistro. La relativa comunicazione e` trasmessa dall'impresa al danneggiato e all'IVASS, al quale e` anche trasmessa la documentazione relativa alle analisi condotte sul sinistro. Entro trenta giorni dalla comunicazione della predetta decisione, l'impresa deve comunicare al danneggiato le sue determinazioni conclusive in merito alla richiesta di risarcimento. All'esito degli approfondimenti condotti ai sensi del primo periodo, l'impresa puo' non formulare offerta di risarcimento, qualora, entro il termine di cui al terzo periodo, presenti querela, nelle ipotesi in cui e` prevista, informandone contestualmente l'assicurato nella comunicazione concernente le determinazioni conclusive in merito alla richiesta di risarcimento di cui al medesimo terzo periodo; in tal caso i termini di cui ai commi 1 e 2 sono sospesi e il termine per la presentazione della querela, di cui all'articolo 124, primo comma, del codice penale, decorre dallo spirare del termine di trenta giorni entro il quale l'impresa comunica al danneggiato le sue determinazioni conclusive. 
+ Nei predetti casi, l'azione in giudizio prevista dall'articolo 145 e' proponibile solo dopo la ricezione delle determinazioni conclusive dell'impresa o, in sua mancanza, allo spirare del termine di sessanta giorni di sospensione della procedura. Rimane salvo il diritto del danneggiato di ottenere l'accesso agli atti nei termini previsti dall'articolo 146, salvo il caso di presentazione di querela o denuncia.
+
+Il danneggiato, in pendenza dei termini di cui ai commi 1 e 2 e fatto salvo quanto stabilito dal comma 5, non puo' rifiutare gli accertamenti strettamente necessari alla valutazione del danno alle cose, nei termini di cui al comma 1, o del danno alla persona, da parte dell'impresa. Qualora cio' accada, i termini per l'offerta risarcitoria o per la comunicazione dei motivi per i quali l'impresa non ritiene di fare offerta sono sospesi.
+
+L'impresa di assicurazione puo' richiedere ai competenti organi di polizia le informazioni acquisite relativamente alle modalita' dell'incidente, alla residenza e al domicilio delle parti e alla targa di immatricolazione o altro analogo segno distintivo, ma e' tenuta al rispetto dei termini stabiliti dai commi 1 e 2 anche in caso di sinistro che abbia determinato sia danni a cose che lesioni personali o il decesso.
+
+In caso di richiesta incompleta l'impresa di assicurazione richiede al danneggiato entro trenta giorni dalla ricezione della stessa le necessarie integrazioni; in tal caso i termini di cui ai commi 1 e 2 decorrono nuovamente dalla data di ricezione dei dati o dei documenti integrativi.
+
+Se il danneggiato dichiara di accettare la somma offertagli, l'impresa provvede al pagamento entro quindici giorni dalla ricezione della comunicazione.
+
+Entro ugual termine l'impresa corrisponde la somma offerta al danneggiato che abbia comunicato di non accettare l'offerta. La somma in tal modo corrisposta e' imputata nella liquidazione definitiva del danno.
+
+Decorsi trenta giorni dalla comunicazione senza che l'interessato abbia fatto pervenire alcuna risposta, l'impresa corrisponde al danneggiato la somma offerta con le stesse modalita', tempi ed effetti di cui al comma 7.
+
+Agli effetti dell'applicazione delle disposizioni di cui al presente articolo, l'impresa di assicurazione non puo' opporre al danneggiato l'eventuale inadempimento da parte dell'assicurato dell'obbligo di avviso del sinistro di cui all'articolo 1913 del codice civile.
+
+In caso di sentenza a favore del danneggiato, quando la somma offerta ai sensi dei commi 1 o 2 sia inferiore alla meta' di quella liquidata, al netto di eventuale rivalutazione ed interessi, il giudice trasmette, contestualmente al deposito in cancelleria, copia della sentenza all'IVASS per gli accertamenti relativi all'osservanza delle disposizioni del presente capo.
+
+L'impresa, quando corrisponde compensi professionali per l'eventuale assistenza prestata da professionisti, e' tenuta a richiedere la documentazione probatoria relativa alla prestazione stessa e ad indicarne il corrispettivo separatamente rispetto alle voci di danno nella quietanza di liquidazione. L'impresa, che abbia provveduto direttamente al pagamento dei compensi dovuti al professionista, ne da' comunicazione al danneggiato, indicando l'importo corrisposto.
+
+Resta ferma per l'assicurato la facolta' di ottenere l'integrale risarcimento per la riparazione a regola d'arte del veicolo danneggiato avvalendosi di imprese di autoriparazione di propria fiducia abilitate ai sensi della legge 5 febbraio 1992, n. 122. A tal fine, l'impresa di autoriparazione fornisce la documentazione fiscale e un'idonea garanzia sulle riparazioni effettuate, con una validita' non inferiore a due anni per tutte le parti non soggette a usura ordinaria.
+
+--------------
+                            AGGIORNAMENTO (62)
+                            
+ Il D.L. 17 marzo 2020, n. 18, ha disposto (con la'rt. 125, comma 3) che "Fino al 31 luglio 2020, i termini di cui all'art. 148, commi 1 e 2 del decreto legislativo 7 settembre 2005, n. 209, per la formulazione dell'offerta o della motivata contestazione, nei casi di necessario intervento di un perito o del medico legale ai fini della valutazione del danno alle cose o alle persone, sono prorogati di ulteriori 60 giorni".
+
+## Art. 149. — Procedura di risarcimento diretto
+
+In caso di sinistro tra due veicoli a motore identificati ed assicurati per la responsabilita' civile obbligatoria, dal quale siano derivati danni ai veicoli coinvolti o ai loro conducenti, i danneggiati devono rivolgere la richiesta di risarcimento all'impresa di assicurazione che ha stipulato il contratto relativo al veicolo utilizzato.
+
+La procedura di risarcimento diretto riguarda i danni al veicolo nonche' i danni alle cose trasportate di proprieta' dell'assicurato o del conducente. Essa si applica anche al danno alla persona subito dal conducente non responsabile se risulta contenuto nel limite previsto dall'articolo 139. La procedura non si applica ai sinistri che coinvolgono veicoli immatricolati all'estero ed al risarcimento del danno subito dal terzo trasportato come disciplinato dall'articolo 141.
+
+L'impresa, a seguito della presentazione della richiesta di risarcimento diretto, e' obbligata a provvedere alla liquidazione dei danni per conto dell'impresa di assicurazione del veicolo responsabile, ferma la successiva regolazione dei rapporti fra le imprese medesime.
+
+Se il danneggiato dichiara di accettare la somma offerta, l'impresa di assicurazione provvede al pagamento entro quindici giorni dalla ricezione della comunicazione e il danneggiato e' tenuto a rilasciare quietanza liberatoria valida anche nei confronti del responsabile del sinistro e della sua impresa di assicurazione.
+
+L'impresa di assicurazione, entro quindici giorni, corrisponde la somma offerta al danneggiato che abbia comunicato di non accettare l'offerta o che non abbia fatto pervenire alcuna risposta. La somma in tale modo corrisposta e' imputata all'eventuale liquidazione definitiva del danno.
+
+In caso di comunicazione dei motivi che impediscono il risarcimento diretto ovvero nel caso di mancata comunicazione di offerta o di diniego di offerta entro i termini previsti dall'articolo 148 o di mancato accordo, il danneggiato puo' proporre l'azione diretta di cui all'articolo 145, comma 2, nei soli confronti della propria impresa di assicurazione. L'impresa di assicurazione del veicolo del responsabile puo' chiedere di intervenire nel giudizio e puo' estromettere l'altra impresa, riconoscendo la responsabilita' del proprio assicurato ferma restando, in ogni caso, la successiva regolazione dei rapporti tra le imprese medesime secondo quanto previsto nell'ambito del sistema di risarcimento diretto.
+
+## Art. 149-bis. — (( (Trasparenza delle procedure di risarcimento).))
+
+
+
+## Art. 150. — Disciplina del sistema di risarcimento diretto
+
+
+
+L'IVASS vigila sul sistema di risarcimento diretto e sui principi adottati dalle imprese per assicurare la tutela dei danneggiati, il corretto svolgimento delle operazioni di liquidazione e la stabilita' delle imprese.
+
+## Art. 150-bis. — (( (Certificato di chiusa inchiesta) ))
+
+((
+
+E' fatto obbligo alla compagnia di assicurazione di risarcire il danno derivante da furto o incendio di autoveicolo, indipendentemente dalla richiesta del rilascio del certificato di chiusa inchiesta, fatto salvo quanto disposto dal comma 2.
+
+2. Nei procedimenti giudiziari nei quali si procede per il reato di cui all'articolo 642 del codice penale, limitatamente all'ipotesi che il bene assicurato sia un autoveicolo, il risarcimento del danno derivante da furto o incendio dell'autoveicolo stesso e' effettuato previo rilascio del certificato di chiusa inchiesta))
+
+## - - Capo V Risarcimento del danno derivante da sinistri avvenuti all'estero
+
+## Art. 151. — Procedura
+
+Il presente capo stabilisce disposizioni specifiche relative agli aventi diritto al risarcimento per danni a cose o a persone derivanti da sinistri avvenuti in uno Stato membro diverso da quello di residenza degli stessi, provocati dall'uso di veicoli che sono assicurati e stazionano abitualmente in uno Stato membro.
+
+Fatte salve la legislazione di Stati terzi in materia di responsabilita' civile e le norme di diritto internazionale privato, le disposizioni del presente capo si applicano anche ai residenti in uno Stato membro aventi diritto al risarcimento per danni a cose o a persone derivanti da sinistri avvenuti in Stati terzi i cui uffici nazionali di assicurazione hanno aderito al sistema della carta verde, ogniqualvolta tali sinistri siano provocati dall'uso di veicoli che sono assicurati e stazionano abitualmente in uno Stato membro.
+
+Gli articoli 152, 296, 297, 298 e 299 si applicano soltanto nel caso di incidenti causati dalla circolazione di un veicolo assicurato tramite uno stabilimento situato in uno Stato membro diverso da quello di residenza della persona avente diritto al risarcimento e stazionante abitualmente in uno Stato membro diverso da quello di residenza della persona avente diritto al risarcimento.
+
+Gli articoli 300 e 301 si applicano anche agli incidenti provocati dai veicoli di Stati terzi ammessi alla circolazione nel territorio comunitario ed assicurati nel rispetto delle disposizioni di cui all'articolo 125.
+
+Nelle ipotesi di cui al presente articolo gli aventi diritto al risarcimento possono agire direttamente contro l'impresa di assicurazione che copre la responsabilita' civile del responsabile.
+
+## Art. 152. — Mandatario per la liquidazione dei sinistri
+
+L'impresa di assicurazione comunica tempestivamente ai centri di informazione di tutti gli Stati membri il nome e l'indirizzo del proprio mandatario per la liquidazione dei sinistri designato in ciascuno Stato membro.
+
+Il mandatario risiede o e' stabilito nel territorio dello Stato membro per il quale e' designato e si rivolge agli aventi diritto al risarcimento nella o nelle lingue ufficiali dello Stato membro di residenza degli stessi.
+
+Il mandatario, che puo' operare per conto di una o piu' imprese di assicurazione, acquisisce tutte le informazioni necessarie ai fini della liquidazione dei sinistri e adotta tutte le misure necessarie per gestire la liquidazione stessa.
+
+La nomina del mandatario non esclude la facolta' per il danneggiato di rivolgere la richiesta di risarcimento direttamente al responsabile del sinistro ovvero anche all'impresa di assicurazione con la quale e' assicurato il veicolo il cui uso ha provocato il sinistro.
+
+L'impresa di assicurazione del responsabile del sinistro o il suo mandatario, entro tre mesi dalla ricezione della richiesta di risarcimento, comunica agli aventi diritto un'offerta di risarcimento motivata ovvero indica i motivi per i quali non ritiene di fare offerta.
+
+## Art. 153. — Danneggiati residenti nel territorio della Repubblica
+
+I soggetti residenti nel territorio della Repubblica, che sono danneggiati da sinistri della circolazione stradale provocati da veicoli stazionanti abitualmente e assicurati in un altro Stato membro e accaduti in uno degli Stati aderenti al sistema della carta verde, hanno diritto di richiedere il risarcimento del danno oltre che al responsabile del sinistro anche all'impresa di assicurazione con la quale e' assicurato il veicolo che ha causato il sinistro ovvero anche al suo mandatario designato nel territorio della Repubblica.
+
+In caso di mancata designazione del mandatario da parte dell'impresa di assicurazione con la quale e' assicurato il veicolo che ha causato il sinistro e nei casi di inadempimento a quanto disposto dall'articolo 152, comma 5, il danneggiato puo' rivolgersi all'Organismo di indennizzo italiano secondo quanto previsto all'articolo 298.
+
+## Art. 154. — Centro di informazione italiano
+
+E' istituito presso l'((CONSAP)) il Centro di informazione italiano per consentire agli aventi diritto di chiedere il risarcimento a seguito di un sinistro derivante dalla circolazione dei veicoli a motore nei casi previsti dall'articolo 151. A tale fine l'((CONSAP)) puo' stipulare apposite convenzioni a titolo gratuito con enti pubblici o privati che gia' detengano e gestiscano le informazioni di cui al comma 2, per l'organizzazione e il funzionamento del Centro di informazione italiano.
+
+Il Centro di informazione italiano assiste gli aventi diritto al risarcimento nell'accesso alle informazioni di cui al comma 2, lettere a), b) e c).
+
+Le imprese di assicurazione che coprono la responsabilita' civile derivante dalla circolazione dei veicoli, che stazionano abitualmente nel territorio della Repubblica, sono tenute a comunicare in via sistematica i dati relativi ai numeri di targa dei veicoli assicurati, ai numeri di polizza, alla data di cessazione della copertura assicurativa, ai nominativi dei mandatari per la liquidazione dei sinistri nominati in ciascuno Stato membro e, a richiesta, tempestivamente i dati relativi al nome ed indirizzo del proprietario o dell'usufruttuario o dell'acquirente con patto di riservato dominio o del locatario in caso di locazione finanziaria.
+
+Le procedure, i tempi e le modalita' di invio dei dati da parte delle imprese di assicurazione, le modalita' del relativo trattamento dei dati e di gestione del Centro di informazione italiano, anche nei confronti degli interessati e degli aventi diritto alle informazioni, nonche' le modalita' di accesso alle informazioni per le imprese di assicurazione ed i mandatari per la liquidazione dei sinistri, sono definite con regolamento adottato dall'((CONSAP)), sentito il Garante per la protezione dei dati personali. Con lo stesso regolamento sono individuati i dati contenuti nella banca dati sinistri, di cui all'articolo 135, che sono oggetto di trattamento anche da parte del Centro di informazione italiano, con esclusione dei dati sensibili.
+
+((
+
+Per le esigenze di funzionamento del Centro di informazione italiano, la CONSAP e' autorizzata, ai sensi del codice in materia di protezione dei dati personali, ad avvalersi dei dati trattati dall'IVASS per le finalita' della banca dati sinistri. L'IVASS, con regolamento, organizza la banca dati sinistri al fine di coordinare il trattamento dei dati con le esigenze del Centro di informazione italiano.
+
+))
+
+Il trattamento e la comunicazione dei dati personali sono consentiti, con esclusione dei dati personali sensibili ai sensi del codice in materia di protezione dei dati personali, nei limiti stabiliti dal presente capo. Le informazioni di cui al comma 2 sono conservate per un periodo di sette anni dalla data di cessazione dell'immatricolazione del veicolo o di scadenza del contratto di assicurazione.
+
+Il Centro di informazione coopera con i centri di informazione istituiti dagli altri Stati membri per l'attuazione delle disposizioni previste dall'ordinamento comunitario.
+
+## Art. 155. — Accesso al Centro di informazione italiano
+
+Fermi restando i poteri dell'autorita' giudiziaria, le forze di polizia nonche' gli organi di polizia stradale di cui all'articolo 12 del codice della strada e le pubbliche amministrazioni competenti in materia di prevenzione e contrasto di comportamenti fraudolenti nel settore delle assicurazioni obbligatorie hanno accesso gratuito ai dati del Centro di informazione italiano. Le imprese di assicurazione, l'Ufficio centrale italiano e l'Organismo di indennizzo italiano possono richiedere al Centro di informazione italiano i dati per i quali hanno interesse motivato.
+
+((L'IVASS e la CONSAP hanno accesso gratuit)) ai dati relativi ai veicoli ed ai nomi dei proprietari dei veicoli contenuti nei pubblici registri e ai dati dell'archivio nazionale dei veicoli di cui agli articoli 225, comma 1, lettera b), e 226, commi 5 e seguenti, del codice della strada.
+
+Il Centro di informazione italiano coopera con i centri di informazione istituiti dagli altri Stati membri per l'attuazione delle disposizioni previste dall'ordinamento comunitario.
+
+A richiesta delle parti interessate, i dati forniti dal Centro di informazione italiano devono essere disponibili in formato elettronico.
+
+## - - Capo VI Disciplina dell'attivita' peritale
+
+## Art. 156. — Attivita' peritale
+
+L'attivita' professionale di perito assicurativo per l'accertamento e la stima dei danni alle cose derivanti dalla circolazione, dal furto e dall'incendio dei veicoli a motore e dei natanti soggetti alla disciplina del presente titolo non puo' essere esercitata da chi non sia iscritto nel ruolo di cui all'articolo 157.
+
+Le imprese di assicurazione possono effettuare direttamente l'accertamento e la stima dei danni alle cose derivanti dalla circolazione, dal furto e dall'incendio dei veicoli a motore e dei natanti.
+
+Nell'esecuzione dell'incarico i periti devono comportarsi con diligenza, correttezza e trasparenza.
+
+## Art. 157. — Ruolo dei periti assicurativi
+
+L'((CONSAP)) cura l'istituzione e il funzionamento del ruolo e determina, con regolamento, ((da pubblicarsi nella Gazzetta Ufficiale e sul suo sito internet,)) gli obblighi di comunicazione, la procedura di iscrizione e di cancellazione e le forme di pubblicita' piu' idonee ad assicurare l'accesso pubblico al ruolo.
+
+Nel ruolo sono iscritti i periti assicurativi che esercitano l'attivita' in proprio e che sono in possesso dei requisiti di cui all'articolo 158.
+
+## Art. 158. — Requisiti per l'iscrizione
+
+Fermo il disposto dell'articolo 156, non possono esercitare l'attivita' di perito assicurativo ne' essere iscritti nel ruolo gli intermediari di assicurazione e di riassicurazione, i riparatori di veicoli e di natanti e i pubblici dipendenti con rapporto lavorativo a tempo pieno ovvero a tempo parziale, quando superi la meta' dell'orario lavorativo a tempo pieno.
+
+Ai fini dell'iscrizione, il perito deve possedere adeguate cognizioni e capacita' professionali, che sono accertate dall'((CONSAP)) tramite una prova di idoneita', consistente in un esame su materie tecniche, giuridiche ed economiche rilevanti nell'esercizio dell'attivita'. L'((CONSAP)) determina, con regolamento, i titoli di ammissione e le modalita' di svolgimento della prova valutativa, provvedendo alla relativa organizzazione e gestione.
+
+## Art. 159. — Cancellazione dal ruolo
+
+Non si procede alla cancellazione dal ruolo, anche se richiesta dal perito, fino a quando sia in corso un procedimento disciplinare ovvero siano in corso accertamenti istruttori propedeutici all'avvio del medesimo.
+
+## Art. 160. — Reiscrizione
+
+Il perito, che sia stato cancellato dal ruolo a seguito del provvedimento di radiazione, puo' richiedere di esservi iscritto nuovamente, purche' siano decorsi almeno cinque anni dalla cancellazione e sussistano i requisiti di cui all'articolo 158, commi 1 e 2.
+
+In caso di cancellazione derivante da condanna irrevocabile o da fallimento, il perito puo' essere nuovamente iscritto al ruolo soltanto se ne sia intervenuta la riabilitazione.
+
+Il perito, la cui iscrizione sia stata cancellata per mancato versamento del contributo ((di gestione)), puo' essere iscritto nuovamente purche' abbia provveduto al pagamento di quanto non corrisposto sino alla cancellazione.
+
+Se il perito, intervenuta la cancellazione dal ruolo, chiede una nuova iscrizione, essa viene disposta previa verifica della sussistenza dei requisiti di cui all'articolo 158, commi 1 e 2, rimanendo valida l'idoneita' gia' conseguita.
+
+## - - Titolo XI DISPOSIZIONI RELATIVE A PARTICOLARI OPERAZIONI ASSICURATIVE Capo I Coassicurazione comunitaria
+
+## Art. 161. — Coassicurazione comunitaria
+
+Le assicurazioni contro i danni stipulate per la copertura di rischi situati nel territorio della Repubblica possono essere ripartite in coassicurazione comunitaria, per quote determinate, tra imprese che hanno la sede legale in altri Stati membri o in Stati aderenti allo Spazio economico europeo, a condizione che almeno una delle imprese sia stabilita in uno Stato membro diverso da quello del coassicuratore delegatario e i rischi da coprire siano quelli rientranti tra i grandi rischi di cui all'articolo 1, comma 1, lettera r).
+
+## Art. 162. — Determinazione dell'oggetto della delega
+
+Le assicurazioni sono stipulate con contratto unico, sottoscritto da tutti i coassicuratori, per una stessa durata e con premio globale.
+
+La delega e' attribuita ad uno dei coassicuratori affinche' curi la gestione del contratto per conto e nell'interesse di tutti.
+
+Il coassicuratore delegatario esercita tutte le attribuzioni previste con la delega e quelle spettanti secondo gli usi.
+
+Il coassicuratore delegatario determina le condizioni di assicurazione ed il tasso del premio da applicare al contratto.
+
+## Art. 162-bis. — (( (Riserve tecniche) ))
+
+((
+
+L'impresa avente sede nel territorio della Repubblica, che partecipa a un contratto di coassicurazione comunitaria, determina le riserve tecniche in conformita' alle disposizioni del Titolo III.
+
+In ogni caso, l'ammontare delle riserve tecniche di cui al comma 1 e' almeno uguale a quello identificato e comunicato dal coassicuratore delegatario secondo le norme del suo Stato membro di origine.
+
+Se l'impresa di cui al comma 1 riveste la qualifica di delegataria, la stessa deve tener conto dei rischi per l'intero contratto.
+
+))
+
+## Art. 162-ter. — (( (Dati statistici) ))
+
+((
+
+L'impresa con sede legale nel territorio della Repubblica che opera in coassicurazione comunitaria mantiene dati statistici che mettano in evidenza l'entita' delle operazioni di coassicurazione comunitaria alle quali partecipa e gli Stati membri interessati.
+
+))
+
+## - - Capo II Assicurazione di tutela legale
+
+## Art. 163. — Requisiti particolari
+
+L'impresa che esercita l'assicurazione di tutela legale osserva nei rapporti con gli assicurati le disposizioni previste agli articoli 173 e 174 e rispetta i requisiti per la gestione dei sinistri di cui all'articolo 164.
+
+La disciplina di cui al presente capo non si applica alle assicurazioni di tutela legale che concernono controversie derivanti dall'utilizzazione di navi marittime o connesse comunque a tale utilizzazione ed all'attivita' esercitata dall'impresa di assicurazione della responsabilita' civile per resistere all'azione dei danneggiati ai sensi dell'articolo 1917 del codice civile.
+
+## Art. 164. — Modalita' per la gestione dei sinistri
+
+L'impresa che esercita l'attivita' assicurativa nel ramo tutela legale adotta, per la gestione dei sinistri e per la relativa attivita' di consulenza, una delle modalita', di cui deve essere data preventiva comunicazione all'((IVASS)), previste dal comma 2.
+
+L'impresa deve dichiarare nel contratto se intende avvalersi della facolta' di cui al comma 2, lettera b), indicando la denominazione sociale dell'impresa alla quale affida la gestione dei sinistri. Quando l'impresa ha legami con un'altra impresa che esercita le assicurazioni contro i danni, il personale incaricato della gestione dei sinistri o della relativa consulenza non puo' esercitare la stessa o analoga attivita' in altri rami esercitati da quest'ultima impresa. L'impresa cui sia affidata la gestione dei sinistri e' soggetta alla vigilanza dell'((IVASS)).
+
+L'impresa puo' adottare una diversa modalita' operativa previa comunicazione all'((IVASS)) e con effetto solo per i contratti stipulati successivamente alla comunicazione medesima.
+
+## - - Titolo XII NORME RELATIVE AI CONTRATTI DI ASSICURAZIONE Capo I Disposizioni generali
+
+## Art. 165. — Raccordo con le disposizioni del codice civile
+
+Fermo restando quanto diversamente disposto dal presente codice, i contratti di assicurazione, coassicurazione e riassicurazione rimangono disciplinati dalle norme del codice civile.
+
+## Art. 166. — Criteri di redazione
+
+Il contratto e ogni altro documento consegnato dall'impresa al contraente va redatto in modo chiaro ed esauriente.
+
+Le clausole che indicano decadenze, nullita' o limitazione delle garanzie ovvero oneri a carico del contraente o dell'assicurato sono riportate mediante caratteri di particolare evidenza.
+
+## Art. 167. — Nullita' dei contratti conclusi con imprese non autorizzate
+
+E' nullo il contratto di assicurazione stipulato con un'impresa non autorizzata o con un'impresa alla quale sia fatto divieto di assumere nuovi affari.
+
+La nullita' puo' essere fatta valere solo dal contraente o dall'assicurato. La pronuncia di nullita' obbliga alla restituzione dei premi pagati. In ogni caso non sono ripetibili gli indennizzi e le somme eventualmente corrisposte o dovute dall'impresa agli assicurati ed agli altri aventi diritto a prestazioni assicurative.
+
+## Art. 167-bis. — (( (Diritto di recesso in caso di vendita a distanza).))
+
+((82))
+
+--------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 168. — Effetti del trasferimento di portafoglio, della fusione e della scissione
+
+Ad integrazione di quanto previsto dall'articolo 1902, primo comma, del codice civile, il trasferimento di portafoglio, che sia autorizzato in conformita' a quanto previsto dagli articoli 198 e 200, non e' causa di risoluzione dei contratti, ma i contraenti che hanno il domicilio o, se persone giuridiche, la sede legale nel territorio della Repubblica possono recedere entro il termine di sessanta giorni dalla pubblicazione del provvedimento di autorizzazione, se il trasferimento avviene a favore di un'impresa di assicurazione che ha la sede legale all'estero oppure a favore di una sede secondaria all'estero di un'impresa che ha la sede legale nel territorio della Repubblica.
+
+Nei casi previsti dal comma 1, se il trasferimento riguarda contratti per l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, i soggetti che hanno diritto ad un risarcimento possono agire direttamente, entro i limiti delle somme per le quali e' stata stipulata l'assicurazione, nei confronti dell'impresa italiana cedente sino alla pubblicazione del provvedimento di autorizzazione rilasciato dall'((IVASS)).
+
+Ad integrazione di quanto previsto dall'articolo 1902, primo comma, del codice civile, il trasferimento del portafoglio di imprese di assicurazione di altri Stati membri, che sia stato autorizzato dall'autorita' di vigilanza dello Stato membro di origine dell'impresa cedente ed effettuato con l'assenso dell'((IVASS)), non e' causa di risoluzione dei contratti trasferiti, ma i contraenti che hanno il domicilio o, se persone giuridiche, la sede legale nel territorio della Repubblica possono recedere dai rispettivi contratti entro il termine di sessanta giorni dalla pubblicazione dell'avviso di cui all'articolo 199, comma 6.
+
+Ad integrazione di quanto previsto dall'articolo 1902, primo comma, del codice civile, le disposizioni di cui al presente articolo si applicano anche ai trasferimenti di portafoglio conseguenti ad una fusione o ad una scissione.
+
+## Art. 169. — Effetti della liquidazione coatta di imprese di assicurazione
+
+Ad integrazione di quanto previsto dall'articolo 1902, secondo comma, del codice civile, i contratti di assicurazione in corso di esecuzione alla data di pubblicazione nella Gazzetta Ufficiale del provvedimento di liquidazione continuano a coprire i rischi fino al sessantesimo giorno successivo.
+
+Gli assicurati hanno facolta' di recesso, dopo la pubblicazione del provvedimento di liquidazione, mediante raccomandata con avviso di ricevimento. Il recesso ha effetto dal giorno successivo a quello di ricevimento della comunicazione da parte della liquidazione.
+
+In deroga al comma 1, i contratti di assicurazione obbligatoria della responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti, in corso di esecuzione alla data di pubblicazione del provvedimento di liquidazione, continuano, nei limiti delle somme minime per cui e' obbligatoria l'assicurazione, a coprire i rischi fino alla scadenza del contratto o del periodo di tempo per il quale e' stato pagato il premio.
+
+## - - Capo II Assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti
+
+## Art. 170. — Divieto di abbinamento
+
+Ai fini dell'adempimento dell'obbligo di assicurazione dei veicoli a motore, le imprese non possono subordinare la conclusione di un contratto per l'assicurazione obbligatoria della responsabilita' civile alla conclusione di ulteriori contratti assicurativi, bancari o finanziari.
+
+In deroga al comma 1, al fine di garantire il recupero della franchigia eventualmente prevista a carico del contraente, le imprese possono pattuire idonee forme di garanzia, se le stesse non determinano spese aggiuntive e se il premio risulta inferiore a quello che sarebbe stato altrimenti applicato in assenza di franchigia con recupero garantito.
+
+In deroga al comma 1, le imprese possono proporre polizze per l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli in abbinamento ad altri contratti assicurativi, bancari o finanziari a condizione che tali proposte non costituiscano l'unica offerta dell'impresa e siano osservate le disposizioni previste dal testo unico bancario e dal testo unico dell'intermediazione finanziaria per l'offerta dei contratti dai medesimi disciplinati.
+
+I contratti conclusi ai sensi dei commi 2 e 3, compresi quelli bancari e finanziari, possono essere contestualmente risolti dal contraente nel caso previsto dall'articolo 172.
+
+## Art. 170-bis. — (Durata del contratto).
+
+Il contratto di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti ha durata annuale o, su richiesta dell'assicurato, di anno piu' frazione, si risolve automaticamente alla sua scadenza naturale e non puo' essere tacitamente rinnovato, in deroga all'articolo 1899, primo e secondo comma, del codice civile. L'impresa di assicurazione e' tenuta ad avvisare il contraente della scadenza del contratto con preavviso di almeno trenta giorni e a mantenere operante, non oltre il quindicesimo giorno successivo alla scadenza del contratto, la garanzia prestata con il precedente contratto assicurativo fino all'effetto della nuova polizza. ((62))
+
+La risoluzione di cui al comma 1 si applica anche alle assicurazioni dei rischi accessori al rischio principale della responsabilita' civile derivante dalla circolazione dei veicoli, qualora lo stesso contratto, ovvero un altro contratto stipulato contestualmente, garantisca simultaneamente sia il rischio principale sia i rischi accessori.
+
+--------------
+                            AGGIORNAMENTO (62)
+                            
+ Il D.L. 17 marzo 2020, n. 18, convertito con modificazioni dalla L. 24 aprile 2020, n. 27, ha disposto (con l'art. 125, comma 2) che "Per i contratti scaduti e non ancora rinnovati e per i contratti che scadono nel periodo compreso tra il 21 febbraio 2020 e il 31 luglio 2020, il termine di cui all'articolo 170-bis, comma 1, del codice di cui al decreto legislativo 7 settembre 2005, n. 209, entro cui l'impresa di assicurazione e' tenuta a mantenere operante la garanzia prestata con il contratto assicurativo fino all'effetto della nuova polizza, e' prorogato di ulteriori quindici giorni".
+
+## Art. 171. — Trasferimento di proprieta' del veicolo o del natante
+
+Eseguito il trasferimento di proprieta', l'alienante informa contestualmente l'impresa di assicurazione e l'acquirente se, insieme al veicolo, viene ceduto il contratto di assicurazione.
+
+La garanzia e' valida per il nuovo veicolo o natante dalla data del rilascio del nuovo certificato e, ove occorra, del nuovo contrassegno relativo al veicolo o al natante secondo le modalita' previste dal regolamento adottato, su proposta dell'((IVASS)), dal ((Ministro dello sviluppo economico)).
+
+## Art. 172. — Diritto di recesso
+
+In caso di variazioni tariffarie, escluse quelle connesse all'applicazione di regole evolutive nelle varie formule tariffarie, superiori al tasso programmato di inflazione, il contraente puo' recedere dall'assicurazione mediante comunicazione da effettuarsi con raccomandata con avviso di ricevimento o consegnata a mano, ovvero a mezzo telefax, inviati alla sede dell'impresa o all'intermediario presso il quale e' stata stipulata la polizza entro il giorno di scadenza del contratto. In tal caso non si applica a favore del contraente il termine di tolleranza previsto dall'articolo 1901, secondo comma, del codice civile.
+
+Fatto salvo quanto previsto dal comma 1, la disdetta del contratto e' inviata a mezzo telefax o raccomandata almeno quindici giorni prima della data di scadenza indicata nella polizza.
+
+Le disposizioni del presente articolo sono derogabili esclusivamente in senso piu' favorevole al contraente.
+
+## - - Capo III Assicurazione di tutela legale e assicurazione di assistenza
+
+## Art. 173. — Assicurazione di tutela legale
+
+L'assicurazione di tutela legale e' il contratto con il quale l'impresa di assicurazione, verso pagamento di un premio, si obbliga a prendere a carico le spese legali peritali o a fornire prestazioni di altra natura, occorrenti all'assicurato per la difesa dei suoi interessi in sede giudiziale, in ogni tipo di procedimento, o in sede extragiudiziale, soprattutto allo scopo di conseguire il risarcimento di danni subiti o per difendersi contro una domanda di risarcimento avanzata nei suoi confronti, purche' non proposta dall'impresa che presta la copertura assicurativa di tutela legale.
+
+Qualora l'assicurazione di tutela legale sia prestata cumulativamente con altre assicurazioni, con un unico contratto, il suo contenuto, le condizioni contrattuali ad essa applicabili ed il relativo premio debbono essere indicati in un'apposita distinta sezione del contratto.
+
+## Art. 174. — Diritti dell'assicurato nell'assicurazione di tutela legale
+
+Il contratto di assicurazione di tutela legale deve espressamente prevedere in funzione di tutela dell'assicurato che il medesimo, qualora necessiti dell'assistenza di un professionista per la difesa o la rappresentanza dei propri interessi in un procedimento giudiziario o amministrativo oppure nel caso di conflitto di interessi con l'impresa stessa, abbia la facolta' di scelta del professionista, purche' quest'ultimo sia abilitato secondo la normativa applicabile.
+
+In caso di disaccordo tra l'assicurato e l'impresa sulla gestione del sinistro, le parti possono adire l'autorita' giudiziaria o demandare la decisione sul comportamento da tenere ad un arbitro che provvede secondo equita'. Tale seconda facolta' deve essere esplicitamente prevista nel contratto.
+
+Nell'ipotesi di cui al comma 3, qualora l'impresa assicuri per la tutela legale entrambe le parti della controversia, queste devono essere assistite e rappresentate da avvocati, o altri soggetti abilitati dalla legislazione vigente, indipendenti dall'impresa di assicurazione.
+
+Ogni qualvolta sorga un conflitto di interessi tra l'assicurato e l'impresa di assicurazione o esista disaccordo in merito alla gestione dei sinistri, l'impresa richiama per iscritto l'attenzione dell'assicurato sulla possibilita' di avvalersi dei diritti di cui al presente articolo ovvero sulla possibilita' di avvalersi dell'arbitrato di cui al comma 2.
+
+## Art. 175. — Assicurazione di assistenza
+
+L'assicurazione di assistenza e' il contratto con il quale l'impresa di assicurazione, verso il pagamento di un premio, si impegna a fornire all'assicurato una prestazione di immediato aiuto entro i limiti convenuti nel contratto, nel caso in cui l'assicurato stesso si trovi in una situazione di difficolta' al seguito del verificarsi di un evento fortuito.
+
+L'aiuto puo' essere in denaro o in natura. Le prestazioni in natura possono essere fornite anche utilizzando personale e attrezzature di terzi.
+
+## - - Capo IV Assicurazione sulla vita
+
+## Art. 176. — Revocabilita' della proposta
+
+La proposta relativa ad un contratto individuale di assicurazione sulla vita di cui ai rami I, II, III e V dell'articolo 2, comma 1, e' revocabile.
+
+Le somme eventualmente pagate dal contraente devono essere restituite dall'impresa di assicurazione entro trenta giorni dal momento in cui ha ricevuto comunicazione della revoca.
+
+Le disposizioni del presente articolo non si applicano ai contratti di durata pari od inferiore a sei mesi.
+
+## Art. 177. — Diritto di recesso
+
+Il contraente puo' recedere da un contratto individuale di assicurazione sulla vita entro trenta giorni dal momento in cui ha ricevuto comunicazione che il contratto e' concluso.
+
+L'impresa di assicurazione ((informa)) il contraente del diritto di recesso di cui al comma 1. I termini e le modalita' per l'esercizio dello stesso devono essere espressamente evidenziati nella proposta e nel contratto di assicurazione. ((82))
+
+L'impresa di assicurazione, entro trenta giorni dal ricevimento della comunicazione relativa al recesso, rimborsa al contraente il premio eventualmente corrisposto, al netto della parte relativa al periodo per il quale il contratto ha avuto effetto. L'impresa di assicurazione ha diritto al rimborso delle spese effettivamente sostenute per l'emissione del contratto, a condizione che siano individuate e quantificate nella proposta e nel contratto.
+
+Le disposizioni di cui al presente articolo non si applicano ai contratti di durata pari od inferiore a sei mesi.
+
+--------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 178. — Inversione dell'onere della prova nei giudizi risarcitori
+
+Nei giudizi di risarcimento dei danni cagionati al contraente di un contratto di assicurazione sulla vita di cui ai rami III e V dell'articolo 2, comma 1, spetta all'impresa l'onere della prova di aver agito con la specifica diligenza richiesta.
+
+## - - Capo V Capitalizzazione
+
+## Art. 179. — Nozione
+
+La capitalizzazione e' il contratto mediante il quale l'impresa di assicurazione si impegna, senza convenzione relativa alla durata della vita umana, a pagare somme determinate al decorso di un termine prestabilito in corrispettivo di premi, unici o periodici, che sono effettuati in denaro o mediante altre attivita'.
+
+Quando i contratti prevedono il periodico sorteggio ai fini dell'anticipato pagamento del capitale convenuto, nei successivi sorteggi deve essere estratto un numero uguale o crescente di contratti, non superiore, nell'anno, a cinque per ogni cento contratti emessi. I sorteggi devono essere effettuati ad intervalli non inferiori al semestre.
+
+I contratti di capitalizzazione non possono avere durata inferiore a cinque anni. Nel caso di contratti con premi periodici, i versamenti possono essere stabiliti sia in misura costante sia in misura variabile, purche' quest'ultima modalita' sia prevista contrattualmente.
+
+Il contraente puo' recedere dal contratto nei termini e con le modalita' di cui all'articolo 177. Il riscatto e' consentito a partire dal secondo anno ed a condizione che il contraente abbia corrisposto il premio per un'intera annualita'.
+
+## - - Capo VI Legge applicabile
+
+## Art. 180. — Contratti di assicurazione contro i danni
+
+I contratti di assicurazione contro i danni sono regolati dalla legge italiana, ferme le norme di diritto internazionale privato, quando lo Stato membro di ubicazione del rischio e' la Repubblica italiana.
+
+Le parti possono convenire di assoggettare il contratto alla legislazione di un altro Stato, salvo i limiti derivanti dall'applicazione di norme imperative.
+
+Le disposizioni specifiche relative ad una assicurazione obbligatoria, previste dallo Stato che impone l'obbligo, prevalgono su quelle della legge applicabile al contratto; quando quest'ultimo preveda una garanzia destinata ad operare in piu' Stati, prevalgono le disposizioni specifiche dello Stato interessato.
+
+I contratti di assicurazione contro i danni relativi a rischi ubicati in un altro Stato membro sono regolati dalla legislazione del medesimo Stato.
+
+Qualora il rischio sia ubicato in uno Stato terzo, si applicano le disposizioni della Convenzione di Roma del 19 giugno 1980, sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con legge 18 dicembre 1984, n. 975.
+
+## Art. 181. — Contratti di assicurazioni sulla vita
+
+I contratti di assicurazione sulla vita sono regolati dalla legge italiana, ferme le norme di diritto internazionale privato, quando lo Stato membro dell'obbligazione e' la Repubblica italiana.
+
+Le parti possono tuttavia convenire di assoggettare il contratto alla legislazione di un altro Stato, salvo i limiti derivanti dall'applicazione di norme imperative.
+
+I contratti di assicurazione sulla vita nei quali lo Stato membro dell'obbligazione e' diverso dalla Repubblica italiana sono regolati dalla legislazione dello Stato membro dell'obbligazione.
+
+Qualora il rischio sia ubicato in uno Stato terzo, si applicano le disposizioni della Convenzione di Roma del 19 giugno 1980, sulla legge applicabile alle obbligazioni contrattuali, resa esecutiva con legge 18 dicembre 1984, n. 975.
+
+## - - Titolo XIII TRASPARENZA DELLE OPERAZIONI E PROTEZIONE DELL'ASSICURATO Capo I Disposizioni generali
+
+## Art. 182. — Pubblicita' dei prodotti assicurativi
+
+La pubblicita' utilizzata per i prodotti delle imprese di assicurazione e' effettuata avendo riguardo alla correttezza dell'informazione ed alla conformita' rispetto al contenuto della documentazione informativa e delle condizioni di contratto cui i prodotti stessi si riferiscono.(45)
+
+I medesimi principi sono rispettati anche quando la pubblicita' sia autonomamente effettuata dagli intermediari.
+
+((COMMA ABROGATO DAL D.LGS. 30 DICEMBRE 2020, N. 187)).
+
+L' IVASS sospende in via cautelare, per un periodo non superiore a novanta giorni, la diffusione della pubblicita' in caso di fondato sospetto di violazione delle disposizioni in materia di trasparenza e correttezza.
+
+L' IVASS vieta la diffusione della pubblicita' in caso di accertata violazione delle disposizioni in materia di trasparenza e correttezza.
+
+L' IVASS vieta la commercializzazione dei prodotti in caso di mancata ottemperanza ai provvedimenti di cui ai commi 4 e 5 secondo quanto previsto all'articolo 184, comma 2.
+
+L' IVASS, con regolamento, stabilisce i criteri di riconoscibilita' della pubblicita' e di chiarezza e correttezza dell'informazione.
+
+--------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 183. — Regole di comportamento
+
+L'IVASS adotta, con regolamento, specifiche disposizioni relative alla determinazione delle regole di comportamento da osservare nei rapporti con i contraenti, in modo che l'attivita' si svolga con correttezza e con adeguatezza rispetto alle specifiche esigenze dei singoli.
+
+L'IVASS tiene conto, nel regolamento, delle differenti esigenze di protezione dei contraenti e degli assicurati, nonche' della natura dei rischi e delle obbligazioni assunte dall'impresa, individua le categorie di soggetti che non necessitano in tutto o in parte della protezione riservata alla clientela non qualificata e determina modalita', limiti e condizioni di applicazione delle medesime disposizioni nell'offerta e nell'esecuzione dei contratti di assicurazione dei rami danni, tenendo in considerazione le particolari caratteristiche delle varie tipologie di rischio.
+
+## Art. 184. — Misure cautelari ed interdittive
+
+((45))
+
+L'IVASS vieta la commercializzazione in caso di accertata violazione delle disposizioni indicate al comma 1 e dispone, a cura e spese dell'impresa o ((del distributore)) interessato, la diffusione al pubblico, mediante le forme piu' utili alla generale conoscibilita', dei provvedimenti adottati. ((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Capo II Obblighi di informazione
+
+## Art. 185. — (( (Documentazione informativa). ))
+
+((
+
+Le imprese di assicurazione e gli intermediari che realizzano prodotti assicurativi redigono altresi' il documento informativo precontrattuale aggiuntivo.
+
+Fatto salvo quanto previsto dal testo unico dell'intermediazione finanziaria e dalle relative disposizioni di attuazione in materia di informativa precontrattuale, il documento informativo precontrattuale aggiuntivo di cui al comma 2 contiene le informazioni, diverse da quelle pubblicitarie o promozionali, integrative e complementari rispetto a quelle contenute nei documenti di cui al comma 1 che, tenendo conto della complessita' e delle caratteristiche del prodotto, del tipo del cliente e delle caratteristiche dell'impresa di assicurazione, sono necessarie affinche' il cliente possa pervenire ad una decisione informata su diritti e obblighi contrattuali e, ove opportuno, sulla situazione patrimoniale dell'impresa. Il documento informativo precontrattuale aggiuntivo contiene il riferimento alla relazione sulla solvibilita' e sulla condizione finanziaria dell'impresa di cui all'articolo 47-septies.
+Il documento informativo precontrattuale aggiuntivo indica la procedura da seguire in caso di reclamo, l'organismo o l'autorita' eventualmente competente e la legge applicabile.
+
+L'IVASS, con regolamento, disciplina il contenuto, lo schema e le istruzioni di compilazione del documento informativo precontrattuale aggiuntivo.
+
+5. L'IVASS determina con regolamento le informazioni che devono essere comunicate al contraente di un'assicurazione sulla vita per tutto il periodo di durata del contratto))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 185-bis. — (( (Documento informativo precontrattuale per i prodotti assicurativi danni). ))
+
+((
+
+2. Il documento informativo standardizzato di cui al comma 1 contiene:
+
+a) le informazioni sul tipo di assicurazione;
+
+b) una sintesi della copertura assicurativa, compresi i principali rischi assicurati, la somma assicurata e, ove del caso, l'ambito geografico e una sintesi dei rischi esclusi;
+
+c) le modalita' e la durata di pagamento dei premi;
+
+d) le principali esclusioni per le quali non e' possibile presentare una richiesta di risarcimento;
+
+e) gli obblighi all'inizio del contratto;
+
+f) gli obblighi nel corso della durata del contratto;
+
+g) gli obblighi in caso di presentazione di una richiesta di risarcimento;
+
+h) le condizioni del contratto, inclusa la data di inizio e di fine del periodo di copertura;
+
+i) le modalita' di risoluzione del contratto))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 185-ter. — (( (Documento informativo precontrattuale per i prodotti assicurativi vita). ))
+
+((
+
+Il documento informativo di cui al comma 1 e' redatto secondo il formato standardizzato come definito dall'IVASS con regolamento.
+
+4. L'IVASS, con regolamento puo' stabilire le modalita' specifiche di redazione del documento di cui al comma 1 nel caso di contratti di assicurazione con garanzie multirischio che, nel rispetto delle disposizioni dell'Unione europea direttamente applicabili, garantiscano che il cliente possa pervenire ad una decisione informata.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 186. — (( (Interpello sul documento informativo precontrattuale aggiuntivo). ))
+
+((
+
+Fatto salvo quanto previsto dal Testo Unico dell'intermediazione finanziaria e dalle relative disposizioni di attuazione in materia di informativa precontrattuale, l'impresa puo' trasmettere preventivamente all'IVASS il documento informativo precontrattuale aggiuntivo, unitamente alle condizioni di contratto, allo scopo di richiedere un accertamento sulla corretta applicazione degli obblighi di informazione previsti dalle disposizioni del presente capo, fermo restando che la valutazione dell'IVASS non puo' essere utilizzata, a fini promozionali, nei rapporti con gli assicurati.
+
+L'IVASS provvede a rendere nota all'impresa la sua valutazione entro sessanta giorni dal ricevimento della documentazione, esauriente e completa, relativa al contratto. Decorso tale termine senza che l'IVASS si sia pronunciato con un giudizio negativo o con un giudizio con rilievi ai sensi del comma 3, il documento informativo precontrattuale aggiuntivo si intende conforme agli obblighi di informazione. L'IVASS puo' disporre la revoca, previa notifica all'impresa interessata, qualora vengano meno i presupposti dell'accertamento ovvero se l'impresa abusa del provvedimento richiesto. L'IVASS indica all'impresa le eventuali integrazioni al documento informativo precontrattuale aggiuntivo.
+
+Nel periodo occorrente all'istruttoria e sino al provvedimento dell'IVASS l'impresa non procede alla commercializzazione del prodotto.
+
+4. L'IVASS stabilisce, con regolamento, le disposizioni per la comunicazione del documento informativo precontrattuale aggiuntivo, le modalita' da osservare, prima della pubblicazione del documento stesso, per diffondere notizie o per svolgere indagini di mercato o per raccogliere intenzioni di sottoscrizione del contratto e per lo svolgimento della commercializzazione.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 187. — (( (Integrazione del documento informativo precontrattuale aggiuntivo). ))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - ((Capo IIbis Controversie))
+
+## Art. 187.1. — (( (Sistemi di risoluzione stragiudiziale delle controversie). ))
+
+((
+
+Fermo restando quanto previsto dall'articolo 32-ter del decreto legislativo 24 febbraio 1998, n. 58, i soggetti di cui all'articolo 6, commi 1, lettere a) e d), nonche' gli intermediari assicurativi a titolo accessorio, aderiscono ai sistemi di risoluzione stragiudiziale delle controversie con la clientela relative alle prestazioni e ai servizi assicurativi derivanti da tutti i contratti di assicurazione, senza alcuna esclusione.
+
+Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro della giustizia, su proposta dell'IVASS, sono determinati, nel rispetto dei principi, delle procedure e dei requisiti di cui alla parte V, titolo 2-bis, del decreto legislativo 6 settembre 2005, n. 206, i criteri di svolgimento delle procedure di risoluzione delle controversie di cui al comma 1, i criteri di composizione dell'organo decidente, in modo che risulti assicurata l'imparzialita' dello stesso e la rappresentativita' dei soggetti interessati, nonche' la natura delle controversie, relative alle prestazioni e ai servizi assicurativi derivanti da un contratto di assicurazione, trattate dai sistemi di cui al presente articolo. Le procedure devono in ogni caso assicurare la rapidita', l'economicita' e l'effettivita' della tutela.
+
+Per le controversie definite dal decreto di cui al comma 2, il ricorso al sistema di risoluzione delle controversie di cui al comma 1 e' alternativo all'esperimento delle procedure di mediazione e di negoziazione assistita previste, rispettivamente, dal decreto legislativo 4 marzo 2010, n. 28, e dal decreto-legge 12 settembre 2014, n. 132, convertito, con modificazioni, dalla legge 10 novembre 2014, n. 162, e non pregiudica il ricorso ad ogni altro strumento di tutela previsto dall'ordinamento.
+
+Alla copertura delle spese di funzionamento dei sistemi di cui al presente articolo, si provvede, senza nuovi o maggiori oneri per la finanza pubblica, con le risorse di cui agli articoli 335 e 336.
+
+))
+
+## - - Titolo XIV VIGILANZA SULLE IMPRESE E SUGLI INTERMEDIARI Capo I Disposizioni generali
+
+## Art. 187-bis. — (Modalita' di esercizio dei poteri di vigilanza)
+
+I poteri di vigilanza sono esercitati in modo tempestivo e proporzionato. 
+ ((69))
+
+---------------
+                            AGGIORNAMENTO (69)
+                            
+ Il D.Lgs. 30 dicembre 2020, n. 187, ha disposto (con l'art. 1, comma 19) la modifica del Titolo XIV.
+
+## Art. 187-ter. — ((ARTICOLO ABROGATO DALLA L. 30 DICEMBRE 2020, N. 187))
+
+
+
+## Art. 188. — Poteri di intervento
+
+L'IVASS, nell'esercizio delle funzioni di vigilanza sull'osservanza delle leggi e dei regolamenti previsti nel presente codice, nonche' delle disposizioni dell'Unione europea direttamente applicabili da parte degli operatori del mercato assicurativo, puo' convocare i legali rappresentanti delle societa' che svolgono attivita' di intermediazione ed i soggetti iscritti al registro degli intermediari.
+
+L'IVASS, al fine di conoscere i programmi e valutare gli impegni a garanzia dell'autonomia e dell'indipendenza della gestione dell'impresa di assicurazione o di riassicurazione, puo' convocare chiunque detenga una partecipazione indicata dall'articolo 68 in un'impresa di assicurazione o di riassicurazione.
+
+L'esercizio dei poteri di vigilanza di cui al comma 3-bis, lettera a), e' attribuito alla CONSOB, per i profili di propria competenza.
+
+Ai fini della salvaguardia della stabilita' del sistema finanziario nel suo complesso e del contrasto di rischi sistemici l'IVASS puo' adottare, sulla base delle raccomandazioni del Comitato per le politiche macroprudenziali, le misure preventive o correttive di cui al comma 3-bis, lettere a), b), c) e d), nei confronti di tutte o di singole imprese di assicurazione o riassicurazione.
+
+--------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 188-bis. — (( (Impegni nell'ambito dell'esercizio del potere di vigilanza).))
+
+
+
+((In caso di tempestiva presentazione di una proposta di impegni, l'IVASS non procede all'accertamento dell'infrazione ai fini dell'avvio del procedimento sanzionatorio, fino alla notifica del provvedimento di rigetto della proposta o all'apertura del procedimento sanzionatorio nei casi di cui al comma 4.))
+
+((In caso di mancato rispetto degli impegni resi obbligatori ai sensi del comma 1, l'IVASS puo' irrogare la sanzione amministrativa pecuniaria prevista dalla normativa di riferimento, i cui limiti edittali massimi sono aumentati del 10 per cento. Al fine di monitorare l'attuazione degli impegni, l'IVASS esercita i poteri di cui agli articoli 188 e 189.))
+
+((L'IVASS pubblica sul proprio sito internet istituzionale gli impegni assunti ai sensi del presente articolo.))
+                                ((82))
+
+--------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 189. — Poteri di indagine
+
+L'((IVASS)) puo' chiedere informazioni, ordinare l'esibizione di documenti ed il compimento di accertamenti e verifiche ritenute necessarie, rivolgendo la richiesta ((ai destinatari della vigilanza di cui all'articolo 6)) nonche' ai soggetti che svolgono attivita' riservate privi di autorizzazione.
+
+L'((IVASS)) puo' effettuare ispezioni presso le imprese di assicurazione e di riassicurazione e presso gli uffici degli intermediari di assicurazione e di riassicurazione, dei soggetti che svolgono funzioni parzialmente comprese nel ciclo operativo delle imprese medesime limitatamente a tale ciclo, ((...)) e dei soggetti che svolgono attivita' riservate privi di autorizzazione.((Per le ispezioni nei confronti delle imprese che hanno ad oggetto i modelli interni di cui al Titolo III, Capo IV-bis, Sezione III, l'IVASS puo', fino al 31 dicembre 2016, avvalersi di esperti esterni, inclusi revisori dei conti ed attuari, con onere a carico dell'impresa.
+L'IVASS disciplina con regolamento i criteri di scelta e le ipotesi di conflitto di interesse.))
+
+## Art. 190. — Obblighi di informativa
+
+((
+
+L'IVASS, nel rispetto degli articoli 3 e 5, puo' chiedere ai soggetti vigilati la comunicazione, anche periodica, di dati e notizie e la trasmissione di atti e documenti, nonche' qualsiasi informazione in merito ai contratti che sono detenuti da intermediari o in merito ai contratti conclusi con terzi con i termini e le modalita' da esso stabilite con regolamento.
+
+))
+
+((
+
+))
+
+((
+
+))
+
+((
+
+I poteri previsti dal comma 1 possono essere esercitati anche nei confronti del soggetto incaricato della revisione legale dei conti delle imprese di assicurazione e di riassicurazione. L'IVASS stabilisce, con regolamento, le modalita' e i termini per la trasmissione, da parte del medesimo soggetto, delle informazioni previste dai commi 3 e 4.
+
+))
+
+((2-bis. I poteri previsti dal comma 1 possono essere esercitati anche nei confronti di esperti esterni, quali attuari. L'IVASS stabilisce, con regolamento, le modalita' e i termini per la trasmissione, da parte dei medesimi soggetti, delle informazioni previste dai commi 3 e 4))
+
+L'organo che svolge la funzione di controllo in un'impresa di assicurazione o di riassicurazione informa senza indugio l'((IVASS)) di tutti gli atti o i fatti, che possano costituire un'irregolarita' nella gestione dell'impresa ovvero una violazione delle norme che disciplinano l'attivita' assicurativa o riassicurativa. A tali fini lo statuto dell'impresa, indipendentemente dal sistema di amministrazione e controllo adottato, assegna all'organo che svolge la funzione di controllo i relativi compiti e poteri. Il medesimo organo fornisce all'((IVASS)) ogni altro dato o documento richiesto.
+
+I soggetti di cui al comma 2 comunicano senza indugio all'((IVASS)) gli atti o i fatti, rilevati nello svolgimento dell'incarico, che possano costituire una grave violazione delle norme disciplinanti l'attivita' delle societa' sottoposte a revisione ovvero che possano pregiudicare la continuita' dell'impresa o comportare un giudizio negativo, un giudizio con rilievi o una dichiarazione di impossibilita' di esprimere un giudizio sul bilancio ((, o che possano determinare l'inosservanza del Requisito Patrimoniale di Solvibilita' o l'inosservanza del Requisito Patrimoniale Minimo)). I medesimi soggetti forniscono all'((IVASS)) ogni altro dato o documento richiesto.
+
+((
+
+La comunicazione in buona fede alle autorita' di vigilanza da parte dei soggetti di cui ai commi 2 e 2-bis di fatti o decisioni di cui al comma 4 non costituisce violazione di eventuali restrizioni alla comunicazione di informazioni imposte in sede contrattuale o in forma di disposizioni legislative, regolamentari o amministrative e non comporta per tali persone responsabilita' di alcun tipo.
+
+))
+
+Le disposizioni di cui ai commi 3, primo periodo, ((4 e 4-bis)) si applicano anche ai soggetti che esercitano i compiti ivi previsti presso le societa' che controllano le imprese di assicurazione o di riassicurazione o che sono da queste controllate ai sensi dell'articolo 72.
+
+L'((IVASS)) stabilisce modalita' e termini per l'invio delle comunicazioni di cui al comma 5-bis. Nel caso di mancata nomina del soggetto incaricato della revisione legale dei conti, l'((IVASS)) adotta i provvedimenti cautelari, autoritativi e sanzionatori previsti dal codice.
+
+## Art. 190-bis. — (( (Informazioni statistiche) ))
+
+((
+
+L'IVASS chiede ai soggetti vigilati di comunicare i dati e le informazioni per lo svolgimento di indagini statistiche, studi ed analisi relative al mercato assicurativo. L'IVASS stabilisce con regolamento la periodicita', le modalita', i contenuti ed i termini per la trasmissione, da parte dei medesimi soggetti, di tali dati e informazioni.
+
+Per quanto riguarda le imprese autorizzate al ramo 10 di cui all'articolo 2, comma 3, l'impresa interessata comunica all'autorita' di vigilanza anche la frequenza e il costo medio dei sinistri.
+
+L'IVASS presenta alle autorita' di vigilanza dei singoli Stati membri interessati su loro richiesta, entro un termine ragionevole e in forma aggregata, le informazioni di cui ai commi 2 e 3.
+
+))
+
+## Art. 191. — (Potere regolamentare)
+
+I regolamenti di cui al comma 1 si conformano al principio di proporzionalita' per il raggiungimento del fine con il minor sacrificio per i soggetti destinatari.
+
+I regolamenti devono risultare coerenti con le finalita' della vigilanza di cui agli articoli 3 e 5 e devono tenere conto delle esigenze di competitivita' e di sviluppo dell'innovazione nello svolgimento delle attivita' dei soggetti vigilati.
+
+I regolamenti sono adottati nel rispetto di procedure di consultazione aperte e trasparenti che consentano la conoscibilita' della normativa in preparazione e dei commenti ricevuti anche mediante pubblicazione sul sito Internet dell'Istituto. All'avvio della consultazione l'IVASS rende noto lo schema del provvedimento ed i risultati dell'analisi relativa all'impatto della regolamentazione, che effettua nel rispetto dei principi enunciati all'articolo 12 della legge 29 luglio 2003, n. 229, e delle disposizioni regolamentari dell'IVASS.
+
+L'IVASS puo' richiedere, in ogni fase del procedimento, il parere del Consiglio di Stato e si esprime pubblicamente sulle osservazioni ricevute, a seguito della procedura di consultazione, e sul parere eventualmente richiesto al Consiglio di Stato.
+
+I regolamenti adottati dall'IVASS sono fra loro coordinati e formano un'unica raccolta delle istruzioni di vigilanza.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Capo II Vigilanza sulla gestione tecnica, finanziaria e patrimoniale delle imprese di assicurazione e di riassicurazione.
+
+## Art. 192. — Imprese di assicurazione italiane
+
+Le imprese di assicurazione con sede legale in Italia sono soggette alla vigilanza dell'IVASS sia per l'attivita' esercitata nel territorio della Repubblica sia per quella svolta nel territorio degli altri Stati membri in regime di stabilimento e di liberta' di prestazione di servizi.
+
+L'IVASS esercita le funzioni di vigilanza prudenziale, avendo riguardo alla costante verifica della gestione tecnica, finanziaria e patrimoniale dell'impresa, con particolare riferimento all'adeguatezza dei requisiti patrimoniali e delle riserve tecniche in rapporto all'insieme dell'attivita' svolta, alla disponibilita' di attivi e di fondi propri ammissibili ai fini dell'integrale copertura delle riserve tecniche e dei requisiti patrimoniali di solvibilita', alla valutazione dei rischi emergenti, nonche' al governo societario e all'informativa all'IVASS ed ai terzi. Nei confronti delle imprese autorizzate all'esercizio del ramo assistenza la vigilanza dell'IVASS si estende anche alle verifiche sul personale e sui mezzi tecnici di cui le imprese dispongono per fornire la prestazione.
+
+L'IVASS, anche su segnalazione dell'autorita' di vigilanza dello Stato membro della sede secondaria o dello Stato membro di prestazione di servizi, adotta le misure idonee a porre fine alle irregolarita' commesse in altri Stati membri dalle imprese di assicurazione con sede legale in Italia o alle attivita' svolte in tali Stati che possano compromettere la stabilita' finanziaria delle stesse. Delle misure adottate e' data comunicazione all'autorita' di vigilanza dello Stato membro di stabilimento o dello Stato membro di prestazione di servizi.
+
+L'IVASS esercita le funzioni di vigilanza prudenziale affinche' le imprese di assicurazione che svolgono attivita' in regime di stabilimento o di prestazione di servizi in Stati terzi rispettino le condizioni di esercizio stabilite dal presente codice e dalla normativa attuativa.
+
+((4-bis. Qualora l'IVASS individui, nell'impresa che svolge attivita' rilevante nel territorio di un altro Stato membro ai sensi dell'articolo 14-bis, comma 2-bis, un deterioramento delle condizioni finanziarie o altri rischi emergenti derivanti da tale attivita' che possano avere un effetto transfrontaliero, informa con adeguato livello di dettaglio l'AEAP e l'autorita' di vigilanza dello Stato membro ospitante))
+
+## Art. 193. — Imprese di assicurazione di altri Stati membri
+
+Le imprese di assicurazione che hanno la sede legale in altri Stati membri sono soggette alla vigilanza prudenziale dell'autorita' dello Stato membro d'origine anche per l'attivita' svolta, in regime di stabilimento od in regime di liberta' di prestazione di servizi, nel territorio della Repubblica.
+
+Qualora l'IVASS abbia motivo di ritenere che le attivita' dell'impresa di assicurazione di cui al comma 1 possa eventualmente compromettere la solidita' finanziaria della stessa, ne informa l'autorita' di vigilanza dello Stato membro di origine di tale impresa.
+
+((1-ter. L'IVASS informa l'autorita' di vigilanza dello Stato membro di origine qualora abbia motivo di ritenere che l'impresa di altro Stato membro che svolge attivita' rilevante nel territorio della Repubblica desta preoccupazioni gravi e giustificate sugli interessi di tutela dei consumatori. Nei casi in cui non sia possibile giungere ad una soluzione congiunta tra l'IVASS e l'autorita' dello Stato membro, l'IVASS puo' rinviare la questione all'AEAP e chiederne l'assistenza))
+
+Fermo quanto disposto al comma 1, l'IVASS, qualora accerti che l'impresa di assicurazione non rispetta le disposizioni della legge italiana che e' tenuta ad osservare, ne contesta la violazione e le ordina di conformarsi alle norme di legge e di attuazione.
+
+Qualora l'impresa non si conformi alle norme di legge e di attuazione, l'IVASS ne informa l'autorita' di vigilanza dello Stato membro di origine, chiedendo che vengano adottate le misure necessarie a far cessare le violazioni.
+
+Quando manchino o risultino inadeguati i provvedimenti dell'autorita' dello Stato di origine, quando le irregolarita' commesse possano pregiudicare interessi generali, ovvero nei casi di urgenza per la tutela degli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative, l'IVASS puo' adottare nei confronti dell'impresa di assicurazione, dopo averne informato l'autorita' di vigilanza dello Stato membro di origine, le misure necessarie, compreso il divieto di stipulare nuovi contratti in regime di stabilimento o di liberta' di prestazione di servizi con gli effetti di cui all'articolo 167. L'IVASS puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Qualora l'impresa di assicurazione che ha commesso l'infrazione operi attraverso una sede secondaria o possieda beni nel territorio della Repubblica, le sanzioni amministrative applicabili in base alle disposizioni della legge italiana sono adottate nei riguardi della sede secondaria o mediante confisca dei beni presenti in Italia.
+
+Le misure che comportano sanzioni o restrizioni all'esercizio dell'attivita' in regime di stabilimento o di liberta' di prestazione di servizi sono notificate all'impresa interessata. Nelle comunicazioni con l'IVASS l'impresa di assicurazione fa uso della lingua italiana.
+
+Delle misure adottate l'IVASS ordina la menzione, a spese dell'impresa di assicurazione, su quotidiani o attraverso altri sistemi di pubblicita' individuati nel provvedimento, per il periodo di tempo ritenuto necessario. Dei provvedimenti adottati l'IVASS informa l'autorita' di vigilanza dello Stato membro di origine. 
+ 7-bis, L'impresa di assicurazione e' tenuta a presentare tutti i documenti ad essa richiesti ai fini dell'applicazione dei commi da 1 a 7.
+
+## Art. 194. — Imprese di assicurazione di Stati terzi
+
+Le sedi secondarie delle imprese di assicurazione che hanno sede legale in Stati terzi sono soggette alla vigilanza dell'((IVASS)) per l'attivita' svolta nel territorio della Repubblica.
+
+## Art. 195. — Imprese di riassicurazione italiane
+
+Le imprese di riassicurazione che hanno la sede legale nel territorio della Repubblica sono soggette alla vigilanza dell'IVASS sia per l'attivita' esercitata in Italia, sia per quella svolta in regime di stabilimento o di prestazione di servizi nel territorio degli altri Stati membri o in quello di Stati terzi.
+
+Nei confronti delle imprese di cui al comma 1, l'IVASS esercita le funzioni di vigilanza prudenziale, avendo riguardo alla costante verifica della gestione tecnica, finanziaria e patrimoniale dell'impresa, con particolare riferimento all'adeguatezza dei requisiti patrimoniali e delle riserve tecniche in rapporto all'insieme dell'attivita' svolta, alla disponibilita' di attivi e di fondi propri ammissibili ai fini dell'integrale copertura delle riserve tecniche e dei requisiti patrimoniali di solvibilita' e della valutazione dei rischi emergenti, nonche' del governo societario e della informativa all'IVASS ed ai terzi.
+
+Alle imprese di cui al comma 1 si applicano le disposizioni di cui all'articolo 192, ((commi 3, 4 e 4-bis)).
+
+## Art. 195-bis. — ( Imprese di riassicurazione di altri Stati membri )
+
+Le imprese di riassicurazione che hanno la sede legale in altri Stati membri sono soggette alla vigilanza prudenziale della autorita' dello Stato membro di origine anche per l'attivita' svolta in regime di stabilimento o in regime di liberta' di prestazione di servizi nel territorio della Repubblica.
+
+Qualora l'IVASS abbia motivo di ritenere che le attivita' dell'impresa di riassicurazione di cui al comma 1 possa eventualmente compromettere la solidita' finanziaria della stessa, ne informa l'autorita' di vigilanza dello Stato membro di origine di tale impresa.
+
+((1-ter. L'IVASS informa l'autorita' di vigilanza dello Stato di origine qualora abbia motivo di ritenere che l'impresa di riassicurazione di altro Stato membro che svolge attivita' rilevante nel territorio della Repubblica puo' destare preoccupazioni gravi e giustificate sugli interessi di tutela dei consumatori. Nei casi in cui non sia possibile giungere ad una soluzione congiunta tra l'IVASS e l'autorita' dello Stato membro, l'IVASS puo' rinviare la questione all'AEAP e chiederne l'assistenza))
+
+Fermo restando quanto disposto al comma 1, l'IVASS, qualora accerti che l'impresa di riassicurazione non rispetta le disposizioni della legge italiana che e' tenuta ad osservare, ne contesta la violazione e le ordina di conformarsi alle norme di legge e di attuazione.
+
+Qualora l'impresa non si conformi alle norme di legge e di attuazione, l'IVASS ne informa l'autorita' di vigilanza dello Stato membro di origine, chiedendo che vengano adottate le misure necessarie a far cessare le violazioni.
+
+Quando manchino o risultino inadeguati i provvedimenti dell'autorita' dello Stato di origine, quando le irregolarita' commesse possano pregiudicare interessi generali, l'IVASS puo' adottare nei confronti dell'impresa di riassicurazione, dopo averne informato l'autorita' di vigilanza dello Stato membro di origine, le misure necessarie, compreso il divieto di stipulare nuovi contratti di riassicurazione in regime di stabilimento o di liberta' di prestazione di servizi. L'IVASS puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Qualora l'impresa di riassicurazione che ha commesso l'infrazione operi attraverso una sede secondaria o possieda beni nel territorio della Repubblica, le sanzioni amministrative applicabili in base alle disposizioni della legge italiana sono adottate nei riguardi della sede secondaria o mediante confisca dei beni presenti in Italia.
+
+Le misure che comportano sanzioni o restrizioni all'esercizio dell'attivita' in regime di stabilimento o di liberta' di prestazione di servizi sono notificate all'impresa interessata. Nelle comunicazioni con l'IVASS l'impresa di riassicurazione fa uso della lingua italiana.
+
+Delle misure adottate l'IVASS ordina la menzione, a spese dell'impresa di riassicurazione su quotidiani o attraverso altri sistemi di pubblicita' individuati nel provvedimento, per il periodo di tempo ritenuto necessario. Dei provvedimenti adottati l'IVASS informa l'autorita' di vigilanza dello Stato membro di origine.
+
+## Art. 195-ter. — ( Imprese di riassicurazione di Stati terzi )
+
+Le sedi secondarie delle imprese di riassicurazione che hanno sede legale in Stati terzi sono soggette alla vigilanza dell'((IVASS)) per l'attivita' svolta nel territorio della Repubblica.
+
+## Art. 196. — Modificazioni statutarie
+
+L'((IVASS)) approva, nel rispetto della procedura stabilita con regolamento, le modificazioni degli statuti delle imprese di assicurazione e di riassicurazione quando non contrastino con una sana e prudente gestione.
+
+Non si puo' dare corso all'iscrizione nel registro delle imprese se non consti l'approvazione prevista dal comma 1.
+
+## Art. 197. — Vigilanza sull'attuazione del programma di attivita'
+
+Per i primi tre esercizi l'impresa di assicurazione con sede legale nel territorio della Repubblica e' tenuta a presentare all'((IVASS)) una relazione semestrale relativa all'esecuzione del programma di attivita'.
+
+Qualora dalla relazione risulti un grave squilibrio nella situazione finanziaria dell'impresa, l'((IVASS)) puo' adottare le misure necessarie per il rispetto del programma e per ristabilire l'equilibrio della gestione.
+
+((
+
+L'impresa comunica all'IVASS ogni variazione apportata al programma di attivita', nonche' ogni variazione intervenuta nelle persone che ricoprono funzioni di amministrazione, di direzione e di controllo, nei responsabili delle funzioni fondamentali nonche' nei soggetti che detengono una partecipazione indicata dall'articolo 68 nell'impresa di assicurazione. Le eventuali modifiche del programma di attivita' sono sottoposte all'approvazione dell'IVASS secondo la procedura stabilita con regolamento.
+
+))
+
+Le disposizioni del presente articolo si applicano, in quanto compatibili, anche alle sedi secondarie, stabilite nel territorio della Repubblica, di imprese di assicurazione aventi la sede legale in Stati terzi, ed alle imprese di riassicurazione con sede legale nel territorio della Repubblica ed alle sedi secondarie di imprese di riassicurazione di Stati terzi.
+
+## - - Capo III Vigilanza sulle operazioni straordinarie delle imprese di assicurazione e di riassicurazione
+
+## Art. 198. — Trasferimento del portafoglio di imprese di assicurazione italiane
+
+Il trasferimento, parziale o totale, del portafoglio dell'impresa di assicurazione con sede legale nel territorio della Repubblica e' sottoposto, a cura della cedente, all'autorizzazione preventiva dell'((IVASS)), secondo la procedura stabilita con regolamento, con provvedimento da pubblicare nel Bollettino.
+
+Se il portafoglio e' trasferito ad un'impresa di assicurazione che ha sede legale nel territorio della Repubblica, l'((IVASS)) verifica che l'impresa cessionaria disponga dell'autorizzazione necessaria all'esercizio delle attivita' trasferite e che disponga, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis)). Quando il portafoglio comprende obbligazioni e rischi assunti al di fuori del territorio della Repubblica, l'((IVASS)) verifica inoltre che l'impresa soddisfi le condizioni previste per l'accesso all'attivita' in regime di stabilimento o di prestazione di servizi nello Stato membro dell'impresa cedente. Se il trasferimento comprende il portafoglio di sedi secondarie situate in altri Stati membri, e' necessario il parere favorevole delle autorita' di vigilanza interessate. Se il trasferimento comprende contratti stipulati in altri Stati membri in liberta' di prestazione di servizi, e' altresi' necessario il parere favorevole delle autorita' di vigilanza degli Stati membri dell'obbligazione e di ubicazione del rischio.
+
+Se il portafoglio e' trasferito ad un'impresa di assicurazione che ha la sede legale in un altro Stato membro, compreso il caso in cui il portafoglio sia trasferito ad una sede secondaria della medesima impresa stabilita in Italia, spetta all'autorita' di vigilanza dello Stato membro dell'impresa cessionaria attestare all'((IVASS)) che la medesima e' autorizzata all'esercizio delle attivita' trasferite e dispone, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis)).
+L'((IVASS)) verifica, nel caso in cui il portafoglio sia trasferito ad una sede secondaria situata in un altro Stato membro, che l'impresa cessionaria rispetti le disposizioni per l'accesso in regime di liberta' di prestazione di servizi per l'attivita' esercitata nel territorio della Repubblica a seguito del trasferimento.
+
+Se le autorita' di vigilanza di cui ai commi 2 e 3 non si pronunciano entro novanta giorni dal ricevimento della richiesta da parte dell'((IVASS)), si considera che esse abbiano dato parere favorevole.
+
+Se il trasferimento e' effettuato ad un'impresa di assicurazione con sede legale nel territorio della Repubblica o ad un'impresa di assicurazione con sede legale in altro Stato, ma a favore di una sede secondaria situata nel territorio della Repubblica, esso comporta altresi' l'applicazione, per i rapporti di lavoro in corso alla data del provvedimento di autorizzazione, delle disposizioni dell'articolo 2112 del codice civile.
+
+## Art. 199. — Trasferimento del portafoglio di imprese di assicurazione di altri Stati membri
+
+L'impresa di assicurazione di un altro Stato membro operante nel territorio della Repubblica comunica senza indugio all'((IVASS)) di aver richiesto alla propria autorita' di vigilanza l'autorizzazione al trasferimento del portafoglio dei contratti conclusi in Italia in regime di stabilimento o in liberta' di prestazione di servizi.
+
+Se il portafoglio e' trasferito ad un'impresa di assicurazione con sede legale nel territorio della Repubblica, l'((IVASS)) da' il suo assenso all'autorita' di vigilanza dello Stato membro dell'impresa cedente, dopo aver verificato che l'impresa cessionaria e' autorizzata all'esercizio delle attivita' trasferite e che dispone, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.)) La medesima procedura si applica se il portafoglio trasferito da un'impresa di assicurazione di altro Stato membro all'impresa con sede legale nel territorio della Repubblica comprende obbligazioni assunte al di fuori del territorio italiano.
+
+L'((IVASS)) pubblica nel Bollettino un avviso sui pareri resi e sui provvedimenti emessi dalle autorita' di vigilanza degli altri Stati membri relativi ai trasferimenti di portafoglio autorizzati.
+
+## Art. 200. — Trasferimento del portafoglio di imprese di assicurazione di Stati terzi
+
+Il trasferimento, parziale o totale, del portafoglio della sede secondaria nel territorio della Repubblica di un'impresa di assicurazione di uno Stato terzo e' sottoposto, a cura della cedente, all'autorizzazione preventiva dell'((IVASS)), secondo la procedura stabilita con regolamento, con provvedimento da pubblicare nel Bollettino.
+
+Nel caso di cui al comma 2, lettera a), l'impresa cessionaria soddisfa le condizioni rispettivamente previste all'articolo 198, commi 2 e 3, a seconda che il trasferimento sia effettuato a favore di un'impresa con sede legale nel territorio della Repubblica o in quello di altri Stati membri.
+
+Nel caso di cui al comma 2, lettera b), l'((IVASS)) verifica che la sede secondaria dell'impresa cessionaria sia autorizzata all'esercizio delle attivita' trasferite e disponga, tenuto conto del trasferimento, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis)). Se il controllo di solvibilita', relativo alle attivita' esercitate in stabilimento sul territorio della Repubblica, e' demandato all'autorita' di vigilanza di un altro Stato membro dove l'impresa e' altresi' stabilita, la verifica compete alla medesima autorita', che ne rilascia attestazione all'((IVASS)).
+
+Ai trasferimenti di portafoglio disciplinati dal presente articolo si applica l'articolo 198, comma 6, sussistendone le condizioni ivi previste.
+
+## Art. 201. — Fusione e scissione di imprese di assicurazione
+
+L'((IVASS)) autorizza, secondo la procedura stabilita con regolamento, le fusioni e le scissioni, alle quali prenda parte almeno un'impresa di assicurazione con sede legale nel territorio della Repubblica, quando non contrastino con il criterio di sana e prudente gestione. Non si puo' dare corso all'iscrizione nel registro delle imprese del progetto di fusione o di scissione e della deliberazione assembleare che abbia apportato modifiche al relativo progetto se non consti l'autorizzazione dell'((IVASS)).
+
+Se la fusione e' attuata per incorporazione, l'impresa di assicurazione incorporante che ha sede legale nel territorio della Repubblica deve dimostrare di disporre, tenuto conto della fusione, ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 45-bis.)) Se la fusione da' luogo alla costituzione di una nuova impresa con sede legale nel territorio della Repubblica, l'impresa deve disporre dell'autorizzazione all'esercizio dell'attivita' assicurativa e dimostrare di possedere, tenuto conto della fusione, le attivita' a copertura delle riserve tecniche e del margine di solvibilita' richiesto.
+
+La fusione e' autorizzata dall'((IVASS)) con provvedimento da pubblicare nel Bollettino. I provvedimenti che concedono o rifiutano l'autorizzazione sono specificamente e adeguatamente motivati e sono comunicati alle imprese interessate. Qualora alla fusione partecipino imprese di assicurazione aventi la sede legale in altri Stati membri, l'autorizzazione non puo' essere data se non dopo che sia stato acquisito il parere favorevole delle autorita' di vigilanza di tali Stati.
+
+Ai trasferimenti di portafoglio conseguenti ad una fusione o ad una scissione, si applica l'articolo 198, comma 6, sussistendone le condizioni ivi previste.
+
+Per quanto applicabili, le disposizioni dei commi 2, 3 e 4 valgono anche per le operazioni di scissione.
+
+## Art. 202. — Trasferimento del portafoglio fusione e scissione di imprese di riassicurazione
+
+Il trasferimento del portafoglio dell'impresa di riassicurazione con sede legale nel territorio della Repubblica e la medesima operazione effettuata dalla sede secondaria di un'impresa con sede legale in uno Stato terzo sono sottoposti, a cura della cedente, all'autorizzazione preventiva dell'((IVASS)), secondo la procedura stabilita con regolamento, con provvedimento da pubblicare nel Bollettino. L'((IVASS)) verifica che l'impresa cessionaria, qualora stabilita nel territorio della Repubblica, soddisfi le condizioni di accesso e comunque disponga ((dei fondi propri ammissibili necessari per coprire il Requisito Patrimoniale di Solvibilita' di cui all'articolo 66-quater.))
+
+La fusione e la scissione delle imprese di riassicurazione, alle quali prenda parte almeno un'impresa di riassicurazione con sede legale nel territorio della Repubblica, e' autorizzata secondo le disposizioni di cui all'articolo 201, commi 1, 2, 3 e 4, intendendosi richiamata la corrispondente disciplina delle imprese di riassicurazione. Si applica l'articolo 198, comma 6, sussistendone le condizioni ivi previste.
+
+## - - Capo IV Cooperazione con le autorita' di vigilanza degli altri Stati membri e comunicazioni alla Commissione europea e all'AEAP Sezione I ((Cooperazione con le autorita' di vigilanza degli altri Stati membri per la vigilanza sulle imprese di assicurazione e riassicurazione e sugli intermediari di assicurazione, anche a titolo accessorio, o di riassicurazione.))
+
+## Art. 203. — Autorizzazione relativa all'esercizio dell'attivita' assicurativa
+
+L'((IVASS)) scambia reciprocamente e fornisce alle altre ((autorita' competenti)) ai sensi delle rilevanti disposizioni dell'ordinamento ((dell'Unione europea)) sulla vigilanza supplementare delle imprese appartenenti ad un conglomerato finanziario le informazioni utili a valutare l'idoneita' degli azionisti e la reputazione e l'esperienza dei soggetti ai quali sono attribuite le funzioni di amministrazione e di direzione partecipanti alla gestione di un'altra impresa dello stesso gruppo, anche ai fini delle verifiche delle condizioni di accesso e di esercizio dell'attivita'.
+
+## Art. 203-bis. — (( (Cooperazione per l'esercizio della vigilanza sulle societa' veicolo) ))
+
+((
+
+L'IVASS coopera e scambia informazioni con le Autorita' di vigilanza degli altri Stati membri al fine di verificare i contratti conclusi dalle imprese di assicurazione o di riassicurazione aventi sede nel territorio della Repubblica con societa' veicolo aventi sede in un altro Stato membro o per verificare i contratti conclusi con societa' veicolo aventi sede nel territorio della Repubblica da imprese di assicurazione o di riassicurazione di altri Stati membri.
+
+))
+
+## Art. 204. — (Autorizzazione relativa all'assunzione di partecipazioni in imprese di assicurazione o di riassicurazione)
+
+((
+
+))
+
+L'((IVASS)) scambia con le Autorita' competenti tempestivamente tutte le informazioni essenziali o pertinenti per la valutazione. A tale riguardo, comunica su richiesta tutte le informazioni pertinenti e, di propria iniziativa, tutte le informazioni essenziali. 
+ ((1-ter)). L'((IVASS)) nel provvedimento di autorizzazione indica eventuali pareri o riserve espressi dall'Autorita' competente a vigilare sul potenziale acquirente.
+
+## Art. 205. — Poteri di indagine in collaborazione con le autorita' di altri Stati membri
+
+L'((IVASS)) puo' svolgere direttamente, o attraverso persone appositamente incaricate, ispezioni nei locali delle sedi secondarie delle imprese di assicurazioni o di riassicurazione operanti in regime di stabilimento in un altro Stato membro, dirette a verificare ogni elemento utile ai fini dell'esercizio della vigilanza sull'impresa. Prima di procedere all'ispezione l'((IVASS)) informa l'autorita' di vigilanza dello Stato membro della sede secondaria, la quale, ove lo richieda, ha diritto di parteciparvi.
+
+((
+
+Qualora l'IVASS abbia informato l'autorita' di vigilanza dello Stato membro ospitante della propria intenzione di procedere ad ispezioni nei locali della sede secondaria di cui al primo comma e all'IVASS non sia di fatto consentito il diritto di effettuarle, puo' rinviare la questione all'AEAP ai sensi dell'articolo 19 del regolamento UE n. 1094/2010.
+
+))
+
+L'autorita' di vigilanza dello Stato membro d'origine di un'impresa di ((assicurazione)) o di riassicurazione che opera nel territorio della Repubblica in regime di stabilimento puo' svolgere direttamente, o attraverso persone appositamente incaricate, ispezioni nei locali della sede secondaria da questa costituita, dirette a verificare ogni elemento utile ai fini dell'esercizio della vigilanza sull'impresa stessa. Prima di procedere all'ispezione l'autorita' di vigilanza informa l'((IVASS)), il quale, ove lo richieda, ha diritto di partecipare all'ispezione stessa.
+
+((
+
+Qualora l'IVASS sia di fatto impossibilitato ad esercitare il diritto di partecipazione di cui al comma 2, puo' rinviare la questione all'AEAP ai sensi dell'articolo 19 del regolamento UE n. 1094/2010.
+
+))
+
+## Art. 205-bis. — (( (Vigilanza sulle funzioni e le attivita' esternalizzate dalle imprese aventi sede nel territorio della Repubblica) ))
+
+((
+
+L'IVASS puo' effettuare, direttamente o attraverso persone appositamente incaricate, ispezioni nei locali del fornitore delle attivita' esternalizzate avente sede in altro Stato membro, dirette a verificare ogni elemento utile ai fini dell'esercizio dell'attivita' di vigilanza sulle funzioni e le attivita' esternalizzate.
+
+Prima di procedere all'ispezione l'IVASS informa l'autorita' competente dello Stato membro in cui ha sede il fornitore. Nel caso in cui non sia individuabile un'autorita' competente, l'informativa e' fornita all'autorita' di vigilanza assicurativa dello stesso Stato membro.
+
+L'IVASS puo' delegare l'ispezione di cui al comma 1 all'autorita' di vigilanza dello Stato membro in cui ha sede il fornitore.
+
+Qualora l'IVASS abbia informato l'autorita' competente dello Stato membro in cui ha sede il fornitore di servizi della propria intenzione di procedere a un'ispezione nei locali del fornitore ai sensi del comma 1 o dell'articolo 30-septies, comma 5, lettera c), e all'IVASS non sia di fatto consentito il diritto di effettuarle, l'IVASS puo' rinviare la questione all'AEAP ai sensi dell'articolo 19 del regolamento (UE) n. 1094/2010.
+
+L'autorita' di vigilanza dello Stato membro d'origine di un'impresa di assicurazione o di riassicurazione, il cui fornitore di attivita' esternalizzate abbia sede nel territorio della Repubblica, puo' svolgere, direttamente o attraverso persone appositamente incaricate, ispezioni nei locali del fornitore, dirette a verificare ogni elemento utile ai fini dell'esercizio dell'attivita' di vigilanza sulle funzioni e le attivita' esternalizzate. Prima di procedere all'ispezione l'autorita' di vigilanza informa l'IVASS.
+L'IVASS, ove lo richieda, ha diritto di parteciparvi.
+
+L'autorita' di vigilanza puo' delegare l'ispezione di cui al comma 5 all'IVASS.
+
+))
+
+## Art. 205-ter. — (( (Cooperazione per la vigilanza sulle imprese di assicurazione e riassicurazione e sugli intermediari di assicurazione, anche a titolo accessorio, o di riassicurazione). ))
+
+((
+
+L'IVASS collabora con i soggetti di cui all'articolo 10 e secondo le modalita' e alle condizioni previste da tale disposizione, al fine di agevolare l'esercizio delle rispettive funzioni, anche con riguardo all'esercizio dell'attivita' di distribuzione assicurativa o riassicurativa.
+
+Ai fini della iscrizione al registro di cui all'articolo 109 e di quello unico europeo tenuto dall'AEAP, l'IVASS e le altre autorita' competenti si scambiano, su base regolare, ogni informazione riguardante la sussistenza dei requisiti di cui agli articoli 109, 109-bis, 110, 111 e 112 in capo ai distributori di prodotti assicurativi e riassicurativi.
+
+3. L'IVASS e le altre autorita' competenti si scambiano altresi' informazioni riguardo ai distributori di prodotti assicurativi e riassicurativi a cui e' stata irrogata una misura sanzionatoria di cui al Titolo XVIII o un'altra misura di cui ai Titoli IX, XIII, XIV, rilevanti ai fini dell'eventuale adozione di un provvedimento diretto alla cancellazione dal registro di cui all'articolo 109, ai sensi dell'articolo 113, o dal registro europeo.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 206. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - ((Sezione II Cooperazione per l'esercizio della vigilanza sul gruppo))
+
+## Art. 206-bis. — (( (Collegio delle autorita' di vigilanza) ))
+
+((
+
+Per agevolare l'esercizio delle funzioni di vigilanza sul gruppo, le autorita' di vigilanza sulle imprese del gruppo costituiscono il Collegio delle autorita' di vigilanza, presieduto dall'autorita' di vigilanza sul gruppo.
+
+Il Collegio delle autorita' di vigilanza garantisce che le procedure di cooperazione, di scambio delle informazioni e di consultazione fra le autorita' di vigilanza del Collegio siano effettivamente applicate in conformita' al presente titolo al fine di promuovere la convergenza delle rispettive decisioni e attivita'.
+
+Se l'autorita' di vigilanza sul gruppo non adempie ai compiti e non assolve ai poteri ad essa assegnati dalle disposizioni di cui al presente codice e dalle relative disposizioni di attuazione o se i membri del Collegio delle autorita' di vigilanza non cooperano nella misura richiesta dai commi 1 e 2, ciascuna autorita' di vigilanza interessata del gruppo puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Fanno parte del Collegio delle autorita' di vigilanza l'autorita' di vigilanza sul gruppo, le autorita' di vigilanza degli Stati membri in cui hanno sede le imprese controllate e l'AEAP, conformemente all'articolo 21 del regolamento (UE) n. 1094/2010. Al solo fine di agevolare lo scambio di informazioni, partecipano al Collegio delle autorita' di vigilanza le autorita' di vigilanza sulle imprese partecipate e sulle sedi secondarie di rilievo.
+
+Alcune attivita' possono essere svolte da un numero ridotto di autorita' di vigilanza qualora cio' sia necessario per garantire l'efficienza dell'operato del Collegio.
+
+))
+
+## Art. 206-ter. — (( (Accordi di coordinamento) ))
+
+((
+
+L'istituzione e il funzionamento del Collegio delle autorita' di vigilanza e' disciplinato da accordi di coordinamento conclusi dall'autorita' di vigilanza sul gruppo e dalle altre autorita' di vigilanza interessate. In caso di opinioni divergenti sugli accordi di coordinamento, ciascuna autorita' del Collegio puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+L'autorita' di vigilanza sul gruppo adegua la sua decisione definitiva a quella dell'AEAP e trasmette la decisione alle altre autorita' di vigilanza sulle societa' del gruppo interessate.
+
+Fatti salvi i diritti e gli obblighi assegnati all'autorita' di vigilanza sul gruppo e alle altre autorita' di vigilanza sulle imprese del gruppo, gli accordi di coordinamento possono assegnare ulteriori compiti alle stesse o all'AEAP, purche' tale assegnazione migliori l'efficienza della vigilanza sul gruppo e non pregiudichi le attivita' delle autorita' di vigilanza che compongono il Collegio rispetto alle loro responsabilita' individuali.
+
+))
+
+## Art. 207. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 207-bis. — (( (Collaborazione e scambio informativo tra le autorita' di vigilanza) ))
+
+((
+
+Le autorita' di vigilanza sulle imprese del gruppo collaborano strettamente, in particolare nei casi in cui un'impresa di assicurazione o di riassicurazione si trovi in difficolta' finanziarie.
+
+Le autorita' di vigilanza sulle imprese del gruppo si scambiano reciprocamente le informazioni necessarie a consentire e agevolare l'esercizio delle funzioni di vigilanza nell'ambito delle proprie competenze, allo scopo di assicurare che dispongano della stessa quantita' di informazioni pertinenti.
+
+Ai fini di cui al comma 2, le autorita' di vigilanza sulle imprese del gruppo si comunicano senza indugio ogni informazione pertinente non appena ne entrino in possesso oppure, laddove sia richiesto, procedono a uno scambio di informazioni. Le informazioni di cui al presente comma comprendono anche le informazioni in merito alle azioni del gruppo e delle autorita' di vigilanza, nonche' le informazioni fornite dal gruppo.
+
+Se un'autorita' di vigilanza non ha comunicato informazioni pertinenti oppure e' stata respinta una richiesta di collaborazione, in particolare per lo scambio di informazioni pertinenti, oppure non e' stato dato seguito a tale richiesta entro due settimane, le autorita' di vigilanza possono rinviare la questione all'EIOPA che puo' agire conformemente ai poteri di cui all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Qualora la societa' al vertice del gruppo non abbia fornito entro un termine ragionevole all'autorita' di vigilanza sul gruppo o ad altre autorita' di vigilanza sulle imprese del gruppo informazioni su una societa' italiana facente parte del gruppo, l'IVASS collabora con l'autorita' richiedente per l'acquisizione di informazioni dalla societa' italiana.
+
+))
+
+## Art. 207-ter. — (( (Consultazione tra autorita' di vigilanza) ))
+
+((
+
+In ogni caso le autorita' di vigilanza interessate si consultano prima di adottare decisioni basate su informazioni ricevute da altre autorita' di vigilanza.
+
+Fatti salvi gli articoli 206-bis, 206-ter, 207-septies e 212-bis, un'autorita' di vigilanza sulle imprese del gruppo puo' decidere di non consultare le altre autorita' di vigilanza in caso di urgenza o quando la consultazione rischi di compromettere l'efficacia della decisione, dandone tempestiva informativa alle altre autorita' di vigilanza interessate.
+
+))
+
+## Art. 207-quater. — (( (Collaborazione con le autorita' responsabili per gli enti creditizi e le imprese di investimento) ))
+
+((
+
+Quando un'impresa di assicurazione o di riassicurazione e un ente creditizio o un'impresa di investimento, o entrambi sono direttamente o indirettamente legati o hanno un'impresa partecipante comune, le autorita' di vigilanza sulle societa' del gruppo e le autorita' responsabili della vigilanza di tali altre societa' collaborano strettamente. Fatte salve le loro rispettive competenze, tali autorita' si scambiano ogni informazione volta a semplificare le proprie funzioni.
+
+))
+
+## Art. 207-quinquies. — (( (Segreto professionale e riservatezza) ))
+
+((
+
+L'IVASS puo' procedere allo scambio di informazioni con le altre autorita' di vigilanza interessate e con le altre autorita' di vigilanza conformemente alle disposizioni di cui al presente Capo.
+
+Le informazioni ricevute nell'ambito dell'esercizio della vigilanza sul gruppo, in particolare le informazioni scambiate tra l'IVASS e le altre autorita' di vigilanza interessate o con le altre autorita', sono sottoposte al segreto d'ufficio ai sensi degli articoli 10 e 10-bis.
+
+))
+
+## Art. 207-sexies. — (( (Autorita' di vigilanza sul gruppo) ))
+
+((
+
+L'IVASS, nel caso in cui sia competente all'esercizio della vigilanza su tutte le imprese di assicurazione o di riassicurazione del gruppo, e' designata autorita' di vigilanza sul gruppo. In tal caso l'IVASS e' responsabile del coordinamento e dell'esercizio della vigilanza sul gruppo.
+
+Qualora non ricorrano i criteri di cui ai commi 1 e 2, il ruolo di autorita' di vigilanza sul gruppo e' assunto dall'autorita' di vigilanza risultata competente applicando i criteri previsti dall'articolo 247 della direttiva 2009/138/CE.
+
+In casi particolari, l'IVASS e le altre autorita' di vigilanza interessate sulle imprese del gruppo, su richiesta di una di esse, possono con decisione congiunta derogare ai criteri fissati ai commi 2 e 3, qualora l'applicazione di tali criteri non sia opportuna, avuto riguardo alla struttura del gruppo ed all'importanza relativa delle attivita' delle imprese di assicurazione e di riassicurazione nei vari Stati membri, e designare un'altra autorita' di vigilanza come autorita' di vigilanza sul gruppo. A tal fine, l'IVASS, o altra autorita' di vigilanza interessata sulle imprese del gruppo, puo' chiedere che sia avviata una discussione sulla possibilita' che siano applicati i criteri di cui ai commi 2 e 3. La discussione si tiene al massimo annualmente.
+
+L'IVASS e le altre autorita' di vigilanza interessate delle imprese sul gruppo, previa consultazione del gruppo medesimo, adottano la decisione congiunta di cui al comma 3 entro tre mesi dalla richiesta di discussione. L'IVASS trasmette al gruppo la decisione congiunta, pienamente motivata.
+
+Durante il periodo di tre mesi di cui al comma 4, ciascuna delle autorita' di vigilanza interessate sulle imprese appartenenti al gruppo puo' rinviare la questione all'AEAP, conformemente all'articolo 19 del regolamento (UE) n. 1094/2010. In tal caso, l'IVASS e le autorita' di vigilanza interessate posticipano la loro decisione congiunta in attesa di una decisione eventualmente adottata dall'AEAP, entro un mese dal rinvio, a norma dell'articolo 19, paragrafo 3, di tale regolamento, e adeguano la loro decisione congiunta a quella dell'AEAP. Tale decisione congiunta e' riconosciuta come determinante e applicata dall'IVASS e dalle autorita' di vigilanza interessate. Il periodo di tre mesi e' considerato periodo di conciliazione ai sensi dell'articolo 19, paragrafo 2, di tale regolamento.
+
+Il rinvio all'AEAP di cui al comma 6 non puo' essere effettuato dopo la scadenza del periodo di tre mesi o dopo il raggiungimento di una decisione congiunta. L'autorita' di vigilanza sul gruppo designata trasmette al gruppo e al collegio delle autorita' di vigilanza la decisione congiunta pienamente motivata.
+
+In mancanza di una decisione congiunta che deroghi ai criteri di cui al comma 2, l'IVASS esercita le funzioni di autorita' di vigilanza sul gruppo qualora sia l'autorita' di vigilanza individuata ai sensi del medesimo comma 2.
+
+))
+
+## Art. 207-septies. — (( (Funzioni dell'IVASS in qualita' di Autorita' di Vigilanza sul gruppo) ))
+
+((
+
+L'IVASS puo' invitare le autorita' di vigilanza dello Stato membro in cui ha sede una impresa controllante a richiedere alla societa' controllante ogni informazione pertinente per l'esercizio delle funzioni di coordinamento di cui al comma 1.
+
+Nel caso di informazioni di cui all'articolo 213, commi 2, 3 e 4, gia' trasmesse ad un'altra autorita' di vigilanza, l'IVASS contatta, se possibile, tale autorita' per evitare la duplicazione della trasmissione delle informazioni alle diverse autorita' che partecipano alla vigilanza.
+
+))
+
+## Art. 207-octies. — (Cooperazione per l'autorizzazione del modello interno di gruppo)
+
+Nel caso in cui un'impresa di assicurazione o di riassicurazione, in qualita' di ultima societa' controllante italiana ai sensi dell'articolo 210, comma 2, e le sue imprese partecipate o controllate o congiuntamente le imprese partecipate o controllate di una societa' di partecipazione assicurativa, in qualita' di ultima societa' controllante italiana ai sensi dell'articolo 210, comma 2, abbiano presentato la domanda per ottenere l'autorizzazione a calcolare il Requisito Patrimoniale di Solvibilita' di gruppo consolidato e il Requisito Patrimoniale di Solvibilita' delle imprese di assicurazione e riassicurazione appartenenti al gruppo sulla base di un modello interno, l'IVASS, in qualita' di autorita' di vigilanza sul gruppo, e le autorita' di vigilanza interessate collaborano al fine di decidere se concedere o meno l'autorizzazione richiesta, prevedendo altresi' eventuali termini e condizioni a cui subordinare la stessa.
+
+La richiesta di autorizzazione all'utilizzo del modello interno, di cui al comma 1, e' presentata all'IVASS che informa gli altri membri del collegio delle autorita' di vigilanza ((, inclusa l'AEAP, e trasmette loro tempestivamente la domanda completa, comprensiva della documentazione presentata. L'IVASS puo' chiedere l'assistenza tecnica all'AEAP per la decisione sulla domanda, secondo quanto previsto all'articolo 8, paragrafo 1, lettera b), del regolamento (UE) n. 1094/2010)).
+
+L'IVASS e le altre autorita' di vigilanza interessate si adoperano per pervenire ad una decisione congiunta sulla domanda entro sei mesi dalla ricezione della domanda completa da parte dell'IVASS.
+
+Se nel termine di sei mesi di cui al comma 3, una qualunque delle autorita' di vigilanza interessate rinvia la questione all'AEAP, conformemente all'articolo 19 del regolamento (UE) n. 1094/2010, l'IVASS differisce la sua decisione in attesa della decisione eventualmente adottata dall'AEAP, conformemente all'articolo 19, paragrafo 3, di tale regolamento e adegua la propria decisione a quella dell'AEAP.
+
+La decisione di cui al comma 4, adottata dall'AEAP entro un mese, e' riconosciuta come determinante ed e' applicata dalle autorita' di vigilanza interessate. La questione non puo' essere rinviata all'AEAP dopo la scadenza del termine di sei mesi o dopo che e' stata adottata una decisione congiunta. ((L'IVASS decide in via definitiva se l'AEAP non adotta la decisione conformemente all'articolo 19, paragrafo 3, del regolamento (UE) n. 1094/2010)).
+Tale decisione e' riconosciuta come determinante e applicata dalle autorita' di vigilanza interessate. Il periodo di sei mesi e' considerato la fase di conciliazione ai sensi dell'articolo 19, paragrafo 2, del predetto regolamento.
+
+Se le autorita' di vigilanza interessate sono pervenute alla decisione congiunta di cui al comma 3, l'IVASS trasmette al richiedente un documento contenente le motivazioni complete.
+
+In mancanza di una decisione congiunta delle autorita' di vigilanza interessate entro il termine di sei mesi di cui al comma 3, l'IVASS decide autonomamente in merito alla domanda, tenendo in debita considerazione eventuali pareri e riserve delle autorita' di vigilanza interessate espressi nel termine di sei mesi. L'IVASS trasmette un documento contenente la decisione pienamente motivata al richiedente e alle altre autorita' di vigilanza interessate che la riconoscono come determinante e la applicano.
+
+Secondo quanto previsto dall'articolo 47-sexies, comma 1, lettere a) e c), l'autorita' di vigilanza puo' imporre una maggiorazione del capitale rispetto al Requisito Patrimoniale di Solvibilita' di tale impresa di assicurazione o riassicurazione risultante dall'applicazione della formula standard. L'autorita' di vigilanza comunica le ragioni delle eventuali decisioni, adottate ai sensi del presente comma e del comma 10, sia all'impresa di assicurazione o riassicurazione, sia agli altri membri del collegio delle autorita' di vigilanza.
+
+L'IVASS, quando non e' Autorita' di vigilanza sul gruppo ai sensi del comma 1, collabora con l'Autorita' di vigilanza sul gruppo con sede in altro Stato membro al fine di procedere all'autorizzazione del modello interno di gruppo. In ogni caso l'IVASS puo' avvalersi del potere di imporre una maggiorazione di capitale quando ricorrono le condizioni di cui ai commi 8 e 9.
+
+## - - ((Sezione III  Comunicazioni alla Commissione europea e all'AEAP))
+
+## Art. 208. — (Comunicazioni alla Commissione europea e all'AEAP e alle autorita' di vigilanza di altri Stati membri relativamente ad imprese di Stati membri e di Stati terzi)
+
+Se l'autorizzazione e' stata rilasciata ad un'impresa di assicurazione o di riassicurazione che si trovi nella situazione di cui alla lettera a), la struttura dei rapporti di controllo e' specificamente indicata nella comunicazione che l'IVASS invia alla Commissione europea, all'AEAP e alle autorita' di vigilanza degli altri Stati membri.
+
+L'IVASS informa la Commissione europea e l'AEAP delle difficolta' di carattere generale eventualmente incontrate dalle imprese ((e dagli intermediari, anche a titolo accessorio,)) aventi la sede legale nel territorio della Repubblica nell'accesso e nell'esercizio dell'attivita' in regime di stabilimento in uno Stato terzo. ((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 208-bis. — (( (Comunicazioni relative alla inosservanza delle disposizioni di legge da parte di un'impresa di assicurazione) ))
+
+((
+
+L'IVASS comunica alla Commissione e all'AEAP il numero e il tipo di casi che hanno comportato un rifiuto ai sensi degli articoli 17, comma 2 e 19, comma 2 e in cui siano state adottate le misure di cui al comma 4 dell'articolo 193.
+
+))
+
+## Art. 208-ter. — (( (Cooperazione per l'applicazione delle disposizioni sulla coassicurazione comunitaria) ))
+
+((
+
+L'IVASS collabora con le autorita' di vigilanza degli altri Stati membri e con la Commissione europea ai fini di esaminare eventuali difficolta' insorte in relazione ai contratti di coassicurazione comunitaria e per verificare che le disposizioni dell'Unione europea siano correttamente applicate.
+
+))
+
+## Art. 208-quater. — (( (Piattaforme di collaborazione costituite dall'AEAP). ))
+
+((
+
+L'IVASS fornisce tempestivamente, su richiesta dell'AEAP, tutte le informazioni necessarie per consentire il corretto funzionamento delle piattaforme di collaborazione costituite presso l'AEAP.
+
+2. L'IVASS puo' richiedere la creazione, richiedendone la relativa costituzione, di piattaforme di collaborazione con le autorita' di vigilanza degli altri Stati membri o aderire a piattaforme esistenti))
+
+## Art. 209. — Comunicazioni alla Commissione europea sulle assicurazioni obbligatorie
+
+L'((IVASS)) comunica alla Commissione europea le assicurazioni di cui la legge italiana dispone l'obbligatorieta', indicando le disposizioni, legislative e di attuazione, vigenti per ciascuna di esse e specifica le informazioni che e' necessario riportare nel documento che l'impresa di assicurazione consegna all'assicurato per l'attestazione dell'avvenuto assolvimento dell'obbligo.
+
+## - - Titolo XV ((VIGILANZA SUL GRUPPO)) Capo I ((Vigilanza sul gruppo))
+
+## Art. 210. — (( (Vigilanza sul gruppo) ))
+
+((
+
+Fatto salvo quanto previsto dai Capi IV-bis e IV-ter, l'IVASS esercita la vigilanza sul gruppo a livello dell'ultima societa' controllante italiana, ovvero l'impresa di assicurazione o di riassicurazione, la societa' di partecipazione assicurativa o di partecipazione finanziaria mista con sede nel territorio della Repubblica che, nell'ambito del gruppo, non e' a sua volta controllata da una impresa di assicurazione o di riassicurazione, da una societa' di partecipazione assicurativa o da una societa' di partecipazione finanziaria mista con sede nel territorio della Repubblica.
+
+Fatto salvo quanto previsto dall'articolo 220-octies, comma 4, nel caso in cui non sussiste un'ultima societa' controllante italiana ai sensi del comma 2, l'IVASS determina le modalita' applicative della vigilanza sul gruppo, inclusa l'individuazione della societa' responsabile degli adempimenti di cui al presente codice in luogo della ultima societa' controllante italiana.
+
+Fatto salvo quanto previsto dal presente Titolo, le disposizioni in materia di vigilanza sulle imprese di assicurazione o di riassicurazione del presente codice continuano ad applicarsi alle stesse.
+
+Ai fini del presente Titolo, le sedi secondarie nel territorio della Repubblica di imprese di assicurazione o riassicurazione con sede in uno Stato terzo sono considerate alla stregua di imprese di assicurazione o riassicurazione italiane.
+
+))
+
+## Art. 210-bis. — (( (Altre disposizioni applicabili) ))
+
+((
+
+L'IVASS puo' individuare, con provvedimenti di carattere generale o specifici, i casi in cui una o piu' disposizioni adottate ai sensi del presente Titolo, in particolare relative alla concentrazione dei rischi e alle operazioni infragruppo, non si applicano qualora l'ultima societa' controllante di cui all'articolo 210, comma 2, sia una impresa di assicurazione o riassicurazione, una societa' di partecipazione assicurativa o una societa' di partecipazione finanziaria mista soggetta alla vigilanza a livello di conglomerato finanziario ai sensi del decreto legislativo 30 maggio 2005, n. 142.
+
+L'IVASS puo' individuare, con provvedimenti di carattere generale o specifici, i casi in cui una o piu' disposizioni adottate ai sensi del presente Titolo non si applicano alla societa' di partecipazione finanziaria mista in quanto soggetta a disposizioni di vigilanza equivalenti, in particolare in termini di vigilanza basata sul rischio.
+
+L'IVASS, in qualita' di autorita' di vigilanza sul gruppo, informa l'ABE e l'AEAP, delle decisioni adottate a norma dei commi 1 e 2.
+
+Fatto salvo quanto previsto dal comma 1, le disposizioni di cui agli articoli 210-ter, comma 7, 212-bis, comma 1, lettera c), si applicano alla societa' di partecipazione finanziaria mista, qualora il settore di maggiori dimensioni all'interno del conglomerato finanziario sia quello assicurativo, determinato ai sensi del decreto legislativo 30 maggio 2005, n. 142. I provvedimenti di cui agli articoli 79, comma 3-bis, e 81, commi 2 e 3, l'approvazione di cui all'articolo 196, l'autorizzazione di cui all'articolo 68 e la decadenza di cui all'articolo 76 sono adottati dall'IVASS d'intesa con Banca d'Italia.
+
+I provvedimenti previsti dal titolo XVI, Capo I, II, IV e VII, nonche' le misure di cui all'articolo 220-novies, nei confronti della societa' di partecipazione finanziaria mista sono adottati o proposti dall'IVASS d'intesa con Banca d'Italia.
+
+))
+
+## Art. 210-ter. — (( (Albo delle societa' capogruppo) ))
+
+((
+
+L'ultima societa' controllante italiana, di cui all'articolo 210, comma 2, e' iscritta in un apposito albo delle societa' capogruppo italiane tenuto dall'IVASS.
+
+La societa' capogruppo comunica all'IVASS l'elenco delle imprese di assicurazione o riassicurazione e le societa' strumentali, le societa' di partecipazione assicurativa e le societa' di partecipazione finanziaria mista controllate intermedie.
+
+La societa' capogruppo comunica all'IVASS l'elenco delle imprese di assicurazione o riassicurazione e delle societa' strumentali partecipate, degli enti creditizi, delle imprese d'investimento e degli enti finanziari partecipati o controllati e delle altre societa' controllate e partecipate.
+
+Le societa' di cui al comma 2 sono iscritte dall'IVASS nell'albo delle societa' capogruppo.
+
+L'IVASS puo' procedere d'ufficio all'accertamento dell'esistenza del rapporto di controllo di cui al comma 2 e procedere all'iscrizione all'albo della societa' capogruppo.
+
+La struttura del gruppo deve essere tale da assicurare la sana e prudente gestione del gruppo e non ostacolare l'esercizio dei poteri di vigilanza. Fatto salvo quanto previsto dall'articolo 79, nel caso in cui per effetto di una acquisizione la struttura del gruppo non soddisfa i requisiti di cui al presente comma, l'IVASS puo' esercitare i poteri di cui agli articoli 79, comma 3-bis, e 81.
+
+L'IVASS accerta che lo statuto della societa' capogruppo non contrasti con la sana e prudente gestione del gruppo.
+
+All'ultima societa' controllante italiana di cui all'articolo 210, comma 2, si applicano le disposizioni di cui al Titolo VII, Capo I e III.
+
+Le societa' di cui ai commi 1 e 2 indicano negli atti e nella corrispondenza l'iscrizione nell'albo.
+
+L'IVASS determina, con regolamento, gli adempimenti connessi alla tenuta e all'aggiornamento dell'albo.
+
+))
+
+## Art. 210-quater. — (( (Esclusione dall'area di vigilanza sul gruppo) ))
+
+((
+
+Fatto salvo quanto previsto dall'articolo 216-sexies, comma 1, lettera f), l'IVASS puo' escludere dall'area della vigilanza di gruppo di cui all'articolo 210 la societa' con sede legale in uno Stato terzo in cui sussistano ostacoli giuridici al trasferimento delle informazioni necessarie.
+
+L'IVASS puo' escludere una societa' del gruppo dall'area della vigilanza di gruppo quando presenta un interesse trascurabile rispetto alle finalita' della vigilanza sul gruppo oppure quando e' inopportuno o fuorviante considerare tale societa' rispetto a detti obiettivi.
+
+Le societa' dello stesso gruppo, che considerate individualmente potrebbero essere escluse ai sensi del comma 2, in quanto presentano un interesse trascurabile rispetto agli obiettivi della vigilanza di gruppo, devono essere comunque incluse se, collettivamente considerate, presentano un interesse non trascurabile.
+
+Ai fini dell'esclusione di un'impresa di assicurazione o di riassicurazione ai sensi del comma 2, l'IVASS consulta le altre autorita' di vigilanza interessate prima di adottare una decisione.
+
+Nel caso in cui un'impresa di assicurazione o riassicurazione sia stata esclusa dalla vigilanza sul gruppo ai sensi del comma 2, l'autorita' di vigilanza dello Stato membro in cui tale impresa e' situata puo' chiedere all'ultima societa' controllante di cui all'articolo 210, comma 2, di fornire informazioni che possano facilitare la vigilanza dell'impresa interessata.
+
+))
+
+## Art. 211. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - Capo II ((Poteri dell'IVASS))
+
+## Art. 212. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 212-bis. — (( (Poteri dell'IVASS) ))
+
+((
+
+))
+
+## Art. 213. — (( (Vigilanza informativa) ))
+
+((
+
+Le persone fisiche e giuridiche che rientrano nell'ambito della vigilanza sul gruppo, le loro societa' partecipate o controllate e le loro societa' partecipanti o controllanti scambiano informazioni pertinenti ai fini della vigilanza sul gruppo.
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, trasmette all'IVASS con le modalita' e i termini stabiliti con regolamento, i dati e le informazioni utili all'esercizio della vigilanza sul gruppo.
+
+L'IVASS ha accesso alle informazioni pertinenti ai fini della vigilanza sul gruppo, indipendentemente dalla natura della societa' interessata. Si applicano le disposizioni di cui agli articoli 189, comma 1, 190, comma 1.
+
+L'IVASS puo' rivolgersi direttamente alle societa' del gruppo, anche avvalendosi della collaborazione dell'Autorita' di vigilanza dello Stato in cui ha sede la societa' interessata, per ottenere le informazioni necessarie soltanto se dette informazioni sono state richieste all'ultima societa' controllante di cui all'articolo 210, comma 2, e la societa' non le ha trasmesse entro un termine ragionevole.
+
+))
+
+## Art. 214. — (( (Vigilanza ispettiva) ))
+
+((
+
+Ai fini della verifica dei dati e delle informazioni relative alla vigilanza sul gruppo di cui al presente Titolo l'IVASS puo' effettuare ispezioni direttamente o tramite soggetti incaricati, presso le societa' del gruppo.
+
+Gli accertamenti ispettivi nei confronti di societa' diverse da quelle di assicurazione e riassicurazione sono limitati alla verifica dell'esattezza dei dati e delle informazioni utili per l'esercizio della vigilanza sul gruppo.
+
+Se, in casi specifici, l'IVASS intende verificare le informazioni relative ad una societa' appartenente ad un gruppo e avente sede in un altro Stato membro, chiede alle autorita' di vigilanza dell'altro Stato membro di effettuare detta verifica. Le autorita' che ricevono la richiesta vi danno seguito nell'ambito delle loro competenze, procedendo direttamente alla verifica o consentendo all'IVASS di effettuarla. L'IVASS, nel caso in cui non proceda direttamente alla verifica delle informazioni, puo' chiedere all'Autorita' di vigilanza dell'altro Stato membro di prendere parte all'attivita' ispettiva. L'IVASS e' informata delle misure adottate.
+
+Qualora nei casi di cui al comma 3 l'IVASS abbia richiesto ad un'altra autorita' di vigilanza di effettuare una verifica e a tale richiesta non sia stato dato seguito entro due settimane o se non possa di fatto esercitare il diritto di partecipare all'attivita' ispettiva, l'IVASS puo' rinviare la questione all'AEAP e richiederne l'assistenza conformemente all'articolo 19 del regolamento (UE) n. 1094/2010.
+
+Nei confronti delle societa' controllate di cui all'articolo 210-ter, comma 2, e dei titolari di partecipazioni nelle medesime societa', sono attribuiti all'IVASS i poteri previsti dall'articolo 71.
+
+))
+
+## Art. 214-bis. — (( (Potere di indirizzo) ))
+
+((
+
+L'IVASS, al fine di assicurare una sana e prudente gestione del gruppo ed evitare ostacoli all'esercizio dei poteri di vigilanza, puo' impartire all'ultima societa' controllante di cui all'articolo 210, comma 2, con regolamento o con provvedimenti di carattere particolare, disposizioni concernenti le societa' di cui all'articolo 210-ter, comma 2, individualmente o complessivamente considerate, aventi ad oggetto il rispetto delle disposizioni relative al sistema di governo societario, all'adeguatezza patrimoniale, al contenimento del rischio nelle sue configurazioni, alle partecipazioni detenibili, all'informativa da rendere al pubblico sulle materie di cui al presente comma.
+
+La societa' controllante adotta i provvedimenti di attuazione delle disposizioni impartite dall'IVASS e ne fa osservare l'applicazione nei confronti delle societa' di cui al comma 1, informandone periodicamente l'IVASS.
+
+Gli amministratori delle societa' di cui al comma 1 sono tenuti a fornire alla societa' controllante la necessaria collaborazione per il rispetto delle norme sulla vigilanza assicurativa.
+
+))
+
+## Art. 214-ter. — (( (Valutazione regime di equivalenza di Stati terzi) ))
+
+((
+
+Le valutazioni di equivalenza di cui agli articoli 216-sexies, comma 1, lettera e), e 220-septies, comma 1, sono effettuate dall'IVASS in conformita' e nei limiti previsti dalle disposizioni dell'Unione europea.
+
+))
+
+## - - Capo III ((Strumenti di vigilanza sul gruppo))
+
+## Art. 215. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 215-bis. — (( (Sistema di governo societario di gruppo) ))
+
+((
+
+Il gruppo si dota di un sistema di governo societario coerente con le disposizioni di cui al Titolo III, Capo I, Sezione II, e con le relative disposizioni di attuazione dettate dall'IVASS con regolamento.
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, e' responsabile dell'attuazione delle disposizioni in materia di sistema di governo societario di gruppo. Resta impregiudicata la responsabilita' del consiglio di amministrazione di ciascuna impresa di assicurazione o riassicurazione del gruppo relativamente al rispetto delle disposizioni di cui al Titolo III, Capo I, Sezione II.
+
+Le disposizioni di cui al comma 3 si applicano alle societa' del gruppo in modo coerente.
+
+))
+
+## Art. 215-ter. — (( (Valutazione interna del rischio e della solvibilita' del gruppo) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, procede alla valutazione richiesta dall'articolo 30-ter a livello di gruppo.
+
+Qualora il calcolo della solvibilita' a livello di gruppo sia effettuato conformemente al metodo del bilancio consolidato di cui agli articoli 216-ter, comma 2, e 216-quinquies, l'ultima societa' controllante italiana fornisce all'IVASS un'analisi adeguata della differenza tra la somma dei requisiti patrimoniali di solvibilita' di tutte le imprese di assicurazione o di riassicurazione partecipate o controllate del gruppo e il requisito patrimoniale consolidato di solvibilita' di gruppo.
+
+L'ultima societa' controllante italiana puo', con il parere favorevole dell'IVASS, procedere a tutte le valutazioni di cui all'articolo 30-ter a livello del gruppo e a livello di ogni impresa di assicurazione o di riassicurazione controllata del gruppo allo stesso tempo, e puo' redigere un documento unico avente ad oggetto tutte le valutazioni.
+
+Ai fini dell'esercizio della facolta' di cui al comma 3, l'IVASS consulta i membri del collegio delle autorita' di vigilanza e tiene in debito conto i pareri e le riserve da loro espressi.
+
+In caso di valutazione effettuata ai sensi del comma 3, l'ultima societa' controllante italiana presenta contestualmente il documento a tutte le autorita' di vigilanza interessate.
+
+))
+
+## Art. 215-quater. — (( (Vigilanza sulla concentrazione di rischi) ))
+
+((
+
+Le concentrazioni dei rischi a livello di gruppo sono oggetto di vigilanza da parte dell'IVASS al fine di accertare che tali concentrazioni non producano effetti negativi sulla solvibilita' del gruppo o possano arrecare pregiudizio agli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative o agli interessi delle imprese coinvolte.
+
+L'IVASS individua con regolamento, avuto riguardo alla significativita' delle concentrazioni in relazione ai requisiti del capitale di solvibilita', alle riserve tecniche o entrambi, le concentrazioni di rischi da assoggettare a comunicazione a intervalli regolari e almeno una volta all'anno, fissando, altresi', le modalita' e i termini per le comunicazioni stesse. L'IVASS esamina le concentrazioni dei rischi con particolare riferimento al possibile rischio di contagio nel gruppo, al rischio di conflitto di interessi e al livello o al volume dei rischi.
+
+L'IVASS, previa consultazione delle altre autorita' di vigilanza interessate e del gruppo, identifica inoltre, il tipo di concentrazione di rischi che l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, di un determinato gruppo deve segnalare in ogni circostanza. Nel definire il tipo di concentrazione di rischi e la soglia di significativita' rilevante, l'IVASS e le altre autorita' di vigilanza interessate tengono conto delle societa' appartenenti a tale gruppo e della sua struttura di gestione dei rischi.
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, instaura, nell'ambito del sistema di governo societario di gruppo, adeguati meccanismi di segnalazione e contabili, ai sensi dell'articolo 215-bis, comma 3, lettera b), per consentire l'accertamento, la quantificazione, il monitoraggio e il controllo sulle concentrazioni dei rischi, nonche' la tempestiva comunicazione delle informazioni rilevanti alla societa' di cui al presente comma.
+L'IVASS verifica l'idoneita' delle procedure e dispone prescrizioni generali in merito.
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, segnala all'IVASS, ogni significativa concentrazione di rischi a livello del gruppo. Nel caso in cui l'ultima societa' controllante non e' un'impresa di assicurazione o di riassicurazione, l'IVASS designa, previa consultazione delle altre autorita' di vigilanza interessate e del gruppo, la societa' di partecipazione assicurativa, la societa' di partecipazione finanziaria mista o l'impresa di assicurazione o di riassicurazione del gruppo incaricata di trasmettere le informazioni di cui al presente comma.
+
+))
+
+## Art. 215-quinquies. — (( (Operazioni infragruppo) ))
+
+((
+
+Le imprese di assicurazione e di riassicurazione italiane sono soggette alla vigilanza dell'IVASS sulle operazioni infragruppo, anche realizzate con l'impresa di partecipazione assicurativa mista.
+
+Le imprese di assicurazione e di riassicurazione si dotano, nell'ambito del sistema di governo societario, di adeguati meccanismi di segnalazione e contabili, per consentire l'accertamento, la quantificazione, il monitoraggio e il controllo delle operazioni di cui al comma 1, secondo le indicazioni eventualmente fornite dall'ultima societa' controllante italiana di cui all'articolo 210, comma 2. L'IVASS verifica l'idoneita' delle procedure e dispone prescrizioni generali in merito.
+
+L'IVASS esercita la vigilanza sulle operazioni di cui al comma 1 al fine di accertare che tali operazioni non producano effetti negativi sulla solvibilita' del gruppo e per la solvibilita' delle imprese di assicurazione o riassicurazione del gruppo, o possano arrecare pregiudizio agli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative o agli interessi delle imprese di assicurazione o riassicurazione coinvolte.
+
+))
+
+## Art. 216. — (( (Comunicazione delle operazioni infragruppo) ))
+
+((
+
+L'impresa di assicurazione o riassicurazione segnala all'IVASS, ad intervalli regolari e almeno una volta l'anno, ogni operazione infragruppo significativa effettuata ai sensi dell'articolo 215-quinquies, comma 1.
+
+L'impresa di assicurazione o di riassicurazione segnala all'IVASS con la massima tempestivita' le operazioni infragruppo molto significative.
+
+L'IVASS individua con regolamento, avuto riguardo alla tipologia e alla significativita' delle operazioni, le operazioni da assoggettare a comunicazione fissando, altresi', le modalita' e i termini per le comunicazioni stesse.
+
+Le comunicazioni di cui ai commi 1, 2 e 3 possono essere effettuate in modo centralizzato dall'ultima impresa di assicurazione o di riassicurazione controllante di cui all'articolo 210, comma 2.
+Nel caso in cui la societa' controllante non e' un'impresa di assicurazione o di riassicurazione, l'IVASS designa, previa consultazione delle altre autorita' di vigilanza interessate e del gruppo, la societa' di partecipazione assicurativa, la societa' di partecipazione finanziaria mista o l'impresa di assicurazione o di riassicurazione del gruppo che puo' trasmettere le informazioni in modo centralizzato.
+
+L'IVASS, previa consultazione delle altre autorita' di vigilanza interessate e del gruppo, identifica inoltre il tipo di operazioni infragruppo che le imprese di assicurazione e di riassicurazione appartenenti ad un determinato gruppo devono segnalare in ogni circostanza. Nel definire il tipo di operazioni rilevanti, l'IVASS e le altre autorita' di vigilanza interessate tengono conto delle societa' appartenenti a tale gruppo e della sua struttura di gestione dei rischi.
+
+))
+
+## Art. 216-bis. — (( (Poteri dell'IVASS sulle operazioni infragruppo) ))
+
+((
+
+))
+
+## Art. 216-ter. — (( (Vigilanza sulla solvibilita' di gruppo) ))
+
+((
+
+Il calcolo della solvibilita' di gruppo e' effettuato secondo le disposizioni stabilite dall'IVASS con regolamento.
+
+Il calcolo del Requisito Patrimoniale di Solvibilita' a livello di gruppo e dei fondi propri ammissibili per la sua copertura calcolato sulla base dei conti consolidati di cui alle lettere a) e b), comma 2, e' effettuato secondo le disposizioni di cui al Titolo III, Capo IV, Sezione I e II, e di cui al Titolo III, Capo IV-bis, Sezione I, II e III, e le disposizioni attuative dettate dall'IVASS con regolamento, ai sensi del comma 1.
+
+Se l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, e' una societa' di partecipazione assicurativa o una societa' di partecipazione finanziaria mista, la solvibilita' di gruppo e' calcolata a livello di detta societa'. Ai fini del calcolo, la societa' controllante e' considerata alla stregua di un'impresa di assicurazione o riassicurazione per quanto riguarda il Requisito Patrimoniale di Solvibilita' e i fondi propri ammissibili a copertura del Requisito Patrimoniale di Solvibilita'.
+
+L'IVASS, previa consultazione delle Autorita' di vigilanza interessate e del gruppo, puo' autorizzare l'applicazione ad un determinato gruppo del metodo della deduzione ed aggregazione di cui all'articolo 216-sexies, comma 1, lettera b), o della combinazione dello stesso con il metodo dei conti consolidati, qualora l'applicazione esclusiva del metodo dei conti consolidati risulti inappropriata.
+
+))
+
+## Art. 216-quater. — (( (Frequenza del calcolo) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, calcola e comunica all'IVASS la situazione di solvibilita' di gruppo almeno una volta all'anno. Nel caso in cui la societa' controllante non e' un'impresa di assicurazione o di riassicurazione, l'IVASS designa, previa consultazione delle altre autorita' di vigilanza interessate e del gruppo, la societa' di partecipazione assicurativa, la societa' di partecipazione finanziaria mista o l'impresa di assicurazione o di riassicurazione del gruppo incaricata di trasmettere le informazioni relative alla solvibilita' di gruppo.
+
+L'ultima societa' controllante italiana monitora su base continuativa il Requisito Patrimoniale di Solvibilita' di gruppo. Se il profilo di rischio del gruppo si discosta significativamente dalle ipotesi sottese all'ultimo Requisito Patrimoniale di Solvibilita' di gruppo comunicato, il Requisito Patrimoniale di Solvibilita' di gruppo e' ricalcolato immediatamente e comunicato all'IVASS. Quando vi siano elementi che suggeriscano che il profilo di rischio del gruppo e' cambiato significativamente dalla data in cui e' stato comunicato l'ultimo Requisito Patrimoniale di Solvibilita' di gruppo, l'IVASS puo' chiedere che il Requisito Patrimoniale di Solvibilita' di gruppo sia ricalcolato.
+
+))
+
+## Art. 216-quinquies. — (( (Requisito Patrimoniale di Solvibilita' di gruppo consolidato) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, assicura la costante disponibilita' in seno al gruppo di fondi propri ammissibili che siano sempre almeno uguali al Requisito Patrimoniale di Solvibilita'.
+
+L'importo minimo di cui al comma 2 e' coperto da fondi propri di base ammissibili ai sensi dell'articolo 44-decies, comma 4. Al fine di determinare se tali fondi propri di base ammissibili consentono di coprire il Requisito Patrimoniale di Solvibilita' di gruppo consolidato minimo, si applicano i principi di cui all'articolo 216-sexies, comma 1, lettere a), c), d) e) ed f). Si applica l'articolo 222-bis, commi 1 e 2. In tal caso le comunicazioni sono effettuate dall'ultima societa' controllante di cui al comma 2.
+
+))
+
+## Art. 216-sexies. — (( (Calcolo della situazione di solvibilita' di gruppo) ))
+
+((
+
+))
+
+## Art. 216-septies. — (Maggiorazione del Requisito Patrimoniale di Solvibilita' di gruppo consolidato)
+
+Se il profilo di rischio del gruppo non e' adeguatamente riflesso dal Requisito Patrimoniale di Solvibilita' di gruppo consolidato, l'IVASS, anche a seguito del processo di controllo prudenziale degli strumenti di vigilanza sul gruppo, puo' imporre una maggiorazione del Requisito Patrimoniale di Solvibilita' di gruppo consolidato. Si applica l'articolo 47-sexies.
+
+## Art. 216-octies. — (( (Informativa all'IVASS ai fini della verifica degli adempimenti sulla vigilanza sul gruppo) ))
+
+((
+
+Al fine di consentire all'IVASS di effettuare il processo di controllo prudenziale a livello di gruppo, l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, trasmette periodicamente all'IVASS le informazioni necessarie, tenuto conto degli obiettivi di vigilanza di cui al presente Titolo, stabilite con regolamento. Si applica l'articolo 190, commi 1-bis e 1-ter.
+
+L'IVASS puo' limitare le informazioni di vigilanza da presentare periodicamente con una frequenza inferiore a un anno a livello del gruppo se tutte le imprese di assicurazione e di riassicurazione all'interno del gruppo beneficiano della limitazione conformemente all'articolo 47-quater, comma 3, tenuto conto della natura, della portata e della complessita' dei rischi inerenti all'attivita' del gruppo. L'IVASS puo' esonerare dalla presentazione di informazioni su base analitica a livello di gruppo se tutte le imprese di assicurazione e di riassicurazione all'interno del gruppo beneficiano dell'esenzione conformemente all'articolo 47-quater, comma 7, tenuto conto della natura, della portata e della complessita' dei rischi inerenti all'attivita' del gruppo e dell'obiettivo della stabilita' finanziaria.
+
+))
+
+## Art. 216-novies. — (( (Informativa sulla solvibilita' di gruppo, la condizione finanziaria e la struttura del gruppo) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, pubblica una relazione annuale sulla solvibilita' e sulla condizione finanziaria a livello di gruppo, secondo i principi di cui agli articoli 47-septies, 47-octies, 47-novies e 47-decies.
+
+Ai fini dell'esercizio della facolta' di cui al comma 2, l'IVASS consulta i membri del collegio delle autorita' di vigilanza, e tiene in debito conto i pareri e le riserve da loro espressi.
+
+Se la relazione di cui al comma 2 non contiene le informazioni che l'autorita' di vigilanza che ha autorizzato una societa' controllata del gruppo impone a societa' analoghe di fornire, e se questa omissione e' sostanziale, l'IVASS puo' richiedere alla societa' controllata interessata di pubblicare le informazioni complementari necessarie.
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, pubblica annualmente a livello di gruppo, le informazioni sulla struttura giuridica e sulla struttura organizzativa e gestionale, comprendenti una descrizione di tutte le societa' controllate, le societa' partecipate e le sedi secondarie di rilievo appartenenti al gruppo.
+
+))
+
+## Art. 216-decies. — (( (Processo di controllo prudenziale degli strumenti di vigilanza sul gruppo) ))
+
+((
+
+L'adempimento degli obblighi in materia di sistema di governo societario, di valutazione interna del rischio e della solvibilita' del gruppo, di concentrazione dei rischi e di operazioni infragruppo, di calcolo della solvibilita' di gruppo di cui al presente Capo, sono soggetti al processo di controllo prudenziale da parte dell'IVASS.
+
+))
+
+## - - Capo IV ((Gestione centralizzata del rischio))
+
+## Art. 217. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 217-bis. — (( (Gestione centralizzata del rischio: condizioni per la vigilanza sulla solvibilita' sul gruppo) ))
+
+((1. Le previsioni di cui agli articoli 217-quater e 217-quinquies si applicano all'impresa di assicurazione o di riassicurazione controllata da un'impresa di assicurazione o di riassicurazione se sono soddisfatte congiuntamente le seguenti condizioni: 
+ a) l'impresa di assicurazione o riassicurazione controllata e' inclusa nell'area di vigilanza sul gruppo esercitata dall'autorita' di vigilanza dello Stato membro in cui ha sede l'ultima impresa di assicurazione o riassicurazione controllante; 
+b) le procedure di gestione dei rischi e i meccanismi di controllo interno dell'ultima impresa di assicurazione o riassicurazione controllante coprono l'impresa di assicurazione o riassicurazione controllata, e le autorita' di vigilanza interessate sono soddisfatte in merito alla gestione prudente dell'impresa controllata da parte dell'impresa controllante; 
+c) l'ultima impresa di assicurazione o riassicurazione controllante, secondo quanto previsto dall'articolo 215-ter, commi 3 e 4, ha ricevuto parere favorevole in merito alla valutazione interna del rischio e della solvibilita' del gruppo in modo centralizzato; 
+d) l'ultima impresa di assicurazione o riassicurazione controllante, secondo quanto previsto dall'articolo 216-novies, commi 2 e 3, ha ricevuto parere favorevole in merito alla solvibilita' e alla condizione finanziaria di gruppo in modo centralizzato; 
+ e) l'ultima impresa di assicurazione o riassicurazione controllante e' autorizzata dall'autorita' di vigilanza, conformemente alla procedura di cui all'articolo 217-ter, ad avvalersi della vigilanza sulla solvibilita' di gruppo con gestione centralizzata dei rischi))
+
+## Art. 217-ter. — (Gestione centralizzata del rischio: procedura di autorizzazione)
+
+La richiesta di autorizzazione all'applicazione della vigilanza sulla solvibilita' di gruppo con gestione centralizzata dei rischi e' presentata all'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata. Tale autorita' informa gli altri membri del collegio delle autorita' di vigilanza e presenta loro immediatamente la domanda completa.
+
+Le autorita' di vigilanza interessate collaborano nell'ambito del collegio sulla base di una piena cooperazione al fine di decidere se concedere o meno l'autorizzazione, stabilendo altresi' a quali altri termini eventualmente subordinarla. Esse si adoperano al massimo per pervenire a una decisione congiunta sulla domanda entro tre mesi dalla data di ricezione della domanda completa da parte di tutte le autorita' di vigilanza nell'ambito del collegio delle autorita' di vigilanza.
+
+Se, nel termine di tre mesi di cui al comma 2, una qualunque delle autorita' di vigilanza interessate rinvia la questione all'AEAP, conformemente all'articolo 19 del regolamento (UE) n. 1094/2010, l'autorita' di vigilanza sul gruppo posticipa la propria decisione in attesa della decisione eventualmente adottata dall'AEAP a norma dell'articolo 19, paragrafo 3, del regolamento (UE) n. 1094/2010 e adegua la propria decisione a quella dell'AEAP.
+
+La decisione di cui al comma 3, adottata dall'AEAP entro un mese, e' riconosciuta come determinante ed e' applicata dalle autorita' di vigilanza interessate. La questione non puo' essere rinviata all'AEAP dopo la scadenza del periodo di tre mesi o dopo che e' stata raggiunta una decisione congiunta. ((L'autorita' di vigilanza sul gruppo decide in via definitiva se l'AEAP non adotta la decisione di cui al comma 3 del presente articolo conformemente all'articolo 19, paragrafo 3, del regolamento (UE) n. 1094/2010)). Il periodo di tre mesi e' considerato la fase di conciliazione ai sensi dell'articolo 19, paragrafo 2, del predetto regolamento.
+
+Se le autorita' di vigilanza interessate sono pervenute alla decisione congiunta di cui al comma 2, l'autorita' di vigilanza che ha autorizzato l'impresa controllata trasmette all'impresa richiedente la decisione. La decisione congiunta e' riconosciuta come determinante e applicata dalle autorita' di vigilanza interessate.
+
+La decisione di cui al comma 6 contiene la motivazione di ogni eventuale scostamento significativo dalle riserve espresse dalle altre autorita' di vigilanza interessate. La decisione e' trasmessa all'impresa richiedente e alle altre autorita' di vigilanza interessate che la riconoscono come determinante e la applicano.
+
+## Art. 217-quater. — (( (Gestione centralizzata del rischio: determinazione del Requisito Patrimoniale di Solvibilita') ))
+
+((
+
+Fatto salvo quanto previsto dall'articolo 207-octies il Requisito Patrimoniale di Solvibilita' dell'impresa di assicurazione o riassicurazione controllata di cui all'articolo articolo 217-bis e' calcolato secondo quanto previsto dai commi 2, 4, 5 e 6 del presente articolo.
+
+L'autorita' di vigilanza discute le proposte di cui al comma 2 nell'ambito del collegio delle autorita' di vigilanza e ne comunica le ragioni sia all'impresa di assicurazione o riassicurazione controllata sia al collegio delle autorita' di vigilanza.
+
+L'autorita' di vigilanza discute la proposta di cui al comma 4 nell'ambito del collegio delle autorita' di vigilanza e ne comunica le ragioni sia all'impresa controllata sia al collegio delle autorita' di vigilanza.
+
+Il collegio delle autorita' di vigilanza si adopera al massimo per pervenire ad un accordo sulla proposta dell'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata o su eventuali altre misure. Tale accordo e' riconosciuto come determinante e applicato dalle autorita' di vigilanza interessate.
+
+In caso di disaccordo, entro il termine di un mese dalla proposta dell'autorita' di vigilanza, una delle autorita' interessate puo' rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010, affinche' decida entro un mese da tale rinvio. La questione non puo' essere rinviata all'AEAP oltre tale termine di un mese o in seguito al raggiungimento di un accordo nell'ambito del collegio ai sensi del comma 3.
+
+8. L'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata posticipa la sua decisione in attesa di una decisione eventualmente adottata dall'AEAP conformemente all'articolo 19 del suddetto regolamento e adegua la propria decisione a quella dell'AEAP. Tale decisione e' riconosciuta come determinante e applicata dalle autorita' di vigilanza interessate. La decisione e' pienamente motivata ed e' trasmessa all'impresa controllata e al collegio delle autorita' di vigilanza))
+
+## Art. 217-quinquies. — (( (Gestione centralizzata del rischio: inosservanza del Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo) ))
+
+((
+
+In caso di inosservanza del Requisito Patrimoniale di Solvibilita' e fatto salvo l'articolo 222, l'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata trasmette senza indugio al collegio delle autorita' di vigilanza il piano di risanamento presentato dall'impresa controllata per ristabilire, entro sei mesi dal rilevamento dell'inosservanza del Requisito Patrimoniale di Solvibilita', il livello di fondi propri ammissibili o ridurre il proprio profilo di rischio al fine di garantire il rispetto del Requisito Patrimoniale di Solvibilita'.
+
+Il collegio delle autorita' di vigilanza si adopera al massimo per pervenire ad un accordo sulla proposta dell'autorita' di vigilanza in merito all'approvazione del piano di risanamento entro quattro mesi dalla data in cui e' stata rilevata l'inosservanza del Requisito Patrimoniale di Solvibilita'. In mancanza di tale accordo, l'autorita' di vigilanza che ha autorizzato l'impresa controllata decide se approvare il piano di risanamento, tenendo in debita considerazione i pareri e le riserve delle altre autorita' di vigilanza nell'ambito del collegio delle autorita' di vigilanza.
+
+Se l'autorita' di vigilanza che ha autorizzato l'impresa controllata individua, a norma dell'articolo 220-bis, un deterioramento delle condizioni finanziarie, informa tempestivamente il collegio delle autorita' di vigilanza in merito alle misure da adottare. Se non ricorre una situazione di emergenza, tali misure sono discusse dal collegio delle autorita' di vigilanza. Il collegio delle autorita' di vigilanza si adopera al massimo per pervenire ad un accordo sulle misure proposte da adottare entro un mese dalla notifica. In mancanza di tale accordo, l'autorita' di vigilanza che ha autorizzato l'impresa controllata decide se approvare le misure proposte, tenendo in debito conto i pareri e le riserve delle altre autorita' di vigilanza nell'ambito del collegio delle autorita' di vigilanza.
+
+In caso d'inosservanza del Requisito Patrimoniale Minimo e fatto salvo l'articolo 222-bis, l'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione o riassicurazione controllata trasmette senza indugio al collegio delle autorita' di vigilanza il piano di finanziamento a breve termine presentato dall'impresa controllata per ristabilire, entro tre mesi dalla data in cui e' stata rilevata l'inosservanza del Requisito Patrimoniale Minimo, il livello di fondi propri ammissibili a copertura del Requisito Patrimoniale Minimo o per ridurre il suo profilo di rischio al fine di garantire il rispetto del Requisito Patrimoniale Minimo. Il collegio delle autorita' di vigilanza e' altresi' informato circa le eventuali misure adottate per garantire il rispetto del Requisito Patrimoniale Minimo a livello di impresa controllata.
+
+Nelle ipotesi di cui al comma 5 l'AEAP assume la decisione entro un mese da tale rinvio.
+
+8. Il periodo di quattro mesi e di un mese di cui ai commi 2 e 3 sono considerati periodi di conciliazione ai sensi dell'articolo 19, paragrafo 2, del regolamento (UE) n. 1094/2010. L'autorita' di vigilanza che ha autorizzato l'impresa di assicurazione e riassicurazione controllata posticipa la sua decisione in attesa di una decisione eventualmente adottata dall'AEAP conformemente all'articolo 19, paragrafo 3, di tale regolamento e adegua la propria decisione a quella dell'AEAP. Tale decisione e' riconosciuta come determinante e applicata dalle autorita' di vigilanza interessate. La decisione e' pienamente motivata ed e' trasmessa all'impresa controllata e al collegio delle autorita' di vigilanza))
+
+## Art. 217-sexies. — (( (Gestione centralizzata del rischio: fine delle deroghe per l'impresa controllata) ))
+
+((
+
+Nel caso di cui al comma 1, lettera a), se l'autorita' di vigilanza del gruppo decide, previa consultazione del collegio delle autorita' di vigilanza, di non includere piu' l'impresa di assicurazione o riassicurazione controllata nella vigilanza sul gruppo, ne informa immediatamente l'autorita' di vigilanza interessata e l'ultima impresa controllante.
+
+Ai fini dell'articolo 217-bis, comma 1, lettere b), c) e d), l'ultima impresa di assicurazione o riassicurazione controllante ha la responsabilita' di assicurare che le condizioni siano soddisfatte su base continuativa. In caso di inosservanza, l'impresa controllante informa immediatamente l'autorita' di vigilanza sul gruppo e l'autorita' di vigilanza dell'impresa di assicurazione o riassicurazione controllata interessata. L'impresa controllante presenta un piano mirante a ripristinare l'osservanza entro un termine adeguato.
+
+Fatto salvo il comma 3, l'autorita' di vigilanza sul gruppo verifica con cadenza almeno annuale che le condizioni di cui all'articolo 217-bis, comma 1, lettere b), c) e d), continuino ad essere soddisfatte. L'autorita' di vigilanza sul gruppo procede a tale verifica, anche su richiesta dell'autorita' di vigilanza interessata, quando quest'ultima abbia serie riserve in merito al rispetto continuativo di tali condizioni. Se la verifica evidenzia carenze nell'osservanza di tali condizioni, l'autorita' di vigilanza sul gruppo impone all'impresa controllante di presentare un piano mirante a ripristinare l'osservanza entro un termine adeguato.
+
+Se l'autorita' di vigilanza sul gruppo ritiene, previa consultazione del collegio delle autorita' di vigilanza, che il piano di cui ai commi 3 e 4 e' inadeguato o non e' stato attuato entro i termini concordati, conclude che le condizioni di cui all'articolo 217-bis, comma 1, lettere b), c) e d), non sono piu' soddisfatte e ne informa immediatamente l'autorita' di vigilanza interessata.
+
+6. Il regime di vigilanza sulla solvibilita' di gruppo con gestione centralizzata del rischio, di cui agli articoli 217-quater e 217-quinquies, si applica nuovamente se l'impresa controllante presenta una nuova domanda e ottiene l'autorizzazione secondo la procedura di cui all'articolo 217-ter))
+
+## Art. 217-septies. — (( (Gestione centralizzata del rischio: imprese di assicurazione o riassicurazione controllate da una societa' di partecipazione assicurativa o da una societa' di partecipazione finanziaria mista) ))
+
+
+
+## Art. 218. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 219. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 220. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - ((Capo IVbis Sottogruppo nazionale con societa' controllante di Stato membro))
+
+## Art. 220-bis. — (( (Vigilanza sul sottogruppo nazionale con societa' controllante di Stato membro) ))
+
+((
+
+Se l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, e' controllata da un'altra impresa di assicurazione o di riassicurazione o da un'altra societa' di partecipazione assicurativa o di partecipazione finanziaria mista con sede in un altro Stato membro, l'IVASS applica al sottogruppo nazionale con a capo livello l'ultima societa' controllante italiana le disposizioni sulla vigilanza di gruppo di cui al presente codice, secondo quanto previsto dal presente Capo e fatti salvi gli accordi eventualmente conclusi ai sensi del comma 4.
+
+La vigilanza sul sottogruppo di cui al comma 1 e' in ogni caso esercitata dall'IVASS, previa consultazione dell'ultima societa' controllante dello Stato membro e dell'autorita' di vigilanza a livello di gruppo. A tali soggetti l'IVASS riferisce le ragioni della decisione di esercitare la vigilanza sul sottogruppo e informa il Collegio delle Autorita' di vigilanza ai sensi degli articoli 207-bis e 207-septies, comma 1, lettera b).
+
+L'IVASS puo' stabilire se e quali disposizioni sulla vigilanza di gruppo di cui al presente codice non applicare al sottogruppo nazionale, anche in base agli accordi di coordinamento conclusi con le autorita' degli altri Stati membri.
+
+4. Nel caso in cui sussista un sottogruppo nazionale in un altro Stato membro, l'IVASS puo' concludere accordi di coordinamento con l'autorita' di vigilanza dello Stato membro in cui ha sede il sottogruppo al fine di stabilire le modalita' di esercizio della vigilanza. L'IVASS puo' esercitare la vigilanza sul sottogruppo nazionale italiano di cui al comma 1 secondo quanto previsto dall'accordo di coordinamento concluso con l'autorita' di vigilanza dello Stato membro includendo nell'area di vigilanza anche il sottogruppo dell'altro Stato. In tal caso, l'IVASS spiega le ragioni dell'accordo concluso all'ultima societa' controllante del gruppo con sede in un altro Stato membro di cui al comma 1 e all'autorita' di vigilanza sul gruppo. L'IVASS informa il collegio delle autorita' di vigilanza ai sensi degli articoli 207-bis e 207-septies, comma 1, lettera b))
+
+## Art. 220-ter. — (( (Disciplina applicabile al sottogruppo nazionale con societa' controllante di Stato membro) ))
+
+((
+
+La scelta del metodo di calcolo della solvibilita' di gruppo di cui all'articolo 216-sexies, comma 1, lettera a) e b), effettuata dall'autorita' di vigilanza sul gruppo a capo del quale vi e' un'ultima societa' controllante con sede in un altro Stato membro, e' riconosciuta come determinante e applicata dall'IVASS.
+
+L'autorizzazione a calcolare il Requisito Patrimoniale di Solvibilita' di gruppo e il Requisito Patrimoniale di Solvibilita' delle imprese di assicurazione e di riassicurazione del gruppo sulla base di un modello interno, rilasciata dall'autorita' di vigilanza sul gruppo a capo del quale vi e' una ultima societa' controllante con sede in un altro Stato membro, e' riconosciuta come determinante e applicata dall'IVASS.
+
+Nel caso di cui al comma 2, se l'IVASS ritiene che il profilo di rischio della societa' controllante italiana di cui all'articolo 210, comma 3, si discosti significativamente dal modello interno approvato a livello comunitario, l'IVASS, puo' decidere, fino a quando tale societa' non risolve adeguatamente le riserve dell'Autorita', di imporre una maggiorazione del Requisito Patrimoniale di Solvibilita' di gruppo risultante dall'applicazione del predetto modello, o, in circostanze eccezionali in cui la maggiorazione del Requisito Patrimoniale non sarebbe opportuna, di imporre alla societa' medesima di calcolare il suo Requisito Patrimoniale di solvibilita' di gruppo sulla base della formula standard.
+
+L'IVASS indica le ragioni della decisione adottata, ai sensi del comma 3, sia alla societa' controllante italiana di cui all'articolo 210, comma 2, che all'autorita' di vigilanza sul gruppo. L'IVASS informa il Collegio delle autorita' di vigilanza ai sensi degli articoli 207-bis e 207-septies, comma 1, lettera b).
+
+L'ultima societa' controllante italiana a capo del sottogruppo nazionale puo' presentare la richiesta di autorizzazione all'applicazione delle disposizioni sulla vigilanza di gruppo con gestione centralizzata dei rischi ai sensi dell'articolo 217-ter, in relazione alle proprie imprese di assicurazione o riassicurazione controllate, solo se l'IVASS ha deciso di non applicare al sottogruppo nazionale tutte o parte delle disposizioni sulla vigilanza sulla solvibilita' di gruppo di cui al presente codice ai sensi dell'articolo 220-bis, comma 3.
+
+6. L'IVASS non applica o cessa di applicare gli strumenti di cui al Capo III del presente Titolo nel caso in cui l'ultima societa' controllante con sede in un altro Stato membro abbia ottenuto l'autorizzazione ad applicare le disposizioni sulla vigilanza di gruppo con gestione centralizzata del rischio per l'ultima impresa controllante a capo del sottogruppo nazionale))
+
+## - - ((Capo IVter Sottogruppo nazionale con societa' controllante di Stato terzo))
+
+## Art. 220-quater. — (( (Vigilanza sul sottogruppo nazionale con societa' controllante di Stato terzo) ))
+
+((
+
+Se l'ultima societa' controllante di cui all'articolo 210, comma 2, e' controllata da un'altra impresa di assicurazione o di riassicurazione o da un'altra societa' di partecipazione assicurativa o di partecipazione finanziaria mista con sede in uno Stato terzo, l'IVASS applica al sottogruppo nazionale con a capo l'ultima societa' controllante italiana le disposizioni sulla vigilanza di gruppo di cui al presente codice, secondo quanto previsto dal presente Capo.
+
+2. L'IVASS puo' stabilire se e quali disposizioni sulla vigilanza di gruppo di cui al presente codice non applicare al sottogruppo nazionale, valutando anche se le societa' appartenenti al sottogruppo nazionale siano soggette da parte dell'autorita' di vigilanza dello Stato terzo a disposizioni di vigilanza sul gruppo equivalenti a quelle esercitate sulle imprese di assicurazione e di riassicurazione italiane))
+
+## Art. 220-quinquies. — (( (Verifica dell'equivalenza del regime di vigilanza sul gruppo) ))
+
+((
+
+Nel caso di cui all'articolo 210, comma 1, lettera c), l'IVASS verifica che le imprese di assicurazione e di riassicurazione controllate italiane siano soggette da parte dell'autorita' di vigilanza dello Stato terzo a disposizioni di vigilanza sul gruppo equivalenti a quelle esercitate sulle imprese di assicurazione e di riassicurazione italiane ai sensi del presente codice.
+
+L'IVASS, procede alla verifica dell'equivalenza del regime ai sensi del comma 1, anche su richiesta della societa' controllante o dell'impresa di assicurazione o riassicurazione italiana controllata di cui all'articolo 210, comma 1, lettera c).
+
+L'IVASS e' assistita dall'AEAP conformemente all'articolo 33, paragrafo 2, del regolamento (UE) n. 1094/2010 e consulta le altre autorita' di vigilanza interessate prima di adottare una decisione sull'equivalenza.
+
+L'IVASS puo' adottare, in relazione a un determinato Stato terzo, una decisione in contraddizione con altre precedentemente adottate nei confronti del medesimo Stato, laddove tale decisione sia necessaria per tenere conto di eventuali modifiche di rilievo al regime di vigilanza sulle imprese di assicurazione o riassicurazione previsto dal presente codice o dalla legislazione dello Stato terzo.
+
+Qualora le autorita' di vigilanza siano in disaccordo con le decisioni adottate ai sensi dei commi 3 e 4, possono rinviare la questione all'AEAP conformemente all'articolo 19 del regolamento (UE) n. 1094/2010 entro tre mesi dalla comunicazione della decisione da parte dell'autorita' di vigilanza incaricata del gruppo. In tal caso l'AEAP puo' agire conformemente ai poteri che le conferisce tale articolo.
+
+6. Ai fini della applicazione degli articoli 220-septies e 220-octies, rilevano anche le valutazioni sull'equivalenza, ancorche' temporanea, assunte dalla Commissione europea))
+
+## Art. 220-sexies. — (( (Verifica dell'equivalenza: livelli) ))
+
+((
+
+Se la societa' controllante di cui all'articolo 210, comma 1, lettera c), e' una societa' controllata da un'altra societa' di partecipazione assicurativa o di partecipazione finanziaria mista con sede in uno Stato terzo o da un'altra impresa di assicurazione o di riassicurazione con sede in uno Stato terzo, l'IVASS effettua la verifica dell'equivalenza in merito alla sussistenza di un regime di vigilanza sul gruppo, di cui all'articolo 220-septies, a livello dell'ultima societa' controllante di Stato terzo.
+
+L'IVASS, nel caso in cui in base alla verifica di cui al comma 1 sia risultata insussistente l'equivalenza del regime di vigilanza sul gruppo, puo' effettuare una nuova verifica al livello inferiore della societa' di partecipazione assicurativa o di partecipazione finanziaria mista con sede in uno Stato terzo o dell'impresa di assicurazione o di riassicurazione con sede in uno Stato terzo, controllante ai sensi dell'articolo 210, comma 1, lettera c), che sia controllata ai sensi del comma 1. In tal caso l'IVASS indica le ragioni della propria decisione al gruppo.
+
+3. Si applica, in quanto compatibile, l'articolo 220-octies))
+
+## Art. 220-septies. — (( (Sussistenza di un regime equivalente di vigilanza sul gruppo) ))
+
+((
+
+Nel caso in cui sia stata accertata la sussistenza di un regime di vigilanza sul gruppo equivalente, l'IVASS, tenendo conto degli orientamenti e delle decisioni assunte a livello comunitario, puo' non applicare le disposizioni sulla vigilanza di gruppo di cui al presente codice e basarsi sulla vigilanza esercitata dall'Autorita' di vigilanza dello Stato terzo conformemente al presente Titolo, salvo che, nei casi di sussistenza di un regime di equivalenza temporanea, un'impresa di assicurazione o di riassicurazione con sede in Italia abbia un totale di bilancio superiore a quello della societa' controllante con sede in uno Stato terzo. In tal caso la funzione di autorita' di vigilanza sul gruppo e' esercitata dall'IVASS, ai sensi dell'articolo 212-bis.
+
+))
+
+## Art. 220-octies. — (( (Insussistenza di un regime equivalente di vigilanza sul gruppo) ))
+
+((
+
+Nel caso in cui sia stata accertata l'insussistenza di un regime equivalente di vigilanza sul gruppo ovvero non ricorrono le altre condizioni di cui all'articolo 220-septies, si applicano in quanto compatibili alle imprese di assicurazione e di riassicurazione controllate italiane di cui all'articolo 210, comma 1, lettera c), gli strumenti di vigilanza sul gruppo di cui al presente codice, escluso il regime di solvibilita' delle imprese di assicurazione o riassicurazione con gestione centralizzata del rischio.
+
+I principi generali e i metodi stabiliti agli articoli di cui al presente Capo, si applicano a livello della societa' controllante di cui all'articolo 210, comma 1, lettera c).
+
+Ai soli fini del calcolo della solvibilita' del gruppo, la societa' controllante di cui all'articolo 210, comma 1, lettera c), e' considerata alla stregua di un'impresa di assicurazione o di riassicurazione soggetta alle condizioni fissate dagli articoli 44-ter, 44-quater, 44-quinquies con riguardo ai fondi propri ammissibili per il Requisito Patrimoniale di Solvibilita' e all'articolo 216-quinquies con riguardo al possesso del Requisito Patrimoniale di Solvibilita' di gruppo consolidato.
+
+L'IVASS puo' disporre l'applicazione, previa consultazione delle altre autorita' di vigilanza interessate, di metodi ulteriori che assicurino una vigilanza adeguata sulle imprese di assicurazione e di riassicurazione italiane appartenenti al gruppo. Tali metodi sono approvati dall'autorita' di vigilanza del gruppo, previa consultazione delle altre autorita' di vigilanza interessate. In particolare, nell'ipotesi in cui non vi sia l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, l'IVASS puo' esigere, la costituzione di una societa' di partecipazione assicurativa o di una societa' di partecipazione finanziaria mista con sede in Italia o in altro Stato membro al fine di applicare la disciplina della vigilanza sul gruppo di cui al presente titolo alle imprese del gruppo controllate da tale societa' di partecipazione assicurativa o di partecipazione finanziaria mista.
+
+L'IVASS comunica gli approcci di cui al comma 4, che consentono di conseguire gli obiettivi di vigilanza sul gruppo definiti nel presente titolo, alle altre autorita' di vigilanza interessate e alla Commissione europea.
+
+))
+
+## - - ((Capo IVquater Misure correttive))
+
+## Art. 220-novies. — (( (Misure correttive sul gruppo) ))
+
+((
+
+Nelle ipotesi in cui le misure di cui al comma 1 devono essere adottate nei confronti di societa' di partecipazione assicurativa e delle societa' di partecipazione finanziaria mista con sede legale in un altro Stato membro, l'IVASS informa le autorita' di vigilanza di tale Stato delle conclusioni a cui e' pervenuta, al fine di consentire alle stesse l'adozione delle misure necessarie e collabora con esse al fine di garantire un'azione efficace di vigilanza.
+
+Nel caso in cui l'impresa di assicurazione o di riassicurazione nei cui confronti devono essere prese le misure correttive abbia sede in un altro Stato membro, IVASS, in qualita' di autorita' di vigilanza sul gruppo ai sensi dell'articolo 207-sexies, informa l'autorita' di vigilanza in cui ha sede l'impresa al fine di consentire alla stessa l'adozione delle misure necessarie e collabora con essa al fine di garantire un'azione efficace di vigilanza.
+
+))
+
+## - - Titolo XVI MISURE DI SALVAGUARDIA RISANAMENTO E LIQUIDAZIONE Capo I Misure di salvaguardia
+
+## Art. 220-decies. — (( (Rilevazione e comunicazione del deterioramento delle condizioni finanziarie) ))
+
+((
+
+L'impresa di assicurazione o di riassicurazione si dota di procedure per individuare il deterioramento delle proprie condizioni finanziarie e comunica immediatamente all'IVASS il deterioramento individuato.
+
+))
+
+## Art. 221. — Violazione delle norme sulle riserve tecniche o sulle attivita' a copertura
+
+((
+
+Fatto salvo quanto previsto all'articolo 184, qualora l'impresa di assicurazione o di riassicurazione, che ha sede legale nel territorio della Repubblica, non osservi le disposizioni sulle riserve tecniche di cui agli articoli 36, 36-bis, 36-ter, 36-quater, 36-quinquies, 36-sexies, 36-septies, 36-octies, 36-novies e 37 e sulle attivita' a copertura delle medesime di cui agli articoli 37-ter, 38, 41, 42, 42-bis, 43, l'IVASS ne contesta la violazione e le ordina di conformarsi alle norme violate, assegnando un termine congruo per l'attuazione degli adempimenti richiesti, ma non pregiudizievole per la protezione degli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.
+
+))
+
+L'((IVASS)), nei casi di cui al comma 1, puo' vietare all'impresa di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica e successivamente puo' consentirne, con specifiche autorizzazioni, una disponibilita' limitata, comunque informando preventivamente le autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera. L'((IVASS)) puo' inoltre chiedere alle autorita' di vigilanza degli altri Stati membri, nei quali l'impresa possiede beni, di adottare analogo provvedimento, indicando i beni da assoggettare a tale misura.
+
+Il divieto di assunzione di nuovi affari e' comunicato alle autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera ed e' pubblicato nel bollettino. Il provvedimento viene revocato prima del termine, se l'impresa ha eliminato o posto completo rimedio alla violazione contestata. La revoca e' comunicata alle autorita' di vigilanza degli altri Stati membri ed il relativo provvedimento e' pubblicato nel bollettino.
+
+## Art. 222. — (( (Violazione delle norme sul Requisito Patrimoniale di Solvibilita') ))
+
+((
+
+L'impresa di assicurazione o di riassicurazione informa immediatamente l'IVASS non appena rilevano che il Requisito Patrimoniale di Solvibilita' non e' piu' rispettato o quando vi e' il rischio che non sia rispettato nei successivi tre mesi.
+
+Entro due mesi dalla rilevazione dell'inosservanza del Requisito Patrimoniale di Solvibilita' ovvero, in mancanza di comunicazione dell'impresa, su richiesta dell'IVASS, l'impresa di assicurazione o di riassicurazione presenta all'IVASS, ai fini dell'approvazione, un piano di risanamento fondato su basi realistiche.
+
+L'IVASS impone all'impresa di assicurazione o di riassicurazione di adottare i provvedimenti necessari per ristabilire, entro sei mesi dalla rilevazione dell'inosservanza del requisito patrimoniale di solvibilita', il livello di fondi propri ammissibili in misura tale da coprire il Requisito Patrimoniale di Solvibilita' o per ridurre il profilo di rischio al fine di garantire l'osservanza del Requisito Patrimoniale di Solvibilita'.
+
+L'IVASS, qualora lo ritenga opportuno, puo' concedere una proroga di tre mesi.
+
+In presenza di situazioni eccezionalmente avverse aventi ripercussioni, riconosciute dall'AEAP, su imprese di assicurazione e riassicurazione che rappresentano una quota significativa del mercato o delle aree di attivita' interessate, l'IVASS puo' estendere per le imprese colpite, se del caso anche in consultazione con il CERS, il periodo fissato al comma 2-ter per un periodo di tempo massimo di sette anni, tenendo conto di tutti i fattori pertinenti, ivi inclusa la durata media relativa delle riserve tecniche.
+
+L'IVASS puo' chiedere all'AEAP di constatare l'esistenza di situazioni eccezionalmente avverse.
+
+L'IVASS collabora con l'AEAP nella valutazione sulla persistenza delle condizioni di cui ai commi 2-quinquies e 2-sexies.
+La cessazione della situazione eccezionalmente avversa e' dichiarata dall'AEAP, previa consultazione dell'IVASS.
+
+L'impresa di assicurazione o di riassicurazione interessata presenta ogni tre mesi all'IVASS una relazione concernente le misure adottate e i progressi realizzati in relazione al ripristino del livello di fondi propri ammissibili a copertura del requisito patrimoniale di solvibilita' o alla riduzione del suo profilo di rischio al fine di garantire la conformita' al requisito stesso.
+
+L'estensione di cui al comma 2-quater e' revocata se dalla suddetta relazione si evince che non si sono registrati progressi significativi in relazione al ripristino del livello di fondi propri ammissibili a copertura del requisito patrimoniale di solvibilita' o alla riduzione del profilo di rischio al fine di garantire la conformita' al requisito stesso tra la data di rilevamento dell'inosservanza del requisito patrimoniale di solvibilita' e la data di presentazione della relazione sui progressi realizzati.
+
+L'IVASS, in casi eccezionali se ritiene che la situazione finanziaria dell'impresa rischi di subire ulteriori deterioramenti, puo' vietare all'impresa di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica e successivamente puo' consentirne, con specifiche autorizzazioni, una disponibilita' limitata, comunque informando preventivamente le autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera. L'IVASS puo' inoltre chiedere alle autorita' di vigilanza degli altri Stati membri, nei quali l'impresa possiede beni, di adottare analogo provvedimento, indicando i beni da assoggettare a tale misura.
+
+L'IVASS puo' anche disporre il vincolo sui singoli attivi iscritti nel registro a copertura delle riserve tecniche con le modalita' previste dall'articolo 224.
+
+Qualora il piano di risanamento o il piano di finanziamento riguardino una societa' cooperativa e prevedano un aumento di capitale sociale, il limite individuale di sottoscrizione del capitale sociale e' elevato sino al triplo. In tal caso, ai fini dell'iscrizione nel registro delle imprese della deliberazione assembleare di aumento del capitale sociale, la societa' cooperativa e' tenuta ad esibire il provvedimento adottato dall'IVASS.
+
+))
+
+## Art. 222-bis. — (( (Violazione delle norme sul Requisito Patrimoniale Minimo) ))
+
+((
+
+Le imprese di assicurazione e di riassicurazione informano immediatamente l'autorita' di vigilanza qualora rilevino che il Requisito Patrimoniale Minimo non e' piu' rispettato o quando vi e' il rischio che non sia rispettato nei successivi tre mesi.
+
+Entro un mese dalla rilevazione dell'inosservanza del Requisito Patrimoniale Minimo, ovvero, in mancanza di comunicazione dell'impresa, su richiesta dell'IVASS, l'impresa di assicurazione o di riassicurazione presenta all'IVASS, ai fini dell'approvazione, un piano di finanziamento a breve termine fondato su basi realistiche per riportare, entro tre mesi da tale rilevazione, i fondi propri di base ammissibili almeno al livello del Requisito Patrimoniale Minimo o per ridurre il profilo di rischio al fine di garantire l'osservanza del Requisito Patrimoniale Minimo.
+
+L'IVASS puo' vietare all'impresa di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica e successivamente puo' consentirne, con specifiche autorizzazioni, una disponibilita' limitata, comunque informando preventivamente le autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera. L'IVASS puo' inoltre chiedere alle autorita' di vigilanza degli altri Stati membri, nei quali l'impresa possiede beni, di adottare analogo provvedimento, indicando i beni da assoggettare a tale misura.
+
+4. L'IVASS puo' anche disporre il vincolo sui singoli attivi iscritti nel registro a copertura delle riserve tecniche con le modalita' previste dall'articolo 224))
+
+## Art. 222-ter. — (( (Limitazioni alla distribuzione di elementi dei fondi propri) ))
+
+((
+
+Fatte salve le deroghe previste dalle disposizioni dell'Unione Europea direttamente applicabili, in caso di inosservanza del requisito patrimoniale di solvibilita' o del requisito minimo di solvibilita' o se la distribuzione comporta detta inosservanza, l'impresa non opera distribuzioni in relazione ad elementi di fondi propri, incluse distribuzioni di utili, fino al momento in cui non sia ripristinato il rispetto del requisito e la distribuzione non determini la sua inosservanza.
+
+2. Il divieto di cui al comma 1 si applica anche nel caso in cui l'inosservanza del requisito patrimoniale emerga solo dopo la delibera di distribuzione ma prima che alla stessa sia stata data esecuzione))
+
+## Art. 223. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 223-bis. — (( (Misure di intervento in caso di deterioramento delle condizioni finanziarie dell'impresa di assicurazione o di riassicurazione) ))
+
+
+
+## Art. 223-ter. — (( (Piano di risanamento e piano di finanziamento) ))
+
+((
+
+L'IVASS, valutata la situazione dell'impresa di assicurazione o di riassicurazione, puo' ridurre il valore di tutti gli elementi che rientrano nel Requisito Patrimoniale di Solvibilita' e cio' anche nel caso in cui abbiano subito una significativa diminuzione del valore di mercato nel periodo successivo alla fine del precedente esercizio.
+
+L'IVASS non rilascia attestazioni di solvibilita' dell'impresa di assicurazione o di riassicurazione, alla quale ha richiesto ai sensi del comma 1 il piano di risanamento finanziario di cui all'articolo 222, comma 2, o un piano di finanziamento di cui all'articolo 222-bis, comma 2, fino a quando ritenga che i diritti degli assicurati e degli altri aventi diritto a prestazioni assicurative o gli impegni contrattuali dell'impresa di riassicurazione siano a rischio.
+
+))
+
+## Art. 224. — Procedura di apposizione del vincolo sulle attivita' patrimoniali
+
+Quando il vincolo riguardi beni immobili, l'((IVASS)) ordina alla conservatoria dei registri immobiliari l'iscrizione di ipoteca, a favore dei crediti di assicurazione o di riassicurazione, sui beni immobili e sui diritti immobiliari di godimento dell'impresa di assicurazione e di riassicurazione che sono localizzati nel territorio della Repubblica.
+
+L'((IVASS)) puo' ordinare l'apposizione del vincolo su ogni altro attivo, diverso da quelli di cui al comma 1, nelle forme previste dalla legge per ciascun tipo di beni o di diritti. Le autorita' ed i soggetti cui compete l'esecuzione del provvedimento sono tenuti al compimento degli atti e delle operazioni necessarie per rendere effettivo ed opponibile ai terzi il vincolo ordinato dall'((IVASS)).
+
+Dei provvedimenti adottati e' data comunicazione alle autorita' di vigilanza degli altri Stati membri nei quali l'impresa di assicurazione e di riassicurazione opera o possiede beni.
+
+## Art. 225. — Misure di salvaguardia in caso di revoca parziale dell'autorizzazione
+
+In caso di revoca parziale dell'autorizzazione l'((IVASS)), per salvaguardare gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative, delle imprese di assicurazione cedenti e dei lavoratori dipendenti, puo' vietare all'impresa di assicurazione o di riassicurazione che ha sede nel territorio della Repubblica di compiere atti di disposizione sui propri beni, qualora tale provvedimento non sia gia' stato adottato ((ai sensi degli articoli 221, 222, 222-bis)).
+
+L'((IVASS)) puo' altresi' disporre il vincolo sui singoli attivi iscritti nel registro a copertura delle riserve tecniche con le modalita' previste dall'articolo 224.
+
+Dei provvedimenti adottati ai sensi del commi 1 e 2 e' data comunicazione alle autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera o possiede beni. Alle stesse autorita' puo' essere richiesto di adottare misure analoghe, cooperando nell'adozione di ogni provvedimento idoneo a salvaguardare gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.
+
+## Art. 226. — (( (Imprese con sede legale in altri Stati membri e in Stati terzi) ))
+
+((
+
+Se le autorita' di vigilanza dei rispettivi Stati membri d'origine hanno adottato le misure corrispondenti a quelle previste dagli articoli 221, 222, 222-bis, 225, 240 e 242 l'IVASS vieta alle imprese di assicurazione e di riassicurazione, che hanno sede legale in altri Stati membri e che operano nel territorio della Repubblica in regime di stabilimento e di prestazione di servizi, di compiere atti di disposizione sui beni esistenti nel territorio della Repubblica, quando cio' sia richiesto dalle autorita' di vigilanza dei rispettivi Stati membri d'origine e siano indicati gli attivi che devono costituire oggetto di tale misura. A richiesta delle medesime autorita', l'IVASS adotta altresi' i provvedimenti di vincolo delle singole attivita' patrimoniali a copertura delle riserve tecniche con le modalita' di cui all'articolo 224.
+
+L'IVASS applica le disposizioni di cui al presente capo nei confronti delle imprese di assicurazione e di riassicurazione, che hanno sede legale in Stati terzi in caso di violazione posta in essere dalla sede secondaria stabilita nel territorio della Repubblica.
+
+Se la violazione riguarda le disposizioni sul requisito patrimoniale di solvibilita' ed e' posta in essere da un'impresa di assicurazione o di riassicurazione di un Paese terzo che sia stabilita, oltre che nel territorio della Repubblica, anche in altri Stati membri e che sia vigilata dall'IVASS anche per le attivita' effettuate dalle sedi secondarie stabilite negli altri Stati membri, l'adozione dei provvedimenti di cui agli articoli 221, 222, 222-bis, 224 e 225 spetta all'IVASS, ad eccezione dei casi in cui il controllo di solvibilita' venga demandato ad altra Autorita' ai sensi dell'articolo 51, comma 3. Dei provvedimenti adottati e' data comunicazione alle autorita' di vigilanza degli altri Stati membri nei quali l'impresa opera o possiede beni. Alle stesse autorita' puo' essere richiesto di adottare misure analoghe, cooperando nell'adozione di ogni provvedimento idoneo a salvaguardare gli interessi degli assicurati e degli altri aventi diritto a prestazioni assicurative.
+
+Nel caso di cui al comma 3, se lo stato di solvibilita' per il complesso delle attivita' esercitate dalle sedi secondarie dell'impresa di assicurazione o di riassicurazione di un Paese terzo e' sottoposto al controllo esclusivo dell'autorita' di vigilanza di un altro Stato membro, per l'adozione dei provvedimenti di cui all'articolo 224 sui beni posseduti dall'impresa nel territorio della Repubblica la medesima autorita' puo' avvalersi della cooperazione dell'IVASS.
+
+))
+
+## Art. 226-bis. — (( (Rilevazione e comunicazione del deterioramento delle condizioni finanziarie di gruppo) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, si dota di procedure per individuare il deterioramento delle condizioni del gruppo finanziarie e comunica immediatamente all'IVASS il deterioramento individuato.
+
+))
+
+## Art. 227. — (( (Misure in caso di verifica della situazione di solvibilita' di gruppo) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, informa immediatamente l'IVASS non appena rileva che il Requisito Patrimoniale di Solvibilita' di gruppo non e' piu' rispettato o quando vi e' il rischio che non sia rispettato nei successivi tre mesi.
+
+Entro due mesi dalla rilevazione dell'inosservanza del Requisito Patrimoniale di Solvibilita' di gruppo ovvero, in mancanza di comunicazione della societa', su richiesta dell'IVASS, la societa' di cui al comma 1 presenta all'IVASS, ai fini dell'approvazione, un piano di risanamento fondato su basi realistiche.
+
+L'IVASS impone alla societa' di cui al comma 1 di adottare i provvedimenti necessari per ristabilire, entro sei mesi dalla rilevazione dell'inosservanza del requisito patrimoniale di solvibilita' di gruppo, il livello di fondi propri ammissibili in misura tale da coprire il requisito patrimoniale di solvibilita' di gruppo o per ridurre il profilo di rischio al fine di garantire l'osservanza del requisito patrimoniale di solvibilita' di gruppo.
+
+L'IVASS, qualora lo ritenga opportuno, puo' concedere una proroga di tre mesi.
+
+In presenza delle situazioni eccezionalmente avverse aventi ripercussioni, riconosciute dall'AEAP ai sensi dell'articolo 222, comma 2-quater, su imprese di assicurazione e riassicurazione che rappresentano una quota significativa del mercato o delle aree di attivita' interessate, l'IVASS puo' estendere per il gruppo coinvolto, se del caso anche in consultazione con il CERS, il periodo fissato al comma 4 per un periodo di tempo massimo di sette anni, tenendo conto di tutti i fattori pertinenti, ivi inclusa la durata media relativa delle riserve tecniche. Si applica l'articolo 222, commi 2-octies e 2-novies.
+
+))
+
+## Art. 228. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - Capo II Misure di risanamento
+
+## Art. 229. — Commissario per il compimento di singoli atti
+
+L'((IVASS)), nel caso di grave inosservanza delle disposizioni di legge e dei relativi provvedimenti di attuazione, puo' disporre la nomina di un commissario per il compimento di singoli atti che siano necessari per rendere la gestione dell'impresa di assicurazione o di riassicurazione conforme a legge.
+
+Il provvedimento ((...)) puo' essere disposto decorso inutilmente il termine contestualmente assegnato per far cessare i fatti addebitati e rimuoverne gli effetti.
+
+Si applicano, in quanto compatibili, il comma 1 dell'articolo 232, i commi 2, 3 e 4 dell'articolo 233, il comma 1 dell'articolo 236 ed i commi 1, 2 e 3 dell'articolo 237.
+
+## Art. 230. — Commissario per la gestione provvisoria
+
+L'((IVASS)) puo' disporre, quando ricorrono i presupposti per l'amministrazione straordinaria di cui all'articolo 231 e concorrano ragioni di assoluta urgenza, che uno o piu' commissari assumano i poteri di amministrazione dell'impresa di assicurazione o di riassicurazione. Le funzioni degli organi di amministrazione e di controllo sono frattanto sospese. I commissari, nell'esercizio delle loro funzioni, sono pubblici ufficiali.
+
+La gestione provvisoria non puo' avere durata superiore a due mesi. L'((IVASS)) puo' stabilire speciali cautele e limitazioni nella gestione dell'impresa. Si applicano, in quanto compatibili, il comma 1 dell'articolo 232, i commi 2, 3 e 4 dell'articolo 233, i commi 3, 4 e 8 dell'articolo 234, i commi 1 e 2 dell'articolo 235, il comma 1 dell'articolo 236 ed i commi 1, 2 e 3 dell'articolo 237.
+
+Qualora durante la gestione provvisoria intervenga lo scioglimento degli organi di amministrazione e di controllo ai sensi dell'articolo 231, comma 1, i commissari assumono le attribuzioni dei commissari straordinari fino all'insediamento degli organi straordinari. In tal caso si applica l'articolo 231, comma 4.
+
+Al termine della gestione provvisoria gli organi subentranti prendono in consegna l'azienda dai commissari con le modalita' previste dall'articolo 235, comma 1.
+
+## Art. 231. — Amministrazione straordinaria
+
+
+
+Le funzioni delle assemblee e degli organi diversi da quelli indicati nel comma 1 sono sospese per effetto del provvedimento di amministrazione straordinaria, salvo quanto previsto dall'articolo 234, comma 7.
+
+Il decreto del ((Ministro dello sviluppo economico)) e la proposta dell'((IVASS)) sono comunicati dai commissari straordinari agli interessati, che ne facciano richiesta, non prima dell'insediamento di cui all'articolo 235, comma 1.
+
+L'amministrazione straordinaria ha la durata di un anno dalla data di emanazione del decreto di cui al comma 1, salvo che il decreto preveda un termine piu' breve o che l'((IVASS)) ne autorizzi la chiusura anticipata. La procedura puo' essere prorogata, su proposta dell'((IVASS)), dal ((Ministro dello sviluppo economico)) per un periodo non superiore a dodici mesi.
+
+## Art. 232. — Efficacia delle misure di risanamento sul territorio comunitario
+
+I provvedimenti e le procedure di gestione provvisoria e di amministrazione straordinaria sono efficaci anche nei confronti delle succursali o di qualsiasi altra presenza delle imprese di assicurazione e di riassicurazione italiane nel territorio degli altri Stati membri.
+
+L'((IVASS)) informa prontamente le autorita' di vigilanza degli altri Stati membri dell'avvenuta adozione di un provvedimento di gestione provvisoria o di amministrazione straordinaria e degli effetti che da tale provvedimento potrebbero derivare.
+
+Le misure di risanamento, adottate nei confronti di imprese che hanno sede legale in un altro Stato membro, producono, a seguito della comunicazione all'((IVASS)) e senza necessita' di ulteriori adempimenti, i loro effetti sulle succursali delle imprese operanti nel territorio della Repubblica anche nei confronti dei terzi, anche se la legge italiana non preveda tali misure di risanamento o ne subordini l'applicazione a condizioni diverse da quelle per le quali sono state adottate dall'autorita' di vigilanza dell'altro Stato membro.
+
+## Art. 233. — Organi della procedura di amministrazione straordinaria
+
+L'((IVASS)) nomina uno o piu' commissari straordinari per l'amministrazione dell'impresa di assicurazione o di riassicurazione ed un comitato di sorveglianza composto da tre a cinque componenti, il cui presidente e' designato nell'atto di nomina.
+
+L'((IVASS)) puo' revocare o sostituire i commissari ed i componenti del comitato di sorveglianza nell'interesse del miglior svolgimento della procedura ed in ogni caso di perdita dei requisiti di cui al comma 4.
+
+Le indennita' spettanti ai commissari, al presidente ed ai componenti del comitato di sorveglianza sono determinate dall'((IVASS)). La spesa e' a carico dell'impresa sottoposta alla procedura.
+
+((
+
+Agli organi della procedura si applicano i requisiti di professionalita', onorabilita' e indipendenza stabiliti in attuazione dell'articolo 76.
+
+))
+
+## Art. 234. — Poteri e funzionamento degli organi straordinari
+
+I commissari straordinari esercitano le funzioni ed assumono i poteri di amministrazione dell'impresa. Essi provvedono ad accertare la situazione aziendale, a rimuovere le irregolarita' e ad amministrare l'impresa nell'interesse degli assicurati e degli altri aventi diritto a prestazioni assicurative. Le disposizioni del codice civile, statutarie o convenzionali, relative ai poteri di controllo spettanti ai titolari di partecipazioni non si applicano agli atti dei commissari. In caso di impugnazione delle decisioni dei commissari i soci non possono chiedere al tribunale la sospensione dell'esecuzione delle decisioni dei commissari soggette ad autorizzazione o comunque attuative di provvedimenti dell'((IVASS)).
+I commissari, nell'esercizio delle loro funzioni, sono pubblici ufficiali.
+
+Il comitato di sorveglianza esercita le funzioni di controllo e fornisce pareri ai commissari nei casi previsti dal presente capo o stabiliti dall'((IVASS)) con regolamento.
+
+Le funzioni degli organi straordinari hanno inizio con l'insediamento ai sensi dell'articolo 235, commi 1 e 2, e cessano con il passaggio delle consegne agli organi subentranti, fatti salvi gli adempimenti di cui all'articolo 236.
+
+L'((IVASS)), in via generale con regolamento o in via particolare con istruzioni specifiche impartite ai commissari e ai componenti del comitato di sorveglianza, puo' stabilire speciali cautele e limitazioni nella gestione dell'impresa. I componenti degli organi straordinari sono personalmente responsabili per l'inosservanza delle prescrizioni dell'((IVASS)). Esse sono comunque inopponibili ai terzi che non ne abbiano avuto conoscenza. I commissari straordinari acquisiscono preventivamente il parere del comitato di sorveglianza e l'autorizzazione dell'((IVASS)) per la realizzazione di piani di risanamento che prevedano cessioni di portafoglio, di azienda o rami di azienda o di partecipazioni in altre societa'.
+
+L'esercizio dell'azione sociale di responsabilita' contro i componenti dei disciolti organi amministrativi e di controllo e contro il direttore generale, la societa' di revisione e l'attuario revisore spetta ai commissari straordinari, sentito il comitato di sorveglianza, previa autorizzazione dell'((IVASS)). Gli organi succeduti all'amministrazione straordinaria proseguono le azioni di responsabilita', riferendone periodicamente all'((IVASS)).
+
+((
+
+I commissari, sentito il comitato di sorveglianza, previa autorizzazione dell'IVASS, possono, nell'interesse della procedura, sostituire la societa' di revisione. Ai medesimi soggetti compete soltanto il corrispettivo per la durata residua dell'incarico e, comunque, per un periodo non superiore a tre mesi. Il nuovo incarico puo' avere durata massima fino al termine dell'amministrazione straordinaria.
+
+))
+
+I commissari, previa autorizzazione dell'((IVASS)), possono convocare le assemblee e gli altri organi indicati nell'articolo 231, comma 3, con ordine del giorno non modificabile da parte dell'organo convocato.
+
+Quando i commissari siano piu' d'uno, essi decidono a maggioranza dei componenti in carica ed i loro poteri di rappresentanza sono validamente esercitati con la firma congiunta di due di essi. E' consentita la delega di poteri, anche per categorie di operazioni, a uno o piu' commissari.
+
+Il comitato di sorveglianza delibera a maggioranza dei componenti in carica ed in caso di parita' prevale il voto del presidente.
+
+## Art. 235. — Adempimenti iniziali
+
+I commissari straordinari si insediano prendendo in consegna l'azienda dagli organi amministrativi disciolti con un sommario processo verbale. I commissari acquisiscono una situazione dei conti.
+Alle operazioni assiste almeno un componente del comitato di sorveglianza.
+
+Qualora, per il mancato intervento degli organi amministrativi disciolti o per altre ragioni, non sia possibile l'esecuzione delle consegne, i commissari provvedono d'autorita' ad insediarsi, con l'assistenza di un notaio e, ove occorra, con l'intervento della forza pubblica.
+
+Il commissario provvisorio di cui all'articolo 230 assume la gestione dell'impresa ed esegue le consegne ai commissari straordinari secondo le modalita' indicate nei commi 1 e 2.
+
+Quando il bilancio relativo all'esercizio chiuso anteriormente all'inizio dell'amministrazione straordinaria non sia stato approvato, i commissari provvedono al deposito presso l'ufficio del registro delle imprese, in sostituzione del bilancio, di una relazione sulla situazione patrimoniale ed economica redatta sulla base delle informazioni disponibili. La relazione e' accompagnata da un rapporto del comitato di sorveglianza. E' comunque esclusa ogni distribuzione di utili.
+
+## Art. 236. — Adempimenti finali
+
+I commissari straordinari e il comitato di sorveglianza, al termine delle loro funzioni, redigono separati rapporti sull'attivita' svolta e li trasmettono all'((IVASS)).
+
+La chiusura dell'esercizio in corso all'inizio dell'amministrazione straordinaria e' protratta ad ogni effetto di legge fino al termine della procedura. I commissari redigono un progetto di bilancio che viene presentato all'((IVASS)), per l'approvazione, entro quattro mesi dalla chiusura dell'amministrazione straordinaria e successivamente pubblicato nei modi di legge.
+
+I commissari, prima della cessazione delle loro funzioni, provvedono perche' siano ricostituiti gli organi sociali. Gli organi con funzioni di amministrazione prendono in consegna l'azienda dai commissari secondo le modalita' previste dall'articolo 235, comma 1.
+
+## Art. 237. — Adempimenti in materia di pubblicita'
+
+Il decreto ministeriale di inizio e di chiusura della gestione straordinaria e' pubblicato nella Gazzetta Ufficiale e successivamente riprodotto nel Bollettino. I provvedimenti di nomina, sostituzione o revoca degli organi della procedura sono pubblicati, a cura dell'((IVASS)), nel Bollettino.
+
+I provvedimenti di amministrazione straordinaria sono altresi' pubblicati, a cura dell'((IVASS)), mediante estratto nella Gazzetta Ufficiale dell'Unione europea.
+
+Entro quindici giorni dalla comunicazione della nomina, i commissari straordinari depositano l'atto di nomina per l'iscrizione nel registro delle imprese.
+
+L'((IVASS)), qualora sia informato da un altro Stato membro dell'adozione di un provvedimento di risanamento nei confronti di un'impresa che ha una succursale nel territorio della Repubblica, puo' provvedere alla pubblicazione della decisione con le modalita' che ritiene piu' opportune. Nella pubblicazione sono specificati l'autorita' che ha emesso il provvedimento, l'autorita' cui e' possibile proporre ricorso nel caso il provvedimento sia soggetto ad impugnazione, la normativa applicabile e il nominativo dell'eventuale amministratore straordinario.
+
+## Art. 238. — Esclusivita' delle procedure di risanamento
+
+All'impresa di assicurazione o di riassicurazione ((non si applicano le disposizioni dei capi I e III del titolo IV del codice della crisi e dell'insolvenza)). ((56))
+                                ((60))
+                                ((64))
+
+All'impresa di assicurazione o di riassicurazione non si applica l'articolo 2409 del codice civile. Se vi e' fondato sospetto che i soggetti con funzioni di amministrazione, in violazione dei propri doveri, abbiano compiuto gravi irregolarita' nella gestione che possano arrecare danno all'impresa ovvero ad una o piu' societa' controllate, l'organo con funzioni di controllo o i soci che il codice civile abilita a presentare denuncia al tribunale possono denunciare i fatti all'IVASS. L'IVASS decide, con provvedimento motivato, nel rispetto dei principi del giusto procedimento.
+
+---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 239. — Imprese di assicurazione di Stati terzi e di imprese di riassicurazione estere
+
+Se un'impresa di assicurazione, che ha sede legale in uno Stato terzo, ha insediato una sede secondaria nel territorio della Repubblica, le misure di risanamento sono disposte nei confronti della sede italiana.
+
+Nei confronti della sede secondaria i commissari esercitano le funzioni ed assumono i poteri di amministrazione spettanti agli organi di amministrazione dell'impresa di appartenenza. Allo stesso modo il comitato di sorveglianza esercita le funzioni di controllo.
+
+Nel caso in cui l'impresa di assicurazione abbia insediato succursali in altri Stati membri, l'((IVASS)) coordina le proprie funzioni con quelle delle autorita' di tali Stati. I commissari collaborano con gli organi designati in altri Stati ove fossero presenti succursali sottoposte ad analoghi procedimenti.
+
+Se un'impresa di riassicurazione, che ha sede legale in uno Stato membro od in uno Stato terzo, ha insediato una sede secondaria nel territorio della Repubblica, le misure di risanamento sono disposte nei confronti della sede italiana. Si applica il comma 2.
+
+Si applicano, in quanto compatibili, le disposizioni del presente capo.
+
+## - - Capo III Decadenza e revoca dell'autorizzazione
+
+## Art. 240. — Decadenza dall'autorizzazione rilasciata all'impresa di assicurazione
+
+Se l'inattivita', la rinuncia o la cessazione dell'attivita' riguardano soltanto alcuni dei rami per i quali l'impresa di assicurazione e' stata autorizzata, la decadenza concerne esclusivamente tali rami.
+
+((
+
+L'IVASS accerta, con provvedimento pubblicato nel Bollettino, la decadenza dall'autorizzazione e, nel caso riguardi il complesso dei rami esercitati, dispone la cancellazione dall'albo delle imprese di assicurazione e di riassicurazione. Il provvedimento e' comunicato dall'IVASS alle autorita' di vigilanza degli altri Stati membri, per l'adozione da parte di tali Autorita' di misure idonee a impedire all'impresa di assicurazione di esercitare l'attivita' sul loro territorio.
+
+))
+
+((
+
+L'IVASS comunica all'AEAP ogni caso in cui un'impresa di assicurazione e riassicurazione decada dall'autorizzazione rilasciata ai fini della pubblicazione nell'elenco dalla stessa tenuto.
+
+))
+
+L'impresa di assicurazione limita l'attivita' alla gestione dei contratti in corso e non assume nuovi affari a far data dalla pubblicazione del provvedimento di decadenza. La medesima disposizione si applica nel caso di decadenza limitata ad uno o piu' rami di attivita'.
+
+Le clausole di tacito rinnovo perdono efficacia con la pubblicazione del provvedimento di decadenza. Nei contratti che hanno durata superiore all'anno il contraente puo' recedere, mediante comunicazione scritta all'impresa, con effetto dalla scadenza della prima annualita' successiva alla pubblicazione del provvedimento di decadenza.
+
+Se la decadenza dall'autorizzazione consegue al verificarsi delle situazioni di cui al comma 1, lettere b), c) ed e), l'((IVASS)), quando ricorrono le condizioni previste all'articolo 245, non adotta il provvedimento di decadenza e propone al ((Ministro dello sviluppo economico)) la revoca dell'autorizzazione e la liquidazione coatta amministrativa dell'impresa di assicurazione.
+
+Le disposizioni del presente articolo si applicano anche all'impresa di assicurazione che ha sede legale in uno Stato terzo e che e' autorizzata ad operare nel territorio della Repubblica con una sede secondaria. Quando l'autorita' di vigilanza dello Stato terzo ha adottato un provvedimento di decadenza nei confronti dell'impresa di assicurazione, analogo provvedimento e' adottato nei confronti della sede secondaria.
+
+## Art. 241. — Liquidazione ordinaria dell'impresa di assicurazione
+
+L'impresa di assicurazione informa tempestivamente l'((IVASS)) del verificarsi di una causa di scioglimento della societa'.
+L'((IVASS)), verificata la sussistenza dei presupposti per la liquidazione ordinaria nei casi previsti all'articolo 240, comma 1, approva, con il provvedimento di decadenza dall'autorizzazione o con altro successivo, la nomina dei liquidatori prima dell'iscrizione nel registro delle imprese degli atti che deliberano o dichiarano lo scioglimento della societa'. Non si puo' dar corso all'iscrizione nel registro delle imprese degli atti che deliberano o dichiarano lo scioglimento della societa' se non consti l'accertamento di cui al presente comma.
+
+((
+
+I liquidatori devono possedere i requisiti di onorabilita', professionalita' e indipendenza stabiliti in attuazione dell'articolo 76. Qualora perdano i relativi requisiti, i liquidatori decadono dalla carica. Se l'assemblea non provvede alla loro sostituzione entro trenta giorni dalla conoscenza del sopravvenuto difetto dei requisiti, l'IVASS propone al Ministro dello sviluppo economico l'adozione del provvedimento di liquidazione coatta amministrativa.
+
+))
+
+La liquidazione si svolge secondo le norme stabilite dal codice civile, ferme restando le disposizioni in materia di riserve tecniche e di attivita' a copertura previste nel titolo III. I liquidatori trasmettono all'((IVASS)) il bilancio annuale redatto secondo le disposizioni previste nel titolo VIII. L'impresa rimane soggetta alla vigilanza dell'((IVASS)) sino alla cancellazione della societa' dal registro delle imprese.
+
+Fermo restando quanto previsto all'articolo 245, se la procedura di liquidazione non si svolge con regolarita' o con speditezza, l'((IVASS)), con provvedimento pubblicato sul Bollettino, puo' disporre la sostituzione dei liquidatori, nonche' dei componenti degli organi di controllo. La sostituzione degli organi non comporta il mutamento della procedura di liquidazione.
+
+Le disposizioni del presente articolo si applicano anche all'impresa di assicurazione che ha sede legale in uno Stato terzo e che e' autorizzata ad operare in stabilimento nel territorio della Repubblica, fermo restando che l'efficacia dei provvedimenti adottati e' limitata alla medesima sede secondaria.
+
+## Art. 242. — Revoca dell'autorizzazione rilasciata all'impresa di assicurazione
+
+L'autorizzazione all'esercizio del ramo della responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti, fermo quanto previsto al comma 1, e' altresi' revocata nel caso di ripetuto o sistematico rifiuto od elusione all'obbligo a contrarre, di cui all'articolo 132, comma 1, o nel caso di ripetuta o sistematica violazione delle disposizioni sulle procedure di liquidazione dei sinistri di cui agli articoli 148 e 149.
+
+La revoca puo' riguardare tutti i rami esercitati dall'impresa di assicurazione o solo alcuni di essi. Si applicano le disposizioni di cui all'articolo 240, commi 4 e 5.
+
+La revoca dell'autorizzazione e' disposta con decreto del Ministro dello sviluppo economico, su proposta dell'IVASS. Se la revoca riguarda tutti i rami esercitati, l'impresa e' contestualmente posta in liquidazione coatta con il medesimo provvedimento e l'IVASS ne dispone la cancellazione dall'albo delle imprese di assicurazione.
+Il Ministro dello sviluppo economico, su proposta dell'IVASS, puo' tuttavia consentire che l'impresa si ponga in liquidazione ordinaria, entro un termine perentorio, quando il provvedimento di revoca sia stato adottato per i motivi indicati al comma 1, lettere a) e b).
+
+Il Ministro dello sviluppo economico, su proposta dell'IVASS, dispone inoltre la liquidazione coatta se l'impresa di assicurazione, nel caso di revoca limitata ad alcuni rami, non osserva le disposizioni di cui all'articolo 240, commi 4 e 5, ovvero quando la deliberazione di scioglimento e la nomina dei liquidatori non sono iscritte nel registro delle imprese nel termine assegnato ai sensi del comma 4.
+
+I decreti del Ministro dello sviluppo economico sono pubblicati nella Gazzetta Ufficiale, sono riprodotti nel Bollettino e sono comunicati dall'IVASS alle autorita' di vigilanza degli altri Stati membri per l'adozione da parte di tali Autorita' di misure idonee a impedire all'impresa di assicurazione di esercitare l'attivita' sul loro territorio.
+
+L'IVASS comunica all'AEAP ogni caso di revoca di autorizzazione ai fini della pubblicazione nell'elenco dalla stessa tenuto.
+
+## Art. 243. — Revoca dell'autorizzazione rilasciata ad un'impresa di assicurazione di uno Stato terzo
+
+La revoca dell'autorizzazione, rilasciata all'impresa di assicurazione che ha sede legale in uno Stato terzo per l'attivita' della sede secondaria nel territorio della Repubblica, e' disposta, in conformita' a quanto previsto dall'articolo 264, comma 1, nei casi e con le modalita' e per gli effetti di cui all'articolo 242.
+
+La revoca e' altresi' disposta quando l'autorita' di vigilanza dello Stato terzo ha adottato nei confronti dell'impresa un provvedimento di revoca dell'autorizzazione all'esercizio delle attivita' assicurative nei rami vita o nei rami danni ovvero quando le autorita' dello Stato membro che controllano lo stato di solvibilita' dell'impresa medesima per il complesso delle operazioni da essa effettuate nel territorio dell'Unione europea hanno adottato analogo provvedimento per deficienze nella costituzione del ((Requisito Patrimoniale di Solvibilita' e del Requisito Patrimoniale Minimo)). Nei casi previsti dal presente comma la revoca e' disposta per il complesso dei rami esercitati.
+
+La revoca puo' altresi' essere disposta quando le autorita' di vigilanza dello Stato nel quale l'impresa ha sede legale hanno operato in violazione della condizione di parita' e reciprocita' di trattamento riservata alle imprese di assicurazione italiane ivi operanti, ovvero quando le medesime autorita' hanno imposto restrizioni alla libera disponibilita' dei beni posseduti in Italia dall'impresa o hanno ostacolato il trasferimento dei capitali necessari all'impresa di assicurazione per il normale esercizio dell'attivita' nel territorio della Repubblica.
+
+L'((IVASS)) puo' tuttavia consentire che l'impresa ponga in liquidazione ordinaria, entro un termine perentorio, la sede secondaria nel territorio della Repubblica quando il provvedimento di revoca e' adottato per i motivi indicati al comma precedente. Il ((Ministro dello sviluppo economico)), su proposta dell'((IVASS)), dispone inoltre la liquidazione coatta della sede secondaria quando la nomina dei liquidatori non e' iscritta nel registro delle imprese nel termine assegnato.
+
+## Art. 244. — Decadenza e revoca dell'autorizzazione rilasciata all'impresa di riassicurazione
+
+La decadenza dall'autorizzazione rilasciata all'impresa di riassicurazione e' disposta nei casi previsti dall'articolo 240, comma 1. Si applicano le disposizioni di cui agli articoli 240, commi 2, 3, ((3-bis,)) 4, 5 e 6, e 241, commi 1, 2, 3 e 4, intendendosi i rinvii come riferiti alla corrispondente disciplina delle imprese di riassicurazione.
+
+La revoca dell'autorizzazione rilasciata all'impresa di riassicurazione e' disposta nei casi previsti dall'articolo 242, comma 1. Si applicano le disposizioni ((di cui all'articolo 242, commi 3, 4, 5, 6 e 7)), intendendosi i rinvii come riferiti alla corrispondente disciplina delle imprese di riassicurazione.
+
+Le disposizioni del presente articolo si applicano anche all'impresa di riassicurazione che ha sede legale in uno Stato terzo e che e' autorizzata ad operare in stabilimento nel territorio della Repubblica, fermo restando che l'efficacia dei provvedimenti adottati e' limitata alla medesima sede secondaria. Quando l'autorita' di vigilanza dell'impresa di riassicurazione ha disposto la decadenza o la revoca dell'autorizzazione all'esercizio delle attivita' riassicurative, analogo provvedimento e' adottato nei confronti della sede secondaria.
+
+## - - Capo IV Liquidazione coatta amministrativa
+
+## Art. 245. — Liquidazione coatta amministrativa
+
+Il Ministro dello sviluppo economico, su proposta dell'IVASS, puo' disporre, con decreto, la revoca dell'autorizzazione all'esercizio dell'attivita' in tutti i rami e la liquidazione coatta amministrativa, anche quando ne sia in corso l'amministrazione straordinaria ovvero la liquidazione secondo le norme ordinarie, qualora le irregolarita' nell'amministrazione o le violazioni delle disposizioni legislative, amministrative o statutarie ovvero le perdite previste siano di eccezionale gravita'.
+
+La liquidazione coatta puo' essere proposta dall'IVASS, con il medesimo procedimento indicato nel comma 1, anche a seguito di istanza motivata degli organi amministrativi, dell'assemblea straordinaria, dei commissari straordinari o dei liquidatori ricorrendo i presupposti di cui al comma 1.
+
+Il decreto del Ministro dello sviluppo economico e la proposta dell'IVASS sono comunicati dai commissari liquidatori agli interessati, che ne facciano richiesta, non prima dell'insediamento.
+
+Dalla data di emanazione del decreto cessano le funzioni degli organi amministrativi e di controllo, nonche' di ogni altro organo dell'impresa che sia ancora in carica. Cessano altresi' le funzioni dell'assemblea dei soci, fatte salve le ipotesi previste dagli articoli 262, comma 1, e 263, comma 2.
+
+La liquidazione si compie sotto la vigilanza dell'IVASS, che si avvale, qualora l'impresa operi attraverso succursali stabilite in altri Stati membri, anche delle autorita' di vigilanza di tali Stati.
+I provvedimenti e la procedura di liquidazione coatta amministrativa di imprese italiane si applicano e producono i loro effetti negli altri Stati membri.
+
+L'IVASS, qualora sia necessario od opportuno ai fini della liquidazione, puo' autorizzare i commissari liquidatori a proseguire operazioni specificamente individuate.
+
+Le imprese di assicurazione e di riassicurazione non sono soggette a procedure concorsuali diverse dalla liquidazione coatta prevista dalle norme del presente capo. Per quanto non espressamente previsto si applicano, se compatibili, le disposizioni ((del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 7 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 7 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 7 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 246. — Organi della procedura
+
+L'((IVASS)) nomina uno o piu' commissari liquidatori ed un comitato di sorveglianza composto da tre a cinque componenti, il cui presidente e' designato nell'atto di nomina. I liquidatori e il comitato di sorveglianza sono nominati per un periodo triennale, rinnovabile senza limiti di tempo tenuto conto dei risultati e dell'operato degli organi della procedura.
+
+L'((IVASS)) puo' revocare o sostituire i commissari ed i componenti del comitato di sorveglianza.
+
+Le indennita' spettanti ai commissari ed ai componenti del comitato di sorveglianza sono determinate dall'((IVASS)) in base ai criteri da esso stabiliti. La spesa e' a carico dell'impresa sottoposta alla procedura.
+
+((
+
+Agli organi della procedura si applicano i requisiti di professionalita' e di onorabilita' ed indipendenza stabiliti in attuazione dell'articolo 76.
+
+))
+
+## Art. 247. — Adempimenti in materia di pubblicita'
+
+I provvedimenti di liquidazione coatta amministrativa sono pubblicati a cura dell'((IVASS)) nella Gazzetta Ufficiale e, per estratto, nella Gazzetta Ufficiale dell'Unione europea e sono altresi' riprodotti nel Bollettino.
+
+L'((IVASS)), qualora sia informato della liquidazione di un'impresa, che opera sul territorio della Repubblica in regime di stabilimento o di libera prestazione di servizi, dall'autorita' di vigilanza dello Stato membro di origine, puo' disporre la pubblicazione della decisione secondo le modalita' che ritiene piu' opportune. Nella pubblicazione e' indicata l'autorita' di vigilanza competente, la legislazione dello Stato membro che trova applicazione e il nominativo del liquidatore. La pubblicazione e' redatta in lingua italiana. I provvedimenti e le procedure di liquidazione di imprese di altri Stati membri sono disciplinati e producono i loro effetti, senza ulteriori formalita', nell'ordinamento italiano secondo la normativa dello Stato di origine.
+
+Entro quindici giorni dalla comunicazione della nomina i commissari depositano in copia l'atto di nomina degli organi della liquidazione per l'iscrizione nel registro delle imprese.
+
+## Art. 248. — Accertamento giudiziario dello stato di insolvenza
+
+Se un'impresa, non sottoposta a liquidazione coatta, si trova in stato di insolvenza, il tribunale del luogo ((dove l'impresa ha il centro degli interessi principali)), su richiesta di uno o piu' creditori ovvero su istanza del pubblico ministero o d'ufficio, sentito l'IVASS e i rappresentanti legali dell'impresa, dichiara lo stato di insolvenza con sentenza in camera di consiglio. Quando l'impresa sia sottoposta ad amministrazione straordinaria, il tribunale dichiara l'insolvenza anche su ricorso dei commissari straordinari, sentiti i commissari stessi, l'IVASS e i cessati rappresentanti legali. Si applicano le disposizioni ((dell'articolo 297 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+Se un'impresa si trova in stato di insolvenza al momento dell'emanazione del provvedimento di liquidazione coatta amministrativa e l'insolvenza non e' stata dichiarata ai sensi del comma 1, il tribunale del luogo ((dove l'impresa ha il centro degli interessi principali)), su ricorso dei commissari liquidatori o su istanza del pubblico ministero o d'ufficio, sentiti l'IVASS, i cessati rappresentanti legali dell'impresa e i commissari se nominati, accerta tale stato con sentenza in camera di consiglio. Si applicano le disposizioni ((dell'articolo 297 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+Nel caso dell'impresa di assicurazione o di riassicurazione lo stato d'insolvenza si manifesta, oltre che nei modi indicati ((nell'articolo 2, comma 1, lettera b), del codice della crisi e dell'insolvenza)), anche nella situazione di notevole, evidente e non transitoria insufficienza delle attivita' patrimoniali necessarie per far fronte agli impegni relativi ai crediti di assicurazione o di riassicurazione. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+La dichiarazione giudiziale dello stato di insolvenza produce gli effetti indicati ((nell'articolo 299 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che le modifiche di cui al presente articolo si applicano "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 1, 2, 3 e 4 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 1, 2, 3 e 4 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 1, 2, 3 e 4 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 249. — Effetti nei confronti dell'impresa, dei creditori e sui rapporti giuridici preesistenti
+
+Dalla data di emanazione del provvedimento che dispone la liquidazione coatta nei confronti dell'impresa non puo' essere promossa o proseguita alcuna azione ne', per qualsiasi titolo, puo' essere parimenti promosso o proseguito alcun atto di esecuzione forzata o cautelare. Per le azioni civili di qualsiasi natura derivanti dalla liquidazione e' competente esclusivamente il tribunale ((dove l'impresa ha il centro degli interessi principali)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+Dalla data del provvedimento di liquidazione si producono gli effetti previsti dalle disposizioni del ((titolo V, capo I, sezione III e V del codice della crisi e dell'insolvenza e dall'articolo 165 del medesimo codice)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che le modifiche di cui al presente articolo si applicano "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 1 e 2 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 1 e 2 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 1 e 2 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 250. — Poteri e funzionamento degli organi liquidatori
+
+I commissari liquidatori hanno la rappresentanza legale dell'impresa, esercitano tutte le azioni ad essa spettanti e procedono alle operazioni di accertamento del passivo e di liquidazione dell'attivo. I commissari, nell'esercizio delle loro funzioni, sono pubblici ufficiali.
+
+Il comitato di sorveglianza assiste i commissari nell'esercizio delle loro funzioni e fornisce pareri nei casi previsti dalla legge o dalle disposizioni previste nel regolamento adottato dall'((IVASS)).
+Il comitato di sorveglianza vigila sulla regolarita' della liquidazione e, a tal fine, periodicamente verifica l'adeguatezza delle procedure amministrative attuate dai commissari e svolge accertamenti sugli atti della liquidazione con particolare riguardo ai rapporti di natura patrimoniale.
+
+L'((IVASS)), in via generale con regolamento o in via particolare con istruzioni specifiche, puo' emanare direttive per lo svolgimento della procedura e puo' stabilire che per talune categorie di operazioni o di atti sia necessaria la preliminare acquisizione del parere del comitato di sorveglianza e l'autorizzazione preventiva dello stesso ((IVASS)). I componenti degli organi della liquidazione sono personalmente responsabili dell'inosservanza delle prescrizioni dell'((IVASS)). Esse sono comunque inopponibili ai terzi che non ne abbiano avuto conoscenza.
+
+I commissari presentano semestralmente all'((IVASS)) una relazione tecnica sulla situazione contabile e patrimoniale dell'impresa e sull'andamento della liquidazione, accompagnata da un rapporto del comitato di sorveglianza. L'((IVASS)) fornisce alle autorita' degli altri Stati membri le informazioni che siano richieste sullo svolgimento della procedura di liquidazione dell'impresa rispetto alla quale e' l'autorita' competente. I commissari informano periodicamente i creditori, secondo le modalita' stabilite dall'((IVASS)), con regolamento, sull'andamento della liquidazione.
+
+L'esercizio dell'azione sociale di responsabilita' e dell'azione dei creditori sociali contro i componenti dei cessati organi amministrativi e di controllo ed il direttore generale, dell'azione contro la societa' di revisione ((...)), nonche' dell'azione del creditore sociale contro la societa' o l'ente che esercita l'attivita' di direzione e coordinamento, spetta ai commissari, sentito il comitato di sorveglianza, previa autorizzazione dell'((IVASS)).
+
+Ai commissari liquidatori e al comitato di sorveglianza si applica l'articolo 234, commi 8 e 9.
+
+I commissari, previa autorizzazione dell'((IVASS)) e con il parere favorevole del comitato di sorveglianza, possono farsi coadiuvare nello svolgimento delle operazioni dalla CONSAP, previa convenzione approvata dal ((Ministero dello sviluppo economico)), ovvero da terzi, ma sotto la propria responsabilita', con oneri a carico della liquidazione. In casi eccezionali, i commissari, previa autorizzazione dell'((IVASS)), possono delegare a terzi il compimento di singoli atti.
+
+## Art. 251. — Adempimenti iniziali
+
+I commissari liquidatori si insediano prendendo in consegna l'azienda dai precedenti organi di amministrazione o di liquidazione ordinaria con un sommario processo verbale. I commissari acquisiscono una situazione dei conti e formano l'inventario. Alle operazioni assiste almeno un componente del comitato di sorveglianza e puo' essere presente un rappresentante dell'((IVASS)).
+
+Si applica l'articolo 235, commi 2 e 4.
+
+## Art. 252. — Accertamento del passivo
+
+Entro sessanta giorni dalla nomina i commissari comunicano a ciascun creditore, mediante consegna diretta, raccomandata con avviso di ricevimento o trasmissione per via telematica, le somme risultanti a credito di ciascuno secondo le scritture e i documenti dell'impresa. La comunicazione s'intende effettuata con riserva di eventuali contestazioni.
+
+La comunicazione e' effettuata all'ultimo indirizzo risultante agli atti dell'impresa. E' onere del creditore interessato, in caso di variazione, informare senza indugio i commissari. Nei confronti dei creditori irreperibili, o per i quali non vi sia prova dell'avvenuta ricezione all'ultimo indirizzo risultante agli atti dell'impresa, la comunicazione e' effettuata presso la cancelleria del tribunale ((dove l'impresa ha il centro degli interessi principali)) mediante inserimento nel fascicolo relativo al deposito dello stato passivo. In tal caso la comunicazione puo' essere redatta in un unico documento. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+L'informazione iniziale ai creditori che hanno la residenza abituale, il domicilio o la sede legale in uno Stato membro diverso dalla Repubblica, comprese le pubbliche amministrazioni di tali Stati, avviene con le modalita' indicate all'articolo 253.
+
+L'IVASS puo' stabilire ulteriori forme di pubblicita' allo scopo di rendere nota la scadenza dei termini per la presentazione delle domande di insinuazione al passivo da parte di coloro che non hanno ricevuto la comunicazione di cui al comma 1.
+
+Entro trenta giorni dal ricevimento della raccomandata, i creditori possono presentare o inviare, mediante raccomandata con avviso di ricevimento, i loro reclami ai commissari, allegando i documenti giustificativi. Negli stessi termini e modalita' i creditori che hanno la residenza abituale, il domicilio o la sede legale in un altro Stato membro, comprese le pubbliche amministrazioni, hanno diritto a presentare i loro reclami.
+
+Entro novanta giorni dalla pubblicazione del provvedimento di liquidazione nella Gazzetta Ufficiale i creditori che non abbiano ricevuto la comunicazione prevista dai commi 1 e 3 possono chiedere ai commissari, mediante raccomandata con avviso di ricevimento, il riconoscimento dei propri crediti, presentando i documenti atti a provare l'esistenza, la specie e l'entita' dei propri diritti. Con le stesse modalita' e termini, salvo che l'ammissione non avvenga d'ufficio, i creditori che hanno la residenza abituale, il domicilio o la sede legale in un altro Stato membro, comprese le pubbliche amministrazioni, inviano ai commissari copia dei documenti giustificativi di cui sono in possesso e indicano la natura del credito, la data in cui e' sorto e il relativo importo. I medesimi creditori segnalano, inoltre, se diversi dagli assicurati e dagli altri aventi diritto a prestazioni assicurative, gli eventuali privilegi e i beni che li garantiscono.
+
+I commissari, trascorso il termine previsto dal comma precedente e non oltre i novanta giorni successivi, presentano all'IVASS l'elenco dei creditori ammessi e delle somme riconosciute a ciascuno, indicandone i diritti e l'ordine di prelazione, e l'elenco di coloro cui e' stato negato il riconoscimento delle pretese. E' accordato ai creditori, persone fisiche o giuridiche, che hanno residenza abituale, domicilio o la sede legale in un altro Stato membro, incluse le pubbliche amministrazioni, lo stesso trattamento e lo stesso grado di privilegio dei creditori italiani.
+
+Nei medesimi termini previsti dal comma 7 i commissari depositano, dopo averne data comunicazione all'IVASS, nella cancelleria del tribunale ((dove l'impresa ha il centro degli interessi principali)), a disposizione degli aventi diritto, gli elenchi dei creditori ammessi con l'indicazione delle somme riconosciute e di coloro ai quali e' stato negato il riconoscimento delle pretese. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+Successivamente i commissari, con le stesse modalita' di cui al comma 1, comunicano senza indugio a coloro ai quali e' stato negato in tutto o in parte il riconoscimento delle pretese, la decisione presa nei loro riguardi. Dell'avvenuto deposito dello stato passivo e' dato avviso tramite pubblicazione nel Bollettino.
+
+Espletati gli adempimenti indicati nei commi 7 e 8, lo stato passivo diventa esecutivo.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applicano "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 2 e 8 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 2 e 8 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica dei commi 2 e 8 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 253. — Informazione iniziale ai creditori noti di altri Stati membri
+
+All'apertura della procedura di liquidazione i commissari informano per iscritto mediante raccomandata con avviso di ricevimento, senza indugio e individualmente, i creditori noti che hanno la residenza abituale, il domicilio o la sede legale in un altro Stato membro.
+
+L'avviso indica i termini da rispettare per ottenere il riconoscimento del credito e degli eventuali privilegi, gli effetti derivanti dal loro mancato rispetto, i soggetti legittimati a ricevere la richiesta di insinuazione dei crediti, ove tale adempimento sia dovuto, i termini e le modalita' di presentazione dei reclami previsti dall'articolo 252, comma 5, e delle opposizioni previste dall'articolo 254, comma 1. L'avviso indica, inoltre, che i creditori privilegiati o assistiti da una garanzia reale devono insinuare il credito. Per i crediti di assicurazione la comunicazione indica, altresi', gli effetti della liquidazione sui contratti ed in particolare la data dalla quale i contratti cessano di produrre i loro effetti, nonche' i diritti e gli obblighi dell'assicurato rispetto al contratto medesimo.
+
+Le comunicazioni di cui ai commi 1 e 2 sono effettuate in lingua italiana e recano un'intestazione in tutte le lingue ufficiali dell'Unione europea volta a chiarire la natura e lo scopo delle comunicazioni stesse.
+
+Per i soggetti di cui al comma 1 i termini indicati dagli articoli 252, comma 5, e 254, comma 1, sono raddoppiati. Il termine indicato nell'articolo 252, comma 6, decorre dalla pubblicazione nella Gazzetta ufficiale dell'Unione europea prevista dall'articolo 247, comma 1.
+
+L'((IVASS)) determina, con regolamento, il contenuto, la lingua e lo schema dei formulari da adottare per l'informazione dei creditori.
+
+## Art. 254. — Opposizione allo stato passivo ed impugnazione dei crediti ammessi
+
+Possono proporre opposizione allo stato passivo, i creditori esclusi o ammessi con riserva, entro quindici giorni dal ricevimento della comunicazione prevista dall'articolo 252, comma 9.
+
+L'opposizione e' disciplinata ((dagli articoli 206 e 207 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 2 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 255. — Appello
+
+Contro la sentenza del tribunale che decide sulle cause di opposizione puo' essere proposto appello, anche dai commissari, entro il termine di quindici giorni dalla data di notificazione della stessa, osservandosi per il giudizio di appello le disposizioni previste ((dal codice della crisi e dell'insolvenza)) e dal codice di procedura civile. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 256. — Insinuazioni tardive
+
+Dopo il deposito dello stato passivo e fino a quando non siano esauriti tutti i riparti, i creditori e i titolari di diritti reali sui beni in possesso dell'impresa, che non abbiano ricevuto la comunicazione ai sensi dell'articolo 252, comma 1, e non risultino inclusi nello stato passivo, possono chiedere di far valere i loro diritti secondo quanto previsto ((dagli articoli 206 e 207 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+Tali soggetti sopportano le spese conseguenti al ritardo della domanda, salvo che il ritardo stesso non sia ad essi imputabile. Si applica il disposto dell'articolo 260, comma 5.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 257. — Liquidazione dell'attivo
+
+I commissari hanno tutti i poteri occorrenti per realizzare l'attivo, salve le limitazioni stabilite dall'autorita' che vigila sulla liquidazione. Per gli atti previsti ((dall'articolo 132 del codice della crisi e dell'insolvenza)), in deroga ((a quanto disposto dall'articolo 307, comma 2, del medesimo codice)), i commissari acquisiscono preventivamente il parere del comitato di sorveglianza e provvedono nel rispetto delle direttive che sono stabilite dall'IVASS in via generale con regolamento o che sono prescritte in via particolare con istruzioni specifiche. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+I commissari, con il parere favorevole del comitato di sorveglianza e previa autorizzazione dell'IVASS, possono cedere le attivita' e le passivita', l'azienda, rami d'azienda, nonche' beni e rapporti giuridici individuabili in blocco. La cessione puo' avvenire in qualsiasi stadio della procedura, anche prima del deposito dello stato passivo. Il cessionario risponde comunque delle sole passivita' risultanti dall'atto di cessione.
+
+I commissari possono trasferire il portafoglio, nella sua totalita' o per singoli rami e senza che il trasferimento sia causa di scioglimento dei contratti di assicurazione ceduti, ad altra impresa che disponga di adeguate risorse patrimoniali entro sessanta giorni dalla pubblicazione del provvedimento di liquidazione mediante convenzione approvata dall'IVASS e pubblicata nel Bollettino. I rischi sono assunti dall'impresa cessionaria alla scadenza del termine di sessanta giorni.
+
+Per tutto il periodo di tempo relativo ai premi pagati i contratti di assicurazione in corso non possono essere disdettati dall'impresa cessionaria a pena di nullita' della disdetta.
+
+Anche ai fini dell'eventuale esecuzione di riparti agli aventi diritto, i commissari possono contrarre mutui, effettuare altre operazioni finanziarie passive e costituire in garanzia attivita' aziendali, secondo le prescrizioni e le cautele disposte dal comitato di sorveglianza e previa autorizzazione dell'IVASS.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 258. — (Trattamento dei crediti derivanti da contratti di assicurazione o da contratti di riassicurazione)
+
+Gli attivi a copertura delle riserve tecniche dei rami vita e dei rami danni, che alla data del provvedimento di liquidazione coatta risultano iscritti nell'apposito registro, sono riservati in via prioritaria al soddisfacimento delle obbligazioni derivanti dai contratti ai quali essi si riferiscono.
+
+Dalla pubblicazione del provvedimento di liquidazione, o dalla notifica all'impresa di assicurazione o di riassicurazione se anteriore, la composizione degli attivi indicati nel registro ed il registro medesimo non possono essere modificati dai commissari, ad eccezione della correzione di meri errori materiali, senza l'autorizzazione dell'IVASS. I commissari includono nel registro, in deroga al vincolo di immodificabilita', i proventi finanziari maturati sugli attivi, nonche' l'importo dei premi incassati nel periodo compreso fra l'apertura della liquidazione e il pagamento dei crediti di assicurazione e di riassicurazione o, nel caso di trasferimento del portafoglio, fino alla data del trasferimento stesso. Se il ricavato della liquidazione degli attivi e' inferiore alla valutazione indicata nel registro, i commissari sono tenuti a darne giustificazione all'IVASS.
+
+Gli impegni risultanti dalla partecipazione ad un contratto di coassicurazione comunitaria sono soddisfatti alla stessa stregua degli impegni risultanti dagli altri contratti di assicurazione senza distinzione di nazionalita' per quanto riguarda gli aventi diritto alle prestazione assicurative.
+
+Se gli attivi a copertura delle riserve tecniche relative ai contratti di assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti risultano insufficienti per soddisfare tutti i crediti indicati nel comma 4, si applicano le disposizioni previste dal capo I del titolo XVII.
+
+Al pagamento dei crediti di cui ai commi 3 e 4 va anteposto il pagamento delle spese di cui ((all'articolo 221, comma 1, lettera a), del codice della crisi e dell'insolvenza)). Le medesime spese gravano proporzionalmente sulle attivita' di ogni specie ancorche' assistite da privilegio o ipoteca. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+In caso di liquidazione coatta amministrativa dell'impresa di riassicurazione, gli impegni derivanti dai contratti conclusi da una succursale o in regime di libera prestazione di servizi sono adempiuti alla stregua degli impegni derivanti dagli altri contratti di riassicurazione.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 6 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 6 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 6 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 259. — (( Ulteriori disposizioni per il trattamento dei crediti derivanti da contratti di riassicurazione ))
+
+In caso di liquidazione coatta amministrativa del riassicurato si applica l'articolo 1930 del codice civile.
+
+In caso di liquidazione coatta amministrativa dell'impresa del riassicuratore o del riassicurato si applica l'articolo 1931 del codice civile.
+
+## Art. 260. — Ripartizione dell'attivo
+
+I commissari procedono, secondo l'ordine stabilito ((dall'articolo 221 del codice della crisi e dell'insolvenza)), alla ripartizione dell'attivo liquidato. Le indennita' e i rimborsi spettanti agli organi della procedura di amministrazione straordinaria e ai commissari della gestione provvisoria che abbiano preceduto la liquidazione coatta amministrativa sono equiparate alle spese indicate ((nell'articolo 221, comma 1, lettera a), del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+I commissari, sentito il comitato di sorveglianza e previa autorizzazione dell'IVASS, possono distribuire acconti o eseguire riparti parziali, sia a favore di tutti gli aventi diritto sia a favore di talune categorie di essi, anche prima che siano realizzate tutte le attivita' e accertate tutte le passivita'.
+
+Nell'effettuare i riparti, i commissari, in presenza di pretese di creditori o di altri interessati per le quali non sia stata definita l'ammissione allo stato passivo, accantonano le somme corrispondenti ai riparti non effettuati a favore di ciascuno di detti soggetti, al fine della distribuzione agli stessi nel caso di riconoscimento dei diritti o, in caso contrario, della loro liberazione a favore degli altri aventi diritto.
+
+Nei casi previsti dal comma 3, i commissari, con il parere favorevole del comitato di sorveglianza e previa autorizzazione dell'IVASS, possono acquisire idonee garanzie in sostituzione degli accantonamenti.
+
+La presentazione oltre i termini dei reclami e delle domande previste dall'articolo 252, commi 5 e 6, fa concorrere solo agli eventuali riparti successivi, nei limiti in cui le pretese sono accolte dai commissari o, dopo il deposito dello stato passivo, dal giudice in sede di opposizione.
+
+Coloro che hanno proposto insinuazione tardiva, ai sensi dell'articolo 256, concorrono solo ai riparti eseguiti dopo la presentazione del ricorso.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 261. — Adempimenti finali
+
+Liquidato l'attivo e prima dell'ultimo riparto ai creditori, i commissari sottopongono il bilancio finale di liquidazione, il rendiconto finanziario e il piano di riparto, accompagnati da una relazione propria e da quella del comitato di sorveglianza, all'((IVASS)), che ne autorizza il deposito presso la cancelleria del tribunale.
+
+Dell'avvenuto deposito e' data notizia mediante pubblicazione nel Bollettino. L'((IVASS)) puo' stabilire forme integrative di pubblicita'.
+
+Nel termine di venti giorni dalla data di pubblicazione nel Bollettino, gli interessati possono proporre le loro contestazioni con ricorso al tribunale. Si applicano le disposizioni dell'articolo 254, commi 1 e 2.
+
+Decorso il termine indicato senza che siano state proposte contestazioni ovvero definite queste ultime con sentenza passata in giudicato, i commissari liquidatori provvedono al riparto finale in conformita' di quanto previsto dall'articolo 260.
+
+Le somme che non possono essere distribuite vengono depositate nei modi stabiliti dall'((IVASS)) per il successivo versamento agli aventi diritto, fatta salva la facolta' prevista dall'articolo 260, comma 4.
+
+Si applicano le disposizioni del codice civile in materia di liquidazione delle societa' di capitali relative alla cancellazione della societa' e al deposito dei libri sociali.
+
+La pendenza di ricorsi e giudizi, ivi compreso quello di accertamento dello stato di insolvenza, non preclude l'effettuazione degli adempimenti finali previsti ai commi da 1 a 6 e la chiusura della procedura di liquidazione coatta amministrativa. Tale chiusura e' subordinata all'esecuzione di accantonamenti o all'acquisizione di garanzie ai sensi dell'articolo 260, commi 3 e 4.
+
+Successivamente alla chiusura della procedura di liquidazione coatta, i commissari liquidatori mantengono la legittimazione processuale, anche nei successivi stati e gradi dei giudizi in corso.
+Ai commissari liquidatori, nello svolgimento delle attivita' connesse ai giudizi, si applicano i commi 2 e 3 dell'articolo 233, il comma 8 dell'articolo 234 ed i commi 1, 3 e 7 dell'articolo 250.
+
+Nei casi di cessione ai sensi dell'articolo 257, commi 2 e 3, i commissari sono estromessi, su propria istanza, dai giudizi relativi ai rapporti oggetto della cessione nei quali sia subentrato il cessionario.
+
+## Art. 262. — Concordato
+
+In qualsiasi stadio della procedura di liquidazione coatta, i commissari, con il parere del comitato di sorveglianza, ovvero l'impresa ai sensi ((dell'articolo 265, comma 2, del codice della crisi e dell'insolvenza)), con il parere degli organi liquidatori, possono proporre un concordato al tribunale ((dove l'impresa ha il centro degli interessi principali)). La proposta di concordato e' autorizzata dall'IVASS. ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+La proposta di concordato indica la percentuale offerta ai creditori chirografari, il tempo del pagamento e le eventuali garanzie.
+
+La proposta di concordato e il parere degli organi liquidatori sono depositati nella cancelleria del tribunale. L'IVASS puo' stabilire altre forme di pubblicita'.
+
+Entro trenta giorni dal deposito, gli interessati possono proporre opposizione con ricorso depositato nella cancelleria, che viene comunicato ai commissari. In assenza di opposizioni il concordato diventa esecutivo.
+
+In caso di opposizione il tribunale decide con sentenza in camera di consiglio sulla proposta di concordato, tenendo conto del parere reso dall'IVASS. La sentenza e' pubblicata mediante deposito in cancelleria e nelle altre forme stabilite dal tribunale. Del deposito viene data comunicazione ai commissari e agli opponenti con biglietto di cancelleria. Si applica l'articolo 254.
+
+Durante la procedura di concordato i commissari possono procedere a parziali distribuzioni dell'attivo ai sensi dell'articolo 260.
+
+Alla proposta di concordato e all'intervento nella procedura in qualita' di assuntore del concordato medesimo e' legittimata, previa autorizzazione del Ministro dello sviluppo economico, la CONSAP.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 263. — Esecuzione del concordato e chiusura della procedura
+
+I commissari, con l'assistenza del comitato di sorveglianza, sovrintendono all'esecuzione del concordato secondo le direttive che sono stabilite dall'IVASS in via generale con regolamento o che sono prescritte in via particolare con istruzioni specifiche.
+
+Eseguito il concordato, i commissari convocano l'assemblea dei soci perche' sia deliberata la modifica dell'oggetto sociale in relazione alla revoca dell'autorizzazione all'attivita' assicurativa o riassicurativa. Nel caso in cui non abbia luogo la modifica dell'oggetto sociale, i commissari procedono agli adempimenti per la cancellazione della societa' e il deposito dei libri sociali previsti dalle disposizioni del codice civile in materia di scioglimento e liquidazione delle societa' di capitali.
+
+((Si applicano gli articoli 250 e 251 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 264. — Imprese di assicurazione di Stati terzi e imprese di riassicurazione estere
+
+Se un'impresa di assicurazione, che ha sede legale in uno Stato terzo, ha insediato una succursale nel territorio della Repubblica, la liquidazione coatta e' disposta nei confronti della sede italiana.
+Si applica l'articolo 240, comma 3.
+
+Se un'impresa di riassicurazione, che ha sede legale ((in uno Stato Membro o)) in uno Stato terzo, ha insediato una sede secondaria nel territorio della Repubblica, la liquidazione coatta e' disposta nei confronti della sede italiana. Si applica l'articolo 240, comma 3.
+
+Si applicano, in quanto compatibili, le disposizioni del presente capo.
+
+## Art. 265. — Liquidazione coatta di imprese non autorizzate
+
+Il Ministro dello sviluppo economico, su proposta dell'IVASS, dispone la liquidazione coatta dell'impresa che esercita l'attivita' di assicurazione o di riassicurazione senza essere stata autorizzata.
+
+Nel caso di assoluta mancanza di attivita' da liquidare l'IVASS procede alla nomina dei commissari, solo previa motivata richiesta da parte dei creditori o di altri soggetti interessati che venga presentata nel termine perentorio di sessanta giorni dalla data di pubblicazione del provvedimento di liquidazione. In tal caso i commissari possono chiedere all'IVASS, dopo aver provveduto al deposito dello stato passivo, l'autorizzazione a chiudere la liquidazione senza ulteriori formalita'.
+
+Si osservano le disposizioni di cui ((all'articolo 313 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 3 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## - - Capo V Responsabilita' per illecito amministrativo dipendente da reato
+
+## Art. 266. — Responsabilita' per illecito amministrativo dipendente da reato
+
+Il pubblico ministero che iscrive, ai sensi dell'articolo 55 del decreto legislativo 8 giugno 2001, n. 231, nel registro delle notizie di reato un illecito amministrativo a carico di un'impresa di assicurazione o di riassicurazione ne da' comunicazione all'((IVASS)). Nel corso del procedimento, ove il pubblico ministero ne faccia richiesta, viene sentito l'((IVASS)), che ha facolta' di presentare relazioni scritte.
+
+In ogni grado del giudizio di merito, prima della sentenza, il giudice dispone, anche d'ufficio, l'acquisizione dall'((IVASS)) di aggiornate informazioni sulla situazione dell'impresa, con particolare riguardo alla struttura organizzativa e di controllo.
+
+La sentenza irrevocabile che irroga nei confronti di un'impresa di assicurazione o di riassicurazione le sanzioni interdittive previste dall'articolo 9, comma 2, lettere a) e b), del decreto legislativo 8 giugno 2001, n. 231, decorsi i termini per la conversione delle sanzioni medesime, e' trasmessa per l'esecuzione dall'autorita' giudiziaria all'((IVASS)). A tal fine l'((IVASS)) puo' proporre o adottare gli atti previsti dai capi II, III e IV, avendo presenti le caratteristiche della sanzione irrogata e le preminenti finalita' di salvaguardia della stabilita' e di tutela degli assicurati e degli altri aventi diritto a prestazioni assicurative.
+
+Le sanzioni interdittive indicate nell'articolo 9, comma 2, lettere a) e b), del decreto legislativo 8 giugno 2001, n. 231, non possono essere applicate in via cautelare alle imprese di assicurazione o di riassicurazione. Alle medesime non si applica, altresi', l'articolo 15 del decreto legislativo 8 giugno 2001, n. 231.
+
+Il presente articolo si applica, in quanto compatibile, alle sedi secondarie italiane di imprese di altri Stati membri o di Stati terzi.
+
+## - - Capo VI Effetti delle misure di risanamento e di liquidazione dell'impresa di assicurazione adottate da altri Stati membri
+
+## Art. 267. — Rapporti di lavoro, contratti su beni immobili navi e aeromobili, strumenti finanziari
+
+Agli atti a titolo oneroso, stipulati successivamente all'adozione di un provvedimento di risanamento o di una procedura di liquidazione, per effetto dei quali l'impresa di assicurazione disponga di un bene immobile, di una nave o di un aeromobile soggetti all'iscrizione in pubblico registro ovvero di strumenti finanziari la cui esistenza o il cui trasferimento presuppongono l'iscrizione in un registro pubblico o l'immissione in un sistema di deposito accentrato, si applica la legge italiana se, rispettivamente, l'immobile e' situato nel territorio della Repubblica, i pubblici registri della nave o dell'aeromobile ovvero il registro o il sistema di deposito accentrato degli strumenti finanziari sono disciplinati dalla legge italiana.
+
+## Art. 268. — Diritti reali di terzi su beni situati nel territorio della Repubblica
+
+L'adozione di un provvedimento di risanamento o di una procedura di liquidazione, da parte di un altro Stato membro nei confronti di un'impresa di assicurazione che ha sede legale in tale Stato, non pregiudica i diritti reali di terzi su beni, mobili o immobili, siano essi beni determinati o universalita' di beni indeterminati, di proprieta' dell'impresa di assicurazione che si trovano nel territorio della Repubblica.
+
+E' assimilato ad un diritto reale il diritto, iscritto in pubblico registro e opponibile a terzi, che consenta di ottenere un diritto reale ai sensi del comma 1.
+
+La disposizione di cui al comma 1 non osta alle azioni di nullita', annullamento o di inopponibilita' degli atti pregiudizievoli per la massa dei creditori previste dalla legislazione dello Stato membro dell'impresa nei confronti della quale e' stata adottata la misura di risanamento o di liquidazione.
+
+## Art. 269. — Diritti del venditore, in caso di riserva di proprieta' sul bene situato nel territorio della Repubblica
+
+L'adozione di un provvedimento di risanamento o di una procedura di liquidazione, da parte di un altro Stato membro nei confronti di un'impresa di assicurazione che ha sede legale in tale Stato e che ha stipulato un contratto preliminare di acquisto ovvero un contratto di acquisto con patto di riservato dominio di un bene, non pregiudica i diritti del venditore fondati sulla riserva di proprieta', allorche' il bene si trovi, al momento dell'adozione del provvedimento o dell'apertura della procedura, nel territorio della Repubblica.
+
+L'adozione di un provvedimento di risanamento o di una procedura di liquidazione da parte di un altro Stato membro nei confronti di un'impresa di assicurazione che ha sede legale in tale Stato e che ha stipulato un contratto di cui al comma 1, la cui consegna si sia verificata prima dell'adozione dei provvedimenti stessi, non costituisce causa di scioglimento del contratto e non impedisce che l'acquirente ne acquisti la proprieta' dietro pagamento o adempimento delle obbligazioni pattuite, qualora tale bene si trovi in tale momento nel territorio della Repubblica.
+
+Le disposizioni di cui ai commi precedenti non ostano alle azioni di nullita', di annullamento o di inopponibilita' degli atti pregiudizievoli per la massa dei creditori previste dalla legislazione dello Stato membro dell'impresa nei confronti della quale e' stata adottata la misura di risanamento o di liquidazione.
+
+## Art. 270. — Diritto alla compensazione nei rapporti con l'impresa di assicurazione
+
+L'adozione di un provvedimento di risanamento o di una procedura di liquidazione, da parte di un altro Stato membro nei confronti di un'impresa di assicurazione che ha sede legale in tale Stato, non pregiudica il diritto del creditore di invocare la compensazione nei rapporti con l'impresa di assicurazione secondo quanto previsto ((all'articolo 155 del codice della crisi e dell'insolvenza)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+La disposizione di cui al comma 1 non osta alle azioni di annullamento, di nullita' o di inopponibilita' degli atti pregiudizievoli per la massa dei creditori previste dalla legislazione dello Stato membro dell'impresa nei confronti della quale e' stata adottata la misura di risanamento o di liquidazione.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 271. — Operazioni effettuate in mercati regolamentati italiani
+
+Fermo quanto disposto dall'articolo 268, in caso di adozione di un provvedimento di risanamento o di una procedura di liquidazione, da parte di un altro Stato membro nei confronti di un'impresa di assicurazione che ha sede legale in tale Stato, restano soggetti alla legge italiana i diritti e gli obblighi, nei confronti dell'impresa di assicurazione, relativi alle operazioni di compensazione e novazione, al riacquisto ed alle cessioni con patto di riacquisto, nonche' ad ogni altra operazione effettuata in mercati regolamentati di strumenti finanziari autorizzati in Italia in conformita' al testo unico dell'intermediazione finanziaria, compresa la possibilita' di esperire le azioni di nullita', di annullamento o di inopponibilita' dei pagamenti o delle transazioni, pregiudizievoli per la massa dei creditori.
+
+## Art. 272. — Condizione di proponibilita' delle azioni relative agli atti pregiudizievoli
+
+L'azione di annullamento, di nullita' o di inopponibilita', fondata su disposizioni previste dalla legislazione dello Stato membro nel quale ha sede legale l'impresa di assicurazione nei confronti della quale e' stata adottata la misura di risanamento o di liquidazione, e' improponibile o improcedibile nei confronti di chi, avendo beneficiato dell'atto pregiudizievole per la massa dei creditori, prova che tale atto e' soggetto alla legge di uno Stato membro diverso da quello dove ha sede legale l'impresa e che la legge applicabile alla fattispecie non consente di impugnare l'atto con alcun mezzo.
+
+## Art. 273. — Cause pendenti relative allo spoglio di beni dell'impresa di assicurazione
+
+Gli effetti di un provvedimento di risanamento o di una procedura di liquidazione, adottati da un altro Stato membro nei confronti di un'impresa di assicurazione che ha sede legale in tale Stato, su un giudizio pendente in Italia relativo alla rivendica di beni, nonche' di diritti sugli stessi, dell'impresa di assicurazione sono regolati dalla legge italiana.
+
+## Art. 274. — Riconoscimento e poteri dei commissari e dei liquidatori
+
+I commissari o i liquidatori, nominati dall'autorita' dello Stato membro nel quale ha sede legale l'impresa di assicurazione assoggettata ad un provvedimento di risanamento o ad una procedura di liquidazione, che intendano agire nel territorio della Repubblica, per l'esercizio delle relative funzioni, sono tenuti a documentare la nomina con la presentazione di una copia, conforme all'originale, rilasciata dall'autorita' che ha emesso il provvedimento o mediante qualsiasi altra certificazione resa dalla competente autorita' dello stesso Stato. Ai medesimi commissari o ai liquidatori puo' essere richiesta una traduzione nella lingua italiana della documentazione di cui al presente comma.
+
+Possono essere designati, in base alla legge dello Stato membro di origine dell'impresa di assicurazione, persone incaricate di assistere o, all'occorrenza, di rappresentare i commissari o i liquidatori nello svolgimento dei compiti derivanti dal provvedimento di risanamento o della procedura di liquidazione nel territorio della Repubblica con particolare riferimento ai rapporti con i creditori italiani.
+
+Fermo restando quanto disposto dal comma 4, i commissari e i liquidatori esercitano nel territorio della Repubblica gli stessi poteri che hanno il diritto di esercitare nello Stato membro di origine dell'impresa di assicurazione, ma non possono svolgere compiti riservati alla forza pubblica o funzioni attribuite alla magistratura.
+
+I commissari e i liquidatori nominati dall'autorita' dello Stato membro di origine dell'impresa di assicurazione sono tenuti, nell'esercizio delle loro funzioni nel territorio della Repubblica, al rispetto della legge italiana in particolare per quanto attiene alle modalita' di realizzazione degli attivi e alla disciplina dei rapporti di lavoro subordinato con particolare riguardo all'informazione dei dipendenti. I commissari o i liquidatori nominati dall'autorita' dello Stato membro di origine dell'impresa di assicurazione, nonche' ogni altro soggetto autorizzato dalle medesime autorita', possono chiedere, fermi restando eventuali specifici obblighi di pubblicita' previsti dalla legge italiana, che un provvedimento di risanamento o la decisione di apertura di una procedura di liquidazione sia annotata nei registri immobiliari, nel registro delle imprese o in altro pubblico registro italiano.
+
+## - - ((Capo VIbis Fondo fi garanzia assicurativo dei rami vita))
+
+## Art. 274-bis. — (( (Definizioni) ))
+
+((
+
+))
+
+## Art. 274-ter. — (( (Soggetti aderenti e natura del Fondo di garanzia assicurativo dei rami vita) ))
+
+((
+
+Le imprese di assicurazione italiane autorizzate ad esercitare l'attivita' in uno o piu' dei rami vita e gli iscritti al registro di cui all'articolo 109, quando l'importo dei premi annui, raccolti o intermediati, nei rami vita e' pari o superiore a 50 milioni di euro, aderiscono al Fondo di garanzia assicurativo dei rami vita.
+
+Le succursali di imprese di assicurazione extracomunitarie autorizzate ad esercitare l'attivita' in uno o piu' dei rami vita in Italia aderiscono al Fondo di garanzia assicurativo dei rami vita italiano salvo che partecipino a un sistema di garanzia assicurativo estero equivalente almeno con riferimento al livello e all'ambito di copertura.
+
+Il Fondo di garanzia assicurativo dei rami vita ha natura di diritto privato; le risorse finanziarie per il perseguimento delle sue finalita' sono fornite dagli aderenti in conformita' a quanto previsto dal presente capo.
+
+L'IVASS determina, con regolamento, la pubblicita' e le comunicazioni che gli aderenti sono tenuti a effettuare per informare i clienti della garanzia sulle coperture assicurative emesse.
+
+Il Fondo di garanzia assicurativo dei rami vita puo' consentire l'adesione ad esso delle succursali di imprese di assicurazione comunitarie che operano in Italia in uno o piu' dei rami vita o alle imprese comunitarie che operano in Italia in uno o piu' dei rami vita in regime di libera prestazione di servizi.
+
+))
+
+## Art. 274-quater. — (( (Dotazione finanziaria del Fondo di garanzia assicurativo dei rami vita) ))
+
+((
+
+Il Fondo ha una dotazione finanziaria proporzionata alle proprie passivita' e comunque pari almeno allo 0,4 per cento dell'importo delle riserve tecniche dei rami vita, calcolate secondo le disposizioni di cui al titolo III, capo II, o secondo un regime di solvibilita' ritenuto equivalente conformemente all'ordinamento dell'Unione europea, detenute dalle imprese aderenti al 31 dicembre dell'anno precedente.
+
+In fase di prima applicazione, il livello obiettivo indicato al comma 1 e' raggiunto, in modo graduale, a partire dal 1° gennaio 2024 ed entro il 31 dicembre 2035. Il termine puo' essere prorogato ulteriormente, fino ad un massimo di due anni, con decreto del Ministero dell'economia e delle finanze.
+
+Se, dopo la data prevista al comma 2, la dotazione finanziaria si riduce al di sotto del livello indicato al comma 1, essa e' ripristinata mediante il versamento di contributi periodici. Il ripristino avviene entro tre anni, se la dotazione finanziaria si riduce a meno di due terzi del livello di cui al comma 1.
+
+La dotazione finanziaria costituisce un patrimonio autonomo, distinto a tutti gli effetti dal patrimonio del Fondo di garanzia assicurativo dei rami vita e da quello di ciascun aderente, nonche' da ogni altro fondo eventualmente istituito presso lo stesso Fondo.
+Delle obbligazioni contratte in relazione agli interventi e ai finanziamenti disciplinati dal presente capo il Fondo risponde esclusivamente con la propria dotazione finanziaria. Salvo quanto previsto dal presente capo, su di essa non sono ammesse azioni dei creditori del Fondo o nell'interesse di quest'ultimo, ne' quelle dei creditori dei singoli aderenti o degli altri fondi eventualmente istituiti presso lo stesso Fondo.
+
+))
+
+## Art. 274-quinquies. — (( (Finanziamento del Fondo di garanzia assicurativo dei rami vita e investimento delle risorse) ))
+
+((
+
+))
+
+((2. I contributi dovuti dalle imprese aderenti sono proporzionati all'ammontare degli impegni assunti nei confronti degli assicurati e al profilo di rischio delle imprese e rappresentano almeno i quattro quinti della contribuzione annuale degli aderenti. Essi possono essere determinati dal Fondo sulla base dei propri metodi interni di valutazione del rischio. L'IVASS approva i metodi interni. In fase di prima applicazione i contributi dovuti dalle imprese di assicurazione aderenti sono pari allo 0,4 per mille dell'importo delle riserve tecniche dei rami vita calcolate secondo le disposizioni di cui al titolo III, capo II, o secondo un regime di solvibilita' ritenuto equivalente conformemente all'ordinamento dell'Unione europea.))
+
+((72))
+
+((3. I contributi dovuti dagli intermediari aderenti sono determinati in relazione al volume complessivo dei prodotti vita intermediati e ai ricavi ad essi associati e rappresentano non oltre un quinto della contribuzione annuale. In fase di prima applicazione i contributi dovuti dagli intermediari di cui all'articolo 109, comma 2, lettera d), sono pari allo 0,1 per mille dell'importo delle riserve tecniche vita intermediate e i contributi dovuti dagli intermediari aderenti di cui all'articolo 109, comma 2, lettere a), b) e c), sono pari allo 0,1 per mille della raccolta premi vita intermediata nell'anno precedente.))
+
+((72))
+
+((
+
+Il Fondo di garanzia assicurativo dei rami vita, se deve procedere al pagamento delle prestazioni protette e la dotazione finanziaria e' insufficiente, chiede agli aderenti di integrarla mediante il versamento di contributi straordinari non superiori allo 0,5 per cento delle riserve tecniche dei rami vita per le imprese aderenti e non superiore allo 0,5 per mille delle medesime riserve tecniche per gli intermediari aderenti.
+
+L'IVASS puo' disporre il differimento, in tutto o in parte, del pagamento dei contributi di cui ai commi 2, 3 e 4 da parte degli aderenti se il pagamento ne metterebbe a repentaglio la liquidita' o la solvibilita'. Il differimento e' accordato per un periodo massimo di dodici mesi ed e' rinnovabile su richiesta dell'aderente. I contributi differiti sono in ogni caso versati se l'IVASS accerta che le condizioni per il differimento sono venute meno.
+
+Il Fondo di garanzia assicurativo dei rami vita assicura di avere accesso a fonti di finanziamento alternative a breve termine per far fronte alle proprie obbligazioni e puo' ricorrere a finanziamenti aggiuntivi provenienti da fonti ulteriori e in qualsiasi forma prestati.
+
+7. La dotazione finanziaria e' investita in attivita' a basso rischio e con sufficiente diversificazione.))
+
+--------------
+                            AGGIORNAMENTO (72)
+                            
+ Il D.L. 30 dicembre 2023, n. 213, ha disposto (con l'art. 1, comma 122) che "I contributi di cui all'articolo 274-quinquies, commi 2 e 3, del codice di cui al decreto legislativo 7 settembre 2005, n. 209, introdotto dal comma 113, sono versati entro sessanta giorni dalla nomina del comitato di gestione provvisorio di cui al comma 116".
+
+## Art. 274-sexies. — (( (Interventi del Fondo di garanzia assicurativo dei rami vita) ))
+
+((
+
+L'intervento di cui al comma 1, lettera c), puo' essere effettuato se l'IVASS ha accertato che gli aderenti al Fondo di garanzia assicurativo dei rami vita sono in grado di versare i contributi straordinari ai sensi dell'articolo 274-quinquies, comma 4.
+
+Finche' il livello obiettivo di cui all'articolo 274-quater, comma 1, non e' raggiunto, le soglie di cui al comma 4 sono riferite all'effettiva dotazione finanziaria disponibile.
+
+))
+
+## Art. 274-septies. — (( (Prestazioni protette ammissibili) ))
+
+((
+
+Il Fondo di garanzia assicurativo dei rami vita, fatto salvo quanto previsto al comma 3, liquida le prestazioni protette entro l'importo massimo di euro 100.000 per ciascun avente diritto.
+
+Il limite di cui al comma 1 non opera con riferimento alle prestazioni protette relative ai contratti di assicurazione sulla vita di cui all'articolo 1, comma 1, lettera ss-bis), numeri 2), 3), 4) e 5).
+
+))
+
+## Art. 274-octies. — (( (Modalita' di esecuzione delle prestazioni protette nei casi di liquidazione coatta amministrativa) ))
+
+((
+
+Il pagamento e' effettuato entro novanta giorni lavorativi dalla data di pubblicazione del provvedimento di liquidazione coatta amministrativa ai sensi dell'articolo 247, senza che sia necessario presentare alcuna richiesta al Fondo. A tal fine, l'impresa aderente posta in liquidazione coatta amministrativa trasmette tempestivamente al Fondo le informazioni necessarie in merito alle prestazioni protette su richiesta del Fondo stesso. Il rimborso e' effettuato in euro o nella valuta dello Stato dove risiede l'avente diritto.
+
+In deroga al comma 1, se l'avente diritto al pagamento e' sottoposto a un procedimento penale, a misura di prevenzione o a provvedimenti di sequestro connessi con il riciclaggio di proventi di attivita' illecite, il Fondo di garanzia assicurativo dei rami vita puo' sospendere i pagamenti relativi alle prestazioni protette fino al passaggio in giudicato della sentenza di proscioglimento o assoluzione.
+
+Il diritto all'esecuzione della prestazione protetta si estingue decorsi dieci anni dalla pubblicazione del provvedimento di avvio della liquidazione coatta amministrativa. L'estinzione e' impedita dalla proposizione della domanda giudiziale, salvo che il processo si estingua, o dal riconoscimento del diritto da parte del Fondo.
+
+Il Fondo, quando esegue la prestazione protetta ai sensi dell'articolo 274-sexies, comma 1, lettera a), subentra nei diritti degli aventi diritto nei confronti dell'impresa di assicurazione in liquidazione coatta amministrativa nei limiti dei pagamenti effettuati, beneficiando della preferenza di cui all'articolo 258, comma 3.
+
+## Art. 274-novies. — (( (Obblighi del Fondo di garanzia assicurativo dei rami vita) ))
+
+((
+
+I componenti degli organi del Fondo di garanzia assicurativo dei rami vita e coloro che prestano la loro attivita' per essi sono vincolati al segreto professionale in relazione alle notizie, alle informazioni e ai dati indicati al comma 1, lettera d).
+
+Ai soggetti che svolgono funzioni di amministrazione, direzione e controllo presso il Fondo di garanzia assicurativo dei rami vita si applica l'articolo 76.
+
+Con riguardo agli atti compiuti per l'esecuzione delle prestazioni protette, la responsabilita' del Fondo, dei soggetti che vi svolgono funzioni di amministrazione, direzione e controllo e dei loro dipendenti e' limitata ai soli casi di dolo o colpa grave.
+
+))
+
+## Art. 274-decies. — (( (Informazioni da fornire al Fondo di garanzia assicurativo dei rami vita) ))
+
+((
+
+Il Fondo di garanzia assicurativo dei rami vita puo' chiedere ai propri aderenti le informazioni necessarie ai fini dell'esecuzione delle prestazioni protette.
+
+## Art. 274-undecies. — (( (Poteri dell'IVASS) ))
+
+((
+
+Il Fondo informa tempestivamente l'IVASS degli atti e degli eventi di maggior rilievo relativi all'esercizio delle proprie funzioni e trasmette, entro il 31 marzo di ogni anno, una relazione dettagliata sull'attivita' svolta nell'anno precedente e sul piano delle attivita' predisposto per l'anno in corso.
+
+))
+
+## Art. 274-duodecies. — (( (Esclusione dal Fondo di garanzia assicurativo dei rami vita) ))
+
+((
+
+Gli aderenti possono essere esclusi dal Fondo di garanzia assicurativo dei rami vita in caso di inadempimento di eccezionale gravita' agli obblighi derivanti dall'adesione al Fondo stesso.
+
+L'inadempimento e' contestato dal Fondo, previo assenso dell'IVASS, concedendo agli aderenti un termine di sei mesi per adempiere. Decorso inutilmente il termine, prorogabile per un periodo non superiore a tre mesi, il Fondo comunica all'impresa o all'intermediario aderente l'esclusione.
+
+Nel caso di esclusione di un'impresa, sono protette dal Fondo le prestazioni relative alle obbligazioni assunte fino alla data di ricezione della comunicazione di esclusione da parte dell'impresa aderente. Di tale comunicazione l'impresa di assicurazione esclusa da' tempestiva notizia agli assicurati e agli aventi diritto a prestazioni assicurative, secondo le modalita' indicate dall'IVASS.
+
+La mancata adesione al Fondo o l'esclusione da esso comporta la revoca dell'autorizzazione all'esercizio dell'attivita' assicurativa nei rami vita o, per gli intermediari di cui all'articolo 274-ter, comma 1, la cancellazione dal registro di cui all'articolo 109. Resta ferma la possibilita' di disporre la liquidazione coatta amministrativa dell'impresa ai sensi dell'articolo 245.
+
+))
+
+## Art. 274-terdecies. — (( (Interventi finanziati su base volontaria) ))
+
+((
+
+Fermo restando quanto previsto dall'articolo 274-sexies, comma 1, lettera c), e per le stesse finalita' ivi indicate, il Fondo di garanzia assicurativo dei rami vita puo' effettuare, se previsto dallo statuto e secondo le modalita' concordate tra gli aderenti, interventi mediante risorse corrisposte su base volontaria dagli aderenti stessi e senza ricorso alla dotazione finanziaria prevista dall'articolo 274-quater. A tali risorse si applica l'articolo 274-quater, comma 4.
+
+))
+
+## Art. 274-quaterdecies. — (( (Costituzione di ulteriori Fondi di garanzia assicurativa dei rami vita) ))
+
+((
+
+Decorsi ventiquattro mesi dalla costituzione del Fondo di garanzia assicurativo dei rami vita, i soggetti di cui all'articolo 274-ter possono costituire ed aderire a schemi ulteriori di garanzia, aventi le medesime finalita' e caratteristiche del Fondo previste dall'articolo 274-sexies.
+
+L'adesione ad uno degli schemi di cui al comma 1 e' equivalente a quella prevista dall'articolo 274-ter.
+
+Agli schemi di cui al comma 1 si applica il presente capo)).
+
+## - - Capo VII Disposizioni sul risanamento e sulla liquidazione nel gruppo assicurativo
+
+## Art. 275. — (( (Amministrazione straordinaria dell'ultima societa' controllante italiana) ))
+
+((
+
+Salvo quanto previsto dal presente articolo, alla ultima societa' controllante italiana di cui all'articolo 210, comma 2, si applicano le norme del capo II del presente titolo.
+
+L'amministrazione straordinaria della societa' di cui al comma 1 dura un anno dalla data di emanazione del decreto del Ministro dello sviluppo economico, salvo che sia prescritto un termine piu' breve dal provvedimento medesimo o che ne sia disposta la chiusura anticipata. In casi eccezionali la procedura puo' essere prorogata per un periodo non superiore ad un anno.
+
+I commissari straordinari, sentito il comitato di sorveglianza, previa autorizzazione dell'IVASS, possono revocare o sostituire, anche in parte, gli amministratori delle societa' del gruppo di cui all'articolo 210-ter, comma 2, al fine di realizzare i mutamenti degli indirizzi gestionali che si rendano necessari. I nuovi amministratori restano in carica al massimo sino al termine dell'amministrazione straordinaria della societa' di cui al comma 1.
+Gli amministratori revocati hanno titolo esclusivamente ad un indennizzo corrispondente ai compensi ordinari ad essi spettanti per la durata residua del mandato ma, comunque, per un periodo non superiore a sei mesi.
+
+I commissari straordinari possono richiedere, previa autorizzazione dell'IVASS sentiti i cessati amministratori della societa', l'accertamento giudiziale dello stato di insolvenza delle societa' del gruppo, di cui all'articolo 210-ter, comma 2.
+
+I commissari straordinari possono richiedere alle societa' del gruppo di cui all'articolo 210-ter, comma 2, i dati, le informazioni e ogni altro elemento utile per adempiere al proprio mandato.
+
+))
+
+## Art. 276. — (Liquidazione coatta amministrativa dell'ultima societa' controllante italiana)
+
+Salvo quanto previsto dal presente articolo, all'ultima societa' controllante italiana di cui all'articolo 210, comma 2, si applicano le norme del capo IV del presente titolo.
+
+La liquidazione coatta amministrativa della societa' di cui al comma 1, oltre che nei casi previsti dall'articolo 245, puo' essere disposta quando le inadempienze nell'esercizio dell'attivita' di direzione e di coordinamento per l'esecuzione delle istruzioni di vigilanza impartite dall'IVASS siano di eccezionale gravita'.
+
+I commissari liquidatori depositano annualmente nel registro delle imprese una relazione sulla situazione contabile e sull'andamento della liquidazione, corredata da notizie sia sullo svolgimento delle procedure cui sono sottoposte altre societa' del gruppo controllate italiane, di cui all'articolo 210-ter, comma 2, sia sugli eventuali interventi a tutela degli assicurati e degli altri aventi diritto a prestazioni assicurative. La relazione e' accompagnata da un rapporto del comitato di sorveglianza. L'IVASS puo' prescrivere speciali forme di pubblicita' per rendere noto l'avvenuto deposito della relazione.
+
+Si applicano le disposizioni dell'articolo 275, commi 5 e 6.
+
+Quando sia accertato giudizialmente lo stato di insolvenza, compete ai commissari l'esperimento dell'azione revocatoria prevista dall'articolo ((166 del codice della crisi e dell'insolvenza)) nei confronti delle altre societa' del gruppo di cui all'articolo 210-ter, comma 2. L'azione puo' essere esperita ((per gli atti indicati all'articolo 166, comma 1, lettere a), b) e c) del codice della crisi e dell'insolvenza chesiano stati posti in essere nei cinque anni anteriori al provvedimento di liquidazione coatta, e per gli atti indicati all'articolo 166, comma 1, lettere a), b) e c) e comma 2 del codice della crisi e dell'insolvenza, che siano stati posti in essere nei tre anni anteriori)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che le modifiche di cui al presente articolo si applicano "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 5 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 5 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 5 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 277. — (( (Amministrazione straordinaria delle societa' del gruppo assicurativo) ))
+
+((
+
+Salvo quanto previsto nel presente articolo, quando l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, sia sottoposta ad amministrazione straordinaria o a liquidazione coatta amministrativa, alle societa' del gruppo di cui all'articolo 210-ter, comma 2, si applicano, ove ne ricorrono i presupposti, le norme del capo II del presente titolo. L'amministrazione straordinaria puo' essere richiesta all'IVASS anche dai commissari straordinari e dai commissari liquidatori della ultima societa' controllante italiana di cui all'articolo 210, comma 2.
+
+Quando presso societa' del gruppo di cui all'articolo 210-ter, comma 2, sia stato nominato l'amministratore giudiziario secondo le disposizioni del codice civile in materia di denuncia al tribunale di gravi irregolarita' nella gestione, la procedura si converte in amministrazione straordinaria. Il tribunale competente, anche d'ufficio, dichiara con sentenza in camera di consiglio che la societa' e' soggetta alla procedura di amministrazione straordinaria e ordina la trasmissione degli atti all'IVASS. Gli organi della cessata procedura e quelli dell'amministrazione straordinaria provvedono con urgenza al passaggio delle consegne, dandone notizia con le forme di pubblicita' stabilite dall'IVASS. Restano salvi gli effetti degli atti legalmente compiuti.
+
+Quando le societa' del gruppo da sottoporre all'amministrazione straordinaria siano soggette a vigilanza, il relativo provvedimento e' adottato sentita l'autorita' che esercita la vigilanza, alla quale, in caso di urgenza, potra' essere fissato un termine per la formulazione del parere.
+
+La durata dell'amministrazione straordinaria delle societa' del gruppo e' indipendente da quella della procedura cui e' sottoposta la ultima societa' controllante italiana di cui all'articolo 210, comma 2.
+
+))
+
+## Art. 278. — (( (Liquidazione coatta amministrativa delle societa' del gruppo assicurativo) ))
+
+((
+
+Salvo quanto previsto nel presente articolo, quando l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, sia sottoposta ad amministrazione straordinaria o a liquidazione coatta amministrativa, alle societa' di cui all'articolo 210-ter, comma 2, del gruppo si applicano, qualora ne sia stato accertato giudizialmente lo stato di insolvenza, le norme del capo IV del presente titolo. Per le imprese di assicurazione e di riassicurazione resta ferma comunque la disciplina del capo IV. La liquidazione coatta puo' essere richiesta all'IVASS anche dai commissari straordinari e dai commissari liquidatori dell'ultima societa' controllante.
+
+Quando presso societa' del gruppo di cui all'articolo 210-ter, comma 2, siano in corso il fallimento, la liquidazione coatta o altre procedure concorsuali, queste si convertono nella liquidazione coatta disciplinata dal presente articolo. Fermo restando l'accertamento dello stato di insolvenza gia' operato, il tribunale competente, anche d'ufficio, dichiara con sentenza in camera di consiglio che la societa' e' soggetta alla procedura di liquidazione prevista dal presente articolo e ordina la trasmissione degli atti all'IVASS. Gli organi della cessata procedura e quelli della liquidazione provvedono con urgenza al passaggio delle consegne, dandone notizia con le forme di pubblicita' stabilite dall'IVASS. Restano salvi gli effetti degli atti legalmente compiuti.
+
+Ai commissari liquidatori sono attribuiti i poteri previsti dall'articolo 276, comma 5.
+
+))
+
+## Art. 279. — (( (Procedure proprie delle singole societa' del gruppo assicurativo) ))
+
+((
+
+Quando l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, non sia sottoposta ad amministrazione straordinaria o a liquidazione coatta amministrativa, le societa' del gruppo di cui all'articolo 210-ter, comma 2, sono soggette alle procedure previste dalle norme di legge a esse applicabili. Dei relativi provvedimenti viene data comunicazione all'IVASS a cura dell'autorita' amministrativa o giudiziaria che li ha emessi. Le autorita' amministrative o giudiziarie che vigilano sulle procedure informano l'IVASS di ogni circostanza, emersa nello svolgimento delle medesime, rilevante ai fini della vigilanza sul gruppo assicurativo.
+
+In deroga al comma 1, la societa' del gruppo di cui all'articolo 210-ter, comma 2, non e' soggetta alla procedura ad essa altrimenti applicabile e, se avviata, viene convertita in amministrazione straordinaria o liquidazione coatta, se essa svolge funzioni strumentali essenziali per conto dell'ultima societa' controllante italiana di cui all'articolo 210, comma 2. Si applicano, in quanto compatibili, gli articoli 277 e 278.
+
+))
+
+## Art. 280. — (( (Disposizioni comuni agli organi delle procedure) ))
+
+((
+
+Fermo quanto disposto dagli articoli 233 e 246, le medesime persone possono essere nominate negli organi dell'amministrazione straordinaria e della liquidazione coatta amministrativa di societa' del gruppo di cui all'articolo 210-ter, comma 2, quando cio' sia ritenuto utile per agevolare lo svolgimento delle procedure.
+
+Il commissario che in una determinata operazione ha un interesse in conflitto con quello della societa', a cagione della qualita' di commissario di altra societa' del gruppo, ne da' notizia agli altri commissari, ove esistano, nonche' al comitato di sorveglianza e all'IVASS. In caso di omissione, a detta comunicazione sono tenuti i membri del comitato di sorveglianza che siano a conoscenza della situazione di conflitto. Il comitato di sorveglianza puo' prescrivere speciali cautele e formulare indicazioni in merito all'operazione, dell'inosservanza delle quali i commissari sono personalmente responsabili. Ferma la facolta' di revocare e sostituire i componenti gli organi delle procedure, l'IVASS puo' impartire direttive o disporre, ove del caso, la nomina di un commissario per compiere determinati atti.
+
+Le indennita' spettanti ai commissari e ai componenti del comitato di sorveglianza sono determinate dall'IVASS in base ai criteri dallo stesso stabiliti e sono a carico delle societa'. Le indennita' sono determinate valutando in modo complessivo le prestazioni connesse alle cariche eventualmente ricoperte in altre procedure nel gruppo.
+
+))
+
+## Art. 281. — (Disposizioni comuni sulla competenza giurisdizionale)
+
+Quando l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, sia sottoposta ad amministrazione straordinaria o a liquidazione coatta amministrativa, per l'azione revocatoria prevista dall'articolo 276, comma 5, nonche' per tutte le controversie fra le societa' del gruppo e' competente il ((tribunale dove tale societa' controllante ha il centro degli interessi principali)). ((45))
+                                ((56))
+                                ((60))
+                                ((64))
+
+Quando l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, sia sottoposta ad amministrazione straordinaria o a liquidazione coatta amministrativa, per i ricorsi avverso i provvedimenti amministrativi concernenti o comunque connessi alle procedure di amministrazione straordinaria e di liquidazione coatta amministrativa di tale societa' controllante e delle societa' del gruppo, di cui all'articolo 210-ter, comma 2, e' competente il tribunale amministrativo regionale del Lazio con sede a Roma.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14 ha disposto (con l'art. 370, comma 2) che la modifica di cui al presente articolo si applica "alle liquidazioni coatte amministrative disposte per effetto di domande depositate o iniziative comunque esercitate successivamente all'entrata in vigore del presente decreto". 
+                            ---------------
+                            AGGIORNAMENTO (56)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 8 aprile 2020, n. 23, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 15 agosto 2020 al 1° settembre 2021. 
+                            ---------------
+                            AGGIORNAMENTO (60)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 24 agosto 2021, n. 118, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 1° settembre 2021 al 16 maggio 2022. 
+                            ---------------
+                            AGGIORNAMENTO (64)
+                            
+ Il D.Lgs. 12 gennaio 2019, n. 14, come modificato dal D.L. 30 aprile 2022, n. 36, ha disposto (con l'art. 389, comma 1) la proroga dell'entrata in vigore della modifica del comma 1 del presente articolo dal 16 maggio 2022 al 15 luglio 2022.
+
+## Art. 282. — (( (Gruppi e societa' non iscritte all'albo) ))
+
+((
+
+Le disposizioni degli articoli di cui al presente capo si applicano anche nei confronti delle societa' per le quali, pur non essendo intervenuta l'iscrizione, ricorrano le condizioni per l'inserimento nell'albo di cui all'articolo 210-ter.
+
+))
+
+## - - Titolo XVII SISTEMI DI INDENNIZZO Capo I Disposizioni generali sul sistema di indennizzo dei danni derivanti dalla circolazione dei veicoli a motore e dei natanti
+
+## Art. 283. — Sinistri verificatisi nel territorio della Repubblica
+
+Nel caso di cui al comma 1, lettera a), il risarcimento e' dovuto solo per i danni alla persona. In caso di danni gravi alla persona, il risarcimento e' dovuto anche per i danni alle cose, il cui ammontare sia superiore all'importo di euro 500, per la parte eccedente tale ammontare. Nei casi di cui al comma 1, lettere b), d-bis) e d-ter) il risarcimento e' dovuto per i danni alla persona, nonche' per i danni alle cose. Nel caso di cui al comma 1, lettera c), il risarcimento e' dovuto per i danni alla persona, nonche' per i danni alle cose. Nel caso di cui al comma 1, lettera d), il risarcimento e' dovuto, limitatamente ai terzi non trasportati e a coloro che sono trasportati contro la propria volonta' ovvero che sono inconsapevoli della circolazione illegale, sia per i danni alla persona sia per i danni a cose. ((70))
+
+Nel caso previsto dal comma 1, lettera a), il danno e' risarcito nei limiti dei minimi di garanzia previsti, per ogni persona danneggiata e per ogni sinistro, nel regolamento di cui all'articolo 128 relativamente alle autovetture ad uso privato. La percentuale di inabilita' permanente, la qualifica di convivente a carico e la percentuale di reddito del danneggiato da calcolare a favore di ciascuno dei conviventi a carico sono determinate in base alle norme del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali.
+
+((4. Nei casi previsti dal comma 1, lettere b), c), c-bis), d), d-bis) e d-ter), il danno e' risarcito nei limiti dei massimali di cui all'articolo 128 e agli atti delegati di adeguamento all'IPCA adottati dalla Commissione europea.))
+
+((70))
+
+Il Fondo di garanzia per le vittime della strada e' surrogato, per l'importo pagato, nei diritti dell'assicurato, del danneggiato verso l'impresa posta in liquidazione coatta, beneficiando dello stesso trattamento previsto per i crediti di assicurazione indicati all'articolo 258, comma 4, lettera a). L'impresa di assicurazione che ha provveduto alla liquidazione del danno, ai sensi dell'articolo 150, ha diritto di regresso nei confronti del Fondo di garanzia per le vittime della strada in caso di liquidazione coatta dell'impresa di assicurazione del veicolo responsabile.
+
+((5-bis. Nel caso di liquidazione volontaria dell'impresa, il Fondo di garanzia per le vittime della strada ha diritto al regresso per l'importo pagato nei confronti dell'impresa.))
+
+((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 2, comma 1, lettera m)) che "al comma 2, terzo periodo, le parole: «lettera c)» sono sostituite dalle seguenti: «lettere c) e c-bis)»". 
+ Ha inoltre disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 283-bis. — (( (Obblighi di informativa a carico del Fondo di garanzia per le vittime della strada). ))
+
+((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 284. — ((Sinistri causati da natanti in altro Stato membro))
+
+
+
+Il Fondo di garanzia per le vittime della strada e' tenuto altresi' ((, in conformita' all'articolo 283, comma 1, lettera c-bis),)) a risarcire i ((danni derivanti dai)) sinistri causati sul territorio di un altro Stato membro da ((natanti)) ivi immatricolati che siano assicurati presso un'impresa con sede legale in Italia operante in tale altro Stato in regime di stabilimento o di liberta' di prestazione di servizi, che al momento del sinistro si trovi in stato di liquidazione coatta o vi venga posta successivamente. Si applica l'articolo 283, comma 5. ((70))
+
+Il ((Ministro delle imprese e del made in Italy)) autorizza, con decreto da pubblicare nella Gazzetta Ufficiale, la CONSAP a sottoscrivere le convenzioni con i fondi di garanzia degli altri Stati membri concernenti il risarcimento dei sinistri di cui al comma 1. ((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 285. — Fondo di garanzia per le vittime della strada
+
+Il Fondo di garanzia per le vittime della strada e' amministrato, sotto la vigilanza del Ministero dello sviluppo economico, dalla CONSAP con l'assistenza di un apposito comitato.
+
+((1-bis. Il Fondo di cui al comma 1 coopera, quando necessario, con gli omologhi organismi degli altri Stati membri, con gli organismi di compensazione istituiti ai sensi dell'articolo 25-bis della direttiva 2009/103/CE, con tutte le altre parti interessate, nonche' con le autorita' competenti degli Stati membri. Tale cooperazione include la richiesta, l'ottenimento e la fornitura di informazioni, compresi i dettagli di richieste di indennizzo specifiche.))
+
+((70))
+
+((1-ter. L'impresa designata di cui all'articolo 286, comma 1, informa il Fondo di cui al comma 1 della ricezione della richiesta.
+Qualora il responsabile ultimo sia l'organismo dello Stato membro di origine dell'impresa di un altro Stato membro operante nel territorio della Repubblica in regime di stabilimento o di libera prestazione di servizi, il Fondo di cui al comma 1 provvede ad informare l'organismo equivalente dello Stato membro di origine dell'impresa e l'impresa di detto Stato membro soggetta a procedura di liquidazione, o il suo amministratore straordinario o il liquidatore, quali definiti, rispettivamente, all'articolo 268, lettere e) e f), della direttiva 2009/138/CE, della richiesta. L'impresa operante nel territorio della Repubblica in regime di stabilimento o di libera prestazione di servizi, assoggettata a procedura di regolazione dell'insolvenza o a una procedura di liquidazione, come definita ai sensi dell'articolo 268, paragrafo 1, lettera d) della direttiva 2009/138/CE, informa il Fondo di cui al comma 1 nel momento in cui indennizza o nega la responsabilita' in relazione a una richiesta di indennizzo che e' stata ricevuta dal Fondo stesso. Il Fondo di cui al comma 1, che ha anticipato l'indennizzo al danneggiato, ha diritto di richiedere il rimborso delle somme versate all'organismo omologo responsabile ultimo per il sinistro.))
+
+((70))
+
+((1-quater. Qualora il responsabile ultimo sia l'organismo dello Stato membro di origine dell'impresa di un altro Stato membro, il Fondo di cui al comma 1, che ha indennizzato il danneggiato, ha diritto di richiedere il rimborso delle somme versate al corrispondente organismo del suddetto Stato membro che provvede al pagamento entro sei mesi o entro il diverso termine convenuto.))
+
+((70))
+
+Il ((Ministro delle imprese del made in Italy)) disciplina, con regolamento, le condizioni e le modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della strada, nonche' la composizione del comitato di cui al comma 1. ((70))
+
+Le imprese autorizzate all'esercizio delle assicurazioni per la responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti sono tenute a versare annualmente alla CONSAP, gestione autonoma del Fondo di garanzia per le vittime della strada, un contributo commisurato al premio incassato per ciascun contratto stipulato in adempimento dell'obbligo di assicurazione.
+
+((3-bis. Nei casi di cui all'articolo 283, comma 1, lettera c), il contributo di cui al comma 3 e' versato esclusivamente dalle imprese autorizzate dall'IVASS all'esercizio nel territorio della Repubblica delle assicurazioni per la responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore.))
+
+((70))
+
+Il regolamento di cui al comma 2 determina le modalita' di fissazione annuale della misura del contributo, nel limite massimo del quattro per cento del premio imponibile, tenuto conto dei risultati della liquidazione dei danni che sono determinati nel rendiconto annualmente predisposto dal comitato di gestione del fondo.
+
+La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, un accordo con gli organismi omologhi al Fondo di garanzia per le vittime della strada degli altri Stati membri dell'Unione europea, al fine di dare attuazione alle procedure di rimborso e di rivalsa previste dall'articolo 10-bis, paragrafo 13, della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009. L'accordo e' notificato immediatamente alla Commissione europea.
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## - - Capo II Liquidazione dei danni a cura dell'impresa designata
+
+## Art. 286. — Liquidazione dei danni a cura dell'impresa designata
+
+La liquidazione dei danni per i sinistri di cui all'articolo 283, comma 1, lettere a), b), c) (( , c-bis) )), d), d-bis) e d-ter), e' effettuata a cura di un'impresa designata dall'IVASS secondo quanto previsto nel regolamento adottato dal ((Ministro delle imprese e del made in Italy)). L'impresa provvede alla liquidazione dei danni anche per i sinistri verificatisi oltre la scadenza del periodo assegnato e fino alla data indicata nel provvedimento che designi altra impresa. ((70))
+
+Le somme anticipate dalle imprese designate, comprese le spese ed al netto delle somme recuperate ai sensi dell'articolo 292, sono rimborsate dalla CONSAP - Fondo di garanzia per le vittime della strada, secondo le convenzioni, stipulate fra le imprese e il Fondo di garanzia per le vittime della strada, soggette all'approvazione del ((Ministro delle imprese e del made in Italy)) su proposta dell'IVASS. ((70))
+
+Le imprese designate sono sottoposte, per l'attivita' oggetto delle convenzioni, alle direttive per il regolare svolgimento delle operazioni di liquidazione dei danni emanate in via generale o particolare dalla CONSAP.
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 287. — Esercizio dell'azione di risarcimento
+
+Nelle ipotesi previste dall'articolo 283, comma 1, lettere a), b) (( , c-bis) )) ,d) , d-bis) e d-ter), l'azione per il risarcimento dei danni causati dalla circolazione dei veicoli e dei natanti, per i quali vi e' obbligo di assicurazione, puo' essere proposta solo dopo che siano decorsi sessanta giorni da quello in cui il danneggiato abbia chiesto il risarcimento del danno, a mezzo raccomandata, all'impresa designata, inviandone copia contestuale alla CONSAP - Fondo di garanzia per le vittime della strada. Nell'ipotesi prevista dall'articolo 283, comma 1, lettera c), l'azione per il risarcimento dei danni puo' essere proposta solo dopo che siano decorsi sei mesi dal giorno in cui il danneggiato ha richiesto il risarcimento del danno. ((70))
+
+Il danneggiato che, nell'ipotesi prevista dall'articolo 283, comma 1, lettera a), abbia fatto richiesta all'impresa designata, inviandone copia contestuale alla CONSAP - Fondo di garanzia per le vittime della strada, non e' tenuto a rinnovare la domanda qualora successivamente venga identificata l'impresa di assicurazione del responsabile.
+
+L'azione per il risarcimento del danno deve essere esercitata esclusivamente nei confronti dell'impresa designata. La CONSAP - Fondo di garanzia per le vittime della strada puo' tuttavia intervenire nel processo, anche in grado di appello.
+
+Nei casi previsti dall'art. 283, comma 1, lettere b), d-bis) e d-ter), deve essere convenuto in giudizio anche il responsabile del danno.
+
+Nel giudizio promosso ai sensi dell'articolo 283, comma 1, ((lettere c) e c-bis)), deve essere convenuto in giudizio anche il commissario liquidatore dell'impresa di assicurazione ((o altro soggetto che gestisce la procedura cui e' soggetta l'impresa)). ((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 288. — (( (Diritti dei danneggiati nei confronti del Fondo di garanzia per le vittime della Strada). ))
+
+((
+
+I danneggiati da veicoli assicurati con imprese con sede legale nel territorio della Repubblica che esercitano i rami di responsabilita' civile dei veicoli a motore e dei natanti soggette a procedure di cui all'articolo 283, comma 1, lettere c) e c-bis), possono far valere, nei limiti delle somme indicate dall'articolo 283, comma 4, i diritti derivanti dal contratto nei confronti della CONSAP - Fondo di garanzia per le vittime della strada, richiedendo l'indennizzo direttamente all'impresa designata per il territorio in cui e' avvenuto il sinistro.
+
+Laddove l'indennizzo sia dovuto in conformita' al comma 2, lettera a), l'impresa designata provvede a indennizzare il danneggiato senza indebito ritardo e in ogni caso entro tre mesi dall'accettazione, da parte del danneggiato, dell'offerta motivata di indennizzo. Ove i danni siano stati quantificati solo parzialmente, l'impresa designata provvede a indennizzare il danneggiato entro tre mesi dall'accettazione dell'offerta. La somma corrisposta e' imputata alla liquidazione definitiva del danno.
+
+L'impresa designata non subordina il pagamento dell'indennizzo alla condizione che il danneggiato dimostri che la persona fisica o giuridica responsabile non e' in grado o rifiuta di pagare, o a condizioni diverse da quelle stabilite nei commi 1, 2 e 3.
+
+5. Si applicano le disposizioni di cui all'articolo 146, comma 1, in quanto compatibili.))
+
+((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 289. — Effetti della liquidazione coatta sulle sentenze passate in giudicato e sui giudizi pendenti
+
+Le sentenze ottenute dal danneggiato nei confronti dell'impresa di assicurazione sono opponibili, se passate in giudicato prima che sia stato pubblicato il decreto di liquidazione coatta, all'impresa designata per il risarcimento dei danni entro i limiti fissati dall'articolo 283, comma 4.
+
+Se il decreto di liquidazione coatta interviene prima della formazione del giudicato, il processo prosegue, nei confronti del commissario liquidatore e dell'impresa designata, decorsi sei mesi dalla pubblicazione del decreto di liquidazione coatta. In ogni caso le pronunce sono opponibili, entro i limiti di risarcibilita' fissati dall'articolo 283, comma 4, nei confronti dell'impresa designata.
+
+La disposizione di cui al comma 1 si applica anche per le ordinanze ottenute dal danneggiato che versi in stato di bisogno.
+
+## Art. 290. — Prescrizione dell'azione
+
+L'azione diretta che spetta al danneggiato nei confronti dell'impresa designata, nei casi previsti dall'articolo 283, comma 1, lettere a), b), d), d-bis) e d-ter), e' soggetta al termine di prescrizione cui sarebbe soggetta l'azione verso il responsabile.
+
+L'azione che spetta al danneggiato nei confronti dell'impresa designata, nel caso previsto dall'articolo 283, comma 1, (( lettere c) e c-bis) )), e' proponibile fino a che non sia prescritta l'azione nei confronti dell'impresa ((...)). ((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 291. — Pluralita' di danneggiati e supero del massimale
+
+Qualora vi siano piu' persone danneggiate nello stesso sinistro ed il risarcimento dovuto dal responsabile superi le somme assicurate, i diritti delle persone danneggiate nei confronti dell'impresa designata sono proporzionalmente ridotti fino alla concorrenza del limite di risarcibilita' rispettivamente indicato dai commi 3 o 4 dell'articolo 283.
+
+L'impresa designata che, decorsi trenta giorni dall'incidente e ignorando l'esistenza di altre persone danneggiate, pur avendone ricercata l'identificazione con la normale diligenza, ha pagato ad alcuna di esse una somma superiore alla quota spettante, risponde verso le altre persone danneggiate nei limiti dell'eccedenza della somma assicurata rispetto alla somma versata.
+
+Nel caso di cui al comma 2, le altre persone danneggiate, il cui credito rimanesse insoddisfatto, hanno diritto di ripetere, da chi abbia ricevuto il risarcimento dall'impresa di assicurazione, quanto sarebbe loro spettato in applicazione del comma 1.
+
+Nei giudizi promossi fra l'impresa di assicurazione designata e le persone danneggiate sussiste litisconsorzio necessario, applicandosi l'articolo 102 del codice di procedura civile. L'impresa di assicurazione designata puo' effettuare il deposito di una somma, nei limiti del massimale, con effetto liberatorio nei confronti di tutte le persone aventi diritto al risarcimento, se il deposito e' irrevocabile e vincolato a favore di tutti i danneggiati.
+
+## Art. 292. — Diritto di regresso e di surroga dell'impresa designata
+
+L'impresa designata che, anche in via di transazione, ha risarcito il danno nei casi previsti dall'articolo 283, comma 1, lettere a) b), d), d-bis) e d-ter), ha azione di regresso nei confronti dei responsabili del sinistro per il recupero dell'indennizzo pagato nonche' degli interessi e delle spese.
+
+Nel caso previsto dall'articolo 283, comma 1, lettere c) e c-bis), l'impresa designata che, ((anche in via di transazione, ha risarcito il danno e' surrogata, per l'importo,)) pagato, nei diritti dell'assicurato e del danneggiato verso l'impresa. Se l'impresa e' posta in liquidazione coatta sussistono gli stessi privilegi stabiliti dalla legge a favore dei medesimi. (70)
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## - - Capo III Liquidazione dei danni a cura del commissario dell'impresa in liquidazione coatta
+
+## Art. 293. — Liquidazione dei danni a cura del commissario dell'impresa in liquidazione coatta
+
+Il commissario dell'impresa in liquidazione puo' essere autorizzato, nel decreto che dispone la liquidazione coatta, a procedere, anche per conto del Fondo di garanzia per le vittime della strada ed in deroga all'articolo 286, comma 1, alla liquidazione dei danni causati dalla circolazione dei veicoli e dei natanti verificatisi anteriormente alla pubblicazione del decreto di liquidazione, nonche' di quelli verificatisi successivamente e fino alla scadenza dei contratti di assicurazione in corso o del periodo di tempo per il quale e' stato pagato il premio.
+
+La CONSAP - Fondo di garanzia per le vittime della strada anticipa al commissario le somme occorrenti per le spese del procedimento di liquidazione dei danni nei limiti di quanto previsto nel regolamento di cui all'articolo 285, comma 2. In caso di insufficienza dell'attivo le somme erogate restano definitivamente a carico della CONSAP - Fondo di garanzia per le vittime della strada.
+
+Per l'assolvimento del compito di cui al comma 1 il commissario provvede a riassumere il personale gia' dipendente dall'impresa posta in liquidazione coatta. Il personale e' retribuito con i minimi previsti nei contratti collettivi di categoria in relazione alle mansioni espletate.
+
+## Art. 294. — Esercizio dell'azione di risarcimento
+
+Gli aventi diritto al risarcimento dei danni presentano al commissario la domanda di risarcimento, a mezzo raccomandata, anche se sia stata precedentemente inviata all'impresa posta in liquidazione coatta.
+
+Nessuna azione per il risarcimento puo' essere proposta nei confronti della procedura prima che siano decorsi sei mesi dalla richiesta. Le sentenze e gli altri provvedimenti che decidono sul risarcimento sono opponibili al Fondo di garanzia delle vittime della strada. La CONSAP - Fondo di garanzia delle vittime della strada puo' intervenire nel processo, anche in grado di appello.
+
+Se il decreto di liquidazione coatta e' pubblicato prima della formazione del giudicato, si applica l'articolo 289, comma 1.
+
+## Art. 295. — Diritti degli assicurati nei confronti del Fondo di garanzia per le vittime della strada
+
+Gli assicurati con imprese che esercitano l'assicurazione della responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti che siano poste in liquidazione coatta possono far valere, nei limiti delle somme indicate nell'articolo 283, comma 4, i diritti derivanti dal contratto nei confronti della CONSAP - Fondo di garanzia per le vittime della strada, agendo nei confronti del commissario.
+
+## - - Capo IV Liquidazione dei danni a cura dell'Organismo di indennizzo italiano
+
+## Art. 296. — Organismo di indennizzo italiano
+
+Alla CONSAP, quale gestore del Fondo di garanzia per le vittime della strada, e' riconosciuta la funzione di Organismo di indennizzo italiano. ((Per l'esercizio delle funzioni di cui al all'articolo 297, comma 1-bis, la CONSAP utilizza il contributo di cui all'articolo 285, comma 3-bis.))
+                                ((70))
+
+L'Organismo di indennizzo italiano nello svolgimento delle sue funzioni puo' avvalersi dell'Ufficio centrale italiano secondo le modalita' stabilite con apposita convenzione.
+
+La CONSAP ha il potere di negoziare e di concludere, entro il 23 dicembre 2023, un accordo con gli omologhi organismi degli altri Stati membri dell'Unione europea, al fine di dare attuazione alle procedure di rimborso e di rivalsa previste dall'articolo 25-bis, paragrafo 13, della direttiva 2009/103/CE del Parlamento europeo e del Consiglio del 16 settembre 2009. L'accordo e' notificato immediatamente alla Commissione europea.
+
+((2-ter. Si applicano le disposizioni di cui all'articolo 146, comma 1, in quanto compatibili.))
+
+((70))
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 297. — Ambito di intervento dell'Organismo di indennizzo italiano
+
+
+
+((70))
+
+((1-ter. Nei casi di cui all'articolo 297, comma 1-bis, il contributo di cui all'articolo 285, comma 3-bis, e' versato esclusivamente dalle imprese autorizzate dall'IVASS all'esercizio nel territorio della Repubblica delle assicurazioni per la responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore.))
+
+((70))
+
+((1-quater. Fatti salvi gli obblighi di cui all'articolo 247, l'Organismo di indennizzo italiano informa tempestivamente i corrispondenti organismi degli Stati membri dell'apertura della procedura di liquidazione coatta amministrativa di un'impresa autorizzata dall'IVASS all'esercizio nel territorio della Repubblica delle assicurazioni per la responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore.))
+
+((70))
+
+Nel caso di cui al comma 1, lettera a), l'Organismo di indennizzo italiano interviene anche qualora il sinistro sia avvenuto in uno Stato terzo il cui Ufficio nazionale per l'assicurazione abbia aderito al sistema della carta verde.
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 298. — Sinistri causati da veicoli regolarmente assicurati
+
+
+
+((70))
+
+L'Organismo di indennizzo italiano si astiene o cessa di intervenire a favore degli aventi diritto al risarcimento che hanno intrapreso o intraprendano un'azione legale direttamente contro l'impresa di assicurazione ovvero contro il responsabile del sinistro.
+
+L'intervento dell'Organismo di indennizzo italiano e' sussidiario rispetto alla richiesta nei confronti della persona o delle persone che hanno causato il sinistro ovvero nei confronti dell'impresa di assicurazione o del suo mandatario. L'Organismo di indennizzo italiano non puo' subordinare il risarcimento alla dimostrazione che il responsabile del danno sia insolvente o rifiuti di pagare.
+
+Gli aventi diritto presentano all'Organismo di indennizzo italiano la propria richiesta di risarcimento nelle forme previste dal regolamento, adottato dal Ministro dello sviluppo economico, che da' attuazione al presente titolo.
+
+((5. La persona lesa residente in Italia, entro due mesi dall'accadimento del sinistro, puo' chiedere l'indennizzo all'Organismo di indennizzo italiano nelle situazioni previste nell'articolo 297, comma 1, lettere b) e c). L'Organismo di indennizzo italiano pone fine al suo intervento in caso di successiva risposta motivata dell'impresa di assicurazione o del suo mandatario per la liquidazione dei sinistri alla richiesta degli aventi diritto al risarcimento, a condizione che tale risposta sia inviata entro il termine di due mesi dalla presentazione della richiesta all'Organismo di indennizzo italiano.))
+
+((70))
+
+((6-bis. L'impresa di assicurazione del veicolo responsabile del sinistro informa l'Organismo di indennizzo italiano nel momento in cui indennizza o nega la responsabilita' in relazione a una richiesta che e' stata ricevuta anche dall'Organismo ai sensi del comma 1-bis del medesimo articolo.))
+
+((70))
+
+((6-ter. Entro tre mesi dalla richiesta, l'Organismo di indennizzo italiano:
+
+a) formula un'offerta di indennizzo motivata con la quale chiarisce di essere tenuto a provvedere all'indennizzo, in quanto la richiesta non e' contestata e i danni sono stati parzialmente o interamente quantificati; o
+
+b) fornisce una risposta motivata con la quale chiarisce di non essere tenuto a provvedere all'indennizzo, o con la quale neghi la responsabilita' ovvero dichiari che la responsabilita' non e' chiaramente determinata ovvero che i danni non sono stati interamente quantificati.))
+
+((70))
+
+((6-quater. Laddove l'indennizzo sia dovuto in conformita' al comma 6-ter, lettera a), l'Organismo di indennizzo italiano provvede a indennizzare l'avente diritto senza indebito ritardo e, in ogni caso, entro tre mesi dall'accettazione da parte dell'avente diritto dell'offerta motivata di indennizzo. Ove i danni siano stati quantificati solo parzialmente, l'Organismo di indennizzo italiano provvede a indennizzare l'avente diritto entro tre mesi dall'accettazione dell'offerta. La somma corrisposta e' imputata alla liquidazione definitiva del danno.))
+
+((70))
+
+((6-quinquies. L'Organismo di indennizzo italiano coopera, quando necessario, con gli omologhi organismi degli altri Stati membri, con i Fondi di garanzia di cui all'articolo 10-bis della direttiva 2009/103/CE, nonche' con gli altri organismi di indennizzo di cui all'articolo 24 della direttiva 2009/103/CE, nonche' con le Autorita' competenti degli Stati membri e con le altre parti interessate. Tale cooperazione include la richiesta, l'ottenimento e la fornitura di informazioni, compresi i dettagli di richieste di indennizzo specifiche.))
+
+((70))
+
+L'organismo di indennizzo italiano cui e' stata presentata la richiesta di risarcimento e' tenuto a rispettare, per la determinazione della responsabilita' e la quantificazione del danno, le norme di diritto positivo applicabili nello Stato ove e' avvenuto il sinistro.
+
+---------------
+                            AGGIORNAMENTO (70)
+                            
+ Il D.Lgs. 22 novembre 2023, n. 184 ha disposto (con l'art. 4, comma 1) che "Le disposizioni del presente decreto si applicano a decorrere dal 23 dicembre 2023".
+
+## Art. 299. — Rimborsi tra organismi di indennizzo
+
+L'Organismo di indennizzo italiano, qualora abbia risarcito gli aventi diritto secondo quanto stabilito dall'articolo 298, acquisisce un credito, nei confronti dell'Organismo di indennizzo dello Stato membro ove ha sede lo stabilimento dell'impresa di assicurazione che ha stipulato il contratto di assicurazione del veicolo che ha causato il sinistro, per quanto anticipato a titolo di risarcimento e per quanto sostenuto a titolo di spese dirette e indirette relative alla liquidazione del danno, nella misura e con le modalita' stabilite dall'accordo fra gli organismi di indennizzo e fra gli organismi di indennizzo e i fondi di garanzia.
+
+Nel caso di sinistri avvenuti in uno Stato membro diverso dallo Stato di residenza degli aventi diritto al risarcimento o nel caso di sinistri avvenuti in uno Stato terzo aderente al sistema della carta verde e causati dalla circolazione dei veicoli assicurati con imprese stabilite nel territorio della Repubblica, l'Organismo di indennizzo italiano e' tenuto al rimborso della somma eventualmente pagata dall'organismo di indennizzo dello Stato di residenza degli aventi diritto al risarcimento per danni subiti da questi ultimi.
+
+L'Organismo di indennizzo italiano e' surrogato nei diritti degli aventi diritto al risarcimento nei confronti dell'impresa di assicurazione o del responsabile del sinistro nella misura in cui l'organismo di indennizzo dello Stato membro di residenza degli aventi diritto ha risarcito questi ultimi per il danno subito.
+L'impresa e' tenuta a rimborsare entro trenta giorni l'Organismo di indennizzo italiano di quanto da quest'ultimo corrisposto a titolo di risarcimento e di quanto dal medesimo corrisposto a titolo di spese dirette ed indirette di cui al comma 1, a semplice richiesta corredata della prova dell'avvenuto pagamento. L'importo da rimborsare puo' costituire oggetto di contestazione da parte dell'impresa esclusivamente nel caso in cui l'organismo di indennizzo estero abbia omesso di informare l'impresa di assicurazione italiana di aver ricevuto una richiesta di risarcimento da parte degli aventi diritto.
+
+## Art. 300. — Sinistri causati da veicoli non identificati o non assicurati
+
+L'Organismo di indennizzo italiano, ricevuta la richiesta di risarcimento, e' tenuto a rispettare, per la determinazione della responsabilita' e la quantificazione del danno, le norme del diritto positivo vigenti nello Stato ove e' avvenuto il sinistro.
+
+## Art. 301. — Rimborsi a carico del Fondo di garanzia per le vittime della strada
+
+Il Fondo di garanzia per le vittime della strada, dopo aver rimborsato l'organismo di indennizzo, ha diritto di esercitare l'azione di regresso prevista dall'articolo 292.
+
+## - - Capo V Sistema di indennizzo dei danni derivanti dall'esercizio dell'attivita' venatoria
+
+## Art. 302. — Ambito di intervento
+
+Nel caso di cui alla lettera a), il risarcimento e' dovuto solo per i danni alla persona che abbiano comportato la morte od un'invalidita' permanente superiore al venti per cento. Nel caso di cui alla lettera b), il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose il cui ammontare sia superiore all'importo stabilito nel regolamento di attuazione del presente capo. Nel caso di cui alla lettera c), il risarcimento e' dovuto per i danni alla persona nonche' per i danni alle cose il cui ammontare sia superiore all'importo di euro cinquecento. La percentuale di inabilita' permanente, la qualifica di convivente a carico e la percentuale di reddito del danneggiato da calcolare a favore di ciascuno dei conviventi a carico sono determinate in base alle norme del testo unico delle disposizioni per l'assicurazione obbligatoria contro gli infortuni sul lavoro e le malattie professionali.
+
+In tutti i casi previsti dal comma 1, il danno e' risarcito nei limiti dei minimi di garanzia previsti nella legge che disciplina l'esercizio dell'attivita' venatoria.
+
+## Art. 303. — Fondo di garanzia per le vittime della caccia
+
+Il Fondo di garanzia per le vittime della caccia e' amministrato, sotto la vigilanza del Ministero dello sviluppo economico, dalla CONSAP con l'assistenza di un apposito comitato.
+
+Il Ministro dello sviluppo economico disciplina, con regolamento, le condizioni e le modalita' di amministrazione, di intervento e di rendiconto del Fondo di garanzia per le vittime della caccia, nonche' la composizione del comitato di cui al comma 1.
+
+Le imprese autorizzate all'esercizio delle assicurazioni per la responsabilita' venatoria sono tenute a versare annualmente alla CONSAP, gestione autonoma del Fondo di garanzia per le vittime della caccia, un contributo commisurato al premio incassato per ciascun contratto stipulato in adempimento dell'obbligo di assicurazione.
+
+Il regolamento di cui al comma 2 determina ((le modalita' di fissazione annuale della misura del contributo, nel limite massimo del quindici per cento del premio imponibile)), tenuto conto dei risultati della liquidazione dei danni che sono determinati nel rendiconto annualmente predisposto dal comitato di gestione del fondo.
+
+## Art. 304. — Diritto di regresso e di surroga
+
+Il Fondo di garanzia per le vittime della caccia che, anche in via di transazione, ha risarcito il danno nei casi previsti all'articolo 302, comma 1, lettere a) e b), ha azione di regresso nei confronti del responsabile del danno per il recupero dell'indennizzo pagato, nonche' degli interessi e delle spese.
+
+Nel caso previsto all'articolo 302, comma 1, lettera c), il Fondo di garanzia per le vittime della caccia che ha risarcito il danno e' surrogato, per l'importo pagato, nei diritti dell'assicurato e del danneggiato verso l'impresa posta in liquidazione coatta, beneficiando dello stesso trattamento previsto per i crediti di assicurazione indicati all'articolo 258, comma 4, lettera a).
+
+## - - Titolo XVIII SANZIONI E PROCEDIMENTI SANZIONATORI Capo I ((Abusivismo e impedimento all'esercizio delle funzioni di vigilanza))
+
+## Art. 305. — Attivita' abusivamente esercitata
+
+Chiunque svolge attivita' assicurativa o riassicurativa in difetto di autorizzazione e' punito con la reclusione da due a quattro anni e con la multa da euro ventimila ad euro duecentomila.
+
+Chiunque esercita l'attivita' di intermediazione assicurativa o riassicurativa in difetto di iscrizione al registro di cui all'articolo 109 e' punito con la reclusione da sei mesi a due anni e con la multa da euro diecimila a euro centomila.
+
+Se vi e' fondato sospetto che una societa' svolga attivita' assicurativa o riassicurativa in violazione del comma 1 o di intermediazione assicurativa o riassicurativa in violazione del comma 2, l'IVASS richiede al tribunale l'adozione dei provvedimenti previsti dall'articolo 2409 del codice civile ovvero allo stesso fine denunzia i fatti al pubblico ministero.
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)). ((45))
+
+L'esercizio dell'attivita' di perito di assicurazione in difetto di iscrizione al ruolo previsto dall'articolo 156 e' punito a norma dell'articolo 348 del codice penale.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 306. — Impedimenti all'esercizio delle funzioni di vigilanza
+
+Fuori dai casi previsti dall'articolo 2638 del codice civile, chiunque ostacola le funzioni di vigilanza con il rifiuto dell'accesso ai locali o con il diniego all'ordine di esibizione della documentazione concernente l'attivita' assicurativa o riassicurativa o di intermediazione assicurativa o riassicurativa, che viene opposto ai funzionari dell'IVASS incaricati di accertare i fatti che possono configurare una violazione dell'articolo 305, e' punito con la reclusione fino a due anni e la multa da euro diecimila ad euro centomila.
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)). ((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 307. — Collaborazione con la Guardia di finanza
+
+Nell'esercizio delle funzioni di vigilanza, l'((IVASS)) puo' avvalersi della Guardia di finanza, che esegue le verifiche e gli accertamenti richiesti agendo con i poteri di indagine ad essa attribuiti ai fini dell'accertamento dell'imposta sul valore aggiunto e delle imposte sui redditi.
+
+Tutte le notizie, le informazioni e i dati acquisiti dalla Guardia di finanza nell'assolvimento dei compiti previsti dal comma 1 sono comunicati all'((IVASS)).
+
+## Art. 308. — Abuso di denominazione assicurativa
+
+L'uso, nella denominazione sociale o in qualsiasi comunicazione al pubblico, delle parole assicurazione, riassicurazione, ((impresa o)) compagnia di assicurazione, ((impresa o)) compagnia di riassicurazione, mutua assicuratrice ovvero di altre parole o locuzioni, anche in lingua estera, idonee a trarre in inganno sulla legittimazione allo svolgimento dell'attivita' assicurativa o riassicurativa e' vietato ai soggetti diversi, rispettivamente, da quelli autorizzati all'esercizio dell'attivita' di assicurazione o di riassicurazione. ((45))
+
+L'uso nella ragione o nella denominazione sociale o in qualsiasi comunicazione al pubblico, delle parole intermediario di assicurazione, intermediario di riassicurazione, produttore di assicurazione, agente di assicurazione, broker, mediatore di assicurazione, mediatore di riassicurazione, produttore diretto di assicurazione, ((intermediario di assicurazione a titolo accessorio,)) perito di assicurazione ovvero di altre parole o locuzioni, anche in lingua estera, idonee a trarre in inganno sulla legittimazione allo svolgimento di attivita' di intermediazione assicurativa, riassicurativa o di attivita' peritale e' vietato a soggetti diversi da quelli iscritti nel registro degli intermediari di assicurazione e di riassicurazione di cui all'articolo 109 o nel ruolo dei periti di assicurazione di cui all'articolo 156. ((45))
+
+L'IVASS determina, con regolamento, le ipotesi in cui, per l'esistenza di controlli amministrativi o in base ad elementi di fatto, le parole o le locuzioni indicate nei commi 1 e 2 possono essere utilizzate da soggetti diversi dalle imprese o dagli intermediari.
+
+((4. Chiunque contravviene al disposto del comma 1 e' punito, se persona fisica, con la sanzione amministrativa pecuniaria da euro cinquemila a euro cinque milioni e, se persona giuridica, con la sanzione amministrativa pecuniaria da euro trentamila al dieci per cento del fatturato. La misura della sanzione puo' essere aumentata secondo quanto previsto all'articolo 310, comma 2.))
+
+((45))
+
+((4-bis. Chiunque contravviene al disposto del comma 2 e' punito, se persona fisica, con la sanzione amministrativa pecuniaria da euro mille ad euro settecentomila e, se persona giuridica, con la sanzione amministrativa pecuniaria da euro cinquemila ad euro cinque milioni oppure, se superiore, al cinque per cento del fatturato. La misura della sanzione puo' essere aumentata secondo quanto previsto all'articolo 310, comma 2.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 308-bis. — (( (Inottemperanza alle richieste dell'IVASS o ritardo dell'esercizio delle funzioni di vigilanza). ))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Capo II ((Sanzioni amministrative pecuniarie ed altre misure per violazioni non riguardanti la distribuzione assicurativa))
+
+## Art. 309. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 310. — (Sanzioni amministrative pecuniarie)
+
+
+
+Se il vantaggio ottenuto dall'autore delle violazioni di cui al (( comma 1, lettere a), b) e c-bis) )), come conseguenza delle violazioni stesse e' superiore al massimo edittale indicato nel presente articolo, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile. 
+ (45)
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 310-bis. — (( (Rifiuto ed elusione dell'obbligo a contrarre). ))
+
+((
+
+L'inosservanza dell'articolo 132, commi 1, 1-bis e 1-ter, e' punita con la sanzione amministrativa pecuniaria da euro duemilacinquecento ad euro quindicimila.
+
+2. La violazione di cui al comma 1 e' punita con la sanzione amministrativa pecuniaria da euro un milione ad euro cinque milioni qualora attuata con riferimento a determinate zone territoriali o a singole categorie di assicurati.))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 310-ter. — (( (Scatole nere e altri dispositivi elettronici). ))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 310-quater. — (( (Obblighi di comunicazione alle banche dati). ))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 310-quinquies. — (( (Inosservanza dei provvedimenti cautelari e interdittivi). ))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 311. — (( (Assetti proprietari).))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 311-bis. — (( (Principio della rilevanza della violazione).))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 311-ter. — (Ordine di porre termine alle violazioni)
+
+Per le violazioni previste dall'articolo 310, comma 1, lettera a) e per quelle di cui alla lettera c), limitatamente all'articolo 183, , l'IVASS puo', in alternativa all'applicazione delle sanzioni amministrative pecuniarie, applicare nei confronti dell'impresa ((o dell'ultima societa' controllante italiana, come determinata dall'articolo 210, comma 2, per le violazioni di cui essa sia responsabile)) una sanzione consistente nell'ordine di eliminare le infrazioni, anche indicando le misure da adottare e il termine per l'adempimento. ((82))
+
+Per l'inosservanza dell'ordine entro il termine stabilito, l'IVASS applica le sanzioni amministrative pecuniarie previste dall'articolo 310, comma 1, secondo i criteri di cui all'articolo 311-quinquies; l'importo delle sanzioni cosi' determinato e' aumentato sino a un terzo rispetto a quello previsto per la violazione originaria, fermi restando i massimali stabiliti dall'articolo 310. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            --------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 311-quater. — (Accertamento unitario per violazioni della stessa indole)
+
+Per l'inosservanza degli articoli 125, comma 5-bis, 127, comma 3, limitatamente al certificato di assicurazione, 134, ad eccezione del comma 2, 146, 148, 149, 150, 152, comma 5, e 183, o delle relative norme di attuazione, I'IVASS provvede all'accertamento unitario delle violazioni della stessa indole, come definite all'articolo 8-bis, della legge n. 689 del 1981, effettuato con riferimento ad un determinato arco temporale, e alla contestazione degli addebiti con un unico atto da notificare entro il termine di cui all'articolo 311-septies. Nel caso di verifiche a distanza l'arco temporale di riferimento e il termine entro il quale si considera concluso l'accertamento delle violazioni rilevate non possono eccedere i dodici mesi. Con regolamento dell'IVASS e' stabilito il termine entro il quale si considera concluso l'accertamento delle violazioni rilevate in sede di verifiche ispettive.
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)). 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 311-quinquies. — (( (Criteri per la determinazione delle sanzioni).))
+
+((1. Nella determinazione dell'ammontare delle sanzioni amministrative pecuniarie o della durata delle sanzioni accessorie previste per le violazioni non riguardanti la distribuzione assicurativa l'IVASS considera ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: 
+ a) la gravita' e la durata della violazione; 
+b) il grado di responsabilita'; 
+c) la capacita' finanziaria del responsabile della violazione; 
+d) l'entita' del vantaggio ottenuto o delle perdite evitate attraverso la violazione, nella misura in cui essa sia determinabile; 
+e) i pregiudizi cagionati a terzi attraverso la violazione, nella misura in cui il loro ammontare sia determinabile; 
+f) il livello di cooperazione del responsabile della violazione con l'IVASS; 
+g) le precedenti violazioni in materia assicurativa commesse dal medesimo soggetto; 
+h) le misure adottate successivamente alla violazione al fine di evitare in futuro il suo ripetersi; 
+ i) nell'ipotesi di accertamento unitario di una pluralita' di violazioni della stessa indole ai sensi dell'articolo 311-quater, anche il numero e la tipologia delle infrazioni e l'importo della prestazione assicurativa liquidata.))
+                                ((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 311-sexies. — (Sanzioni amministrative agli esponenti aziendali o al personale)
+
+Nel caso in cui la condotta dei soggetti di cui al comma 1 abbia contribuito a determinare l'inosservanza dell'ordine previsto nell'articolo 311-ter da parte dell'impresa, si applica nei confronti dei soggetti stessi la sanzione amministrativa pecuniaria da cinquemila euro a cinque milioni di euro.
+
+((Salvo che il fatto costituisca reato, se le violazioni indicate dall'articolo 310, commi 1, lettera c-bis), e 1-bis, sono commesse da una persona fisica di cui al comma 2-ter, si applica nei confronti di quest'ultima una sanzione amministrativa pecuniaria: 
+ a) da euro 5.000 fino a euro 5 milioni, nei casi di cui alla lettera c-bis) del comma 1 dell'articolo 310; 
+b) da euro 5.000 fino a euro 3,5 milioni, nei casi di cui al comma 1-bis dell'articolo 310.))
+
+((Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 2-bis si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 da parte della societa' o dell'ente.))
+
+Con il provvedimento di applicazione della sanzione, tenuto conto dei criteri stabiliti dall'articolo 311-quinquies, l'IVASS puo' applicare la sanzione amministrativa accessoria dell'interdizione dallo svolgimento di funzioni di amministrazione, direzione e controllo presso imprese di assicurazione e di riassicurazione, per un periodo non inferiore a sei mesi e non superiore a tre anni.
+
+((Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 2-bis in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto legislativo, del decreto legislativo 24 febbraio 1998, n. 58, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129 o presso fondi pensione.))
+
+La misura della sanzione amministrativa pecuniaria puo' essere aumentata secondo quanto previsto all'articolo 310, comma 2. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 311-septies. — (( (Procedura di applicazione delle sanzioni amministrative alle imprese e agli esponenti aziendali o al personale).))
+
+((
+
+L'IVASS, fermo restando quanto previsto dagli articoli 310-quater, 311-bis e 311-quater, nel termine di centoventi giorni dall'accertamento dell'infrazione, ovvero nel termine di centottanta giorni per i soggetti residenti all'estero, provvede alla contestazione degli addebiti nei confronti dei possibili responsabili della violazione.
+
+Entro il termine di sessanta giorni dalla notifica della contestazione di cui al comma 1, il destinatario puo' presentare all'IVASS deduzioni difensive e istanza di audizione, cui puo' partecipare anche con l'assistenza di un avvocato.
+
+L'IVASS, tenuto conto degli elementi istruttori acquisiti agli atti, applica le sanzioni o dispone l'archiviazione del procedimento con provvedimento motivato.
+
+Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.
+
+5. La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal codice del processo amministrativo. I ricorsi sono notificati all'IVASS che provvede alla difesa in giudizio con propri legali. L'opposizione non sospende l'esecuzione del provvedimento.))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 312. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## - - Capo III Assicurazione obbligatoria per i veicoli a motore e i natanti ((CAPO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+## Art. 313. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 314. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 315. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 316. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 317. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## - - Capo IV Trasparenza delle operazioni e protezione dell'assicurato ((CAPO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+## Art. 318. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 319. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 320. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## - - Capo V Doveri nei confronti dell'autorita' di vigilanza
+
+## Art. 321. — Doveri degli organi di controllo
+
+Alle persone che compongono gli organi di controllo di un'impresa di assicurazione o di riassicurazione le quali omettono le comunicazioni previste dall'articolo 190, commi 1 e 3, si applica la sanzione amministrativa pecuniaria da euro cinquemila ad cinque milioni di euro. (45)
+
+La medesima sanzione si applica alle persone che compongono i corrispondenti organi delle societa', ivi incluse le societa' di partecipazione assicurativa e di partecipazione finanziaria mista, che controllano un'impresa di assicurazione o di riassicurazione o che sono da queste controllate le quali omettono le comunicazioni previste dall'articolo 190, commi 1 e 3. (45)
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)). ((45))
+
+COMMA ABROGATO DAL D.LGS. 27 GENNAIO 2010, N. 39.
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 322. — Doveri del revisore legale e della societa' di revisione legale
+
+1. il revisore legale e i legali rappresentanti della societa' di revisione legale di un'impresa di assicurazione o di riassicurazione che omettono le comunicazioni previste dall'articolo 190, commi 1, 2 e 4, sono segnalati dall'IVASS alla CONSOB ai fini dell'adozione dei provvedimenti ((di competenza)). ((45)) 
+ 2. La medesima segnalazione e' disposta nei confronti del revisore legale e dei legali rappresentanti della societa' di revisione legale che sono incaricate dalle societa' che controllano un'impresa di assicurazione o di riassicurazione o che sono da queste controllate i quali omettono le comunicazioni previste dall'articolo 190, commi 1, 2, 4 e 5. 
+ 3. La CONSOB informa l'IVASS dei provvedimenti adottati.
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 323. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## - - Capo VI ((Sanzioni
+amministrative pecuniarie ed altre misure per violazioni riguardanti
+la distribuzione assicurativa))
+
+## Art. 324. — (Sanzioni relative alle violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo, nonche' alle violazioni delle disposizioni previste dal regolamento (UE) 2022/2554 e dalle relative norme tecniche di regolamentazione e attuazione, commesse dagli intermediari)
+
+Il richiamo, consistente in una dichiarazione scritta di biasimo motivato, e' disposto per fatti di lieve manchevolezza. La censura e' disposta per fatti di particolare gravita'. La radiazione o la cancellazione della societa' di intermediazione e' disposta per fatti di eccezionale gravita'. La radiazione determina l'immediata risoluzione dei rapporti di intermediazione e, nel caso di esercizio dell'attivita' in forma societaria, comporta altresi' la cancellazione della societa' nei casi di particolare gravita' o di sistematica reiterazione dell'illecito.
+
+La violazione dei provvedimenti interdittivi e cautelari adottati ai sensi dell'articolo 184 e' punita con una delle sanzioni di cui al comma 1.
+
+Gli intermediari che, in proprio oppure attraverso collaboratori o altri ausiliari, operano per conto o a beneficio di imprese di assicurazione e riassicurazione che hanno sede legale nel territorio della Repubblica o in Stati terzi, di imprese locali di cui al Titolo IV, Capo I e di particolari mutue assicuratrici di cui all'articolo 52, le quali esercitano l'attivita' assicurativa o riassicurativa oltre i limiti dell'autorizzazione, sono puniti con una delle sanzioni di cui al comma 1.
+
+Quando le violazioni degli articoli, 119-bis, 119-ter, 120, 120-bis, 120-ter, 120-quater, 120-quinquies, 121, riguardano un prodotto di investimento assicurativo, l'IVASS applica le sanzioni di cui al comma 1 nei soli confronti degli intermediari di cui all'articolo 109, comma 2, lettere a) e b), e relativi collaboratori di cui alla lettera e), e degli intermediari di cui alla lettera c).
+In tal caso, la misura massima della sanzione pecuniaria puo' essere determinata, in alternativa rispetto a quanto previsto al comma 1, lettera c), fino al doppio dell'ammontare dei profitti ricavati o delle perdite evitate grazie alla violazione, se possono essere determinati. L'IVASS, oltre alle sanzioni di cui al comma 1, puo' adottare una dichiarazione pubblica indicante la persona fisica o giuridica responsabile e la natura della violazione. Le medesime sanzioni di cui al presente comma si applicano nel caso di violazione degli articoli 121-quinquies, 121-sexies e 121-septies.
+
+Quando la violazione degli articoli 30-decies e 121-bis riguarda un prodotto di investimento assicurativo, l'IVASS applica le sanzioni di cui al comma 1 nei confronti di tutti gli intermediari di cui al medesimo comma. La misura massima della sanzione pecuniaria puo' essere determinata, in alternativa rispetto a quanto previsto al comma 1, lettera c), fino al doppio dell'ammontare dei profitti ricavati o delle perdite evitate grazie alla violazione, se possono essere determinati. L'IVASS, oltre alle sanzioni di cui al comma 1, puo' adottare una dichiarazione pubblica indicante la persona fisica o giuridica responsabile e la natura della violazione.
+
+Alle violazioni delle disposizioni richiamate all'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014 diverse da quelle del presente articolo commesse dai soggetti di cui al comma 5 si applica l'articolo 193-quinquies del testo unico dell'intermediazione finanziaria. La nozione di fatturato e' definita ai sensi dell'articolo 325-bis del presente codice.
+
+La disposizione di cui al comma 1 si applica anche agli intermediari iscritti al momento della commissione dell'illecito, anche se cancellati dal Registro.
+
+In caso di inosservanza delle disposizioni di cui agli articoli 5, 6, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 10, 12, 16, paragrafi 1 e 2, 17, 19, paragrafi 1, 3 e 4, 24 del regolamento (UE) 2022/2554, del Parlamento europeo e del Consiglio, del 14 dicembre 2022 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, si applica, per le societa', la sanzione amministrativa pecuniaria di cui al comma 1, lettera c), numero 1) .
+
+In caso di inosservanza delle disposizioni di cui agli articoli 7, 8, 9, 11, paragrafi 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, 13, 14, 18, paragrafi 1 e 2, 25, 26, paragrafi 1, 2, 3, 4, 5, 6, 7 e 8, 27, 28, paragrafi 2, 3, 4, 5, 6, 7 e 8, 29, 30, paragrafi 1, 2, 3 e 4, e 31, paragrafo 12, del regolamento (UE) 2022/2554 e delle relative norme tecniche di regolamentazione e attuazione, ovvero in caso di omessa collaborazione o mancato seguito dato nell'ambito di un'indagine, un'ispezione o una richiesta ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, da parte degli intermediari assicurativi, degli intermediari riassicurativi, degli intermediari assicurativi a titolo accessorio e dei relativi fornitori terzi di servizi TIC di cui all'articolo 3, punto 19), del citato regolamento (UE) 2022/2554, si applica, per le societa', la sanzione amministrativa pecuniaria da 5.000 euro a 3,5 milioni di euro oppure, se superiore, pari al 3,50 per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione.
+
+Fermo restando quanto previsto per le societa' e gli enti nei confronti dei quali sono accertate le violazioni, la sanzione di cui al comma 7-quinquies si applica nei confronti dei soggetti che svolgono funzioni di amministrazione, direzione o controllo e del personale delle societa' e degli enti nei confronti dei quali sono accertate le violazioni, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sulla complessiva organizzazione o sui profili di rischio aziendali o ha contribuito a determinare la mancata ottemperanza della societa' o dell'ente a provvedimenti specifici adottati dall'IVASS, ai sensi dell'articolo 8 del decreto legislativo adottato in attuazione dell'articolo 16 della legge 21 febbraio 2024, n. 15, ovvero quando la condotta abbia contribuito a determinare l'inosservanza dell'ordine di cui all'articolo 50, paragrafo 4, lettera a), del regolamento (UE) 2022/2554 da parte della societa' o dell'ente.
+
+Se il vantaggio ottenuto dall'autore della violazione come conseguenza della violazione stessa e' superiore ai limiti massimi indicati nei commi 7-ter, 7-quater e 7-quinquies, la sanzione amministrativa pecuniaria e' elevata fino al doppio dell'ammontare del vantaggio ottenuto, purche' tale ammontare sia determinabile.
+
+Con il provvedimento di applicazione della sanzione amministrativa pecuniaria di cui al comma 7-quinquies, in ragione della gravita' della violazione accertata, puo' essere applicata la sanzione amministrativa accessoria dell'interdizione, per un periodo non inferiore a sei mesi e non superiore a tre anni, dallo svolgimento di funzioni di amministrazione, direzione e controllo presso intermediari e imprese autorizzati ai sensi del presente decreto, del decreto legislativo 1° settembre 1993, n. 385, del decreto legislativo 7 settembre 2005, n. 209, del decreto legislativo 5 settembre 2024, n. 129, o presso fondi pensione. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            --------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 324-bis. — (Sanzioni relative alle violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo, commesse dalle imprese)
+
+Le imprese di assicurazione o di riassicurazione che nell'ambito delle attivita' di realizzazione e di distribuzione di prodotti assicurativi o di investimento assicurativi, violano gli articoli 10-quater, 30-decies, 107, comma 5, 109, comma 1-bis, e commi 4, ultimo periodo, nonche' 4-ter e 6, 111, commi 1 e 2, 114-bis, 119, comma 2, ultimo periodo, 119-bis, 119-ter, 120, commi 2 e 3, 120-bis, commi 4 e 5, 120-quater, 120-quinquies, 121, 121-bis, 121-ter, 131, 170, 185, 185-bis, 185-ter, 186, 187, 187.1, in caso di mancata adesione a detti sistemi, ((188 e)) 191 o le relative norme di attuazione, sono puniti secondo i criteri di cui all'articolo 324-sexies con la sanzione amministrativa pecuniaria da cinquemila euro a cinque milioni di euro oppure, se superiore, pari al cinque per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione. ((82))
+
+La violazione dei provvedimenti interdittivi e cautelari adottati ai sensi dell'articolo 184 e' punita con la sanzione di cui al comma 1.
+
+Le imprese di assicurazione o di riassicurazione che si avvalgono di intermediari non iscritti alle Sezioni del registro di cui all'articolo 109, comma 2, sono punite con la sanzione amministrativa pecuniaria da cinquemila euro a cinque milioni di euro oppure, se superiore, pari al cinque per cento del fatturato complessivo annuo risultante dall'ultimo bilancio disponibile approvato dall'organo di amministrazione.
+
+Quando le violazioni degli articoli 30-decies, 119-bis, 119-ter, 120, 120-bis, 120-quater, 120-quinquies, 121, 121-bis, riguardano un prodotto di investimento assicurativo, la misura massima della sanzione pecuniaria puo' essere determinata, in alternativa rispetto a quanto previsto al comma 1, fino al doppio dell'ammontare dei profitti ricavati o delle perdite evitate grazie alla violazione, se possono essere determinati. L'IVASS, oltre alle sanzioni di cui al comma 1, puo' adottare una dichiarazione pubblica indicante la persona giuridica o la persona fisica all'interno dell'organizzazione responsabile e la natura della violazione. Le medesime sanzioni di cui al presente comma si applicano nel caso di violazione degli articoli 121-quinquies, 121-sexies e 121-septies.
+
+Alle violazioni delle disposizioni richiamate all'articolo 24, paragrafo 1, del regolamento (UE) n. 1286/2014 diverse da quelle del presente articolo si applica l'articolo 193-quinquies del testo unico dell'intermediazione finanziaria. La nozione di fatturato e' definita ai sensi dell'articolo 325-bis del presente codice. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            --------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 324-ter. — (( (Principio della rilevanza della violazione).))
+
+((
+
+Le sanzioni previste dagli articoli 324 e 324-bis si applicano quando le infrazioni rivestono carattere rilevante, secondo i criteri definiti dall'IVASS con regolamento tenendo conto dell'incidenza delle condotte sulla tutela degli assicurati e degli aventi diritto alle prestazioni assicurative e sull'esercizio delle funzioni di vigilanza.
+
+2. La disposizione di cui al comma 1 non si applica alle violazioni degli articoli 324, comma 3, e 324-bis, comma 2.))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 324-quater. — (( (Ordine di porre termine alle violazioni).))
+
+((
+
+Fermo restando quanto previsto all'articolo 324-ter, per le violazioni previste dagli articoli 324 e 324-bis, l'IVASS in relazione alla tipologia e modalita' della violazione puo', in alternativa all'applicazione delle sanzioni amministrative ivi previste, applicare nei confronti dell'impresa o dell'intermediario una sanzione consistente nell'ordine di eliminare le infrazioni, anche indicando le misure da adottare e il termine per l'adempimento.
+
+2. Per l'inosservanza dell'ordine entro il termine stabilito, l'IVASS applica alle imprese le sanzioni amministrative pecuniarie previste dall'articolo 324-bis, comma 1 secondo i criteri di cui all'articolo 324-sexies e l'importo delle sanzioni cosi' determinato e' aumentato sino a un terzo rispetto a quello previsto per la violazione originaria, fermi restando i massimali stabiliti dall'articolo 324-bis, comma 1. Nei confronti degli intermediari l'IVASS applica le sanzioni amministrative previste dall'articolo 324, comma 1, secondo i criteri di cui all'articolo 324-sexies e, nel caso di sanzione pecuniaria, l'aumento sino a un terzo rispetto a quello previsto per la violazione originaria.))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 324-quinquies. — (Accertamento unitario delle violazioni della stessa indole)
+
+Per l'inosservanza degli articoli, 119-bis, comma 1, 119-ter, 120, 120-bis, 120-quater, 121, 131, 170, 185, 185-bis e 185-ter, o delle relative norme di attuazione, da parte delle imprese di assicurazione e riassicurazione, I'IVASS provvede all'accertamento unitario delle violazioni della stessa indole, come definita dall'articolo 8-bis della legge 24 novembre 1981, n. 689 effettuato con riferimento ad un determinato arco temporale, e alla contestazione degli addebiti con un unico atto da notificare entro il termine di cui all'articolo 311-septies. Nel caso di verifiche a distanza l'arco temporale di riferimento e il termine entro il quale si considera concluso l'accertamento delle violazioni rilevate non possono eccedere i dodici mesi. Con regolamento dell'IVASS e' stabilito il termine entro il quale si considera concluso l'accertamento delle violazioni rilevate in sede di verifiche ispettive.
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+((COMMA ABROGATO DAL D.LGS. 31 DICEMBRE 2025, N. 209)).
+
+La disposizione di cui al comma 1 si applica anche nei confronti degli intermediari in caso di violazione degli articoli, 109, 117, 119-bis, comma 1, 119-ter, 120, 120-bis, 120-ter, 120-quater, 121, 131, 170, 185, 185-bis e 185-ter, soggetta all'applicazione di una delle sanzioni di cui all'articolo 324, comma 1. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri". 
+                            --------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## Art. 324-sexies. — (( (Criteri per la determinazione delle sanzioni).))
+
+((1. Nella determinazione del tipo e dell'ammontare delle sanzioni amministrative o della durata delle sanzioni accessorie previste per le violazioni in materia di distribuzione assicurativa, l'IVASS considera ogni circostanza rilevante e, in particolare, tenuto conto del fatto che il destinatario della sanzione sia persona fisica o giuridica, le seguenti, ove pertinenti: 
+ a) la gravita' e la durata della violazione; 
+b) il grado di responsabilita'; 
+c) la capacita' finanziaria del responsabile della violazione; 
+d) l'entita' del vantaggio ottenuto o delle perdite evitate attraverso la violazione, nella misura in cui essa sia determinabile; 
+e) i pregiudizi cagionati a terzi attraverso la violazione, nella misura in cui il loro ammontare sia determinabile; 
+f) il livello di cooperazione del responsabile della violazione con l'IVASS; 
+g) le precedenti violazioni in materia assicurativa commesse dal medesimo soggetto; 
+h) le misure adottate successivamente alla violazione al fine di evitare in futuro il suo ripetersi; 
+ i) nell'ipotesi di accertamento unitario di una pluralita' di violazioni della stessa indole ai sensi dell'articolo 324-quinquies, anche il numero e la tipologia delle infrazioni e l'importo della prestazione assicurativa eventualmente liquidata.))
+                                ((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 324-septies. — (( (Sanzioni amministrative agli esponenti aziendali o al personale delle imprese e delle societa' di intermediazione assicurativa o riassicurativa).))
+
+((
+
+Fermo restando quanto previsto all'articolo 325, comma 1 circa la responsabilita' delle imprese nei confronti delle quali sono accertate le violazioni, per l'inosservanza delle norme richiamate nell'articolo 324-bis, comma 1, si applica, salvo che il fatto costituisca reato, la sanzione amministrativa pecuniaria da euro mille a euro settecentomila nei confronti dei soggetti che svolgono le funzioni di amministrazione, di direzione, di controllo, nonche' dei dipendenti o di coloro che operano sulla base di rapporti che ne determinano l'inserimento nell'organizzazione dell'impresa anche in forma diversa dal rapporto di lavoro subordinato, quando l'inosservanza e' conseguenza della violazione di doveri propri o dell'organo di appartenenza e la condotta ha inciso in modo rilevante sul bene giuridico tutelato.
+
+Nel caso in cui la condotta dei soggetti di cui al comma 1 abbia contribuito a determinare l'inosservanza dell'ordine previsto nell'articolo 324-quater da parte dell'impresa, si applica nei confronti dei soggetti stessi la sanzione amministrativa pecuniaria da mille euro a settecentomila euro.
+
+Con il provvedimento di applicazione della sanzione, tenuto conto dei criteri stabiliti dall'articolo 324-sexies, l'IVASS puo' applicare la sanzione amministrativa accessoria dell'interdizione dallo svolgimento di funzioni di amministrazione, direzione e controllo presso imprese di assicurazione e di riassicurazione, per un periodo non inferiore a sei mesi e non superiore a tre anni.
+
+La misura della sanzione amministrativa pecuniaria puo' essere aumentata secondo quanto previsto all'articolo 310, comma 2.
+
+5. Quando le ipotesi di cui ai commi 1 e 2 riguardano l'inosservanza delle norme richiamate all'articolo 324, comma 1, da parte di societa' di intermediazione assicurativa o riassicurativa, si applica la sanzione amministrativa dell'interdizione temporanea dall'esercizio di funzioni di gestione dei componenti dell'organo di amministrazione considerati responsabili, per il periodo di cui al comma 3.))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 324-octies. — (Procedura di applicazione delle sanzioni amministrative nei confronti degli intermediari e degli esponenti aziendali o del personale della societa' di intermediazione assicurativa o riassicurativa)
+
+L'IVASS, fermo restando quanto previsto dagli articoli 324-ter e 324-quinquies, ai fini dell'irrogazione delle sanzioni amministrative di cui all'((agli articoli 324, 324-quater nei confronti degli intermediari e 324-septies, comma 5,)), nel termine di centoventi giorni dall'accertamento dell'infrazione, ovvero nel termine di centottanta giorni per i soggetti residenti all'estero, provvede alla contestazione degli addebiti nei confronti dei soggetti iscritti nel registro degli intermediari, i collaboratori e gli altri soggetti ausiliari dell'intermediario di assicurazione o di riassicurazione, possibili responsabili della violazione e trasmette i relativi atti al Collegio di garanzia.
+
+I destinatari di cui al comma 1 possono presentare, nel termine di sessanta giorni dalla notifica della contestazione, deduzioni difensive e chiedere l'audizione dinnanzi al Collegio di garanzia, cui possono partecipare con l'assistenza di un avvocato.
+
+Il Collegio di garanzia e' istituito presso l'IVASS ed e' composto da un magistrato con qualifica non inferiore a consigliere della Corte di cassazione o equiparato, anche a riposo, con funzioni di presidente ovvero da un docente universitario di ruolo, e da due componenti esperti in materia assicurativa, di cui uno designato sentite le associazioni maggiormente rappresentative. Il mandato ha durata quadriennale ed e' rinnovabile una sola volta. Il Collegio di garanzia puo' essere costituito in piu' sezioni, con corrispondente incremento del numero dei suoi componenti, qualora l'IVASS lo ritenga necessario per garantire condizioni di efficienza e tempestivita' nella definizione dei procedimenti sanzionatori. L'IVASS nomina il Collegio di garanzia, stabilisce le norme sulla procedura dinnanzi al Collegio nel rispetto dei principi del giusto procedimento e determina il regime delle incompatibilita' ed il compenso dei componenti, che e' posto a carico dell'Istituto.
+
+A seguito dell'esercizio delle facolta' difensive di cui al comma 2 ovvero decorso inutilmente il relativo termine, il Collegio di garanzia ((, acquisiti i documenti in atti)), esamina gli scritti difensivi e dispone l'audizione, alla quale le parti possono partecipare anche con l'assistenza di avvocati ed esperti di fiducia.
+Se non ritiene provata la violazione, il Collegio di garanzia puo' proporre l'archiviazione della contestazione o chiedere all'IVASS di disporre l'integrazione delle risultanze istruttorie. Se, invece, ritiene provata la violazione, trasmette per competenza all'IVASS la proposta motivata di determinazione della sanzione.
+
+L'IVASS, ricevuta la proposta formulata dal Collegio di garanzia, decide la sanzione con provvedimento motivato, che viene successivamente comunicato alle parti del procedimento.
+
+Il procedimento sanzionatorio e' retto dai principi del contraddittorio, della conoscenza degli atti istruttori, della verbalizzazione nonche' della distinzione tra funzioni istruttorie e funzioni decisorie.
+
+Le controversie relative ai ricorsi avverso i provvedimenti che applicano la sanzione sono devolute alla giurisdizione esclusiva del giudice amministrativo. L'IVASS provvede alla difesa in giudizio con propri legali. L'opposizione non sospende l'esecuzione del provvedimento.
+
+La procedura di cui al presente articolo si applica anche nel caso di violazioni commesse da esponenti aziendali o dal personale delle societa' di intermediazione assicurativa o riassicurativa. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 324-novies. — Procedura di applicazione delle sanzioni amministrative nei confronti delle imprese e degli esponenti aziendali e del personale
+
+
+
+Fermo restando quanto previsto dagli articoli 324-ter e 324-quinquies, ai fini dell'irrogazione alle imprese delle sanzioni amministrative di cui ((agli articoli 324-bis, 324-quater nei confronti delle imprese e 324-septies, commi 1, 2, 3 e 4,)), si applica la disciplina di cui all'articolo 311-septies. 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Capo VII ((Disposizioni generali in materia di sanzioni amministrative))
+
+## Art. 325. — Destinatari delle sanzioni amministrative pecuniarie
+
+Ad eccezione delle sanzioni di cui al Capo V e fatto salvo quanto previsto dall'articolo 311, le sanzioni amministrative sono applicate nei confronti delle imprese di assicurazione o di riassicurazione, delle imprese locali e delle particolari mutue assicuratrici di cui al Titolo IV, dell'ultima societa' controllante italiana come determinata dall'articolo 210, comma 2, per la violazione degli obblighi di cui al Titolo XV, delle societa' di partecipazione assicurativa e di partecipazione finanziaria mista, degli intermediari e degli altri soggetti destinatari degli obblighi di cui al presente codice o delle relative norme di attuazione, responsabili della violazione. (45)
+
+((COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68)). ((45))
+
+Le sanzioni per le violazioni commesse dai soggetti ai quali siano state affidate funzioni parzialmente comprese nel ciclo operativo delle imprese di assicurazione e di riassicurazione sono applicate nei confronti delle imprese stesse. (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 325-bis. — (Nozione di fatturato)
+
+Ai fini dell'applicazione delle sanzioni amministrative pecuniarie previste dal presente Codice, per fatturato si intende il fatturato totale annuo risultante dall'ultimo bilancio disponibile, approvato dall'organo competente, cosi' come definito dalle disposizioni attuative dettate dall'IVASS. ((Ove il fatturato non sia, per qualsiasi motivo, determinabile, la sanzione applicabile e' compresa tra un minimo di euro 5.000,00 e un massimo di euro 5 milioni.)) 
+ (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 325-ter. — (Pubblicazione delle sanzioni)
+
+I provvedimenti di applicazione delle sanzioni, le sentenze dei giudici amministrativi che decidono i ricorsi e i decreti che decidono i ricorsi straordinari al Presidente della Repubblica sono pubblicati per estratto nel Bollettino e sul sito internet dell'IVASS. L'IVASS, tenuto conto della violazione e degli interessi coinvolti, puo' stabilire modalita' ulteriori per dare pubblicita' al provvedimento, ponendo le relative spese a carico dell'autore della violazione.
+
+Se le situazioni descritte al comma 2 hanno carattere temporaneo, la pubblicazione puo' essere rimandata ed effettuata quando dette esigenze sono venute meno.
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 325-quater. — (( (Comunicazione all'AEAP delle sanzioni applicate per le violazioni delle disposizioni in materia di realizzazione e di distribuzione dei prodotti assicurativi, inclusi i prodotti di investimento assicurativo).))
+
+((
+
+L'IVASS comunica all'AEAP le sanzioni applicate per le violazioni alle disposizioni relative alle attivita' di realizzazione e di distribuzione di prodotti assicurativi, inclusi i prodotti di investimento assicurativi, ivi comprese le sanzioni pubblicate in forma anonima, o la cui pubblicazione sia stata rimandata o esclusa, nonche' comunica le informazioni sulle impugnazioni dei provvedimenti e sull'esito delle stesse.
+
+))
+
+L'IVASS trasmette all'AEAP con cadenza annuale informazioni aggregate relative a tutte le sanzioni amministrative e alle altre misure applicate in conformita' del ((Capo VI del presente Titolo)).  (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 326. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 327. — ((ARTICOLO ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68))
+
+((45))
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto".
+
+## Art. 328. — Norme sul pagamento delle sanzioni amministrative pecuniarie
+
+COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68. (45)
+
+COMMA ABROGATO DAL D.LGS. 21 MAGGIO 2018, N. 68. (45)
+
+L'IVASS, con regolamento, determina le modalita' e i termini di pagamento delle sanzioni amministrative pecuniarie. Alla riscossione coattiva delle sanzioni amministrative pecuniarie si provvede mediante ruolo secondo i termini e le modalita' previsti dal decreto del Presidente della Repubblica 29 settembre 1973, n. 602. (45)
+
+Sono versati alla CONSAP Spa - Gestione autonoma del Fondo di garanzia per le vittime della strada i proventi derivanti dalle sanzioni amministrative pecuniarie irrogate in applicazione dei seguenti articoli: 
+ ((a) 310, comma 1, lettera b), ad eccezione di quelli derivanti dalle sanzioni irrogate per violazione dell'articolo 10-quater;)) 
+ b) 310, comma 1, lettera c), ad eccezione di quelli derivanti dalle sanzioni irrogate per violazione dell'articolo 183; 
+ c) 310-bis; 
+ d) 310-ter; 
+ e) 310-quater. (45)
+
+Alle sanzioni amministrative pecuniarie previste dal presente Titolo non si applicano le disposizioni contenute negli articoli 6, 10, 11, 14, commi 1, 2 e 5 per la parte relativa alla facolta' di pagamento della sanzione in misura ridotta, 16 e 22 della legge 24 novembre 1981, n. 689. ((Per la notifica delle sanzioni amministrative, anche di natura non pecuniaria, irrogate dall'IVASS, si applica l'articolo 14, comma 4, della legge 24 novembre 1981, n. 689.)) (45)
+
+------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 328-bis. — (( (Impegni).))
+
+
+
+((La tempestiva presentazione di una proposta di impegni sospende il termine di conclusione del procedimento sanzionatorio, fino alla notifica del provvedimento di rigetto della proposta o di riapertura del procedimento sanzionatorio nei casi di cui al comma 4.))
+
+((In caso di mancato rispetto degli impegni resi obbligatori ai sensi del comma 1, l'IVASS puo' irrogare la sanzione amministrativa pecuniaria prevista dalla normativa di riferimento, i cui limiti edittali massimi sono aumentati del 10 per cento. Al fine di monitorare l'attuazione degli impegni, l'IVASS esercita i poteri di cui agli articoli 188 e 189.))
+
+((L'IVASS pubblica sul proprio sito internet istituzionale gli impegni assunti ai sensi del presente articolo.))
+                                ((82))
+
+--------------
+                            AGGIORNAMENTO (82)
+                            
+ Il D.Lgs. 31 dicembre 2025, n. 209, ha disposto (con l'art. 4, comma 1) che "Le modifiche apportate dal presente decreto si applicano a decorrere dal 19 giugno 2026 e ai contratti conclusi successivamente a tale data".
+
+## - - Capo VIII ((Disposizioni in materia disciplinare per i periti assicurativi))
+
+## Art. 329. — ((Sanzioni disciplinari applicabili ai periti assicurativi))
+
+((1. I periti assicurativi che nell'esercizio della loro attivita' violino le norme del presente codice o le relative norme di attuazione, sono puniti, in base alla gravita' dell'infrazione e tenuto conto dell'eventuale recidiva, con una delle seguenti sanzioni: 
+ a) richiamo; 
+b) censura; 
+ c) radiazione.))
+                                ((45))
+                                ((2. Il richiamo, consistente in una dichiarazione scritta di biasimo motivato, e' disposto per fatti di lieve manchevolezza. La censura e' disposta per fatti di particolare gravita'. La radiazione e' disposta per fatti di eccezionale gravita' e determina l'immediata risoluzione dei rapporti di intermediazione e, nel caso di esercizio dell'attivita' in forma societaria, comporta altresi' la cancellazione della societa' nei casi di particolare gravita' o di sistematica reiterazione dell'illecito.))
+                                ((45))
+
+I provvedimenti disciplinari sono notificati all'interessato mediante lettera raccomandata e sono comunicati alle imprese con le quali il medesimo ha incarichi in corso di esecuzione.
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 330. — (( (Competenza ad adottare i provvedimenti disciplinari nei confronti dei periti assicurativi). ))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 331. — (( (Procedura di applicazione delle sanzioni disciplinari nei confronti dei periti). ))
+
+((
+
+Ai fini dell'irrogazione delle sanzioni disciplinari di cui all'articolo 329, la CONSAP, nel termine di centoventi giorni dall'accertamento dell'infrazione, ovvero nel termine di centottanta per i soggetti residenti all'estero, provvede alla contestazione degli addebiti nei confronti dei periti di assicurazione, eventuali responsabili della violazione.
+
+I destinatari di cui al comma 1 possono presentare, nel termine di sessanta giorni, scritti difensivi avverso la contestazione degli addebiti e chiedere l'audizione dinnanzi al Collegio di garanzia di cui all'articolo 324-octies, cui puo' partecipare con l'assistenza di un avvocato.
+
+A seguito dell'esercizio delle facolta' difensive di cui al comma 2 ovvero decorso inutilmente il relativo termine, il Collegio di garanzia acquisisce le risultanze istruttorie, esamina gli scritti difensivi e dispone l'audizione, alla quale le parti possono partecipare anche con l'assistenza di avvocati ed esperti di fiducia.
+Se non ritiene provata la violazione, il Collegio di garanzia puo' proporre l'archiviazione della contestazione o chiedere alla CONSAP di disporre l'integrazione delle risultanze istruttorie. Se, invece, ritiene provata la violazione, trasmette per competenza alla CONSAP la proposta motivata di determinazione della sanzione.
+
+La CONSAP, ricevuta la proposta formulata dal Collegio di garanzia, decide la sanzione con provvedimento motivato, che viene successivamente comunicato alle parti del procedimento.
+
+Le controversie relative ai ricorsi avverso i provvedimenti che applicano la sanzione sono devolute alla giurisdizione esclusiva del giudice amministrativo. La CONSAP provvede alla difesa in giudizio con propri legali. L'opposizione non sospende l'esecuzione del provvedimento.
+
+6. I provvedimenti che infliggono la sanzione disciplinare della radiazione, le sentenze dei giudici amministrativi che decidono i ricorsi e i decreti che decidono i ricorsi straordinari al Presidente della Repubblica sono pubblicati da CONSAP nel suo sito internet.))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 331-bis. — (( (Disposizioni di attuazione). ))
+
+((45))
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 3) che "Le modifiche apportate al Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, si applicano alle violazioni commesse dopo l'entrata in vigore delle disposizioni adottate dall'IVASS ai sensi dell'art. 331-bis del medesimo decreto legislativo. Alle violazioni commesse prima della data di entrata in vigore delle disposizioni adottate dall'IVASS continuano ad applicarsi le norme del Titolo XVIII del decreto legislativo 7 settembre 2005, n. 209, vigenti prima della data di entrata in vigore del presente decreto". 
+ Ha inoltre disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## - - Titolo XIX DISPOSIZIONI TRIBUTARIE TRANSITORIE E FINALI Capo I Disposizioni tributarie
+
+## Art. 332. — Fondo di integrazione a copertura del margine di solvibilita' delle imprese di assicurazione
+
+Il fondo di integrazione, costituito ai sensi dei commi 4, 5 e 6 dell'articolo 27 del decreto legislativo 17 marzo 1995, n. 174, e dai commi 4, 5 e 6 dell'articolo 28 del decreto legislativo 17 marzo 1995, n. 175, in data antecedente al 1° gennaio 2004, concorre alla formazione del reddito imponibile della societa' nell'esercizio e nella misura in cui sia attribuito ai soci anche mediante riduzione del capitale sociale.
+
+La voce riserve di rivalutazione prevista nello stato patrimoniale del bilancio delle imprese di assicurazione contiene, fra l'altro, il fondo di integrazione di cui al comma 1 gia' iscritto nel bilancio dell'esercizio chiuso al 31 dicembre 2003.
+
+## Art. 333. — Imposte e tasse sulle iscrizioni e sulle annotazioni di vincolo delle 
+attivita' patrimoniali
+
+Le iscrizioni ipotecarie e le annotazioni di vincolo, previste dall'articolo 224, comma 1, da eseguire sui beni immobili situati nel territorio della Repubblica sono soggette alle imposte ipotecarie in misura fissa.
+
+La relativa spesa e' posta a carico dell'impresa.
+
+## Art. 334. — Contributo sui premi delle assicurazioni dei veicoli e dei natanti
+
+Sui premi delle assicurazioni per la responsabilita' civile per i danni causati dalla circolazione dei veicoli a motore e dei natanti si applica un contributo, sostitutivo delle azioni spettanti alle Regioni e agli altri enti che erogano prestazioni a carico del Servizio sanitario nazionale, nei confronti dell'impresa di assicurazione, del responsabile del sinistro o dell'impresa designata, per il rimborso delle prestazioni erogate ai danneggiati dalla circolazione dei veicoli a motore e dei natanti.
+
+Il contributo si applica, con aliquota del diecivirgolacinque per cento, sui premi incassati e deve essere distintamente indicato in polizza e nelle quietanze. L'impresa di assicurazione ha diritto di rivalersi nei confronti del contraente per l'importo del contributo.
+
+((Per l'individuazione e la denuncia dei premi soggetti al contributo, per la riscossione e per le relative sanzioni si applica la legge 29 ottobre 1961, n. 1216. Entro il 16 novembre di ogni anno, gli assicuratori versano altresi' a titolo di acconto una somma pari all'85 per cento del contributo dovuto per l'anno precedente; per esigenze di liquidita' l'acconto puo' essere scomputato, a partire dal successivo mese di febbraio, dai versamenti da eseguire ai sensi del presente comma)). 
+ (15) (29)
+
+-------------
+                            AGGIORNAMENTO (15)
+                            
+ La L. 23 dicembre 2009, n. 191, ha disposto (con l'art. 2, comma 110) che "A decorrere dal 1° gennaio 2010, il contributo di cui all'articolo 334 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, relativamente agli intestatari delle carte di circolazione residenti nelle province autonome di Trento e di Bolzano, e' attribuito alla rispettiva provincia. Gli assicuratori sono tenuti a scorporare dal totale dei contributi di cui al citato articolo 334 del codice di cui al decreto legislativo n. 209 del 2005 le somme attribuite alle province autonome di Trento e di Bolzano e a effettuare distinti versamenti a favore di ogni singola provincia autonoma con le stesse modalita' previste dal regolamento di cui al decreto del Ministro delle finanze 14 dicembre 1998, n. 457, per il versamento dell'imposta sulle assicurazioni per la responsabilita' civile derivante dalla circolazione dei veicoli a motore." 
+                            -------------
+                            AGGIORNAMENTO (29)
+                            
+ Il D.L. 31 agosto 2013, n. 102, convertito con modificazioni dalla L. 28 ottobre 2013, n. 124, ha disposto (con l'art. 12, comma 2-bis) che "A decorrere dal periodo d'imposta in corso alla data del 31 dicembre 2014, il contributo previsto nell'articolo 334 del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, e' indeducibile ai fini delle imposte sui redditi e dell'imposta regionale sulle attivita' produttive".
+
+## - - Capo II ((Contributi di vigilanza e di gestione))
+
+## Art. 335. — Imprese di assicurazione e di riassicurazione
+
+Il contributo di vigilanza e' commisurato ad un importo non superiore al due per mille dei premi incassati in ciascun esercizio, escluse le tasse e le imposte ed al netto di un'aliquota per oneri di gestione calcolata dall'IVASS mediante apposita elaborazione dei dati risultanti dai bilanci dell'esercizio precedente. ((Per le imprese di cui al comma 1, lettera e-bis), detto contributo e' commisurato a un importo non superiore alla meta' di quello di cui al periodo precedente ed e' calcolato sui premi incassati in Italia.))
+
+Il contributo di vigilanza dovuto dalle altre mutue di assicurazione e' commisurato all'uno per mille dei premi incassati in ciascun esercizio, escluse le tasse e le imposte.
+
+Il contributo di vigilanza e' determinato entro il 30 maggio con decreto del Ministro dell'economia e delle finanze adottato, sentito l'IVASS, in modo da assicurare la copertura finanziaria degli oneri di vigilanza sulle imprese ((nonche' delle spese di funzionamento dei sistemi di cui all'articolo 187.1, comma 1)). Il decreto e' pubblicato entro il 30 giugno nella Gazzetta Ufficiale e nel Bollettino dell'IVASS.
+
+Il contributo, calcolato al netto dell'aliquota per oneri di gestione, e' versato direttamente all'IVASS in due rate rispettivamente entro il 31 gennaio e entro il 31 luglio di ogni anno e viene iscritto in apposita voce del bilancio di previsione.
+L'eventuale residuo confluisce nell'avanzo di amministrazione e viene considerato nell'ambito del fabbisogno per l'esercizio successivo.
+
+La riscossione coattiva avviene tramite ruolo e secondo le modalita' di cui all'articolo 67, comma 2, del decreto del Presidente della Repubblica 28 gennaio 1988, n. 43.
+
+## Art. 336. — Intermediari di assicurazione e di riassicurazione
+
+((
+
+Ciascun iscritto al registro di cui all'articolo 109 e all'elenco annesso al registro di cui agli articoli 116-quater e 116-quinquies e' tenuto al pagamento all'IVASS di un contributo annuale, denominato contributo di vigilanza sugli intermediari di assicurazione e riassicurazione nella misura massima di: euro 100 per le persone fisiche iscritte al registro di cui all'articolo 109, comma 2, lettera a); euro 500 per le persone giuridiche iscritte al registro di cui all'articolo 109, comma 2, lettera a); euro 100 per le persone fisiche iscritte al registro di cui all'articolo 109, comma 2, lettera b); euro 500 per le persone giuridiche iscritte al registro di cui all'articolo 109, comma 2, lettera b), euro 50 per le persone fisiche iscritte al registro di cui all'articolo 109, comma 2, lettera c), euro 10.000,00 per le persone giuridiche iscritte al registro di cui all'articolo 109, comma 2, lettera d), euro 100 per le persone fisiche iscritte al registro di cui all'articolo 109, comma 2, lettera f); euro 500 per le persone giuridiche iscritte al registro di cui all'articolo 109, comma 2, lettera f); euro 5.000,00 per gli enti creditizi e le imprese di investimento di cui all'articolo 4, paragrafo 1, punti 1) e 2), del regolamento (UE) n. 575 del 26 giugno 2013 iscritti nell'elenco annesso al registro di cui agli articoli 116-quater e 116-quinquies, ed euro 250 e 50, rispettivamente, per altre persone giuridiche e per le persone fisiche iscritte nel medesimo elenco. Il contributo non e' deducibile dal reddito dell'intermediario iscritto al registro di cui all'articolo 109.
+
+))
+
+((
+
+Il contributo di vigilanza e' determinato entro il 30 maggio di ogni anno con decreto del Ministro dell'economia e delle finanze adottato, sentito l'IVASS, in modo da assicurare la copertura finanziaria degli oneri di vigilanza sugli intermediari iscritti al registro e all'elenco annesso nonche' delle spese di funzionamento dei sistemi di cui all'articolo 187.1, comma 1. Il decreto e' pubblicato entro il 30 giugno di ogni anno nella Gazzetta Ufficiale e nel Bollettino dell'IVASS.
+
+))
+
+Si applica l'articolo 335, commi 5 e 6. L'attestazione relativa al pagamento e' comunicata all'IVASS nelle forme e con i termini stabiliti con il decreto di cui al comma 2.
+
+Il decreto del Ministro dell'economia e delle finanze, di cui al comma 2, individua altresi' il contributo a carico di coloro che intendono svolgere la prova di idoneita' di cui all'articolo 110, comma 2, nella misura necessaria a garantire lo svolgimento di tale attivita'. (45)
+
+---------------
+                            AGGIORNAMENTO (45)
+                            
+ Il D.Lgs. 21 maggio 2018, n. 68 ha disposto (con l'art. 4, comma 7) che "Le disposizioni di cui agli articoli 1 e 2 del presente decreto legislativo trovano applicazione dal 1° ottobre 2018, conformemente a quanto previsto dalla direttiva (UE) 2018/411 del Parlamento europeo e del Consiglio, che modifica la direttiva (UE) 2016/97 per quanto riguarda la data di applicazione delle misure di recepimento degli Stati membri".
+
+## Art. 337. — (( (Periti assicurativi) ))
+
+((
+
+Gli iscritti nel ruolo dei periti assicurativi sono tenuti al pagamento alla CONSAP di un contributo annuale, denominato contributo di gestione del ruolo dei periti assicurativi, nella misura massima di euro cento.
+
+Il contributo di gestione e' determinato entro il 30 maggio con decreto del Ministro dell'economia e delle finanze adottato, sentita la CONSAP, in modo da assicurare la copertura finanziaria degli oneri di gestione del ruolo dei periti assicurativi. Il decreto e' pubblicato entro il 30 giugno nella Gazzetta Ufficiale e sul sito internet della CONSAP.
+
+Il contributo di cui al presente articolo viene versato direttamente alla CONSAP entro il 31 luglio di ogni anno e viene iscritto in apposita voce del bilancio di previsione della stessa CONSAP. L'eventuale residuo confluisce nell'avanzo di amministrazione e viene considerato nell'ambito del fabbisogno per l'esercizio successivo.
+
+L'attestazione relativa al pagamento e' comunicata alla CONSAP nelle forme e con i termini stabiliti con il decreto di cui al comma 2. In caso di mancato pagamento si applica la disposizione di cui all'articolo 335, comma 6.
+
+))
+
+## - - Capo III Disposizioni transitorie
+
+## Art. 338. — Imprese di assicurazione e di riassicurazione gia' autorizzate
+
+Le imprese di assicurazione, che alla data di entrata in vigore del presente codice sono autorizzate ai sensi dell'articolo 7 del decreto legislativo 17 marzo 1995, n. 174, o dell'articolo 9 del decreto legislativo 17 marzo 1995, n. 175, o che alla data di entrata in vigore dei predetti decreti hanno conservato l'autorizzazione rilasciata sulla base di disposizioni previgenti, sono iscritte di diritto nella sezione I dell'albo previsto dall'articolo 14, comma 4.
+
+Le sedi secondarie di imprese di assicurazione extracomunitarie, che alla data di entrata in vigore del presente codice sono autorizzate ai sensi dell'articolo 81 del decreto legislativo 17 marzo 1995, n. 174, o dell'articolo 93 del decreto legislativo 17 marzo 1995, n. 175, o che alla data di entrata in vigore dei predetti decreti hanno conservato l'autorizzazione rilasciata sulla base di disposizioni previgenti, sono iscritte di diritto nella sezione II dell'albo previsto dagli articoli 14, comma 4, e 28, comma 5, ultimo periodo.
+
+Le mutue di assicurazione non soggette ai decreti legislativi 17 marzo 1995, n. 174, e 17 marzo 1995, n. 175, che alla data di entrata in vigore del presente codice sono autorizzate ai sensi del decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, sono iscritte di diritto nella sezione III dell'albo previsto dagli articoli 14, comma 4, e 55 comma 2.
+
+Le imprese di riassicurazione, che alla data di entrata in vigore del presente codice sono autorizzate ai sensi del decreto del Presidente della Repubblica 13 febbraio 1959, n 449, o che alla data di entrata in vigore del predetto decreto hanno conservato l'autorizzazione rilasciata sulla base di disposizioni previgenti, sono iscritte di diritto nella sezione IV dell'albo previsto dagli articoli 14, comma 4, e 59, comma 5.
+
+Le sedi secondarie di imprese di riassicurazione extracomunitarie, che alla data di entrata in vigore del presente codice sono autorizzate ai sensi del decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, o che alla data di entrata in vigore del predetto decreto hanno conservato l'autorizzazione rilasciata sulla base di disposizioni previgenti, sono iscritte di diritto nella sezione IV dell'albo previsto dagli articoli 14, comma 4, e 60, comma 3.
+
+Le imprese con sede legale in altri Stati membri, che alla data di entrata in vigore del presente codice operano nel territorio della Repubblica ai sensi dell'articolo 69 del decreto legislativo 17 marzo 1995, n. 174, o dell'articolo 80 del decreto legislativo 17 marzo 1995, n. 175, o che alla data di entrata in vigore dei predetti decreti hanno conservato l'autorizzazione rilasciata sulla base di disposizioni previgenti, sono iscritte di diritto nell'elenco delle imprese in regime di stabilimento previsto dall'articolo 26.
+
+Le imprese con sede legale in altri Stati membri, che alla data di entrata in vigore del presente codice operano nel territorio della Repubblica ai sensi dell'articolo 70 del decreto legislativo 17 marzo 1995, n. 174, o dell'articolo 81 del decreto legislativo 17 marzo 1995, n. 175, o che alla data di entrata in vigore dei predetti decreti hanno conservato l'autorizzazione rilasciata sulla base di disposizioni previgenti, e le sedi secondarie di imprese italiane stabilite in altri Stati membri, che alla data di entrata in vigore del codice operano nel territorio della Repubblica ai sensi dell'articolo 49 del decreto legislativo 17 marzo 1995, n. 174, o dell'articolo 60 del decreto legislativo 17 marzo 1995, n. 175, sono iscritte di diritto nell'elenco delle imprese in regime di prestazione di servizi previsto dall'articolo 26.
+
+## Art. 339. — ((ARTICOLO ABROGATO DAL D.LGS. 12 MAGGIO 2015, N. 74))
+
+
+
+## Art. 340. — Margine di solvibilita' disponibile nei rami vita
+
+Sino al 31 dicembre 2009, su motivata richiesta dell'impresa che esercita i rami vita, l'((IVASS)) puo' autorizzare a comprendere nel margine di solvibilita' disponibile, per periodi singolarmente non superiori a dodici mesi, una aliquota degli utili futuri dell'impresa, nei limiti ed alle condizioni previste dal regolamento di cui all'articolo 44, comma 4.
+
+Ai fini della richiesta di cui al comma 1, l'impresa presenta una relazione, redatta e sottoscritta dall'attuario incaricato, che convalidi la plausibilita' della realizzazione di detti utili nel futuro ed un piano che illustri come in seguito potranno essere rispettati i limiti, anche in relazione al venir meno della possibilita' di utilizzo degli utili futuri, alla scadenza del periodo transitorio.
+
+## Art. 341. — Imprese in liquidazione coatta
+
+Le disposizioni di cui all'articolo 252 si applicano alle imprese poste in liquidazione coatta in data successiva all'entrata in vigore del decreto legislativo del 17 marzo 1995, n. 174, e del decreto legislativo del 17 marzo 1995, n. 175. Le liquidazioni coatte, intervenute in data anteriore all'entrata in vigore dei medesimi decreti, continuano ad essere disciplinate dalla legislazione vigente al momento della pubblicazione del relativo provvedimento nella Gazzetta Ufficiale. Gli articoli 246, commi 1, 2 e 3, 250, 252, comma 2, 261, 262 e 263 si applicano a tutte le procedure in corso alla data di entrata in vigore del presente codice.
+
+Resta in vigore il decreto del Ministro del lavoro e delle politiche sociali, di concerto con il ((Ministro dello sviluppo economico)), recante norme per agevolare, senza oneri a carico del bilancio dello Stato, l'esodo dei lavoratori provenienti da imprese esercenti l'assicurazione obbligatoria della responsabilita' civile derivante dalla circolazione dei veicoli a motore e dei natanti, poste in liquidazione coatta amministrativa, che siano stati riassunti dal commissario liquidatore nell'ambito delle misure per il perseguimento di politiche attive di sostegno del reddito e dell'occupazione di cui all'articolo 2, comma 28, della legge 23 dicembre 1996, n. 662.
+
+## Art. 342. — Partecipazioni gia' autorizzate
+
+Restano autorizzate, salvo eventuali revoche, le partecipazioni qualificate o di controllo gia' consentite in applicazione dell'articolo 10 della legge 9 gennaio 1991, n. 20.
+
+## Art. 343. — Intermediari gia' iscritti od operanti
+
+I soggetti che alla data di entrata in vigore del presente codice sono iscritti all'Albo degli agenti di assicurazione o all'Albo nazionale dei mediatori di assicurazione e di riassicurazione sono iscritti di diritto nella corrispondente sezione del registro previsto dall'articolo 109, comma 2, previa dimostrazione dell'assolvimento dell'obbligo di stipulazione della polizza di responsabilita' civile, di cui agli articoli 110, comma 3, e 112, comma 3, salvo quanto disposto all'articolo 109, comma 3, entro dodici mesi dalla data di entrata in vigore del presente codice.
+
+I soggetti che sono stati cancellati dall'Albo degli agenti di assicurazione o dall'Albo dei mediatori di assicurazione e riassicurazione nel termine, rispettivamente, di cinque anni o di due anni dalla data di entrata in vigore del presente codice possono essere nuovamente iscritti a condizione che la richiesta sia effettuata entro dodici mesi dall'entrata in vigore del presente codice e che la cancellazione non sia stata disposta in forza di un provvedimento disciplinare definitivo. L'iscrizione, salvo quanto disposto all'articolo 109, comma 3, e' subordinata all'assolvimento dell'obbligo di stipulazione della polizza di responsabilita' civile di cui all'articolo 110, comma 3.
+
+Le persone fisiche che, in vigenza della legge 7 febbraio 1979, n. 48, e della legge 28 novembre 1984, n. 792, avrebbero maturato i requisiti per l'iscrizione di diritto rispettivamente all'albo degli agenti di assicurazione o dei mediatori di assicurazione o di riassicurazione hanno titolo per l'iscrizione nella corrispondente sezione del registro previsto dall'articolo 109, se il periodo richiesto e' completato entro dodici mesi dalla data di entrata in vigore del presente codice. In pendenza del termine per l'iscrizione essi possono continuare ad esercitare l'attivita' precedentemente svolta.
+
+I soggetti di cui all'articolo 109, comma 2, lettere c), d) ed e), che alla data di entrata in vigore del presente codice esercitano l'attivita' di intermediazione assicurativa o riassicurativa possono iscriversi, con le modalita' stabilite all'articolo 109, comma 4, nella corrispondente sezione del registro entro i successivi dodici mesi. In pendenza del termine per l'iscrizione essi possono continuare ad esercitare l'attivita' precedentemente svolta.
+
+Il Fondo di cui all'articolo 115 succede nei rapporti attivi e passivi al Fondo di garanzia per l'attivita' dei mediatori di assicurazione e di riassicurazione, di cui all'articolo 4, comma 1, lettera f), della legge 28 novembre 1984, n. 792, e continua ad operare nei casi previsti dal decreto del Ministro dell'industria, del commercio e dell'artigianato in data 30 aprile 1985, pubblicato nella Gazzetta Ufficiale n. 110 dell'11 maggio 1985.
+
+Le persone fisiche di cui al presente articolo e quelle iscritte nel registro degli intermediari di assicurazione e di riassicurazione non sono soggette agli obblighi previsti a carico degli agenti di commercio in materia di previdenza integrativa.
+
+## Art. 344. — Periti di assicurazione gia' iscritti
+
+I periti di assicurazione che esercitano l'attivita' di accertamento e stima dei danni alle cose derivanti dalla circolazione, dal furto e dall'incendio dei veicoli a motore e dei natanti e che alla data di entrata in vigore del presente codice sono iscritti nel ruolo di cui all'articolo 2 della legge 17 febbraio 1992, n. 166, sono iscritti di diritto al ruolo previsto dall'articolo 156.
+
+## - - ((Capo IIIbis Disposizioni transitorie relative all'entrata in vigore del regime solvibilita' II Sezione I Regime di applicazione immediata))
+
+## Art. 344-bis. — (( (Regime di applicazione immediata) ))
+
+((
+
+A partire dal 1° luglio 2015, l'IVASS puo' prevedere l'applicazione di misure transitorie ai sensi della Sezione II del presente Capo.
+
+Le autorizzazioni e le decisioni assunte dall'IVASS ai sensi dei commi 1, e dei commi 2 e 3, sono applicabili a partire dal 1° gennaio 2016.
+
+))
+
+## - - ((Sezione II Misure transitorie))
+
+## Art. 344-ter. — (( (Misure transitorie inerenti particolari tipi di imprese di assicurazione o di riassicurazione) ))
+
+((
+
+L'IVASS predispone un elenco delle imprese di assicurazione e di riassicurazione di cui al comma 1 e lo comunica a tutti gli altri Stati membri.
+
+Ai fini e nei limiti dell'applicazione del comma 1, continuano ad applicarsi le disposizioni di cui ai Titoli I, II, III, IV, V, VI, VII, XIV, XV, XVI, XVIII nella formulazione vigente anteriormente al 1° gennaio 2016.
+
+))
+
+## Art. 344-quater. — (( (Misure transitorie inerenti l'informativa e il processo di controllo prudenziale) ))
+
+((
+
+Fino al 31 dicembre 2019, il termine per la presentazione da parte dell'impresa dell'informativa annuale all'IVASS ai fini della verifica delle condizioni di esercizio di cui all'articolo 47-quater, diminuisce di due settimane per ogni esercizio finanziario, a cominciare da 20 settimane dopo la chiusura di esercizio dell'impresa in relazione all'esercizio avente fine il 31 dicembre 2016 fino al piu' tardi a 14 settimane dopo la chiusura di esercizio dell'impresa in relazione all'esercizio finanziario avente fine il 31 dicembre 2019.
+
+Fino al 31 dicembre 2019, il termine per la presentazione da parte dell'impresa della relazione sulla solvibilita' e sulla condizione finanziaria: di cui all'articolo 47-septies diminuisce di due settimane per ogni esercizio finanziario, a cominciare al piu' tardi da 20 settimane dopo la chiusura di esercizio dell'impresa in relazione all'esercizio avente fine il 31 dicembre 2016, fino al piu' tardi a 14 settimane dopo la chiusura dell'esercizio avente fine il 31 dicembre 2019.
+
+Fino al 31 dicembre 2019, il termine per la presentazione da parte dell'impresa dell'informativa trimestrale all'IVASS ai fini della verifica delle condizioni di esercizio di cui all'articolo 47-quater, su base trimestrale, diminuisce di una settimana per ogni esercizio finanziario, a cominciare al piu' tardi da otto settimane per ogni trimestre a partire dalla chiusura del primo trimestre 2016 fino al piu' tardi a cinque settimane dopo la chiusura del primo trimestre 2019.
+
+I termini previsti dai commi 1 e 3, aumentati di ulteriori sei settimane, si applicano all'ultima societa' controllante italiana di cui all'articolo 210, comma 2, con riferimento agli obblighi di informativa all'IVASS ai fini della verifica degli adempimenti sulla vigilanza sul gruppo di cui all'articolo 216-octies.
+
+I termini previsti dal comma 2, aumentati di ulteriori sei settimane, si applicano all'ultima societa' controllante italiana di cui all'articolo 210, comma 2, con riferimento alla relazione relativa alla solvibilita' di gruppo e alla condizione finanziaria di cui all'articolo 216-novies.
+
+))
+
+## Art. 344-quinquies. — (( (Misure transitorie in materia di fondi propri e investimenti) ))
+
+((
+
+Per l'impresa che investe in titoli negoziabili e altri strumenti finanziari basati su prestiti «confezionati» emessi prima del 1° gennaio 2011, i requisiti che devono essere soddisfatti dalle imprese che «confezionano» i prestiti in titoli negoziabili e altri strumenti finanziari si applicano soltanto nell'eventualita' in cui dopo il 31 dicembre 2014 siano state aggiunte o sostituite nuove esposizioni sottostanti.
+
+))
+
+## Art. 344-sexies. — (( (Misure transitorie in materia di Requisito Patrimoniale di Solvibilita') ))
+
+((
+
+La ponderazione relativa al parametro di cui al comma 2, lettera b), aumenta almeno linearmente alla fine di ogni anno, partendo dallo 0 per cento nell'anno avente inizio il 1° gennaio 2016 fino al 100 per cento al 1° gennaio 2023.
+
+))
+
+## Art. 344-septies. — (( (Misure transitorie in materia di misure di salvaguardia) ))
+
+((
+
+In deroga all'articolo 222, commi 2-bis e 2-ter, in materia di violazione del Requisito Patrimoniale di Solvibilita' e fatto salvo il comma 2-quater della medesima disposizione, se l'impresa rispetta il margine di solvibilita' richiesto dalle disposizioni legislative e regolamentari in materia di margine di solvibilita' applicabili al 31 dicembre 2015, ma, nel corso dell'anno 2016, non rispetta il Requisito Patrimoniale di Solvibilita' di cui al Titolo III, capo IV bis, l'IVASS impone all'impresa di adottare i provvedimenti necessari per raggiungere il livello di fondi propri ammissibili a copertura del requisito patrimoniale di solvibilita' o per ridurre il profilo di rischio dell'impresa al fine di garantire l'osservanza del requisito patrimoniale di solvibilita' entro il 31 dicembre 2017.
+
+Nei casi di cui al comma 1 l'impresa presenta all'IVASS, ogni tre mesi, una relazione concernente le misure adottate e i progressi realizzati per raggiungere il livello di fondi propri ammissibili a copertura del requisito patrimoniale di solvibilita' o per ridurre il proprio profilo di rischio al fine di garantire l'osservanza del requisito patrimoniale di solvibilita'.
+
+L'estensione di cui al comma 1 e' revocata dall'IVASS se dalla relazione sui progressi realizzati, di cui al comma 2, si evince che non vi sono stati progressi significativi nel ristabilire il livello di fondi propri ammissibili a copertura del requisito patrimoniale di solvibilita' o nel ridurre il profilo di rischio al fine di garantire l'osservanza del requisito patrimoniale di solvibilita' tra la data di rilevamento dell'inosservanza del Requisito Patrimoniale di Solvibilita' e la data di presentazione della relazione sui progressi realizzati.
+
+))
+
+## Art. 344-octies. — (( (Disposizioni transitorie in materia di vigilanza sul gruppo) ))
+
+((
+
+L'ultima societa' controllante italiana di cui all'articolo 210, comma 2, fino al 31 marzo 2022, puo' presentare all'IVASS la domanda per l'autorizzazione all'utilizzo di un modello interno di gruppo applicabile ad una parte del gruppo se l'impresa, cui si applica il modello interno di gruppo, ha sede nel territorio della Repubblica e se presenta un profilo di rischio sensibilmente diverso da quello del resto del gruppo.
+
+Il regolamento IVASS di cui all'articolo 216-ter, comma 1, stabilisce le disposizioni transitorie, applicabili a livello di gruppo in deroga al Titolo XV, Capo III, in coerenza con le disposizioni transitorie di cui agli articoli 344-quinquies in materia di fondi propri, 344-sexies in materia di Requisito Patrimoniale di Solvibilita', 344-novies in materia di tassi d'interesse privi di rischio, 344-decies in materia di riserve tecniche.
+
+In deroga alle previsioni di cui all'articolo 227 in materia di verifica della situazione di solvibilita' di gruppo, nel caso in cui l'ultima societa' controllante italiana di cui all'articolo 210, comma 2, soddisfi il requisito di solvibilita' corretta calcolato secondo le disposizioni legislative e regolamentari applicabili al 31 dicembre 2015 ma non soddisfi il requisito di solvibilita' di gruppo di cui agli articoli 216-sexies e 216-septies (requisito patrimoniale di solvibilita' di gruppo), l'IVASS impone alla societa' controllante di adottare i provvedimenti necessari per raggiungere il livello di fondi propri ammissibili a copertura del requisito patrimoniale di solvibilita' di gruppo o per ridurre il profilo di rischio del gruppo al fine di garantire l'osservanza del requisito patrimoniale di solvibilita' di gruppo entro il 31 dicembre 2017. Si applica l'articolo 344-septies, commi 2 e 3.
+
+Nelle ipotesi di cui al comma 3, l'IVASS, in qualita' di autorita' di vigilanza sul gruppo, adotta le misure di cui all'articolo 344-septies, comma 1, nei confronti dell'impresa italiana al vertice del gruppo che non sia ultima societa' controllante italiana, ai sensi dell'articolo 210, comma 2. Si applicano i commi 2 e 3 dell'articolo 344-septies.
+
+))
+
+## Art. 344-novies. — (( (Misura transitoria sui tassi d'interesse privi di rischio) ))
+
+((
+
+L'impresa di assicurazione o riassicurazione puo' applicare un adeguamento transitorio alla pertinente struttura per scadenza dei tassi d'interesse privi di rischio riguardo agli impegni di assicurazione e di riassicurazione ammissibili.
+
+L'applicazione dell'adeguamento transitorio di cui al comma 1 e' soggetto all'autorizzazione dell'IVASS.
+
+La parte di cui alla lettera a) della differenza di cui al comma 3 diminuisce linearmente alla fine di ogni anno, partendo dal 100 per cento al 1° gennaio 2016 fino allo 0 per cento al 1° gennaio 2032.
+
+Se l'impresa applica l'aggiustamento per la volatilita' di cui all'articolo 36-septies, la pertinente struttura per scadenza dei tassi d'interesse privi di rischio di cui alla lettera b) del comma 3 corrisponde alla pertinente struttura per scadenza dei tassi d'interesse privi di rischio rettificata di cui allo stesso articolo 36-septies.
+
+))
+
+## Art. 344-decies. — (Misura transitoria sulle riserve tecniche)
+
+L'impresa di assicurazione o di riassicurazione puo' applicare una deduzione transitoria alle riserve tecniche. La deduzione puo' essere applicata a livello dei gruppi di rischi omogenei di cui all'articolo 36-novies, comma 1.
+
+L'applicazione della deduzione transitoria di cui al comma 1 e' soggetta all'autorizzazione dell'IVASS.
+
+La deduzione transitoria massima diminuisce linearmente alla fine di ogni anno, partendo dal 100 per cento a partire dal 1° gennaio 2016 fino allo 0 per cento al 1° gennaio 2032.
+
+Se l'impresa, al 1° gennaio 2016, applica l'aggiustamento per la volatilita' di cui all'articolo 37-septies, l'importo di cui al comma 3, lettera a), e' calcolato con l'aggiustamento per la volatilita' al 1° gennaio 2016.
+
+Gli importi delle riserve tecniche, compreso, se applicabile, l'importo dell'aggiustamento per la volatilita', utilizzati per calcolare la deduzione transitoria di cui al comma 3, possono essere ricalcolati ogni 24 mesi o con una frequenza maggiore in caso di rilevante variazione del profilo di rischio dell'impresa. Il ricalcolo e' effettuato su autorizzazione o richiesta dell'IVASS.
+
+La deduzione di cui al comma 3 puo' essere limitata dall'IVASS qualora la sua applicazione possa comportare una riduzione dei requisiti sulle risorse finanziarie applicati all'impresa rispetto a quelli calcolati secondo le disposizioni legislative e regolamentari in materia di riserve tecniche applicabili al 31 dicembre 2015.
+
+L'impresa che applica il comma 1: 
+ ((a) non applica l'articolo 344-novies;)) 
+ b) se non puo' soddisfare il Requisito Patrimoniale di Solvibilita' senza applicare la deduzione transitoria, presenta una relazione annuale all'IVASS concernente le misure adottate e i progressi realizzati per ristabilire, alla fine del periodo di transizione di cui al comma 4, un livello di fondi propri ammissibili a copertura del Requisito Patrimoniale di Solvibilita' o per ridurre il profilo di rischio dell'impresa al fine di ripristinare l'osservanza del Requisito Patrimoniale di Solvibilita'; 
+ c) nell'ambito della relazione sulla solvibilita' e sulla condizione finanziaria di cui all'articolo 47-septies, rende pubblico il fatto che applica la deduzione transitoria alle riserve tecniche e quantifica l'impatto che la mancata applicazione di tale deduzione avrebbe sulla posizione finanziaria dell'impresa.
+
+## Art. 344-undecies. — (( (Piano di transizione sulle misure transitorie relative ai tassi d'interesse privi di rischio e sulle riserve tecniche) ))
+
+((
+
+L'impresa che applica le misure transitorie di cui agli articoli 344-novies e 344-decies e rileva che senza l'applicazione di tali misure non potrebbe rispettare il Requisito Patrimoniale di Solvibilita', ne informa immediatamente l'IVASS.
+
+Nei casi di cui al comma 1, l'IVASS impone all'impresa di adottare i provvedimenti necessari a garantire l'osservanza del requisito patrimoniale di solvibilita' alla fine del periodo di transizione.
+
+Entro due mesi dal rilevamento dell'inosservanza del Requisito Patrimoniale di Solvibilita' che deriverebbe dalla mancata applicazione di tali misure transitorie, l'impresa presenta all'IVASS un piano di transizione contenente le misure previste per raggiungere il livello di fondi propri ammissibili a copertura del Requisito Patrimoniale di Solvibilita' o per ridurre il profilo di rischio al fine di garantire l'osservanza del requisito patrimoniale di solvibilita' alla fine del periodo di transizione.
+
+Durante il periodo di transizione l'impresa interessata puo' aggiornare il piano di transizione.
+
+L'impresa interessata presenta all'IVASS una relazione annuale concernente le misure adottate e i progressi realizzati per garantire l'osservanza del Requisito Patrimoniale di Solvibilita' alla fine del periodo di transizione.
+
+L'IVASS revoca l'approvazione ad applicare le misure transitorie di cui agli articoli 344-novies e 344-decies se dalla relazione sulle misure adottate e i progressi realizzati di cui al comma 5 si evince che l'osservanza del Requisito Patrimoniale di Solvibilita' alla fine del periodo di transizione non e' realisticamente conseguibile.
+
+))
+
+## Art. 344-duodecies. — (( (Comunicazione di informazioni all'AEAP) ))
+
+((
+
+))
+
+## Art. 344-terdecies. — (( (Disposizioni transitorie riguardanti il rispetto del Requisito Patrimoniale Minimo) ))
+
+((
+
+In deroga all'articolo 222-bis, le imprese di assicurazione e di riassicurazione che, al 31 dicembre 2015, rispettano il margine di solvibilita' richiesto dalle disposizioni legislative e regolamentari in vigore a tale data ma non detengono fondi propri di base ammissibili sufficienti per coprire il Requisito Patrimoniale Minimo, si conformano alle disposizioni sul Requisito Patrimoniale Minimo di cui alla Sezione IV, Capo IV-bis, Titolo III, entro il 31 dicembre 2016.
+
+L'autorizzazione all'esercizio dell'attivita' di assicurazione o riassicurazione e' revocata, ai sensi dell'articolo 242, all'impresa di cui al comma 1 che non si e' conformata alle disposizioni sul Requisito Patrimoniale Minimo di cui alla Sezione IV, Capo IV-bis, Titolo III, entro il 31 dicembre 2016.
+
+))
+
+## Art. 344-quaterdecies. — (( (Obblighi di informativa sulle maggiorazioni di capitale) ))
+
+((
+
+Fermi restando gli obblighi di informativa previsti da altre disposizioni di legge o regolamentari, l'impresa, sebbene siano stati comunicati i Requisiti Patrimoniali di Solvibilita' ai sensi dell'articolo 47-septies, comma 2, lettera e), punto 2), sino al 31 dicembre 2020, pubblica senza separata evidenza la maggiorazione di capitale o l'impatto dei parametri specifici cui l'impresa deve ricorrere ai sensi dell'articolo 45-terdecies.
+
+))
+
+## - - Capo IV Disposizioni finali
+
+## Art. 345. — Istituzioni e enti esclusi
+
+In deroga a quanto previsto al comma 1, la SACE S.p.a. e' sottoposta alle disposizioni dei capi I, II e III del titolo VIII del presente codice per le attivita' che beneficiano della garanzia dello Stato. Restano integralmente soggette alle disposizioni del presente codice le attivita' della SACE S.p.a. che non beneficiano della garanzia dello Stato.
+
+Le societa' di mutuo soccorso di cui al comma 1, lettera f), se contraggono impegni al pagamento a favore degli iscritti di capitali o rendite complessivamente superiori a euro centomila per ciascun esercizio sono sottoposte alle disposizioni del titolo IV in quanto compatibili. Qualora le medesime societa' stipulino contratti di assicurazione per conto degli iscritti, ai soci sono comunque fornite le informazioni di cui al titolo IX, capo III, e XII in quanto compatibili.
+
+Le casse di assistenza sanitaria autogestite sono sottoposte alle disposizioni del titolo IV in quanto compatibili.
+
+## Art. 346. — Attivita' di assistenza prestata da enti e societa' non assicurative
+
+La disposizione di cui al comma 1, lettera b), si applica anche nel caso in cui l'incidente od il guasto siano avvenuti all'estero ed il soggetto che effettua il soccorso od il trasporto del veicolo sia un organismo, analogo ad altro esistente in Italia, del quale chi riceve l'assistenza e' membro, che fornisce la prestazione in base ad un accordo di reciprocita' con l'organismo nazionale, su semplice presentazione della tessera di membro e senza pagamento di alcun compenso aggiuntivo.
+
+L'attivita' di assistenza descritta al comma 1, lettera b), se effettuata da un'impresa di assicurazione, costituisce prestazione assicurativa nel ramo assistenza e, fatto salvo quanto previsto all'articolo 2, comma 5, puo' essere fornita solo da imprese autorizzate al ramo 18.
+
+L'((IVASS)) disciplina, con regolamento, le condizioni di accesso e di esercizio, anche in deroga alle disposizioni dei titoli II, III e VIII, relative all'impresa di assicurazione che esercita unicamente l'attivita' di assistenza, allorche' l'attivita' comporti soltanto prestazioni in natura, sia limitata ad un ambito territoriale puramente locale e l'importo complessivo annuale dei ricavi non superi duecentomila euro.
+
+## Art. 347. — Potesta' legislativa delle Regioni
+
+Lo Stato esercita la legislazione nella materia assicurativa ai sensi dell'articolo 117, secondo comma, lettere e) ed l), della Costituzione.
+
+Le Regioni a statuto speciale, alle quali sono riconosciuti, in base alle norme di attuazione dei rispettivi statuti, poteri nelle materie regolate dal presente codice, provvedono a emanare norme di attuazione nel rispetto delle disposizioni di principio non derogabili contenute nel codice medesimo.
+
+Sono riservati alla competenza del ((Ministro dello sviluppo economico)) e all'((IVASS)), secondo le norme dettate dal presente codice, i provvedimenti nei confronti delle imprese di assicurazione e di riassicurazione ammesse al mutuo riconoscimento, delle imprese comunitarie che operano nel territorio della Repubblica in regime di stabilimento o di prestazione di servizi, delle sedi secondarie di imprese di assicurazione e di riassicurazione extracomunitarie, degli intermediari di assicurazione e di riassicurazione ((...)).
+
+Nei casi in cui la normativa regionale preveda l'adozione di provvedimenti nei confronti delle mutue di assicurazione di cui al titolo IV, con particolare riferimento al rilascio ed alla revoca dell'autorizzazione all'esercizio dell'attivita', all'approvazione delle modificazioni statutarie e all'approvazione delle operazioni di trasferimento del portafoglio, di trasformazione e di fusione o scissione, l'((IVASS)) esprime, ai fini di vigilanza, un parere vincolante. Le valutazioni di vigilanza sono riservate all'((IVASS)).
+
+Sono inderogabili e prevalgono sulle contrarie disposizioni gia' emanate le norme dettate dai commi 3 e 4.
+
+## Art. 348. — (( (Esercizio congiunto dei rami vita e danni) ))
+
+((
+
+In deroga all'obbligo di limitazione dell'oggetto sociale all'esercizio dei rami vita o dei rami danni, della relativa riassicurazione e delle operazioni connesse a tali attivita', di cui all'articolo 11, comma 2, e' consentito l'esercizio congiunto dei rami vita e danni alle imprese a cio' autorizzate alla data del 15 marzo 1979.
+
+I requisiti minimi di cui al comma 2-ter che sono a carico della gestione vita e della gestione danni non sono sostenuti dall'altra gestione.
+
+L'impresa in possesso dei requisiti minimi di cui ai commi 2-ter e 2-quater puo', previa comunicazione all'IVASS, utilizzare gli elementi espliciti dei fondi propri ammissibili ancora disponibili per l'una o l'altra gestione per coprire il requisito patrimoniale di solvibilita' di cui all'articolo 45-bis.
+
+L'IVASS, mediante l'analisi dei risultati delle attivita' di assicurazione delle gestioni vita e danni, verifica che siano rispettati i requisiti di cui ai commi 2, 2-bis, 2-ter, 2-quater e 2-quinquies.
+
+L'impresa che esercita congiuntamente i rami vita e danni elabora, in base alle scritture contabili, un documento da cui risultano in modo distinto gli elementi dei fondi propri di base ammissibili portati a copertura di ciascun requisito patrimoniale minimo nozionale di cui al comma 2-bis in conformita' all'articolo 44-decies, comma 4.
+
+Se l'importo degli elementi dei fondi propri di base ammissibili corrispondenti ad una delle due gestioni e' insufficiente a coprire i requisiti minimi di cui al comma 2-ter, l'IVASS applica alla gestione in cui si riscontra tale insufficienza le misure previste dal presente codice, a prescindere dai risultati ottenuti nell'altra gestione.
+
+In tali casi, in deroga al comma 2-quater, l'IVASS puo' autorizzare il trasferimento di elementi espliciti dei fondi propri di base ammissibili da una gestione all'altra.
+
+Le imprese di assicurazione con sede legale in altri Stati membri, che alla data di entrata in vigore del presente codice operano in regime di stabilimento o di prestazione di servizi e che sono autorizzate nei rispettivi Stati ad esercitare, congiuntamente uno o piu' rami vita e danni, possono continuare ad esercitare i medesimi rami nel territorio della Repubblica sia in regime di stabilimento che in regime di liberta' di prestazione di servizi.
+
+Le disposizioni del presente articolo si applicano anche alle imprese che successivamente alla data di cui al comma 1 vengono autorizzate ad esercitare congiuntamente i rami vita e i rami infortuni e malattia, con obbligo di osservare le disposizioni di cui ai commi 2, lettera b), 2-bis, 2-ter, 2-quater, 2-quinquies, 2-sexies, 2-septies, 2-octies e 2-novies con il bilancio in corso alla data del rilascio dell'autorizzazione.
+
+))
+
+## Art. 349. — Imprese di assicurazione aventi la sede legale nella Confederazione elvetica
+
+Le imprese di assicurazione che hanno sede legale nella Confederazione elvetica e che intendono esercitare nel territorio della Repubblica i rami danni non sono soggette alle disposizioni di cui al capo IV del titolo II e a quelle di cui al capo V del titolo III che sono individuate dall'((IVASS)) con regolamento.
+
+Le imprese di cui al comma 1 devono unire alla richiesta di autorizzazione una dichiarazione rilasciata dall'autorita' competente che attesti che l'impresa dispone del ((Requisito Patrimoniale di Solvibilita')) calcolato secondo quanto previsto al capo IV del titolo III.
+
+((
+
+Ai fini di cui al Titolo XV, le imprese di cui al comma 1 possono attribuire alla sede secondaria stabilita nel territorio della Repubblica le funzioni di direzione e coordinamento delle societa' del gruppo con sede legale in Italia. In tale caso la sede secondaria e' considerata ultima societa' controllante italiana ai sensi dell'articolo 210, comma 2, ed e' iscritta all'albo come impresa capogruppo ai sensi dell'articolo 210-ter, comma 1.
+
+))
+
+## Art. 350. — Ricorsi giurisdizionali inerenti il registro degli intermediari ed il ruolo dei periti assicurativi
+
+I provvedimenti adottati dall'((IVASS)) a norma del capo II del titolo IX in materia di diniego di iscrizione e di cancellazione dal registro degli intermediari di assicurazione e di riassicurazione sono impugnabili, entro sessanta giorni dalla relativa comunicazione, dinnanzi al giudice amministrativo.
+
+I provvedimenti adottati ((dalla CONSAP)) a norma del capo VI del titolo X in materia di diniego di iscrizione e di cancellazione dal ruolo dei periti assicurativi sono impugnabili, entro sessanta giorni dalla relativa comunicazione, dinnanzi al giudice amministrativo.
+
+## Art. 351. — Modifiche ad altre norme in materia assicurativa
+
+L'articolo 4 della legge 12 agosto 1982, n. 576, e' sostituito dal seguente: 
+ "Art. 4 (Funzioni dell'((IVASS)) ). - 1. L'((IVASS)), in conformita' alla normativa dell'Unione europea in materia assicurativa e nell'ambito delle linee di politica assicurativa determinate dal Governo, svolge le funzioni di vigilanza previste nel codice delle assicurazioni private. 
+ 2. L'((IVASS)) svolge attivita' consultiva e di segnalazione nei confronti del Parlamento e del Governo, nell'ambito delle competenze per la regolazione e la vigilanza sul settore assicurativo. 
+ 3. L'((IVASS)), entro il 31 maggio di ogni anno, presenta al Presidente del Consiglio dei Ministri, per la trasmissione al Parlamento, una relazione sull'attivita' svolta. 
+ 4. Il bilancio preventivo e il rendiconto finanziario dell'((IVASS)) e' soggetto al controllo della Corte dei conti.".
+
+Nell'articolo 14, primo comma, lettera d), della legge 12 agosto 1982, n. 576, le parole: "del contributo determinato ai sensi dell'articolo 25" sono sostituite dalle seguenti: "del gettito complessivo derivante dai contributi di vigilanza".
+
+Nell'articolo 23, primo comma, primo capoverso, della legge 12 agosto 1982, n. 576, le parole; "all'articolo 67, primo comma, del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, e successive modificazioni" sono sostituite dalle seguenti: "agli articoli 335, 336 e 337 del codice delle assicurazioni private".
+
+Nell'articolo 29, primo comma, della legge 12 agosto 1982, n. 576, le parole: "del contributo di vigilanza versato annualmente, dagli enti e dalle imprese di cui all'articolo 4, primo comma, della presente legge, ai sensi dell'articolo 67, primo comma, del testo unico delle leggi sull'esercizio delle assicurazioni private, approvato con decreto del Presidente della Repubblica 13 febbraio 1959, n. 449, e successive modificazioni" sono sostituite dalle seguenti: "complessivamente derivanti dai contributi di vigilanza di cui agli articoli 335, 336 e 337 del codice delle assicurazioni private". Nel secondo comma le parole: "del tesoro" sono sostituite dalle seguenti: "dell'economia e delle finanze".
+
+Dopo l'articolo 1 del decreto legislativo 26 maggio 1997, n. 173, e' inserito il seguente: 
+ "Art. 1-bis (Raccordo con il codice delle assicurazioni private). - 1. Le indicazioni formali relative alle voci, alle lettere, ai numeri romani ed arabi contenute nelle disposizioni di cui agli articoli 15, 16, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 38, 41, 55 e 56 si intendono riferite alle corrispondenti classificazioni utilizzate nello schema del bilancio di esercizio adottato con il regolamento di cui all'articolo 90, comma 1, del codice delle assicurazioni private.".
+
+Nel decreto legislativo 26 maggio 1997, n. 173, le parole: "titoli quotati in borsa" sono sostituite dalle seguenti: "titoli quotati in mercati regolamentati" ovunque ricorrano.
+
+Nel comma 5 dell'articolo 16 del decreto legislativo 26 maggio 1997, n. 173, le parole: "negli articoli 7 e 8 del presente decreto" sono sostituite dalle seguenti: "nell'articolo 89, comma 1, del codice delle assicurazioni private".
+
+Nel comma 1 dell'articolo 24 del decreto legislativo 26 maggio 1997, n. 173, le parole: "all'articolo 30, commi 1 e 2, del decreto legislativo 17 marzo 1995, n. 174" sono sostituite dalle seguenti: "all'articolo 41, commi 1 e 2, del codice delle assicurazioni private".
+
+Il comma 5 dell'articolo 20 del decreto legislativo 26 maggio 1997, n. 173, e' sostituito dal seguente: "5. E' eccezionalmente consentito il trasferimento di investimenti dalla classe D alla classe C dell'attivo, sulla base del valore corrente rilevato nel momento del trasferimento, qualora si determini un valore di attivita' superiore alle corrispondenti riserve tecniche, per effetto della liberazione dal vincolo di copertura degli impegni tecnici di quote di attivita', nei casi previsti dall'((IVASS)) con regolamento.
+La nota integrativa deve indicare le motivazioni del trasferimento operato, nonche' specificare l'importo e la tipologia dell'investimento.".
+
+Nel comma 2 dell'articolo 31 del decreto legislativo 26 maggio 1997, n. 173, le parole: "agli articoli 32, 33, 35, 36 e 37, commi 1 e 2, del presente decreto, nonche' quelle previste agli articoli 23, comma 2, 24, 25, 26 del decreto legislativo 17 marzo 1995, n. 175, come modificati dall'articolo 80 del presente decreto" sono sostituite dalle seguenti: "all'articolo 36 del codice delle assicurazioni private".
+
+Nel comma 3 dell'articolo 31 del decreto legislativo 26 maggio 1997, n. 173, le parole: "agli articoli 24 e 25 del decreto legislativo 17 marzo 1995, n. 174, come modificati dall'articolo 79 del presente decreto, nonche' quella prevista all'articolo 34 del presente decreto" sono sostituite dalle seguenti: "all'articolo 37 del codice delle assicurazioni private".
+
+Nel comma 1 dell'articolo 44 del decreto legislativo 26 maggio 1997, n. 173, le parole: "che rientrano nel campo di applicazione del decreto legislativo 17 marzo 1995, n. 175" sono sostituite dalle seguenti: "di cui all'articolo 2, comma 3, del codice delle assicurazioni private" e le parole: "che rientrano nel campo di applicazione del decreto legislativo 17 marzo 1995, n. 174," sono sostituite dalle seguenti: "di cui all'articolo 2, comma 1, del codice delle assicurazioni private".
+
+Nel comma 4 dell'articolo 45 del decreto legislativo 26 maggio 1997, n. 173, le parole: "all'articolo 6, comma 1, lettera c), del presente decreto" sono sostituite dalle seguenti: "di cui all'articolo 90, comma 1, del codice delle assicurazioni private".
+
+Nel comma 2 dell'articolo 46 del decreto legislativo 26 maggio 1997, n. 173, le parole: "all'articolo 6, comma 1, lettera c), del presente decreto" sono sostituite dalle seguenti: "di cui all'articolo 90, comma 1, del codice delle assicurazioni private".
+
+## Art. 352. — Coordinamento formale con altre norme di legge
+
+Nel comma 3 dell'articolo 120 del codice per la protezione dei dati personali le parole: "dell'articolo 2, comma 5-quater, del decreto-legge 28 marzo 2000, n. 70, convertito, con modificazioni, dalla legge 26 maggio 2000, n. 137, e successive modificazioni" sono sostituite dalle seguenti: "dall'articolo 135 del codice delle assicurazioni private".
+
+Nell'articolo 2, comma 1, lettera d), del decreto legislativo 28 febbraio 2005, n. 38, le parole: "del decreto legislativo 26 maggio 1997, n. 173" sono sostituite dalle seguenti: "dell'articolo 88, commi 1 e 2, e quelle di cui all'articolo 95, comma 2, del codice delle assicurazioni private". Nell'articolo 1, comma 1, lettera e), del decreto legislativo 30 maggio 2005, n. 142, le parole: "dei decreti legislativi 17 marzo 1995, n. 174 e 175" sono sostituite dalle seguenti: "dell'articolo 1, comma 1, lettera t), del codice delle assicurazioni private".
+
+Nell'articolo 1, comma 1, lettera i), del decreto legislativo 30 maggio 2005, n. 142, le parole: "lettera e) del decreto legislativo 17 aprile 2001, n. 239" sono sostituite dalle seguenti: "dell'articolo 1, comma 1, lettera cc), del codice delle assicurazioni private".
+
+Nell'articolo 1, comma 1, lettera l), del decreto legislativo 30 maggio 2005, n. 142, le parole: "le norme sulle assicurazioni e le relative disposizioni attuative" sono sostituite dalle seguenti: "il codice delle assicurazioni private".
+
+Nell'articolo 1, comma 1, lettera q), del decreto legislativo 30 maggio 2005, n. 142, le parole: "e dell'articolo 10, comma 2, della legge 9 gennaio 1991, n. 20" sono sostituite dalle seguenti: "e dell'articolo 72, comma 2, del codice delle assicurazioni private".
+
+Nell'articolo 1, comma 1, lettera r), del decreto legislativo 30 maggio 2005, n. 142, le parole: "e dell'articolo 10, comma 2, della legge 9 gennaio 1991, n. 20" sono sostituite dalle seguenti: "e dell'articolo 72, comma 2, del codice delle assicurazioni private".
+
+Nell'articolo 13, comma 1, lettera c), del decreto legislativo 30 maggio 2005, n. 142, le parole: "dalla normativa in materia di assicurazioni private, incluse le disposizioni di cui alla legge 12 agosto 1982, n. 576" sono sostituite dalle seguenti: "dal titolo VII, capo III, e dal titolo XVI, capi I, II, III e IV del codice delle assicurazioni private".
+
+Sono fatti salvi i poteri attribuiti alla Commissione di vigilanza sui fondi pensione (COVIP) dalla legge 23 agosto 2004, n. 243.
+
+((
+
+Nell'articolo 13, comma 1, lettera a), del decreto legislativo 30 maggio 2005, n. 142, dopo l'espressione: «all'articolo 188», le parole: «, comma 1,» sono soppresse.
+
+Nell'articolo 13, comma 1, del decreto legislativo 30 maggio 2005, n. 142, dopo la lettera c), e' aggiunta la seguente: «d) le misure previste dall'articolo 220-novies del CAP.».
+
+Nell'articolo 13, comma 2, del decreto legislativo 30 maggio 2005, n. 142, le parole «lettere da a-bis) a c)» sono sostituite con le parole «lettere da a-bis) a d)».
+
+Nell'articolo 31, comma 2, del decreto legislativo 26 maggio 1997, n. 173, le parole: «di cui all'articolo 36» sono sostituite dalle seguenti:" di cui al regolamento previsto dall'articolo 90, comma 1,».
+
+Nell'articolo 31, comma 3, del decreto legislativo 26 maggio 1997, n. 173, le parole: «all'articolo 37» sono sostituite dalle seguenti: «dal regolamento di cui all'articolo 90, comma 1,».
+
+))
+
+## Art. 353. — Integrazioni alle disposizioni relative all'imposta sui premi delle assicurazioni private
+
+Dopo l'articolo 1 della legge 29 ottobre 1961, n. 1216, e' inserito il seguente: 
+ "Art. 1-bis (Imposta sui premi delle assicurazioni obbligatorie dei veicoli a motore e dei natanti). - 1. Le assicurazioni obbligatorie della responsabilita' civile per i danni causati dalla circolazione dei veicoli e dei natanti sono soggette all'imposta sui premi nella misura del dodicivirgolacinque per cento. Tale misura resta ferma anche nel caso in cui con lo stesso contratto siano assicurati, insieme al rischio della responsabilita' civile, anche altri rischi inerenti al veicolo o al natante o ai danni causati dalla loro circolazione. 
+ 2. Per le quietanze inerenti al pagamento di somme in dipendenza di contratti di assicurazione di cui al precedente comma, rilasciate all'impresa assicuratrice dall'assicurato o dal danneggiato o loro aventi causa, anche se risultanti da atto formale o aventi effetto transattivo e anche se comprensive, oltre che dell'in-dennizzo, di spese e competenze legali e di altri diritti accessori previsti dalla polizza si applicano le disposizioni dell'articolo 16. 
+ 3. Tutte le operazioni e gli atti necessari per il pagamento dei risarcimenti corrisposti dal Fondo di garanzia delle vittime della strada, nonche' quelli inerenti i rapporti fra CONSAP - Concessionaria servizi assicurativi pubblici S.p.a., gestione autonoma del Fondo di garanzia delle vittime della strada e le imprese assicuratrici, sono esenti da qualsiasi tassa e imposta indiretta sugli affari e dalle formalita' della registrazione.".
+
+Nella tariffa in allegato A alla legge 29 ottobre 1961, n. 1216, e' inserita la voce: "assicurazioni assistenza" ed e' prevista un'aliquota pari al dieci per cento.
+
+Dopo l'articolo 2 della legge 29 ottobre 1961, n. 1216, e' inserito il seguente: 
+ "Art. 2-bis (Sostituzione dell'impresa nella coassicurazione). - 1.
+Nel caso di subentro di un assicuratore in un rapporto di coassicurazione non e' dovuta nuovamente l'imposta in relazione al premio ceduto all'assicuratore subentrante.".
+
+Dopo l'articolo 4 della legge 29 ottobre 1961, n. 1216, e' inserito il seguente: 
+ "Art. 4-bis (Imposta sui premi dovuta sui contratti conclusi da imprese che operano in libera prestazione di servizi). - 1. Le imprese che intendono operare nel territorio della Repubblica in libera prestazione di servizi devono nominare un rappresentante fiscale ai fini del pagamento dell'imposta prevista dalla legge 29 ottobre 1961, n. 1216, e successive modificazioni, dovuta sui premi relativi ai contratti conclusi. 
+ 2. Il rappresentante deve avere la residenza nel territorio dello Stato e la nomina deve essere comunicata al competente ufficio dell'Agenzia delle entrate di Roma e all'((IVASS)). 
+ 3. Le imprese di cui al comma 1, che dispongono nel territorio della Repubblica di un proprio stabilimento, possono far svolgere da tale stabilimento le funzioni attribuite al rappresentante fiscale. 
+ 4. Il rappresentante fiscale deve tenere un registro, in cui vengono elencati distintamente i contratti assunti dall'impresa in regime di stabilimento e di liberta' di prestazione di servizi con l'indicazione per ciascuno di essi delle generalita' del contraente, del numero del contratto, della data di decorrenza e di quella di scadenza, della natura del rischio assicurato, dell'ammontare del premio o delle rate di premio incassate, dell'aliquota di imposta e dell'ammontare di questa. Il registro deve essere tenuto in ordine cronologico con riguardo alla data di incasso del premio, o della rata di premio, e i contratti vanno inclusi nel registro entro il mese successivo alla predetta data. Il rappresentante deve tenere anche una copia di ciascun contratto. 
+ 5. Il rappresentante deve presentare ogni mese al competente ufficio dell'Agenzia delle entrate di Roma la denuncia dei premi incassati nel mese precedente, distinguendo i premi stessi a seconda dell'aliquota d'imposta applicabile. Contestualmente alla denuncia il rappresentante corrisponde l'imposta dovuta. 
+ 6. Si applicano al rappresentante fiscale le disposizioni previste dagli articoli 12, 24 e 28".
+
+Dopo l'articolo 6 della legge 29 ottobre 1961, n. 1216, e' inserito il seguente: 
+ "Art. 6-bis (Imposta sui premi dovuta sui contratti stipulati in coassicurazione comunitaria). - 1. L'impresa che assume la posizione di coassicuratore delegatario, se stabilita nel territori o della Repubblica, e' tenuta al pagamento dell'imposta di cui alla presente legge sull'importo globale del premio e degli accessori applicato al contratto stipulato con le modalita' ed alle condizioni previste per la coassicurazione comunitaria, salvo il diritto a recuperare dagli altri coassicuratori la quota a loro carico. 
+ 2. L'impresa che assume la posizione di coassicuratore delegatario, se non e' stabilita nel territorio della Repubblica, e' tenuta a nominare un proprio rappresentante ai fini del pagamento dell'imposta di cui al comma 1.".
+
+## - - Capo V Abrogazioni
+
+## Art. 354. — Norme espressamente abrogate
+
+Fermo quanto disposto dall'articolo 20, comma 3, lettera b), della legge 15 marzo 1997, n. 59, nel testo sostituito dall'articolo 1 della legge 23 luglio 2003, n. 229, sono o restano abrogati: 
+ il regio decreto 23 marzo 1922, n. 387; 
+ il regio decreto 4 gennaio 1925, n. 63; 
+ il decreto del Presidente della Repubblica 13 febbraio 1959, n. 449; 
+ la legge 24 dicembre 1969, n. 990; 
+ il decreto-legge 23 dicembre 1976, n. 857, convertito, con modificazioni, dalla legge 26 febbraio 1977, n. 39; 
+ il decreto-legge 26 settembre 1978, n. 576, convertito, con modificazioni, dalla legge 24 novembre 1978, n. 738; 
+ la legge 7 febbraio 1979, n. 48; 
+ gli articoli 5, commi 1, 2 e 3, 5-bis, 6, 6-bis, 7, 7-bis, 10, commi 5 e 6, e 25 della legge 12 agosto 1982, n. 576; 
+ la legge 28 novembre 1984. n. 792; 
+ la legge 22 ottobre 1986, n. 742; 
+ la legge 22 dicembre 1986, n. 772; 
+ la legge 7 agosto 1990, n. 242; 
+ la legge 9 gennaio 1991, n. 20; 
+ il decreto legislativo 26 novembre 1991, n. 393; 
+ l'articolo 25 della legge 11 febbraio 1992, n. 157; 
+ la legge 17 febbraio 1992, n. 166; 
+ gli articoli 26, 30 e 33 della legge 19 febbraio 1992, n. 142; 
+ il decreto del Presidente della Repubblica in data 19 aprile 1993, pubblicato nella Gazzetta Ufficiale n. 153 del 2 luglio 1993;  il decreto del Presidente della Repubblica 18 aprile 1994, n. 385; 
+ l'articolo 12 del decreto-legge 19 dicembre 1994, n. 691, convertito, con modificazioni, dalla legge 16 febbraio 1995, n. 35;  il decreto legislativo 17 marzo 1995, n. 174; 
+ il decreto legislativo 17 marzo 1995, n. 175; 
+ il decreto legislativo 26 maggio 1997, n. 173, ad eccezione degli articoli 2, 4, 5, 14, 15, 16, commi da 1 a 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 30, 31, commi 2, 3 e 4, 38, 40, 41, 42, 44, 45, 46, 47, 48,49, 50, 51, 52, 53, 54, 55 e 56; 
+ l'articolo 38 della legge 27 dicembre 1997, n. 449; 
+ il decreto legislativo 13 ottobre 1998, n. 373; 
+ l'articolo 45, comma 11, della legge 23 dicembre 1998, n. 448; 
+ il decreto legislativo 4 agosto 1999, n. 343; 
+ l'articolo 27, comma 13, della legge 23 dicembre 1999, n. 488; 
+ il decreto-legge 28 marzo 2000, n. 70, convertito, con modificazioni, dalla legge 26 maggio 2000, n. 137; 
+ l'articolo 89 della legge 23 dicembre 2000, n. 388; 
+ gli articoli 1, 2, 3, 4, 5 e 6 della legge 5 marzo 2001, n. 57;  il decreto legislativo 17 aprile 2001, n. 239; 
+ gli articoli 19, 20, 21, 22, 23, 25 e 26 della legge 12 dicembre 2002, n. 273; 
+ l'articolo 81, comma 1, della legge 27 dicembre 2002, n. 289; 
+ il decreto legislativo 9 aprile 2003, n. 93; 
+ il decreto legislativo 30 giugno 2003, n. 190; 
+ il decreto legislativo 3 novembre 2003, n. 307; 
+ l'articolo 9, comma 2, del decreto legislativo 28 febbraio 2005, n. 38.
+
+I regolamenti emanati dall'((IVASS)) ai sensi del presente codice si adeguano inoltre ai principi ed alle opzioni recati dalle previgenti disposizioni di attuazione della normativa comunitaria.
+
+E' abrogata ogni altra disposizione incompatibile con il presente codice. Il rinvio alle disposizioni abrogate fatto da leggi, da regolamenti o da altre norme si intende riferito alle corrispondenti disposizioni del presente codice e dei provvedimenti ivi previsti.
+
+Le disposizioni di cui al comma 1 e quelle emanate in attuazione delle norme abrogate o sostituite continuano a essere applicate, in quanto compatibili, fino alla data di entrata in vigore dei provvedimenti adottati ai sensi del presente codice nelle corrispondenti materie e comunque non oltre trenta mesi dopo il termine previsto dal comma 2 dell'articolo 355. In caso di violazione si applicano, con la procedura sanzionatoria prevista dall'articolo 326, gli articoli di cui ai capi II, III, IV e V del titolo XVIII in relazione alle materie rispettivamente disciplinate.
+
+((
+
+))
+
+L'((IVASS)), allo scopo di attuare l'obiettivo di semplificazione di cui alla legge 23 luglio 2003, n. 229, adotta, nell'ambito delle proprie competenze, le disposizioni previste dal presente codice con unico regolamento per ciascun titolo, abrogando integralmente ogni proprio previgente provvedimento a carattere generale.
+
+I contratti gia' conclusi alla data di entrata in vigore del presente codice restano regolati dalle norme anteriori.
+
+## Art. 355. — Entrata in vigore
+
+Il presente codice entra in vigore il 1° gennaio 2006.
+
+In sede di prima applicazione le disposizioni di attuazione sono emanate entro ventiquattro mesi dal termine di cui al comma 1. 
+ 
+ Il presente decreto, munito dei sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 settembre 2005 
+ 
+ CIAMPI 
+ 
+ Berlusconi, Presidente del 
+ Consiglio dei Ministri 
+ Scajola, Ministro delle attivita' 
+ produttive 
+ La Malfa, Ministro per le politiche 
+ comunitarie 
+ Baccini, Ministro per la funzione 
+ pubblica 
+ Siniscalco, Ministro dell'economia 
+ e delle finanze 
+ Castelli, Ministro della giustizia 
+ Visto, il Guardasigilli: Castelli
+

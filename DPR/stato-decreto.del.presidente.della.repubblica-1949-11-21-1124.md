@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1124
+data: 1949-11-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-11-21;1124
+codice_redazionale: 049U1124
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 novembre 1949
+                1124
+                Costituzione del Consorzio provinciale fra cooperative di costruzioni "Monfra", con sede in Casale Monferrato, ed approvazione del relativo statuto.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 25 giugno 1909, n. 422, ed il regolamento approvato con regio decreto 12 febbraio 1911, n. 278 emanato in esecuzione di essa;
+ Vista l'istanza del presidente del Consorzio provinciale fra cooperative di costruzioni "Monfra", con sede in Casale Monferrato, in data 1 dicembre 1948, con la quale si chiede la costituzione del Consorzio stesso e l'approvazione dello statuto organico;
+ Udito il parere della Commissione centrale per le cooperative, espresso in data 28 ottobre 1949, ai sensi dell'art. 20 del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577;
+ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici;
+
+ Decreta:
+
+ E' costituito il Consorzio provinciale fra cooperative di costruzioni "Monfra" con sede in Casale Monferrato, ed e' approvato il relativo statuto, composto di numero trentuno articoli, che, firmato dal Ministro proponente, viene allegato al presente decreto.
+

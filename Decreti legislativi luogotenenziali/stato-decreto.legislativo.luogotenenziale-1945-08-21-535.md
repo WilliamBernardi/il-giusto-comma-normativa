@@ -1,0 +1,30 @@
+---
+tipo: DECRETO LEGISLATIVO LUOGOTENENZIALE
+numero: 535
+data: 1945-08-21
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo.luogotenenziale:1945-08-21;535
+codice_redazionale: 045U0535
+vigente: true
+source: normattiva-opendata
+collection: Decreti legislativi luogotenenziali
+vigenza_date: 2010-12-15
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:37Z
+---
+
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+                21 agosto 1945
+                535
+                Revoca delle concessioni di medaglie al valore in favore degli appartenenti alla disciolta milizia volontaria sicurezza nazionale e sue specialita'. (045U0535)
+
+Entrata in vigore del provvedimento: 03/10/1945
+
+## Art. 1. — (( PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66 ))
+
+
+
+## Art. 2. — (( PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66 ))
+
+
+

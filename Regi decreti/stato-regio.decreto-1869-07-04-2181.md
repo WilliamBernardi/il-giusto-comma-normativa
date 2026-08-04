@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1869-07-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1869-07-04;2181
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:32Z
+---
+
+REGIO DECRETO
+                04 luglio 1869
+                MMCLXXXI
+                Che approva il Regolamento per l'applicazione della tassa sul bestiame nella Provincia di Perugia. (6902181R)
+
+Entrata in vigore del provvedimento: 24/08/1869
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 4564
+data: 1878-10-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1878-10-29;4564
+codice_redazionale: 078U4564
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:16:13Z
+---
+
+REGIO DECRETO
+                29 ottobre 1878
+                4564
+                Che autorizza una trentatreesima prelazione dal fondo per le spese impreviste. (078U4564)
+
+Entrata in vigore del provvedimento: 30/11/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

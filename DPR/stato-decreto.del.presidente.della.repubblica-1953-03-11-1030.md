@@ -1,0 +1,54 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1030
+data: 1953-03-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-03-11;1030
+codice_redazionale: 053U1030
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 marzo 1953
+                1030
+                Concessione dell'autonomia amministrativa alla Scuola secondaria di avviamento professionale a tipo agrario di Caluso.
+
+Tenuto presente che, a norma dell'art. 2 dello statuto approvato con il regio decreto 31 agosto 1933 anzidetto era aggregata alla Scuola tecnica di cui trattasi una Scuola secondaria di avviamento professionale a tipo agrario presentemente funzionante in conformita' della legge 22 aprile 1932, n. 490;
+
+Riconosciuto che con la cessione predetta vengono a realizzarsi le condizioni previste dal penultimo comma dell'art. 5 della legge 22 aprile 1932, n. 490, per cui alla Scuola predetta puo' essere riconosciuta l'autonomia amministrativa per cio' che riguarda la gestione delle proprie rendite e azienda annessa;
+
+## Art. 1.
+
+A decorrere dal 1 aprile 1950 alla Scuola secondaria di avviamento professionale a tipo agrario di Caluso e' concessa l'autonomia amministrativa per la gestione delle proprie rendite e della propria azienda agraria.
+
+## Art. 2.
+
+L'azienda agraria e' fornita dal comune di Caluso e comprende il podere "Convento" giusta la convenzione del 28 marzo 1950.
+
+## Art. 3.
+
+La rendita dell'azienda agraria e' destinata all'incremento dell'azienda stessa; l'eventuale eccedenza va a beneficio della Scuola.
+ Il Ministero della pubblica istruzione non corrisponde alcun contributo alla, Scuola per la gestione dell'azienda ad essa annessa.
+
+## Art. 4.
+
+La gestione delle rendite della Scuola e dell'azienda ad essa annessa e' affidata ad un Consiglio di amministrazione cosi' costituito:
+ due rappresentanti del Ministero della pubblica istruzione;
+ un rappresentante del Comune;
+ il direttore della Scuola che ha voto deliberativo ed esercita le funzioni di segretario;
+ un rappresentante per ogni ente che s'impegni a versare alla Scuola, per conto dell'azienda, una somma annua non inferiore a L. 100.000 o una assegnazione, una volta tanto, non inferiore a L. 300.000.
+ Alle stesse condizioni anche i privati possono essere ammessi, a far parte del Consiglio di amministrazione.
+
+## Art. 5.
+
+La scelta dell'Istituto di credito, cui s'intende affidare il servizio di cassa, spetta al Consiglio di amministrazione. La relativa deliberazione e' soggetta all'approvazione del Ministero della pubblica istruzione.
+ Tutte le entrate sono versate su apposito conto corrente: i pagamenti sono effettuati direttamente dall'Istituto di credito su ordini di pagamento. Il Consiglio di amministrazione delibera, anno per anno, la persona che, unitamente al direttore, deve firmare gli ordini di pagamento.
+
+## Art. 6.
+
+Per quanto non qui disposto si applicano le norme generali vigenti in materia.
+

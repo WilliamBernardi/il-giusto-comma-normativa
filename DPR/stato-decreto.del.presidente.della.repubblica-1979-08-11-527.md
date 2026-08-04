@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 527
+data: 1979-08-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-08-11;527
+codice_redazionale: 079U0527
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 agosto 1979
+                527
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Eusebio e di S. Andrea apostolo, in Solonghello.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 agosto 1979, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Casale Monferrato 8 maggio 1978, relativo all'unione perpetua aecque principaliter delle parrocchie di S. Eusebio, in frazione Fabiano del comune di Solonghello (Alessandria), e di S.
+ Andrea apostolo, nel medesimo comune. 
+ 
+Visto, il Guardasigilli: MORLINO 
+ Registrato alla Corte dei conti, addi' 20 ottobre 1979 
+ Registro n. 19 Interno, foglio n. 358
+

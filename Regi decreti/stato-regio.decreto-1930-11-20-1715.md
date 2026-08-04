@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1715
+data: 1930-11-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-11-20;1715
+codice_redazionale: 030U1715
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:43Z
+---
+
+REGIO DECRETO
+                20 novembre 1930
+                1715
+                Nomina del Regio commissario dell'Istituto per i ciechi di Bologna. (030U1715)
+
+Entrata in vigore del provvedimento: 25/01/1931
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

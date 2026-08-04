@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 928
+data: 1968-07-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-23;928
+codice_redazionale: 068U0928
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 luglio 1968
+                928
+                Autorizzazione alla fondazione "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 luglio 1968, col quale, sulla proposta del Ministro per la difesa, la fondazione denominata "Fondo assistenza, previdenza e premi per il personale dell'Arma dei carabinieri", con sede in Roma, viene autorizzata ad acquistare dalla signora Franca Costa in Vigliani, al prezzo di L. 138 milioni, il complesso immobiliare "Albergo Vallenga", sito nel comune di Selva Val Gardena (Bolzano), come da contratto preliminare di vendita in data 28 novembre 1967, a rogito dott.
+ Alfredo De Martino, notaio in Roma, n. 37190 di repertorio, e relativo atto di proroga 31 maggio 1968, numero 38248 di repertorio, a rogito dott. Bruno Bianchi, coadiutore dello stesso notaio De Martino.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 agosto 1968
+ Atti del Governo, registro n. 222, foglio n. 99. - DI PRETORO
+

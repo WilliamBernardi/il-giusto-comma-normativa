@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1553
+data: 1956-11-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-11-28;1553
+codice_redazionale: 056U1553
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 novembre 1956
+                1553
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Maria Assunta, in Viserbella di Rimini (Forli).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 novembre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Rimini in data 1 novembre 1953, integrato con due dichiarazioni rispettivamente in data 6 aprile 1955 e 10 gennaio 1956, relativo alla erezione della parrocchia di Maria Assunta, in Viserbella di Rimini (Forli).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 17 gennaio 1957
+ Atti del Governo, registro n. 103, foglio n. 37. - CARLOMAGNO
+

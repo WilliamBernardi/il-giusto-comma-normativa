@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1079
+data: 1923-04-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-04-19;1079
+codice_redazionale: 023U1079
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:42Z
+---
+
+REGIO DECRETO
+                19 aprile 1923
+                1079
+                Erezione in Ente morale. (023U1079)
+
+Entrata in vigore del provvedimento: 12/06/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,206 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1304
+data: 1955-09-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-09-16;1304
+codice_redazionale: 055U1304
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 settembre 1955
+                1304
+                Rettifica delle tabelle A, B e C, allegate al decreto 30 novembre 1954, n. 1496, concernente la disciplina e l'attuazione del trasferimento del personale dei ruoli organici del soppresso Ministero dell'Africa italiana alle dipendenze di altre Amministrazioni.
+
+Considerata la necessita' di provvedere ai sensi del secondo comma, ultima parte, dell'art. 6 del decreto del Presidente della Repubblica 30 novembre 1954, n. 1496, ad alcune rettifiche compensative degli organici di cui alle tabelle qui sotto specificate contenute negli allegati A, B, C al decreto stesso, per variazioni constatate nella distribuzione quantitativa e gerarchica del personale in assegnazione alle singole Amministrazioni dello Stato interessate;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Le tabelle XIII, XV, XVI, XVII, XX, XXI, XXVIII contenute nell'allegato A al decreto del Presidente della Repubblica 30 novembre 1954, n. 1496, restano stabilite come segue:
+
+ MINISTERO DELLE FINANZE
+
+ TABELLA XIII 
+ AMMINISTRAZIONE CENTRALE E DELLE INTENDENZE DI FINANZA
+
+Carriera d'ordine dell'Amministrazione centrale e delle Intendenze di finanza
+
+ (gruppo C)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ IX - Archivisti capi....................... 2 4
+ X - Primi archivisti...................... 6 11
+ XI - Archivisti............................ 16 16
+ -- --
+ Totale........ 24
+ --
+
+ MINISTERO DELLE FINANZE
+
+ TABELLA XV 
+ AMMINISTRAZIONE PROVINCIALE DELLE TASSE
+ E DELLE IMPOSTE INDIRETTE SUGLI AFFARI
+
+ Gruppo C
+ (personale sussidiario degli Uffici del registro)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ IX - Aiuto procuratori..................... 9 12
+ X - Primi archivisti...................... 20 33
+ XI - Archivisti............................ 56 56
+ XII - Applicati............................. 1 1
+ -- --
+ Totale........ 86
+ --
+
+ MINISTERO DEL TESORO
+
+ TABELLA XVI 
+ RUOLO CENTRALE
+
+ (Gruppo A)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ IV - Direttori generali.................... 1 1
+ V - Ispettori generali.................... 9 3
+ VI - Capi divisione e ispettori superiori.. 8 13
+ VII - Capi sezione.......................... 16 15
+VIII - Consiglieri........................... 15 15
+ IX - Primi segretari....................... 2 2
+ -- --
+ Totale........ 51
+ --
+
+ MINISTERO DEL TESORO
+
+ TABELLA XVII 
+ RUOLO CENTRALE
+
+ (Gruppo C)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ IX - Archivisti capi....................... 15 9
+ X - Primi archivisti...................... 18 26
+ XI - Archivisti............................ 42 42
+ XII - Applicati............................. 1 1
+ -- --
+ Totale........ 76
+ --
+
+ MINISTERO DEL TESORO
+
+ TABELLA XX 
+PERSONALE DIPENDENTE DALLA RAGIONERIA GENERALE DELLO STATO - PERSONALE DI CONCETTO DELLA RAGIONERIA GENERALE DELLO STATO.
+
+ (Gruppo A)
+
+ Ruolo dei servizi centrali
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ V - Direttori capi di ragioneria di 1ª
+ classe.............................. 4 2
+ VI - Direttori capi di ragioneria di 2ª
+ classe e direttori capi divisione... 8 4
+ VII - Capi sezione.......................... 8 6
+VIII - Consiglieri........................... 6 6
+ -- --
+ Totale........ 26
+ --
+
+ MINISTERO DEL TESORO
+
+ TABELLA XXI 
+ Carriera d'ordine della Ragioneria generale dello Stato
+
+ (gruppo C)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ IX - Archivisti capi....................... 12 6
+ X - Primi archivisti...................... 12 18
+ XI - Archivisti............................ 27 27
+ XII - Applicati............................. 1 1
+ -- --
+ Totale........ 52
+ --
+
+ MINISTERO DEI LAVORI PUBBLICI
+
+ TABELLA XXVIII 
+ Geometri
+
+ (Gruppo B)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ VII - Geometri capi di 1ª classe............ - 4
+VIII - Geometri capi di 2ª classe............ 17 15
+ IX - Geometri principali................... 27 27
+ -- --
+ Totale........ 44
+ --
+
+## Art. 2.
+
+Le tabelle XXVII e XXXIX contenute nell'allegato B al decreto del Presidente della Repubblica 30 novembre 1954, n. 1496, restano stabilite come segue:
+
+ MINISTERO DELLA PUBBLICA ISTRUZIONE
+
+ TABELLA XXVII 
+ Personale d'ordine
+
+ (gruppo C)
+ GRADO QUALIFICA NUMERO DEI POSTI
+ X - Primi archivisti...................... 3
+ XI - Archivisti............................ 3
+ XII - Applicati............................. -
+ --
+ Totale........ 6
+ --
+
+ MINISTERO DEI TRASPORTI
+
+ TABELLA XXXIX 
+ AMMINISTRAZIONE DELLE FERROVIE DELLO STATO
+
+ (Gruppo C)
+GRADO QUALIFICA NUMERO DEI POSTI
+ XI - Applicati............................. 1
+ --
+ Totale........ 1
+ --
+
+## Art. 3.
+
+La tabella II contenuta nell'allegato C al decreto del Presidente della Repubblica 30 novembre 1954, n. 14916, resta stabilita come segue:
+
+ ALTO COMMISSARIATO
+ PER L'IGIENE E LA SANITA' PUBBLICA
+
+ TABELLA II 
+ Ruolo ausiliario amministrativo
+
+ (gruppo B)
+ NUMERO DEI POSTI:
+ GRADO QUALIFICA da organici
+ conferire del ruolo (a) (b)
+ VII - Aiutanti capi......................... 2 2
+VIII - Aiutanti di 1ª classe................. - 3
+ IX - Aiutanti di 2ª classe................. 6 6
+ X - Aiutanti di 3ª classe................. 1 1
+ -- --
+ Totale........ 9
+ --
+

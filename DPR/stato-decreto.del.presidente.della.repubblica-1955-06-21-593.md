@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 593
+data: 1955-06-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-21;593
+codice_redazionale: 055U0593
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 giugno 1955
+                593
+                Approvazione dell'atto capitolato 30 marzo 1955 per la concessione dell'impianto e dell'esercizio della tramvia extraurbana Udine San Daniele.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con regio decreto 9 maggio 1912, n. 1447, e successive modificazioni ed aggiunte;
+ Udito il Consiglio superiore dei lavori pubblici;
+ Sulla proposta del Ministro per i trasporti;
+
+ Decreta:
+
+ E' approvato e reso esecutorio l'atto-capitolato 30 marzo 1955 stipulato fra il delegato del Ministro per i trasporti, in rappresentanza dello Stato, e il legale rappresentante della provincia di Udine per la concessione a quest'ultima dell'impianto e dell'esercizio della tramvia extraurbana Udine-San Daniele.
+

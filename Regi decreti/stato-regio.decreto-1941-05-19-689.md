@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+numero: 689
+data: 1941-05-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1941-05-19;689
+codice_redazionale: 041U0689
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:57Z
+---
+
+REGIO DECRETO
+                19 maggio 1941
+                689
+                Autorizzazione al comune di Rozzo, in provincia dell'Istria, a mutare
+la denominazione della frazione «Polle di Rozzo» in «Piano di Rozzo».
+(041U0689)
+
+Entrata in vigore del provvedimento: 14/08/1941
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

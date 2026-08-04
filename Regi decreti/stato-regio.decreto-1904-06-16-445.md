@@ -1,0 +1,62 @@
+---
+tipo: REGIO DECRETO
+numero: 445
+data: 1904-06-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-06-16;445
+codice_redazionale: 004U0445
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:37Z
+---
+
+REGIO DECRETO
+                16 giugno 1904
+                445
+                Norme che stabiliscono i sussidi da concedersi ai comuni e ai consorzi per la esecuzione delle opere pubbliche. (004U0445)
+
+Entrata in vigore del provvedimento: 07/09/1904
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO 
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+

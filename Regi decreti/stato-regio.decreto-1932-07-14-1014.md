@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1014
+data: 1932-07-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-07-14;1014
+codice_redazionale: 032U1014
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:26Z
+---
+
+REGIO DECRETO
+                14 luglio 1932
+                1014
+                Numero dei membri effettivi della Fabbriceria della Chiesa parrocchiale di S. Maria in Summaga. (032U1014)
+
+Entrata in vigore del provvedimento: 13/09/1932
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

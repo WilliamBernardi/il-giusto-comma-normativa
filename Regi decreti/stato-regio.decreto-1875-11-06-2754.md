@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2754
+data: 1875-11-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-11-06;2754
+codice_redazionale: 075U2754
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:24Z
+---
+
+REGIO DECRETO
+                06 novembre 1875
+                2754
+                Che autorizza una venticinquesima prelevazione di lire 37,186.93 dal fondo per le spese impreviste inscritto nel bilancio del 1875, a favore del Ministero della istruzione pubblica. (075U2754)
+
+Entrata in vigore del provvedimento: 28/11/1875
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

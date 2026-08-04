@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 77
+data: 1906-03-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-03-08;77
+codice_redazionale: 006U0077
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:13Z
+---
+
+REGIO DECRETO
+                08 marzo 1906
+                77
+                Che fissa gli assegni locali annui da corrispondersi agli interpreti di prima categoria dei consolati di Alessandria e Cairo. (006U0077)
+
+Entrata in vigore del provvedimento: 07/04/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

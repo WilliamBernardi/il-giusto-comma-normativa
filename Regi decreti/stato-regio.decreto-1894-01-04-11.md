@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 11
+data: 1894-01-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1894-01-04;11
+codice_redazionale: 094U0011
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:32Z
+---
+
+REGIO DECRETO
+                04 gennaio 1894
+                11
+                Che riunisce in un solo Istituto la Galleria e il Medagliere estense di Modena. (094U0011)
+
+Entrata in vigore del provvedimento: 14/02/1894
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

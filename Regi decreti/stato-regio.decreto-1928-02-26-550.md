@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 550
+data: 1928-02-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-02-26;550
+codice_redazionale: 028U0550
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:12:00Z
+---
+
+REGIO DECRETO
+                26 febbraio 1928
+                550
+                Modificazioni alla composizione del Consiglio superiore coloniale. (028U0550)
+
+Entrata in vigore del provvedimento: 02/04/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

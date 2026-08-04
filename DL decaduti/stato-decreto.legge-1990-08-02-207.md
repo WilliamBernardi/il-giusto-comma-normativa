@@ -1,0 +1,82 @@
+---
+tipo: DECRETO-LEGGE
+numero: 207
+data: 1990-08-02
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1990-08-02;207
+codice_redazionale: 090G0251
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1991-02-01
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                02 agosto 1990
+                207
+                 Misure urgenti a favore delle aziende agricole e zootecniche danneggiate dalla eccezionale siccita' verificatasi nell'annata agraria 1989-1990.
+
+Entrata in vigore del decreto: 3/8/1990.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+
+## Art. 12.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI 
+ DALLA L. 30 GENNAIO 1991 N. 31
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1902
+data: 1884-01-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-01-24;1902
+codice_redazionale: 084U1902
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:52Z
+---
+
+REGIO DECRETO
+                24 gennaio 1884
+                1902
+                Si costituisce in sezione elettorale autonoma il comune di Blevio. (084U1902)
+
+Entrata in vigore del provvedimento: 07/03/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 259
+data: 1970-03-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-03-09;259
+codice_redazionale: 070U0259
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 marzo 1970
+                259
+                Modificazioni allo statuto dell'Universita' cattolica del "Sacro Cuore", di Milano.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' cattolica del "Sacro Cuore" di Milano, approvato con regio decreto 20 aprile 1939, n. 1163 e modificato con regio decreto 26 ottobre 1940, n. 2030, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Il decreto del Presidente della Repubblica 26 febbraio 1957, n. 319, con il quale venne istituito un posto convenzionato di anni dieci per l'insegnamento di "Ebraico e lingue semitiche comparate" presso la facolta' di lettere e filosofia dell'Universita' cattolica del "Sacro Cuore" di Milano e' abrogato per mancanza di contributi previsti dalla convenzione stipulata in data 19 novembre 1956 e 16 gennaio 1957.
+

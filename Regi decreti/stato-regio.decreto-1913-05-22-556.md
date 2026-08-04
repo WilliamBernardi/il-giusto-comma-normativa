@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 556
+data: 1913-05-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-05-22;556
+codice_redazionale: 013U0556
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:16Z
+---
+
+REGIO DECRETO
+                22 maggio 1913
+                556
+                Erezioni in ente morale. (013U0556)
+
+Entrata in vigore del provvedimento: 27/06/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

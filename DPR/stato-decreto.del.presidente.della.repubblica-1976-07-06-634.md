@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 634
+data: 1976-07-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-07-06;634
+codice_redazionale: 076U0634
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 luglio 1976
+                634
+                Riconoscimento della personalita' giuridica dell'istituto S.
+Vincenzo, in Bisceglie.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 luglio 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto S. Vincenzo, in Bisceglie (Bari), della compagnia delle figlie della carita' di S. Vincenzo de' Paoli.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 2 settembre 1976
+ Atti di Governo, registro n. 8, foglio n. 118
+

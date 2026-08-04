@@ -1,0 +1,57 @@
+---
+tipo: REGIO DECRETO
+numero: 146
+data: 1902-05-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-05-01;146
+codice_redazionale: 002U0146
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:58Z
+---
+
+REGIO DECRETO
+                01 maggio 1902
+                146
+                Col quale le frazioni di Nogare' e Ciano sono staccate dal Comune di Cornuda e costituite in Comune autonomo. (002U0146)
+
+Entrata in vigore del provvedimento: 03/06/1902
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Vedute le domande presentate dalla maggioranza degli elettori della frazione di Nogare' e di quella di Ciano, dirette ad ottenere che dette due frazioni siano staccate dal Comune di Cornuda e costituite in Comune autonomo;
+
+Sentito il parere del Consiglio di Stato, le cui considerazioni s'intendono riportate nel presente decreto;
+
+## Art. 1.
+
+Le frazioni di Nogare' e Ciano sono staccate dal Comune di Cornuda e costituite in Comune autonomo, a partire dal 1° giugno 1902.
+
+## Art. 2.
+
+Fino alla costituzione dei due Consigli comunali del Comune di Nogare-Ciano e di quello di Cornuda, a cui si procedera' entro il mese di maggio 1902 ed in base alle liste elettorali debitamente approvate, l'attuale rappresentanza dei due costituendi Comuni continuera' nell'eserzio delle sue attribuzioni, astenendosi pero' dal prendere deliberazioni che possano vincolare l'azione dei futuri Consigli comunali.
+
+## Art. 3.
+
+Il riparto delle attivita' e passivita' fra il Comune di Cornuda ed il costituendo Comune di Ciano-Nogare' avra' luogo giusta i criteri fissati dalla deliberazione 12 dicembre 1901 del Consiglio comunale di Cornuda ed il relativo progetto di quella Giunta municipale al quale detta deliberazione consiliare si riferisce.
+
+## Art. 4.
+
+Il territorio da assegnarsi ai due Comuni di Cornuda e Ciano-Nogare' e' quello descritto dalla pianta topografica 13 aprile 1901 dell'ingegnere Dall'Armi, controfirmata dall'ingegnere capo del Genio civile di Treviso e confermata con le firme di tutti i consiglieri comunali di Cornuda. Detta carta, che sara', d'ordine Nostro, vistata dal Ministro proponente, coi tre documenti descrittivi dallo stesso ingegnere Dall'Armi, e cioe' certificato 12 aprile 1901 in ordine alla superficie, estimo e reddito imponibile del territorio delle tre frazioni Cornuda, Ciano e Nogare'; descrizione 5 aprile 1902 della linea di confine dei due nuovi Comuni; estratto 7 aprile 1902 della mappa del nuovo catasto da cui risulta la linea di confine dei costituendi due nuovi Comuni, s'intende debba far parte del presente decreto. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 1° maggio 1902. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Giolitti. 
+ 
+ Visto, Il Guardasigilli: Cocco-Ortu.
+

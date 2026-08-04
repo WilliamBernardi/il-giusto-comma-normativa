@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 622
+data: 1968-03-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-20;622
+codice_redazionale: 068U0622
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 marzo 1968
+                622
+                Riconoscimento, agli effetti civili, della unione della parrocchia di S. Giovanni Battista con quella di S. Giustina, nel comune di Palanzano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Amministratore apostolico di Parma in data 1 luglio 1967, relativo alla unione perpetua "aeque principalis" della parrocchia di S. Giovanni Battista, in frazione Caneto del comune di Palanzano (Parma), con quella di S. Giustina, in frazione Trevignano dello stesso comune.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 103. - GRECO
+

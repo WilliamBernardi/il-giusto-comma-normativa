@@ -1,0 +1,57 @@
+---
+tipo: REGIO DECRETO
+numero: 1384
+data: 1931-10-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1931-10-15;1384
+codice_redazionale: 031U1384
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:48Z
+---
+
+REGIO DECRETO
+                15 ottobre 1931
+                1384
+                Riunione dei comuni di Vizze e di Prati in unico comune denominato «Val di Vizze». (031U1384)
+
+Entrata in vigore del provvedimento: 06/12/1931
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Vedute le domande in data 20 aprile 1931 con cui i commissari prefettizi preposti ai comuni di Vizze e di Prati, in esecuzione delle proprie deliberazioni in data 27 febbraio 1931, chiedono la riunione dei due Comuni in unico ente con denominazione «Val di Vizze» e sede del capoluogo a Prati; 
+ 
+ Veduto il parere favorevole espresso dal Rettorato della provincia di Bolzano con deliberazione 30 maggio 1931; 
+ 
+ Udito il Consiglio di Stato - sezione prima - in adunanza 24 settembre 1931, il cui parere si intende nel presente decreto integralmente riportato; 
+ 
+ Veduto il testo unico della legge comunale e provinciale approvato con R. decreto 4 febbraio 1915, n. 148, ed il relativo regolamento 12 febbraio 1911, n. 217, il R. decreto 30 dicembre 1923, n. 2839, la legge 4 febbraio 1926, n. 237, il R. decreto-legge 3 settembre 1926, n. 1910, convertito nella legge 2 giugno 1927, n. 957, nonche' la legge 27 dicembre 1928, n. 2962; 
+ 
+ Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro Segretario di Stato per gli affari dell'interno; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ I comuni di Vizze e di Prati, in provincia di Bolzano, sono riuniti in unico Comune denominato «Val di Vizze», con sede del capoluogo a Prati, e alle condizioni stabilite nelle surrichiamate deliberazioni commissariali. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 15 ottobre 1931 - Anno IX 
+ 
+ VITTORIO EMANUELE 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 16 novembre 1931 - Anno X 
+ 
+ Atti del Governo, registro 314, foglio 71. - Mancini.
+

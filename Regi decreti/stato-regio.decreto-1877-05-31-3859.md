@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3859
+data: 1877-05-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1877-05-31;3859
+codice_redazionale: 077U3859
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:29Z
+---
+
+REGIO DECRETO
+                31 maggio 1877
+                3859
+                Col quale i comuni di Casamicciola e Lacco Ameno sono separati dalla sezione elettorale di Forio e costituiti in sezione distinta del collegio di Pozzuoli colla sede a Casamicciola. (077U3859)
+
+Entrata in vigore del provvedimento: 17/06/1877
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

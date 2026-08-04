@@ -1,0 +1,27 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 832
+data: 1978-10-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-10-02;832
+codice_redazionale: 078U0832
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 ottobre 1978
+                832
+                Approvazione del nuovo statuto della fondazione "Giacomo Brodolini", in Roma.
+
+## Art. 1.
+
+N. 832 Decreto del Presidente della Repubblica 2 ottobre 1978, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, viene approvato il nuovo statuto della fondazione "Giacomo Brodolini", in Roma.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 15 dicembre 1978
+ Registro n. 1 Lavoro, foglio n. 66
+

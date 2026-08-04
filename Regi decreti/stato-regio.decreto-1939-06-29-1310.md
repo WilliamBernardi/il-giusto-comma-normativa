@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1310
+data: 1939-06-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-06-29;1310
+codice_redazionale: 039U1310
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:23Z
+---
+
+REGIO DECRETO
+                29 giugno 1939
+                1310
+                Riconoscimento, agli effetti civili, della soppressione della parrocchia di San Rocco in Roma e della erezione della parrocchia della Trasfigurazione, nella Chiesa omonima, in Monteverde Nuovo di Roma. (039U1310)
+
+Entrata in vigore del provvedimento: 29/09/1939
+
+## Art. 1.
+
+N.
+
+R. decreto 29 giugno 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta, agli effetti civili, la Bolla di Sua Santita' il Sommo Pontefice Pio XI, in data 31 dicembre 1935-XIV, relativa alla soppressione della parrocchia di S. Rocco in Roma e vengono riconosciuti agli effetti civili i decreti del Cardinale Vicario di Roma in data 18 e 20 giugno 1936-XIV, relativi alla erezione della parrocchia della Trasfigurazione, nella Chiesa omonima, in Monteverde Nuovo di Roma. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 7 agosto 1939-XVII
+

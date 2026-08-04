@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1883-09-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-09-11;1085
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:58Z
+---
+
+REGIO DECRETO
+                11 settembre 1883
+                MLXXXV
+                Che scioglie l'amministrazione dell'opera pia Calcagno in Aidone. (8301085R)
+
+Entrata in vigore del provvedimento: 28/10/1883
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

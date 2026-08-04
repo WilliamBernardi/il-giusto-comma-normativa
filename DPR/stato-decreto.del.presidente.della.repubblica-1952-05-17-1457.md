@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1457
+data: 1952-05-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-05-17;1457
+codice_redazionale: 052U1457
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 maggio 1952
+                1457
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria del Sasso, in frazione omonima del comune di Cortenuova (Bergamo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 17 maggio 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Bergamo in data 10 marzo 1951, relativo alla erezione della parrocchia di Santa Maria del Sasso, in frazione omonima del comune di Cortenuova (Bergamo); viene riconosciuta la personalita' giuridica della Chiesa medesima, e beneficio e chiesa parrocchiale vengono autorizzati ad accettare le donazioni disposte in loro favore.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 28 ottobre 1952
+ Atti del Governo, registro n. 59, foglio n. 106. - CARLOMAGNO
+

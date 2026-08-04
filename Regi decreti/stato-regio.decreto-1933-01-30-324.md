@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 324
+data: 1933-01-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1933-01-30;324
+codice_redazionale: 033U0324
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:57Z
+---
+
+REGIO DECRETO
+                30 gennaio 1933
+                324
+                Approvazione dello statuto organico della Congregazione di carita' di Erto Casso. (033U0324)
+
+Entrata in vigore del provvedimento: 14/05/1933
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

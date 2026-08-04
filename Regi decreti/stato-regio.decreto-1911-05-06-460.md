@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 460
+data: 1911-05-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1911-05-06;460
+codice_redazionale: 011U0460
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:17Z
+---
+
+REGIO DECRETO
+                06 maggio 1911
+                460
+                Che autorizza un prelevamento di somma dal fondo di riserva delle spese impreviste dello stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1910-911 occorrenti per un indennizzo al signor Milziade Miliozzi. (011U0460)
+
+Entrata in vigore del provvedimento: 15/06/1911
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

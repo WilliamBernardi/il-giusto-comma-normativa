@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1885-11-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-11-13;1928
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:16Z
+---
+
+REGIO DECRETO
+                13 novembre 1885
+                MDCCCCXXVIII
+                Che scioglie l'amministrazione dell'opera pia Contri in S. Pietro di Barbozza, e ne affida temporaneamente la gestione ad un delegato straordinario. (8501928R)
+
+Entrata in vigore del provvedimento: 26/12/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

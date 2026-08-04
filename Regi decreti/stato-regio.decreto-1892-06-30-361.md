@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 361
+data: 1892-06-30
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-06-30;361
+codice_redazionale: 092U0361
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:15Z
+---
+
+REGIO DECRETO
+                30 giugno 1892
+                361
+                Che istituisce un terzo posto di notaro nel comune di citta' Sant'Angelo. (092U0361)
+
+Entrata in vigore del provvedimento: 12/08/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

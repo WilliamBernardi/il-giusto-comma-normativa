@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 789
+data: 1968-06-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-06-08;789
+codice_redazionale: 068U0789
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 giugno 1968
+                789
+                Attribuzione della denominazione "Loconia" ad una frazione del comune di Canosa di Puglia.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Viste le deliberazioni della giunta municipale di Canosa di Puglia (Bari) in data 4 novembre 1967, n. 567, e di quel consiglio comunale in data 15 gennaio 1968, n. 11, con le quali e' stato chiesto che alla frazione di quel comune ora comunemente indicata con il nome di "Loconia" sia attribuita ufficialmente tale denominazione;
+ Vista la deliberazione del consiglio provinciale di Bari in data 4 marzo 1968, n. 3, con la quale detto consesso ha espresso il richiesto parere al riguardo;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ E' attribuita la denominazione "Loconia" alla frazione del comune di Canosa di Puglia (Bari), gia' indicata nell'uso comune con la denominazione medesima.
+

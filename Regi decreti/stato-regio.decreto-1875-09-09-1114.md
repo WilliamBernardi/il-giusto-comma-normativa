@@ -1,0 +1,36 @@
+---
+tipo: REGIO DECRETO
+data: 1875-09-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-09-09;1114
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:36Z
+---
+
+REGIO DECRETO
+                09 settembre 1875
+                MCXIV
+                Che autorizza la camera di commercio ed arti di Siena ad imporre una tassa annua sugli esercenti in quel distretto. (7501114R)
+
+Entrata in vigore del provvedimento: 20/10/1875
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

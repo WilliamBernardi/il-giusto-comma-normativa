@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+data: 1909-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-07-29;274
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:18Z
+---
+
+REGIO DECRETO
+                29 luglio 1909
+                CCLXXIV
+                Che da al R. ginnasio di Aderno' il nome di «Edmondo De Amicis». (0900274R)
+
+Entrata in vigore del provvedimento: 10/09/1909
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Veduta la deliberazione del Consiglio comunale di Aderno', in data 24 gennaio 1909, diretta ad ottenere che il R. ginnasio di detta citta' sia intitolato al nome di «Edmondo De Amicis»; 
+ 
+ Veduto che il Consiglio provinciale scolastico di Catania ha, nella sua adunanza del 18 maggio 1909, approvato la sopraccennata deliberazione; 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il R. ginnasio di Aderno' e' intitolato al nome di «Edmondo De Amicis». 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 luglio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.
+

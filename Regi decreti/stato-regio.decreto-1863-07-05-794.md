@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-07-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-07-05;794
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:31Z
+---
+
+REGIO DECRETO
+                05 luglio 1863
+                DCCXCIV
+                Che prescrive un'aggiunta all'art. 9 del regolamento per la Cassa di Risparmio in Pergola. (6300794R)
+
+Entrata in vigore del provvedimento: 12/08/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

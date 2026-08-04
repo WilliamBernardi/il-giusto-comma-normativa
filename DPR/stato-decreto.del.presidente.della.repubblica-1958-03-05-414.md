@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 414
+data: 1958-03-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-03-05;414
+codice_redazionale: 058U0414
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 marzo 1958
+                414
+                Modificazioni del riparto dei posti di professore di ruolo delle Facolta' di giurisprudenza e di scienze matematiche, fisiche e naturali dell'Universita' degli studi di Torino.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 63 del testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Riconosciuta l'opportunita' di modificare, per esigenze didattiche, il riparto dei posti di professore di ruolo assegnati, ai sensi della tabella D annessa al predetto testo unico e successive modificazioni, alle Facolta' di giurisprudenza e di scienze matematiche, fisiche e naturali dell'Universita' di Torino;
+ Visto il parere espresso dal Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Con effetto dall'anno accademico 1958-59, il ruolo organico dei posti di professore di ruolo delle Facolta' di giurisprudenza e di scienze matematiche, fisiche e naturali dell'Universita' di Torino e' stabilito come appresso:
+ Facolta' di giurisprudenza: posti di ruolo n. 14;
+ Facolta' di scienze matematiche, fisiche e naturali: posti di ruolo n. 18.
+

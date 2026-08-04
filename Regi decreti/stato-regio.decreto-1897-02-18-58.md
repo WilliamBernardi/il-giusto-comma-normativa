@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1897-02-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-02-18;58
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:28Z
+---
+
+REGIO DECRETO
+                18 febbraio 1897
+                LVIII
+                Che autorizza il comune di Aversa ad esigere un dazio addizionale superiore al 50 per cento del governativo alla introduzione nella cinta daziaria sulle bevande vinose. (9700058R)
+
+Entrata in vigore del provvedimento: 25/03/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

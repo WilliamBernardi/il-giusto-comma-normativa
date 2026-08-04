@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1908-12-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1908-12-27;546
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:19Z
+---
+
+REGIO DECRETO
+                27 dicembre 1908
+                DXLVI
+                Che autorizza il comune di Bologna a continuare a riscuotere un dazio proprio sui generi indicati nella tabella annessa. (0800546R)
+
+Entrata in vigore del provvedimento: 06/02/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

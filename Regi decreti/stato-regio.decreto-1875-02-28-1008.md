@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1875-02-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-02-28;1008
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:42Z
+---
+
+REGIO DECRETO
+                28 febbraio 1875
+                MVIII
+                Che autorizza la societa' in accomandita Angelo Migliavacca e Compagni ad emettere n. 500 obbligazioni al valore nominale di lire 1,000 ciascuna. (7501008R)
+
+Entrata in vigore del provvedimento: 06/04/1875
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

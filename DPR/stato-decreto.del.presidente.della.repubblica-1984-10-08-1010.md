@@ -1,0 +1,65 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1010
+data: 1984-10-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-10-08;1010
+codice_redazionale: 084U1010
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 ottobre 1984
+                1010
+                Modificazioni allo statuto dell'Universita' degli studi di Cagliari.
+
+Veduto lo statuto dell'Universita' di Cagliari, approvato con regio decreto 20 aprile 1939, n. 1098, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 11 luglio 1980, n. 382;
+
+Vedute le proposte di modifica dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici dell'Universita' di Cagliari e convalidati dal Consiglio universitario nazionale nel suo parere;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+## Art. 1.
+
+- all'elenco degli indirizzi del corso di laurea in scienze politiche e' aggiunto il seguente indirizzo:
+ "d) politico sociale".
+ Dopo l'art. 20, con il conseguente scorrimento della numerazione degli articoli successivi e' inserito il seguente nuovo art. 21, relativo all'istituzione dell'indirizzo politico-sociale del corso di laurea in scienze politiche:
+ Art. 21. - Costituiscono insegnamenti obbligatori dell'indirizzo politico-sociale:
+ 3° Anno:
+ statistica sociale;
+ storia economica;
+ sociologia urbana e rurale;
+ sociologia economica;
+ una materia opzionale;
+ un'altra materia opzionale;
+ inglese (II corso);
+ altra lingua straniera (II corso).
+ 4° Anno:
+ sociologia politica;
+ sociologia dell'organizzazione;
+ antropologia culturale;
+ una materia opzionale;
+ un'altra materia opzionale;
+ una terza materia opzionale;
+ inglese (III corso);
+ altra lingua straniera (III corso).
+ Art. 22 (ex art. 21, per effetto di quanto sopra disposto) - nell'elenco degli insegnamenti complementari del corso di laurea in scienze politiche e' inserito l'insegnamento di "filosofia della politica".
+

@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 123
+data: 1959-02-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-02-16;123
+codice_redazionale: 059U0123
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 febbraio 1959
+                123
+                Attribuzione della denominazione "Petrosa" ad una frazione del comune di Ceraso (provincia di Salerno).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Ceraso (provincia di Salerno) in data 10 gennaio 1956, n. 16, con la quale e' stato chiesto che alla frazione di quel Comune, comprendente le contrade Petrosa e Metoio, sia attribuita la denominazione "Petrosa";
+ Vista la deliberazione del Consiglio provinciale di Salerno in data 13 dicembre 1957, n. 388, con la quale e' stato espresso parere favorevole in merito alla denominazione predetta;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ E' attribuita la denominazione "Petrosa" alla frazione del comune di Ceraso (provincia di Salerno) indicata nelle premesse.
+

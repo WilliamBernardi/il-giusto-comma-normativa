@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1996
+data: 1927-10-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-10-13;1996
+codice_redazionale: 027U1996
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:39Z
+---
+
+REGIO DECRETO
+                13 ottobre 1927
+                1996
+                Riunione dei comuni di Onore e Castione della Presolana in un unico Comune denominato «Castione della Presolana». (027U1996)
+
+Entrata in vigore del provvedimento: 20/11/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 572
+data: 1955-05-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-17;572
+codice_redazionale: 055U0572
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 maggio 1955
+                572
+                Erezione in ente morale della Cassa scolastica della Scuola statale di magistero professionale per la donna con annessa Scuola professionale femminile "G. Saffi" di Forli'.
+
+## Art. 1.
+
+N.
+
+Decreto dei Presidente della Repubblica 17 maggio 1955 col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola statale di magistero professionale per la donna con annessa Scuola professionale femminile "G. Saffi" di Forli' viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 8 luglio 1955
+ Atti del Governo, registro n. 91, foglio n. 86. - CARLOMAGNO
+

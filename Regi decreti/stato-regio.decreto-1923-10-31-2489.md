@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 2489
+data: 1923-10-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-10-31;2489
+codice_redazionale: 023U2489
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:03:05Z
+---
+
+REGIO DECRETO
+                31 ottobre 1923
+                2489
+                Varianti allo specchio III di cui al decreto Luogotenenziale 6 maggio 1917, n. 733, per le indennita' eventuali del Regio esercito. (023U2489)
+
+Entrata in vigore del provvedimento: 30/11/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

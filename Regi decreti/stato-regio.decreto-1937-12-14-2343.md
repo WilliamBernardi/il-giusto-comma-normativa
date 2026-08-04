@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2343
+data: 1937-12-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-12-14;2343
+codice_redazionale: 037U2343
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:07Z
+---
+
+REGIO DECRETO
+                14 dicembre 1937
+                2343
+                Erezione in ente morale della Cassa scolastica del Regio ginnasio «Errico Amante» di Fondi. (037U2343)
+
+Entrata in vigore del provvedimento: 12/02/1938
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1901-08-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1901-08-31;269
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:08Z
+---
+
+REGIO DECRETO
+                31 agosto 1901
+                CCLXIX
+                Che trasforma l'opera pia Giminiani a favore dell'asilo infantile di Anagni. (0100269R)
+
+Entrata in vigore del provvedimento: 03/10/1901
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1831
+data: 1951-04-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-04-11;1831
+codice_redazionale: 051U1831
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 aprile 1951
+                1831
+                Erezione in ente morale della Cassa scolastica della Scuola di avviamento professionale a tipo industriale "Pacinotti" di Torino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 aprile 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola di avviamento professionale a tipo industriale "Pacinotti" di Torino viene eretta in ente morale e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato atta Corte dei conti, addi' 19 giugno 1952
+ Atti del Governo, registro n. 54, foglio n. 66. - FRASCA
+

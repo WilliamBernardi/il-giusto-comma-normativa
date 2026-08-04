@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 680
+data: 1986-05-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-05-17;680
+codice_redazionale: 086U0680
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 maggio 1986
+                680
+                Autorizzazione ad accettare un legato a favore dello Stato.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 17 maggio 1986, col quale, sulla proposta del Ministro per i beni culturali e ambientali, viene autorizzata l'accettazione a favore dello Stato del legato, consistente in una raccolta di settantadue rami incisi, i quali rivestono un importante interesse artistico, da destinare all'Istituto nazionale per la grafica - calcografia di Roma, disposto dall'avv. Ettore De Fornaris con testamento olografo 20 gennaio 1973, pubblicato in data 9 ottobre 1978 e 22 novembre 1978, numeri 42583/8395 e 42944/8395 di repertorio, a rogito dott.
+ Federico Bottino, notaio in Torino.
+
+Visto, il Guardasigilli: ROGNONI
+ Registrato alla Corte dei conti, addi' 10 ottobre 1986
+ Registro n. 26 Beni culturali, foglio n. 122
+

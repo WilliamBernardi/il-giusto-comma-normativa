@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5685
+data: 1870-05-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1870-05-22;5685
+codice_redazionale: 070U5685
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:24Z
+---
+
+REGIO DECRETO
+                22 maggio 1870
+                5685
+                E' riconosciuto alienabile il fondo demaniale del Comune di Tiriolo, denominato Portella. (070U5685)
+
+Entrata in vigore del provvedimento: 08/07/1870
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

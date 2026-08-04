@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 902
+data: 1955-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-08-31;902
+codice_redazionale: 055U0902
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1955
+                902
+                Approvazione dell'atto-capitolato di concessione per l'impianto e l'esercizio della tramvia extraurbana a trazione funicolare da Montecatini Terme a Montecatini Valdinievole.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 14 giugno 1949, n. 410;
+ Visto il testo unico delle disposizioni di legge per, le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e le automobili, approvato con regi@ decreto 9 maggio 1912, n. 1447, e successive modificazioni;
+ Udito il parere della Commissione interministeriale per la riattivazione dei servizi pubblici di trasporto;
+ Udito il parere del Consiglio superiore dei lavori pubblici;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro per i trasporti;
+
+ Decreta:
+
+ E' approvato e reso esecutorio l'atto-capitolato stipulato il 28 giugno 1955, tra il delegato del Ministro per i trasporti in rappresentanza dello Stato, e la Societa' anonima funicolare di Montecatini, con sede in Genova, per la concessione a quest'ultima dell'impianto e dell'esercizio della tramvia extraurbana a trazione funicolare in servizio pubblico per trasporto di persone da Montecatini Terme a Montecatini Valdinievole.
+

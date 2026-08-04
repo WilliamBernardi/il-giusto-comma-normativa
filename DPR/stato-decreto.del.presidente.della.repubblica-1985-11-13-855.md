@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 855
+data: 1985-11-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-11-13;855
+codice_redazionale: 085U0855
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 novembre 1985
+                855
+                Autorizzazione all'Associazione elettrotecnica ed elettronica italiana, in Milano, ad accettare una eredita'.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 13 novembre 1985, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Associazione elettrotecnica ed elettronica italiana, in Milano, viene autorizzata ad accettare l'eredita' disposta dall'ingegnere Stefano Badoni con testamento olografo 16 aprile 1979, pubblicato in data 24 settembre 1980, n. 458/189 di repertorio, a rogito dott. Maurizio Tufani, notaio in Frascati (Roma), registrato a Frascati in data 1 ottobre 1980 al n. 1142.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 22 gennaio 1986
+ Registro n. 2 Beni culturali, foglio n. 193
+

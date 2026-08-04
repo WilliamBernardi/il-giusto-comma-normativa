@@ -1,0 +1,96 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 28
+data: 1993-01-30
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1993-01-30;28
+codice_redazionale: 093G0066
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2021-03-19
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:20Z
+---
+
+DECRETO LEGISLATIVO
+                30 gennaio 1993
+                28
+                 Attuazione delle direttive 89/662/CEE e 90/425/CEE relative ai controlli veterinari e zootecnici di taluni animali vivi e su prodotti di origine animale applicabili negli scambi intracomunitari.
+
+Entrata in vigore del decreto: 19-2-1993
+
+## - Capo I DISPOSIZIONI GENERALI
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## - Capo II SCAMBI DI PRODOTTI DI ORIGINE ANIMALI CONTROLLI ALLA PRODUZIONE
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## - Capo III CONTROLLI SUI PRODOTTI NEL LUOGO DI DESTINAZIONE SUI PRODOTTI DI CUI ALL'ALLEGATO A PARTE I
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## - Capo IV SCAMBI DI ANIMALI E DI PRODUZIONE CONTROLLI ALL'ORIGINE
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## - Capo V CONTROLLI NEL LUOGO DI DESTINAZIONE SUGLI ANIMALI E LORO PRODUZIONI DI CUI ALL'ALLEGATO A, PARTE II
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 13-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+
+## Art. 14-bis. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 2 FEBBRAIO 2021, N. 23))
+
+
+

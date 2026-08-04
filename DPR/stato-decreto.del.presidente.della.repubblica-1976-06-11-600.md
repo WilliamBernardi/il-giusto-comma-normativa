@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 600
+data: 1976-06-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-06-11;600
+codice_redazionale: 076U0600
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 giugno 1976
+                600
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Maria della Presentazione, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 giugno 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del vicario generale di Sua Santita' il Sommo Pontefice 10 febbraio 1973, integrato con tre dichiarazioni, una del 12 successivo e le altre datate 2 agosto 1974 e 12 luglio 1975, relativo alla erezione della parrocchia di S. Maria della Presentazione, in zona Torrevecchia del comune di Roma e all'istituzione di due uffici coadiutoriali nella parrocchia stessa.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 20 agosto 1976
+ Atti di Governo, registro n. 8, foglio n. 87
+

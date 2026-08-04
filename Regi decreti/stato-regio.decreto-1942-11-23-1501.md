@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+numero: 1501
+data: 1942-11-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-11-23;1501
+codice_redazionale: 042U1501
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2008-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:38Z
+---
+
+REGIO DECRETO
+                23 novembre 1942
+                1501
+                Modificazioni ai ruoli organici dell'Istituto centrale di statistica. (042U1501)
+
+Entrata in vigore del provvedimento: 15/01/1943
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 25 GIUGNO 2008, N. 112, CONVERTITO
+ CON MODIFICAZIONI DALLA L. 6 AGOSTO 2008, N. 133))
+

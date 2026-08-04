@@ -1,0 +1,322 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 30
+data: 2007-02-06
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2007-02-06;30
+codice_redazionale: 007G0033
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2023-12-05
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:50Z
+---
+
+DECRETO LEGISLATIVO
+                06 febbraio 2007
+                30
+                Attuazione della direttiva 2004/38/CE relativa al diritto dei
+cittadini dell'Unione e dei loro familiari di circolare e di
+soggiornare liberamente nel territorio degli Stati membri.
+
+Entrata in vigore del provvedimento: 11/4/2007
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Ministro per le politiche europee e del Ministro dell'interno, di concerto con i Ministri degli affari esteri, dell'economia e delle finanze, della giustizia, del lavoro e della previdenza sociale e per gli affari regionali e le autonomie locali;
+
+## Art. 1. — Finalita'
+
+## Art. 2. — Definizioni
+
+## Art. 3. — Aventi diritto
+
+Il presente decreto legislativo si applica a qualsiasi cittadino dell'Unione che si rechi o soggiorni in uno Stato membro diverso da quello di cui ha la cittadinanza, nonche' ai suoi familiari ai sensi dell'articolo 2, comma 1, lettera b), che accompagnino o raggiungano il cittadino medesimo.
+
+Lo Stato membro ospitante effettua un esame approfondito della situazione personale e giustifica l'eventuale rifiuto del loro ingresso o soggiorno.
+
+## Art. 4. — Diritto di circolazione nell'ambito dell'Unione europea
+
+Ferme le disposizioni relative ai controlli dei documenti di viaggio alla frontiera, il cittadino dell'Unione in possesso di documento d'identita' valido per l'espatrio, secondo la legislazione dello Stato membro, ed i suoi familiari non aventi la cittadinanza di uno Stato membro, ma in possesso di un passaporto valido, hanno il diritto di lasciare il territorio nazionale per recarsi in un altro Stato dell'Unione.
+
+Per i soggetti di cui al comma 1, minori degli anni diciotto, ovvero interdetti o inabilitati, il diritto di circolazione e' esercitato secondo le modalita' stabilite dalla legislazione dello Stato di cui hanno la cittadinanza.
+
+## Art. 5. — Diritto di ingresso
+
+Ferme le disposizioni relative ai controlli dei documenti di viaggio alla frontiera, il cittadino dell'Unione in possesso di documento d'identita' valido per l'espatrio, secondo la legislazione dello Stato membro, ed i suoi familiari non aventi la cittadinanza di uno Stato membro, ma in possesso di un passaporto valido, sono ammessi nel territorio nazionale.
+
+I familiari non aventi la cittadinanza di uno Stato membro sono assoggettati all'obbligo del visto d'ingresso, nei casi in cui e' richiesto. Il possesso della carta di soggiorno di cui all'articolo 10 in corso di validita' esonera dall'obbligo di munirsi del visto.
+
+I visti di cui al comma 2 sono rilasciati gratuitamente e con priorita' rispetto alle altre richieste.
+
+Nei casi in cui e' esibita la carta di soggiorno di cui all'articolo 10 non sono apposti timbri di ingresso o di uscita nel passaporto del familiare non avente la cittadinanza di uno Stato membro dell'Unione europea.
+
+Il respingimento nei confronti di un cittadino dell'Unione o di un suo familiare non avente la cittadinanza di uno Stato membro, sprovvisto dei documenti di viaggio o del visto di ingresso, non e' disposto se l'interessato, entro ventiquattro ore dalla richiesta, fa pervenire i documenti necessari ovvero dimostra con altra idonea documentazione ((...)) la qualifica di titolare del diritto di libera circolazione.
+
+In ragione della prevista durata del suo soggiorno, il cittadino dell'Unione o il suo familiare puo' presentarsi ad un ufficio di polizia per dichiarare la propria presenza nel territorio nazionale, secondo le modalita' stabilite con decreto del Ministro dell'interno da adottare entro trenta giorni dalla data di entrata in vigore della presente disposizione. Qualora non sia stata effettuata tale dichiarazione di presenza, si presume, salvo prova contraria, che il soggiorno si sia protratto da oltre tre mesi.
+
+## Art. 6. — Diritto di soggiorno fino a tre mesi
+
+I cittadini dell'Unione hanno il diritto di soggiornare nel territorio nazionale per un periodo non superiore a tre mesi senza alcuna condizione o formalita', salvo il possesso di un documento d'identita' valido per l'espatrio secondo la legislazione dello Stato di cui hanno la cittadinanza.
+
+Le disposizioni del comma 1 si applicano anche ai familiari non aventi la cittadinanza di uno Stato membro che accompagnano o raggiungono il cittadino dell'Unione, in possesso di un passaporto in corso di validita' (( . . . )).
+
+Fatte salve le disposizioni di leggi speciali conformi ai Trattati dell'Unione europea ed alla normativa comunitaria in vigore, i cittadini di cui ai commi 1 e 2, nello svolgimento delle attivita' consentite, sono tenuti ai medesimi adempimenti richiesti ai cittadini italiani.
+
+## Art. 7. — Diritto di soggiorno per un periodo superiore a tre mesi
+
+Il diritto di soggiorno di cui al comma 1 e' esteso ai familiari non aventi la cittadinanza di uno Stato membro quando accompagnano o raggiungono nel territorio nazionale il cittadino dell'Unione, purche' questi risponda alle condizioni di cui al comma 1, lettere a), b) o c).
+
+## Art. 8. — (( (Ricorsi avverso il mancato riconoscimento del diritto di soggiorno) ))
+
+----------------
+                        AGGIORNAMENTO (4)
+                        
+ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+ 2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+
+## Art. 9. — Formalita' amministrative per i cittadini dell'Unione ed i loro familiari
+
+Al cittadino dell'Unione che intende soggiornare in Italia, ai sensi dell'articolo 7 per un periodo superiore a tre mesi, si applica la legge 24 dicembre 1954 n. 1228, ed il nuovo regolamento anagrafico della popolazione residente, approvato con decreto del Presidente della Repubblica 30 maggio 1989, n. 223.
+
+Fermo quanto previsto dal comma 1, l'iscrizione e' comunque richiesta trascorsi tre mesi dall'ingresso ed e' rilasciata immediatamente una attestazione contenente l'indicazione del nome e della dimora del richiedente, nonche' la data della richiesta.
+
+Ai fini della verifica della sussistenza del requisito della disponibilita' delle risorse economiche sufficienti al soggiorno, di cui al comma 3, lettere b) e c), deve, in ogni caso, essere valutata la situazione complessiva personale dell'interessato ((...)).
+
+Il cittadino dell'Unione puo' dimostrare di disporre, per se' e per i propri familiari, di risorse economiche sufficienti a non gravare sul sistema di assistenza pubblica, anche attraverso la dichiarazione di cui agli articoli 46 e 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445.
+
+Salvo quanto previsto dal presente decreto, per l'iscrizione anagrafica ed il rilascio della ricevuta di iscrizione e del relativo documento di identita' si applicano le medesime disposizioni previste per il cittadino italiano.
+
+Le richieste di iscrizioni anagrafiche dei familiari del cittadino dell'Unione che non abbiano la cittadinanza di uno Stato membro sono trasmesse, ai sensi dell'articolo 6, comma 7, del citato decreto legislativo n. 286 del 1998, a cura delle amministrazioni comunali alla Questura competente per territorio.
+
+## Art. 10. — Carta di soggiorno per i familiari del cittadino comunitario non aventi la cittadinanza di uno Stato membro dell'Unione europea
+
+I familiari del cittadino dell'Unione non aventi la cittadinanza di uno Stato membro, di cui all'articolo 2, trascorsi tre mesi dall'ingresso nel territorio nazionale, richiedono alla questura competente per territorio di residenza la "Carta di soggiorno di familiare di un cittadino dell'Unione", redatta su modello conforme a quello stabilito con decreto del Ministro dell'interno da emanarsi entro sei mesi dalla data di entrata in vigore del presente decreto legislativo. Fino alla data di entrata in vigore del predetto decreto, e' rilasciato il titolo di soggiorno previsto dalla normativa vigente alla data di entrata in vigore del presente decreto.
+
+Al momento della richiesta di rilascio della carta di soggiorno, al familiare del cittadino dell'Unione e' rilasciata una ricevuta secondo il modello definito con decreto del Ministro dell'interno di cui al comma 1.
+
+La carta di soggiorno di familiare di un cittadino dell'Unione ha una validita' di cinque anni dalla data del rilascio.
+
+La carta di soggiorno mantiene la propria validita' anche in caso di assenze temporanee del titolare non superiori a sei mesi l'anno, nonche' di assenze di durata superiore per l'assolvimento di obblighi militari ovvero di assenze fino a dodici mesi consecutivi per rilevanti motivi, quali la gravidanza e la maternita', malattia grave, studi o formazione professionale o distacco per motivi di lavoro in un altro Stato; e' onere dell'interessato esibire la documentazione atta a dimostrare i fatti che consentono la perduranza di validita'.
+
+Il rilascio della carta di soggiorno di cui al comma 1 e' gratuito, salvo il rimborso del costo degli stampati e del materiale usato per il documento.
+
+## Art. 11. — Conservazione del diritto di soggiorno dei familiari in caso di decesso o di partenza del cittadino dell'Unione europea
+
+Il decesso del cittadino dell'Unione o la sua partenza dal territorio nazionale non incidono sul diritto di soggiorno dei suoi familiari aventi la cittadinanza di uno Stato membro, a condizione che essi abbiano acquisito il diritto di soggiorno permanente ai sensi dell'articolo 14 o siano in possesso dei requisiti previsti dall'articolo 7, comma 1.
+
+Il decesso del cittadino dell'Unione non comporta la perdita del diritto di soggiorno dei familiari non aventi la cittadinanza di uno Stato membro, sempre che essi abbiano soggiornato nel territorio nazionale per almeno un anno prima del decesso del cittadino dell'Unione ed abbiano acquisito il diritto di soggiorno permanente di cui all'articolo 14 o dimostrino di esercitare un'attivita' lavorativa subordinata od autonoma o di disporre per se' e per i familiari di risorse sufficienti, affinche' non divengano un onere per il sistema di assistenza sociale dello Stato durante il loro soggiorno, nonche' di una assicurazione sanitaria che copra tutti i rischi nello Stato, ovvero di fare parte del nucleo familiare, gia' costituito nello Stato, di una persona che soddisfa tali condizioni.
+Le risorse sufficienti sono quelle indicate all'articolo 9, comma 3.
+
+Nell'ipotesi di cui al comma 2, quando non sussiste il requisito del soggiorno nel territorio nazionale per almeno un anno si applica l'articolo 30, comma 5, del decreto legislativo 25 luglio 1998, n. 286, e successive modificazioni.
+
+La partenza del cittadino dell'Unione dal territorio nazionale o il suo decesso non comportano la perdita del diritto di soggiorno dei figli o del genitore che ne ha l'affidamento, indipendentemente dal requisito della cittadinanza, se essi risiedono nello Stato e sono iscritti in un istituto scolastico per seguirvi gli studi, e fino al termine degli studi stessi.
+
+## Art. 12. — Mantenimento del diritto di soggiorno dei familiari
+ in caso di divorzio e di annullamento del matrimonio
+
+Il divorzio e l'annullamento del matrimonio dei cittadini dell'Unione non incidono sul diritto di soggiorno dei loro familiari aventi la cittadinanza di uno Stato membro, a condizione che essi abbiano acquisito il diritto di soggiorno permanente di cui all'articolo 14 o soddisfino personalmente le condizioni previste all'articolo 7, comma 1.
+
+Nei casi di cui al comma 2, quando non si verifichi alcuna delle condizioni di cui alle lettere a), b), c) e d), si applica l'articolo 30, comma 5, del citato decreto legislativo n. 286 del 1998, e successive modificazioni.
+
+Nei casi di cui al comma 2, salvo che gli interessati abbiano acquisito il diritto di soggiorno permanente di cui al successivo articolo 14, il loro diritto di soggiorno e' comunque subordinato al requisito che essi dimostrino di esercitare un'attivita' lavorativa subordinata o autonoma, o di disporre per se' e per i familiari di risorse sufficienti, affinche' non divengano un onere per il sistema di assistenza sociale dello Stato durante il soggiorno, nonche' di una assicurazione sanitaria che copra tutti i rischi nello Stato, ovvero di fare parte del nucleo familiare, gia' costituito nello Stato, di una persona che soddisfa tali condizioni. Le risorse sufficienti sono quelle indicate all'articolo 9, comma 3.
+
+## Art. 13. — Mantenimento del diritto di soggiorno
+
+I cittadini dell'Unione ed i loro familiari beneficiano del diritto di soggiorno di cui all'articolo 6, finche' hanno le risorse economiche di cui all'articolo 9, comma 3, che gli impediscono di diventare un onere eccessivo per il sistema di assistenza sociale dello Stato membro ospitante e finche' non costituiscano un pericolo per l'ordine e la sicurezza pubblica.
+
+I cittadini dell'Unione e i loro familiari beneficiano del diritto di soggiorno di cui agli articoli 7, 11 e 12, finche' soddisfano le condizioni fissate negli stessi articoli. ((La verifica della sussistenza di tali condizioni non puo' essere effettuata se non in presenza di ragionevoli dubbi in ordine alla persistenza delle condizioni medesime.))
+
+## Art. 14. — Diritto di soggiorno permanente
+
+Il cittadino dell'Unione che ha soggiornato legalmente ed in via continuativa per cinque anni nel territorio nazionale ha diritto al soggiorno permanente non subordinato alle condizioni previste dagli articoli 7, 11, 12 e 13.
+
+Salve le disposizioni degli articoli 11 e 12, il familiare non avente la cittadinanza di uno Stato membro acquisisce il diritto di soggiorno permanente se ha soggiornato legalmente in via continuativa per cinque anni nel territorio nazionale unitamente al cittadino dell'Unione.
+
+La continuita' del soggiorno non e' pregiudicato da assenze che non superino complessivamente sei mesi l'anno, nonche' da assenze di durata superiore per l'assolvimento di obblighi militari ovvero da assenze fino a dodici mesi consecutivi per motivi rilevanti, quali la gravidanza e la maternita', malattia grave, studi o formazione professionale o distacco per motivi di lavoro in un altro Stato membro o in un Paese terzo.
+
+Il diritto di soggiorno permanente si perde in ogni caso a seguito di assenze dal territorio nazionale di durata superiore a due anni consecutivi.
+
+## Art. 15. — Deroghe a favore dei lavoratori che hanno cessato la loro attivita' nello Stato membro ospitante e dei loro familiari
+
+Ai fini dell'acquisizione dei diritti previsti nel comma 1, lettere a) e b), i periodi di occupazione trascorsi dall'interessato nello Stato membro in cui esercita un'attivita' sono considerati periodi trascorsi nel territorio nazionale.
+
+I periodi di iscrizione alle liste di mobilita' o di disoccupazione involontaria, cosi' come definiti dal decreto legislativo 19 dicembre 2002, n. 297, o i periodi di sospensione dell'attivita' indipendenti dalla volonta' dell'interessato e l'assenza dal lavoro o la cessazione dell'attivita' per motivi di malattia o infortunio sono considerati periodi di occupazione ai fini dell'applicazione delle disposizioni di cui al comma 1.
+
+La sussistenza delle condizioni relative alla durata del soggiorno e dell'attivita' di cui al comma 1, lettera a) e lettera b), non sono necessarie se il coniuge e' cittadino italiano, ovvero ha perso la cittadinanza italiana a seguito del matrimonio con il lavoratore dipendente o autonomo.
+
+I familiari, qualunque sia la loro cittadinanza, del lavoratore subordinato o autonomo, che soggiornano con quest'ultimo nel territorio dello Stato, godono del diritto di soggiorno permanente se il lavoratore stesso ha acquisito il diritto di soggiorno permanente in forza del comma 1.
+
+Se non rientrano nelle condizioni previste dal presente articolo, i familiari del cittadino dell'Unione di cui all'articolo 11, comma 2, e all'articolo 12, comma 2, che soddisfano le condizioni ivi previste, acquisiscono il diritto di soggiorno permanente dopo aver soggiornato legalmente e in via continuativa per cinque anni nello Stato membro ospitante.
+
+## Art. 16. — Attestazione di soggiorno permanente
+ per i cittadini dell'Unione europea
+
+A richiesta dell'interessato, il comune di residenza rilascia al cittadino di uno Stato membro dell'Unione europea un attestato che certifichi la sua condizione di titolare del diritto di soggiorno permanente. L'attestato e' rilasciato entro trenta giorni dalla richiesta corredata dalla documentazione atta a provare le condizioni, rispettivamente previsti dall'articolo 14 e dall'articolo 15.
+
+L'attestato di cui al comma 1 puo' essere sostituito da una istruzione contenuta nel microchip della carta di identita' elettronica di cui al decreto legislativo 7 marzo 2005, n. 82, secondo le regole tecniche stabilite dal Ministero dell'interno.
+
+## Art. 17. — Carta di soggiorno permanente per i familiari
+ non aventi la cittadinanza di uno Stato membro
+
+Ai familiari del cittadino comunitario non aventi la cittadinanza di uno Stato membro dell'Unione europea, che abbiano maturato il diritto di soggiorno permanente, la Questura rilascia una "Carta di soggiorno permanente per familiari di cittadini europei".
+
+La richiesta di Carta di soggiorno permanente e' presentata alla Questura competente per territorio di residenza prima dello scadere del periodo di validita' della Carta di soggiorno di cui all'articolo 10 ed e' rilasciata entro 90 giorni, su modello conforme a quello stabilito con decreto del Ministro dell'interno.
+
+Il rilascio dell'attestazione e' gratuito, salvo il rimborso del costo degli stampati o del materiale utilizzato.
+
+Le interruzioni di soggiorno che non superino, ogni volta, i due anni consecutivi, non incidono sulla validita' della carta di soggiorno permanente.
+
+## Art. 18. — Continuita' del soggiorno
+
+La continuita' del soggiorno, ai fini del presente decreto legislativo, nonche' i requisiti prescritti dagli articoli 13, 14, 15 e 16 possono essere comprovati con le modalita' previste dalla legislazione vigente.
+
+La continuita' del soggiorno e' interrotta dal provvedimento di allontanamento adottato nei confronti della persona interessata ((, che costituisce causa di cancellazione anagrafica)).
+
+## Art. 19. — Disposizioni comuni al diritto di soggiorno e al diritto di soggiorno permanente
+
+I cittadini dell'Unione e i loro familiari hanno diritto di esercitare qualsiasi attivita' economica autonoma o subordinata, escluse le attivita' che la legge, conformemente ai Trattati dell'Unione europea ed alla normativa comunitaria in vigore, riserva ai cittadini italiani.
+
+Fatte salve le disposizioni specifiche espressamente previste dal Trattato CE e dal diritto derivato, ogni cittadino dell'Unione che risiede, in base al presente decreto, nel territorio nazionale gode di pari trattamento rispetto ai cittadini italiani nel campo di applicazione del Trattato. Il beneficio di tale diritto si estende ai familiari non aventi la cittadinanza di uno Stato membro che siano titolari del diritto di soggiorno o del diritto di soggiorno permanente.
+
+In deroga al comma 2 e se non attribuito autonomamente in virtu' dell'attivita' esercitata o da altre disposizioni di legge, il cittadino dell'Unione ed i suoi familiari non godono del diritto a prestazioni d'assistenza sociale durante i primi tre mesi di soggiorno o, comunque, nei casi previsti dall'articolo 13, comma 3, lettera b), salvo che tale diritto sia automaticamente riconosciuto in forza dell'attivita' esercitata o da altre disposizioni di legge.
+
+La qualita' di titolare di diritto di soggiorno e di titolare di diritto di soggiorno permanente puo' essere attestata con qualsiasi mezzo di prova previsto dalla normativa vigente ((, fermo restando che il possesso del relativo documento non costituisce condizione necessaria per l'esercizio di un diritto)).
+
+## Art. 20. — Limitazioni al diritto di ingresso e di soggiorno
+
+Salvo quanto previsto dall'articolo 21, il diritto di ingresso e soggiorno dei cittadini dell'Unione o dei loro familiari, qualsiasi sia la loro cittadinanza, puo' essere limitato con apposito provvedimento solo per: motivi di sicurezza dello Stato; motivi imperativi di pubblica sicurezza; altri motivi di ordine pubblico o di pubblica sicurezza.
+
+I motivi di sicurezza dello Stato sussistono quando la persona da allontanare appartiene ad una delle categorie di cui all'articolo 18 della legge 22 maggio 1975, n. 152, e successive modificazioni, ovvero vi sono fondati motivi di ritenere che la sua permanenza nel territorio dello Stato possa, in qualsiasi modo, agevolare organizzazioni o attivita' terroristiche, anche internazionali. Ai fini dell'adozione del provvedimento di cui al comma 1, si tiene conto anche di eventuali condanne pronunciate da un giudice italiano per uno o piu' delitti riconducibili a quelli indicati nel libro secondo, titolo primo del codice penale.
+
+I motivi imperativi di pubblica sicurezza sussistono quando la persona da allontanare abbia tenuto comportamenti che costituiscono una minaccia concreta, effettiva e sufficientemente grave ai diritti fondamentali della persona ovvero all'incolumita' pubblica. Ai fini dell'adozione del provvedimento, si tiene conto, quando ricorrono i comportamenti di cui al primo periodo del presente comma, anche di eventuali condanne, pronunciate da un giudice italiano o straniero, per uno o piu' delitti non colposi, consumati o tentati, contro la vita o l'incolumita' della persona, ovvero di eventuali condanne per uno o piu' delitti corrispondenti alle fattispecie indicate nell'articolo 8 della legge 22 aprile 2005, n. 69, o di eventuali ipotesi di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale per i medesimi delitti o dell'appartenenza a taluna delle categorie di cui all'articolo 1 della legge 27 dicembre 1956, n. 1423, e successive modificazioni, o di cui all'articolo 1 della legge 31 maggio 1965, n. 575, e successive modificazioni, nonche' di misure di prevenzione o di provvedimenti di allontanamento disposti da autorita' straniere.
+
+((
+
+Il giudice, nel pronunciare nei confronti di un cittadino di un altro Stato membro dell'Unione europea una sentenza di condanna o di applicazione della pena su richiesta a norma dell'articolo 444 del codice di procedura penale per un reato non colposo, quando ritiene di dover irrogare la pena della reclusione entro il limite di tre anni e non ricorrono le condizioni per ordinare la sospensione condizionale della pena ai sensi dell'articolo 163 del codice penale, nel rispetto dei criteri indicati ai commi 4 e 5 del presente articolo, puo' sostituire la pena della reclusione con la misura dell'allontanamento immediato con divieto di reingresso nel territorio nazionale per un periodo corrispondente al doppio della pena irrogata.
+
+3-ter. Nel caso di cui al comma 3-bis, l'allontanamento e' immediatamente eseguito dal questore, anche se la sentenza non e' definitiva. Si applicano le disposizioni dell'articolo 13, comma 5-bis, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286))
+
+I provvedimenti di allontanamento sono adottati nel rispetto del principio di proporzionalita' e non possono essere motivati da ragioni di ordine economico, ne' da ragioni estranee ai comportamenti individuali dell'interessato che rappresentino una minaccia concreta, effettiva e sufficientemente grave all'ordine pubblico o alla pubblica sicurezza. L'esistenza di condanne penali non giustifica di per se' l'adozione di tali provvedimenti.
+
+Nell'adottare un provvedimento di allontanamento, si tiene conto della durata del soggiorno in Italia dell'interessato, della sua eta', della sua situazione familiare e economica, del suo stato di salute, della sua integrazione sociale e culturale nel territorio nazionale e dell'importanza dei suoi legami con il Paese di origine.
+
+I titolari del diritto di soggiorno permanente di cui all'articolo 14 possono essere allontanati dal territorio nazionale solo per motivi di sicurezza dello Stato, per motivi imperativi di pubblica sicurezza o per altri gravi motivi di ordine pubblico o di pubblica sicurezza.
+
+I beneficiari del diritto di soggiorno che hanno soggiornato nel territorio nazionale nei precedenti dieci anni o che siano minorenni possono essere allontanati solo per motivi di sicurezza dello Stato o per motivi imperativi di pubblica sicurezza, salvo l'allontanamento sia necessario nell'interesse stesso del minore, secondo quanto previsto dalla Convenzione sui diritti del fanciullo del 20 novembre 1989, ratificata con legge 27 maggio 1991, n. 176.
+
+Le malattie o le infermita' che possono giustificare limitazioni alla liberta' di circolazione nel territorio nazionale sono solo quelle con potenziale epidemico individuate dall'Organizzazione mondiale della sanita', nonche' altre malattie infettive o parassitarie contagiose, sempreche' siano oggetto di disposizioni di protezione che si applicano ai cittadini italiani. Le malattie che insorgono successivamente all'ingresso nel territorio nazionale non possono giustificare l'allontanamento.
+
+Il Ministro dell'interno adotta i provvedimenti di allontanamento per motivi imperativi di pubblica sicurezza dei soggetti di cui al comma 7, nonche' i provvedimenti di allontanamento per motivi di sicurezza dello Stato. Negli altri casi, i provvedimenti di allontanamento sono adottati dal prefetto del luogo di residenza o dimora del destinatario.
+
+I provvedimenti di allontanamento sono motivati, salvo che vi ostino motivi attinenti alla sicurezza dello Stato. Se il destinatario non comprende la lingua italiana, il provvedimento e' accompagnato da una traduzione del suo contenuto, anche mediante appositi formulari, sufficientemente dettagliati, redatti in una lingua a lui comprensibile o, se cio' non e' possibile per indisponibilita' di personale idoneo alla traduzione del provvedimento in tale lingua, comunque in una delle lingue francese, inglese, spagnola o tedesca, secondo la preferenza indicata dall'interessato. Il provvedimento e' notificato all'interessato e riporta le modalita' di impugnazione e, salvo quanto previsto al comma 11, indica il termine stabilito per lasciare il territorio nazionale che non puo' essere inferiore ad un mese dalla data della notifica e, nei casi di comprovata urgenza, puo' essere ridotto a dieci giorni. Il provvedimento indica anche la durata del divieto di reingresso che non puo' essere superiore a dieci anni nei casi di allontanamento per i motivi di sicurezza dello Stato e a cinque anni negli altri casi.
+
+Il provvedimento di allontanamento per i motivi di cui al comma 1 e' immediatamente eseguito dal questore qualora si ravvisi, caso per caso, l'urgenza dell'allontanamento perche' l'ulteriore permanenza sul territorio e' incompatibile con la civile e sicura convivenza. Si applicano le disposizioni di cui all'articolo 13, comma 5-bis, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286.
+
+Nei casi di cui al comma 10, se il destinatario del provvedimento di allontanamento si trattiene oltre il termine fissato, il questore dispone l'esecuzione immediata del provvedimento di allontanamento dell'interessato dal territorio nazionale. Si applicano, per la convalida del provvedimento del questore, le disposizioni del comma 11.
+
+Il destinatario del provvedimento di allontanamento puo' presentare domanda di revoca del divieto di reingresso dopo che, dall'esecuzione del provvedimento, sia decorsa almeno la meta' della durata del divieto, e in ogni caso decorsi tre anni. Nella domanda devono essere addotti gli argomenti intesi a dimostrare l'avvenuto oggettivo mutamento delle circostanze che hanno motivato la decisione di vietarne il reingresso nel territorio nazionale. Sulla domanda, entro sei mesi dalla sua presentazione, decide con atto motivato l'autorita' che ha emanato il provvedimento di allontanamento.
+Durante l'esame della domanda l'interessato non ha diritto di ingresso nel territorio nazionale.
+
+Il destinatario del provvedimento di allontanamento che rientra nel territorio nazionale in violazione del divieto di reingresso, e' punito con la reclusione fino a due anni, nell'ipotesi di allontanamento per motivi di sicurezza dello Stato, ovvero fino ad un anno, nelle altre ipotesi. Il giudice puo' sostituire la pena della reclusione con la misura dell'allontanamento immediato con divieto di reingresso nel territorio nazionale, per un periodo da cinque a dieci anni. L'allontanamento e' immediatamente eseguito dal questore, anche se la sentenza non e' definitiva.
+
+Si applica la pena detentiva della reclusione fino a tre anni in caso di reingresso nel territorio nazionale in violazione della misura dell'allontanamento disposta ai sensi del comma 14, secondo periodo.
+
+Nei casi di cui ai commi 14 e 15 si procede con rito direttissimo. In caso di condanna, salvo che il giudice provveda ai sensi del comma 14, secondo periodo, e' sempre adottato un nuovo provvedimento di allontanamento immediatamente esecutivo, al quale si applicano le norme del comma 11.
+
+I provvedimenti di allontanamento di cui al presente articolo sono adottati tenendo conto anche delle segnalazioni motivate del sindaco del luogo di residenza o di dimora del destinatario del provvedimento.
+
+## Art. 20-bis. — Procedimento penale pendente a carico del destinatario del provvedimento di allontanamento
+
+Qualora il destinatario del provvedimento di allontanamento di cui all'articolo 20, ((commi 3-bis, 11 e 12)), sia sottoposto a procedimento penale, si applicano le disposizioni di cui all'articolo 13, commi 3, 3-bis, 3-ter, 3-quater e 3-quinquies, del decreto legislativo 25 luglio 1998, n. 286.
+
+Il nulla osta di cui all'articolo 13, comma 3, del decreto legislativo 25 luglio 1998, n. 286, si intende concesso qualora l'autorita' giudiziaria non provveda entro quarantotto ore dalla data di ricevimento della richiesta.
+
+Non si da' luogo alla sentenza di cui all'articolo 13, comma 3-quater, del citato decreto legislativo n. 286 del 1998, qualora si proceda per i reati di cui all'articolo 380 del codice di procedura penale.
+
+Quando il procedimento penale pendente sia relativo ai reati di cui all'articolo 380 del codice di procedura penale, si puo' procedere all'allontanamento solo nell'ipotesi in cui il soggetto non sia sottoposto a misura cautelare detentiva per qualsiasi causa.
+
+In deroga alle disposizioni sul divieto di reingresso, il destinatario del provvedimento di allontanamento, sottoposto ad un procedimento penale ovvero parte offesa nello stesso, puo' essere autorizzato a rientrare nel territorio dello Stato, dopo l'esecuzione del provvedimento, per il tempo strettamente necessario all'esercizio del diritto di difesa, al solo fine di partecipare al giudizio o di compiere atti per i quali e' necessaria la sua presenza. Salvo che la presenza dell'interessato possa procurare gravi turbative o grave pericolo all'ordine pubblico o alla sicurezza pubblica, l'autorizzazione e' rilasciata dal questore, anche per il tramite di una rappresentanza diplomatica o consolare, su documentata richiesta del destinatario del provvedimento di allontanamento, o del suo difensore.
+
+## Art. 20-ter. — Autorita' giudiziaria competente per la convalida dei provvedimenti del questore
+
+Ai fini della convalida dei provvedimenti emessi dal questore ai sensi degli articoli 20 e 20-bis, e' competente il tribunale ordinario ((sede della sezione specializzata in materia di immigrazione protezione internazionale e libera circolazione dei cittadini dell'Unione europea)).((Quando l'interessato e' trattenuto in un centro di cui all'articolo 14 del decreto legislativo 25 luglio 1998, n. 286, la sua partecipazione all'udienza per la convalida avviene, ove possibile, a distanza, mediante un collegamento audiovisivo, tra l'aula d'udienza e il centro. Il collegamento audiovisivo si svolge in conformita' alle specifiche tecniche stabilite con decreto direttoriale d'intesa tra i Ministeri della giustizia e dell'interno entro centottanta giorni dalla data di entrata in vigore della presente disposizione, e, in ogni caso, con modalita' tali da assicurare la contestuale, effettiva e reciproca visibilita' delle persone presenti in entrambi i luoghi e la possibilita' di udire quanto vi viene detto. E' sempre consentito al difensore, o a un suo sostituto, di essere presente nel luogo ove si trova il richiedente. Un operatore della polizia di Stato appartenente ai ruoli di cui all'articolo 39, secondo comma, della legge 1° aprile 1981, n. 121, e' presente nel luogo ove si trova il richiedente e ne attesta l'identita' dando atto che non sono posti impedimenti o limitazioni all'esercizio dei diritti e delle facolta' a lui spettanti. Egli da' atto dell'osservanza delle disposizioni di cui al terzo periodo del presente comma nonche', se ha luogo l'audizione del richiedente, delle cautele adottate per assicurarne la regolarita' con riferimento al luogo ove si trova. A tal fine interpella, ove occorra, il richiedente e il suo difensore. Delle operazioni svolte e' redatto verbale a cura del medesimo operatore della polizia di Stato.))
+                            ((6))
+
+---------------
+                        AGGIORNAMENTO (6)
+                        
+ Il D.L. 17 febbraio 2017, n. 13, convertito con modificazioni dalla L. 13 aprile 2017, n. 46, ha disposto (con l'art. 21, comma 1) che le presenti modifiche "si applicano alle cause e ai procedimenti giudiziari sorti dopo il centottantesimo giorno dalla data di entrata in vigore del presente decreto. Alle cause e ai procedimenti giudiziari introdotti anteriormente alla scadenza del termine di cui al periodo precedente si continuano ad applicare le disposizioni vigenti prima dell'entrata in vigore del presente decreto".
+
+## Art. 21. — Allontanamento per cessazione delle condizioni che determinano il diritto di soggiorno
+
+Il provvedimento di allontanamento dei cittadini degli altri Stati membri dell'Unione europea o dei loro familiari, qualunque sia la loro cittadinanza, puo' altresi' essere adottato quando vengono a mancare le condizioni che determinano il diritto di soggiorno dell'interessato ai sensi degli articoli 6, 7 e 13 e salvo quanto previsto dagli articoli 11 e 12. ((L'eventuale ricorso da parte di un cittadino dell'Unione o dei suoi familiari al sistema di assistenza sociale non costituisce automaticamente causa di allontanamento, ma deve essere valutato caso per caso.))
+
+Il provvedimento di cui al comma 1 e' adottato dal prefetto, territorialmente competente secondo la residenza o dimora del destinatario, anche su segnalazione motivata del sindaco del luogo di residenza o dimora, con atto motivato e notificato all'interessato.
+Il provvedimento e' adottato tenendo conto della durata del soggiorno dell'interessato, della sua eta', della sua salute, della sua integrazione sociale e culturale e dei suoi legami con il Paese di origine. Il provvedimento riporta le modalita' di impugnazione, nonche' il termine per lasciare il territorio nazionale, che non puo' essere inferiore ad un mese. Se il destinatario non comprende la lingua italiana, si applicano le disposizioni di cui all'articolo 20, comma 10.
+
+Unitamente al provvedimento di allontanamento e' consegnata all'interessato una attestazione di obbligo di adempimento dell'allontanamento, secondo le modalita' stabilite con decreto del Ministro dell'interno e del Ministro degli affari esteri, da presentare presso un consolato italiano. Il provvedimento di allontanamento di cui al comma 1 non puo' prevedere un divieto di reingresso sul territorio nazionale.
+
+((
+
+Nei confronti dei soggetti di cui al comma 1, che non hanno ottemperato al provvedimento di allontanamento di cui al comma 2 e sono stati individuati sul territorio dello Stato oltre il termine fissato, senza aver provveduto alla presentazione dell'attestazione di cui al comma 3, il prefetto puo' adottare un provvedimento di allontanamento coattivo per motivi di ordine pubblico, ai sensi dell'articolo 20, immediatamente eseguito dal questore.
+
+))
+
+## Art. 22. — Ricorsi avverso i provvedimenti di allontanamento
+
+Avverso i provvedimenti di allontanamento per motivi di sicurezza dello Stato o per motivi di ordine pubblico di cui all'articolo 20, comma 1, la tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal codice del processo amministrativo.
+
+((2. Avverso il provvedimento di allontanamento per motivi di pubblica sicurezza, per motivi imperativi di pubblica sicurezza e per i motivi di cui all'articolo 21 puo' essere presentato ricorso all'autorita' giudiziaria ordinaria. Le controversie di cui al presente comma sono disciplinate dall'articolo 17 del decreto legislativo 1° settembre 2011, n. 150.))
+
+((4))
+
+I ricorsi di cui ((al comma 1)) , sottoscritti personalmente dall'interessato, possono essere presentati anche per il tramite di una rappresentanza diplomatica o consolare italiana; in tale caso l'autenticazione della sottoscrizione e l'inoltro all'autorita' giudiziaria italiana sono effettuati dai funzionari della rappresentanza. La procura speciale al patrocinante legale e' rilasciata avanti all'autorita' consolare, presso cui sono eseguite le comunicazioni relative al procedimento. ((4))
+
+I ricorsi di cui ((al comma 1)) possono essere accompagnati da una istanza di sospensione dell'esecutorieta' del provvedimento di allontanamento. Fino all'esito dell'istanza di cui al presente comma, l'efficacia del provvedimento impugnato resta sospesa, salvo che il provvedimento di allontanamento si basi su una precedente decisione giudiziale ovvero sia fondato su motivi di sicurezza dello Stato ((...)). ((4))
+
+((COMMA ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150)). ((4))
+
+Al cittadino comunitario o al suo familiare, qualunque sia la sua cittadinanza, cui e' stata negata la sospensione del provvedimento di allontanamento sono consentiti, a domanda, l'ingresso ed il soggiorno nel territorio nazionale per partecipare al procedimento di ricorso, salvo che la sua presenza possa procurare gravi turbative o grave pericolo all'ordine pubblico o alla sicurezza pubblica. L'autorizzazione e' rilasciata dal questore anche per il tramite di una rappresentanza diplomatica o consolare su documentata richiesta dell'interessato.
+
+Nel caso in cui il ricorso e' respinto, l'interessato presente sul territorio dello Stato deve lasciare immediatamente il territorio nazionale.
+
+----------------
+                        AGGIORNAMENTO (4)
+                        
+ Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso. 
+ 2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."
+
+## Art. 23. — Applicabilita' ai soggetti non aventi la cittadinanza italiana che siano familiari di cittadini italiani
+
+Le disposizioni del presente decreto legislativo, se piu' favorevoli, si applicano ai familiari di cittadini italiani non aventi la cittadinanza italiana ((che hanno esercitato il diritto di libera circolazione in ambito europeo)).
+
+((1-bis. Ai familiari non aventi la cittadinanza di uno Stato membro, di cittadini italiani che non hanno esercitato il diritto alla libera circolazione, ai sensi della direttiva 2004/38/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, e' rilasciato il permesso di soggiorno per motivi di famiglia, con le modalita' di cui all'articolo 5, comma 8, del decreto legislativo 25 luglio 1998, n. 286. Non si applicano le disposizioni di cui all'articolo 5, comma 2-ter, del decreto legislativo 25 luglio 1998, n. 286. Nei casi di cui al primo periodo, il permesso di soggiorno e' rilasciato a seguito della prima richiesta avanzata o della presentazione dell'istanza di aggiornamento delle informazioni trascritte ovvero della fotografia. Il permesso di soggiorno per motivi di famiglia di cui al presente comma e' valido cinque anni, e' rinnovabile alla scadenza e puo' essere convertito in permesso di soggiorno per motivi di lavoro))
+
+## Art. 23-bis. — (( (Consultazione tra gli Stati membri). ))
+
+((
+
+Quando uno Stato membro chiede informazioni ai sensi dell'articolo 27, paragrafo 3, della direttiva 2004/38/CE del Parlamento europeo e del Consiglio, del 29 aprile 2004, il Ministero dell'interno - Dipartimento della pubblica sicurezza, attraverso i propri canali di scambio informativo, provvede a fornire gli elementi entro il termine di due mesi dalla data di ricezione della richiesta.
+La consultazione puo' avvenire solo per casi specifici e per esigenze concrete.
+
+))
+
+## Art. 24. — Norma finanziaria
+
+Agli oneri derivanti dagli articoli 2, 3, 7, 11, 14 e 15, valutati in 14,5 milioni di euro a decorrere dall'anno 2007, si provvede a carico del Fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, le cui risorse sono versate all'entrata del bilancio dello Stato per essere riassegnate all'I.N.P.S. e al Fondo sanitario nazionale.
+
+Il Ministro dell'economia e delle finanze provvede al monitoraggio degli oneri di cui al presente decreto legislativo, ai fini dell'adozione dei provvedimenti correttivi di cui all'articolo 11-ter, comma 7, della legge 5 agosto 1978, n. 468, e successive modificazioni, ovvero delle misure correttive da assumere, ai sensi dell'articolo 11, comma 3, lettera i-quater), della medesima legge.
+Gli eventuali decreti emanati ai sensi dell'articolo 7, secondo comma, n. 2), della legge 5 agosto 1978, n. 468, prima della data di entrata in vigore dei provvedimenti o delle misure di cui al precedente periodo, sono tempestivamente trasmesse alle Camere, corredati di apposite relazioni illustrative.
+
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 25. — Norme finali e abrogazioni
+
+Le amministrazioni competenti provvederanno, senza nuovi o maggiori oneri a carico della finanza pubblica, a diffondere tramite i propri siti internet i contenuti del presente decreto.
+
+Alla data di entrata in vigore del presente decreto sono o restano abrogati il decreto del Presidente della Repubblica 30 dicembre 1965, n. 1656, il decreto legislativo 18 gennaio 2002, n. 52, il decreto del Presidente della Repubblica 18 gennaio 2002, n. 53, il decreto del Presidente della Repubblica 18 gennaio 2002, n. 54.
+
+Il comma 4 dell'articolo 30 del decreto legislativo 25 luglio 1998, n. 286, e' abrogato.
+

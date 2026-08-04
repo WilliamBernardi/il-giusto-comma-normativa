@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1764
+data: 1963-10-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-10-14;1764
+codice_redazionale: 063U1764
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 ottobre 1963
+                1764
+                Autorizzazione alla Cassa di risparmio di Jesi, con sede in Jesi, ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 ottobre 1963, col quale, sulla proposta del Ministro per il tesoro, la Cassa di risparmio di Jesi, con sede in Jesi, viene autorizzato ad accettare, ai sensi dell'art. 17 del vigente Codice civile, l'eredita' disposta dal signor Gustavo Tesei con testamento olografo dell'8 agosto 1952, pubblicato per notai Picchietti di Jesi l'8 giugno 1957, registrato a Jesi il 25 giugno 1957, al n. 1901 vol. n. 128 Atti pubblici, consistente nella parte del suo patrimonio non riservate ai legittimari, affinche' la Cassa di risparmio stessa provveda alla creazione di una Fondazione intitolata all'avv. Gustavo Tesei.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 5 dicembre 1963
+ Atti del Governo, registro n. 178, foglio n. 3. - VILLA
+

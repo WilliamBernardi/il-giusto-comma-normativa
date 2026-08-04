@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1862-07-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1862-07-06;476
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:44Z
+---
+
+REGIO DECRETO
+                06 luglio 1862
+                CCCCLXXVI
+                Col quale e' approvato un regolamento di polizia rurale pel Comune di Calcababbio. (6200476R)
+
+Entrata in vigore del provvedimento: 06/07/1862
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

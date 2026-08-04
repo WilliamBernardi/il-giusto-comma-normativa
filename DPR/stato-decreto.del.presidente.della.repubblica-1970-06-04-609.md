@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 609
+data: 1970-06-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-06-04;609
+codice_redazionale: 070U0609
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 giugno 1970
+                609
+                Ridimensionamento della zona del comune di Attigliano da trasferire ai sensi della legge 9 luglio 1908, n. 445 e del decreto del Presidente della Repubblica 9 marzo 1962, n. 213.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 9 luglio 1908, n. 445;
+ Visto il decreto-legge luogotenenziale 13 aprile 1919, n. 568;
+ Visto il decreto del Presidente della Repubblica 9 marzo 1962, n. 213, con il quale l'abitato di Attigliano, in provincia di Terni, e' stato aggiunto agli abitati indicati nella tabella E) annessa alla legge 9 luglio 1908, n. 445, titolo IV (trasferimento di abitati minacciati da frane), limitatamente al perimetro descrittivamente individuato dal rio Secco, da via Case Sparse e da piazza del Popolo;
+ Considerato che e' emersa la necessita' di procedere ad un ridimensionamento della zona da trasferire, fermo restando l'onere della osservanza di particolari cautele di carattere urbanistico ai margini della zona stessa;
+ Ritenuto che la zona da trasferire dell'abitato di Attigliano debba essere delimitata da un lato dal rio Secco e dall'altro dalle mura castellane, come indicato nell'annessa planimetria, vistata dal Ministro proponente e che fa parte integrante del presente decreto;
+ Visto il conforme parere del Consiglio superiore dei lavori pubblici espresso con voto n. 124 nell'adunanza del 10 febbraio 1970;
+ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici;
+
+ Decreta:
+
+ A norma dell'art. 4 del decreto-legge luogotenenziale 13 aprile 1919, n. 568 e a tutti gli effetti della legge 9 luglio 1908, n. 445, titolo IV, l'abitato di Attigliano rimane compreso tra gli abitati indicati nella tabella E, allegata alla legge stessa (trasferimento di abitati minacciati da frane), limitatamente al perimetro compreso tra il rio Secco e le mura castellane, come descritto nella premessa.
+

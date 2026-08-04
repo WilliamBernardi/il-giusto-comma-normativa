@@ -1,0 +1,59 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 711
+data: 1978-11-17
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-11-17;711
+codice_redazionale: 078U0711
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                17 novembre 1978
+                711
+                Corresponsione di miglioramenti economici al personale della scuola.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Con decorrenza dal 1 ottobre 1978, al personale ispettivo, direttivo, docente, educativo e non docente della scuola materna, elementare, secondaria ed artistica dello Stato e' corrisposta una somma di L. 10.000 mensili lorde a titolo di acconto sui miglioramenti derivanti dal nuovo ordinamento del personale e del relativo trattamento economico, previsti dall'accordo del 31 maggio 1977 e dalle note aggiuntive del 15 aprile 1978, del 23 maggio 1978 e del 14 luglio 1978.
+ Per l'anno 1978 e fino all'entrata in vigore del nuovo ordinamento del personale, la tredicesima mensilita' delle categorie sottoelencate e' integrata dai seguenti importi:
+ a) L. 35.000 ed una mensilita' dell'assegno annuo pensionabile in godimento, di cui alla legge 30 luglio 1973, n. 477, per il personale ispettivo, direttivo, docente ed educativo della scuola materna, elementare, secondaria ed artistica;
+ b) L. 58.000 ed una mensilita' dell'assegno annuo pensionabile in godimento, di cui alla legge 30 luglio 1973, n. 477, per il personale non docente della scuola materna, elementare, secondaria ed artistica.
+
+## Art. 2.
+
+Con effetto dal 1 ottobre 1978, al personale di cui al precedente art. 1, che alla data del 1 ottobre 1978 risulti provvisto dello stipendio annuo lordo, comprensivo degli aumenti biennali di stipendio conseguibili con una anzianita' di servizio compresa tra le scadenze sottoindicate, e' corrisposta mensilmente, anche sulla tredicesima mensilita', a titolo di acconto sui miglioramenti derivanti dall'attuazione del nuovo ordinamento del personale, la somma a fianco segnata:
+ con anzianita' di servizio non inferiore a 25 e non superiore a 28 anni, L. 5.770;
+ con anzianita' di servizio non inferiore a 29 e non superiore a 32 anni, L. 11.540;
+ con anzianita' di servizio non inferiore a 33 e non superiore a 36 anni, L. 17.310;
+ con anzianita' di servizio non inferiore a 37 anni, L. 23.080.
+ Ai fini della applicazione del precedente comma, il personale direttivo della scuola elementare, secondaria ed artistica e quello non docente delle carriere di concetto ed esecutiva con parametri di stipendio terminali 609, 530, 535, 370 e 245, si considera con anzianita' di servizio di ruolo complessiva pari a sedici anni, maggiorati di un biennio per ogni aumento periodico in godimento. Gli ispettori tecnici periferici con parametro 600 si considerano agli stessi fini con anzianita' di servizio di ruolo complessiva pari a ventiquattro anni, maggiorati di un biennio per ogni aumento periodico in godimento.
+
+## Art. 3.
+
+A partire dal 1 ottobre 1978, al personale non docente di ruolo delle carriere esecutive, che alla data del 1 ottobre 1978 risulti con parametri di stipendio 143, 163, 183 e 213, e' corrisposto mensilmente anche sulla tredicesima mensilita', a titolo di acconto sui miglioramenti derivanti dall'attuazione del nuovo ordinamento del personale, il seguente importo:
+ parametri 143 e 163: L. 9.230;
+ parametri 183 e 213: L. 15.385.
+ Il beneficio di cui al precedente comma non compete al personale proveniente da ruoli della carriera ausiliaria il quale, all'atto del passaggio nella carriera esecutiva, abbia conservato a titolo di assegno personale riassorbibile la differenza tra l'importo dell'assegno annuo pensionabile in godimento e quello spettante nella nuova carriera.
+
+## Art. 4.
+
+Le operazioni connesse alla liquidazione ed al pagamento delle somme di cui ai precedenti articoli 2 e 3 sono eseguite direttamente dagli uffici che corrispondono lo stipendio, con le modalita' previste per il conferimento degli aumenti periodici di stipendio.
+
+## Art. 5.
+
+L'importo di L. 10.000, le integrazioni della tredicesima mensilita' e gli altri importi di cui al presente decreto sono assoggettati alle ritenute previdenziali assistenziali ed erariali.
+ L'importo di L. 10.000 e quelli di cui ai precedenti articoli 2 e 3 si corrispondono in quanto competa lo stipendio e sono ridotti, nella stessa proporzione, in ogni posizione di stato che comporti la riduzione dello stipendio medesimo. Sono corrisposti ad un sol titolo nei casi di consentito cumulo di impieghi.
+ Le integrazioni della tredicesima mensilita' sono proporzionalmente ridotte nei casi in cui la mensilita' stessa non competa in misura intera.
+ Per il personale docente e non docente non di ruolo al quale, a norma delle vigenti disposizioni, spetta una retribuzione ragguagliata alla effettiva durata del servizio, l'importo di L. 10.000 e' corrisposto in proporzione. Parimenti in proporzione e' corrisposto l'importo di L. 10.000 per il personale docente non di ruolo che presti servizio per un numero di ore settimanali di insegnamento non comportante il trattamento di cattedra.
+
+## Art. 6.
+
+Alla copertura della maggiore spesa derivante dall'applicazione del presente decreto si provvede ai sensi della legge 10 novembre 1978, n. 701.
+

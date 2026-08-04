@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 488
+data: 1950-04-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1950-04-05;488
+codice_redazionale: 050U0488
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 aprile 1950
+                488
+                Approvazione ed esecutorieta' della convenzione stipulata con le ferrovie calabro-lucane per l'acquisto di nuovo materiale rotabile.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'atto 10 luglio 1926, approvato e reso esecutorio con regio decreto-legge 29 luglio 1926, n. 1450, convertito nella legge 29 dicembre 1927, n. 2731, col quale vennero riassunti i precedenti atti stipulati tra il Governo e la Societa' italiana per le strade ferrate del Mediterraneo per la concessione della costruzione e dell'esercizio delle ferrovie a scartamento ridotto di Basilicata e Calabria;
+ Visto il testo unico delle disposizioni di legge per le ferrovie concesse all'industria privata, le tramvie a trazione meccanica e gli automobili, approvato con regio decreto 9 maggio 1912, n. 1447;
+ Vista la legge 6 aprile 1949, n. 168;
+ Sentiti il Consiglio superiore dei lavori pubblici ed il Consiglio di Stato;
+ Sulla proposta dei Ministri per i trasporti e per il tesoro;
+
+ Decreta:
+
+ E' approvato e reso esecutorio l'atto stipulato il 9 marzo 1950 tra i delegati dei Ministri per i trasporti e per il tesoro e il rappresentante della Societa' italiana per le strade ferrate del Mediterraneo per regolare l'acquisto di nuovo materiale rotabile per l'esercizio delle ferrovie calabro-lucane.
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-10-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-10-11;929
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:39Z
+---
+
+REGIO DECRETO
+                11 ottobre 1863
+                DCCCCXXIX
+                Approvativo della tariffa dei diritti di Segreteria spettanti alla Camera di commercio e d'arti di Piacenza. (6300929R)
+
+Entrata in vigore del provvedimento: 20/11/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1268
+data: 1965-09-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-09-28;1268
+codice_redazionale: 065U1268
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 settembre 1965
+                1268
+                Autorizzazione all'Automobile Club di Torino ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 settembre 1965, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Torino, viene autorizzato ad acquistare in proprieta' dalla Societa' "Torino Edilizia Societa' Immobiliare T.E.S.I. - s. p. a.", con sede in Torino, per il prezzo di L. 64.000.000, una porzione immobiliare, (costituita da locali al piano terreno ed al primo piano, nonche' da quattro cantine contigue poste al piano seminterrato) facente parte del fabbricato sito in Torino alla via Giolitti n. 15, angolo via San Francesco da Paola n. 20-22, da destinare a nuova, sede dei propri uffici.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 13 novembre 1965
+ Atti del Governo, registro n. 193, foglio n. 33. - VILLA
+

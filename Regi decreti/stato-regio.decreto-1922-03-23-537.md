@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 537
+data: 1922-03-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1922-03-23;537
+codice_redazionale: 022U0537
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:20Z
+---
+
+REGIO DECRETO
+                23 marzo 1922
+                537
+                Applicazione di tassa di famiglia. (022U0537)
+
+Entrata in vigore del provvedimento: 16/05/1922
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

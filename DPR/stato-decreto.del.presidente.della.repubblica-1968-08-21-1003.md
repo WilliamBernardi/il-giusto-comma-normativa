@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1003
+data: 1968-08-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-08-21;1003
+codice_redazionale: 068U1003
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 agosto 1968
+                1003
+                Estinzione dell'opera pia "Beneficenza Fratelli Trabucchi", con sede in Malesco.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 agosto 1968, col quale, sulla proposta del Ministro per l'interno, l'opera pia "Beneficenza Fratelli Trabucchi", con sede in Malesco (Novara), viene dichiarata estinta ed il relativo patrimonio devoluto al locale asilo infantile.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 settembre 1968
+ Atti del Governo, registro n. 222, foglio n. 177. - GRECO
+

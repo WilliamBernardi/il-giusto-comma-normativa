@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1205
+data: 1920-08-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1920-08-14;1205
+codice_redazionale: 020U1205
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:44Z
+---
+
+REGIO DECRETO
+                14 agosto 1920
+                1205
+                Erezione in Ente morale. (020U1205)
+
+Entrata in vigore del provvedimento: 26/09/1920
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

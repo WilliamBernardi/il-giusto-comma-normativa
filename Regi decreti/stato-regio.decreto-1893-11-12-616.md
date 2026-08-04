@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 616
+data: 1893-11-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1893-11-12;616
+codice_redazionale: 093U0616
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:32Z
+---
+
+REGIO DECRETO
+                12 novembre 1893
+                616
+                Che autorizza prelevazione di somma dal fondo di riserva per la spesa imprevista, da portarsi in aumento al bilancio della spesa del Ministero delle Finanze, capitolo numero 69. (093U0616)
+
+Entrata in vigore del provvedimento: 03/12/1893
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

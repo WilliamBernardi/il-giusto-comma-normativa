@@ -1,0 +1,78 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1059
+data: 1949-10-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-10-30;1059
+codice_redazionale: 049U1059
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 ottobre 1949
+                1059
+                Modificazioni allo statuto dell'Universita' degli studi di Napoli.
+
+Veduto lo statuto dell'Universita' degli studi di Napoli, approvato con regio decreto 20 aprile 1939, n. 1162, e modificato con regi decreti 25 ottobre 1940, n. 1904; 4 maggio 1942, n. 557; 5 settembre 1942, n. 1120; con il decreto del Presidente della Repubblica 26 febbraio 1949, n. 612;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652;
+
+Vedute le proposte di modifica allo statuto formulate dalle autorita' accademiche della predetta Universita';
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+## Art. 1.
+
+Lo statuto dell'Universita' degli studi di Napoli, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso.
+ Dopo l'art. 211 vengono aggiunti i seguenti nuovi articoli:
+
+ Scuola di perfezionamento in medicina interna.
+
+ Art. 212. - La scuola di perfezionamento in medicina interna ha la durata di cinque anni; essa ha sede presso l'Istituto di clinica medica generale ed e' diretta dal direttore della clinica.
+ Art. 213. - Gli iscritti hanno l'obbligo di prestare servizio esclusivo e continuativo nella clinica in qualita' di medico interno per tutta la durata della scuola.
+ Art. 214. - Ogni anno potranno essere iscritti alla scuola non piu' di otto candidati, scelti in base al risultato di una prova scritta che sara' tenuta all'inizio dell'anno accademico nell'Istituto di clinica medica. Qualora uno degli otto candidati riusciti vincitori del concorso chieda di essere ammesso ad un corso superiore al primo, dovra' presentare istanza motivata al direttore della scuola, cui spetta ogni decisione in merito. Nel caso che l'istanza venga accolta per uno o piu' candidati, il numero degli iscritti al primo anno di corso verra' corrispondentemente diminuito. In nessun caso la nuova iscrizione potra' essere fatta oltre il 3° anno di corso.
+ Art. 215. - Per l'iscrizione all'anno successivo occorre aver superato tutti gli esami dell'anno precedente.
+ Art. 216. - Le materie di insegnamento, tutte obbligatorie, sono le seguenti:
+ 1° anno:
+ 1) farmacologia;
+ 2) elementi di semeiotica boccale;
+ 3) elementi di semeiotica otorinolaringoiaitrica;
+ 4) elementi di semeiotica dermatologica;
+ 5) batteriologia e sierologia.
+ 2° anno:
+ 1) semeiotica fisica e funzionale;
+ 2) elementi di semeiotica oculare;
+ 3) chimica clinica;
+ 4) patologia speciale medica;
+ 5) anatomia patologica.
+ 3° anno:
+ 1) neuropatologia;
+ 2) malattie infettive;
+ 3) endocrinologia;
+ 4) tisiologia.
+ 4° anno:
+ 1) ematologia;
+ 2) malattie dell'apparato uropoietico;
+ 3) malattie dell'apparato digerente;
+ 4) malattie del ricambio.
+ 5° anno:
+ 1) clinica medica generale;
+ 2) malattie dell'apparato respiratorio;
+ 3) malattie dell'apparato cardio-vascolare;
+ 4) radiologia.
+ Non ottemperando all'obbligo di frequenza ai corsi di insegnamento non si potra' ottenere l'attestato necessario per l'ammissione ai singoli esami.
+ Art. 217. - Al termine dei cinque anni, per conseguire il diploma di perfezionamento che da' diritto al titolo di specialista in medicina interna, gli iscritti dovranno presentare una dissertazione scritta, elaborata nell'Istituto di clinica medica, su argomento di medicina interna, e dovranno sostenere un esame pratico dinanzi alla Commissione formata da almeno sette insegnanti della scuola.
+
+ Disposizioni transitorie.
+
+ In linea transitoria, e limitatamente al primo anno di funzionamento della scuola, potranno essere accettate domande di ammissione direttamente al secondo ed al terzo corso da parte di coloro che ne hanno i titoli sufficienti, e per un numero complessivo di otto per ogni corso.
+ La spesa relativa al funzionamento della predetta scuola sara' a carico del bilancio ordinario dell'Universita' di Napoli.
+

@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1217
+data: 1873-01-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1873-01-19;1217
+codice_redazionale: 073U1217
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:02:47Z
+---
+
+REGIO DECRETO
+                19 gennaio 1873
+                1217
+                che approva il riparto di somma fra gli Enti interessati nella costruzione del nuovo molo nel porto di Girgenti. (073U1217)
+
+Entrata in vigore del provvedimento: 13/03/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 227
+data: 1982-03-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-03-06;227
+codice_redazionale: 082U0227
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 marzo 1982
+                227
+                Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 marzo 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi", in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni immobili, siti in Milano, per un valore, al netto delle passivita', di L. 45.969.409, disposta dalla sig.ra Cussotti Gabriella con testamento olografo 28 novembre 1972, pubblicato a rogito dott. Brambilla Ferruccio, notaio in Milano, il 19 aprile 1977, n. 28744/ 3296 di repertorio, registrato a Busto Arsizio (Varese) il 5 maggio 1977 al n. 1265.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 23 aprile 1982
+ Registro n. 3 Presidenza, foglio n. 325
+

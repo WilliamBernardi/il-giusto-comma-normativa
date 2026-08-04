@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 579
+data: 1953-01-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-01-28;579
+codice_redazionale: 053U0579
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 gennaio 1953
+                579
+                Erezione in ente morale della Scuola arti e mestieri ed agricola, con sede in Ostiglia (Mantova).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 gennaio 1953, col quale, silla proposta del Ministro per l'interno, la Scuola arti e mestieri ed agricola, con sede in Ostiglia (Mantova) viene eretta in ente morale, e ne viene approvato il relativo statuto organico.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 5 agosto 1953
+ Atti del Governo, registro n. 78, foglio n. 88. - CARLOMAGNO
+

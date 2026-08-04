@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 988
+data: 1985-10-25
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-10-25;988
+codice_redazionale: 085U0988
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                25 ottobre 1985
+                988
+                Autorizzazione al patronato ACLI, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 25 ottobre 1985, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, il patronato ACLI, in Roma, viene autorizzato ad acquistare, al prezzo di L. 11.000.000, un appartamento al piano terra dello stabile, sito in Venezia-Dorsoduro, Calle della Cereria, 3517, censito al nuovo catasto edilizio urbano alla partita n. 14918, foglio n. 14, mappale n. 403 sub 2, di proprieta' della signora Ermilda Scussat come da contratto preliminare di compravendita 10 febbraio 1977, n. 97262 di repertorio, a rogito dottor Virgilio Bommarco, notaio in Mestre, registrato a Mestre in data 25 febbraio 1977 al n. 952, da adibire ad uffici del patronato. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 22 marzo 1986 
+ Registro n. 1 Lavoro, foglio n. 234
+

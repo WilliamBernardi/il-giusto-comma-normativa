@@ -1,0 +1,50 @@
+---
+tipo: REGIO DECRETO
+numero: 5371
+data: 1888-04-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-04-29;5371
+codice_redazionale: 088U5371
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:58Z
+---
+
+REGIO DECRETO
+                29 aprile 1888
+                5371
+                Concernente l'applicazione della Convenzione per la protezione dei cavi sottomarini. (088U5371)
+
+Entrata in vigore del provvedimento: 15/05/1888
+
+## Art. 1.
+
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ vista la legge 1° gennaio 1886, n. 3620 (Serie 3ª) e l'altra 18 aprile dello stesso anno, n. 3795 (Serie 3ª); 
+ 
+ Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro dell'Interno ed interim per gli Affari Esteri; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ La Convenzione per la protezione dei cavi sottomarini conclusa a Parigi fra l'Italia ed altri Stati il 14 marzo 1884 e le cui ratifiche vennero ivi scambiate il 31 dicembre 1885, sara' applicata dall'Italia a partire dal 1° maggio 1888. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 29 aprile 1888. 
+ 
+ UMBERTO. 
+ 
+ Crispi. 
+ G. Saracco. 
+ G. Zanardelli. 
+ B. Brin. 
+ 
+ Visto, Il Guardasigilli: Zanardelli.
+

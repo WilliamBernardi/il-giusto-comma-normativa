@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1592
+data: 1932-08-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-08-13;1592
+codice_redazionale: 032U1592
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:04Z
+---
+
+REGIO DECRETO
+                13 agosto 1932
+                1592
+                Annullamento dei contributi scolastici del soppresso comune di Revigliasco Torinese. (032U1592)
+
+Entrata in vigore del provvedimento: 04/01/1933
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

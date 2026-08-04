@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 640
+data: 1981-09-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-09-22;640
+codice_redazionale: 081U0640
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:06Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 settembre 1981
+                640
+                Riconoscimento, agli effetti civili, della unione delle parrocchie dei SS. Antonio abate e Maria Maddalena e di S. Lorenzo, in Valduggia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 settembre 1981, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Novara 1 febbraio 1978, relativo all'unione perpetua aeque principaliter delle parrocchie dei SS. Antonio abate e Maria Maddalena, in frazione Colma del comune di Valduggia (Vercelli), e di S. Lorenzo, in frazione Castagnola dello stesso comune.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 2 novembre 1981
+ Registro n. 17 Interno, foglio n. 42
+

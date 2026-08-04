@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 884
+data: 1969-10-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-13;884
+codice_redazionale: 069U0884
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 ottobre 1969
+                884
+                Riconoscimento della personalita' giuridica della chiesa "Madonna delle grazie", in Guarcino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 ottobre 1969, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della chiesa "Madonna delle grazie", in Guarcino (Frosinone).
+
+Visto, il Guardasigilli: CAVA
+ Registrato alla Corte dei conti, addi' 2 dicembre 1969
+ Atti del Governo, registro n. 230, foglio n. 118. - CARUSO
+

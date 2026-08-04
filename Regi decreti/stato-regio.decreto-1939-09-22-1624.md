@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1624
+data: 1939-09-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-09-22;1624
+codice_redazionale: 039U1624
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:34Z
+---
+
+REGIO DECRETO
+                22 settembre 1939
+                1624
+                Riconoscimento della personalita' giuridica della Chiesa di San Giovanni di Dio, detta anche di S. Giuseppe, in Barletta. (039U1624)
+
+Entrata in vigore del provvedimento: 22/11/1939
+
+## Art. 1.
+
+N.
+
+R. decreto 22 settembre 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di San Giovanni di Dio, detta anche di San Giuseppe, in Barletta. 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 27 ottobre 1939-XVII
+

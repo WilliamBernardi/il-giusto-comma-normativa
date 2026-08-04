@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 992
+data: 1966-10-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-10-13;992
+codice_redazionale: 066U0992
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 ottobre 1966
+                992
+                Erezione in ente morale della "Pia Opera Sannino pro sacerdoti", con sede in Portici (Napoli).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 ottobre 1966, col quale sulla proposta del Ministro per l'interno, la a Pia Opera Sannino pro sacerdoti" con sede in Portici (Napoli), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli REALE
+ Registrato alla Corte dei conti, addi' 16 novembre 1966
+ Atti del Governo registro n. 207, foglio n. 30. - VILLA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 676
+data: 1972-08-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-08-22;676
+codice_redazionale: 072U0676
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 agosto 1972
+                676
+                Riconoscimento, agli effetti civili, della elevazione in parrocchia della curazia autonoma ed indipendente di S. Valentino, in Cagno'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 agosto 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Trento in data 29 ottobre 1967, integrato con dichiarazioni dell'8 aprile 1968 e 18 febbraio 1972, relativo alla elevazione in parrocchia della curazia autonoma ed indipendente di S. Valentino, in Cagno' (Trento).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 novembre 1972
+ Atti del Governo, registro n. 253, foglio n. 24. - CARUSO
+

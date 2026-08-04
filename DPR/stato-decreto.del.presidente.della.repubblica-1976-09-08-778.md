@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 778
+data: 1976-09-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-08;778
+codice_redazionale: 076U0778
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 settembre 1976
+                778
+                Soppressione della fabbriceria od opera laicale del SS. Giovanni e Lucia nella chiesa pievania di S. M. Maggiore e di S. Niccolao, in Buggiano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 settembre 1976, col quale sulla proposta del Ministro per l'interno, viene soppressa la fabbriceria od opera laicale dei SS. Giovanni e Lucia nella chiesa pievania di S.M. Maggiore e di S. Niccolao, in Buggiano (Pistoia).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 12 novembre 1976
+ Registro n. 20 Interno, foglio n. 383
+

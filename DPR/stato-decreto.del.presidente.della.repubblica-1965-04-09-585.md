@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 585
+data: 1965-04-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-09;585
+codice_redazionale: 065U0585
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 aprile 1965
+                585
+                Autorizzazione all'Automobile Club di Biella ad acquistare un complesso immobiliare, sito in Biella.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 aprile 1905, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Biella viene autorizzato ad acquistare in proprieta' dal signor Giovanni Battista Delleani, per l'importo complessivo di L. 25.000.000, l'intero complesso immobiliare sito in Biella, viale Matteotti, fabbricato di civile abitazione di tre piani fuori terra ai numeri civici 11 e 13, nonche' il cortile e rustico retrostanti.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 29 maggio 1965
+ Atti del Governo, registro n. 193, foglio n. 120 - VILLA
+

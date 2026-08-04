@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1909-06-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-06-03;197
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:59Z
+---
+
+REGIO DECRETO
+                03 giugno 1909
+                CXCVII
+                Che stabilisce le condizioni per la concessione di appezzamenti di terreni a scopo agricolo nella Somalia italiana. (0900197R)
+
+Entrata in vigore del provvedimento: 25/07/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

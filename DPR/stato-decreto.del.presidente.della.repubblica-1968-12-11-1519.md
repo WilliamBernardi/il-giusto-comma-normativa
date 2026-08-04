@@ -1,0 +1,37 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1519
+data: 1968-12-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-12-11;1519
+codice_redazionale: 068U1519
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 dicembre 1968
+                1519
+                Dichiarazione di ente ospedaliero dell'ospedale "Civile dello Spirito Santo", con sede in Pescara.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 12 febbraio 1968, n. 132, recante norme sugli enti ospedalieri e sull'assistenza ospedaliera;
+ Visto il decreto del medico provinciale di Pescara in data 17 maggio 1968, con il quale, sentito il consiglio provinciale di sanita', l'ospedale "Civile dello Spirito Santo", di Pescara, e' stato classificato ospedale generale provinciale a norma degli articoli 19, 20, 22 e 54 della citata legge n. 132;
+ Ritenuto che, al momento dell'entrata in vigore della citata legge n. 132, il predetto ospedale provvedeva esclusivamente al ricovero ed alla cura degli infermi, ai sensi dell'art. 2 dello statuto dell'ente;
+ Visti gli articoli 3, 4, 9 e 54 della legge stessa;
+ Sulla proposta del Ministro per la sanita', di concerto con il Ministro per l'interno;
+
+ Decreta:
+
+ L'ospedale "Civile dello Spirito Santo", con sede in Pescara, di cui alle premesse, e' dichiarato ente ospedaliero.
+ Il consiglio di amministrazione dell'ente ospedaliero suddetto e' composto come segue:
+ cinque membri eletti dal consiglio provinciale di Pescara;
+ due membri eletti dal consiglio comunale di Pescara;
+ due membri in rappresentanza degli originari interessi dell'ente, designati e nominati ai sensi dello statuto dell'ente, approvato con regio decreto 16 maggio 1932, n. 761, modificato con decreto del Presidente della Repubblica 12 marzo 1963, con decreto del Presidente della Repubblica 20 maggio 1964 e con decreto del Presidente della Repubblica 15 ottobre 1964.
+

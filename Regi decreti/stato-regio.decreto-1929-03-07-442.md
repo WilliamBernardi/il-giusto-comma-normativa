@@ -1,0 +1,50 @@
+---
+tipo: REGIO DECRETO
+numero: 442
+data: 1929-03-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-03-07;442
+codice_redazionale: 029U0442
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:25Z
+---
+
+REGIO DECRETO
+                07 marzo 1929
+                442
+                Aggregazione del comune di Perloz, nonche' di parte del territorio dei comuni di Donnaz e Carema, al comune di Pont-Saint-Martin, che assume la denominazione di «Ponte San Martino». (029U0442)
+
+Entrata in vigore del provvedimento: 03/05/1929
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-legge 17 marzo 1927, n. 383, convertito nella legge 7 giugno 1928, n. 1382;
+
+## Art. 1.
+
+Il comune di Perloz, nonche' le parti di territorio dei comuni di Donnaz e Carema, delimitate giusta le piante planimetriche vistate dall'ingegnere capo dell'ufficio del Genio civile di Torino rispettivamente in data 7 maggio e 22 settembre 1928, sono aggregati al comune di Pont-Saint-Martin, che assume la denominazione di «Ponte San Martino». 
+ 
+ Le piante anzidette, vidimate, d'ordine Nostro, dal Ministro proponente, faranno parte integrante del presente decreto.
+
+## Art. 2.
+
+Il prefetto di Aosta, sentita la Giunta provinciale amministrativa, determinera', ai sensi e agli effetti dell'art. 118 della legge comunale e provinciale, testo unico 4 febbraio 1915, n. 148, le condizioni dell'aggregazione del comune di Perloz al comune di Ponte San Martino e provvedera' altresi' al regolamento dei rapporti patrimoniali e finanziari fra quest'ultimo ed i comuni di Donnaz e Carema in dipendenza delle variazioni di circoscrizione disposte dal precedente articolo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 marzo 1929 - Anno VII. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ MUSSOLINI. 
+ 
+ Visto, il Guardasigilli: ROCCO. 
+ 
+ Registrato alla Corte dei conti, addi' 10 aprile 1929 - Anno VII  
+ Atti del Governo, registro 283, foglio 63. - SIROVICH.
+

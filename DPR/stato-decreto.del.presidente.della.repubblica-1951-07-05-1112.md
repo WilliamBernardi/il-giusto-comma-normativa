@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1112
+data: 1951-07-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-07-05;1112
+codice_redazionale: 051U1112
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 luglio 1951
+                1112
+                Costituzione del Consorzio veneziano fra cooperative edili ed affini, con sede in Venezia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 luglio 1951, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, viene costituito il Consorzio veneziano fra cooperative edili ed affini, con sede in Venezia, e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 22 ottobre 1951
+ Atti del Governo, registro n. 45, foglio n. 36. - FRASCA
+

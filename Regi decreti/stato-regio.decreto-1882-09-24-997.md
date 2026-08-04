@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 997
+data: 1882-09-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-09-24;997
+codice_redazionale: 082U0997
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:03Z
+---
+
+REGIO DECRETO
+                24 settembre 1882
+                997
+                Che costituisce sessioni elettorali con aggregazione di piu' comuni. (082U0997)
+
+Entrata in vigore del provvedimento: 11/10/1882
+ La Tabella annessa al provvedimento e' stata pubblicata nel SO relativo alla GU n. 225 del 26-09-1882.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

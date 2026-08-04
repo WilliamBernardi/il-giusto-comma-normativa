@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 41
+data: 1970-01-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-01-14;41
+codice_redazionale: 070U0041
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 gennaio 1970
+                41
+                Rettifica della sede della parrocchia di S. Maria delle Grazie alla Pietra del Pesce, nel comune di Marano di Napoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 gennaio 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta, agli effetti civili, la rettifica della sede della parrocchia di S. Maria delle Grazie alla Pietra del Pesce da "rione Marano della stessa citta'" in "comune di Marano di Napoli (Napoli).
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 23 febbraio 1970
+ Atti del Governo, registro n. 233, foglio n. 3. - CARUSO
+

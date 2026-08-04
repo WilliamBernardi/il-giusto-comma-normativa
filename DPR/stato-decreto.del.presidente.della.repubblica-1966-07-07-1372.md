@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1372
+data: 1966-07-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-07-07;1372
+codice_redazionale: 066U1372
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 luglio 1966
+                1372
+                Approvazione dello statuto dell'Istituto italiano di medicina sociale, con sede in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 luglio 1966, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con i Ministri per la sanita' e per il tesoro, viene approvato lo statuto dell'Istituto italiano di medicina sociale, con sede in Roma.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 maggio 1967
+ Atti del Governo, registro n. 211, foglio n. 24. - GRECO
+

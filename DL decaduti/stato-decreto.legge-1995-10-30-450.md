@@ -1,0 +1,33 @@
+---
+tipo: DECRETO-LEGGE
+numero: 450
+data: 1995-10-30
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1995-10-30;450
+codice_redazionale: 095G0493
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1996-12-21
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                30 ottobre 1995
+                450
+                 Interventi urgenti di carattere previdenziale per il personale del
+Gruppo Alitalia.
+
+Entrata in vigore del decreto: 30-10-1995.Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 DICEMBRE 1996, N. 640
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 DICEMBRE 1996, N. 640
+

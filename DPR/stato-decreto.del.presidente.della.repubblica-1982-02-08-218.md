@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 218
+data: 1982-02-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-02-08;218
+codice_redazionale: 082U0218
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 febbraio 1982
+                218
+                Autorizzazione al Centro nazionale di studi alfieriani, in Asti, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 febbraio 1982, col quale, sulla proposta del Ministro per i beni culturali ed ambientali, il Centro nazionale di studi alfieriani, in Asti, viene autorizzato ad accettare la donazione, consistente in due raccolte di lettere, autografi e documenti alfieriani, disposta dalla Cassa di risparmio di Asti con atto pubblico 24 giugno 1981, n. 133177/10048 di repertorio, a rogito dott. Corrado Giazzi, notaio in Castagnole Lanze (Asti), registrato a Canelli (Asti) in data 29 giugno 1981 al n. 433.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 21 aprile 1982
+ Registro n. 11 Beni culturali, foglio n. 141
+

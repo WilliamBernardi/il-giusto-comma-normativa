@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 693
+data: 1976-07-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-07-19;693
+codice_redazionale: 076U0693
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 luglio 1976
+                693
+                Approvazione del nuovo statuto dell'Unione italiana dei ciechi, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 luglio 1976, col quale, sulla proposta del Presidente del Consiglio dei Ministri, viene approvato il nuovo statuto dell'Unione italiana dei ciechi, in Roma.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 5 ottobre 1976
+ Atti di Governo, registro n. 9, foglio n. 57
+

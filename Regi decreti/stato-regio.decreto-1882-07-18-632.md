@@ -1,0 +1,55 @@
+---
+tipo: REGIO DECRETO
+data: 1882-07-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-07-18;632
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:01Z
+---
+
+REGIO DECRETO
+                18 luglio 1882
+                DCXXXII
+                Che erige in corpo morale l'asilo infantile di Camburzano, e ne approva lo statuto. (8200632R)
+
+Entrata in vigore del provvedimento: 12/09/1882
+
+## Art. 1.
+
+UMBERTO I 
+ 
+ PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE 
+ 
+ RE D'ITALIA 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri; 
+ 
+ Veduta la domanda della giunta municipale di Camburzano (Novara) per ottenere la costituzione in ente morale dell'asilo infantile di quel comune e l'approvazione del corrispondente statuto organico; 
+ 
+ Attesoche' l'asilo suddetto possiede una casa con terreno del valore di lire 650 e lire 500 di rendita; 
+ 
+ Sentito il consiglio di Stato; 
+ 
+ Veduta la legge 3 agosto 1862; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ L'asilo infantile di Camburzano (Novara) e' costituito in ente morale e ne e' approvato il corrispondente statuto organico portante la data dell'8 ottobre 1881 composto di quaranta articoli, visto e sottoscritto d'ordine Nostro dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, li 18 luglio 1882. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 3 agosto 1882 
+ 
+ Reg. 122 Atti del Governo a f. 6. Pellizzoli 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli. G. Zanardelli. 
+ 
+ Depretis.
+

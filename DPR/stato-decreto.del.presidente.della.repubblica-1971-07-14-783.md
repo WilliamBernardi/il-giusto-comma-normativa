@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 783
+data: 1971-07-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-07-14;783
+codice_redazionale: 071U0783
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 luglio 1971
+                783
+                Estinzione dell'opera pia "Verrini", con sede in Sassetta.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 luglio 1971, col quale, sulla proposta del Ministro per l'interno, l'opera pia "Verrini", con sede in Sassetta (Livorno), viene dichiarata estinta ed il residuo patrimonio devoluto al locale ente comunale di assistenza.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 10 settembre 1971
+ Atti del Governo, registro n. 244, foglio n. 107. - PASQUALUCCI
+

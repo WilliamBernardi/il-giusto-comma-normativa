@@ -1,0 +1,35 @@
+---
+tipo: REGIO DECRETO
+data: 1890-08-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-08-01;3878
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:21Z
+---
+
+REGIO DECRETO
+                01 agosto 1890
+                MMMDCCCLXXVIII
+                Che aumenta il numero dei componenti la camera di commercio ed arti di Lecce. (9003878R)
+
+Entrata in vigore del provvedimento: 09/09/1890
+
+## Art. 1.
+
+Il numero dei componenti la camera di commercio ed arti di Lecce e' aumentato da undici a quindici. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 1° agosto 1890. 
+ 
+ UMBERTO. 
+ 
+ Registrato alla Corte dei conti addi' 18 agosto 1890. 
+ Reg. 175. Atti del Governo a f. 28. Mandillo. 
+ Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI. 
+ 
+ L. MICELI.
+

@@ -1,0 +1,2923 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 30
+data: 2005-02-10
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2005-02-10;30
+codice_redazionale: 005G0055
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2026-06-12
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:34Z
+---
+
+DECRETO LEGISLATIVO
+                10 febbraio 2005
+                30
+                 Codice della proprieta' industriale, a norma dell'articolo 15
+della legge 12 dicembre 2002, n. 273.
+
+Entrata in vigore del decreto: 19-3-2005
+
+Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 25 ottobre 2004;
+
+Acquisito il parere della Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, espresso nella seduta del 28 ottobre 2004;
+
+Acquisiti i pareri delle competenti commissioni della Camera dei deputati, espresso in data 22 dicembre 2004 e del Senato della Repubblica, espresso in data 21 dicembre 2004;
+
+Sulla proposta del Ministro delle attivita' produttive, di concerto con i Ministri della giustizia, dell'economia e delle finanze, degli affari esteri e per la funzione pubblica;
+
+## - - Capo I DISPOSIZIONI GENERALI E PRINCIPI FONDAMENTALI
+
+## Art. 1. — Diritti di proprieta' industriale
+
+Ai fini del presente codice, l'espressione proprieta' industriale comprende marchi ed altri segni distintivi, indicazioni geografiche, denominazioni di origine, disegni e modelli, invenzioni, modelli di utilita', topografie dei prodotti a semiconduttori, ((segreti commerciali)) e nuove varieta' vegetali.
+
+## Art. 2. — Costituzione ed acquisto dei diritti
+
+I diritti di proprieta' industriale si acquistano mediante brevettazione, mediante registrazione o negli altri modi previsti dal presente codice. La brevettazione e la registrazione danno luogo ai titoli di proprieta' industriale.
+
+Sono oggetto di brevettazione le invenzioni, i modelli di utilita', le nuove varieta' vegetali.
+
+Sono oggetto di registrazione i marchi, i disegni e modelli, le topografie dei prodotti a semiconduttori.
+
+Sono protetti, ricorrendone i presupposti di legge, i segni distintivi diversi dal marchio registrato, ((i segreti commerciali)), le indicazioni geografiche e le denominazioni di origine.
+
+L'attivita' amministrativa di brevettazione e di registrazione ha natura di accertamento costitutivo e da' luogo a titoli soggetti ad un regime speciale di nullita' e decadenza sulla base delle norme contenute nel presente codice.
+
+## Art. 3. — Trattamento dello straniero
+
+Ai cittadini di ciascuno Stato facente parte della Convenzione di Parigi per la protezione della proprieta' industriale, testo di Stoccolma del 14 luglio 1967, ratificato con legge 28 aprile 1976, n. 424, ovvero della Organizzazione mondiale del commercio ed ai cittadini di Stati non facenti parte delle suddette Convenzioni, ma che siano domiciliati o abbiano uno stabilimento industriale o commerciale effettivo sul territorio di uno Stato facente parte della Convenzione di Unione di Parigi per la protezione della proprieta' industriale, e' accordato, per le materie di cui al presente codice, lo stesso trattamento accordato ai cittadini italiani. In materia di nuove varieta' vegetali, il trattamento accordato ai cittadini italiani e' accordato ai cittadini di uno Stato facente parte della Convenzione internazionale per la protezione delle novita' vegetali UPOV, testo di Ginevra del 19 marzo 1991, ratificato con legge 23 marzo 1998, n. 110. In materia di topografie dei prodotti a ((semiconduttori)), il trattamento accordato ai cittadini italiani e' accordato ai cittadini di un altro Stato solo se la protezione accordata da quello Stato ai cittadini italiani e' analoga a quella prevista dal presente codice.
+
+Ai cittadini di Stati non facenti parte ne' della Convenzione di Unione di Parigi per la protezione della proprieta' industriale, ne' della Organizzazione mondiale del commercio, ne', per quanto attiene alle nuove varieta' vegetali, della Convenzione internazionale per la protezione delle novita' vegetali, e' accordato, per le materie di cui al presente codice, il trattamento accordato ai cittadini italiani, se lo Stato al quale il cittadino appartiene accorda ai cittadini italiani reciprocita' di trattamento.
+
+Tutti i benefici che le convenzioni internazionali sottoscritte e ratificate dall'((Italia)) riconoscono allo straniero nel territorio dello Stato, per le materie di cui al presente codice, si intendono automaticamente estese ai cittadini italiani.
+
+Il diritto di ottenere ai sensi delle convenzioni internazionali la registrazione in Italia di un marchio registrato precedentemente all'estero, al quale si fa riferimento nella domanda di registrazione, spetta al titolare del marchio all'estero, o al suo avente causa.
+
+Ai cittadini sono equiparate le persone giuridiche di corrispondente nazionalita'.
+
+## Art. 4. — Priorita'
+
+Chiunque abbia regolarmente depositato, in o per uno Stato facente parte di una convenzione internazionale ratificata dall'Italia che riconosce il diritto di priorita', una domanda diretta ad ottenere un titolo di proprieta' industriale o il suo avente causa, fruisce di un diritto di priorita' a decorrere dalla prima domanda per effettuare il deposito di una domanda di brevetto d'invenzione, di modello di utilita', di privativa di nuova varieta' vegetale, di registrazione di disegno o modello e di registrazione di marchio, secondo le disposizioni dell'articolo 4 della Convenzione di Unione di Parigi.
+
+Il termine di priorita' e' di dodici mesi per i brevetti d'invenzione ed i modelli di utilita' e le varieta' vegetali, di sei mesi per i disegni o modelli ed i marchi.
+
+E' riconosciuto come idoneo a far nascere il diritto di priorita' qualsiasi deposito avente valore di deposito nazionale regolare, cioe' idoneo a stabilire la data alla quale la prima domanda e' stata depositata, a norma della legislazione nazionale dello Stato nel quale e' stato effettuato, o di accordi bilaterali o plurilaterali, qualunque sia la sorte ulteriore di tale domanda.
+
+## Art. 5. — Esaurimento
+
+Le facolta' esclusive attribuite dal presente codice al titolare di un diritto di proprieta' industriale si esauriscono una volta che i prodotti protetti da un diritto di proprieta' industriale siano stati messi in commercio dal titolare o con il suo consenso nel territorio dello Stato o nel territorio di uno Stato membro della Comunita' europea o dello Spazio economico europeo.
+
+Questa limitazione dei poteri del titolare tuttavia non si applica (( . . . )) quando sussistano motivi legittimi perche' il titolare stesso si opponga all'ulteriore commercializzazione dei prodotti, in particolare quando lo stato di questi e' modificato o alterato dopo la loro immissione in commercio.
+
+((
+
+))
+
+## Art. 6. — Comunione
+
+Se un diritto di proprieta' industriale appartiene a piu' soggetti, le facolta' relative sono regolate, salvo convenzioni in contrario, dalle disposizioni del codice civile relative alla comunione in quanto compatibili.
+
+((
+
+In caso di diritto appartenente a piu' soggetti, la presentazione della domanda di brevetto o di registrazione, la prosecuzione del procedimento di brevettazione o registrazione, la presentazione della domanda di rinnovo, ove prevista, il pagamento dei diritti di mantenimento in vita, la presentazione della traduzione in lingua italiana delle rivendicazioni di una domanda di brevetto europeo o del testo del brevetto europeo concesso o mantenuto in forma modificata o limitata e gli altri procedimenti di fronte all'Ufficio italiano brevetti e marchi possono essere effettuati da ciascuno di tali soggetti nell'interesse di tutti.
+
+))
+
+## - - Capo II NORME RELATIVE ALL'ESISTENZA, ALL'AMBITO E ALL'ESERCIZIO DEI DIRITTI DI PROPRIETA' INDUSTRIALE Sezione I Marchi
+
+## Art. 7. — Oggetto della registrazione
+
+Possono costituire oggetto di registrazione come marchio d'impresa tutti i segni ((...)), in particolare le parole, compresi i nomi di persone, i disegni, le lettere, le cifre, i suoni, la forma del prodotto o della confezione di esso, le combinazioni o le tonalita' cromatiche, ((purche' siano atti: 
+ a) a distinguere i prodotti o i servizi di un'impresa da quelli di altre imprese; e 
+b) ad essere rappresentati nel registro in modo tale da consentire alle autorita' competenti ed al pubblico di determinare con chiarezza e precisione l'oggetto della protezione conferita al titolare.))
+
+## Art. 8. — Ritratti di persone, nomi e segni notori
+
+I ritratti di persone non possono essere registrati come marchi senza il consenso delle medesime e, dopo la loro morte, senza il consenso del coniuge e dei figli; in loro mancanza o dopo la loro morte, dei genitori e degli altri ascendenti, e, in mancanza o dopo la morte anche di questi ultimi, dei parenti fino al quarto grado incluso.
+
+I nomi di persona diversi da quelli di chi chiede la registrazione possono essere registrati come marchi, purche' il loro uso non sia tale da ledere la fama, il credito o il decoro di chi ha diritto di portare tali nomi. L'Ufficio italiano brevetti e marchi ha tuttavia la facolta' di subordinare la registrazione al consenso stabilito al comma 1. In ogni caso, la registrazione non impedira' a chi abbia diritto al nome di farne uso nella ditta da lui prescelta, sussistendo i presupposti di cui all'art. 21, comma 1.
+
+Se notori, possono essere registrati o usati come marchio solo dall'avente diritto, o con il consenso di questi, o dei soggetti di cui al comma 1: i nomi di persona, i segni usati in campo artistico, letterario, scientifico, politico o sportivo, ((le immagini che riproducono trofei,)) le denominazioni e sigle di manifestazioni e quelli di enti ed associazioni non aventi finalita' economiche, nonche' gli emblemi caratteristici di questi.
+
+## Art. 9.
+
+Marchi di forma ((e altri segni non registrabili))
+
+## Art. 10. — Stemmi
+
+Gli stemmi e gli altri segni considerati nelle convenzioni internazionali vigenti in materia, nei casi e alle condizioni menzionati nelle convenzioni stesse, nonche' i segni contenenti simboli, emblemi e stemmi che rivestano un interesse pubblico ((inclusi i segni riconducibili alle forze dell'ordine e alle forze armate e i nomi di Stati e di enti pubblici territoriali italiani)) non possono costituire oggetto di registrazione come marchio d'impresa, a meno che l'autorita' competente non ne abbia autorizzato la registrazione. 
+ 1-bis.((Non possono altresi' formare oggetto di registrazione parole, figure o segni lesivi dell'immagine o della reputazione dell'Italia)).
+
+Trattandosi di marchio contenente parole, figure o segni con significazione politica o di alto valore simbolico, o contenente elementi araldici, l'Ufficio italiano brevetti e marchi, prima della registrazione, invia l'esemplare del marchio e quantaltro possa occorrere alle amministrazioni pubbliche interessate, o competenti, per sentirne l'avviso, in conformita' a quanto e' disposto nel comma 4.
+
+L'Ufficio italiano brevetti e marchi ha la facolta' di provvedere ai termini del comma 2 in ogni caso in cui sussista dubbio che il marchio possa essere contrario alla legge, all'ordine pubblico o al buon costume.
+
+Se l'amministrazione interessata, o competente, di cui ai commi 2 e 3, esprime avviso contrario alla registrazione del marchio, l'Ufficio italiano brevetti e marchi respinge la domanda.
+
+## Art. 11. — Marchio collettivo
+
+((
+
+Le persone giuridiche di diritto pubblico e le associazioni di categoria di fabbricanti, produttori, prestatori di servizi o commercianti, escluse le societa' di cui al libro quinto, titolo quinto, capi quinto, sesto e settimo, del codice civile, possono ottenere la registrazione di marchi collettivi che hanno la facolta' di concedere in uso a produttori o commercianti.
+
+))
+
+I regolamenti concernenti l'uso dei marchi collettivi, i controlli e le relative sanzioni devono essere allegati alla domanda di registrazione ((in conformita' ai requisiti di cui all'articolo 157, comma 1-bis)); le modificazioni regolamentari devono essere comunicate a cura dei titolari all'Ufficio italiano brevetti e marchi per essere incluse ((nella raccolta di cui all'articolo 185)).
+
+Le disposizioni dei commi 1 e 2 sono applicabili anche ai marchi collettivi stranieri registrati nel Paese di origine.
+
+In deroga all'articolo 13, comma 1, un marchio collettivo puo' consistere in segni o indicazioni che nel commercio possono servire per designare la provenienza geografica dei prodotti o servizi. ((Qualsiasi soggetto i cui prodotti o servizi provengano dalla zona geografica in questione ha diritto sia a fare uso del marchio, sia a diventare membro della associazione di categoria titolare del marchio, purche' siano soddisfatti tutti i requisiti di cui al regolamento.)) In tal caso, peraltro, l'Ufficio italiano brevetti e marchi puo' rifiutare, con provvedimento motivato, la registrazione quando i marchi richiesti possano creare situazioni di ingiustificato privilegio o comunque recare pregiudizio allo sviluppo di altre analoghe iniziative nella regione. L'Ufficio italiano brevetti e marchi ha facolta' di chiedere al riguardo l'avviso delle amministrazioni pubbliche, categorie e organi interessati o competenti. L'avvenuta registrazione del marchio collettivo costituito da nome geografico non autorizza il titolare a vietare a terzi l'uso nel commercio del nome stesso, purche' quest'uso sia conforme ai principi della correttezza professionale.
+
+I marchi collettivi sono soggetti a tutte le altre disposizioni del presente codice in quanto non contrastino con la natura di essi.
+
+## Art. 11-bis. — (( (Marchio di certificazione). ))
+
+((
+
+Le persone fisiche o giuridiche, tra cui istituzioni, autorita' ed organismi accreditati ai sensi della vigente normativa in materia di certificazione, a garantire l'origine, la natura o la qualita' di determinati prodotti o servizi, possono ottenere la registrazione per appositi marchi come marchi di certificazione, a condizione che non svolgano un'attivita' che comporta la fornitura di prodotti o servizi del tipo certificato.
+
+I regolamenti concernenti l'uso dei marchi di certificazione, i controlli e le relative sanzioni devono essere allegati alla domanda di registrazione in conformita' ai requisiti di cui all'articolo 157, comma 1-ter; le modificazioni regolamentari devono essere comunicate a cura dei titolari all'Ufficio italiano brevetti e marchi per essere incluse nella raccolta di cui all'articolo 185.
+
+Le disposizioni dei commi 1 e 2 sono applicabili anche ai marchi di certificazione o di garanzia stranieri registrati nel Paese di origine.
+
+In deroga all'articolo 13, comma 1, un marchio di certificazione puo' consistere in segni o indicazioni che nel commercio possono servire per designare la provenienza geografica dei prodotti o servizi. In tal caso, peraltro, l'Ufficio italiano brevetti e marchi puo' rifiutare, con provvedimento motivato, la registrazione quando i marchi richiesti possano creare situazioni di ingiustificato privilegio o comunque recare pregiudizio allo sviluppo di altre analoghe iniziative nella regione. L'Ufficio italiano brevetti e marchi ha facolta' di chiedere al riguardo l'avviso delle amministrazioni pubbliche, categorie e organi interessati o competenti. L'avvenuta registrazione del marchio di certificazione costituito da nome geografico non autorizza il titolare a vietare a terzi l'uso nel commercio del nome stesso, purche' quest'uso sia conforme ai principi della correttezza professionale.
+
+I marchi di certificazione sono soggetti a tutte le altre disposizioni del presente codice in quanto non contrastino con la natura di essi.
+
+))
+
+## Art. 11-ter. — (( (Marchio storico di interesse nazionale). ))
+
+((
+
+I titolari o licenziatari esclusivi di marchi d'impresa registrati da almeno cinquanta anni o per i quali sia possibile dimostrare l'uso continuativo da almeno cinquanta anni, utilizzati per la commercializzazione di prodotti o servizi realizzati in un'impresa produttiva nazionale di eccellenza storicamente collegata al territorio nazionale, possono ottenere l'iscrizione del marchio nel registro dei marchi storici di interesse nazionale di cui all'articolo 185-bis.
+
+Con decreto del Ministro dello sviluppo economico e' istituito il logo «Marchio storico di interesse nazionale» che le imprese iscritte nel registro di cui all'articolo 185-bis, possono utilizzare per le finalita' commerciali e promozionali. Con il decreto di cui al primo periodo sono altresi' specificati i criteri per l'utilizzo del logo «Marchio storico di interesse nazionale».
+
+))
+
+## Art. 12. — (Novita')
+
+Nei casi di cui alle lettere c), d) ed e), non toglie la novita' il marchio anteriore che sia scaduto da oltre due anni ovvero tre se si tratta di un marchio collettivo ((o di certificazione)) o possa considerarsi decaduto per non uso ai sensi dell'articolo 24 al momento della proposizione della domanda o dell'eccezione di nullita'.
+
+Ai fini previsti al comma 1, lettere c), d) ed e), le domande anteriori sono assimilate ai marchi anteriori registrati, sotto riserva della conseguente registrazione.
+
+## Art. 13. — Capacita' distintiva
+
+((
+
+))
+
+In deroga al comma 1 (( . . . )) possono costituire oggetto di registrazione come marchio d'impresa i segni che prima della domanda di registrazione, a seguito dell'uso che ne sia stato fatto, abbiano acquistato carattere distintivo.
+
+Il marchio non puo' essere dichiarato o considerato nullo se prima della proposizione della domanda o dell'eccezione di nullita', il segno che ne forma oggetto, a seguito dell'uso che ne e' stato fatto, ha acquistato carattere distintivo.
+
+Il marchio decade se, per il fatto dell'attivita' o dell'inattivita' del suo titolare, sia divenuto nel commercio denominazione generica del prodotto o ((servizio o abbia comunque)) perduto la sua capacita' distintiva.
+
+## Art. 14. — Liceita' e diritti di terzi
+
+Ai fini del comma 1, lettera c-bis), le domande anteriori di protezione di denominazione di origine o di indicazione geografica, sono assimilate alle denominazioni di origine o di indicazioni geografiche protette, sotto riserva della successiva protezione ed a condizione che la legislazione dell'Unione europea o dello Stato conferisca alla persona autorizzata ad esercitare i diritti da essa derivanti il diritto di vietare l'uso di un marchio d'impresa posteriore.
+
+## Art. 15. — Effetti della registrazione
+
+I diritti esclusivi considerati da questo codice sono conferiti con la registrazione.
+
+Gli effetti della prima registrazione decorrono dalla data di deposito della domanda. Trattandosi di rinnovazione gli effetti di essa decorrono ((dal giorno successivo alla)) data di scadenza della registrazione precedente.
+
+Salvo il disposto dell'articolo 20, comma 1, lettera c), la registrazione esplica effetto limitatamente ai prodotti o servizi indicati nella registrazione stessa ed ai prodotti o servizi affini.
+
+La registrazione dura dieci anni a partire dalla data di deposito della domanda, salvo il caso di rinuncia del titolare.
+
+La rinuncia diviene efficace con la sua annotazione nel registro dei marchi di impresa e di essa deve essere data notizia nel Bollettino ufficiale.
+
+## Art. 16. — Rinnovazione
+
+La registrazione puo' essere rinnovata per lo stesso marchio precedente, con riguardo allo stesso genere di prodotti o di servizi secondo la classificazione internazionale dei prodotti e dei servizi risultante dall'Accordo di Nizza, testo di Ginevra del 13 maggio 1977, ratificato con legge 27 aprile 1982, n. 243.
+
+La rinnovazione si effettua per periodi di dieci anni.
+
+La rinnovazione della registrazione di un marchio che e' stato oggetto di trasferimento per una parte dei prodotti o servizi e' effettuata separatamente dai rispettivi titolari.
+
+Restano immutate la decorrenza e la durata degli effetti della registrazione per i marchi registrati presso l'Organizzazione mondiale della proprieta' intellettuale di Ginevra.
+
+## Art. 17. — Registrazione internazionale
+
+Rimangono ferme, per la registrazione dei marchi presso l'Organizzazione mondiale della proprieta' intellettuale di Ginevra (OMPI), le disposizioni vigenti ai sensi delle convenzioni internazionali.
+
+I marchi internazionali registrati presso l'Organizzazione mondiale della proprieta' intellettuale (OMPI) di Ginevra, in base all'Accordo di Madrid, concernente la registrazione internazionale dei marchi, testo di Stoccolma del 14 luglio 1967, ratificato con legge 28 aprile 1976, n. 424, ed al relativo Protocollo, adottato a Madrid il 27 giugno 1989, ratificato con legge 12 marzo 1996, n. 169, recanti la designazione dell'Italia quale Paese in cui si chiede la protezione, devono rispondere ai requisiti previsti per i marchi nazionali dal presente codice.
+
+L'Ufficio italiano brevetti e marchi effettua l'esame dei marchi internazionali designanti l'Italia conformemente alle disposizioni applicabili alle domande di marchi nazionali.
+
+## Art. 18. — Protezione temporanea
+
+Entro i limiti ed alle condizioni indicate nel comma 2, puo' essere accordata, mediante ((decreto del Ministero dello sviluppo economico)), una protezione temporanea ai nuovi marchi apposti sui prodotti o sui materiali inerenti alla prestazione dei servizi che figurano in esposizioni nazionali o internazionali, ufficiali od ufficialmente riconosciute, tenute nel territorio dello Stato o in uno Stato estero che accordi reciprocita' di trattamento.
+
+La protezione temporanea fa risalire la priorita' della registrazione, a favore del titolare o del suo avente causa, al giorno della consegna del prodotto o del materiale inerente alla prestazione del servizio per l'esposizione, ed ha effetto sempre che la domanda di registrazione sia depositata entro sei mesi dalla data della consegna ed, in ogni caso, non oltre sei mesi dalla data di apertura dell'esposizione.
+
+Nel caso di esposizione tenuta in uno Stato estero, se ivi e' stabilito un termine piu' breve, la domanda di registrazione deve essere depositata entro questo termine.
+
+Tra piu' marchi identici o simili per prodotti o servizi identici o affini presentati per l'esposizione nello stesso giorno, la priorita' spetta al marchio per il quale e' stata depositata prima la domanda di registrazione.
+
+Le date di cui ai commi 2, 3 e 4 devono essere indicate dall'interessato e menzionate nell'attestato di registrazione, previa la loro verifica da parte dell'Ufficio italiano brevetti e marchi.
+
+## Art. 19. — Diritto alla registrazione
+
+Puo' ottenere una registrazione per marchio d'impresa chi lo utilizzi o si proponga di utilizzarlo, nella fabbricazione o commercio di prodotti o nella prestazione di servizi della propria impresa o di imprese di cui abbia il controllo o che ne facciano uso con il suo consenso.
+
+Non puo' ottenere una registrazione per marchio di impresa chi abbia fatto la domanda in mala fede.
+
+((
+
+Anche le amministrazioni dello Stato, delle regioni, delle province e dei comuni possono ottenere registrazioni di marchio, anche aventi ad oggetto elementi grafici distintivi tratti dal patrimonio culturale, storico, architettonico o ambientale del relativo territorio; in quest'ultimo caso, i proventi derivanti dallo sfruttamento del marchio a fini commerciali, compreso quello effettuato mediante la concessione di licenze e per attivita' di merchandising, dovranno essere destinati al finanziamento delle attivita' istituzionali o alla copertura degli eventuali disavanzi pregressi dell'ente.
+
+))
+
+## Art. 20. — Diritti conferiti dalla registrazione
+
+Nei casi menzionati al comma 1 il titolare del marchio puo' in particolare vietare ai terzi di apporre il segno sui prodotti o sulle loro confezioni ((o sugli imballaggi)); di offrire i prodotti, di immetterli in commercio o di detenerli a tali fini, oppure di offrire o fornire i servizi contraddistinti dal segno; di importare o esportare prodotti contraddistinti dal segno stesso; di utilizzare il segno nella corrispondenza commerciale e nella pubblicita' ((; di apporre il segno su confezioni, imballaggi, etichette, cartellini, dispositivi di sicurezza o autenticazione o componenti degli stessi o su altri mezzi su cui il marchio puo' essere apposto ovvero di offrire, immettere in commercio, detenere a tali fini, importare o esportare tali mezzi recanti il marchio, quando vi sia il rischio che gli stessi possano essere usati in attivita' costituenti violazione del diritto del titolare.)).
+
+((
+
+Il titolare del marchio puo' inoltre vietare ai terzi di introdurre in Italia, in ambito commerciale, prodotti che non siano stati immessi in libera pratica, quando detti prodotti oppure il relativo imballaggio provengono da Paesi terzi rispetto all'Unione europea e recano senza autorizzazione un segno identico al marchio o che non puo' essere distinto nei suoi aspetti essenziali da detto marchio, qualora i prodotti in questione rientrino nell'ambito di protezione del marchio, a meno che durante il procedimento per determinare l'eventuale violazione del marchio, instaurato conformemente al regolamento (UE) 608/2013 del Parlamento europeo e del Consiglio, del 12 giugno 2013, il dichiarante o il detentore dei prodotti fornisca la prova del fatto che il titolare del marchio non ha il diritto di vietare l'immissione in commercio dei prodotti nel Paese di destinazione finale.
+
+))
+
+Il commerciante puo' apporre il proprio marchio alle merci che mette in vendita, ma non puo' sopprimere il marchio del produttore o del commerciante da cui abbia ricevuto i prodotti o le merci.
+
+((
+
+Se la riproduzione di un marchio in un dizionario, in un'enciclopedia o in un'analoga opera di consultazione in formato cartaceo o elettronico da' l'impressione che esso costituisca il nome generico dei prodotti o dei servizi per i quali il marchio e' registrato, su richiesta del titolare del marchio d'impresa l'editore dell'opera provvede affinche' la riproduzione del marchio sia, tempestivamente e al piu' tardi nell'edizione successiva in caso di opere in formato cartaceo, corredata dell'indicazione che si tratta di un marchio registrato.
+
+))
+
+## Art. 21. — Limitazioni del diritto di marchio
+
+Non e' consentito usare il marchio in modo contrario alla legge, ne', in specie, in modo da ingenerare un rischio di confusione sul mercato con altri segni conosciuti come distintivi di imprese, prodotti o servizi altrui, o da indurre comunque in inganno il pubblico, in particolare circa la natura, qualita' o provenienza dei prodotti o servizi, a causa del modo e del contesto in cui viene utilizzato, o da ledere un altrui diritto di autore, di proprieta' industriale, o altro diritto esclusivo di terzi.
+
+E' vietato a chiunque di fare uso di un marchio registrato dopo che la relativa registrazione e' stata dichiarata nulla, quando la causa di nullita' comporta la illiceita' dell'uso del marchio.
+
+## Art. 22. — Unitarieta' dei segni distintivi
+
+E' vietato adottare come ditta, denominazione o ragione sociale, insegna e nome a dominio ((di un sito usato nell'attivita' economica o altro segno distintivo)) un segno uguale o simile all'altrui marchio se, a causa dell'identita' o dell'affinita' tra l'attivita' di impresa dei titolari di quei segni ed i prodotti o servizi per i quali il marchio e' adottato, possa determinarsi un rischio di confusione per il pubblico che puo' consistere anche in un rischio di associazione fra i due segni.
+
+Il divieto di cui al comma 1 si estende all'adozione come ditta, denominazione o ragione sociale, insegna e nome a dominio ((di un sito usato nell'attivita' economica o altro segno distintivo)) di un segno uguale o simile ad un marchio registrato per prodotti o servizi anche non affini, che goda nello Stato di rinomanza se l'uso del segno senza giusto motivo consente di trarre indebitamente vantaggio dal carattere distintivo o dalla rinomanza del marchio o reca pregiudizio agli stessi.
+
+## Art. 23. — Trasferimento del marchio
+
+Il marchio puo' essere trasferito per la totalita' o per una parte dei prodotti o servizi per i quali e' stato registrato.
+
+Il marchio puo' essere oggetto di licenza anche non esclusiva per la totalita' o per parte dei prodotti o dei servizi per i quali e' stato registrato e per la totalita' o per parte del territorio dello Stato, a condizione che, in caso di licenza non esclusiva, il licenziatario si obblighi espressamente ad usare il marchio per contraddistinguere prodotti o servizi eguali a quelli corrispondenti messi in commercio o prestati nel territorio dello Stato con lo stesso marchio dal titolare o da altri licenziatari.
+
+Il titolare del marchio d'impresa puo' far valere il diritto all'uso esclusivo del marchio stesso contro il licenziatario che violi le disposizioni del contratto di licenza relativamente alla durata; al modo di utilizzazione del marchio, alla natura dei prodotti o servizi per i quali la licenza e' concessa, al territorio in cui il marchio puo' essere usato o alla qualita' dei prodotti fabbricati e dei servizi prestati dal licenziatario.
+
+In ogni caso, dal trasferimento e dalla licenza del marchio non deve derivare inganno in quei caratteri dei prodotti o servizi che sono essenziali nell'apprezzamento del pubblico.
+
+## Art. 24. — Uso del marchio
+
+A pena di decadenza il marchio deve formare oggetto di uso effettivo da parte del titolare o con il suo consenso, per i prodotti o servizi per i quali e' stato registrato, entro cinque anni dalla registrazione, e tale uso non deve essere sospeso per un periodo ininterrotto di cinque anni, salvo che il mancato uso non sia giustificato da un motivo legittimo.
+
+Nel caso di un marchio internazionale designante l'Italia e registrato ai sensi dell'accordo di Madrid per la registrazione internazionale dei marchi, testo di Stoccolma del 14 luglio 1967, ratificato con legge 28 aprile 1976, n. 424, o del relativo protocollo del 27 giugno 1989, ratificato con legge 12 marzo 1996, n. 169, il termine indicato al comma 1 decorre dalla data in cui scade il termine per l'Ufficio italiano brevetti e marchi per formulare il rifiuto provvisorio di cui all'articolo 171 o, qualora la registrazione sia stata oggetto di rifiuto provvisorio, dalla data in cui l'Ufficio italiano brevetti e marchi conferma la tutela in Italia della registrazione internazionale in modo definitivo.
+
+((
+
+Nel caso di marchi collettivi o di certificazione, i requisiti di cui al comma 1 sono soddisfatti quando l'uso effettivo e' effettuato da un soggetto legittimato all'uso.
+
+))
+
+Ai fini di cui al presente articolo sono equiparati all'uso del marchio l'uso dello stesso in forma modificata ((ancorche' non registrata,)) che non ne alteri il carattere distintivo, nonche' l'apposizione nello Stato del marchio sui prodotti o sulle loro confezioni ((o imballaggi)) ai fini dell'esportazione di essi.
+
+Salvo il caso di diritti acquistati sul marchio da terzi con il deposito o con l'uso, la decadenza non puo' essere fatta valere qualora fra la scadenza del quinquennio di non uso e la proposizione della domanda o dell'eccezione di decadenza sia iniziato o ripreso l'uso effettivo del marchio. Tuttavia se il titolare effettua i preparativi per l'inizio o per la ripresa dell'uso del marchio solo dopo aver saputo che sta per essere proposta la domanda o eccezione di decadenza, tale inizio o ripresa non vengono presi in considerazione se non effettuati almeno tre mesi prima della proposizione della domanda o eccezione di decadenza; tale periodo assume peraltro rilievo solo se decorso successivamente alla scadenza del quinquennio di mancato uso.
+
+Inoltre, neppure avra' luogo la decadenza per non uso se il titolare del marchio non utilizzato sia titolare, in pari tempo, di altro o altri marchi simili tuttora in vigore di almeno uno dei quali faccia effettiva utilizzazione per contraddistinguere gli stessi prodotti o servizi.
+
+## Art. 25. — Nullita'
+
+((
+
+Nel caso di contrasto con le disposizioni in materia di marchi collettivi di cui all'articolo 11, commi 1 e 2, o di marchi di certificazione di cui all'articolo 11-bis, commi 1 e 2, la nullita' non puo' essere dichiarata qualora il titolare del marchio si conformi a dette disposizioni modificando il regolamento d'uso ai sensi degli articoli 11 ed 11-bis, comma 2.
+
+))
+
+## Art. 26. — Decadenza
+
+## Art. 27. — Decadenza e nullita' parziale
+
+Se i motivi di decadenza o di nullita' di un marchio d'impresa sussistono soltanto per una parte dei prodotti o servizi per i quali il marchio e' registrato, la decadenza o nullita' riguardano solo questa parte dei prodotti o servizi.
+
+## Art. 28. — Convalidazione
+
+Il titolare di un marchio d'impresa anteriore ai sensi dell'articolo 12 e il titolare di un diritto di preuso che importi notorieta' non puramente locale, i quali abbiano, durante cinque anni consecutivi, tollerato, essendone a conoscenza, l'uso di un marchio posteriore registrato uguale o simile, non possono domandare la dichiarazione di nullita' del marchio posteriore ne' opporsi all'uso dello stesso per i prodotti o servizi in relazione ai quali il detto marchio e' stato usato sulla base del proprio marchio anteriore o del proprio preuso, salvo il caso in cui il marchio posteriore sia stato domandato in mala fede. Il titolare del marchio posteriore non puo' opporsi all'uso di quello anteriore o alla continuazione del preuso.
+
+La disciplina del comma 1 si applica anche al caso di marchio registrato in violazione degli articoli 8 e 14, comma 1, lettera c).
+
+## - - Sezione II Indicazioni geografiche
+
+## Art. 29. — Oggetto della tutela
+
+Sono protette le indicazioni geografiche e le denominazioni di origine che identificano un paese, una regione o una localita', quando siano adottate per designare un prodotto che ne e' originario e le cui qualita', reputazione o caratteristiche sono dovute esclusivamente o essenzialmente all'ambiente geografico d'origine, comprensivo dei fattori naturali, umani e di tradizione.
+
+## Art. 30. — Tutela
+
+Salva la disciplina della concorrenza sleale, salve le convenzioni internazionali in materia e salvi i diritti di marchio anteriormente acquisiti in buona fede, e' vietato, quando sia idoneo ad ingannare il pubblico ((o quando comporti uno sfruttamento indebito della reputazione della denominazione protetta)), l'uso di indicazioni geografiche e di denominazioni di origine, nonche' l'uso di qualsiasi mezzo nella designazione o presentazione di un prodotto che indichino o suggeriscano che il prodotto stesso proviene da una localita' diversa dal vero luogo di origine, oppure che il prodotto presenta le qualita' che sono proprie dei prodotti che provengono da una localita' designata da un indicazione geografica.
+
+La tutela di cui al comma 1 non permette di vietare ai terzi l'uso nell'attivita' economica del proprio nome o del nome del proprio dante causa nell'attivita' medesima, salvo che tale nome sia usato in modo da ingannare il pubblico.
+
+## - - Sezione III Disegni e modelli
+
+## Art. 31. — Oggetto della registrazione
+
+Possono costituire oggetto di registrazione come disegni e modelli l'aspetto dell'intero prodotto o di una sua parte quale risulta, in particolare, dalle caratteristiche delle linee, dei contorni, dei colori, della forma, della struttura superficiale ovvero dei materiali del prodotto stesso ovvero del suo ornamento, a condizione che siano nuovi ed abbiano carattere individuale.
+
+Per prodotto si intende qualsiasi oggetto industriale o artigianale, compresi tra l'altro i componenti che devono essere assemblati per formare un prodotto complesso, gli imballaggi, le presentazioni, i simboli grafici e caratteri tipografici, esclusi i programmi per elaboratore.
+
+Per prodotto complesso si intende un prodotto formato da piu' componenti che possono essere sostituiti, consentendo lo smontaggio e un nuovo montaggio del prodotto.
+
+## Art. 32. — ((Novita'))
+
+Un disegno o modello e' nuovo se nessun disegno o modello identico e' stato divulgato anteriormente alla data di presentazione della domanda di registrazione, ovvero, qualora si rivendichi la priorita', anteriormente alla data di quest'ultima. I disegni o modelli si reputano identici quando le loro caratteristiche differiscono soltanto per dettagli irrilevanti.
+
+## Art. 33. — Carattere individuale
+
+Un disegno o modello ha carattere individuale se l'impressione generale che suscita nell'utilizzatore informato differisce dall'impressione generale suscitata in tale utilizzatore da qualsiasi disegno o modello che sia stato divulgato prima della data di presentazione della domanda di registrazione o, qualora si rivendichi la priorita', prima della data di quest'ultima.
+
+Nell'accertare il carattere individuale di cui al comma 1, si prende in considerazione il margine di liberta' di cui l'autore ha beneficiato nel realizzare il disegno o modello.
+
+## Art. 33-bis. — (( (Liceita') ))
+
+((
+
+Non puo' costituire oggetto di registrazione il disegno o modello contrario all'ordine pubblico o al buon costume; il disegno o modello non puo' essere considerato contrario all'ordine pubblico o al buon costume per il solo fatto di essere vietato da una disposizione di legge o amministrativa.
+
+Non puo' costituire oggetto di registrazione il disegno o modello che costituisce utilizzazione impropria di uno degli elementi elencati nell'articolo 6-ter della Convenzione di Parigi per la protezione della proprieta' industriale, testo di Stoccolma del 14 luglio 1967, ratificato con legge 28 aprile 1976, n. 424, ovvero di segni, emblemi e stemmi diversi da quelli contemplati da detto articolo e che rivestono un particolare interesse pubblico nello Stato.
+
+))
+
+## Art. 34. — Divulgazione
+
+Ai fini dell'applicazione degli articoli 32 e 33, il disegno o modello si considera divulgato se e' stato reso accessibile al pubblico per effetto di registrazione o in altro modo, ovvero se e' stato esposto, messo in commercio o altrimenti reso pubblico, a meno che tali eventi non potessero ragionevolmente essere conosciuti dagli ambienti specializzati del settore interessato, operanti nella Comunita', nel corso della normale attivita' commerciale, prima della data di presentazione della domanda di registrazione o, qualora si rivendichi la priorita', prima della data di quest'ultima.
+
+Il disegno o modello non si considera reso accessibile al pubblico per il solo fatto di essere stato rivelato ad un terzo sotto vincolo esplicito o implicito di riservatezza.
+
+Ai fini dell'applicazione degli articoli 32 e 33, non si considera reso accessibile al pubblico il disegno o modello divulgato dall'autore o dal suo avente causa oppure da un qualsiasi terzo in virtu' di informazioni o di atti compiuti dall'autore o dal suo avente causa nei dodici mesi precedenti la data di presentazione della domanda di registrazione ovvero, quando si rivendichi la priorita', nei dodici mesi precedenti la data di quest'ultima.
+
+Non costituisce altresi' divulgazione, ai fini dell'applicazione degli articoli 32 e 33, il fatto che il disegno o modello sia stato reso accessibile al pubblico nei dodici mesi precedenti la data di presentazione della domanda o la data di priorita', se cio' risulti, direttamente o indirettamente, da un abuso commesso nei confronti dell'autore o del suo avente causa.
+
+((COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131)).
+
+## Art. 34-bis. — (( (Protezione temporanea dei disegni e modelli). ))
+
+((
+
+Chi ne ha interesse puo' chiedere la protezione temporanea di disegni o modelli che figurano in un'esposizione, ufficiale o ufficialmente riconosciuta, tenuta nel territorio dello Stato o nel territorio di uno Stato estero che accordi reciprocita' di trattamento. La protezione e' disposta con decreto del Ministero delle imprese e del made in Italy.
+
+La protezione di cui al comma 1 attribuisce la priorita' della domanda di registrazione, a condizione che detta domanda sia depositata entro sei mesi dalla data di esposizione dei disegni e modelli o dei prodotti che li incorporano o ai quali sono applicati.
+
+3. La priorita' di cui al comma 2 risale alla data di esposizione dichiarata nella richiesta di protezione temporanea e verificata dall'Ufficio italiano brevetti e marchi. Quando piu' disegni o modelli identici ottengono la protezione di cui al comma 1 nella medesima data, la priorita' e' attribuita al disegno o modello per il quale e' stata depositata per prima la domanda di registrazione))
+
+## Art. 35. — Prodotto complesso
+
+## Art. 36. — Funzione tecnica
+
+Non possono costituire oggetto di registrazione come disegni o modelli quelle caratteristiche dell'aspetto del prodotto che sono determinate unicamente dalla funzione tecnica del prodotto stesso.
+
+Non possono formare oggetto di registrazione per disegno o modello le caratteristiche dell'aspetto del prodotto che devono essere necessariamente riprodotte nelle loro esatte forme e dimensioni per potere consentire al prodotto in cui il disegno o modello e' incorporato o al quale e' applicato di essere unito o connesso meccanicamente con altro prodotto, ovvero di essere incorporato in esso oppure intorno o a contatto con esso, in modo che ciascun prodotto possa svolgere la propria ((funzione)). Tuttavia possono costituire oggetto di registrazione i disegni o modelli che possiedono i requisiti della novita' e del carattere individuale quando hanno lo scopo di consentire l'unione o la connessione multipla di prodotti intercambiabili in un sistema modulare.
+
+## Art. 37. — Durata della protezione
+
+La registrazione del disegno o modello dura cinque anni a decorrere dalla data di presentazione della domanda. Il titolare puo' ottenere la proroga della durata per uno o piu' periodi di cinque anni fino ad un massimo di venticinque anni dalla data di presentazione della domanda di registrazione.
+
+## Art. 38. — Diritto alla registrazione ed effetti
+
+I diritti esclusivi sui disegni e modelli sono attribuiti con la registrazione.
+
+Il diritto alla registrazione spetta all'autore del disegno o modello ed ai suoi aventi causa.
+
+Salvo patto contrario, la registrazione per disegni e modelli, che siano opera di dipendenti, in quanto tale opera rientri tra le loro mansioni, spetta al datore di lavoro, fermo restando il diritto del dipendente di essere riconosciuto come autore del disegno o modello e di fare inserire il suo nome nell'attestato di registrazione.
+
+Gli effetti della registrazione decorrono dalla data in cui la domanda con la relativa documentazione e' resa accessibile al pubblico.
+
+L'Ufficio italiano brevetti e marchi pone a disposizione del pubblico la domanda di registrazione con le riproduzioni grafiche o i campioni e le eventuali descrizioni dopo il deposito, purche' il richiedente non abbia escluso nella domanda l'accessibilita' per un periodo che non puo' essere superiore a trenta mesi dalla data di deposito o da quella di priorita'.
+
+Nei confronti delle persone alle quali la domanda con la riproduzione del disegno o modello e l'eventuale descrizione e' stata notificata a cura del richiedente, gli effetti della registrazione decorrono dalla data di tale notifica.
+
+## Art. 39. — Registrazione multipla
+
+Con una sola domanda puo' essere chiesta la registrazione per ((piu')) disegni e modelli, purche' destinati ad essere attuati o incorporati in oggetti inseriti nella medesima classe della classificazione internazionale dei disegni e modelli, formata ai sensi delle disposizioni di cui all'Accordo di Locarno dell'8 ottobre 1968, e successive modificazioni, ratificato con legge 22 maggio 1974, n. 348.
+
+Salvo il disposto del comma 1 e dell'articolo 40, non e' ammessa la domanda concernente piu' registrazioni ovvero una sola registrazione per piu' disegni e modelli. Se la domanda non e' ammissibile l'Ufficio italiano brevetti e marchi invita l'interessato, assegnandogli un termine, a limitare la domanda alla parte ammissibile, con facolta' di presentare, per i rimanenti disegni e modelli, altrettante domande che avranno effetto dalla data della prima domanda.
+
+La registrazione concernente piu' modelli o disegni puo' essere limitata su istanza del titolare ad uno o piu' di essi.
+
+La domanda o la registrazione concernente un disegno o modello che non presenta i requisiti di validita', su istanza del titolare, puo' essere mantenuta in forma modificata, se l'Ufficio italiano brevetti e marchi verifica che in tale forma il disegno o modello conserva la sua identita'. La modificazione puo' risultare altresi' da parziale rinuncia da parte del titolare o dalla annotazione sull'attestato di registrazione di una sentenza che dichiari la parziale nullita' della registrazione stessa.
+
+## Art. 40. — Registrazione contemporanea
+
+Se un disegno o modello possiede i requisiti di registrabilita' ed al tempo stesso accresce l'utilita' dell'oggetto al quale si riferisce, possono essere chiesti contemporaneamente il brevetto per modello di utilita' e la registrazione per disegno o modello, ma l'una e l'altra protezione non possono venire cumulate in un solo titolo.
+
+Se la domanda di registrazione comprende un oggetto la cui forma o disegno gli conferisca carattere nuovo e individuale e nello stesso tempo ne accresca l'utilita', e' applicabile la procedura di limitazione di cui all'articolo 39, comma 2, apportando le necessarie modifiche.
+
+## Art. 41. — Diritti conferiti dal disegno o modello
+
+La registrazione di un disegno o modello conferisce al titolare il diritto esclusivo di utilizzarlo e di vietare a terzi di utilizzarlo senza il suo consenso.
+
+Costituiscono in particolare atti di utilizzazione la fabbricazione, l'offerta, la commercializzazione, l'importazione, l'esportazione o l'impiego di un prodotto in cui il disegno o modello e' incorporato o al quale e' applicato, ovvero la detenzione di tale prodotto per tali fini.
+
+I diritti esclusivi conferiti dalla registrazione di un disegno o modello si estendono a qualunque disegno o modello che non produca nell'utilizzatore informato una impressione generale diversa.
+
+Nel determinare l'estensione della protezione si tiene conto del margine di liberta' dell'autore nella realizzazione del disegno o modello.
+
+## Art. 42. — ((Limitazioni del diritto su disegno o modello))
+
+## Art. 43. — Nullita'
+
+La nullita' della registrazione del disegno o modello che forma oggetto di diritti anteriori ai sensi del comma 1, lettere d) ed e), puo' essere ((promossa)) unicamente dal titolare di tali diritti o dai suoi aventi causa.
+
+La nullita' della registrazione del disegno o modello che costituisce utilizzazione impropria di uno degli elementi elencati nell'articolo 6-ter della Convenzione di Unione di Parigi per la protezione industriale ovvero di segni, emblemi e stemmi che rivestono un particolare interesse pubblico nello Stato, puo' essere fatta valere unicamente dall'interessato alla utilizzazione.
+
+## Art. 44. — Durata del diritto di utilizzazione economica per diritto d'autore
+
+I diritti di utilizzazione economica dei disegni e modelli industriali protetti ai sensi dell'articolo 2, primo comma, numero 10, della legge 22 aprile 1941, n. 633, durano tutta la vita dell'autore e sino al termine del settantesimo anno solare dopo la sua morte o dopo la morte dell'ultimo dei coautori.
+
+((COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131)).
+
+((COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131)).
+
+## - - Sezione IV Invenzioni
+
+## Art. 45. — Oggetto del brevetto
+
+Possono costituire oggetto di brevetto per invenzione le invenzioni, di ogni settore della tecnica, che sono nuove e che implicano un'attivita' inventiva e sono atte ad avere un'applicazione industriale.
+
+Le disposizioni del comma 2 escludono la brevettabilita' di cio' che in esse e' nominato solo nella misura in cui la domanda di brevetto o il brevetto concerne scoperte, teorie, piani, principi, metodi, programmi e presentazioni di informazioni considerati in quanto tali.
+
+La disposizione del comma 4 non si applica ai procedimenti microbiologici ed ai prodotti ottenuti mediante questi procedimenti, nonche' ai prodotti, in particolare alle sostanze o composizioni, per l'uso di uno dei metodi nominati.
+
+Non possono costituire oggetto di brevetto le invenzioni biotecnologiche di cui all'articolo 81-quinquies.
+
+## Art. 46. — Novita'
+
+Un'invenzione e' considerata nuova se non e' compresa nello stato della tecnica.
+
+Lo stato della tecnica e' costituito da tutto cio' che e' stato reso accessibile al pubblico nel territorio dello Stato o all'estero prima della data del deposito della domanda di brevetto, mediante una descrizione scritta od orale, una utilizzazione o un qualsiasi altro mezzo.
+
+E' pure considerato come compreso nello stato della tecnica il contenuto di domande di brevetto italiano o di domande di brevetto europeo designanti l'Italia ((o di domande internazionali designanti e aventi effetto per l'Italia)), cosi' come sono state depositate, che abbiano una data di deposito anteriore a quella menzionata nel comma 2 e che siano state pubblicate o rese accessibili al pubblico anche in questa data o piu' tardi.
+
+Le disposizioni dei commi 1, 2 e 3 non escludono la brevettabilita' di una sostanza o di una composizione di sostanze gia' compresa nello stato della tecnica, purche' in funzione di una nuova utilizzazione.
+
+## Art. 47. — ((Divulgazioni non opponibili e priorita' interna))
+
+Per l'applicazione dell'articolo 46, una divulgazione dell'invenzione non e' presa in considerazione se si e' verificata nei sei mesi che precedono la data di deposito della domanda di brevetto e risulta direttamente o indirettamente da un abuso evidente ai danni del richiedente o del suo dante causa.
+
+Non e' presa altresi' in considerazione la divulgazione avvenuta in esposizioni ufficiali o ufficialmente riconosciute ai sensi della Convenzione concernente le esposizioni internazionali, firmata a Parigi il 22 novembre 1928, e successive modificazioni.
+
+Per le invenzioni per le quali si e' rivendicata la priorita' ai sensi delle convenzioni internazionali, ((lo stato della tecnica rilevante ai sensi degli articoli 46 e 48)) deve valutarsi con riferimento alla data alla quale risale la priorita'.
+
+Per i brevetti di invenzione e per i modelli di utilita', il deposito nazionale in Italia da' luogo al diritto di priorita' anche rispetto a una successiva domanda nazionale depositata in Italia, in relazione a elementi gia' contenuti nella domanda di cui si rivendica la priorita'.
+
+## Art. 48. — Attivita' inventiva
+
+Un'invenzione e' considerata come implicante un'attivita' inventiva se, per una persona esperta del ramo, essa non risulta in modo evidente dallo stato della tecnica. Se lo stato della tecnica comprende documenti di cui al comma 3, dell'articolo 46, questi documenti non sono presi in considerazione per l'apprezzamento dell'attivita' inventiva.
+
+## Art. 49. — Industrialita'
+
+Un'invenzione e' considerata atta ad avere un'applicazione industriale se il suo oggetto puo' essere fabbricato o utilizzato in qualsiasi genere di industria, compresa quella agricola.
+
+## Art. 50. — Liceita'
+
+Non possono costituire oggetto di brevetto le invenzioni la cui attuazione e' contraria all'ordine pubblico o al buon costume.
+
+L'attuazione di un'invenzione non puo' essere considerata contraria all'ordine pubblico o al buon costume per il solo fatto di essere vietata da una disposizione di legge o amministrativa.
+
+## Art. 51. — Sufficiente descrizione
+
+Alla domanda di concessione di brevetto per invenzione industriale debbono unirsi ((la descrizione, le rivendicazioni e)) i disegni necessari alla sua intelligenza.
+
+L'invenzione deve essere descritta in modo sufficientemente chiaro e completo perche' ogni persona esperta del ramo possa attuarla e deve essere contraddistinta da un titolo corrispondente al suo oggetto.
+
+Se un'invenzione riguarda un procedimento microbiologico o un prodotto ottenuto mediante tale procedimento e implica l'utilizzazione di un microrganismo non accessibile al pubblico e che non puo' essere descritto in modo tale da permettere ad ogni persona esperta del ramo di attuare l'invenzione, nella domanda di brevetto si dovranno osservare, quanto alla descrizione, ((le norme previste dall'articolo 162)).
+
+## Art. 52. — Rivendicazioni
+
+((
+
+Nelle rivendicazioni e' indicato, specificamente, cio' che si intende debba formare oggetto del brevetto.
+
+))
+
+I limiti della protezione sono determinati ((dalle)) rivendicazioni; tuttavia, la descrizione e i disegni servono ad interpretare le rivendicazioni.
+
+La disposizione del comma 2 deve essere intesa in modo da garantire nel contempo un'equa protezione al titolare ed una ragionevole sicurezza giuridica ai terzi.
+
+((
+
+Per determinare l'ambito della protezione conferita dal brevetto, si tiene nel dovuto conto ogni elemento equivalente ad un elemento indicato nelle rivendicazioni.
+
+))
+
+## Art. 53. — Effetti della brevettazione
+
+I diritti esclusivi considerati da questo codice sono conferiti con la concessione del brevetto.
+
+Gli effetti del brevetto decorrono dalla data in cui la domanda con la descrizione ((, le rivendicazioni)) e gli eventuali disegni e' resa accessibile al pubblico.
+
+Decorso il termine di diciotto mesi dalla data di deposito della domanda oppure dalla data di priorita', ovvero dopo novanta giorni dalla data di deposito della domanda se il richiedente ha dichiarato nella domanda stessa di volerla rendere immediatamente accessibile al pubblico, l'Ufficio italiano brevetti e marchi pone a disposizione del pubblico la domanda con gli allegati.
+
+Nei confronti delle persone alle quali la domanda con la descrizione ((, le rivendicazioni)) e gli eventuali disegni e' stata notificata a cura del richiedente, gli effetti del brevetto per invenzione industriale decorrono dalla data di tale notifica.
+
+## Art. 54. — Effetti della domanda di brevetto europeo
+
+La protezione conferita dalla domanda di brevetto europeo ai sensi dell'articolo 67, paragrafo 1, della Convenzione sul brevetto europeo del 5 ottobre 1973, ratificata con legge 26 maggio 1978, n. 260, decorre dalla data in cui il titolare medesimo abbia resa accessibile al pubblico, tramite l'Ufficio italiano brevetti e marchi, una traduzione in lingua italiana delle rivendicazioni ovvero l'abbia notificata direttamente al presunto contraffattore. ((Salvo per quanto disposto dall'articolo 46, comma 3,)) Gli effetti della domanda di brevetto europeo sono considerati nulli dall'origine quando la domanda stessa sia stata ritirata o respinta ovvero quando la designazione dell'Italia sia stata ritirata.
+
+## Art. 55. — Effetti della designazione o dell'elezione dell'Italia
+
+La domanda internazionale depositata ai sensi del Trattato di cooperazione in materia di brevetti, ((ratificato ai sensi della legge)) 26 maggio 1978, n. 260, contenente la designazione o l'elezione dell'Italia, indipendentemente dalla designazione dell'Organizzazione europea dei brevetti per la concessione di un brevetto europeo, equivale ad una domanda di brevetto per invenzione industriale o per modello di utilita' depositata in Italia alla stessa data, e ne produce gli effetti, se entro trenta mesi dalla data di deposito, o di priorita', ove rivendicata, viene depositata presso l'Ufficio italiano brevetti e marchi una richiesta di apertura della procedura nazionale di concessione del brevetto italiano ai sensi dell'articolo 160-bis, comma 1.
+
+La protezione conferita dalla domanda ai sensi del comma 1 decorre dalla data in cui il titolare della medesima abbia reso accessibile al pubblico, tramite l'Ufficio italiano brevetti e marchi, una traduzione in lingua italiana della domanda ovvero l'abbia notificata direttamente al presunto contraffattore. La designazione dell'Italia nella domanda internazionale e' considerata priva di effetti sin dall'origine, salvo per quanto disposto dall'articolo 46, comma 3, quando la domanda stessa sia stata ritirata o considerata ritirata o quando la designazione dell'Italia sia stata ritirata o respinta, o quando la domanda presso l'Ufficio italiano brevetti e marchi non sia stata depositata entro il termine stabilito dal comma 1.
+
+Le modalita' di applicazione del presente articolo e dell'articolo 160-bis sono determinate con decreto del Ministero dello sviluppo economico.
+
+## Art. 56. — Diritti conferiti dal brevetto europeo
+
+) Qualora il brevetto sia soggetto a procedura di opposizione ovvero di limitazione, l'ambito della protezione stabilito con la concessione o con la decisione di mantenimento in forma modificata o con la decisione di limitazione e' confermato a decorrere dalla data in cui e' pubblicata la menzione della decisione concernente l'opposizione o la limitazione.
+
+((COMMA ABROGATO DAL D.LGS. 19 FEBBRAIO 2019, N. 18)).
+
+Il titolare ((di un brevetto europeo rilasciato per l'Italia)) deve fornire all'Ufficio italiano brevetti e marchi una traduzione in lingua italiana del testo del brevetto concesso dall'Ufficio europeo nonche' del testo del brevetto mantenuto in forma modificata a seguito della procedura di opposizione o limitato a seguito della procedura di limitazione.
+
+La traduzione, dichiarata perfettamente conforme al testo originale dal titolare del brevetto ovvero dal suo mandatario, deve essere depositata entro tre mesi dalla data di ciascuna delle pubblicazioni di cui al comma 1.
+
+((
+
+Per i brevetti europei, per i quali e' stata presentata una richiesta di effetto unitario nei termini previsti dall'articolo 9, paragrafo 1, lettera g), del regolamento (UE) n. 1257/2012, il termine di cui al comma 4 decorre dalla data di ricezione della comunicazione dell'atto definitivo di rigetto o revoca dell'effetto unitario ovvero dalla data di ricezione dell'istanza di ritiro da parte dell'Ufficio europeo.
+
+))
+
+In caso di inosservanza alle disposizioni di cui ai commi ((3, 4 e 4-bis)), il brevetto europeo e' considerato, fin dall'origine, senza effetto in Italia.
+
+## Art. 57. — Testo della domanda o del brevetto europeo che fa fede
+
+Il testo della domanda di brevetto europeo o del brevetto europeo, redatto nella lingua di procedura davanti l'Ufficio europeo dei brevetti, fa fede per quanto concerne l'estensione della protezione, salvo il disposto dell'articolo 70, paragrafo 2, della Convenzione sul brevetto europeo del 5 ottobre 1973, ratificata con legge 26 maggio 1978, n. 260.
+
+Tuttavia la traduzione in lingua italiana degli atti relativi ((alla domanda depositata o al brevetto europeo concesso)) e' considerata facente fede nel territorio dello Stato, qualora conferisca una protezione meno estesa di quella conferita dal testo redatto nella lingua di procedura dell'Ufficio europeo dei brevetti.
+
+La disposizione di cui al comma 2 non si applica nel caso di azione di nullita'.
+
+Una traduzione rettificata puo' essere presentata, in qualsiasi momento, dal titolare della domanda o del brevetto; essa esplica i suoi effetti solo dopo che sia stata resa accessibile al pubblico presso l'Ufficio italiano brevetti e marchi ovvero notificata al presunto contraffattore.
+
+Chiunque, in buona fede, abbia cominciato ad attuare in Italia ((un'invenzione ovvero)) abbia fatto effettivi preparativi a questo scopo senza che detta attuazione costituisca contraffazione della domanda o del brevetto nel testo della traduzione inizialmente presentata, puo' proseguire a titolo gratuito lo sfruttamento dell'invenzione nella sua azienda o per i bisogni di essa anche dopo che la traduzione rettificata ha preso effetto.
+
+## Art. 58. — Trasformazione della domanda di brevetto europeo
+
+E' consentita la trasformazione in domanda nazionale per modello di utilita' di una domanda di brevetto europeo respinta, ritirata o considerata ritirata o del brevetto europeo ((anche con effetto unitario)) revocato il cui oggetto abbia i requisiti di brevettabilita', previsti dalla legislazione italiana per i modelli di utilita'.
+
+A coloro che richiedano la trasformazione di cui al comma 1 e' consentito chiedere contemporaneamente l'eventuale trasformazione in domanda di modello di utilita' ai sensi dell'articolo 84.
+
+Se una regolare richiesta di trasformazione ai sensi dei commi 1, 2 e 3 e' stata trasmessa all'Ufficio italiano brevetti e marchi, la domanda di brevetto e' considerata come depositata in Italia alla stessa data di deposito della domanda di brevetto europeo; gli atti annessi a detta domanda che sono stati presentati all'Ufficio europeo dei brevetti sono considerati come depositati in Italia alla stessa data.
+
+## Art. 59. — (( (Rapporti tra brevetto europeo e brevetto italiano). ))
+
+((
+
+Qualora, per la stessa invenzione proposta dal medesimo inventore, siano stati concessi, allo stesso inventore o al suo avente causa, un brevetto italiano e un brevetto europeo valido in Italia o un brevetto europeo con effetto unitario, aventi la medesima data di deposito o di priorita', il brevetto italiano mantiene i suoi effetti e coesiste con il brevetto europeo.
+
+2. Le disposizioni di cui al comma 1 continuano ad applicarsi anche in caso di successivo annullamento o decadenza del brevetto europeo))
+
+## Art. 60. — (( (Durata). ))
+
+((
+
+Il brevetto per invenzione industriale dura venti anni a decorrere dalla data di deposito della domanda e scade con lo spirare dell'ultimo istante del giorno corrispondente a quello di deposito della domanda.
+
+2. Il brevetto non puo' essere rinnovato, ne' puo' esserne prorogata la durata))
+
+## Art. 61. — (Certificato complementare per prodotti medicinali e per prodotti fitosanitari)
+
+) complementari per prodotti medicinali e i certificati complementari per prodotti fitosanitari, sono concessi dall'Ufficio italiano brevetti e marchi sulla base dei regolamenti (CE) n. 469/2009, (CE) n. 1901/2006 e (CE) n. 1610/96 e producono gli effetti previsti da tali regolamenti.
+
+## Art. 62. — Diritto morale
+
+Il diritto di essere riconosciuto autore dell'invenzione puo' essere fatto valere dall'inventore e, dopo la sua morte, dal coniuge e dai discendenti fino al secondo grado; in loro mancanza o dopo la loro morte, dai genitori e dagli altri ascendenti ed in mancanza, o dopo la morte anche di questi, dai parenti fino al quarto grado incluso.
+
+## Art. 63. — Diritti patrimoniali
+
+I diritti nascenti dalle invenzioni industriali, tranne il diritto di essere riconosciuto autore, sono alienabili e trasmissibili.
+
+Il diritto al brevetto per invenzione industriale spetta all'autore dell'invenzione e ai suoi aventi causa.
+
+## Art. 64. — Invenzioni dei dipendenti
+
+Quando l'invenzione industriale e' fatta nell'esecuzione o nell'adempimento di un contratto o di un rapporto di lavoro o d'impiego, in cui l'attivita' inventiva e' prevista come oggetto del contratto o del rapporto e a tale scopo retribuita, i diritti derivanti dall'invenzione stessa appartengono al datore di lavoro, salvo il diritto spettante all'inventore di esserne riconosciuto autore.
+
+((
+
+Se non e' prevista e stabilita una retribuzione, in compenso dell'attivita' inventiva, e l'invenzione e' fatta nell'esecuzione o nell'adempimento di un contratto o di un rapporto di lavoro o di impiego, i diritti derivanti dall'invenzione appartengono al datore di lavoro, ma all'inventore, salvo sempre il diritto di essere riconosciuto autore, spetta, qualora il datore di lavoro o suoi aventi causa ottengano il brevetto o utilizzino l'invenzione in regime di segretezza industriale, un equo premio per la determinazione del quale si terra' conto dell'importanza dell'invenzione, delle mansioni svolte e della retribuzione percepita dall'inventore, nonche' del contributo che questi ha ricevuto dall'organizzazione del datore di lavoro. Al fine di assicurare la tempestiva conclusione del procedimento di acquisizione del brevetto e la conseguente attribuzione dell'equo premio all'inventore, puo' essere concesso, su richiesta dell'organizzazione del datore di lavoro interessata, l'esame anticipato della domanda volta al rilascio del brevetto.
+
+))
+
+Qualora non ricorrano le condizioni previste nei commi 1 e 2 e si tratti di invenzione industriale che rientri nel campo di attivita' del datore di lavoro, quest'ultimo ha il diritto di opzione per l'uso, esclusivo o non esclusivo dell'invenzione o per l'acquisto del brevetto, nonche' per la facolta' di chiedere ((od acquisire)), per la medesima invenzione, brevetti all'estero verso corresponsione del canone ((o)) del prezzo, da fissarsi con deduzione di una somma corrispondente agli aiuti che l'inventore abbia comunque ricevuti dal datore di lavoro per pervenire all'invenzione. Il datore di lavoro potra' esercitare il diritto di opzione entro tre mesi dalla data di ricevimento della comunicazione dell'avvenuto deposito della domanda di brevetto. I rapporti costituiti con l'esercizio dell'opzione si risolvono di diritto, ove non venga integralmente pagato alla scadenza il corrispettivo dovuto.
+
+Ferma la competenza del giudice ordinario relativa all'accertamento della sussistenza del diritto all'equo premio, al canone o al prezzo, se non si raggiunga l'accordo circa l'ammontare degli stessi, anche se l'inventore e' un dipendente di ((amministrazione)) statale, alla determinazione dell'ammontare provvede un collegio di arbitratori, composto di tre membri, nominati uno da ciascuna delle parti ed il terzo nominato dai primi due, o, in caso di disaccordo, dal Presidente della sezione specializzata del Tribunale competente dove il prestatore d'opera esercita abitualmente le sue mansioni. Si applicano in quanto compatibili le norme degli articoli 806, e seguenti, del codice di procedura civile.
+
+Il collegio degli arbitratori puo' essere adito anche in pendenza del giudizio di accertamento della sussistenza del diritto all'equo premio, al canone o al prezzo, ma, in tal caso, l'esecutivita' della sua decisione e' subordinata a quella della sentenza sull'accertamento del diritto. Il collegio degli arbitratori deve procedere con equo apprezzamento. Se la determinazione e' manifestamente iniqua od erronea la determinazione e' fatta dal giudice.
+
+Agli effetti dei commi 1, 2 e 3, si considera fatta durante l'esecuzione del contratto o del rapporto di lavoro o d'impiego l'invenzione industriale per la quale sia chiesto il brevetto entro un anno da quando l'inventore ha lasciato l'azienda privata o l'amministrazione pubblica nel cui campo di attivita' l'invenzione rientra.
+
+## Art. 65. — (( (Invenzioni dei ricercatori delle universita', degli enti pubblici di ricerca e degli istituti di ricovero e cura a carattere scientifico - IRCCS). ))
+
+((
+
+In deroga all'articolo 64, quando l'invenzione industriale e' fatta nell'esecuzione o nell'adempimento di un contratto o di un rapporto di lavoro o d'impiego, anche se a tempo determinato, con un'universita', anche non statale legalmente riconosciuta, un ente pubblico di ricerca o un istituto di ricovero e cura a carattere scientifico (IRCCS), nonche' nel quadro di una convenzione tra i medesimi soggetti, i diritti nascenti dall'invenzione spettano alla struttura di appartenenza dell'inventore, salvo il diritto spettante all'inventore di esserne riconosciuto autore, nei termini di cui al presente articolo. Se l'invenzione e' conseguita da piu' persone, i diritti derivanti dall'invenzione appartengono a tutte le strutture interessate in parti uguali, salva diversa pattuizione e fermo restando quanto previsto dall'articolo 6.
+
+L'inventore deve comunicare l'oggetto dell'invenzione alla struttura di appartenenza con onere a carico di entrambe le parti di salvaguardare la novita' della stessa. Qualora non effettui detta comunicazione, l'inventore non puo' depositare a proprio nome la domanda di brevetto, ai sensi del comma 3, fermi restando la possibilita' di rivendica ai sensi dell'articolo 118 e quanto previsto dagli obblighi contrattuali.
+
+La struttura di appartenenza, entro sei mesi decorrenti dalla ricezione della comunicazione di cui al comma 2, deposita la domanda di brevetto o comunica all'inventore l'assenza di interesse a procedervi. Il termine di sei mesi di cui al primo periodo e' prorogato per un massimo di tre mesi, previa comunicazione all'inventore, a condizione che la proroga sia necessaria per completare le valutazioni tecniche avviate dalla struttura di appartenenza immediatamente dopo la ricezione della comunicazione di cui al comma 2. Qualora la struttura di appartenenza non provveda entro il predetto termine a depositare la domanda di brevetto, l'inventore puo' procedere autonomamente al deposito a proprio nome della domanda di brevetto. L'inventore puo' altresi' procedere autonomamente al deposito qualora la struttura di appartenenza abbia comunicato, in pendenza del predetto termine, l'assenza di interesse a procedervi.
+
+5. I diritti derivanti dall'invenzione realizzata nell'esecuzione di attivita' di ricerca svolta dai soggetti di cui al comma 1, finanziata, in tutto o in parte, da altro soggetto, sono disciplinati dagli accordi contrattuali tra le parti redatti sulla base delle linee guida, che individuano i principi e i criteri specifici per la regolamentazione dei rapporti contrattuali, adottate con decreto del Ministro delle imprese e del made in Italy, di concerto con il Ministro dell'universita' e della ricerca, entro sessanta giorni dalla data di entrata in vigore della presente disposizione. Sono fatti salvi gli accordi stipulati tra le parti prima dell'emanazione delle predette linee guida))
+
+## Art. 65-bis. — (( (Uffici di trasferimento tecnologico). ))
+
+
+
+## Art. 66. — Diritto di brevetto
+
+I diritti di brevetto per invenzione industriale consistono nella facolta' esclusiva di attuare l'invenzione e di trarne profitto nel territorio dello Stato, entro i limiti ed alle condizioni previste dal presente codice.
+
+((
+
+Il brevetto conferisce al titolare anche il diritto esclusivo di vietare ai terzi, salvo proprio consenso, di fornire o di offrire di fornire a soggetti diversi dagli aventi diritto all'utilizzazione dell'invenzione brevettata i mezzi relativi a un elemento indispensabile di tale invenzione e necessari per la sua attuazione nel territorio di uno Stato in cui la medesima sia protetta, qualora il terzo abbia conoscenza dell'idoneita' e della destinazione di detti mezzi ad attuare l'invenzione o sia in grado di averla con l'ordinaria diligenza.
+
+Il comma 2-bis non si applica quando i mezzi sono costituiti da prodotti che si trovano correntemente in commercio, a meno che il terzo non induca il soggetto a cui sono forniti a compiere gli atti vietati ai sensi del comma 2.
+
+2-quater. Ai fini di cui al comma 2-bis non si considerano aventi diritto all'utilizzazione dell'invenzione i soggetti che compiono gli atti di cui all'articolo 68, comma 1))
+
+## Art. 67. — Brevetto di procedimento
+
+Ai fini della prova contraria, deve tenersi conto del legittimo interesse del convenuto in contraffazione alla protezione dei suoi segreti di fabbricazione e commerciali.
+
+Quando il titolare di un brevetto concernente un nuovo metodo o processo industriale somministra ad altri i mezzi univocamente destinati ad attuare l'oggetto del brevetto, si presume che abbia anche dato licenza di fare uso di tale metodo o processo, purche' non esistano patti contrari.
+
+## Art. 68. — Limitazioni del diritto di brevetto
+
+COMMA SOPPRESSO DAL D.L. 24 GENNAIO 2012, N. 1, CONVERTITO CON MODIFICAZIONI DALLA L. 24 MARZO 2012, N. 27.
+
+Il brevetto per invenzione industriale, la cui attuazione implichi quella di invenzioni protette da precedenti brevetti per invenzioni industriali ancora in vigore, non puo' essere attuato, ne' utilizzato, senza il consenso dei titolari di questi ultimi.
+
+Chiunque, nel corso dei dodici mesi anteriori alla data di deposito della domanda di brevetto o alla data di priorita', abbia fatto uso nella propria azienda dell'invenzione puo' continuare ad usarne nei limiti del preuso. Tale facolta' e' trasferibile soltanto insieme all'azienda in cui l'invenzione viene utilizzata. La prova del preuso e della sua estensione e' a carico del preutente.
+
+## Art. 69. — Onere di attuazione
+
+L'invenzione industriale che costituisce oggetto di brevetto deve essere attuata nel territorio dello Stato in misura tale da non risultare in grave sproporzione con i bisogni del Paese.
+
+Le invenzioni riguardanti oggetti che per la prima volta figurano in una esposizione ufficiale o ufficialmente riconosciuta, tenuta nel territorio dello Stato, si considerano attuate da quando gli oggetti vi sono introdotti fino alla chiusura della medesima, purche' siano stati esposti almeno per dieci giorni o, in caso di esposizione di piu' breve durata, per tutto il periodo di essa.
+
+L'introduzione o la vendita nel territorio dello Stato di oggetti prodotti in Stati diversi da quelli membri della Unione europea o dello Spazio economico europeo ovvero da quelli membri dell'Organizzazione mondiale del commercio non costituisce attuazione dell'invenzione.
+
+## Art. 70. — Licenza obbligatoria per mancata attuazione
+
+Trascorsi tre anni dalla data di rilascio del brevetto o quattro anni dalla data di deposito della domanda se questo termine scade successivamente al precedente, qualora il titolare del brevetto o il suo avente causa, direttamente o a mezzo di uno o piu' licenziatari, non abbia attuato l'invenzione brevettata, producendo nel territorio dello Stato o importando oggetti prodotti in uno Stato membro della Unione europea o dello Spazio economico europeo ovvero in uno Stato membro dell'Organizzazione mondiale del commercio, ovvero l'abbia attuata in misura tale da risultare in grave sproporzione con i bisogni del Paese, puo' essere concessa licenza obbligatoria per l'uso non esclusivo dell'invenzione medesima, a favore di ogni interessato che ne faccia richiesta.
+
+La licenza obbligatoria di cui al comma 1 puo' ugualmente venire concessa, qualora l'attuazione dell'invenzione sia stata, per oltre tre anni, sospesa o ridotta in misura tale da risultare in grave sproporzione con i bisogni del Paese.
+
+La licenza obbligatoria non viene concessa se la mancata o insufficiente attuazione e' dovuta a cause indipendenti dalla volonta' del titolare del brevetto o del suo avente causa. Non sono comprese fra tali cause la mancanza di mezzi finanziari e, qualora il prodotto stesso sia diffuso all'estero, la mancanza di richiesta nel mercato interno del prodotto brevettato od ottenuto con il procedimento brevettato.
+
+La concessione della licenza obbligatoria non esonera il titolare del brevetto o il suo avente causa dall'onere di attuare l'invenzione. Il brevetto decade, qualora l'invenzione non sia stata attuata entro due anni dalla data di concessione della prima licenza obbligatoria o lo sia stata in misura tale da risultare in grave sproporzione con i bisogni del Paese.
+
+((
+
+Le disposizioni del presente articolo e degli articoli da 71 a 74 e 81-octies si applicano anche ai diritti sul brevetto europeo con effetto unitario relativamente al territorio nazionale.
+
+))
+
+## Art. 70-bis. — (( (Licenza obbligatoria in caso di emergenza nazionale sanitaria). ))
+
+((
+
+Nel caso di dichiarazione di stato di emergenza nazionale motivato da ragioni sanitarie, per fare fronte a comprovate difficolta' nell'approvvigionamento di specifici medicinali o dispositivi medici ritenuti essenziali, possono essere concesse, nel rispetto degli obblighi internazionali ed europei, licenze obbligatorie per l'uso, non esclusivo, non alienabile e diretto prevalentemente all'approvvigionamento del mercato interno, dei brevetti rilevanti ai fini produttivi, aventi validita' vincolata al perdurare del periodo emergenziale o fino a un massimo di dodici mesi dalla cessazione dello stesso.
+
+La licenza obbligatoria per i medicinali di cui al comma 1 e' concessa con decreto del Ministro della salute, di concerto con il Ministro dello sviluppo economico, previo parere dell'Agenzia italiana del farmaco in merito all'essenzialita' e alla disponibilita' dei farmaci rispetto all'emergenza in corso e sentito il titolare dei diritti di proprieta' intellettuale. Con il medesimo decreto e' stabilita anche l'adeguata remunerazione a favore di quest'ultimo, determinata tenendo conto del valore economico dell'autorizzazione.
+
+3. La licenza obbligatoria per i dispositivi medici di cui al comma 1 e' concessa con decreto del Ministro della salute, di concerto con il Ministro dello sviluppo economico, previo parere dell'Agenzia nazionale per i servizi sanitari regionali in merito all'essenzialita' e alla disponibilita' dei dispositivi rispetto all'emergenza sanitaria in corso e sentito il titolare dei diritti di proprieta' intellettuale. Con il medesimo decreto e' stabilita anche l'adeguata remunerazione a favore di quest'ultimo, determinata tenendo conto del valore economico dell'autorizzazione))
+
+## Art. 71. — Brevetto dipendente
+
+Puo' essere concessa licenza obbligatoria se l'invenzione protetta dal brevetto non possa essere utilizzata senza pregiudizio dei diritti relativi ad un brevetto concesso in base a domanda precedente. In tale caso, la licenza puo' essere concessa al titolare del brevetto posteriore nella misura necessaria a sfruttare l'invenzione, purche' questa rappresenti, rispetto all'oggetto del precedente brevetto, un importante progresso tecnico di considerevole rilevanza economica.
+
+La licenza cosi' ottenuta non e' cedibile se non unitamente al brevetto sull'invenzione dipendente. Il titolare del brevetto sull'invenzione principale ha diritto, a sua volta, alla concessione di una licenza obbligatoria a condizioni ragionevoli sul brevetto dell'invenzione dipendente.
+
+## Art. 72. — Disposizioni comuni
+
+Chiunque domandi la concessione di una licenza obbligatoria ai sensi degli ((articoli 70, 70-bis e 71)), deve provare di essersi preventivamente rivolto al titolare del brevetto e di non avere potuto ottenere da questi una licenza contrattuale ad eque condizioni.
+
+La licenza obbligatoria puo' essere concessa soltanto contro corresponsione, da parte del licenziatario ed a favore del titolare del brevetto o dei suoi aventi causa, di un equo compenso e purche' il richiedente la licenza fornisca le necessarie garanzie in ordine ad una soddisfacente attuazione dell'invenzione a norma delle condizioni fissate nella licenza medesima.
+
+La licenza obbligatoria non puo' essere concessa quando risulti che il richiedente abbia contraffatto il brevetto, a meno che non dimostri la sua buona fede.
+
+La licenza obbligatoria puo' essere concessa per uno sfruttamento dell'invenzione diretto prevalentemente all'approvvigionamento del mercato interno.
+
+La licenza obbligatoria e' concessa per durata non superiore alla rimanente durata del brevetto e, salvo che vi sia il consenso del titolare del brevetto o del suo avente causa, puo' essere trasferita soltanto con l'azienda del licenziatario o con il ramo particolare di questa nel quale la licenza stessa viene utilizzata.
+
+La concessione della licenza obbligatoria non pregiudica l'esercizio, anche da parte del licenziatario, dell'azione giudiziaria circa la validita' del brevetto o l'estensione dei diritti che ne derivano.
+
+Nel decreto di concessione della licenza vengono determinati l'ambito la durata, le modalita' per l'attuazione, le garanzie e le altre condizioni alle quali e' subordinata la concessione in relazione allo scopo della stessa, la misura e le modalita' di pagamento del compenso. In caso di opposizione, la misura e le modalita' di pagamento del compenso sono determinate a norma dell'articolo 80.
+
+Le condizioni della licenza possono, con decreto del Ministero delle attivita' produttive, essere variate su richiesta di ognuna delle parti interessate, qualora sussistano validi motivi al riguardo. ((Nei casi di cui all'articolo 70-bis, il decreto di cui al presente comma e' adottato in conformita' ai commi 2 e 3 del medesimo articolo)).
+
+Per la modificazione del compenso si applica l'articolo 80.
+
+Nel caso in cui il titolare del brevetto per il quale sia stata concessa licenza obbligatoria o il suo avente causa conceda a terzi l'uso del brevetto medesimo a condizioni piu' vantaggiose di quelle stabilite per la licenza obbligatoria, le condizioni stesse sono estese alla licenza obbligatoria, su istanza del licenziatario.
+
+## Art. 73. — Revoca della licenza obbligatoria
+
+La licenza obbligatoria e' revocata con decreto del Ministero delle attivita' produttive, qualora non risultino adempiute le condizioni stabilite per l'attuazione dell'invenzione oppure qualora il titolare della licenza non abbia provveduto al pagamento del compenso nella misura e con le modalita' prescritte.
+
+La licenza obbligatoria e' altresi' revocata con decreto del Ministero delle attivita' produttive se e quando le circostanze che hanno determinato la concessione cessino di esistere ed e' improbabile che tornino a verificarsi oppure su istanza concorde delle parti.
+
+La revoca puo' essere richiesta dal titolare del brevetto con istanza presentata all'Ufficio italiano brevetti e marchi, che ne da' pronta notizia mediante lettera raccomandata con avviso di ricevimento al titolare della licenza obbligatoria, il quale, entro sessanta giorni dalla data di ricevimento della raccomandata, puo' opporsi motivatamente alla revoca, con istanza presentata all'Ufficio italiano brevetti e marchi. Si applicano le disposizioni dell'articolo 199, commi 3, 4, 5, 6 e 7.
+
+In caso di revoca, colui che aveva ottenuto la licenza puo' attuare l'invenzione alle stesse condizioni, nei limiti del preuso o in quelli che risultano da preparativi seri ed effettivi.
+
+## Art. 74. — Invenzioni militari
+
+Le disposizioni relative alla concessione di licenza obbligatoria per mancata o insufficiente attuazione delle invenzioni, oppure su brevetto dipendente, non si applicano alle invenzioni brevettate appartenenti all'amministrazione militare o a quelle sottoposte dall'amministrazione militare al vincolo del segreto.
+
+## Art. 75. — Decadenza per mancato pagamento dei diritti
+
+Il brevetto per invenzione decade per mancato pagamento entro sei mesi dalla data di scadenza del diritto annuale dovuto, subordinatamente all'osservanza delle disposizioni dei commi 2, 3 e 4.
+
+Trascorso il mese di scadenza del diritto annuale e trascorsi altresi' inutilmente i successivi sei mesi nei quali il pagamento e' ammesso con l'applicazione di un diritto di mora, e comunque scaduto il termine utile per il pagamento del diritto, l'Ufficio italiano brevetti e marchi notifica all'interessato, con comunicazione raccomandata, che non risulta effettuato nel termine prescritto il pagamento del diritto dovuto. L'Ufficio italiano brevetti e marchi, dopo trenta giorni dalla data di comunicazione anzidetta, da' atto nel registro dei brevetti, con apposita annotazione, della avvenuta decadenza del brevetto per mancato pagamento del diritto annuale, pubblicando poi nel Bollettino ufficiale la notizia della decadenza stessa.
+
+Il titolare del brevetto, ove provi di avere tempestivamente effettuato il pagamento, puo' chiedere, con ricorso alla Commissione dei ricorsi, entro sei mesi dalla data di pubblicazione del Bollettino ufficiale, l'annullamento della anzidetta annotazione di decadenza e la rettifica della pubblicazione. La Commissione procede, udita la parte interessata o i suoi incaricati e tenute presenti le loro eventuali osservazioni scritte. Tanto della presentazione del ricorso, quanto del dispositivo della sentenza, deve essere presa nota nel registro dei brevetti e pubblicata notizia nel Bollettino ufficiale.
+
+Intervenuta la pubblicazione di cui al comma 2 e trascorsi sei mesi dalla data di tale pubblicazione, ovvero se il ricorso sia stato respinto, il brevetto si intende decaduto nei confronti di chiunque dal compimento dell'ultimo anno per il quale sia stato pagato utilmente il diritto.
+
+## Art. 76. — Nullita'
+
+Se le cause di nullita' colpiscono solo parzialmente il brevetto, la relativa sentenza di nullita' parziale comporta una corrispondente limitazione del brevetto stesso ((, e nel caso previsto dall'articolo 79, comma 3, stabilisce le nuove rivendicazioni conseguenti alla limitazione)).
+
+Il brevetto nullo puo' produrre gli effetti di un diverso brevetto del quale contenga i requisiti di validita' e che sarebbe stato voluto dal richiedente, qualora questi ne avesse conosciuto la nullita'. La domanda di conversione puo' essere proposta in ogni stato e grado del giudizio. La sentenza che accerta i requisiti per la validita' ((del diverso brevetto)) dispone la conversione del brevetto nullo. Il titolare del brevetto convertito, entro sei mesi dal passaggio in giudicato della sentenza di conversione, presenta domanda di correzione del testo del brevetto. L'Ufficio, verificata la corrispondenza del testo alla sentenza, lo rende accessibile al pubblico.
+
+Qualora la conversione comporti il prolungamento della durata originaria del brevetto nullo, i licenziatari e coloro che in vista della prossima scadenza avevano compiuto investimenti seri ed effettivi per utilizzare l'oggetto del brevetto hanno diritto di ottenere licenza obbligatoria e gratuita non esclusiva per il periodo di maggior durata.
+
+Il brevetto europeo puo' essere dichiarato nullo per l'Italia ai sensi del presente articolo ed, altresi', quando la protezione conferita dal brevetto e' stata estesa.
+
+## Art. 77. — Effetti della nullita'
+
+## Art. 78. — Rinuncia
+
+Il titolare puo' rinunciare al brevetto con atto ricevuto dall'Ufficio italiano brevetti e marchi, da annotare sul registro dei brevetti.
+
+Qualora in relazione al brevetto siano trascritti atti o sentenze che attribuiscano o accertino diritti patrimoniali di terzi sul brevetto ovvero domande giudiziali con le quali si chiede l'attribuzione o l'accertamento di tali diritti, la rinuncia e' senza effetto se non accompagnata dal consenso scritto dei terzi medesimi.
+
+## Art. 79. — Limitazione
+
+Il brevetto puo' essere limitato su istanza del titolare, alla quale devono unirsi la descrizione, le rivendicazioni e i disegni modificati.
+
+((
+
+Ove l'Ufficio italiano brevetti e marchi accolga l'istanza, il richiedente dovra' conformarsi alle disposizioni regolamentari relative alla ripubblicazione del brevetto e al pagamento dei relativi diritti, ove previsti.
+
+In un giudizio di nullita', il titolare del brevetto ha facolta' di sottoporre al giudice, in ogni stato e grado del giudizio, una riformulazione delle rivendicazioni che rimanga entro i limiti del contenuto della domanda di brevetto quale inizialmente depositata e non estenda la protezione conferita dal brevetto concesso.
+
+))
+
+((
+
+Ove intervenga sia una limitazione del brevetto europeo a seguito di una procedura di limitazione di cui alla Convenzione sul brevetto europeo, sia una limitazione dello stesso brevetto europeo con effetto in Italia a seguito di una procedura nazionale, l'ambito di protezione conferito dal brevetto e' determinato tenuto conto di ciascuna delle limitazioni intervenute.
+
+))
+
+L'Ufficio italiano brevetti e marchi pubblica sul Bollettino la notizia della limitazione del brevetto.
+
+## Art. 80. — Licenza di diritto
+
+Il richiedente o il titolare del brevetto nella domanda o con istanza anche del mandatario che per-venga all'Ufficio italiano brevetti e marchi, se non e' trascritta licenza esclusiva, puo' offrire al pubblico licenza per l'uso non esclusivo dell'invenzione.
+
+Gli effetti della licenza decorrono dalla notificazione al titolare dell'accettazione dell'offerta, anche se non e' accettato il compenso.
+
+In quest'ultimo caso alla determinazione della misura e delle modalita' di pagamento del compenso provvede un collegio di arbitratori, composto di tre membri, nominati uno da ciascuno delle parti ed il terzo nominato dai primi due o, in caso di disaccordo, dal presidente della commissione dei ricorsi. Il collegio degli arbitratori deve procedere con equo apprezzamento. Se la determinazione e' manifestamente iniqua od erronea oppure se una delle parti rifiuta di nominare il proprio arbitratore, la determinazione e' fatta dal giudice.
+
+Il compenso puo' essere modificato negli stessi modi prescritti nella determinazione di quello originario, qualora si siano prodotti o rivelati fatti che fanno apparire manifestamente inadeguato il compenso gia' fissato.
+
+Il richiedente o titolare del brevetto che abbia offerto al pubblico licenza sul brevetto ha diritto alla riduzione alla meta' dei diritti annuali.
+
+La riduzione di cui ((al comma 5 e' concessa)) dall'Ufficio italiano brevetti e marchi. La dichiarazione di offerta viene annotata nel registro dei brevetti, pubblicata nel Bollettino e gli effetti di essa perdurano finche' non e' revocata.
+
+## Art. 81. — (ARTICOLO ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)
+
+
+
+## - - ((Sezione IVBIS Invenzioni biotecnologiche))
+
+## Art. 81-bis. — (( (Rinvio) ))
+
+((
+
+Le disposizioni della sezione 1V sulle invenzioni industriali spiegano effetto anche nella materia delle invenzioni biotecnologiche, in quanto non siano derogate dalle norme di cui alla Sezione IV bis.
+
+))
+
+## Art. 81-ter. — (( (Definizioni) ))
+
+((
+
+Un procedimento di produzione di vegetali o di animali e' essenzialmente biologico quando consiste integralmente in fenomeni naturali quali l'incrocio o la selezione.
+
+La nozione di varieta' vegetale e' definita dall'articolo 5 del regolamento (CE) n. 2100/94 del Consiglio, del 27 luglio 1994.
+
+))
+
+## Art. 81-quater. — (( (Brevettabilita') ))
+
+((
+
+))
+
+## Art. 81-quinquies. — (( (Esclusioni) ))
+
+((
+
+E', comunque, escluso dalla brevettabilita' ogni procedimento tecnico che utilizzi cellule embrionali umane.
+
+))
+
+## Art. 81-sexies. — (( (Estensione della tutela) ))
+
+((
+
+La protezione attribuita da un brevetto relativo ad un materiale biologico dotato, in seguito all'invenzione, di determinate proprieta' si estende a tutti i materiali biologici da esso derivati mediante riproduzione o moltiplicazione in forma identica o differenziata e dotati delle stesse proprieta'.
+
+La protezione attribuita da un brevetto relativo ad un procedimento che consente di produrre un materiale biologico dotato, per effetto dell'invenzione, di determinate proprieta' si estende al materiale biologico direttamente ottenuto da tale procedimento ed a qualsiasi altro materiale biologico derivato dal materiale biologico direttamente ottenuto mediante riproduzione o moltiplicazione in forma identica o differenziata e dotato delle stesse proprieta'.
+
+Fatto salvo quanto disposto dall'articolo 81-quinquies, comma 1, lettera a), la protezione attribuita da un brevetto ad un prodotto contenente o consistente in un'informazione genetica si estende a qualsiasi materiale nel quale il prodotto e' incorporato e nel quale l'informazione genetica e' contenuta e svolge la sua funzione.
+
+))
+
+## Art. 81-septies. — (( (Limiti all'estensione della tutela) ))
+
+((
+
+La protezione di cui all'articolo 81-sexies non si estende al materiale biologico ottenuto mediante riproduzione o moltiplicazione di materiale biologico commercializzato nel territorio dello Stato dal titolare del brevetto o con il suo consenso, qualora la riproduzione o la moltiplicazione derivi necessariamente dall'utilizzazione per la quale il materiale biologico e' stato commercializzato, purche' il materiale ottenuto non venga utilizzato successivamente per altre riproduzioni o moltiplicazioni.
+
+))
+
+## Art. 81-octies. — (( (Licenza obbligatoria) ))
+
+((
+
+Il rilascio della licenza di cui al comma 1 avviene secondo le procedure e alle condizioni di cui agli articoli 71 e 72, in quanto compatibili.
+
+In caso di concessione della licenza obbligatoria il titolare del brevetto ed il titolare della privativa per ritrovati vegetali hanno diritto, reciprocamente, ad una licenza secondo condizioni che, in mancanza di accordo tra le parti, sono determinate dall'Ufficio italiano brevetti e marchi.
+
+))
+
+## - - Sezione V I modelli di utilita'
+
+## Art. 82. — Oggetto del brevetto
+
+Possono costituire oggetto di brevetto per modello di utilita' i nuovi modelli atti a conferire particolare efficacia o comodita' di applicazione o di impiego a macchine, o parti di esse, strumenti, utensili od oggetti di uso in genere, quali i nuovi modelli consistenti in particolari conformazioni, disposizioni, configurazioni o combinazioni di parti.
+
+Il brevetto per le macchine nel loro complesso non comprende la protezione delle singole parti.
+
+Gli effetti del brevetto per modello di utilita' si estendono ai modelli che conseguono pari utilita', purche' utilizzino lo stesso concetto innovativo.
+
+## Art. 83. — Il diritto alla brevettazione
+
+Il diritto al brevetto spetta all'autore del nuovo modello di utilita' ed ai suoi aventi causa.
+
+## Art. 84. — Brevettazione alternativa
+
+E' consentito a chi chiede il brevetto per invenzione industriale, ai sensi del presente codice, di presentare contemporaneamente domanda di brevetto per modello di utilita', da valere nel caso che la prima non sia accolta o sia accolta solo in parte.
+
+Se la domanda ha per oggetto un modello anziche' un'invenzione o viceversa, l'Ufficio italiano brevetti e marchi invita l'interessato, assegnandogli un termine, a modificare la domanda stessa, la quale tuttavia ha effetto dalla data di presentazione originaria.
+
+Se la domanda di brevetto per modello di utilita' contiene anche un'((invenzione)) o viceversa, e' applicabile l'articolo 161.
+
+## Art. 85. — Durata ed effetti della brevettazione
+
+
+
+I diritti conferiti e la decorrenza degli effetti del brevetto sono regolati conformemente all'articolo 53.
+
+## Art. 86. — Rinvio
+
+Le disposizioni della sezione IV, sulle invenzioni industriali, oltre che a tali invenzioni, spiegano effetto anche nella materia dei modelli di utilita', in quanto applicabili.
+
+In particolare sono estese ai brevetti per modello di utilita' le disposizioni in materia di invenzioni dei dipendenti e licenze obbligatorie.
+
+## - - Sezione VI Topografie dei prodotti a semiconduttori
+
+## Art. 87. — Oggetto della tutela
+
+## Art. 88. — Requisiti della tutela
+
+Possono costituire oggetto di diritti esclusivi le topografie risultanti dallo sforzo intellettuale creativo del loro autore che non siano comuni o familiari nell'ambito dell'industria dei prodotti a semiconduttori.
+
+Possono costituire oggetto di diritti esclusivi anche le topografie risultanti dalla combinazione di elementi comuni o familiari, purche' nell'insieme soddisfino ai requisiti di cui al comma 1.
+
+## Art. 89. — Diritto alla tutela
+
+I diritti esclusivi sulle topografie dei prodotti a semiconduttori che presentano i requisiti di proteggibilita' spettano all'autore e ai suoi aventi causa.
+
+Qualora la topografia venga creata nell'ambito di un rapporto di lavoro dipendente o di impiego, si applica l'articolo 64.
+
+Qualora la topografia venga creata nell'esecuzione o nell'adempimento di un contratto diverso da un contratto di lavoro, il diritto alla tutela spetta, salvo che il contratto stesso disponga diversamente, al committente la topografia.
+
+## Art. 90. — Contenuto dei diritti
+
+Lo sfruttamento commerciale e' costituito dalla vendita, l'affitto, il leasing o qualsiasi altro metodo di distribuzione commerciale o l'offerta per tali scopi.
+
+## Art. 91. — Limitazione dei diritti esclusivi
+
+La tutela concessa alle topografie dei prodotti a semiconduttori non si estende ai concetti, processi, sistemi, tecniche o informazioni codificate, incorporati nelle topografie stesse.
+
+I diritti esclusivi di cui all'articolo 90 non si estendono alle riproduzioni compiute in ambito privato, in via sperimentale, a scopo di insegnamento, di analisi o di valutazione della topografia e dei concetti, delle procedure, dei sistemi o delle tecniche incluse nella topografia stessa.
+
+I diritti esclusivi non possono essere esercitati nei confronti di topografie create da terzi sulla base di un'analisi o valutazione effettuata in conformita' al comma 2, qualora tali topografie rispondano ai requisiti di proteggibilita'.
+
+## Art. 92. — Registrazione
+
+Il diritto di richiedere la registrazione si estingue con il decorso di quindici anni dalla data della prima fissazione o codificazione della topografia, ove essa non abbia formato oggetto di sfruttamento commerciale in una qualsiasi parte del mondo per lo stesso periodo. A tali effetti per sfruttamento commerciale si intende quello non comprensivo dello sfruttamento in condizione di riservatezza secondo le indicazioni contenute nel comma 1, lettera a).
+
+## Art. 93. — Decorrenza e durata della tutela
+
+Agli effetti del presente articolo, per sfruttamento commerciale si intende quello non comprensivo dello sfruttamento in condizioni di riservatezza secondo le indicazioni contenute nell'articolo 92, comma 1, lettera a).
+
+## Art. 94. — Menzione di riserva
+
+Tale menzione prova l'avvenuta registrazione della topografia, ovvero la rivendicazione della titolarita' sulla topografia o l'intenzione di chiedere la registrazione entro il termine di due anni dalla data del primo sfruttamento commerciale.
+
+La menzione non puo' essere riportata su prodotti per i quali la domanda di registrazione non sia stata presentata entro i due anni dalla data del primo sfruttamento commerciale ovunque nel mondo o sia stata rifiutata definitivamente.
+
+## Art. 95. — Contraffazione
+
+Non costituiscono atti di contraffazione l'importazione, la distribuzione, la commercializzazione o l'utilizzazione di prodotti a semiconduttori contraffatti, effettuati senza sapere o senza avere una ragione valida di ritenere l'esistenza dei diritti esclusivi di cui all'articolo 90.
+
+Nell'ipotesi di cui al comma 2 e' consentita la prosecuzione dell'attivita' intrapresa, nei limiti dei contratti gia' stipulati e delle scorte esistenti, ma il titolare dei diritti esclusivi ha diritto alla corresponsione di un equo corrispettivo, a partire dal momento in cui abbia adeguatamente avvisato l'acquirente in buona fede che la topografia e' stata riprodotta illegalmente. In mancanza di accordo tra le parti, per la determinazione e le modalita' di pagamento dell'equo corrispettivo ragguagliato al prezzo di mercato si applicano le disposizioni previste alla sezione IV per la licenza di diritto.
+
+## Art. 96. — Risarcimento del danno ed equo compenso
+
+Chiunque, dopo la registrazione della topografia o dopo la diffida di colui che ha presentato la domanda di registrazione, ove accolta, pone in essere gli atti di cui all'articolo 95, e' tenuto al risarcimento dei danni ai sensi delle disposizioni del capo III.
+
+Se gli atti di cui al comma 1 avvengono tra il primo atto di sfruttamento commerciale del prodotto a semiconduttori con menzione di riserva e la registrazione della topografia, il responsabile e' tenuto a corrispondere solo un equo compenso al titolare della topografia registrata.
+
+Se gli atti indicati alle lettere a) e b) del comma 1 dell'articolo 95 avvengono dopo il primo atto di sfruttamento commerciale di un prodotto a semiconduttori senza menzione di riserva, il titolare della topografia registrata ha diritto ad un equo compenso e l'autore della contraffazione ha diritto di ottenere una licenza ad eque condizioni per continuare a sfruttare la topografia nei limiti dell'uso fatto prima che essa fosse registrata.
+Qualora il titolare della registrazione si rifiuti di rilasciare una licenza contrattuale, si applicano, in quanto compatibili, le disposizioni in materia di concessione di licenza obbligatoria di cui alla sezione IV, incluse quelle relative alla determinazione della misura e delle modalita' di pagamento del compenso in caso di opposizione.
+
+Chi ha acquistato un prodotto a semiconduttori senza sapere o senza avere una ragione valida di ritenere che il prodotto e' tutelato da registrazione, ha diritto a continuare lo sfruttamento commerciale del prodotto. Tuttavia, per gli atti compiuti dopo avere saputo o avere avuto valide ragioni per ritenere che il prodotto a semiconduttori e' tutelato, e' dovuto il pagamento di un equo compenso. L'avente causa dell'acquirente di cui al presente comma conserva gli stessi diritti ed obblighi.
+
+Agli effetti del presente articolo per sfruttamento commerciale si intende quello non comprensivo dello sfruttamento in condizione di riservatezza, secondo le indicazioni di cui all'articolo 92, comma 1 ((, lettera a) )).
+
+## Art. 97. — Nullita' della registrazione
+
+## - - Sezione VII ((Segreti commerciali))
+
+## Art. 98. — Oggetto della tutela
+
+((
+
+))
+
+Costituiscono altresi' oggetto di protezione i dati relativi a prove o altri dati segreti, la cui elaborazione comporti un considerevole impegno ed alla cui presentazione sia subordinata l'autorizzazione dell'immissione in commercio di prodotti chimici, farmaceutici o agricoli implicanti l'uso di nuove sostanze chimiche.
+
+## Art. 99. — Tutela
+
+((
+
+Ferma la disciplina della concorrenza sleale, il legittimo detentore dei segreti commerciali di cui all'articolo 98, ha il diritto di vietare ai terzi, salvo proprio consenso, di acquisire, rivelare a terzi od utilizzare, in modo abusivo, tali segreti, salvo il caso in cui essi siano stati conseguiti in modo indipendente dal terzo.
+
+L'acquisizione, l'utilizzazione o la rivelazione dei segreti commerciali di cui all'articolo 98 si considerano illecite anche quando il soggetto, al momento dell'acquisizione, dell'utilizzazione o della rivelazione, era a conoscenza o, secondo le circostanze, avrebbe dovuto essere a conoscenza del fatto che i segreti commerciali erano stati ottenuti direttamente o indirettamente da un terzo che li utilizzava o rivelava illecitamente ai sensi del comma 1.
+
+La produzione, l'offerta, la commercializzazione di merci costituenti violazione, oppure l'importazione, l'esportazione o lo stoccaggio delle medesime merci costituiscono un utilizzo illecito dei segreti commerciali di cui all'articolo 98, quando il soggetto che svolgeva tali condotte era a conoscenza o, secondo le circostanze, avrebbe dovuto essere a conoscenza del fatto che i segreti commerciali erano stati utilizzati illecitamente ai sensi del comma 1. Per merci costituenti violazione si intendono le merci delle quali la progettazione, le caratteristiche, la funzione, la produzione o la commercializzazione beneficiano in maniera significativa dei suddetti segreti commerciali acquisiti, utilizzati o rivelati illecitamente.
+
+I diritti e le azioni derivanti dalle condotte illecite di cui ai commi 1, 1-bis e 1-ter si prescrivono in cinque anni.
+
+))
+
+## - - Sezione VIII Nuove varieta' vegetali
+
+## Art. 100. — Oggetto del diritto
+
+## Art. 101. — Costitutore
+
+## Art. 102. — Requisiti
+
+Il diritto di costitutore e' conferito quando la varieta' e' nuova, distinta, omogenea e stabile.
+
+## Art. 103. — Novita'
+
+## Art. 104. — Distinzione
+
+La varieta' si reputa distinta quando si contraddistingue nettamente da ogni altra varieta' la cui esistenza, alla data del deposito della domanda, e' notoriamente conosciuta.
+
+## Art. 105. — Omogeneita'
+
+La varieta' si reputa omogenea quando e' sufficientemente uniforme nei suoi caratteri pertinenti e rilevanti ai fini della protezione, con riserva della variazione prevedibile in conseguenza delle particolarita' attinenti alla sua riproduzione sessuata e alla sua moltiplicazione vegetativa.
+
+## Art. 106. — Stabilita'
+
+La varieta' si reputa stabile quando i caratteri pertinenti e rilevanti ai fini della protezione rimangono invariati in seguito alle successive riproduzioni o moltiplicazioni o, in caso di un particolare ciclo di riproduzione o moltiplicazione, alla fine di ogni ciclo.
+
+## Art. 107. — Contenuto del diritto del costitutore
+
+L'autorizzazione del costitutore e' richiesta per gli atti menzionati al comma 1 compiuti in relazione al prodotto della raccolta, comprese piante intere e parti di piante, ottenuto mediante utilizzazione non autorizzata di materiali di riproduzione o di moltiplicazione della varieta' protetta, a meno che il costitutore non abbia potuto esercitare ragionevolmente il proprio diritto in relazione al suddetto materiale di riproduzione o di moltiplicazione.
+L'utilizzazione si presume non autorizzata salvo prova contraria.
+
+Le varieta' essenzialmente derivate possono essere ottenute, tra l'altro, mediante selezione di un mutante naturale o indotto o da una variante somaclonale, mediante selezione di una variante individuale fra piante della varieta' iniziale, mediante retroincroci o mediante trasformazione attraverso l'ingegneria genetica.
+
+Durante il periodo compreso tra la pubblicazione della domanda e la concessione della privativa il costitutore ha diritto ad una equa remunerazione da parte di colui che, nel periodo suddetto, ha compiuto gli atti che, una volta conferito il diritto, richiedono l'autorizzazione del costitutore.
+
+## Art. 108. — Limitazioni del diritto del costitutore
+
+Il diritto di costitutore non si estende ad atti compiuti in ambito privato, a scopi non commerciali; ad atti compiuti a titolo sperimentale; ad atti compiuti allo scopo di creare altre varieta', nonche', ove non siano applicabili le disposizioni dell'articolo 107, comma 3, ad atti di cui allo stesso articolo 107, commi 1 e 2, compiuti rispetto a tali altre varieta'.
+
+Fermo quanto disposto dall'articolo 107, comma 1, chiunque intende procedere alla moltiplicazione, in vista della certificazione, di materiale proveniente da varieta' oggetto di privativa per nuova varieta' vegetale, e' tenuto a darne preventiva comunicazione al titolare del diritto.
+
+## Art. 109. — Durata della protezione
+
+Il diritto di costitutore, concesso a norma di questo codice, dura venti anni a decorrere dalla data della sua concessione. Per gli alberi e le viti tale diritto dura trent'anni dalla data della sua concessione.
+
+Gli effetti della privativa decorrono dalla data in cui la domanda, corredata degli elementi descrittivi, e' resa accessibile al pubblico.
+
+Nei confronti delle persone alle quali la domanda, corredata degli elementi descrittivi, e' stata notificata a cura del costitutore, gli effetti della privativa decorrono dalla data di tale notifica.
+
+## Art. 110. — Diritto morale
+
+Il diritto di essere considerato autore della nuova varieta' vegetale puo' essere fatto valere dall'autore stesso e, dopo la sua morte, dal coniuge e dai discendenti fino al secondo grado; in loro mancanza o dopo la loro morte, dai genitori e dagli altri ascendenti ed in mancanza, o dopo la morte anche di questi, dai parenti fino al quarto grado incluso.
+
+## Art. 111. — Diritti patrimoniali
+
+I diritti nascenti dalla costituzione di nuove varieta' vegetali, tranne il diritto di esserne riconosciuto autore, sono alienabili e trasmissibili.
+
+Qualora la nuova varieta' vegetale venga creata nell'ambito di un rapporto di lavoro dipendente o di impiego, si applica l'articolo 64.
+
+## Art. 112. — Nullita' del diritto
+
+## Art. 113. — Decadenza del diritto
+
+Il diritto di costitutore decade quando viene accertato che le condizioni relative alla omogeneita' e alla stabilita' non sono piu' effettivamente soddisfatte.
+
+Nei casi previsti nel comma 2, lettere a) e c), la decadenza e' dichiarata dall'Ufficio italiano brevetti e marchi, su proposta del Ministero delle politiche agricole e forestali.
+
+## Art. 114. — Denominazione della varieta'
+
+La varieta' deve essere designata con una denominazione destinata ad essere la sua designazione generica.
+
+La denominazione deve permettere di identificare la varieta'.
+Essa non puo' consistere unicamente di cifre, a meno che non si tratti di una prassi stabilita per designare talune varieta'. Essa non deve essere suscettibile di indurre in errore o di creare confusione quanto alle sue caratteristiche, al valore o alla identita' della varieta' o alla identita' del costitutore. In particolare, essa deve essere diversa da ogni altra denominazione che designi, sul territorio di uno Stato aderente all'Unione per la protezione delle nuove varieta' vegetali (UPOV), una varieta' preesistente della stessa specie vegetale o di una specie simile, a meno che quest'altra varieta' non esista piu' e la sua denominazione non abbia assunto alcuna importanza particolare.
+
+I diritti acquisiti anteriormente da terzi non sono pregiudicati.
+
+La denominazione deve essere uguale a quella gia' registrata in uno degli Stati aderenti all'Unione per la protezione delle nuove varieta' vegetali (UPOV) per designare la stessa varieta'.
+
+La denominazione depositata che risponde ai requisiti dei commi 1, 2, 3 e 4 e' registrata.
+
+La denominazione depositata e registrata, nonche' le relative variazioni sono comunicate alle autorita' competenti degli Stati aderenti all'UPOV.
+
+La denominazione registrata deve essere utilizzata per la varieta' anche dopo l'estinzione del diritto di costitutore, nella misura in cui, conformemente alle disposizioni di cui al comma 3, diritti acquisiti anteriormente non si oppongano a tale utilizzazione.
+
+E' consentito associare alla denominazione varietale un marchio d'impresa, un nome commerciale o una simile indicazione, purche' la denominazione varietale risulti, in ogni caso, facilmente riconoscibile.
+
+## Art. 115. — (( (Licenze obbligatorie ed espropriazioni) ))
+
+((
+
+Il diritto di costitutore puo' formare oggetto di licenze obbligatorie non esclusive soltanto per motivi di interesse pubblico, di cui al comma 3.
+
+Alle licenze obbligatorie si applicano, in quanto compatibili con le disposizioni contenute in questa sezione, le norme in materia di licenza obbligatoria di cui alla sezione IV, incluse quelle relative alla determinazione della misura e delle modalita' di pagamento del compenso in caso di opposizione.
+
+Con decreto ministeriale possono essere concesse, in qualunque momento, mediante pagamento di equo compenso al titolare del diritto di costitutore, licenze obbligatorie speciali, non esclusive, per l'utilizzazione di nuove varieta' vegetali protette che possono servire all'alimentazione umana o del bestiame, nonche' per usi terapeutici o per la produzione di medicinali.
+
+Le licenze previste al comma 3 sono concesse su conforme parere del Ministero delle politiche agricole alimentari e forestali che si pronuncia sulle condizioni prescritte per la concessione delle licenze.
+
+Il decreto di concessione della licenza puo' prevedere l'obbligo per il titolare del diritto di mettere a disposizione del licenziatario il materiale di propagazione ovvero di moltiplicazione necessario.
+
+L'espropriazione ha luogo, per le nuove varieta' vegetali, sentito il Ministero delle politiche agricole alimentari e forestali.
+
+))
+
+## Art. 116. — Rinvio
+
+Sono applicabili alle nuove varieta' vegetali le disposizioni della sezione IV, in quanto non contrastino con le disposizioni della presente sezione.
+
+## - - Capo III TUTELA GIURISDIZIONALE DEI DIRITTI DI PROPRIETA' INDUSTRIALE Sezione I Disposizioni processuali
+
+## Art. 117. — Validita' ed appartenenza
+
+La registrazione e la brevettazione non pregiudicano l'esercizio delle azioni circa la validita' e l'appartenenza dei diritti di proprieta' industriale.
+
+## Art. 118. — Rivendica
+
+Chiunque ne abbia diritto ai sensi del presente codice puo' presentare una domanda di registrazione oppure una domanda di brevetto.
+
+Decorso il termine di due anni dalla data di pubblicazione della concessione del brevetto per invenzione, per modello di utilita', per una nuova varieta' vegetale, oppure dalla pubblicazione della concessione della registrazione della topografia dei prodotti a semiconduttori, senza che l'avente diritto si sia valso di una delle facolta' di cui al comma 3, la nullita' puo' essere fatta valere da chiunque ne abbia interesse.
+
+La norma del comma 4 non si applica alle registrazioni di marchio e di disegni e modelli.
+
+Salvo l'applicazione di ogni altra tutela, la registrazione di nome a dominio aziendale concessa in violazione dell'articolo 22 o richiesta in mala fede, puo' essere, su domanda dell'avente diritto, revocata oppure a lui trasferita da parte dell'autorita' di registrazione.
+
+## Art. 119. — Paternita'
+
+L'Ufficio italiano brevetti e marchi non verifica l'esattezza della designazione dell'inventore o dell'autore, ne' la legittimazione del richiedente, fatte salve le verifiche previste dalla legge o dalle convenzioni internazionali. Dinnanzi l'Ufficio italiano brevetti e marchi si presume che il richiedente sia titolare del diritto alla registrazione oppure al brevetto e sia legittimato ad esercitarlo.
+
+Una designazione incompleta od errata puo' essere rettificata ((soltanto)) su istanza corredata da una dichiarazione di consenso della persona precedentemente designata e, qualora l'istanza non sia presentata dal richiedente o dal titolare del brevetto o della registrazione, anche da una dichiarazione di consenso di quest'ultimo.
+
+Se un terzo presenta all'Ufficio italiano brevetti e marchi una sentenza esecutiva in base alla quale il richiedente o il titolare del brevetto o della registrazione e' tenuto a designarlo come inventore o come autore l'Ufficio, lo annota sul registro e ne da' notizia nel Bollettino Ufficiale.
+
+## Art. 120. — Giurisdizione e competenza
+
+Le azioni in materia di proprieta' industriale i cui titoli sono concessi o in corso di concessione si propongono avanti l'autorita' giudiziaria dello Stato, qualunque sia la cittadinanza, il domicilio o la residenza delle parti. Se l'azione di nullita' o quella di contraffazione sono proposte quando il titolo non e' stato ancora concesso, la sentenza puo' essere pronunciata solo dopo che l'Ufficio italiano brevetti e marchi ha provveduto sulla domanda di concessione, esaminandola con precedenza rispetto a domande presentate in data anteriore. Il giudice, tenuto conto delle circostanze, dispone la sospensione del processo, per una o piu' volte, fissando con il medesimo provvedimento l'udienza in cui il processo deve proseguire.
+
+Le azioni previste al comma 1 si propongono davanti all'autorita' giudiziaria del luogo in cui il convenuto ha la residenza o il domicilio e, se questi sono sconosciuti, del luogo in cui il convenuto ha la dimora, salvo quanto previsto nel comma 3.
+Quando il convenuto non ha residenza, ne' domicilio ne' dimora nel territorio dello Stato, le azioni sono proposte davanti all'autorita' giudiziaria del luogo in cui l'attore ha la residenza o il domicilio.
+Qualora ne' l'attore, ne' il convenuto abbiano nel territorio dello Stato residenza, domicilio o dimora e' competente l'autorita' giudiziaria di Roma.
+
+L'indicazione di domicilio effettuata con la domanda di registrazione o di brevettazione e annotata nel registro vale come elezione di domicilio esclusivo, ai fini della determinazione della competenza e di ogni notificazione di atti di procedimenti davanti ad autorita' giurisdizionali ordinarie o amministrative. Il domicilio cosi' eletto puo' essere modificato soltanto con apposita istanza di sostituzione da annotarsi sul registro a cura dell'Ufficio italiano brevetti e marchi.
+
+La competenza in materia di diritti di proprieta' industriale appartiene ai tribunali espressamente indicati a tale scopo dal decreto legislativo 27 giugno 2003, n. 168.
+
+Per tribunali dei marchi e dei disegni e modelli comunitari ai sensi dell'articolo 91 del regolamento (CE) n. 40/94 e dell'articolo 80 del regolamento (CE) n. 2002/6 si intendono quelli di cui al comma 4.
+
+Le azioni fondate su fatti che si assumono lesivi del diritto dell'attore possono essere proposte anche dinanzi all'autorita' giudiziaria dotata ((di)) sezione specializzata nella cui circoscrizione i fatti sono stati commessi.
+
+((
+
+Le regole di giurisdizione e competenza di cui al presente articolo si applicano altresi' alle azioni di accertamento negativo anche proposte in via cautelare.
+
+))
+
+## Art. 121. — Ripartizione dell'onere della prova
+
+
+
+Qualora una parte abbia fornito seri indizi della fondatezza delle proprie domande ed abbia individuato documenti, elementi o informazioni detenuti dalla controparte che confermino tali indizi, essa puo' ottenere che il giudice ne disponga l'esibizione oppure che richieda le informazioni alla controparte. Puo' ottenere altresi' che il giudice ordini alla controparte di fornire gli elementi per l'identificazione dei soggetti implicati nella produzione e distribuzione dei prodotti o dei servizi che costituiscono violazione dei diritti di proprieta' industriale.
+
+In caso di violazione commessa su scala commerciale mediante atti di pirateria di cui all'articolo 144, il giudice puo' anche disporre, su richiesta di parte, l'esibizione della documentazione bancaria, finanziaria e commerciale che si trovi in possesso della controparte.
+
+Il giudice, nell'assumere i provvedimenti di cui sopra, adotta le misure idonee a garantire la tutela delle informazioni riservate, sentita la controparte.
+
+Il giudice desume argomenti di prova dalle risposte che le parti danno e di rifiuto ingiustificato di ottemperare agli ordini.
+
+Nella materia di cui al presente codice il consulente tecnico d'ufficio puo' ricevere i documenti inerenti ai quesiti posti dal giudice anche se non ancora prodotti in causa, rendendoli noti a tutte le parti. Ciascuna parte puo' nominare piu' di un consulente.
+
+## Art. 121-bis. — (( (Diritto d'informazione) ))
+
+((
+
+Le informazioni di cui al comma 1 possono tra l'altro comprendere il nome e indirizzo dei produttori, dei fabbricanti, dei distributori, dei fornitori e degli altri precedenti detentori dei prodotti o dei servizi, nonche' dei grossisti e dei dettaglianti, nonche' informazioni sulle quantita' prodotte, fabbricate, consegnate, ricevute o ordinate, nonche' sul prezzo dei prodotti o servizi in questione.
+
+Le informazioni vengono acquisite tramite interrogatorio dei soggetti di cui al comma 1.
+
+Il richiedente deve fornire l'indicazione specifica delle persone da interrogare e dei fatti sui quali ognuna di esse deve essere interrogata.
+
+Il giudice, ammesso l'interrogatorio, richiede ai soggetti di cui al comma 1 le informazioni indicate dalla parte; puo' altresi' rivolgere loro, d'ufficio o su istanza di parte, tutte le domande che ritiene utili per chiarire le circostanze sulle quali si svolge l'interrogatorio.
+
+Si applicano gli articoli 249, 250, 252, 255 e 257, primo comma, del codice di procedura civile.
+
+))
+
+## Art. 121-ter. — (( (Tutela della riservatezza dei segreti commerciali nel corso dei procedimenti giudiziari). ))
+
+((
+
+Nei procedimenti giudiziari relativi all'acquisizione, all'utilizzazione o alla rivelazione illecite dei segreti commerciali di cui all'articolo 98, il giudice puo' vietare ai soggetti da lui nominati o delegati, alle parti e ai loro rappresentanti e consulenti, ai difensori, al personale amministrativo, ai testimoni, e agli altri soggetti che a qualunque titolo hanno accesso ai provvedimenti, agli atti e ai documenti presenti nel fascicolo d'ufficio, l'utilizzo o la rivelazione dei segreti commerciali oggetto del procedimento che ritenga riservati. Il provvedimento di divieto di cui al primo periodo e' pronunciato su istanza di parte e mantiene efficacia anche successivamente alla conclusione del procedimento nel corso del quale e' stato emesso.
+
+Ai fini di cui al comma 3, lettera b), il giudice, con il provvedimento, indica le parti dello stesso che il cancelliere e' tenuto ad oscurare o omettere all'atto del rilascio di copia a soggetti diversi dalle parti. Agli stessi fini il giudice ordina che, all'atto del deposito del provvedimento, la cancelleria vi apponga un'annotazione dalla quale risulti il divieto per le parti di diffondere il provvedimento in versione integrale.
+
+))
+
+## Art. 122. — Legittimazione all'azione di nullita' e di decadenza
+
+Fatto salvo il disposto dell'articolo 118, comma 4, l'azione diretta ad ottenere la dichiarazione di decadenza o di nullita' di un titolo di proprieta' industriale puo' essere esercitata da chiunque vi abbia interesse e promossa d'ufficio dal pubblico ministero. In deroga all'articolo 70 del codice di procedura civile l'intervento del pubblico ministero non e' obbligatorio. (8) 
+ 2 L'azione diretta ad ottenere la dichiarazione di nullita' di un marchio per la sussistenza di diritti anteriori oppure perche' l'uso del marchio costituirebbe violazione di un altrui diritto di autore, di proprieta' industriale o altro diritto esclusivo di terzi, oppure perche' il marchio costituisce violazione del diritto al nome oppure al ritratto oppure perche' la registrazione del marchio e' stata effettuata a nome del non avente diritto, puo' essere esercitata soltanto dal titolare dei diritti anteriori e dal suo avente causa o dall'avente diritto. 
+ 3. L'azione diretta ad ottenere la dichiarazione di nullita' di un disegno o modello per la sussistenza dei diritti anteriori di cui all'articolo 43, comma 1, lettera d) ed e), oppure perche' la registrazione e' stata effettuata a nome del non avente diritto oppure perche' il disegno o modello costituisce utilizzazione impropria di uno degli elementi elencati nell'articolo 6-ter della Convenzione di Unione di Parigi per la protezione della proprieta' industriale - testo di Stoccolma del 14 luglio 1967, ratificata con legge 28 aprile 1976, n. 424, o di disegni, emblemi e stemmi che rivestano un particolare interesse pubblico nello Stato, puo' essere rispettivamente esercitata soltanto dal titolare dei diritti anteriori e dal suo avente causa o dall'avente diritto oppure da chi abbia interesse all'utilizzazione. 
+ 4. L'azione di decadenza o di nullita' di un titolo di proprieta' industriale e' esercitata in contraddittorio di tutti coloro che risultano annotati nel registro quali aventi diritto in quanto titolari di esso. 
+ ((4-bis. L'azione di nullita' o decadenza di un marchio registrato e' improcedibile qualora, su una domanda con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, sia stata pronunciata una decisione dall'Ufficio italiano brevetti e marchi ai sensi dell'articolo 184-quater o sia pendente un procedimento dinanzi all'Ufficio italiano brevetti e marchi, ai sensi dell'articolo 184-bis. 
+ 4-ter. Fuori dal caso di cui al comma 4-bis, qualora l'azione di nullita' o decadenza di un marchio registrato sia esercitata in pendenza di un procedimento amministrativo, connesso per il suo oggetto, il giudice puo' sospendere il relativo processo. La parte che vi abbia interesse deve chiedere la fissazione della nuova udienza entro il termine perentorio di tre mesi dalla definizione del procedimento amministrativo connesso, ai sensi dell'articolo 297, terzo comma, del codice di procedura civile.)) 
+ 5. Le sentenze che dichiarano la nullita' o la decadenza di un titolo di proprieta' industriale sono annotate nel registro a cura dell'Ufficio italiano brevetti e marchi. 
+ 6. Una copia dell'atto introduttivo di ogni giudizio civile in materia di titoli di proprieta' industriale deve essere comunicata all'Ufficio italiano brevetti e marchi, a cura di chi promuove il giudizio. 
+ 7. Ove alla comunicazione anzidetta non si sia provveduto, l'autorita' giudiziaria, in qualunque grado del giudizio, prima di decidere nel merito, dispone che tale comunicazione venga effettuata. 
+ 8. Il cancelliere deve trasmettere all'Ufficio italiano brevetti e marchi copia di ogni sentenza in materia di titoli di proprieta' industriale.
+
+---------------
+                            AGGIORNAMENTO (8)
+                            
+ La L. 23 luglio 2009, n. 99 ha disposto (con l'art. 19, comma 4) che "Le disposizioni di cui al comma 3 si applicano anche ai procedimenti in corso alla data di entrata in vigore della presente legge".
+
+## Art. 122-bis. — (( (Legittimazione all'azione di contraffazione del licenziatario). ))
+
+((
+
+Fatte salve le clausole del contratto di licenza, il licenziatario puo' avviare un'azione per contraffazione di un marchio d'impresa soltanto con il consenso del titolare del medesimo. Il titolare di una licenza esclusiva puo' tuttavia avviare una siffatta azione se il titolare del marchio, previa messa in mora, non avvia un'azione per contraffazione entro termini appropriati.
+
+Il licenziatario puo' intervenire nell'azione per contraffazione avviata dal titolare del marchio per ottenere il risarcimento del danno da lui subito.
+
+Le disposizioni di cui ai commi 1 e 2, si applicano ai soggetti abilitati all'uso di marchi collettivi, di cui all'articolo 11.
+
+))
+
+## Art. 123. — Efficacia erga omnes
+
+Le decadenze o le nullita' anche parziali di un titolo di proprieta' industriale hanno efficacia nei confronti di tutti quando siano dichiarate con sentenza passata in giudicato.
+
+## Art. 124. — Misure correttive e sanzioni civili
+
+Con la sentenza che accerta la violazione di un diritto di proprieta' industriale possono essere disposti l'inibitoria della fabbricazione, del commercio e dell'uso delle cose costituenti violazione del diritto, e l'ordine di ritiro definitivo dal commercio delle medesime cose nei confronti di chi ne sia proprietario o ne abbia comunque la disponibilita'. L'inibitoria e l'ordine di ritiro definitivo dal commercio possono essere emessi anche contro ogni intermediario, che sia parte del giudizio ed i cui servizi siano utilizzati per violare un diritto di proprieta' industriale.
+
+Pronunciando l'inibitoria, il giudice puo' fissare una somma dovuta per ogni violazione o inosservanza successivamente constatata e per ogni ritardo nell'esecuzione del provvedimento.
+
+Con la sentenza che accerta la violazione di un diritto di proprieta' industriale puo' essere ordinata la distruzione di tutte le cose costituenti la violazione, se non vi si oppongono motivi particolari, a spese dell'autore della violazione. Non puo' essere ordinata la distruzione della cosa e l'avente diritto puo' conseguire solo il risarcimento dei danni, se la distruzione della cosa e' di pregiudizio all'economia nazionale. Se i prodotti costituenti violazione dei diritti di proprieta' industriale sono suscettibili, previa adeguata modifica, di una utilizzazione legittima, puo' essere disposto dal giudice, in luogo del ritiro definitivo o della loro distruzione, il loro ritiro temporaneo dal commercio, con possibilita' di reinserimento a seguito degli adeguamenti imposti a garanzia del rispetto del diritto.
+
+Con la sentenza che accerta la violazione dei diritti di proprieta' industriale, puo' essere ordinato che gli oggetti prodotti importati o venduti in violazione del diritto e i mezzi specifici che servono univocamente a produrli o ad attuare il metodo o processo tutelato siano assegnati in proprieta' al titolare del diritto stesso, fermo restando il diritto al risarcimento del danno.
+
+E' altresi' in facolta' del giudice, su richiesta del proprietario degli oggetti o dei mezzi di produzione di cui al comma 4, tenuto conto della residua durata del titolo di proprieta' industriale o delle particolari circostanze del caso, ordinare il sequestro, a spese dell'autore della violazione, fino all'estinzione del titolo, degli oggetti e dei mezzi di produzione. In quest'ultimo caso, il titolare del diritto di proprieta' industriale puo' chiedere che gli oggetti sequestrati gli siano aggiudicati al prezzo che, in mancanza di accordo tra le parti, verra' stabilito dal giudice dell'esecuzione, sentito, occorrendo, un perito.
+
+Delle cose costituenti violazione del diritto di proprieta' industriale non si puo' disporre la rimozione o la distruzione, ne' puo' esserne interdetto l'uso quando appartengono a chi ne fa uso personale o domestico. Nell'applicazione delle sanzioni l'autorita' giudiziaria tiene conto della necessaria proporzione tra la gravita' delle violazioni e le sanzioni, nonche' dell'interesse dei terzi.
+
+((
+
+L'indennizzo liquidato a norma del comma 6-ter non puo', in ogni caso, superare l'importo dei diritti dovuti qualora la parte istante avesse richiesto l'autorizzazione ad utilizzare i segreti commerciali per il periodo di tempo per il quale l'utilizzo degli stessi avrebbe potuto essere vietato.
+
+))
+
+Sulle contestazioni che sorgono nell'eseguire le misure menzionate in questo articolo decide, con ordinanza non soggetta a gravame, sentite le parti, assunte informazioni sommarie, il giudice che ha emesso la sentenza recante le misure anzidette.
+
+## Art. 125.
+
+(( (Risarcimento del danno e restituzione dei profitti
+ dell'autore della violazione) )).
+
+ ((
+
+Il risarcimento dovuto al danneggiato e' liquidato secondo le disposizioni degli articoli 1223, 1226 e 1227 del codice civile, tenuto conto di tutti gli aspetti pertinenti, quali le conseguenze economiche negative, compreso il mancato guadagno, del titolare del diritto leso, i benefici realizzati dall'autore della violazione e, nei casi appropriati, elementi diversi da quelli economici, come il danno morale arrecato al titolare del diritto dalla violazione.
+
+La sentenza che provvede sul risarcimento dei danni puo' farne la liquidazione in una somma globale stabilita in base agli atti della causa e alle presunzioni che ne derivano. In questo caso il lucro cessante e' comunque determinato in un importo non inferiore a quello dei canoni che l'autore della violazione avrebbe dovuto pagare, qualora avesse ottenuto una licenza dal titolare del diritto leso.
+
+In ogni caso il titolare del diritto leso puo' chiedere la restituzione degli utili realizzati dall'autore della violazione, in alternativa al risarcimento del lucro cessante o nella misura in cui essi eccedono tale risarcimento.
+
+## Art. 126. — Pubblicazione della sentenza
+
+L'autorita' giudiziaria puo' ordinare che l'ordinanza cautelare o la sentenza che accerta la violazione dei diritti di proprieta' industriale sia pubblicata integralmente o in sunto o nella sola parte dispositiva, tenuto conto della gravita' dei fatti, in uno o piu' giornali da essa indicati, a spese del soccombente. ((In ogni caso, sono adottate le misure idonee a garantire la tutela della riservatezza dei segreti commerciali di cui all'articolo 98.))
+
+((
+
+Ai fini di cui al comma 1-bis, il giudice considera altresi' se le informazioni sull'autore della violazione siano tali da consentire l'identificazione di una persona fisica e, in tal caso, se la pubblicazione di tali informazioni sia giustificata anche in considerazione degli eventuali danni che la misura puo' provocare alla vita privata e alla reputazione del medesimo autore.
+
+))
+
+## Art. 127. — Sanzioni penali e amministrative
+
+Salva l'applicazione degli articoli 473, 474 e 517 del codice penale, chiunque fabbrica, vende, espone, adopera industrialmente, introduce nello Stato oggetti in violazione di un titolo di proprieta' industriale valido ai sensi delle norme del presente codice, e' punito, a querela di parte, con la multa fino a 1.032,91 euro. (8)
+
+Chiunque si rifiuti senza giustificato motivo di rispondere alle domande del giudice ai sensi dell'articolo 121-bis ovvero fornisce allo stesso false informazioni e' punito con le pene previste dall'articolo 372 del codice penale, ridotte della meta'.
+
+Chiunque appone, su un oggetto, parole o indicazioni non corrispondenti al vero, tendenti a far credere che l'oggetto sia protetto da brevetto, disegno o modello oppure topografia o a far credere che il marchio che lo contraddistingue sia stato registrato, e' punito con la sanzione amministrativa ((da 150 euro a 1.500 euro)).
+
+Salvo che il fatto costituisca reato, e' punito con la sanzione amministrativa fino a 2.065,83 euro, anche quando non vi sia danno al terzo, chiunque faccia uso di un marchio registrato, dopo che la relativa registrazione e' stata dichiarata nulla, quando la causa di nullita' comporta la illiceita' dell'uso del marchio, oppure sopprima il marchio del produttore o del commerciante da cui abbia ricevuto i prodotti o le merci a fini commerciali.
+
+---------------
+                            AGGIORNAMENTO (8)
+                            
+ La L. 23 luglio 2009, n. 99, ha disposto (con l'art. 15, comma 2) che "Con effetto dalla data di entrata in vigore delle disposizioni di cui al comma 1, lettera e), all'articolo 127 del codice della proprieta' industriale, di cui al decreto legislativo 10 febbraio 
+2005, n. 30, il comma 1 e' abrogato."
+
+## Art. 128. — (( (Consulenza tecnica preventiva) ))
+
+((
+
+Le istanze per l'espletamento della consulenza tecnica preventiva prevista dall'art. 696-bis del codice di procedura civile, si propongono al Presidente della sezione specializzata del tribunale competente per il giudizio di merito, secondo le disposizioni del medesimo articolo, in quanto compatibili.
+
+))
+
+## Art. 129. — (Descrizione e sequestro)
+
+Il titolare di un diritto di proprieta' industriale puo' chiedere la descrizione o il sequestro, ed anche il sequestro subordinatamente alla descrizione, di alcuni o di tutti gli oggetti costituenti violazione di tale diritto, nonche' dei mezzi adibiti alla produzione dei medesimi e degli elementi di prova concernenti la denunciata violazione e la sua entita'. Sono adottate le misure idonee a garantire la tutela delle informazioni riservate.
+
+Il giudice, sentite le parti e assunte, quando occorre, sommarie informazioni, provvede con ordinanza e, se dispone la descrizione, autorizza l'eventuale prelevamento di campioni degli oggetti di cui al comma 1. In casi di speciale urgenza, e in particolare quando eventuali ritardi potrebbero causare un danno irreparabile al titolare dei diritti o quando la convocazione della controparte potrebbe pregiudicare l'attuazione del provvedimento di descrizione o di sequestro, provvede sull'istanza con decreto motivato.
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+I procedimenti di descrizione e di sequestro sono disciplinati dalle norme del codice di procedura civile concernenti i procedimenti cautelari, in quanto compatibili e non derogate dal presente codice.
+Ai fini della conferma, modifica o revoca della descrizione e dell'eventuale concessione delle misure cautelari chieste unitamente o subordinatamente alla descrizione, il giudice fissa l'udienza di discussione tenendo conto della descrizione allo scopo di valutarne il risultato.
+
+## Art. 130. — ((Esecuzione di descrizione e sequestro))
+
+La descrizione e il sequestro vengono eseguiti a mezzo di ufficiale giudiziario, con l'assistenza, ove occorra, di uno o piu' periti ed anche con l'impiego di mezzi tecnici di accertamento, fotografici o di altra natura.
+
+Gli interessati possono essere autorizzati ad assistere alle operazioni anche a mezzo di loro rappresentanti e ad essere assistiti da tecnici di loro fiducia.
+
+Decorso il termine dell'articolo 675 del codice di procedura civile, possono essere completate le operazioni di descrizione e di sequestro gia' iniziate, ma non possono esserne iniziate altre fondate sullo stesso provvedimento. Resta salva la facolta' di chiedere al giudice di disporre ulteriori provvedimenti di descrizione o sequestro nel corso del procedimento di merito.
+
+La descrizione e il sequestro possono concernere oggetti appartenenti a soggetti anche non identificati nel ricorso, purche' si tratti di oggetti prodotti, offerti, importati, esportati o messi in commercio dalla parte nei cui confronti siano stati emessi i suddetti provvedimenti e purche' tali oggetti non siano adibiti ad uso personale.
+
+Il verbale delle operazioni di sequestro e di descrizione, con il ricorso ed il provvedimento, deve essere notificato al terzo cui appartengono gli oggetti sui quali descrizione o sequestro sono stati eseguiti, entro quindici giorni dalla data di conclusione delle operazioni stesse a pena di inefficacia.
+
+## Art. 131. — Inibitoria
+
+Il titolare di un diritto di proprieta' industriale puo' chiedere che sia disposta l'inibitoria di qualsiasi violazione imminente del suo diritto e del proseguimento o della ripetizione delle violazioni in atto, ed in particolare puo' chiedere che siano disposti l'inibitoria della fabbricazione, del commercio e dell'uso delle cose costituenti violazione del diritto, e l'ordine di ritiro dal commercio delle medesime cose nei confronti di chi ne sia proprie-tario o ne abbia comunque la disponibilita', secondo le norme del codice di procedura civile concernenti i procedimenti cautelari.
+L'inibitoria e l'ordine di ritiro dal commercio possono essere chiesti, sugli stessi presupposti, contro ogni soggetto i cui servizi siano utilizzati per violare un diritto di proprieta' industriale.
+
+((COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131)).
+
+((COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131)).
+
+((COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131)).
+
+Pronunciando l'inibitoria, il giudice puo' fissare una somma dovuta per ogni violazione o inosservanza successivamente constatata e per ogni ritardo nell'esecuzione del provvedimento.
+
+## Art. 132. — (Anticipazione della tutela cautelare e rapporti tra il giudizio cautelare e il giudizio di merito)
+
+I provvedimenti di cui agli articoli 126, 128, 129, 131 e 133 possono essere concessi anche in corso di brevettazione o di registrazione, purche' la domanda sia stata resa accessibile al pubblico oppure nei confronti delle persone a cui la domanda sia stata notificata.
+
+Se il giudice nel rilasciare il provvedimento cautelare non stabilisce il termine entro cui le parti devono iniziare il giudizio di merito, quest'ultimo deve essere iniziato entro il termine di venti giorni lavorativi o di trentuno giorni di calendario qualora questi rappresentino un periodo piu' lungo. Il termine decorre dalla pronuncia dell'ordinanza se avvenuta in udienza o, altrimenti, dalla sua comunicazione. Se sono state chieste misure cautelari ulteriori alla descrizione unitamente o subordinatamente a quest'ultima, ai fini del computo del termine si fa riferimento all'ordinanza del giudice designato che si pronuncia anche su tali ulteriori misure.
+
+Se il giudizio di merito non e' iniziato nel termine perentorio di cui al comma 2, ovvero se successivamente al suo inizio si estingue, il provvedimento cautelare perde la sua efficacia.
+
+((Per i provvedimenti di urgenza emessi ai sensi dell'articolo 700 del codice di procedura civile e per gli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito, fatta salva la facolta' delle parti di iniziare il giudizio di merito, quando detto giudizio non e' iniziato nel termine perentorio di cui al comma 2, oppure se successivamente al suo inizio si estingue, i provvedimenti sono dichiarati inefficaci se, entro il termine perentorio di trenta giorni decorrenti dalla scadenza del termine previsto dallo stesso comma 2 o dall'estinzione del giudizio di merito, la parte destinataria presenta istanza per la declaratoria di inefficacia.))
+
+In tutti i procedimenti cautelari il giudice, ai fini dell'ottenimento di sommarie indicazioni tecniche, puo' disporre una consulenza tecnica.
+
+In tutti i procedimenti cautelari relativi all'acquisizione, all'utilizzazione o alla rivelazione illecite dei segreti commerciali di cui all'articolo 98, il giudice puo', su istanza di parte, in alternativa all'applicazione delle misure cautelari, autorizzare la parte interessata a continuare ad utilizzare i segreti commerciali prestando idonea cauzione per l'eventuale risarcimento dei danni subiti dal legittimo detentore. E' vietata la rivelazione a terzi dei segreti commerciali di cui e' autorizzata l'utilizzazione a norma del primo periodo.
+
+Nel provvedere sulle domande cautelari in materia di acquisizione, utilizzazione o rivelazione illecite dei segreti commerciali di cui all'articolo 98, il giudice considera le circostanze di cui all'articolo 124, comma 6-bis. Delle medesime circostanze il giudice tiene conto ai fini della valutazione di proporzionalita' delle misure.
+
+Fermo quanto previsto dal comma 4, se le misure cautelari adottate a tutela dei segreti commerciali di cui all'articolo 98 divengono inefficaci, ai sensi del comma 3, per mancato inizio del giudizio di merito nel termine perentorio di cui al comma 2 ovvero perdono efficacia a causa di un'azione o di un'omissione del ricorrente, ovvero se viene successivamente accertato che l'acquisizione, l'utilizzo o la rivelazione illeciti dei predetti segreti commerciali non sussisteva, il ricorrente e' tenuto a risarcire il danno cagionato dalle misure adottate.
+
+## Art. 133. — Tutela cautelare dei nomi a dominio
+
+L'Autorita' giudiziaria puo' disporre, in via cautelare, oltre all'inibitoria ((dell'uso nell'attivita' economica del nome a dominio)) illegittimamente registrato, anche il suo trasferimento provvisorio, subordinandolo, se ritenuto opportuno, alla prestazione di idonea cauzione da parte del beneficiario del provvedimento.
+
+## Art. 134. — (( (Norme in materia di competenza).
+
+ 1. Sono devoluti alla cognizione delle sezioni specializzate previste dal decreto legislativo 27 giugno 2003, n. 168:
+ a) i procedimenti giudiziari in materia di proprieta' industriale e di concorrenza sleale, con esclusione delle sole fattispecie che non interferiscono, neppure indirettamente, con l'esercizio dei diritti di proprieta' industriale, nonche' in materia di illeciti afferenti all'esercizio dei diritti di proprieta' industriale ai sensi della legge 10 ottobre 1990, n. 287, e degli articoli 81 e 82 del Trattato che istituisce la Comunita' europea, la cui cognizione e' del giudice ordinario, e in generale in materie che presentano ragioni di connessione, anche impropria, con quelle di competenza delle sezioni specializzate;
+ b) le controversie nelle materie disciplinate dagli articoli 64, 65, 98 e 99 del presente codice;
+ c) le controversie in materia di indennita' di espropriazione dei diritti di proprieta' industriale, di cui conosce il giudice ordinario;
+ d) le controversie che abbiano ad oggetto i provvedimenti del Consiglio dell'ordine di cui al capo VI di cui conosce il giudice ordinario))
+
+## Art. 135. — Commissione dei ricorsi
+
+Contro i provvedimenti dell'Ufficio italiano brevetti e marchi che respingono totalmente o parzialmente una domanda o istanza che rifiutano la trascrizione oppure che impediscono il riconoscimento di un diritto e negli altri casi previsti dal presente codice, e' ammesso ricorso alla Commissione dei ricorsi.
+
+La Commissione dei ricorsi, e' composta di un presidente, un presidente aggiunto e di otto membri scelti fra i magistrati di grado non inferiore a quello di consigliere d'appello, sentito il Consiglio superiore della magistratura, o tra i professori di materie giuridiche delle universita' o degli istituti superiori dello Stato.
+
+La Commissione si articola in due sezioni, presiedute dal presidente e dal presidente aggiunto. Il presidente, il presidente aggiunto ed i membri della Commissione sono nominati con decreto del Ministro dello sviluppo economico, durano in carica ((quattro anni)).
+L'incarico e' rinnovabile.
+
+Alla Commissione di cui al comma 2 possono essere aggregati tecnici scelti dal presidente tra i professori delle universita' e degli istituti superiori e tra i consulenti in proprieta' industriale, iscritti all'Ordine aventi una comprovata esperienza come consulenti tecnici d'ufficio, per riferire su singole questioni ad essa sottoposte. I tecnici aggregati non hanno voto deliberativo.
+
+La scelta dei componenti la Commissione anzidetta, nonche' dei tecnici, puo' cadere sia su funzionari in attivita' di servizio, sia su funzionari a riposo, ferme le categorie di funzionari entro le quali la scelta deve essere effettuata.
+
+La Commissione dei ricorsi e' assistita da una segreteria i cui componenti sono nominati con lo stesso decreto di costituzione della Commissione, o con decreto a parte. I componenti della segreteria debbono essere scelti fra i funzionari dell'Ufficio italiano brevetti e marchi ed il trattamento economico e' quello stabilito dalla vigente normativa legislativa, regolamentare o contrattuale.
+
+La Commissione dei ricorsi ha funzione consultiva del Ministero dello sviluppo economico nella materia della proprieta' industriale.
+Tale funzione viene esercitata su richiesta del Ministero dello sviluppo economico. Le sedute della Commissione in sede consultiva non sono valide se non sia presente la maggioranza assoluta dei suoi membri aventi voto deliberativo.
+
+I compensi per i componenti la Commissione, i componenti la segreteria della Commissione ed i tecnici aggregati alla Commissione, sono determinati con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze.
+
+## Art. 136. — (( (Presentazione dei ricorsi). ))
+
+((
+
+Il ricorso deve essere notificato, a pena di inammissibilita', all'Ufficio italiano brevetti e marchi e ad almeno uno dei controinteressati ai quali l'atto direttamente si riferisce entro il termine perentorio di sessanta giorni da quello in cui l'interessato abbia ricevuto la comunicazione o abbia avuto conoscenza dell'atto impugnato o, per gli atti per cui non sia richiesta la comunicazione individuale, dal giorno in cui sia scaduto il termine per la pubblicazione, se questa sia prevista da disposizioni di legge o di regolamento, salvo l'obbligo di integrazione con ulteriori notifiche agli altri controinteressati, ove ordinate dalla Commissione dei ricorsi.
+
+La notifica del ricorso e' fatta secondo le norme degli articoli 137 e seguenti del codice di procedura civile.
+
+L'indirizzo di posta elettronica certificata del difensore o della parte e' indicato nel ricorso o nel primo atto difensivo.
+
+L'indicazione dell'indirizzo di posta elettronica certificata valevole per le comunicazioni e le notificazioni equivale alla comunicazione del domicilio eletto.
+
+Il ricorso e' inammissibile se manca o e' assolutamente incerta una delle indicazioni di cui alle lettere a), b), c), d) e f) del comma 5.
+
+La parte resistente che, in sede amministrativa, sia rimasta parzialmente soccombente, puo' proporre, nel rispetto di quanto indicato dai commi 1, 2, 3, 4 e 5, ricorso incidentale avverso il provvedimento decisorio entro il termine di decadenza di trenta giorni decorrente dal deposito del ricorso principale.
+
+Si applica, per quanto compatibile, l'articolo 334 del codice di procedura civile.
+
+))
+
+## Art. 136-bis. — (( (Deposito del ricorso). ))
+
+((
+
+Il ricorrente, entro il termine perentorio di trenta giorni dall'ultima notifica del ricorso, deposita presso gli uffici di cui all'articolo 147, e secondo le modalita' ivi previste, o tramite invio alla segreteria della Commissione dei ricorsi presso l'Ufficio italiano brevetti e marchi, il ricorso con la prova delle avvenute notifiche, copia del provvedimento impugnato, ove in possesso del ricorrente, e i documenti di cui intende avvalersi in giudizio.
+
+Insieme al ricorso deve presentarsi la prova del pagamento del contributo unificato di cui all'articolo 9 del decreto del Presidente della Repubblica 30 maggio 2002, n. 115.
+
+All'originale del ricorso devono essere unite tante copie quanti sono i componenti della Commissione e le controparti, salva tuttavia la facolta' del Presidente della Commissione di richiedere agli interessati un numero maggiore di copie.
+
+La mancata produzione della copia del provvedimento impugnato e della documentazione a sostegno del ricorso non implica decadenza.
+
+In caso di mancato deposito dei documenti indicati nel ricorso, con decreto del Presidente della Commissione e' dato al ricorrente un termine perentorio, in ogni caso non superiore a sessanta giorni, per il deposito della documentazione di cui intende avvalersi.
+
+L'Ufficio italiano brevetti e marchi deve produrre, mediante inserimento in apposito fascicolo tenuto dalla segreteria della Commissione, l'eventuale provvedimento impugnato, nonche' gli atti ed i documenti in base ai quali l'atto e' stato emanato, quelli in esso citati e quelli che ritiene utili per il giudizio.
+
+Se il ricorso non e' stato notificato a una o piu' delle parti nei cui confronti la sentenza deve essere pronunciata, queste possono intervenire in giudizio, costituendosi in udienza.
+
+))
+
+## Art. 136-ter. — (( (Formazione del fascicolo del processo e comunicazioni alle parti). ))
+
+((
+
+La segreteria della Commissione iscrive il ricorso nel registro generale e forma il fascicolo d'ufficio del processo, inserendovi i fascicoli del ricorrente e delle altre parti, con gli atti ed i documenti prodotti, nonche', successivamente, gli originali dei verbali di udienza, delle ordinanze e dei decreti e copia delle sentenze.
+
+I fascicoli delle parti restano acquisiti al fascicolo d'ufficio e sono ad esse restituiti, su richiesta, al termine del processo.
+
+La segreteria sottopone al Presidente della Commissione il fascicolo del processo appena formato.
+
+Le comunicazioni sono effettuate mediante l'utilizzo della posta elettronica certificata, ai sensi del decreto legislativo 7 marzo 2005, n. 82.
+
+In caso di mancata indicazione dell'indirizzo di posta elettronica certificata ovvero di mancata consegna della comunicazione per cause imputabili al destinatario, le comunicazioni sono eseguite esclusivamente mediante deposito presso la segreteria della Commissione.
+
+))
+
+## Art. 136-quater. — (( (Esame preliminare del ricorso e provvedimenti presidenziali). ))
+
+((
+
+Il Presidente della Commissione esamina preliminarmente il ricorso e, quando e' manifestamente inammissibile, lo dichiara con decreto.
+
+Il Presidente, ove ne sussistano i presupposti, dichiara inoltre la sospensione, l'interruzione e l'estinzione del processo.
+
+I provvedimenti di cui ai commi 1 e 2 hanno forma di decreto e sono soggetti a reclamo innanzi alla Commissione. Il reclamo si propone con ricorso ed e' notificato alle altre parti nelle forme di cui all'articolo 136, entro il termine perentorio di trenta giorni dalla comunicazione del decreto da parte della segreteria.
+
+Il reclamante, nel termine perentorio di quindici giorni dall'ultima notificazione, deposita il ricorso notificato presso la segreteria della Commissione dei ricorsi.
+
+Nei quindici giorni successivi alla notifica del reclamo, le altre parti possono presentare memorie.
+
+Scaduti i termini, la Commissione decide immediatamente il reclamo in Camera di consiglio.
+
+La Commissione pronuncia sentenza se dichiara l'inammissibilita' del ricorso o l'estinzione del processo; negli altri casi pronuncia ordinanza non impugnabile nella quale sono dati i provvedimenti per la prosecuzione del processo.
+
+In qualunque momento il Presidente della Commissione, d'ufficio o su istanza di parte o su segnalazione dei membri della Commissione, dispone con decreto la riunione dei ricorsi che hanno lo stesso oggetto o sono fra loro connessi.
+
+Il collegio, se rileva che la riunione dei processi connessi ritarda o rende piu' gravosa la loro trattazione, puo', con ordinanza, disporne la separazione.
+
+Se non ritiene di adottare preliminarmente i provvedimenti di cui ai commi 1, 2 e 3, il Presidente fissa l'udienza per la trattazione della controversia e nomina il relatore. Nel caso in cui la controversia richieda la trattazione di questioni di natura tecnica, puo' nominare uno o piu' tecnici aggregati, ai sensi dell'articolo 135, comma 4.
+
+))
+
+## Art. 136-quinquies. — (Fase preliminare all'udienza di trattazione)
+
+La segreteria da' comunicazione alle parti costituite della data dell'udienza di trattazione almeno ((trenta giorni)) liberi prima della stessa.
+
+Uguale avviso deve essere dato quando la trattazione sia stata rinviata dal Presidente in caso di giustificato impedimento del relatore, che non possa essere sostituito, o di alcuna delle parti.
+
+Le parti possono depositare memorie e documenti fino a venti giorni liberi prima della data dell'udienza di trattazione.
+
+Fino a dieci giorni liberi prima della data di cui al comma 3 ciascuna delle parti puo' depositare memorie di replica.
+
+## Art. 136-sexies. — (( (Trattazione della controversia). ))
+
+((
+
+La Commissione giudica con l'intervento del Presidente e di due componenti. In caso di assenza o impedimento del Presidente titolare, la Commissione e' presieduta dal componente piu' anziano.
+
+Il relatore espone al collegio i fatti e le questioni della controversia.
+
+Se durante la discussione emergono fatti nuovi influenti sulla decisione, essi devono essere contestati alle parti.
+
+La Commissione, dopo che le parti si sono allontanate, delibera in Camera di consiglio.
+
+Dell'udienza e' redatto processo verbale dal segretario.
+
+Fermo restando l'onere della prova a carico delle parti, la Commissione puo' chiedere alle parti stesse, anche d'ufficio, chiarimenti.
+
+La Commissione ha facolta' di disporre i mezzi istruttori che ritenga opportuni ed ha altresi' facolta' di ordinare rinvio della decisione, o anche della discussione, ad altra seduta.
+
+Il Presidente, o il relatore da lui delegato, durante il corso dell'istruttoria, puo' inoltre sentire le parti per eventuali chiarimenti.
+
+))
+
+## Art. 136-septies. — (( (Deliberazioni del collegio giudicante). ))
+
+((
+
+Quando ricorrono giusti motivi, la deliberazione in Camera di consiglio puo' essere rinviata di non oltre trenta giorni.
+
+Alle deliberazioni del collegio si applicano le disposizioni di cui agli articoli 276 e 277 del codice di procedura civile. Non sono tuttavia ammesse sentenze non definitive o limitate solo ad alcune domande.
+
+Il relatore, o un altro membro della Commissione, e' incaricato di redigere la sentenza esponendo i motivi della decisione.
+
+La sentenza deve inoltre contenere la data della deliberazione ed e' sottoscritta dal Presidente e dall'estensore.
+
+La sentenza, se accoglie il ricorso, annulla l'atto in tutto o in parte e dispone i provvedimenti conseguenti.
+
+La sentenza e' resa pubblica, nel testo integrale originale, mediante deposito presso la segreteria della Commissione entro sessanta giorni dalla data della deliberazione. Il segretario fa risultare l'avvenuto deposito apponendo sulla sentenza la propria firma e la data.
+
+La sentenza e' notificata alle parti costituite, all'indirizzo di posta certificata di cui all'articolo 136, comma 3, a cura della segreteria, ed e' pubblicata nel Bollettino Ufficiale.
+
+Dalla data della notificazione della sentenza di cui al comma 8 decorrono i termini per le impugnazioni di cui all'articolo 136-terdecies.
+
+Qualora la parte costituita dimostri di non aver ricevuto, senza propria colpa, la notificazione della sentenza, ai sensi del comma 8, si applicano i termini di impugnazione di cui all'articolo 327, primo comma, del codice di procedura civile.
+
+Ciascuna parte puo' richiedere alla segreteria copie autentiche della sentenza, previa corresponsione delle spese.
+
+))
+
+## Art. 136-octies. — (( (Sospensione e interruzione del processo). ))
+
+((
+
+Il processo e' sospeso quando e' presentata querela di falso o deve essere decisa in via pregiudiziale una questione sullo stato o la capacita' delle persone, salvo che si tratti della capacita' di stare in giudizio.
+
+La Commissione dispone la sospensione del processo in ogni altro caso in cui essa stessa o altro giudice deve risolvere una controversia dalla cui definizione dipende la decisione della causa.
+
+L'interruzione si ha al momento dell'evento nei casi di cui al comma 3, lettera b). In ogni altro caso l'interruzione si ha al momento in cui l'evento e' dichiarato o in pubblica udienza o per iscritto con apposita comunicazione del difensore della parte a cui l'evento si riferisce.
+
+Se, durante la decorrenza del termine per la proposizione del ricorso di cui all'articolo 136, comma 1, si verifica uno degli eventi previsti al comma 3, lettera a), il termine e' prorogato di sei mesi dal giorno dell'evento.
+
+La sospensione e' disposta e l'interruzione e' dichiarata dal Presidente della Commissione con decreto o dalla Commissione con ordinanza.
+
+Avverso il decreto del Presidente e' ammesso reclamo ai sensi dell'articolo 136-quater.
+
+Durante la sospensione e l'interruzione non possono essere compiuti atti del processo.
+
+I termini in corso sono interrotti e ricominciano a decorrere dalla presentazione dell'istanza di cui al comma 11.
+
+Dopo che e' cessata la causa che ne ha determinato la sospensione, il processo prosegue se entro novanta giorni da tale data viene presentata da una delle parti istanza di trattazione al Presidente della Commissione, che provvede a norma dell'articolo 136-quater.
+
+Se entro novanta giorni da quando e' stata dichiarata l'interruzione del processo la parte colpita dall'evento o i suoi successori o qualsiasi altra parte presentano istanza di trattazione al Presidente della Commissione, quest'ultimo provvede a norma dell'articolo 136-quater.
+
+))
+
+## Art. 136-novies. — (( (Estinzione del processo). ))
+
+((1. Il processo si estingue per rinuncia al ricorso. 
+ 2. Il ricorrente che rinuncia deve rimborsare le spese alle altre parti, salvo diverso accordo fra loro. La liquidazione e' fatta dalla Commissione con ordinanza non impugnabile. 
+ 3. La rinuncia non produce effetto se non e' accettata dalle parti costituite che abbiano effettivo interesse alla prosecuzione del processo. 
+ 4. La rinuncia e l'accettazione, ove necessaria, sono sottoscritte dalle parti personalmente o da loro procuratori speciali, nonche' dai rispettivi difensori e si depositano nella segreteria della Commissione. La regolarita' dei predetti atti e' accertata dalla Commissione. 
+ 5. Il processo si estingue nei casi in cui le parti alle quali spetta di proseguire, riassumere o integrare il giudizio non vi abbiano provveduto entro il termine perentorio stabilito dalla legge o dalla Commissione, nei casi in cui dalla legge sia autorizzata a fissarlo. 
+ 6. L'estinzione del processo per inattivita' delle parti e' rilevata anche d'ufficio e rende inefficaci gli atti compiuti. 
+ 7. Il giudizio si estingue, in tutto o in parte, in caso di sopravvenuta carenza di interesse ad agire. 
+ 8. L'estinzione del giudizio, in ognuna delle ipotesi previste dal presente articolo, e' dichiarata con decreto del Presidente o con sentenza della Commissione. Il provvedimento presidenziale e' reclamabile a norma dell'articolo 136-quater.))
+
+## Art. 136-decies. — (( (Procedimento di correzione). ))
+
+((
+
+Ove occorra correggere omissioni o errori materiali, la Commissione puo' procedere d'ufficio o su istanza di parte e provvede con ordinanza in Camera di consiglio.
+
+La correzione si effettua a margine o in calce al provvedimento originale, con indicazione dell'ordinanza che l'ha disposta.
+
+))
+
+## Art. 136-undecies. — (( (Provvedimenti cautelari). ))
+
+((
+
+Se il ricorrente, allegando con istanza motivata un pregiudizio grave ed irreparabile, chiede l'emanazione di misure cautelari che appaiono, secondo le circostanze, idonee ad assicurare interinalmente gli effetti della decisione sul ricorso, la Commissione si pronuncia sull'istanza con ordinanza emessa in Camera di consiglio.
+
+Prima della trattazione della domanda cautelare, in caso di estrema gravita' e urgenza, tale da non consentire neppure la dilazione fino alla data della Camera di consiglio, il ricorrente puo', contestualmente alla domanda cautelare o con separata istanza notificata alle controparti, chiedere al Presidente della Commissione dei ricorsi di disporre misure cautelari provvisorie. Il Presidente provvede con decreto motivato, anche in assenza di contraddittorio.
+Il decreto e' efficace sino alla pronuncia del Collegio, a cui l'istanza cautelare e' sottoposta nella prima Camera di consiglio utile.
+
+In sede di decisione della domanda cautelare, la Commissione, accertata la completezza del contraddittorio e dell'istruttoria e, dove ne ricorrono i presupposti, sentite sul punto le parti costituite, puo' definire il giudizio nel merito.
+
+L'ordinanza cautelare non e' soggetta a reclamo. La domanda di revoca o modificazione delle misure cautelari concesse e la riproposizione della domanda cautelare respinta sono ammissibili solo se motivate con riferimento a fatti sopravvenuti.
+
+))
+
+## Art. 136-duodecies. — (( (Ottemperanza). ))
+
+((
+
+Nel caso in cui l'amministrazione non abbia prestato ottemperanza alle misure cautelari concesse, o abbia ottemperato solo parzialmente, la parte interessata puo', con istanza motivata e notificata alle altre parti, chiedere alla Commissione dei ricorsi le opportune disposizioni attuative. La Commissione dei ricorsi esercita i poteri inerenti al giudizio di ottemperanza al giudicato, di cui agli articoli 112 e seguenti del codice del processo amministrativo.
+
+La Commissione dispone l'esecuzione dell'ordinanza cautelare indicandone le modalita' e, ove occorra, il soggetto che deve provvedere.
+
+))
+
+## Art. 136-terdecies. — (( (Impugnazioni). ))
+
+((
+
+Avverso la sentenza della Commissione dei ricorsi puo' essere proposto ricorso per cassazione, entro il termine di cui all'articolo 325 del codice di procedura civile, per i motivi di cui ai numeri da 1 a 5 dell'articolo 360, primo comma, del codice di procedura civile.
+
+Si applica l'articolo 373 del codice di procedura civile.
+
+La sentenza della Commissione e' impugnabile per revocazione ai sensi dell'articolo 395 e seguenti del codice di procedura civile.
+
+Il termine per il ricorso per revocazione e' di trenta giorni dalla data della notificazione della sentenza, nei casi di cui ai numeri 4 e 5 dell'articolo 395 del codice di procedura civile, e di trenta giorni dalla data di conoscenza dell'evento, nei casi di cui ai numeri 1, 2, 3 e 6 dell'articolo 395 del codice di procedura civile.
+
+))
+
+## Art. 137. — Esecuzione forzata e sequestro dei titoli di proprieta' industriale
+
+I diritti patrimoniali di proprieta' industriale possono formare oggetto di esecuzione forzata.
+
+All'esecuzione si applicano le norme stabilite dal codice di procedura civile per l'esecuzione sui beni mobili.
+
+Il debitore, dalla data della notificazione, assume gli obblighi del sequestratario giudiziale del titolo di proprieta' industriale, anche per quanto riguarda gli eventuali frutti. I frutti, maturati dopo la data della notificazione, derivanti dalla concessione d'uso del diritto di proprieta' industriale, si cumulano con il ricavato della vendita, ai fini della successiva attribuzione.
+
+Si osservano, nei riguardi della notificazione dell'atto di pignoramento, le norme contenute nel codice di procedura civile per la notificazione delle citazioni. Se colui al quale l'atto di pignoramento deve essere notificato non abbia domicilio o residenza nello Stato, ne' abbia in questo eletto domicilio, la notificazione e' eseguita presso l'Ufficio italiano brevetti e marchi. In quest'ultimo caso, copia dell'atto e' affissa nell'Albo dell'Ufficio ed inserita nel Bollettino ufficiale.
+
+L'atto di pignoramento del diritto di proprieta' industriale deve essere trascritto, a pena di inefficacia, entro otto giorni dalla notifica. Avvenuta la trascrizione dell'atto di pignoramento del diritto di proprieta' industriale, e finche' il pignoramento stesso spiega effetto, i pignoramenti successivamente trascritti valgono come opposizione sul prezzo di vendita, quando siano notificati al creditore procedente.
+
+La vendita e l'aggiudicazione dei diritti di proprieta' industriale pignorati sono fatte con le corrispondenti norme stabilite dal codice di procedura civile in quanto applicabili, salve le disposizioni particolari del presente codice.
+
+La vendita del diritto di proprieta' industriale non puo' farsi se non siano trascorsi almeno trenta giorni dal pignoramento. Un termine di venti giorni deve decorrere, per la vendita, dal decreto di fissazione del giorno della vendita stessa. Il giudice, per la vendita e l'aggiudicazione dei diritti di proprieta' industriale, dispone le forme speciali che ritiene opportune nei singoli casi, provvedendo altresi' per l'annunzio della vendita al pubblico, anche in deroga alle norme del codice di procedura civile. All'uopo il giudice puo' stabilire che l'annunzio sia affisso nei locali della Camera di commercio ed in quelli dell'Ufficio italiano brevetti e marchi e pubblicato nel Bollettino dei diritti di proprieta' industriale.
+
+Il verbale di aggiudicazione deve contenere gli estremi del diritto di proprieta' industriale giuste le risultanze dei relativi titoli.
+
+Il creditore istante, nell'esecuzione forzata sui diritti di proprieta' industriale, deve notificare almeno dieci giorni prima della vendita, ai creditori titolari dei diritti di garanzia, trascritti, l'atto di pignoramento e il decreto di fissazione del giorno della vendita. Questi ultimi creditori devono depositare, nella cancelleria dell'autorita' giudiziaria competente, le loro domande di collocazione con i documenti giustificativi entro quindici giorni dalla vendita. Chiunque vi abbia interesse puo' esaminare dette domande e i documenti.
+
+Trascorso il termine di quindici giorni, previsto nel ((comma 10)), il giudice, su istanza di una delle parti, fissa l'udienza nella quale proporra' lo stato di graduazione e di ripartizione del prezzo ricavato dalla vendita e dagli eventuali frutti. Il giudice, nell'udienza, accertata l'osservanza delle disposizioni del comma 8, ove le parti non si siano accordate sulla distribuzione del ricavato dei frutti, procede alla graduazione fra i creditori ed ((alla distribuzione di tale ricavato)) dei frutti stessi, secondo le relative norme stabilite nel codice di procedura civile per l'esecuzione mobiliare. I crediti con mora, eventuali o condizionati, diventano esigibili secondo le norme del codice civile.
+
+L'aggiudicatario del diritto di proprieta' industriale ha diritto di ottenere che siano cancellate le trascrizioni dei diritti di garanzia sul titolo corrispondente, depositando, presso l'Ufficio italiano brevetti e marchi, copia del verbale di aggiudicazione e attestato del cancelliere dell'avvenuto versamento del prezzo di aggiudicazione, osservate le norme per la cancellazione delle trascrizioni.
+
+I diritti di proprieta' industriale, ancorche' in corso di concessione o di registrazione, possono essere oggetto di sequestro.
+Alla procedura del sequestro si applicano le disposizioni in materia di esecuzione forzata stabilite dal presente articolo ed altresi' quelle sul sequestro, stabilite dal codice di procedura civile.
+
+Le controversie in materia di esecuzione forzata e di sequestro dei diritti di proprieta' industriale si propongono davanti all'autorita' giudiziaria dello Stato competente a norma dell'articolo 120.
+
+## Art. 138. — Trascrizione
+
+La trascrizione e' soggetta al pagamento del diritto prescritto.
+
+Per ottenere la trascrizione, il richiedente deve presentare apposita nota di trascrizione, sotto forma di domanda, allegando copia autentica dell'atto pubblico ovvero l'originale o la copia autentica della scrittura privata autenticata ovvero qualsiasi altra documentazione prevista dall'articolo 196.
+
+L'Ufficio italiano brevetti e marchi, esaminata la regolarita' formale degli atti, procede, senza ritardo, alla trascrizione con la data di presentazione della domanda.
+
+L'ordine delle trascrizioni e' determinato dall'ordine di presentazione delle domande.
+
+Le omissioni o le inesattezze che non inducano incertezza assoluta sull'atto che si intende trascrivere o sul titolo di proprieta' industriale a cui l'atto si riferisce non comportano l'invalidita' della trascrizione.
+
+## Art. 139. — Effetti della trascrizione
+
+Gli atti e le sentenze, tranne i testamenti e gli altri atti e sentenze indicati alle lettere d), i) ed l) dell'articolo 138, finche' non siano trascritti, non hanno effetto di fronte ai terzi che a qualunque titolo hanno acquistato e legalmente conservato diritti sul titolo di proprieta' industriale.
+
+Nel conflitto di piu' acquirenti dello stesso diritto di proprieta' industriale dal medesimo titolare, e' preferito chi ha trascritto per primo il suo titolo di acquisto.
+
+La trascrizione del verbale di pignoramento, finche' dura la sua efficacia, sospende gli effetti delle trascrizioni ulteriori degli atti e delle sentenze anzidetti. Gli effetti di tali trascrizioni vengono meno dopo la trascrizione del verbale di aggiudicazione, purche' avvenga entro tre mesi dalla data della aggiudicazione stessa.
+
+I testamenti e gli atti che provano l'avvenuta legittima successione e le sentenze relative sono trascritti solo per stabilire la continuita' dei trasferimenti.
+
+Sono opponibili ai terzi gli atti che trasferiscono, in tutto o in parte, ovvero modificano i diritti inerenti ad una domanda o ad un brevetto europeo, a condizione che siano stati iscritti ((nel Registro europeo dei brevetti o, in mancanza, siano stati trascritti)) nel Registro italiano dei brevetti europei.
+
+## Art. 140. — Diritti di garanzia
+
+I diritti di garanzia sui titoli di proprieta' industriale devono essere costituiti per crediti di denaro.
+
+Nel concorso di piu' diritti di garanzia, il grado e' determinato dall'ordine delle trascrizioni.
+
+La cancellazione delle trascrizioni dei diritti di garanzia e' eseguita in seguito alla produzione dell'atto di consenso del creditore con sottoscrizione autenticata ovvero quando la cancellazione sia ordinata con sentenza passata in giudicato ovvero in seguito al soddisfacimento dei diritti assistiti da garanzia a seguito di esecuzione forzata.
+
+Per la cancellazione e' dovuto lo stesso diritto prescritto per la trascrizione.
+
+## Art. 141. — Espropriazione
+
+Con esclusione dei diritti sui marchi, i diritti di proprieta' industriale, ancorche' in corso di registrazione o di brevettazione, possono essere espropriati dallo Stato nell'interesse della difesa militare del Paese o per altre ragioni di pubblica utilita'.
+
+L'espropriazione puo' essere limitata al diritto di uso per i bisogni dello Stato, fatte salve le previsioni in materia di licenze obbligatorie in quanto compatibili.
+
+Con l'espropriazione anzidetta, quando sia effettuata nell'interesse della difesa militare del Paese e riguardi titoli di proprieta' industriale di titolari italiani, e' trasferito all'amministrazione espropriante anche il diritto di chiedere titoli di proprieta' industriale all'estero.
+
+## Art. 142. — Decreto di espropriazione
+
+L'espropriazione viene disposta per decreto del Presidente della Repubblica, su proposta del Ministro competente, di concerto con i Ministri delle attivita' produttive e dell'economia e delle finanze, sentito il Consiglio dei ministri, se il provvedimento interessa la difesa militare del Paese o, negli altri casi, la Commissione dei ricorsi.
+
+Il decreto di espropriazione nell'interesse della difesa militare del Paese, quando viene emanato prima della stampa dell'attestato di brevettazione o di registrazione, puo' contenere l'obbligo e stabilire la durata del segreto sull'oggetto del titolo di proprieta' industriale.
+
+La violazione del segreto e' punita ai sensi dell'articolo 262 del codice penale.
+
+Nel decreto di espropriazione e' fissata l'indennita' spettante al titolare del diritto di proprieta' industriale, determinata sulla base del valore di mercato di esso, sentita la Commissione dei ricorsi.
+
+((
+
+La tutela giurisdizionale davanti al giudice amministrativo e' disciplinata dal codice del processo amministrativo.
+
+))
+
+## Art. 143. — Indennita' di espropriazione
+
+Ove il titolare del diritto espropriato non accetti l'indennita' fissata ai sensi dell'articolo 142 ed in mancanza di accordo fra il titolare e l'amministrazione procedente, l'indennita' e' determinata da un collegio di arbitratori.
+
+All'inventore o all'autore, il quale provi di avere perduto il diritto di priorita' all'estero per il ritardo della decisione negativa del Ministero in merito all'espropriazione, e' concesso un equo indennizzo, osservate le norme relative all'indennita' di espropriazione.
+
+I decreti di espropriazione devono essere annotati nel Registro dei titoli di proprieta' industriale a cura dell'Ufficio italiano brevetti e marchi.
+
+## - - Sezione II Misure contro la pirateria
+
+## Art. 144.
+
+Atti di pirateria ((e pratiche di Italian Sounding))
+
+Agli effetti delle norme contenute nella presente sezione sono atti di pirateria le contraffazioni evidenti dei marchi, disegni e modelli registrati e le violazioni di altrui diritti di proprieta' industriale realizzate dolosamente in modo sistematico.
+
+((
+
+Agli effetti delle norme contenute nella presente sezione sono pratiche di Italian Sounding le pratiche finalizzate alla falsa evocazione dell'origine italiana di prodotti
+
+))
+
+## Art. 144-bis. — (( (Sequestro conservativo) ))
+
+((
+
+Quando la parte lesa faccia valere l'esistenza di circostanze atte a pregiudicare il soddisfacimento del risarcimento del danno, l'autorita' giudiziaria puo' disporre, ai sensi dell'articolo 671 del codice di procedura civile, il sequestro conservativo dei beni mobili ed immobili del preteso autore della violazione, compreso il blocco dei suoi conti bancari e di altri beni fino alla concorrenza del presumibile ammontare del danno. A tale fine l'autorita' giudiziaria puo' disporre la comunicazione della documentazione bancaria, finanziaria o commerciale oppure autorizzare l'accesso alle pertinenti informazioni.
+
+))
+
+## Art. 145. — ((Consiglio nazionale per la lotta alla contraffazione e all'Italian Sounding))
+
+Presso il Ministero dello sviluppo economico e' istituito il ((Consiglio nazionale per la lotta alla contraffazione e all'Italian Sounding)), con funzioni di indirizzo, impulso e coordinamento delle azioni strategiche intraprese da ogni amministrazione, al fine di migliorare l'insieme dell'azione di contrasto della contraffazione a livello nazionale ((e della falsa evocazione dell'origine italiana)).
+
+Il ((Consiglio nazionale per la lotta alla contraffazione e all'Italian Sounding)) e' presieduto dal Ministro dello sviluppo economico o da un rappresentante da lui designato. Al fine di garantire la rappresentanza degli interessi pubblici e privati e assicurare le necessarie sinergie tra amministrazione pubblica e imprese, il Consiglio e' composto da un rappresentante del Ministero dello sviluppo economico, da un rappresentante del Ministero dell'economia e delle finanze, da un rappresentante del Ministero degli affari esteri, da un rappresentante del Ministero della difesa, da un rappresentante del Ministero delle politiche agricole alimentari e forestali, da un rappresentante del Ministero dell'interno, da un rappresentante del Ministero della giustizia, da un rappresentante del Ministero per i beni e le attivita' culturali, da un rappresentante del Ministero del lavoro e delle politiche sociali, da un rappresentante del Ministero della salute, e da un rappresentante del Dipartimento della funzione pubblica ((, da un rappresentante del Ministero dell'istruzione, dell'universita' e della ricerca,)) e da un rappresentante designato dall'ANCI. Il Consiglio puo' invitare a partecipare ai propri lavori, in ragione dei temi trattati, rappresentanti di altre amministrazioni pubbliche nonche' delle categorie di imprese, lavoratori e consumatori.
+
+Le modalita' di funzionamento del ((Consiglio nazionale per la lotta alla contraffazione e all'Italian Sounding)) sono definite con decreto del Ministro dello sviluppo economico, di concerto con i Ministri dell'economia e delle finanze, degli affari esteri, della difesa, delle politiche agricole alimentari e forestali, dell'interno, della giustizia, per i beni e le attivita' culturali, del lavoro e delle politiche sociali e della salute. Le attivita' di segreteria sono svolte dalla Direzione generale per la lotta alla contraffazione - Ufficio italiano brevetti e marchi.
+
+La partecipazione al ((Consiglio nazionale per la lotta alla contraffazione e all'Italian Sounding)) non da' luogo alla corresponsione di compensi, emolumenti, indennita' o rimborsi spese.
+All'attuazione dei commi 1, 2 e 3 si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+
+## Art. 146. — Interventi contro la pirateria
+
+Qualora ne abbia notizia, il Ministero delle attivita' produttive segnala alla Procura della Repubblica, competente per territorio, per le iniziative di sua competenza, i casi di pirateria.
+
+Fatta salva la repressione dei reati e l'applicazione della normativa nazionale e comunitaria vigente in materia, di competenza dell'autorita' doganale, il Ministero delle attivita' produttive, per il tramite del Prefetto della provincia interessata e i sindaci, limitatamente al territorio comunale, possono disporre anche d'ufficio, il sequestro amministrativo della merce contraffatta e, decorsi tre mesi, previa autorizzazione dell'autorita' giudiziaria di cui al comma 3, procedere alla sua distruzione, a spese del contravventore. E' fatta salva la facolta' di conservare i campioni da utilizzare a fini giudiziari.
+
+Competente ad autorizzare la distruzione e' il presidente della sezione specializzata di cui all'articolo 120, nel cui territorio e' compiuto l'atto di pirateria, su richiesta dell'amministrazione statale o comunale che ha disposto il sequestro.
+
+L'opposizione avverso il provvedimento di distruzione di cui al comma 2 e' proposta ((davanti alla sezione specializzata del Tribunale competente per territorio)) nelle forme di cui agli articoli 22 e 23 della legge 24 novembre 1981, n. 689, e successive modificazioni. Il termine per ricorrere decorre dalla data di notificazione del provvedimento o da quella della sua pubblicazione, per estratto, nella Gazzetta Ufficiale della Repubblica italiana.
+
+## - - Capo IV ACQUISTO E MANTENIMENTO DEI DIRITTI DI PROPRIETA' INDUSTRIALE E RELATIVE PROCEDURE Sezione I Domande in generale
+
+## Art. 147. — Deposito delle domande e delle istanze
+
+Tutte le domande, le istanze, gli atti, i documenti e i ricorsi notificati menzionati nel presente codice, ad eccezione di quanto previsto da convenzioni ed accordi internazionali, sono depositati, presso l'Ufficio italiano brevetti e marchi, presso le Camere di commercio, industria e artigianato e presso gli uffici o enti pubblici determinati con decreto del Ministro dello sviluppo economico. Con decreto dello stesso Ministro, con rispetto delle previsioni contenute nel decreto legislativo 7 marzo 2005, n. 82, sono determinate le modalita' di deposito, quivi comprese quelle da attuare mediante ricorso ad altri mezzi di comunicazione. Gli uffici o enti anzidetti, all'atto del ricevimento rilasciano l'attestazione dell'avvenuto deposito ((, conservano gli atti e i documenti originali ricevuti e li trasmettono all'Ufficio italiano brevetti e marchi soltanto su apposita richiesta dello stesso, ad eccezione delle sole domande di brevetto per invenzione o modello di utilita', per le quali la trasmissione d'ufficio e' sempre effettuata nelle forme indicate nel decreto di cui al secondo periodo. La richiesta di trasmissione degli atti e dei documenti originali puo' essere effettuata dall'Ufficio italiano brevetti e marchi, per le domande di disegno e modello industriale, entro tre anni dal deposito delle stesse e, per tutti gli altri atti, entro un anno dal deposito)).
+
+Gli uffici o enti abilitati a ricevere i depositi sono tenuti ad adottare le misure necessarie per assicurare l'osservanza del segreto d'ufficio.
+
+((2-bis. L'accesso al sistema di deposito telematico dell'Ufficio italiano brevetti e marchi e il suo utilizzo sono consentiti a condizione che sia accertata l'identita' digitale dell'utente e tale requisito consente di non apporre la firma digitale nei documenti oggetto di deposito))
+
+Non possono, ne' direttamente, ne' per interposta persona, chiedere brevetti per invenzioni industriali o divenire cessionari gli impiegati addetti all'Ufficio italiano brevetti e marchi, se non dopo due anni da quando abbiano cessato di appartenere al loro ufficio.
+
+In ciascuna domanda il richiedente deve indicare o eleggere domicilio in uno Stato membro dell'Unione europea o dello Spazio economico europeo per ricevervi tutte le comunicazioni e notificazioni da farsi a norma del presente codice. Qualora il richiedente si avvalga delle prestazioni di un mandatario, si applicano le disposizioni dell'articolo 201.
+
+Salvo quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e successive modificazioni, nei casi in cui le disposizioni del presente codice prevedono l'obbligo di indicare o eleggere domicilio, le imprese, i professionisti o i loro mandatari, se vi siano, devono anche indicare il proprio indirizzo di posta elettronica certificata o analogo indirizzo di posta elettronica basato su tecnologie che certifichino la data e l'ora dell'invio e della ricezione delle comunicazioni e l'integrita' del contenuto delle stesse, garantendo l'interoperabilita' con analoghi sistemi internazionali. Gli oneri delle comunicazioni a cui l'Ufficio italiano brevetti e marchi e' tenuto a norma del presente codice sono a carico dell'interessato, anche se persona fisica, qualora sia stata omessa l'indicazione dell'indirizzo di posta elettronica certificata o di analoga modalita' di comunicazione.
+
+Ove manchi l'indicazione o l'elezione del domicilio ai sensi dei commi 3-bis e 3-ter, nonche' in tutti gli altri casi di irreperibilita', le comunicazioni e le notificazioni sono eseguite mediante affissione di copia dell'atto o di avviso del contenuto di esso nell'albo dell'Ufficio italiano brevetti e marchi.
+
+Nei casi previsti al comma 3-quater, la comunicazione si ha per eseguita lo stesso giorno in cui e' stata effettuata l'affissione nell'Albo.
+
+## Art. 148. — Ricevibilita' ed integrazione delle domande e data di deposito
+
+((
+
+))
+
+((1-bis. L'irricevibilita', salvo quanto stabilito nel comma 3, e' dichiarata dall'Ufficio italiano brevetti e marchi))
+
+Se il richiedente ottempera all'invito dell'ufficio entro il termine di cui al comma 2 o provvede spontaneamente alla relativa integrazione, l'Ufficio riconosce quale data del deposito, da valere a tutti gli effetti, quella di ricevimento della integrazione richiesta e ne da' comunicazione al richiedente. Se il richiedente non ottempera all'invito dell'ufficio entro il termine di cui al comma 2, salvo il caso in cui, entro tale termine, abbia fatto espressa rinuncia alla parte della descrizione o disegno mancanti di cui al comma 2, lettera a), l'Ufficio dichiara l'irricevibilita' della domanda ai sensi del comma 1.
+
+Se tuttavia l'integrazione concerne solo la prova dell'avvenuto pagamento dei diritti nel termine prescritto ovvero l'indicazione del domicilio o del mandatario e tale prova o indicazione e' consegnata entro il termine di cui al comma 2, l'Ufficio ((, salvo quanto stabilito dal comma 4-bis per le domande di brevetto per invenzione o modello di utilita',)) riconosce quple data di deposito quella del ricevimento della domanda.
+
+((4-bis. Per la domanda di brevetto per invenzione o modello di utilita', il pagamento dei diritti di deposito e' effettuato improrogabilmente entro un mese dalla data di presentazione della domanda stessa. In tal caso, ai fini del riconoscimento della priorita', e' ritenuta valida la data di presentazione))
+
+Tutte le domande, le istanze ed i ricorsi di cui all'articolo 147, con gli atti allegati, devono essere redatti in lingua italiana.
+Degli atti in lingua diversa dall'italiana, deve essere fornita la traduzione in lingua italiana. La traduzione puo' essere dichiarata conforme al testo originale dal richiedente o da un mandatario abilitato. Se la descrizione e' presentata in lingua diversa da quella italiana, la traduzione in lingua italiana deve essere depositata entro il termine fissato dall'Ufficio.
+
+L'Ufficio, su istanza, rilascia copia o copia autentica dei documenti o dei riferimenti prodotti all'atto del deposito. La traduzione italiana, ove presentata successivamente, viene allegata su richiesta.
+
+## Art. 149. — Deposito delle domande di brevetto europeo
+
+Le domande di brevetto europeo possono essere depositate presso l'Ufficio italiano brevetti e marchi secondo le modalita' previste dal regolamento di attuazione.
+
+Si applicano le disposizioni dell'articolo 198, commi 1 e 2. Ai fini dell'applicazione di tali disposizioni, la domanda deve essere corredata da ((un riassunto in lingua italiana che definisca in modo esauriente le caratteristiche dell'invenzione, nonche' da una copia degli eventuali disegni)), nonche' degli eventuali disegni.
+
+L'Ufficio italiano brevetti e marchi informa immediatamente l'Ufficio europeo dei brevetti dell'avvenuto deposito della domanda.
+
+## Art. 150. — Trasmissione della domanda di brevetto europeo
+
+Le domande di brevetto europeo il cui oggetto, ad avviso del servizio militare brevetti del Ministero della difesa, e' manifestamente non suscettibile di essere vincolato al segreto per motivi di difesa militare, sono trasmesse, a cura dell'Ufficio italiano brevetti e marchi, all'Ufficio europeo dei brevetti nel piu' breve termine possibile e, comunque, entro sei settimane dalla data del loro deposito.
+
+Nel caso in cui le domande di brevetto europeo si considerano ritirate a norma dell'articolo 77, paragrafo 5, della Convenzione sul brevetto europeo, il richiedente, entro tre mesi dalla data di ricezione della comunicazione, ha facolta' di chiedere la trasformazione della domanda in domanda di brevetto italiano per invenzione industriale.
+
+Fatte salve le disposizioni a tutela del segreto sulle invenzioni interessanti la difesa militare del Paese, l'Ufficio italiano brevetti e marchi qualora non siano ancora trascorsi venti mesi dalla data di deposito o di priorita', trasmette copia della richiesta di trasformazione di cui al comma 2 ai servizi centrali degli altri Stati indicati nella richiesta medesima, allegando una copia della domanda di brevetto europeo prodotta dall'istante.
+
+## Art. 151. — Deposito della domanda internazionale
+
+Le persone fisiche e giuridiche italiane e quelle che abbiano il domicilio o la sede in Italia possono depositare le domande internazionali per la protezione delle invenzioni presso l'Ufficio italiano brevetti e marchi, il quale agisce in qualita' di ufficio ricevente ai sensi dell'articolo 10 del Trattato di cooperazione in materia di brevetti del 19 giugno 1970, ratificato con legge 26 maggio 1978, n. 260.
+
+La domanda puo' essere presentata presso l'Ufficio italiano brevetti e marchi secondo quanto previsto dal regolamento di attuazione; la data di deposito della domanda viene determinata a norma dell'articolo 11 del Trattato di cooperazione in materia di brevetti.
+
+La domanda internazionale puo' essere depositata anche presso l'Ufficio europeo dei brevetti, nella sua qualita' di ufficio ricevente, ai sensi dell'articolo 151 della Convenzione sul brevetto europeo del 5 ottobre 1973, ratificata con legge 26 maggio 1978, n. 260, e presso l'Organizzazione mondiale della proprieta' intellettuale di Ginevra quale ufficio ricevente, osservate le disposizioni dell'articolo 198, commi 1 e 2.
+
+## Art. 152. — Requisiti della domanda internazionale
+
+La domanda internazionale deve essere conforme alle disposizioni del Trattato di cooperazione in materia di brevetti del 19 giugno 1970, ratificato con legge 26 maggio 1978, n. 260, e del suo regolamento di esecuzione.
+
+Ai soli fini dell'applicazione dell'articolo 198, commi 1 e 2, la domanda deve essere corredata da ((un riassunto in lingua italiana che definisca in modo esauriente le caratteristiche dell'invenzione, nonche' da una copia degli eventuali disegni)), nonche' degli eventuali disegni.
+
+La domanda internazionale e ciascuno dei documenti allegati, ad eccezione di quelli comprovanti il pagamento delle tasse, devono essere depositati in un originale e due copie. Le copie mancanti sono approntate dall'Ufficio italiano brevetti e marchi a spese del richiedente.
+
+## Art. 153. — Segretezza della domanda internazionale
+
+L'Ufficio italiano brevetti e marchi, salvo consenso del richiedente, rende accessibile al pubblico la domanda solo dopo che abbia avuto luogo la pubblicazione internazionale o sia pervenuta all'ufficio designato la comunicazione di cui all'articolo 20 del Trattato di cooperazione in materia di brevetti del 19 giugno 1970, ratificato con legge 26 maggio 1978, n. 260, o la copia di cui all'articolo 22 del medesimo Trattato o, comunque, decorsi venti mesi dalla data di priorita'.
+
+L'Ufficio italiano brevetti e marchi puo' dare comunicazione di essere stato designato, rivelando unicamente il nome del richiedente, il titolo dell'invenzione, la data del deposito e il numero della domanda internazionale.
+
+## Art. 154. — Trasmissione della domanda internazionale
+
+L'Ufficio italiano brevetti e marchi trasmette all'Ufficio internazionale e all'amministrazione che viene incaricata della ricerca la domanda internazionale entro i termini previsti dalle regole 22 e 23 del regolamento di esecuzione del Trattato di cooperazione in materia di brevetti.
+
+Se quindici giorni prima della data di scadenza del termine per la trasmissione dell'esemplare originale della domanda internazionale, fissato dalla regola 22 del regolamento di esecuzione del Trattato di cooperazione in materia di brevetti, e' pervenuta dal Ministero della difesa l'imposizione del vincolo del segreto, l'Ufficio ne da' comunicazione al richiedente, diffidandolo ad osservare l'obbligo del segreto.
+
+Entro novanta giorni dalla data di comunicazione di cui al comma 2, puo' essere chiesta la trasformazione della domanda internazionale in una domanda nazionale che assume la stessa data di quella internazionale; se la trasformazione non viene richiesta, la domanda si intende ritirata.
+
+## Art. 155. — (( (Deposito di domande internazionali di disegni e modelli). ))
+
+((
+
+Le persone fisiche e giuridiche italiane o quelle che abbiano il domicilio o una effettiva organizzazione in Italia possono depositare le domande internazionali per la protezione dei disegni o modelli direttamente presso l'Ufficio internazionale oppure presso l'Ufficio italiano brevetti e marchi, ai sensi dell'articolo 4, paragrafo 1, dell'Atto di Ginevra dell'Accordo dell'Aja concernente la registrazione internazionale dei disegni e modelli industriali, fatto a Ginevra il 2 luglio 1999, di seguito denominato «Accordo del 1999».
+
+La domanda presso l'Ufficio italiano brevetti e marchi puo' anche essere inviata in plico raccomandato con avviso di ricevimento.
+
+La data di deposito della domanda e' quella dell'articolo 9, paragrafi 1 e 2, dell'Accordo del 1999. Se la domanda internazionale e' presentata indirettamente ai sensi dell'articolo 9, paragrafo 2, dell'Accordo del 1999, la data di tale deposito presso l'Ufficio italiano brevetti e marchi vale come data di deposito presso l'Ufficio internazionale a condizione che la domanda internazionale sia ricevuta dall'Ufficio internazionale entro un mese dalla data di deposito presso l'Ufficio italiano brevetti e marchi.
+
+La domanda internazionale deve essere conforme alle disposizioni dell'Accordo del 1999 e del relativo regolamento di esecuzione, oltre che alle istruzioni amministrative emanate dall'Ufficio internazionale, ed essere redatta in lingua francese o inglese su formulari predisposti dall'Ufficio internazionale.
+
+5. La domanda internazionale designante l'Italia deve contenere gli elementi indicati al paragrafo 1 dell'articolo 5 dell'Accordo del 1999 e puo' contenere gli elementi indicati al paragrafo 3 del medesimo articolo 5))
+
+## Art. 156. — Domanda di registrazione di marchio
+
+Quando vi sia mandatario, alla domanda deve essere unito l'atto di nomina ai sensi dell'articolo 201.
+
+## Art. 157.
+
+Domanda di registrazione di marchio collettivo ((o di certificazione))
+
+Alla domanda di registrazione per marchio collettivo ((o di certificazione))
+                                ((e' allegata)) oltre ai documenti di cui all'articolo 156, commi 1 e 2, anche copia dei regolamenti di cui all'articolo 11 ((e all'articolo 11-bis)).
+
+((
+
+))
+
+## Art. 158. — Divisione della domanda di registrazione di marchio
+
+Ogni domanda deve aver per oggetto un solo marchio.
+
+Se la domanda riguarda piu' marchi, l'Ufficio italiano brevetti e marchi invitera' l'interessato, assegnandogli un termine, a limitare la domanda ad un solo marchio, con facolta' di presentare, per i rimanenti marchi, altrettante domande, che avranno effetto dalla data della domanda primitiva.
+
+Le domande parziali conservano la data di deposito della domanda iniziale e, se del caso, il beneficio del diritto di priorita'.
+ 5 Il ricorso alla Commissione dei ricorsi sospende il termine assegnato dall'ufficio.
+
+## Art. 159. — Domanda di rinnovazione di marchio
+
+La domanda di rinnovazione di marchio di impresa deve essere fatta dal titolare o dal suo avente causa.
+
+COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131.
+
+Quando vi sia mandatario, alla domanda deve essere unito l'atto di nomina ai sensi dell'articolo 201.
+
+Per i marchi registrati sulla base di una domanda di trasformazione di una domanda di marchio ((dell'Unione europea)) o di un marchio ((dell'Unione europea)), presentata ai sensi del regolamento (CE) n. 40/94 del Consiglio, del 20 dicembre 1993, sul marchio ((dell'Unione europea)) e successive modificazioni, ovvero sulla base di una domanda di trasformazione di una registrazione internazionale, presentata ai sensi dell'articolo 9-quinquies del Protocollo relativo all'Accordo di Madrid sulla registrazione internazionale dei marchi del 27 giugno 1989, ratificato con legge 12 marzo 1996, n. 169, gli effetti della prima registrazione, ai fini della rinnovazione, decorrono rispettivamente dalla data di deposito della domanda di marchio ((dell'Unione europea)) o dalla data di registrazione internazionale.
+
+COMMA ABROGATO DAL D.LGS. 13 AGOSTO 2010, N. 131.
+
+Se la domanda di rinnovazione o le tasse pagate si riferiscono soltanto ad una parte dei prodotti o dei servizi per i quali il marchio e' stato registrato, la registrazione viene rinnovata soltanto per i prodotti o i servizi di cui trattasi.
+
+## Art. 160. — Domanda di brevetto per invenzione e per modello di utilita'
+
+Una medesima domanda non puo' contenere la richiesta di piu' brevetti, ne' di un solo brevetto per piu' invenzioni o modelli.
+
+Alla domanda devono essere uniti:
+ ((a) la descrizione e le rivendicazioni di cui all'articolo 51;))
+ b) i disegni dell'invenzione, ove sia possibile;
+ c) la designazione dell'inventore;
+ d) quando vi sia mandatario, anche l'atto di nomina ai sensi dell'articolo 201;
+ e) in caso di rivendicazione di priorita' i documenti relativi.
+
+((
+
+La descrizione dell'invenzione o del modello deve iniziare con un riassunto che ha solo fini di informazione tecnica e deve essere seguita da una o piu' rivendicazioni. Queste ultime devono essere presentate, ove non siano state accluse alla descrizione al momento del deposito, entro il termine di due mesi dalla data della domanda.
+In tale caso resta ferma la data di deposito gia' riconosciuta.
+
+))
+
+## Art. 160-bis. — (( (Procedura nazionale della domanda internazionale). ))
+
+((
+
+Alla richiesta di cui al comma 1 si applicano le norme del presente codice, dei regolamenti attuativi e dei decreti sul pagamento dei diritti, in particolare in relazione alla ricevibilita' e integrazione delle domande, alla data attribuita alla domanda, alla presentazione di ulteriori documenti e traduzioni che potranno essere richiesti al fine delle procedure di esame e del mantenimento in vita dei titoli.
+
+Per la richiesta di brevetto italiano per invenzione industriale basata su una domanda internazionale ai sensi del comma 1 dell'articolo 55 la ricerca di anteriorita' effettuata nella fase internazionale sostituisce la corrispondente ricerca prevista per la domanda nazionale, ferme restando le altre norme sull'esame previste dal presente codice.
+
+))
+
+## Art. 161. — Unicita' dell'invenzione e divisione della domanda
+
+Ogni domanda deve avere per oggetto una sola invenzione.
+
+Se la domanda comprende piu' invenzioni, l'Ufficio italiano brevetti e marchi invitera' l'interessato, assegnandogli un termine, a limitare tale domanda ad una sola invenzione, con facolta' di presentare, per le rimanenti invenzioni, altrettante domande, che avranno effetto dalla data della domanda primitiva. ((Tale facolta' puo' essere esercitata dal richiedente, anche in mancanza dell'invito dell' Ufficio italiano brevetti e marchi, prima che quest'ultimo abbia provveduto alla concessione del brevetto.))
+
+Il ricorso alla Commissione dei ricorsi sospende il termine assegnato dall'Ufficio.
+
+## Art. 162. — (( (Deposito, accesso e nuovo deposito di materiale biologico) ))
+
+((
+
+Le indicazioni di cui al comma 1, lettera c), possono essere comunicate entro un termine di 16 mesi a decorrere dalla data di deposito della domanda o precedentemente nel caso di anticipata accessibilita' al pubblico o notifica a terzi ai sensi dell'articolo 53, commi 3 e 4.
+
+L'esperto designato e' responsabile solidalmente per gli abusi commessi dal richiedente.
+
+Se il materiale biologico depositato ai sensi del presente articolo non e' piu' disponibile presso l'ente di deposito riconosciuto, e' consentito un nuovo deposito del materiale alle stesse condizioni previste dal Trattato di Budapest.
+
+Ogni nuovo deposito deve essere accompagnato da una dichiarazione firmata dal depositante attestante che il materiale biologico che e' oggetto del nuovo deposito e' identico a quello oggetto del deposito iniziale.
+
+))
+
+## Art. 163. — Domanda di certificato complementare per i medicinali e per i prodotti fitosanitari
+
+La domanda di certificato deve essere depositata presso l'Ufficio italiano brevetti e marchi con riferimento alla autorizzazione di immissione in commercio del prodotto.
+
+((
+
+Fatto salvo il periodo transitorio di cui all'articolo 83 dell'Accordo su un tribunale unificato dei brevetti, ratificato e reso esecutivo ai sensi della legge 3 novembre 2016, n. 214, i diritti conferiti da un certificato complementare di protezione basato su un brevetto europeo di cui all'articolo 56 sono quelli previsti dall'articolo 30 dell'Accordo medesimo.
+
+))
+
+## Art. 164. — Domanda di privativa per varieta' vegetale
+
+I documenti indicati ((al comma 2, lettere d), ed e),)) possono essere depositati successivamente, ma non oltre il termine di sei mesi dal deposito della domanda. I documenti indicati al ((comma 2, lettera c),)) possono essere presentate successivamente ma non oltre la data d'inizio delle prove di coltivazione della varieta'.
+
+La varieta' e' descritta in modo da mettere chiaramente in evidenza in quale maniera essa e' stata ottenuta e quali sono i caratteri di natura morfologica o fisiologica che la differenziano da altre varieta' similari conosciute.
+
+Nella descrizione e' indicata anche la denominazione proposta dal costitutore.
+
+Se trattasi di varieta' essenzialmente derivata ai sensi del comma 4 dell'articolo 107, e' indicata la varieta' iniziale. Se trattasi di varieta' geneticamente modificata sono indicati l'origine e la natura della modifica genetica.
+
+## Art. 165. — Dichiarazione del costitutore
+
+## Art. 166. — Domanda di denominazione varietale
+
+## Art. 167. — Domanda di registrazione di disegni e modelli
+
+## Art. 168. — Domanda di registrazione delle topografie
+
+Ogni domanda deve avere per oggetto una sola topografia di un prodotto a semiconduttori e, qualora indichi una data di primo sfruttamento commerciale, corrispondere alla topografia esistente in detta data.
+
+E' consentita l'utilizzazione di termini tecnici stranieri divenuti di uso corrente nel settore specifico.
+
+## Art. 169. — Rivendicazione di priorita'
+
+Quando si rivendichi la priorita' di un deposito ai sensi dell'articolo 4 si deve unire copia della domanda prioritaria da cui si rilevino il nome del richiedente, l'entita' e l'estensione del diritto di proprieta' industriale e la data in cui il deposito e' avvenuto ((, oppure indicare, in alternativa, un codice univoco, identificativo della stessa domanda, fornito dall'ente che detiene il fascicolo, che consenta all'Ufficio italiano brevetti e marchi di acquisire il fascicolo stesso)).
+
+Se il deposito e' stato eseguito da altri, il richiedente deve anche dare la prova di essere successore o avente causa del primo depositante. Il documento di cessione del diritto di priorita' puo' consistere in una dichiarazione di cessione o avvenuta cessione ai sensi dell'articolo 196, comma 1, lettera a).
+
+Quando all'estero siano state depositate separate domande, in date diverse, per le varie parti di uno stesso marchio e di tali parti si voglia rivendicare il diritto di priorita', per ognuna di esse, ancorche' costituiscano un tutto unico, deve depositarsi separata domanda. Ove con una sola domanda siano rivendicate piu' registrazioni o piu' depositi delle dette diverse parti di uno stesso marchio, alle nuove domande separate si applica l'articolo 158, commi 1, e 2.
+
+Quando siano state depositate separate domande, in date diverse, per le varie parti di una stessa invenzione, il diritto di priorita' puo' essere rivendicato con una unica domanda se vi sia unita' di invenzione. Nel caso che con una sola domanda siano rivendicati piu' depositi e non si riscontri l'unita' inventiva, alle nuove domande separate e' applicabile l'articolo 161.
+
+Quando sia intervenuto il decreto ministeriale per la protezione temporanea dei nuovi marchi apposti su prodotti o su materiali inerenti alla prestazione del servizio, che hanno figurato in una esposizione e si rivendichino i diritti di priorita' per tale protezione temporanea, il richiedente deve allegare alla domanda di registrazione un certificato del comitato esecutivo o direttivo o della presidenza dell'esposizione, avente il contenuto prescritto nel relativo regolamento.
+
+La rivendicazione di priorita' che non sia stata presentata al momento del deposito della domanda di brevetto o modello di utilita' puo' essere presentata anche successivamente entro il termine di 16 mesi dalla data della prima priorita' rivendicata.
+Entro lo stesso termine il richiedente puo' correggere i dati di una precedente dichiarazione di priorita', fermo restando che, ove tale correzione modifichi la data della prima priorita' rivendicata, e questa data sia anteriore a quella originariamente indicata, il termine decorre dalla data effettiva di tale priorita', anziche' da quella originariamente indicata. La rivendicazione di priorita' che non sia stata presentata al momento della presentazione della domanda di disegno e modello o di marchio, puo' essere presentata entro il successivo termine di un mese per i disegni e modelli e di due mesi per i marchi dalla data di presentazione di detta domanda.
+
+L'istanza di correzione di cui al comma 5-bis relativa ad una precedente dichiarazione di priorita' deve essere comunque depositata nel termine di quattro mesi dalla data di deposito della domanda di brevetto per invenzione industriale o per modello di utilita'.
+
+La brevettazione o la registrazione vengono effettuate senza menzione della priorita', qualora entro sei mesi dalla data di deposito della domanda non vengano prodotti, nelle forme dovute, i documenti di cui al comma 1. Per le invenzioni e i modelli di utilita' il termine per deposito di tali documenti e' di sedici mesi dalla data della domanda anteriore, di cui si rivendica la priorita', se tale termine e' piu' favorevole al richiedente.
+
+Qualora la priorita' di un deposito compiuta agli effetti delle convenzioni internazionali vigenti venga comunque rifiutata, nel titolo di proprieta' industriale deve farsi analoga annotazione del rifiuto.
+
+La rivendicazione di priorita' nella domanda di privativa per nuova varieta' vegetale e' rifiutata se e' effettuata dopo il termine di dodici mesi dalla data di deposito della prima domanda e se il richiedente non ne ha diritto. Qualora priorita' sia rifiutata non se ne fa menzione nella privativa.
+
+## Art. 170. — Esame delle domande
+
+
+
+L'esame delle modifiche al regolamento d'uso di marchi collettivi o di marchi di certificazione e' rivolto ad accertare se possono trovare applicazione le disposizioni previste rispettivamente all'articolo 11 e all'articolo 11-bis. Le modifiche del regolamento d'uso acquistano efficacia soltanto a decorrere dalla data di iscrizione di tali modifiche nel registro.
+
+Qualora non si riscontrino le condizioni sopra indicate, l'Ufficio italiano brevetti e marchi provvede ai sensi dell'articolo 173, comma 7.
+
+((3-bis. Il parere vincolante sui requisiti di validita' previsti nella sezione VIII del capo II nonche' sull'osservanza delle disposizioni di cui all'articolo 114 e' espresso dal Ministero dell'agricoltura, della sovranita' alimentare e delle foreste, che lo invia all'Ufficio italiano brevetti e marchi ai fini della concessione o del rigetto della privativa. Il parere e' corredato dall'indicazione delle sperimentazioni, delle metodologie e delle ispezioni eseguite nonche' dei risultati acquisiti e degli eventuali rilievi e osservazioni del richiedente))
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+((COMMA ABROGATO DALLA L. 24 LUGLIO 2023, N. 102)).
+
+Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro delle politiche agricole alimentari e forestali, sono definite le disposizioni attuative del Codice della proprieta' industriale in materia di nuove varieta' vegetali ((...)).
+
+## Art. 170-bis. — (( (Adempimenti in materia di invenzioni biotecnologiche) ))
+
+((
+
+L'Ufficio italiano brevetti e marchi, in sede di valutazione della brevettabilita' di invenzioni biotecnologiche, al fine di garantire quanto previsto dall'articolo 81-quinquies, comma 1, lettera b), puo' richiedere il parere del Comitato nazionale per la biosicurezza e le biotecnologie.
+
+La provenienza del materiale biologico di origine animale o vegetale, che sta alla base dell'invenzione, e' dichiarata all'atto della richiesta di brevetto sia in riferimento al Paese di origine, consentendo di accertare il rispetto della legislazione in materia di importazione e di esportazione, sia in relazione all'organismo biologico dal quale e' stato isolato.
+
+La domanda di brevetto relativa ad una invenzione che ha per oggetto o utilizza materiale biologico di origine umana deve essere corredata dell'espresso consenso, libero e informato, a tale prelievo e utilizzazione, della persona da cui e' stato prelevato tale materiale, in base alla normativa vigente.
+
+La domanda di brevetto relativa ad una invenzione, che ha per oggetto o utilizza materiale biologico contenente microrganismi o organismi geneticamente modificati, deve essere corredata da una dichiarazione che garantisca l'avvenuto rispetto degli obblighi riguardanti tali modificazioni, derivanti dalle normative nazionali o comunitarie, ed in particolare dalle disposizioni di cui al comma 6 e di cui ai decreti legislativi 12 aprile 2001, n. 206, e 8 luglio 2003, n. 224.
+
+In materia di invenzioni biotecnologiche l'utilizzazione da parte dell'agricoltore, per la riproduzione o la moltiplicazione in proprio nella sua azienda, di materiale brevettato di origine vegetale, avviene nel rispetto di quanto previsto dall'articolo 14 del regolamento (CE) n. 2100/94 del Consiglio, del 27 luglio 1994.
+
+Con decreto del Ministro delle politiche agricole alimentari e forestali, di concerto con i Ministri della salute e dello sviluppo economico, sono disciplinati l'ambito e le modalita' per l'esercizio della deroga di cui al paragrafo 2 dell'articolo 11 della direttiva 98/44/CE del Parlamento europeo e del Consiglio, del 6 luglio 1998, riguardante la vendita o altra forma di commercializzazione di bestiame di allevamento o di altro materiale di riproduzione di origine animale, da parte del titolare del brevetto o con il suo consenso. In particolare, il decreto prevede il divieto della ulteriore vendita del bestiame in funzione di un'attivita' di produzione commerciale, a meno che gli animali dotati delle stesse proprieta' siano stati ottenuti mediante mezzi esclusivamente biologici e ferma restando la possibilita' di vendita diretta da parte dell'allevatore per soggetti da vita rientranti nella normale attivita' agricola.
+
+Qualora rilevi l'assenza delle condizioni di brevettabilita' dell'invenzione biotecnologica o il mancato deposito delle dichiarazioni di cui ai commi 2, 3 e 4, l'Ufficio italiano brevetti e marchi provvede ai sensi dell'articolo 173, comma 7, e, nel caso di riscontrata assenza delle condizioni di brevettabilita' di cui agli articoli 81-quater, 81-quinquies ed all'articolo 162, respinge la domanda.
+
+))
+
+## Art. 170-ter. — (( (Sanzioni) ))
+
+((
+
+Salvo che il fatto costituisca reato, chiunque, al fine di brevettare una invenzione, utilizza materiale biologico di origine umana, essendo a conoscenza del fatto che esso e' stato prelevato ovvero utilizzato per tali fini senza il consenso espresso di chi ne puo' disporre, e' punito e' punito con la sanzione amministrativa pecuniaria da 100.000 a 1.000.000 di euro.
+
+Salvo che il fatto costituisca reato, chiunque, nella dichiarazione di cui all'articolo 170-bis, comma 2, attesta falsamente la provenienza del materiale biologico di origine animale o vegetale, e' punito con la sanzione amministrativa pecuniaria da 10.000 a 100.000 di euro.
+
+Chiunque, nella domanda di brevetto di una invenzione che utilizza materiale biologico contenente microrganismi o organismi geneticamente modificati, attesta, contrariamente al vero, il rispetto degli obblighi di legge riguardanti tali modificazioni, e' punito con la sanzione amministrativa pecuniaria da 10.000 a 100.000 di euro.
+
+Nell'ambito dei limiti minimi e massimi previsti dal presente articolo, le sanzioni amministrative pecuniarie sono determinate nella loro entita', tenendo conto, oltre che dei criteri di cui all'articolo 11 della legge 24 novembre 1981, n. 689, della diversa potenzialita' lesiva dell'interesse protetto che ciascuna infrazione presenta in astratto, delle specifiche qualita' personali nonche' del vantaggio patrimoniale che l'infrazione puo' recare al colpevole ovvero alla persona o all'ente nel cui interesse egli agisce.
+
+Alle sanzioni amministrative pecuniarie previste dal presente articolo non si applica il pagamento in misura ridotta di cui all'articolo 16 della legge 24 novembre 1981, n. 689.
+
+))
+
+## Art. 171. — Esame dei marchi internazionali
+
+L'Ufficio italiano brevetti e marchi effettua l'esame dei marchi internazionali designanti l'Italia conformemente alle norme relative ai marchi nazionali, ai sensi dell'articolo 170, comma 1, lettera a).
+
+L'Ufficio italiano brevetti e marchi, se ritiene che il marchio non possa essere registrato in tutto o in parte, ovvero se e' stata presentata opposizione da parte di terzi ai sensi dell'articolo 176:, provvede, ai sensi dell'articolo 5 dell'accordo di Madrid per la registrazione internazionale dei marchi, testo di Stoccolma del 14 luglio 1967, ratificato con legge 28 aprile 1976, n. 424 o del relativo protocollo del 27 giugno 1989, ratificato con legge 12 marzo 1996, n. 169, all'emissione di un rifiuto provvisorio della registrazione internazionale e ne da' comunicazione all'Organizzazione mondiale della proprieta' intellettuale.
+
+Il rifiuto provvisorio ai sensi del comma 2 e' emesso entro un anno per le registrazioni internazionali basate sull'Accordo di Madrid per la registrazione internazionale dei marchi e diciotto mesi per quelle basate sul relativo Protocollo. I termini decorrono dalle date rispettivamente indicate nelle citate Convenzioni internazionali.
+
+In caso di rifiuto provvisorio, la protezione del marchio e' la medesima di quella di una domanda di marchio depositata presso l'Ufficio italiano brevetti e marchi.
+
+Entro il termine perentorio all'uopo fissato dall'Ufficio italiano brevetti e marchi, il titolare di una registrazione internazionale, per la quale sia stato comunicato all'Organizzazione mondiale della proprieta' intellettuale un rifiuto provvisorio, tramite un mandatario nominato ai sensi dell'articolo 201, puo' presentare le proprie deduzioni, ovvero richiedere copia dell'atto di opposizione sulla base del quale e' stato emesso il rifiuto provvisorio. In tale ultimo caso, se il titolare della registrazione internazionale richiede la copia nel termine prescritto, l'Ufficio comunica alle parti l'avviso di cui all'articolo 178, comma 1, e applica le altre norme sulla procedura di opposizione di cui agli articoli 178 e seguenti.
+
+Qualora entro il termine di cui al comma 5, il titolare della registrazione internazionale non presenti le proprie deduzioni, ovvero non richieda copia dell'atto di opposizione secondo le modalita' prescritte, l'Ufficio italiano brevetti e marchi emette il rifiuto definitivo.
+
+L'Ufficio italiano brevetti e marchi comunica all'Organizzazione mondiale della proprieta' intellettuale le decisioni definitive relative ai marchi internazionali designanti l'Italia.
+
+Nel caso che il marchio designante l'Italia in base al protocollo di Madrid sia successivamente radiato in tutto o in parte su richiesta dell'ufficio di proprieta' industriale d'origine, il suo titolare puo' depositare una domanda di registrazione per lo stesso segno presso l'Ufficio italiano brevetti e marchi. Tale domanda ha effetto dalla data di registrazione internazionale, con l'eventuale priorita' riconosciuta, o da quella dell'iscrizione dell'estensione territoriale concernente l'Italia.
+
+La domanda e' depositata nel termine perentorio di tre mesi a decorrere dalla data di radiazione della registrazione internazionale e puo' riguardare solo i prodotti e servizi in essa compresi relativamente all'Italia.
+
+Alla domanda si applicano le disposizioni vigenti per le domande nazionali.
+
+## Art. 172. — Ritiro, rettifiche, integrazioni della domanda
+
+Il richiedente puo' sempre ritirare la domanda durante la procedura di esame e nel caso dei marchi, anche durante la procedura di opposizione, prima che l'Ufficio italiano brevetti e marchi abbia provveduto alla concessione del titolo.
+
+Il richiedente, prima che l'Ufficio italiano brevetti e marchi abbia provveduto alla concessione del titolo o deciso in merito ad una istanza o ad una opposizione, o comunque prima che la Commissione dei ricorsi, nei casi in cui sia stato interposto ricorso abbia provveduto, ha facolta' di correggere, negli aspetti non sostanziali, la domanda originariamente depositata o ogni altra istanza ad essa relativa, nonche', nel caso di domanda di brevetto per invenzione o modello di utilita', di integrare anche con nuovi esempi o limitare la descrizione, le rivendicazioni o i disegni originariamente depositati e, nel caso di domanda di marchio, di limitare o precisare i prodotti e i servizi originariamente elencati.
+
+Il richiedente, su invito dell'Ufficio italiano brevetti e marchi, deve completare o rettificare la documentazione ove sia necessario per l'intelligenza del diritto di proprieta' industriale o per meglio determinare l'ambito della tutela richiesta.
+
+Qualora siano necessari gli accertamenti di cui all'articolo 170, comma 1, lettera d), il Ministero delle politiche agricole e forestali invita il richiedente a presentare il materiale di riproduzione o di moltiplicazione della varieta' e, nel caso di varieta' ibride, puo' richiedere, ove necessario, anche la consegna del materiale dei componenti genealogici. Gli istituti e gli enti designati per gli accertamenti rilasciano ricevuta del materiale loro consegnato. Se il materiale e' consegnato in quantita' insufficiente o qualitativamente non idoneo, gli istituti e gli enti anzidetti redigono apposito processo verbale da trasmettere al Ministero delle politiche agricole e forestali.
+
+Il Ministero delle politiche agricole e forestali, di concerto con gli enti e gli organismi responsabili delle prove, puo', anche su richiesta del titolare della domanda o di terzi, disporre che siano effettuate visite presso i campi per fare prendere visione delle prove agli interessati. Gli enti e gli organismi responsabili delle prove, ove lo ritengano necessario, invitano il titolare della domanda a visitare i campi prova. L'ente o l'organismo designato trasmette, al termine delle prove, un rapporto sui risultati ottenuti al Ministero delle politiche agricole e forestali, il quale, in caso di dubbi sui risultati medesimi, puo' disporre la ripetizione delle prove. Il Ministero delle politiche agricole e forestali, sulla base del rapporto d'esame, redige la descrizione ufficiale della varieta'.
+L'Ufficio, ricevuta dal Ministero delle politiche agricole e forestali la descrizione ufficiale, la trasmette al costitutore, assegnandogli un termine per le osservazioni.
+
+L'Ufficio italiano brevetti e marchi deve conservare la documentazione relativa alla domanda iniziale, fare risultare la data di ricezione delle modifiche o integrazioni ed adottare ogni altra opportuna modalita' cautelare.
+
+## Art. 173. — Rilievi
+
+I rilievi ai quali dia luogo l'esame delle domande e delle istanze devono essere comunicati all'interessato con l'assegnazione di un termine per la risposta non inferiore a due mesi dalla data di ricezione della comunicazione.
+
+Le osservazioni dei terzi ed i rilievi ai quali dia luogo l'esame della domanda di privativa per nuova varieta' vegetale sono comunicati all'interessato con l'assegnazione di un termine, non superiore a sei mesi, per la risposta. Nel caso in cui il rilievo riguardi la denominazione, la nuova proposta e' corredata da una dichiarazione integrativa includente anche la dichiarazione di cui alla lettera e), del comma 1, dell'articolo 165. L'ufficio ed il Ministero delle politiche agricole e forestali si comunicano reciprocamente le osservazioni ed i rilievi trasmessi al richiedente e le risposte ricevute.
+
+Quando, a causa di irregolarita' nel conferimento del mandato, di cui all'articolo 201, il mancato adempimento ai rilievi comporta il rigetto delle domande e delle istanze connesse, il rilievo deve essere comunicato al richiedente.
+
+Quando il termine sia decorso senza che sia pervenuta risposta ai rilievi, la domanda o l'istanza e' respinta con provvedimento, da notificare al titolare della domanda stessa o dell'istanza con raccomandata con avviso di ricevimento. Tuttavia, se il rilievo concerne la rivendicazione di un diritto di priorita', la mancata risposta comporta esclusivamente la perdita di tale diritto.
+
+Se la domanda di privativa per nuova varieta' vegetale non e' accolta o se essa e' ritirata, il compenso dovuto per i controlli tecnici e' rimborsato solo quando non siano gia' stati avviati i controlli tecnici suddetti.
+
+Prima di respingere in tutto o in parte una domanda o una istanza ad essa connessa, per motivi che non siano stati oggetto di rilievi ai sensi del comma 1, l'Ufficio italiano brevetti e marchi assegna al richiedente il termine di due mesi per formulare osservazioni. Scaduto detto termine, se non sono state presentate osservazioni o l'Ufficio ritiene di non potere accogliere quelle presentate, la domanda o l'istanza e' respinta in tutto o in parte.
+
+Per le domande di brevetto internazionale l'Ufficio italiano brevetti e marchi, compiuto l'accertamento di cui all'articolo 14 del Trattato di cooperazione in materia di brevetti del 19 giugno 1970, ratificato con legge 26 maggio 1978, n. 260, invita il richiedente ad effettuare le eventuali correzioni ((...)), fissando all'uopo un termine non superiore a mesi tre, ferma restando l'osservanza del termine per la trasmissione dell'esemplare originale della domanda internazionale, previsto dalla regola 22 del regolamento di esecuzione del Trattato di cooperazione in materia di brevetti.
+L'Ufficio italiano brevetti e marchi dichiara che la domanda s'intende ritirata nelle ipotesi previste dall'articolo 14 del Trattato di cooperazione in materia di brevetti.
+
+Qualora la domanda sia accolta, l'Ufficio italiano brevetti e marchi provvede alla concessione del titolo.
+
+I fascicoli degli atti e dei documenti relativi alle domande di brevettazione o di registrazione ((, nonche' le raccolte dei titoli di proprieta' industriale e le raccolte delle domande)) sono conservati dall'Ufficio italiano brevetti e marchi fino a dieci anni dopo l'estinzione dei diritti corrispondenti. Dopo la scadenza di tale termine l'Ufficio puo' distruggere i fascicoli anche senza il parere dell'Archivio centrale di Stato, previa acquisizione informatica su dispositivi non alterabili degli originali, ((degli atti e dei documenti in essi contenuti)).
+
+## - - Sezione II Osservazioni sui marchi d'impresa e opposizioni alla registrazione dei marchi
+
+## Art. 174. — Osservazioni e opposizioni alla registrazione del marchio
+
+Le domande di marchio ritenute registrabili ai sensi dell'articolo 170, comma 1, lettera a), le registrazioni di marchio effettuate secondo la procedura di cui all'articolo 179, comma 2, ed i marchi internazionali, designanti l'Italia, possono essere oggetto di osservazioni e di opposizioni in conformita' alle norme di cui ai successivi articoli.
+
+## Art. 175. — Deposito delle osservazioni dei terzi
+
+((
+
+Qualsiasi interessato puo', senza con cio' assumere la qualita' di parte nella procedura di registrazione, indirizzare all'Ufficio italiano brevetti e marchi osservazioni scritte, specificando i motivi per i quali un marchio deve essere escluso d'ufficio dalla registrazione.
+
+))
+
+Le osservazioni, se ritenute pertinenti e rilevanti, sono dall'Ufficio italiano brevetti e marchi comunicate al richiedente che puo' presentare le proprie deduzioni entro il termine di trenta giorni dalla data della comunicazione.
+
+Nel caso di marchio internazionale, le osservazioni sono considerate dall'Ufficio italiano brevetti e marchi solo al fine dell'esame di cui all'articolo 170, comma 1, lettera a).
+
+## Art. 176. — Deposito dell'opposizione
+
+L'opposizione si considera ritirata se non e' comprovato il pagamento dei diritti di opposizione entro i termini e con le modalita' stabiliti dal decreto di cui all'articolo 226.
+
+Con l'opposizione possono farsi valere gli impedimenti alla registrazione del marchio previsti dall'articolo 12, comma 1, lettere ((c), d), e) ed f), e dall'articolo 14, comma 1, lettera c)-bis)), per tutti o per una parte dei prodotti o servizi per i quali e' stata chiesta la registrazione, e la mancanza del consenso alla registrazione da parte degli aventi diritto di cui all'articolo 8.
+
+## Art. 177. — Legittimazione all'opposizione
+
+## Art. 178. — Esame dell'opposizione e decisioni
+
+
+
+In assenza di accordo ai sensi del comma 1, il richiedente che abbia ricevuto la documentazione di cui all'articolo 176, commi 2 e 4, lettere a), b) e c), puo' presentare per iscritto le proprie deduzioni entro il termine all'uopo fissato dall'Ufficio e contestualmente presentare istanza di cui al comma 4.
+
+Nel corso del procedimento di opposizione, l'Ufficio italiano brevetti e marchi puo', in ogni momento, invitare le parti a presentare nel termine da esso fissato, in ogni caso non superiore a trenta giorni e non prorogabile, ulteriori documenti, deduzioni od osservazioni in funzione delle allegazioni, deduzioni ed osservazioni delle altre parti.
+
+Su istanza del richiedente, l'opponente che fondi l'opposizione su un marchio anteriore registrato da almeno cinque anni dalla data di deposito o di priorita' del marchio oggetto dell'opposizione, fornisce i documenti idonei a provare che tale marchio e' stato oggetto di uso effettivo, da parte sua o con il suo consenso, per i prodotti e servizi per i quali e' stato registrato e sui quali si fonda l'opposizione nel corso del quinquennio precedente la data di deposito o priorita' del marchio opposto,, o che vi siano i motivi legittimi per la mancata utilizzazione. In mancanza di tale prova, da fornire entro sessanta giorni dalla data di comunicazione dell'istanza da parte dell'Ufficio italiano brevetti e marchi, l'opposizione e' respinta. Se l'uso effettivo e' provato solo per una parte dei prodotti o servizi per i quali il marchio anteriore e' stato registrato, esso, ai soli fini dell'esame dell'opposizione, si considera registrato solo per quella parte di prodotti o servizi.
+
+Il comma 4 si applica anche nel caso in cui il marchio d'impresa anteriore sia un marchio dell'Unione europea. In tal caso l'uso effettivo del marchio dell'Unione europea e' determinato a norma dell'articolo 18 del regolamento (UE) 2017/1001 del Parlamento e del Consiglio, del 14 giugno 2017, sul marchio dell'Unione europea.
+
+COMMA ABROGATO DAL D.LGS. 20 FEBBRAIO 2019, N. 15.
+
+In caso di opposizioni relative allo stesso marchio, le opposizioni successive alla prima sono riunite a questa.
+
+Al termine del procedimento di opposizione, l'Ufficio italiano brevetti e marchi accoglie l'opposizione stessa respingendo la domanda di registrazione in tutto o in parte se risulta che il marchio non puo' essere registrato per la totalita' o per una parte soltanto dei prodotti e servizi indicati nella domanda; in caso contrario respinge l'opposizione. Nel caso di registrazione internazionale, l'Ufficio italiano brevetti e marchi emette rifiuto definitivo parziale o totale ovvero respinge l'opposizione, dandone comunicazione all'Organizzazione mondiale della proprieta' intellettuale (OMPI).
+
+L'Ufficio italiano brevetti e marchi, con il provvedimento di cui al comma 7, pone a carico del richiedente, se soccombente, il rimborso dei diritti di opposizione. Le spese di rappresentanza professionale nel procedimento sono liquidate a carico della parte soccombente, a domanda, nella misura massima individuata con decreto del Ministero dello sviluppo economico.
+
+## Art. 179. — Estensione della protezione
+
+Se il richiedente intende estendere la protezione del marchio all'estero ai sensi dell'Accordo di Madrid per la registrazione internazionale dei marchi, testo di Stoccolma del 14 luglio 1967, ratificato con legge 28 aprile 1976, n. 424 ((oppure in uno Stato estero che esige la preventiva registrazione del marchio italiano)), l'Ufficio italiano brevetti e marchi, anche se e' gia' stata proposta un'opposizione, procede alla registrazione ed effettua le relative annotazioni.
+
+Se la domanda di marchio, di cui al comma 1, non e' gia' stata pubblicata, la pubblicazione della registrazione e' accompagnata, in tale caso, dall'avviso che tale pubblicazione e' termine iniziale per l'opposizione. L'accoglimento dell'opposizione determina la radiazione totale o parziale del marchio.
+
+## Art. 180. — Sospensione della procedura di opposizione
+
+Su istanza del richiedente la registrazione, la sospensione di cui al comma 1, lettera e), puo' essere successivamente revocata.
+
+Se l'opposizione e' sospesa ai sensi del comma 1, lettere b),c),d) ed (( e-bis) )), l'Ufficio italiano brevetti e marchi esamina con precedenza la domanda di marchio o la registrazione del marchio internazionale.
+
+((COMMA ABROGATO DAL D.LGS. 20 FEBBRAIO 2019, N. 15)).
+
+## Art. 181. — Estinzione della procedura di opposizione
+
+## Art. 182. — (( (Ricorso) ))
+
+((
+
+Il provvedimento con il quale l'Ufficio italiano brevetti e marchi dichiara irricevibile, inammissibile o estinta la procedura di opposizione ovvero accoglie, anche parzialmente, o respinge l'opposizione, e' comunicato alle parti, le quali, entro il termine di cui all'articolo 135, comma 1, hanno facolta' di presentare ricorso alla Commissione dei ricorsi, di cui all'articolo 135.
+
+))
+
+## Art. 183. — Nomina degli esaminatori
+
+Le opposizioni sono decise da funzionari nominati per un periodo di due anni con decreto del direttore generale tra gli appartenenti alla carriera direttiva o dirigenziale dell'Ufficio italiano brevetti e marchi e muniti di laurea in giurisprudenza. ((Gli esaminatori che hanno partecipato all'esame delle domande o delle registrazioni di marchi, oggetto di opposizione non possono decidere sulle opposizioni suddette.))
+
+La nomina all'incarico di esaminatore giudicante, di cui al comma 1, rinnovabile e retribuita con compenso da stabilirsi con decreto del Ministro delle attivita' produttive, di concerto con il Ministro dell'economia e delle finanze, e' riservata a coloro che, in possesso dei requisiti di cui al comma 1, hanno frequentato con esito favorevole, apposito corso di formazione da organizzarsi da parte dell'Ufficio italiano brevetti e marchi.
+
+Se il numero dei funzionari nominati ai sensi dei commi 1 e 2 e' inadeguato in relazione alle opposizioni depositate, possono essere nominati anche funzionari scelti fra il personale del Ministero delle attivita' produttive, a parita' di requisiti e formazione, oppure esperti con notoria conoscenza della materia.
+
+Il numero complessivo dei funzionari designati per l'esame delle opposizioni non puo' superare le trenta unita'.
+
+## Art. 184. — Entrata in vigore della procedura di opposizione
+
+Le norme sul procedimento di opposizione entrano in vigore con il successivo decreto del Ministro delle attivita' produttive che ne stabilisce le modalita' di applicazione.
+
+## - - ((Sezione IIBis)) ((Decadenza e nullita' dei marchi d'impresa registrati))
+
+## Art. 184-bis. — (Deposito dell'istanza di decadenza o nullita')
+
+Fatta salva la proponibilita' dell'azione davanti all'autorita' giudiziaria ai sensi dell'articolo 120, i soggetti legittimati ai sensi dell'articolo 184-ter possono presentare istanza, scritta e motivata, all'Ufficio italiano brevetti e marchi per l'accertamento della decadenza o la dichiarazione di nullita' di un marchio d'impresa registrato.
+
+Nei casi di cui al comma 1, la decadenza puo' essere fatta valere per i motivi di cui agli articoli 13, comma 4, 14, comma 2, lettera a) e 24.
+
+L'istanza di decadenza o di nullita' contiene altresi', in relazione al marchio di cui si chiede la dichiarazione di decadenza o di nullita', l'indicazione dei prodotti ed i servizi contro cui e' proposta l'istanza di decadenza o la nullita'; in mancanza di tale indicazione l'istanza e' considerata diretta contro tutti i prodotti o i servizi contemplati dal marchio impugnato.
+
+L'istanza di decadenza o di nullita' si considera ritirata se non e' comprovato il pagamento dei diritti di deposito delle domande di decadenza o nullita' entro i termini e con le modalita' stabiliti dal decreto di cui all'articolo 226.
+
+L'istanza di decadenza o di nullita' puo' essere presentata sulla base di uno o piu' diritti anteriori, a condizione che appartengano tutti allo stesso titolare.
+
+((8-bis. Il titolare di uno o piu' diritti anteriori che abbia preliminarmente domandato la nullita' o la decadenza del marchio non puo' presentare, a pena di inammissibilita', un'altra domanda di nullita' o di decadenza fondata su un altro dei diritti che avrebbe potuto far valere a sostegno della prima domanda))
+
+L'istanza di decadenza o di nullita' e' improcedibile qualora, su una domanda con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, sia stata pronunciata una decisione o sia pendente un procedimento dinanzi all'Ufficio italiano brevetti e marchi o all'autorita' giudiziaria adita ai sensi dell'articolo 122.
+
+Fuori dal caso di cui al comma 9, qualora un'istanza di decadenza o di nullita' sia presentata all'Ufficio italiano brevetti e marchi in pendenza di un procedimento, amministrativo o giudiziario, connesso per l'oggetto, la trattazione dell'istanza puo' essere sospesa fino a che il procedimento pendente sia definito con provvedimento amministrativo inoppugnabile o con sentenza passata in cosa giudicata. In tal caso l'istante puo' chiedere la prosecuzione del procedimento sospeso, con istanza da presentare all'Ufficio italiano brevetti e marchi entro il termine perentorio di tre mesi dalla inoppugnabilita' del provvedimento adottato nel procedimento amministrativo connesso o dal passaggio in giudicato della sentenza che definisce il processo connesso. In caso contrario, il procedimento sull'istanza di decadenza o di nullita' si estingue.
+
+L'istanza di decadenza o di nullita' e' altresi' improcedibile qualora sia stata presentata contestualmente ad una domanda, con il medesimo oggetto, i medesimi fatti costitutivi e fra le stesse parti, proposta davanti all'autorita' giudiziaria adita ai sensi dell'articolo 122.
+
+## Art. 184-ter. — (( (Legittimazione all'istanza di decadenza o nullita'). ))
+
+((1. Sono legittimati a presentare un'istanza di decadenza o di nullita': 
+ a) nei casi di cui ai commi 2 e 3, lettera a), dell'articolo 184-bis, qualunque interessato; 
+b) nel caso di cui al comma 3, lettera b), dell'articolo 184-bis, il titolare di un marchio d'impresa anteriore o la persona autorizzata dalla legge a esercitare i diritti conferiti da una denominazione di origine o un'indicazione geografica protetta; 
+ c) nel caso di cui al comma 3, lettera c), dell'articolo 184-bis, il titolare di marchio d'impresa interessato))
+
+## Art. 184-quater. — (Esame della domanda di decadenza o di nullita' e decisioni)
+
+((
+
+L'Ufficio italiano brevetti e marchi, verificate la ricevibilita' e l'ammissibilita' dell'istanza di decadenza o di nullita', comunica detta istanza alle parti con l'avviso della facolta' di raggiungere un accordo di conciliazione entro due mesi dalla data della comunicazione, prorogabili, su istanza comune delle parti, fino al termine massimo di un anno.
+
+Alla comunicazione prevista dal comma 1 e' allegata copia dell'istanza di decadenza o di nullita'.
+
+3. In assenza di accordo ai sensi del comma 1, il titolare del marchio di cui e' chiesta la decadenza o la nullita' puo' presentare per iscritto le proprie deduzioni entro il termine di sessanta giorni dalla data di ricezione della comunicazione))
+
+In caso di piu' istanze di decadenza o nullita' relative allo stesso marchio, le domande successive alla prima sono riunite a questa.
+
+Al termine del procedimento di decadenza o nullita', l'Ufficio italiano brevetti e marchi se accoglie la domanda, accerta la decadenza o dichiara la nullita' della registrazione del marchio in tutto o in parte o dispone il trasferimento della titolarita' della registrazione nel caso in cui sia stata presentata l'istanza di cui all'articolo 184-bis, comma 4, lettera c). Nel caso di registrazione internazionale, l'Ufficio italiano brevetti e marchi da' comunicazione della decisione all'Organizzazione mondiale della proprieta' intellettuale (OMPI).
+
+L'Ufficio italiano brevetti e marchi, con il provvedimento di cui al comma 5, pone a carico della parte soccombente il rimborso delle spese a favore dell'altra parte e ne liquida l'ammontare insieme alle spese di rappresentanza professionale nel procedimento, nella misura massima individuata con decreto del Ministero dello sviluppo economico.
+
+I provvedimenti che accertano la decadenza o dichiarano la nullita' della registrazione o trasferiscono la titolarita' della registrazione di un marchio sono annotati nel registro.
+
+## Art. 184-quinquies. — (( (Prova d'uso). ))
+
+((
+
+Nei procedimenti per la dichiarazione di nullita' basata su un marchio d'impresa registrato con una data di deposito o di priorita' anteriore ai sensi dell'articolo 184-bis, comma 3, lettera b), su istanza del titolare del marchio d'impresa posteriore, il titolare del marchio d'impresa anteriore fornisce la prova che, nel corso dei cinque anni precedenti la data di presentazione della domanda di dichiarazione di nullita', il marchio d'impresa anteriore e' stato oggetto di uso effettivo a norma dell'articolo 24 per i prodotti o i servizi per i quali e' stato registrato e su cui si fonda la domanda, o che sussistono motivi legittimi per il suo mancato uso, a condizione che la procedura di registrazione del marchio anteriore, alla data di presentazione della domanda di dichiarazione di nullita', fosse conclusa da almeno cinque anni.
+
+Qualora, alla data di deposito o di priorita' del marchio d'impresa posteriore, il termine di cinque anni durante il quale il marchio d'impresa anteriore doveva essere oggetto di uso effettivo, sia scaduto, il titolare del marchio d'impresa anteriore, oltre alla prova a norma del comma 1, fornisce la prova che il marchio e' stato oggetto di uso effettivo nel corso del termine dei cinque anni precedenti la data di deposito o di priorita', o che sussistevano motivi legittimi per il suo mancato uso.
+
+In mancanza delle prove di cui ai commi 1 e 2, da fornire entro sessanta giorni dalla data di comunicazione dell'istanza da parte dell'Ufficio italiano brevetti e marchi, la domanda di nullita' sulla base di un marchio anteriore e' respinta.
+
+Se il marchio d'impresa anteriore e' stato usato conformemente all'articolo 24 solo per una parte dei prodotti o dei servizi per i quali e' stato registrato, ai fini dell'esame della domanda di nullita' si intende registrato soltanto per tale parte dei prodotti o servizi.
+
+I commi da 1 a 4 del presente articolo si applicano anche nel caso in cui il marchio d'impresa anteriore sia un marchio UE. In tal caso, l'uso effettivo del marchio UE e' determinato a norma dell'articolo 18 del regolamento (UE) 2017/1001, del Parlamento europeo e del Consiglio, del 14 giugno 2017.
+
+6. L'istanza del titolare del marchio d'impresa posteriore per ottenere la prova dell'uso effettivo del marchio anteriore, di cui al comma 1, deve essere presentata entro il termine assegnato dall'Ufficio italiano brevetti e marchi ai sensi dell'articolo 184-quater, comma 1))
+
+## Art. 184-sexies. — (( (Efficacia erga omnes e decorrenza degli effetti della decadenza e della nullita'). ))
+
+((
+
+La decadenza o la nullita', anche parziale, di una registrazione di marchio ha efficacia nei confronti di tutti quando sia dichiarata con provvedimento dell'Ufficio italiano brevetti e marchi divenuto inoppugnabile.
+
+La decadenza della registrazione di un marchio d'impresa, per tutti o per una parte di prodotti o servizi, produce effetti a decorrere dalla data di deposito della domanda di decadenza o, su istanza del richiedente, di quella anteriore in cui e' maturata una delle cause di decadenza.
+
+3. La nullita' della registrazione di un marchio di impresa, per tutti o per una parte di prodotti o servizi, produce effetti fin dalla data della registrazione))
+
+## Art. 184-septies. — (( (Sospensione della procedura di nullita' o decadenza). ))
+
+((
+
+L'istante puo' chiedere la prosecuzione del procedimento sospeso, con istanza da presentare all'Ufficio italiano brevetti e marchi entro il termine perentorio di tre mesi dalla inoppugnabilita' del provvedimento adottato nei casi di cui al comma 1, lettere a), c), e) ed f), dalla scadenza dei termini di cui alla lettera b), del medesimo comma, o dal passaggio in giudicato della sentenza che definisce il processo nel caso di cui alla lettera d) del medesimo comma. In caso contrario, il procedimento sull'istanza di decadenza o di nullita' si estingue.
+
+3. Se il procedimento e' sospeso ai sensi del comma 1, lettere a), b) e c), l'Ufficio italiano brevetti e marchi esamina con precedenza la domanda di marchio o la registrazione del marchio internazionale su cui si basa l'istanza di nullita'))
+
+## Art. 184-octies. — (Estinzione della procedura di decadenza o nullita')
+
+## Art. 184-novies. — (( (Attuazione ed entrata in vigore della procedura di decadenza o nullita'). ))
+
+
+
+## Art. 184-decies. — (( (Ricorso). ))
+
+((
+
+Il provvedimento con il quale l'Ufficio italiano brevetti e marchi dichiara irricevibile, inammissibile o estinta la procedura di decadenza o nullita' ovvero accoglie, anche parzialmente, o respinge l'istanza, e' comunicato alle parti.
+
+2. Contro i provvedimenti di cui al comma 1, e' ammesso il ricorso davanti alla Commissione dei ricorsi, ai sensi dell'articolo 135))
+
+## - - Sezione III Pubblicita'
+
+## Art. 185. — Raccolta dei titoli di proprieta' industriale
+
+I titoli originali di proprieta' industriale devono essere firmati dal dirigente dell'ufficio competente o da un funzionario da lui delegato.
+
+Gli originali dei titoli di proprieta' industriale sono ((riuniti in apposite raccolte)). ((Tutti i riferimenti al registro dei marchi o dei brevetti contenuti nel Codice devono intendersi effettuati agli originali, in forma cartacea od informatica, dei corrispondenti titoli riuniti nelle raccolte.))
+
+Una copia certificata conforme del titolo di proprieta' industriale e' trasmessa al titolare. Nel caso delle privative per varieta' vegetali l'ufficio informa il MIPAF della concessione.
+
+## Art. 185-bis. — (( (Registro speciale dei marchi storici di interesse nazionale). ))
+
+((
+
+E' istituito, presso l'Ufficio italiano brevetti e marchi, il registro speciale dei marchi storici come definiti dall'articolo 11-ter.
+
+2. L'iscrizione al registro speciale dei marchi storici e' effettuata su istanza del titolare o del licenziatario esclusivo del marchio))
+
+## Art. 185-ter. — ((ARTICOLO ABROGATO DAL D.L. 19 MAGGIO 2020, N. 34))
+
+
+
+## Art. 186. — Visioni e pubblicazioni
+
+La raccolta dei titoli di proprieta' industriale e la raccolta delle domande possono essere consultate dal pubblico, dietro autorizzazione dell'Ufficio italiano brevetti e marchi, in seguito a domanda.
+
+((
+
+L'Ufficio italiano brevetti e marchi, fermi i termini stabiliti per l'accessibilita' al pubblico delle domande, tiene a disposizione gratuita del pubblico, perche' possano essere consultati, i fascicoli inerenti una domanda, un brevetto, una registrazione o un'istanza, salve le limitazioni previste dal regolamento di attuazione.
+
+))
+
+L'Ufficio italiano brevetti e marchi puo' consentire che si estragga copia delle domande, delle descrizioni ((, delle rivendicazioni)) e dei disegni, nonche' degli altri documenti di cui e' consentita la visione al pubblico, a chi ne faccia domanda subordinatamente a quelle cautele che siano ritenute necessarie per evitare ogni guasto o deterioramento dei documenti a disposizione del pubblico.
+
+Le copie per le quali si chiede l'autenticazione di conformita' all'esemplare messo a disposizione del pubblico devono essere in regola con l'imposta di bollo. Il Ministero delle attivita' produttive puo' tuttavia stabilire che alla copiatura o comunque alla riproduzione, anche fotografica, degli atti e dei documenti anzidetti provveda esclusivamente l'Ufficio, previo pagamento dei diritti di segreteria.
+
+Le copie di estratti dei titoli di proprieta' industriale e di certificati relativi a notizie da estrarsi dalla relativa documentazione, nonche' i duplicati degli originali, sono fatti esclusivamente dall'Ufficio italiano brevetti e marchi in seguito ad istanza nella quale sia indicato il numero d'ordine del titolo del quale si chiede la copia o l'estratto.
+
+La certificazione di autenticita' delle copie e' soggetta all'imposta di bollo e al pagamento dei diritti di segreteria da corrispondersi all'Ufficio italiano brevetti e marchi per ogni foglio e per ogni tavola di disegno.
+
+La misura dei diritti previsti dal presente codice e' stabilita con decreto del Ministro delle attivita' produttive, di concerto con il Ministro dell'economia e delle finanze. Sono determinate, nello stesso modo, le tariffe per i lavori di copiatura e quelli di riproduzione fotografica, ai quali provvede l'Ufficio italiano brevetti e marchi.
+
+I titoli di proprieta' industriale, distinti per classi, ((le trascrizioni avvenute e le sentenze di cui all'articolo 197, comma 6,)) sono pubblicati, almeno mensilmente, nel Bollettino ufficiale previsto per ciascun tipo di titoli dagli articoli 187, 188, 189 e 190. La pubblicazione conterra' le indicazioni fondamentali comprese in ciascun titolo e, rispettivamente, nelle domande di trascrizione.
+Il Bollettino potra' contenere, inoltre, sia gli indici analitici dei diritti di proprieta' industriale, sia gli indici alfabetici dei titolari ed in esso potranno pure pubblicarsi i riassunti delle descrizioni.
+
+Il Bollettino ((e' reso disponibile in forma telematica e)) puo' essere distribuito gratuitamente alle Camere di commercio, nonche' agli enti indicati in un elenco da compilarsi a cura del Ministro delle attivita' produttive.
+
+## Art. 187. — Bollettino ufficiale dei marchi d'impresa
+
+I dati identificativi delle domande e delle registrazioni, oltre quelli specifici indicati al comma 1, lettere a), b), e d), ed ai relativi numeri e date, sono quelli di cui all'articolo 156.
+
+Il Bollettino ufficiale e' corredato da indici analitici, almeno alfabetici per titolari, numerici e per classi.
+
+## Art. 188. — Bollettino ufficiale delle nuove varieta' vegetali
+
+La comunicazione al pubblico prevista dall'articolo 30 della Convenzione internazionale per la protezione delle novita' vegetali (UPOV) - testo di Ginevra del 19 marzo 1991, ratificata con legge 23 marzo 1998, n. 110, si effettua mediante pubblicazione di un "Bollettino ufficiale delle nuove varieta' vegetali" edito a cura dell'Ufficio.
+
+Il Bollettino e' inviato gratuitamente, in scambio, ai competenti uffici degli altri Stati membri dell'Union pour la protection des obtentions vegetales (U.P.O.V.)
+
+## Art. 189. — Bollettino ufficiale di brevetti d'invenzione e modelli d'utilita',
+registrazioni di disegni e modelli, topografie di prodotti a semiconduttori.
+
+I dati identificativi di domande, brevetti e registrazioni, oltre quelli specifici indicati al comma 1, lettere a), d), ed e), ed ai relativi numeri e date, sono quelli di cui agli articoli 160, comma 1, 167, comma 1, 168, commi 1 e 2, lettere b) e d).
+
+Il Bollettino ufficiale e' corredato da indici analitici, almeno alfabetici per titolari, numerici e per classi.
+
+## Art. 190. — Bollettino ufficiale dei certificati complementari per i medicinali e per i prodotti fitosanitari
+
+Il Bollettino ufficiale delle domande e dei certificati complementari per i medicinali e per i prodotti fitosanitari, da pubblicarsi con cadenza almeno mensile da parte dell'Ufficio italiano brevetti e marchi, contiene almeno le notizie previste dall'articolo 11 dei regolamenti CEE n. 1768/92 del Consiglio, del 18 giugno 1992 e (CE) n. 1610/96 del Parlamento europeo e del Consiglio, del 23 luglio 1996.
+
+## - - Sezione IV Termini
+
+## Art. 191. — Scadenza dei termini
+
+I termini previsti nel presente codice sono prorogabili su istanza presentata prima della loro scadenza all'Ufficio italiano brevetti e marchi, salvo che il termine sia indicato come improrogabile.
+
+((2. Salva diversa previsione del regolamento di attuazione del presente codice, su richiesta motivata, la proroga puo' essere concessa fino ad un massimo di sei mesi a decorrere dalla data di scadenza del termine di cui si chiede la proroga))
+
+## Art. 192. — (( (Continuazione della procedura) ))
+
+((
+
+Quando il richiedente di un diritto di proprieta' industriale non abbia osservato un termine relativamente ad una procedura di fronte all'Ufficio italiano brevetti e marchi, la procedura e' ripresa su richiesta del richiedente senza che la non osservanza del termine comporti la perdita del diritto di proprieta' industriale o altra conseguenza.
+
+La richiesta di continuazione della procedura deve essere presentata entro due mesi dalla scadenza del termine non osservato o dal termine di proroga previsto all'articolo 191, comma 2, ove sia stata richiesta la proroga, e deve essere accompagnata dalla prova di aver compiuto entro lo stesso termine quanto omesso entro il termine precedentemente scaduto. Con la richiesta deve essere comprovato il pagamento del diritto previsto per la continuazione della procedura nella tabella A allegata al decreto del Ministro dello sviluppo economico in data 2 aprile 2007, pubblicato nella Gazzetta Ufficiale n. 81 del 6 aprile 2007.
+
+La disposizione di cui al presente articolo non e' applicabile al termine per la rivendicazione del diritto di priorita', ai termini riguardanti la procedura di opposizione, al termine per la presentazione di un ricorso alla Commissione dei ricorsi, al periodo per la presentazione del documento di priorita', al periodo per l'integrazione della domanda o la produzione della traduzione ai sensi dell'articolo 148, al termine per il pagamento dei diritti di mantenimento dei titoli di proprieta' industriale con mora, ai termini previsti per la reintegrazione del diritto di cui all'articolo 193 e al termine per la presentazione della traduzione in inglese delle rivendicazioni della domanda di brevetto di cui all'articolo 8 del decreto del Ministro dello sviluppo economico in data 27 giugno 2008 sulla ricerca di anteriorita', pubblicato nella Gazzetta Ufficiale n. 153 del 2 luglio 2008.
+
+))
+
+## Art. 193. — Reintegrazione
+
+Il richiedente o il titolare di un titolo di proprieta' industriale che, pur avendo usato la diligenza richiesta dalle circostanze, non ha potuto osservare un termine nei confronti dell'Ufficio italiano brevetti e marchi o della Commissione dei ricorsi, e' reintegrato nei suoi diritti se l'inosservanza ha per conseguenza diretta il rigetto della domanda o di una istanza ad essa relativa, ovvero la decadenza del titolo di proprieta' industriale o la perdita di qualsiasi altro diritto o di una facolta' di ricorso.
+
+((Entro un anno dalla data di scadenza del termine non osservato di cui al comma 1 deve essere compiuto l'atto omesso e deve essere presentata, nel medesimo termine a pena di irricevibilita', l'istanza di reintegrazione con l'indicazione dei fatti e delle giustificazioni e con allegata la documentazione idonea)). ((PERIODO SOPPRESSO DALLA L. 24 LUGLIO 2023, N. 102)). Nel caso di mancato pagamento di un diritto di mantenimento o rinnovo, detto periodo di un anno decorre dal giorno di scadenza del termine comunque utile stabilito per il versamento del diritto. In questo caso deve anche allegarsi l'attestazione comprovante il pagamento del diritto dovuto, comprensivo del diritto di mora.
+
+Prima del rigetto della istanza il richiedente o il titolare del diritto di proprieta' industriale puo', entro il termine fissato dall'Ufficio, presentare proprie argomentazioni o deduzioni.
+
+Le disposizioni di questo articolo non sono applicabili ai termini di cui al comma 2, al termine assegnato per la divisione delle domande di brevettazione e di registrazione, nonche' per la presentazione della domanda divisionale e per la presentazione degli atti di opposizione alla registrazione dei marchi.
+
+Se il richiedente la registrazione o il brevetto, pur avendo usato la diligenza richiesta dalle circostanze, non ha potuto osservare il termine di priorita', e' reintegrato nel suo diritto se la priorita' e' rivendicata entro due mesi dalla data di scadenza di tale termine. Questa disposizione si applica, altresi', in caso di mancato rispetto del termine per produrre il documento di priorita'.
+
+## - - Capo V PROCEDURE SPECIALI
+
+## Art. 194. — Procedura di espropriazione
+
+Il decreto di espropriazione e' trasmesso in copia all'Ufficio italiano brevetti e marchi e notificato, nelle forme previste per la notificazione degli atti processuali civili, agli interessati.
+Avvenuta la notifica, i diritti che hanno formato oggetto della espropriazione vengono acquisiti dall'amministrazione espropriante, che ha, senz'altro, facolta' di avvalersene. All'amministrazione stessa e' anche trasferito l'eventuale onere del pagamento dei diritti prescritti per il mantenimento in vigore del diritto di proprieta' industriale. Salvo il caso che la pubblicazione possa recare pregiudizio, dei decreti di espropriazione e di quelli che modificano o revocano i precedenti decreti, l'Ufficio italiano brevetti e marchi da' notizia nel Bollettino ufficiale e fa annotazione nel titolo o nella domanda.
+
+Nel decreto di espropriazione della sola utilizzazione del diritto di proprieta' industriale deve essere indicata la durata dell'utilizzazione espropriata. Nel caso in cui sia stata espropriata la sola utilizzazione del diritto di proprieta' industriale, la brevettazione e la registrazione, nonche' la pubblicazione dei relativi titoli si effettuano secondo la procedura ordinaria.
+
+Ai soli fini della determinazione dell'indennita' da corrispondersi per l'espropriazione, se non si raggiunge l'accordo circa l'ammontare della stessa, provvede un Collegio di arbitratori composto di tre membri, nominati uno da ciascuna delle parti ed il terzo nominato dai primi due, o, in caso di disaccordo, dal presidente della sezione specializzata del Tribunale di Roma. Gli arbitratori devono essere scelti fra coloro che abbiano acquisito professionalita' ed esperienza nel settore della proprieta' industriale. Si applicano in quanto compatibili le norme dell'articolo 806 e seguenti del codice di procedura civile.
+
+Il Collegio degli arbitratori deve procedere con equo apprezzamento tenendo conto della perdita del vantaggio competitivo che sarebbe derivato dal brevetto espropriato.
+
+Le spese dell'arbitraggio, gli onorari dovuti agli arbitri e le spese e gli onorari di difesa sono liquidati nel lodo, che stabilisce altresi' su chi ed in quale misura debba gravare l'onere relativo.
+Tale onere grava, in ogni caso, sull'espropriato quando l'indennita' venga liquidata in misura inferiore a quella offerta inizialmente dall'amministrazione.
+
+La determinazione degli arbitratari puo' essere impugnata davanti alla sezione specializzata del Tribunale di Roma che provvede alla quantificazione dell'indennita'. Il termine dell'impugnazione e' di sessanta giorni a decorrere dal momento in cui la determinazione dell'indennita' viene comunicata alle parti.
+
+## Art. 195. — Domande di trascrizione
+
+Le domande di trascrizione devono essere redatte ((...)) secondo le prescrizioni di cui al decreto del Ministro delle attivita' produttive.
+
+## Art. 196. — Procedura di trascrizione
+
+Alla domanda di trascrizione, di cui al comma 2 ((dell'articolo 195)), debbono essere uniti:
+ ((a) copia dell'atto da cui risulta il cambiamento di titolarita' o dell'atto che costituisce o modifica o estingue i diritti personali o reali di godimento o di garanzia di cui al comma 1 lettere a), b), c) ed i) dell'articolo 138, ovvero copia dei verbali e sentenze di cui al comma 1, lettere d), e), f), g) ed h) dell'articolo 138, osservate le norme della legge sul registro ove occorra, oppure un estratto dell'atto stesso oppure nel caso di fusione una certificazione rilasciata dal Registro delle imprese o da altra autorita' competente, oppure, nel caso di cessione o di concessione di licenza, una dichiarazione di cessione, di avvenuta cessione o di avvenuta concessione di licenza firmata dal cedente e dal cessionario con l'elencazione dei diritti oggetto della cessione o concessione.
+L'Ufficio italiano brevetti e marchi puo' richiedere che la copia dell'atto o dell'estratto sia certificata conforme all'originale da un pubblico ufficiale o da ogni altra autorita' pubblica competente;))
+ b) il documento comprovante il pagamento dei diritti prescritti.
+
+E' sufficiente una sola richiesta quando la trascrizione riguarda piu' diritti di proprieta' industriale sia allo stato di domanda che concessi alla stessa persona, a condizione che il beneficiario del cambiamento di titolarita' o dei diritti di godimento o garanzia o dell'atto da trascrivere sia lo stesso per tutti i titoli e che i numeri di tutte le domande e di tutti i titoli in questione siano indicati nella richiesta medesima.
+
+Quando vi sia mandatario, si dovra' unire anche l'atto di nomina ai sensi dell'articolo 201.
+
+I documenti e le sentenze, presentati per la trascrizione, vengono conservati dall'Ufficio italiano brevetti e marchi.
+
+Le richieste di cancellazione delle trascrizioni debbono essere fatte nelle stesse forme e con le stesse modalita' stabilite per le domande di trascrizione. Le cancellazioni devono essere eseguite mediante annotazione a margine.
+
+Qualora, per la trascrizione dei diritti di garanzia, sia necessario convertire l'ammontare del credito in moneta nazionale, tale conversione sara' fatta in base al corso del cambio del giorno in cui la garanzia e' stata concessa.
+
+## Art. 197. — Annotazioni
+
+
+
+I mutamenti del nome o del domicilio del titolare del diritto di proprieta' industriale o del suo mandatario, se vi sia, devono essere portati a conoscenza dell'Ufficio per l'annotazione sul registro di cui all'articolo 185.
+
+La domanda di annotazione di cambiamento di nome o indirizzo deve essere redatta in unico esemplare secondo le prescrizioni di cui al regolamento di attuazione.
+
+E' sufficiente una sola richiesta quando la modifica riguarda piu' diritti di proprieta' industriale sia allo stato di domanda che concessi.
+
+Le disposizioni di cui ai commi 1, 2 e 3 si applicano al cambiamento di nome o di indirizzo del mandatario di cui all'articolo 201.
+
+((
+
+Le dichiarazioni di rinuncia, anche parziale, ad un diritto di proprieta' industriale sottoscritte dal titolare e le sentenze che pronunciano la nullita' o la decadenza dei titoli di proprieta' industriale pervenute all'Ufficio italiano brevetti e marchi devono essere annotate sulla raccolta degli originali e di esse deve essere data notizia nel Bollettino ufficiale.
+
+))
+
+## Art. 198. — Procedure di segretazione militare
+
+Coloro che risiedono nel territorio dello Stato non possono, senza autorizzazione del Ministero delle attivita' produttive, depositare esclusivamente presso uffici di Stati esteri o l'Ufficio brevetti europeo o l'Ufficio internazionale dell'organizzazione mondiale della proprieta' intellettuale in qualita' di ufficio ricevente, le loro domande di concessione di brevetto per invenzione, modello di utilita' o di topografia, qualora dette domande riguardino oggetti che potrebbero essere utili per la difesa del Paese, ne' depositarle presso tali uffici prima che siano trascorsi ((sessanta)) giorni dalla data del deposito in Italia, o da quella di presentazione dell'istanza di autorizzazione. Il Ministero predetto provvede sulle istanze di autorizzazione, previo nulla osta del Ministero della difesa. Trascorso il termine di ((sessanta)) giorni senza che sia intervenuto un provvedimento di rifiuto, l'autorizzazione deve intendersi concessa. Le disposizioni previste dal presente comma non si applicano alle invenzioni realizzate a seguito di accordi internazionali ratificati con legge nazionale.
+
+((1-bis. Le disposizioni del comma 1 si applicano anche quando:
+
+a) l'inventore presti la propria attivita' lavorativa presso filiali italiane di imprese multinazionali la cui capogruppo abbia sede legale all'estero;
+
+b) l'inventore abbia ceduto l'invenzione oggetto del brevetto precedentemente al deposito della domanda di brevetto))
+
+Salvo che il fatto costituisca piu' grave reato, la violazione delle disposizioni del comma 1 e' punita con l'ammenda non inferiore a 77,47 euro o con l'arresto. Se la violazione e' commessa quando l'autorizzazione sia stata negata, si applica l'arresto in misura non inferiore ad un anno.
+
+L'Ufficio italiano brevetti e marchi mette con immediatezza a disposizione del Servizio brevetti e proprieta' intellettuale del Ministero della difesa le domande di brevetto per invenzioni industriali, per modelli di utilita' e per topografie di prodotti a semiconduttori ad esso pervenute.
+
+Qualora il Servizio predetto ritenga che le domande riguardino invenzioni, modelli o topografie utili alla difesa del Paese, anche ufficiali o funzionari estranei al Servizio stesso espressamente delegati dal Ministro della difesa possono prendere visione, nella sede dell'Ufficio, delle descrizioni, delle rivendicazioni e dei disegni allegati alle domande.
+
+Tutti coloro che hanno preso visione di domande e di documenti relativi a brevetti o che ne hanno avuto notizia per ragioni di ufficio sono tenuti all'obbligo del segreto.
+
+Entro ((sessanta)) giorni successivi alla data del deposito delle domande, il Ministero della difesa puo' chiedere all'Ufficio italiano brevetti e marchi il differimento della concessione del titolo di proprieta' industriale e di ogni pubblicazione relativa.
+L'Ufficio da' comunicazione della richiesta all'interessato, diffidandolo ad osservare l'obbligo del segreto.
+
+Se, entro otto mesi dalla data del deposito della domanda, il Ministero competente non ha inviato all'Ufficio e al richiedente, in quanto questi abbia indicato il proprio domicilio nello Stato, la notizia di voler procedere all'espropriazione, si da' seguito alla procedura ordinaria per la concessione del titolo di proprieta' industriale. Nel termine predetto, il Ministero della difesa puo' chiedere che sia ulteriormente differito, per un tempo non superiore a tre anni dalla data di deposito della domanda, la concessione del titolo di proprieta' industriale ed ogni pubblicazione relativa. In tal caso l'inventore o il suo avente causa ha diritto ad un'indennita' per la determinazione della quale si applicano le disposizioni in materia di espropriazione.
+
+Per i modelli di utilita' l'ulteriore differimento previsto nel comma 7 puo' essere chiesto per un tempo non superiore a un anno dalla data di deposito della domanda.
+
+A richiesta di Stati esteri che accordino il trattamento di reciprocita', il Ministero della difesa puo' richiedere, per un tempo anche superiore a tre anni, il differimento della concessione del brevetto e di ogni pubblicazione relativa all'invenzione per domande di brevetto gia' depositate all'estero e ivi assoggettate a vincolo di segreto.
+
+Le indennita' eventuali sono a carico dello Stato estero richiedente.
+
+L'invenzione deve essere tenuta segreta dopo la comunicazione della richiesta di differimento e per tutta la durata del differimento stesso, nonche' durante lo svolgimento della espropriazione e dopo il relativo decreto se questo porti l'obbligo del segreto.
+
+L'invenzione deve essere, altresi', tenuta segreta nel caso previsto dal comma 6, dopo che sia stata comunicata all'interessato la determinazione di promuovere l'espropriazione con imposizione del segreto.
+
+L'obbligo del segreto cessa qualora il Ministero della difesa lo consenta.
+
+La violazione del segreto e' punita ai termini dell'articolo 262 del codice penale.
+
+Il Ministero della difesa puo' chiedere che le domande di brevetto per le invenzioni industriali di organismi dipendenti o vigilati siano mantenute segrete.
+
+Qualora, per invenzione interessante la difesa militare del Paese, il Ministero della difesa richieda o, nell'ipotesi di differimento di cui al comma 6, consenta la concessione del brevetto, la procedura relativa si svolge, su domanda dello stesso Ministero, in forma segreta. In tale caso non si effettua alcuna pubblicazione e non si consentono le visioni nel presente codice.
+
+In caso di esposizioni da tenersi nel territorio dello Stato, il Ministero della difesa ha facolta', mediante propri funzionari od ufficiali, di procedere a particolareggiato esame degli oggetti e dei trovati consegnati per l'esposizione che possano ritenersi utili alla difesa militare del Paese ed ha facolta' altresi' di assumere notizie e chiedere chiarimenti sugli oggetti e trovati stessi.
+
+Gli enti organizzatori di esposizioni devono consegnare ai suddetti funzionari o ufficiali gli elenchi completi degli oggetti da esporre riferentisi ad invenzioni industriali non protette ai sensi del presente codice.
+
+I funzionari e gli ufficiali di cui al comma 17 possono imporre all'ente stesso il divieto di esposizione degli oggetti utili alla difesa militare del Paese.
+
+Il Ministero della difesa, a mezzo raccomandata con avviso di ricevimento, deve dare notizia alla presidenza dell'esposizione e agli interessati del divieto di esposizione, diffidandoli circa l'obbligo del segreto. La presidenza dell'esposizione deve conservare gli oggetti sottoposti al divieto di esposizione con il vincolo di segreto sulla loro natura.
+
+Nel caso che il divieto di esposizione venga imposto dopo che gli oggetti siano stati esposti, gli oggetti stessi devono essere subito ritirati senza, peraltro, imposizione del vincolo del segreto.
+
+E' fatta salva, in ogni caso, la facolta' del Ministero della difesa, per gli oggetti che si riferiscono ad invenzioni riconosciute utili alla difesa militare del Paese, di procedere all'espropriazione dei diritti derivanti dall' invenzione, modello o topografia ai sensi delle norme relative all'espropriazione contenute nel presente codice.
+
+Qualora non sia rispettato il divieto di esposizione, i responsabili dell'abusiva esposizione sono puniti con la sanzione amministrativa da 25,00 euro a 13.000,00 euro.
+
+## Art. 199. — Procedura di licenza obbligatoria
+
+Chiunque voglia ottenere la licenza obbligatoria di cui agli articoli 70 e 71 del capo II, sezione IV, per l'uso non esclusivo di invenzione industriale o di modello di utilita' deve presentare istanza motivata all'Ufficio italiano brevetti e marchi, indicando la misura e le modalita' di pagamento del compenso offerto. L'Ufficio da' pronta notizia dell'istanza, mediante raccomandata con avviso di ricevimento, al titolare del brevetto ed a coloro che abbiano acquistato diritti sul brevetto in base ad atti trascritti o annotati.
+
+Entro sessanta giorni dalla data di ricevimento della raccomandata, il titolare del brevetto e tutti coloro che ne hanno diritto in base ad atti trascritti o annotati possono opporsi all'accoglimento dell'istanza ovvero dichiarare di non accettare la misura e le modalita' di pagamento del compenso. L'opposizione deve essere motivata.
+
+In caso di opposizioni, entro quarantacinque giorni dalla data di scadenza del termine per la presentazione delle stesse, l'Ufficio italiano brevetti e marchi convoca per un tentativo di conciliazione l'istante, il titolare del brevetto e tutti coloro che hanno diritti in base ad atti trascritti o annotati. L'atto di convocazione e' inviato ai soggetti suddetti mediante raccomandata con avviso di ricevimento o tramite altri mezzi, anche informatici, purche' siffatte modalita' garantiscano una sufficiente certezza dell'avvenuto ricevimento della comunicazione.
+
+Nell'atto di convocazione l'Ufficio italiano brevetti e marchi deve comunicare e trasmettere all'istante copia delle opposizioni presentate.
+
+L'istante puo' presentare controdeduzioni scritte all'Ufficio italiano brevetti e marchi entro il quinto giorno antecedente alla data di svolgimento della riunione.
+
+Nei quarantacinque giorni successivi alla data della riunione per il tentativo di conciliazione, il Ministero delle attivita' produttive concede la licenza o respinge l'istanza.
+
+Il termine per la conclusione del procedimento e' di centottanta giorni, decorrenti dalla data di presentazione della domanda.
+
+## Art. 200. — Procedura di licenza volontaria sui principi attivi
+
+Il richiedente deve inoltrare, a mezzo raccomandata con ricevuta di ritorno o tramite altri mezzi che garantiscano l'avvenuto ricevimento della comunicazione, all'Ufficio italiano brevetti e marchi (UIBM) domanda, con allegata traduzione in lingua inglese, corredata dagli elementi previsti dal ((comma 1)).
+
+L'UIBM da' pronta notizia, mediante raccomandata con ricevuta di ritorno o tramite altri mezzi che garantiscano l'avvenuto ricevimento della comunicazione, dell'istanza alle parti interessate e a coloro che abbiano acquisito diritti sul brevetto ovvero sul certificato complementare di protezione in base ad atti trascritti o annotati.
+
+Qualora entro novanta giorni dalla data di ricevimento della domanda, prorogabili d'intesa tra le parti, le stesse raggiungano un accordo sulla base di una royalty contenuta, copia dello stesso deve essere trasmessa, con analoghe modalita', al Ministero delle attivita' produttive - UIBM. Se nei trenta giorni successivi l'Ufficio non comunica rilievi alle parti, l'accordo di licenza volontaria si intende perfezionato.
+
+Nel caso in cui le parti comunichino all'UIBM che non e' stato possibile raggiungere un accordo, l'Ufficio da' inizio alla procedura di conciliazione di cui ((ai commi 6 e seguenti)).
+
+Il Ministero delle attivita' produttive, nomina, con proprio decreto, una commissione avente il compito di valutare le richieste di licenza volontaria per le quali non e' stato possibile raggiungere un accordo tra parti.
+
+La commissione di cui ((ai commi 6 e 7)), entro trenta giorni dalla data di comunicazione ricevuta dall'UIBM del mancato accordo raggiunto tra le parti, procede alla loro convocazione, al fine di individuare un'ipotesi di accordo finalizzato a contemperare le esigenze delle parti medesime, garantendo, comunque, un'equa remunerazione del soggetto che rilascia la licenza volontaria, mediante indicazione di una royalty contenuta, stabilita con criteri che tengono conto delle necessita' di competizione internazionale dei produttori di principi attivi.
+
+Qualora, nonostante la mediazione ministeriale, l'accordo di licenza non venga concluso, il Ministero delle attivita' produttive, ove ne ravvisi i presupposti giuridici, dispone la trasmissione degli atti del procedimento all'Autorita' garante della concorrenza e del mercato.
+
+## - - Capo VI ORDINAMENTO PROFESSIONALE
+
+## Art. 201. — Rappresentanza
+
+Nessuno e' tenuto a farsi rappresentare da un mandatario abilitato nelle procedure di fronte all'Ufficio italiano brevetti e marchi; le persone fisiche e giuridiche possono agire per mezzo di un loro dipendente anche se non abilitato o per mezzo di un dipendente di altra societa' collegata ai sensi dell'articolo 205, comma 3.
+
+La nomina di uno o piu' mandatari, qualora non sia fatta nella domanda, oppure con separato atto, autentico o autenticato, puo' farsi con apposita lettera d'incarico, soggetta al pagamento della tassa prescritta.
+
+L'atto di nomina o la lettera d'incarico puo' riguardare una o piu' domande o in generale la rappresentanza professionale per ogni procedura di fronte all'Ufficio italiano brevetti e marchi ed alla commissione dei ricorsi. In tale caso, in ogni successiva domanda, istanza e ricorso, il mandatario dovra' fare riferimento alla procura o lettera d'incarico.
+
+Il mandato puo' essere conferito soltanto a mandatari iscritti in un albo all'uopo istituito presso il Consiglio dell'ordine dei consulenti in proprieta' industriale.
+
+((
+
+I cittadini dell'Unione europea abilitati all'esercizio della medesima professione in un altro Stato membro possono essere iscritti all'albo secondo le procedure di cui al decreto legislativo 9 novembre 2007, n. 206.
+
+))
+
+COMMA ABROGATO DAL D.LGS. 9 NOVEMBRE 2007, N. 206.
+
+Il mandato puo' essere anche conferito ad un avvocato iscritto nel suo albo professionale.
+
+## Art. 202. — Albo dei consulenti
+
+Fermo quanto disposto dall'articolo 201, la rappresentanza di persone fisiche o giuridiche nelle procedure di fronte all'Ufficio italiano brevetti e marchi ed alla commissione dei ricorsi puo' essere assunta unicamente da consulenti abilitati iscritti in un albo istituito presso il Consiglio dell'ordine e denominato Albo dei consulenti in proprieta' industriale abilitati nonche' da coloro che siano iscritti negli albi degli avvocati.
+
+L'Albo e' costituito da due sezioni denominate rispettivamente sezione brevetti e sezione marchi, riservate, la prima, ai consulenti agenti in materia di brevetti per invenzioni, modelli di utilita', disegni e modelli, nuove varieta' vegetali, topografie dei prodotti a semiconduttori e la seconda ai consulenti abilitati agenti in materia di disegni e modelli, marchi ed altri segni distintivi e indicazioni geografiche.
+
+Gli iscritti all'Albo costituiscono l'ordine dei consulenti in proprieta' industriale.
+
+La vigilanza sull'esercizio della professione viene esercitata dal Ministero delle attivita' produttive, tramite l'Ufficio italiano brevetti e marchi.
+
+## Art. 203. — Requisiti per l'iscrizione
+
+L'iscrizione e' effettuata dal Consiglio dell'ordine su presentazione di una istanza accompagnata dai documenti comprovanti il possesso dei requisiti di cui al comma 1 ovvero includente le autocertificazioni previste per legge. L'avvenuta iscrizione e' prontamente comunicata dal Consiglio all'Ufficio italiano brevetti e marchi.
+
+I soggetti di cui all'articolo 201, comma 4-bis, che intendono esercitare l'attivita' di rappresentanza in Italia a titolo occasionale e temporaneo si considerano automaticamente iscritti all'albo dei consulenti in proprieta' industriale, previa trasmissione da parte dell'autorita' competente della dichiarazione preventiva di cui all'articolo 10, del decreto legislativo 9 novembre 2007, n. 206. L'iscrizione rileva ai soli fini dell'applicazione delle norme professionali, di carattere professionale, legale o amministrativo, direttamente connesse alla qualifica professionale.
+
+((COMMA ABROGATO DALLA L. 6 AGOSTO 2013, N. 97)).
+
+## Art. 204. — Titolo professionale oggetto dell'attivita'
+
+Il titolo di consulente in proprieta' industriale e' riservato alle persone iscritte nell'albo dei consulenti abilitati. Le persone iscritte solo nella sezione brevetti devono utilizzare il titolo nella forma di consulente in brevetti e le persone iscritte solo nella sezione marchi devono utilizzare il titolo nella forma di consulente in marchi. Le persone iscritte in entrambe le sezioni possono utilizzare il titolo di consulente in proprieta' industriale senza ulteriori specificazioni.
+
+Le persone indicate nell'articolo 202 svolgono per conto di qualsiasi persona fisica o giuridica tutti gli adempimenti previsti dalle norme che regolano i servizi attinenti rispettivamente alla materia dei brevetti per invenzioni, per modelli di utilita', per disegni e modelli per nuove varieta' vegetali, per topografie dei prodotti a semiconduttori ovvero alla materia dei marchi, dei disegni e modelli e delle indicazioni geografiche, a seconda della sezione in cui sono iscritte. ((Esse possono certificare la conformita' delle traduzioni in lingua italiana e di ogni atto e documento proveniente dall'estero da prodursi all'Ufficio italiano brevetti e marchi.))
+
+Essi inoltre, su mandato ed in rappresentanza degli interessati, possono svolgere ogni altra funzione che sia affine, connessa, conseguente a quanto previsto nel comma 2.
+
+Se l'incarico e' conferito a piu' consulenti abilitati, essi, salva diversa disposizione, possono agire anche separatamente. Se l'incarico e' conferito a piu' consulenti abilitati, costituiti in associazione o societa', l'incarico si considera conferito ad ognuno di essi in quanto agisca in seno a detta associazione o societa'.
+
+## Art. 205. — Incompatibilita'
+
+L'iscrizione all'albo dei consulenti in proprieta' industriale abilitati e l'esercizio della professione di consulente in proprieta' industriale sono incompatibili con qualsiasi impiego od ufficio pubblico o privato ad eccezione del rapporto di impiego o di cariche rivestite presso societa', uffici o servizi specializzati in materia, sia autonomi che organizzati nell'ambito di enti o imprese, e dell'attivita' di insegnamento in qualsiasi forma esercitata; con l'esercizio del commercio, con la professione di notaio, di giornalista professionista, di mediatore, di agente di cambio o di esattore dei tributi.
+
+L'iscrizione all'Albo dei consulenti in proprieta' industriale abilitati e l'esercizio della professione di consulente in proprieta' industriale e' compatibile, se non previsto altrimenti e fermo restando il disposto del comma 1, con l'iscrizione in altri albi professionali e con l'esercizio della relativa professione.
+
+## Art. 206. — Obbligo del segreto professionale
+
+Il consulente in proprieta' industriale ha l'obbligo del segreto professionale e nei suoi confronti si applica l'articolo 200 del codice di procedura penale.
+
+## Art. 207. — Esame di abilitazione
+
+((1. L'abilitazione e' concessa previo superamento di un esame sostenuto dinanzi a una commissione nominata, per ciascuna delle sezioni indicate dall'articolo 202, comma 2, per la durata di tre anni, con decreto del Ministero delle imprese e del made in Italy, e composta per ciascuna sessione: 
+ a) dal direttore dell'Ufficio italiano brevetti e marchi o da un suo delegato con funzione di presidente; 
+b) da due professori universitari, rispettivamente, di materie giuridiche e tecniche, e rispettivi supplenti, designati dal Ministero delle imprese e del made in Italy; 
+ c) da quattro consulenti in proprieta' industriale abilitati, e rispettivi supplenti, designati dal Consiglio di cui all'articolo 215, di cui almeno uno scelto fra i dipendenti di enti o imprese))
+
+E' ammessa all'esame di abilitazione per l'iscrizione nella sezione brevetti qualsiasi persona che abbia superato l'esame di qualificazione come consulente abilitato presso l'Ufficio europeo dei brevetti.
+
+Il periodo di tirocinio e' limitato a ((dodici mesi)) se il candidato all'esame di abilitazione dimostri di aver frequentato con profitto un corso qualificato di formazione per consulenti abilitati in materia di brevetti ovvero di marchi, a seconda dell'abilitazione richiesta.
+
+L'esame di abilitazione per l'iscrizione nella sezione brevetti e rispettivamente nella sezione marchi consiste in prove ((...)) tendenti ad accertare la preparazione teorico-pratica del candidato nel campo specifico dei diritti di proprieta' industriale, cosi' come a livello della cultura tecnica, giuridica, e linguistica, conformemente alla sezione interessata, secondo le modalita' stabilite nel regolamento da emanarsi con decreto.
+
+L'esame di abilitazione per l'iscrizione nella sezione brevetti ovvero quello per l'iscrizione nella sezione marchi e' indetto ogni due anni con decreto del Ministero delle attivita' produttive.
+
+## Art. 208. — Esonero dall'esame di abilitazione
+
+((
+
+Sono esonerati dall'esame di abilitazione coloro che, gia' dipendenti del Ministero dello sviluppo economico ovvero del Ministero della difesa, abbiano prestato servizio, per almeno cinque anni, con mansioni direttive rispettivamente presso l'Ufficio italiano brevetti e marchi ovvero il Servizio brevetti e proprieta' intellettuale.
+
+))
+
+Sono anche esonerati, ai fini dell'iscrizione nella sezione brevetti, i cittadini italiani che abbiano prestato servizio per almeno cinque anni con mansioni di esaminatori presso l'Ufficio europeo dei brevetti.
+
+## Art. 209. — Albo dei consulenti in proprieta' industriale abilitati
+
+L'albo istituito ai sensi dell'articolo 202 deve contenere per ciascun iscritto il cognome, il nome, il luogo e la data di nascita, il titolo di studio, la data di iscrizione, il domicilio professionale ((in Italia che puo' consistere anche nella sede)) dell'ente o impresa da cui dipende.
+
+La data di iscrizione determina l'anzianita'. Coloro che dopo la cancellazione sono di nuovo iscritti all'albo hanno l'anzianita' derivante dalla prima iscrizione dedotta la durata dell'interruzione.
+
+## Art. 210. — Cancellazione dall'albo e sospensione di diritto
+
+Il consulente abilitato puo' chiedere la reiscrizione nell'albo quando sono cessate le cause della cancellazione senza necessita' di nuovo esame.
+
+Il consulente abilitato e' dichiarato sospeso di diritto dall'esercizio professionale dal momento della sottoposizione alle misure coercitive o interdittive previste dai capi II e III del capo IV, titolo I, del codice di procedura penale sino a quello della revoca delle misure stesse, nonche' in caso di mancato pagamento entro il termine fissato, del contributo annuo, fino alla data dell'accertato adempimento.
+
+## Art. 211. — Sanzioni disciplinari
+
+I consulenti abilitati sono soggetti a censura in caso di abusi e mancanze di lieve entita', alla sospensione per non piu' di due anni in caso di abusi gravi; alla radiazione in caso di condotta che abbia compromesso gravemente la reputazione e la dignita' professionale.
+
+## Art. 212. — Assemblea degli iscritti all'Albo
+
+L'assemblea e' convocata dal presidente, su delibera del Consiglio dell'ordine. Essa e' regolarmente costituita in prima convocazione con la presenza di almeno la meta' degli iscritti ed in seconda convocazione, che non puo' aver luogo lo stesso giorno fissato per la prima, con la presenza di almeno un sesto degli iscritti se gli iscritti presenti e rappresentati raggiungono la presenza di almeno un quinto degli iscritti. Essa delibera a maggioranza assoluta dei voti.
+
+Ogni consulente abilitato iscritto all'albo puo' farsi rappresentare da un altro consulente abilitato iscritto all'albo con delega scritta. Un medesimo partecipante non puo' rappresentare piu' di cinque iscritti.
+
+Le modalita' di convocazione e di svolgimento dell'assemblea sono determinate con decreto del Ministro delle attivita' produttive.
+
+## Art. 213. — Compiti dell'assemblea
+
+L'assemblea si riunisce almeno una volta all'anno entro il mese di marzo, per l'approvazione del conto preventivo e di quello consuntivo, per la determinazione dell'ammontare del contributo annuo che deve essere uguale per tutti gli iscritti e, occorrendo, per l'elezione del Consiglio dell'ordine, nel qual caso la convocazione deve avvenire almeno un mese prima della data della sua scadenza.
+
+L'assemblea si riunisce inoltre ogni volta il Consiglio dell'ordine lo reputi necessario, nonche' quando ne sia fatta domanda per iscritto con indicazione degli argomenti da trattare da almeno un decimo degli iscritti all'albo.
+
+## Art. 214. — Assemblea per l'elezione del Consiglio dell'ordine
+
+I componenti del Consiglio dell'ordine di cui all'articolo 215 sono eletti a maggioranza semplice dei voti segreti validamente espressi per mezzo di schede contenenti un numero di nomi non superiore alla meta' piu' uno dei componenti da eleggere. Vengono eletti i dieci candidati che hanno riportato il maggior numero di voti. In caso di parita' e' preferito il candidato piu' anziano per iscrizione e, tra coloro che abbiano uguale anzianita' di iscrizione, il piu' anziano di eta'.
+
+Ciascuna categoria dei consulenti che esercitano la professione in forma autonoma, sia individualmente che nell'ambito di societa', uffici o servizi autonomi, da una parte, e dei consulenti che esercitano in uffici e servizi specializzati nell'ambito di enti o imprese di cui all'articolo 205, comma 3, dall'altra, non puo' essere rappresentata in seno al Consiglio dell'ordine con piu' di otto componenti. Parimenti ciascuna sezione dell'albo non puo' essere rappresentata in seno al Consiglio dell'ordine con piu' di sette componenti, ad essa iscritti in via esclusiva.
+
+Non sono ammesse le partecipazioni e votazioni per delega. E' ammessa la votazione mediante lettera.
+
+Le modalita' di svolgimento delle votazioni, delle operazioni di scrutinio e di proclamazione degli eletti sono stabilite con decreto del Ministro delle attivita' produttive.
+
+## Art. 215. — Consiglio dell'ordine dei consulenti in proprieta' industriale
+
+L'ordine dei consulenti in proprieta' industriale e' retto da un Consiglio che dura in carica tre anni ed e' composto da dieci membri con non meno di tre anni di anzianita' eletti dall'assemblea. A sostituire i componenti cessati per qualsiasi causa prima della scadenza sono chiamati i candidati compresi nella graduatoria che, dopo quelli eletti, hanno ottenuto il maggior numero di voti, ferme restando le disposizioni di cui al comma 2 dell'articolo 214.
+
+In caso di mancato tempestivo rinnovo, il Consiglio dell'ordine continua a funzionare sino alla nomina del nuovo Consiglio.
+
+Il Consiglio dell'ordine si riunisce validamente con la presenza della maggioranza dei componenti e delibera a maggioranza assoluta.
+In caso di parita' prevale il voto del presidente. In materia disciplinare il Consiglio dell'ordine delibera con la presenza di almeno tre quarti dei componenti.
+
+## Art. 216. — Attribuzioni del presidente del Consiglio dell'ordine
+
+Il Consiglio dell'ordine nomina tra i suoi componenti un presidente, il quale ne ha la rappresentanza: adotta in casi urgenti i provvedimenti necessari, salva ratifica del Consiglio nella prima seduta successiva, ed esercita le rimanenti attribuzioni a lui conferite dal presente codice.
+
+Il presidente puo' delegare a componenti il Consiglio attribuzioni di segreteria o di tesoreria.
+
+Il Consiglio nomina altresi' fra i suoi componenti un vice presidente, il quale sostituisce il presidente in sua assenza o impedimento oppure su delega dello stesso per singoli atti.
+
+## Art. 217. — Attribuzioni del Consiglio dell'ordine
+
+## Art. 218. — Decadenza dalla carica di componente il Consiglio dell'ordine, scioglimento e mancata costituzione del Consiglio dell'ordine
+
+I componenti che, senza giustificati motivi, non intervengono per tre volte consecutive alle sedute del Consiglio dell'ordine sono da questo dichiarati decaduti dalla carica.
+
+Il Consiglio puo' essere sciolto dal Ministro delle attivita' produttive, se non e' in grado di funzionare ed in ogni caso se sono cessati o decaduti piu' di quattro degli originari componenti ovvero nel caso che siano accertate gravi irregolarita'.
+
+In caso di scioglimento del Consiglio, le sue funzioni sono assunte da un commissario nominato dal Ministro delle attivita' produttive. Il commissario provvede, entro sessanta giorni, ad indire nuove elezioni, per lo svolgimento delle quali l'assemblea deve riunirsi non prima di trenta giorni e non oltre sessanta giorni dalla data dell'atto di convocazione.
+
+## Art. 219. — Sedute del Consiglio dell'ordine
+
+Il Consiglio dell'ordine e' convocato dal presidente almeno una volta ogni sei mesi o quando lo ritiene opportuno, ovvero quando ne sia fatta richiesta dalla maggioranza dei componenti. Le deliberazioni del Consiglio sono verbalizzate da un componente nominato segretario all'inizio di ogni seduta.
+
+## Art. 220. — Procedimento disciplinare
+
+Quando perviene notizia di fatti che possono condurre all'applicazione di una delle sanzioni disciplinari di cui all'articolo 211, il presidente nomina tra i membri del Consiglio un relatore.
+
+Il Consiglio, previa contestazione dei fatti che preceda almeno di 10 giorni l'audizione dell'interessato, esaminate le eventuali memorie e documenti, delibera a maggioranza assoluta dei presenti; in caso di parita' di voti prevale la decisione piu' favorevole all'incolpato.
+
+Se l'interessato non si presenta o non fa pervenire alcuna memoria difensiva si procede in sua assenza a meno che non sia dimostrato un legittimo impedimento.
+
+La deliberazione deve contenere l'indicazione dei fatti, i motivi e l'enunciazione sintetica della decisione.
+
+I membri del Consiglio devono astenersi quando ricorrano i motivi indicati dall'articolo 51, primo comma, del codice di procedura civile in quanto applicabili, e possono essere ricusati per gli stessi motivi con istanza depositata presso la segreteria del Consiglio prima della discussione.
+
+In ogni altro caso in cui esistano gravi ragioni di convenienza i membri possono richiedere al presidente del Consiglio dell'ordine l'autorizzazione ad astenersi.
+
+Sulla ricusazione decide la commissione dei ricorsi.
+
+## Art. 221. — Ricorso contro i provvedimenti del Consiglio dell'ordine
+
+((
+
+Contro tutti i provvedimenti del Consiglio dell'ordine e' esperibile ricorso davanti alla commissione dei ricorsi entro il termine di prescrizione di un anno dalla comunicazione del provvedimento all'interessato.
+
+))
+
+Il direttore dell'Ufficio italiano brevetti e marchi assicura la regolarita' dell'operato e la funzionalita' del Consiglio e puo' ricorrere, per ogni irregolarita' constatata, alla commissione dei ricorsi entro trenta giorni dalla data di comunicazione della delibera. Il ricorso non ha effetto sospensivo.
+
+## Art. 222. — Tariffa professionale
+
+Il Ministro delle attivita' produttive approva, con proprio decreto, le modifiche e gli aggiornamenti della tariffa professionale proposti dal Consiglio dell'ordine, ai sensi dell'articolo 217, comma 1, lettera d).
+
+Lo svolgimento delle attivita' relative all'ordinamento professionale non comportano oneri aggiuntivi a carico del bilancio statale.
+
+## - - Capo VII GESTIONE DEI SERVIZI E DIRITTI
+
+## Art. 223. — Compiti
+
+Ai servizi attinenti alla materia regolata dal presente codice provvede l'Ufficio italiano brevetti e marchi.
+
+Fatte salve le competenze istituzionali del Ministero degli affari esteri in materia di proprieta' industriale e l'attivita' di coordinamento del Presidente del Consiglio dei Ministri, l'Ufficio italiano brevetti e marchi del Ministero delle attivita' produttive promuove e mantiene relazioni con le istituzioni e gli organismi comunitari ed internazionali competenti in materia, nonche' con gli uffici nazionali della proprieta' industriale degli altri Stati, e provvede alla trattazione delle relative questioni assicurando la partecipazione negli organi e nei gruppi di lavoro.
+
+L'Ufficio italiano brevetti e marchi puo' stipulare convenzioni con regioni, camere di commercio, industria, artigianato ed agricoltura, enti pubblici e privati finalizzati allo svolgimento dei propri compiti.
+
+## Art. 224. — Risorse finanziarie
+
+L'Ufficio italiano brevetti e marchi provvede all'assolvimento dei propri compiti ed al finanziamento della ricerca di anteriorita' con le risorse di bilancio iscritte allo stato di previsione della spesa del Ministero delle attivita' produttive, con i corrispettivi direttamente riscossi per i servizi resi in materia di proprieta' industriale.
+
+Il Ministero delle attivita' produttive provvede a corrispondere annualmente il cinquanta per cento dell'ammontare delle tasse di cui al comma 1 all'Ufficio europeo dei brevetti, cosi' come previsto ((dall'articolo 39)) della convenzione di Monaco del 5 ottobre 1973, ratificata dalla legge 25 maggio 1978, n. 260.
+
+L'Ufficio italiano brevetti e marchi provvede all'assolvimento dei propri compiti anche con i versamenti ed i rimborsi eventualmente effettuati da organismi internazionali di proprieta' industriale ai quali l'Italia partecipa e con ogni altro provento derivante dalla sua attivita'.
+
+## Art. 225. — Diritti di concessione e di mantenimento
+
+Per le domande presentate al Ministero ((dello sviluppo economico)) al fine dell'ottenimento di titoli di proprieta' industriale, per le concessioni, le opposizioni, ((le decadenze e nullita',)) le trascrizioni, il rinnovo e' dovuto il pagamento dell'imposta di bollo, nonche' delle tasse di concessione governativa e dei diritti la cui determinazione, in relazione a ciascun titolo o domanda ed all'intervallo di tempo al quale si riferiscono, viene effettuata con apposito decreto dal Ministro ((dello sviluppo economico)), di concerto con il Ministro dell'economia e delle finanze.
+
+La tassa individuale di designazione dell'Italia nella domanda di registrazione internazionale di marchio, nella designazione posteriore o nell'istanza di rinnovo applicabile ai marchi internazionali esteri che chiedono la protezione sul territorio italiano tramite l'Organizzazione mondiale della proprieta' intellettuale di Ginevra, ai sensi del Protocollo relativo all'Accordo di Madrid per la registrazione internazionale dei marchi del 27 giugno 1989, ratificato con legge 12 marzo 1996, n. 169, e' fissata nella misura del novanta per cento dei diritti previsti per il deposito della concessione di un marchio nazionale ovvero della rinnovazione.
+
+## Art. 226. — Termini e modalita' di pagamento
+
+Il pagamento dei diritti e delle tasse di concessione governativa di cui al presente codice e' effettuato nei termini e nelle modalita' fissati dal Ministro delle attivita' produttive, con proprio decreto.
+
+## Art. 227. — (Diritti per il mantenimento in vita dei titoli di proprieta' industriale)
+
+Tutti i diritti previsti per il mantenimento in vita dei titoli di proprieta' industriale devono essere pagati anticipatamente, entro il mese corrispondente a quello in cui e' stata depositata la domanda, trascorso il periodo coperto dal precedente pagamento. ((PERIODO SOPPRESSO DAL D.LGS. 20 FEBBRAIO 2019, N. 15)).
+
+((1-bis. La domanda di rinnovazione di marchio deve essere depositata entro i dodici mesi precedenti l'ultimo giorno del mese di scadenza del decennio in corso))
+
+I diritti di mantenimento in vita per i brevetti d'invenzione, i modelli di utilita' e i disegni e modelli, ove gia' maturati alla fine del mese in cui e' rilasciato l'attestato di concessione oppure maturati entro la fine del terzo mese successivo, sono pagabili entro quattro mesi dalla fine del mese di detto rilascio.
+
+I diritti di mantenimento in vita per le privative di varieta' vegetali sono dovuti, per la durata della privativa di cui all'articolo 109, comma 1, a partire dalla concessione della privativa medesima e devono essere pagati anticipatamente entro il mese corrispondente a quello della concessione.
+
+Trascorso il termine di scadenza di cui ai commi 1 e 2, il pagamento e' ammesso nei sei mesi successivi con l'applicazione di un diritto di mora, il cui ammontare e' determinato per ciascun diritto di proprieta' industriale dal Ministero dello sviluppo economico, di concerto con il Ministero dell'economia e delle finanze.
+
+Il ritardo nel pagamento che sia superiore a sei mesi comporta la decadenza del diritto di proprieta' industriale.
+
+Possono pagarsi anticipatamente piu' diritti annuali.
+
+Nel caso di cui all'articolo 6, comma 1, tutti i soggetti sono tenuti solidalmente al pagamento dei diritti di mantenimento.
+
+Al pagamento dei diritti di mantenimento dei brevetti europei validi in Italia dovuti a partire dall'anno successivo a quello in cui la concessione del brevetto europeo e' pubblicata nel Bollettino dei brevetti europei, si applicano gli stessi termini di pagamento previsti per i brevetti nazionali e le norme di cui all'articolo 230 sulla regolarizzazione.
+
+((8-bis. Se la domanda di rinnovazione del marchio o le relative tasse pagate si riferiscono soltanto a una parte dei prodotti o dei servizi per i quali il marchio e' registrato, questa e' rinnovata soltanto per i prodotti o servizi di cui trattasi, fatto salvo quanto previsto all'articolo 230. Qualora le tasse versate non siano sufficienti per tutte le classi di prodotti e servizi per le quali viene richiesto il rinnovo, la registrazione viene rinnovata se risulta chiaramente quali sono le classi cui si riferisce l'importo versato. In mancanza di altri criteri, l'Ufficio prende in considerazione le classi nell'ordine di classificazione))
+
+## Art. 228. — Esenzione e sospensione del pagamento dei diritti
+
+All'inventore, il quale dimostri di essere in condizioni di indigenza, il Ministro delle attivita' produttive puo' concedere l'esenzione dai diritti di concessione e la sospensione dal pagamento dei diritti annuali per i primi cinque anni. Allo scadere del quinto anno l'inventore che intende mantenere in vigore il brevetto deve pagare, oltre il diritto annuale per il sesto anno anche quelli arretrati. In caso contrario il brevetto decade e l'inventore non e' tenuto al pagamento dei diritti degli anni anteriori.
+
+## Art. 229. — (( (Tasse e diritti rimborsabili). ))
+
+((
+
+In caso di rigetto della domanda di marchio o di rinuncia alla stessa prima che la registrazione sia stata effettuata, sono rimborsate le tasse di concessione governativa, ad eccezione delle tasse per la domanda di primo deposito e, ove presentata, delle tasse dovute per la lettera d'incarico. Il diritto previsto per il deposito dell'opposizione e' rimborsato solo in caso di estinzione della stessa ai sensi dell'articolo 181, comma 1, lettera b).
+
+I rimborsi sono autorizzati dal Ministero delle imprese e del made in Italy.
+
+L'autorizzazione e' disposta d'ufficio quando le tasse da rimborsare si riferiscono a una domanda di registrazione di marchio respinta. In ogni altro caso, il rimborso e' disposto su richiesta dell'avente diritto, con istanza diretta inviata all'Ufficio italiano brevetti e marchi entro il termine di decadenza di tre anni dalla data della rinuncia alla domanda di marchio o dell'estinzione dell'opposizione.
+
+4. I rimborsi sono annotati nella banca dati dell'Ufficio italiano brevetti e marchi))
+
+## Art. 230. — Pagamento incompleto od irregolare
+
+Se per evidente errore, o per altri scusabili motivi, un diritto venga pagato incompletamente o comunque irregolarmente, l'Ufficio italiano brevetti e marchi puo' ammettere come utile l'integrazione o la regolarizzazione anche tardiva del pagamento.
+
+Se si tratta di un diritto annuale, l'Ufficio italiano brevetti e marchi provvede solo su istanza dell'interessato. ((La regolarizzazione e' subordinata al pagamento del diritto di mora, previsto dall'articolo 227, comma 4, per ogni annualita' incompleta o irregolare)). Se l'istanza viene respinta, l'interessato puo' ricorrere alla commissione dei ricorsi di cui all'articolo 135, comma 1.
+
+COMMA ABROGATO DAL D.LGS 13 AGOSTO 2010, N. 131.
+
+## - - Capo VIII DISPOSIZIONI TRANSITORIE E FINALI Sezione I Marchi
+
+## Art. 231. — Domande anteriori
+
+Le domande di registrazione di marchio e le domande di trascrizione depositate prima della data di entrata in vigore del decreto legislativo 4 dicembre 1992, n. 480, sono trattate secondo le disposizioni in esso contenute. Tuttavia, per quanto riguarda la regolarita' formale, sono soggette alle norme preesistenti.
+
+## Art. 232. — Limiti al diritto esclusivo sul marchio rinomato
+
+Il diritto di fare uso esclusivo di un marchio registrato prima della data di entrata in vigore del decreto legislativo 4 dicembre 1992, n. 480, e che goda di rinomanza, non consente al titolare di opporsi all'ulteriore uso nel commercio di un segno identico o simile al marchio per prodotti o servizi non affini a quelli per cui esso e' stato registrato.
+
+## Art. 233. — Nullita'
+
+I marchi di impresa registrati prima della data di entrata in vigore del decreto legislativo 4 dicembre 1992, n. 480, sono soggetti, in quanto alle cause di nullita', alle norme di legge anteriori.
+
+Non puo' essere dichiarata la nullita' del marchio se anteriormente alla proposizione della domanda principale o riconvenzionale di nullita', il segno, a seguito dell'uso che ne sia stato fatto, abbia acquistato carattere distintivo.
+
+Non puo' essere dichiarata la nullita' del marchio se il marchio anteriore sia scaduto da oltre due anni ovvero tre se si tratta di marchio collettivo o possa considerarsi decaduto per non uso anteriormente alla proposizione della domanda principale o riconvenzionale di nullita'.
+
+Ai fini dell'applicazione dell'articolo 48 del regio decreto 29 giugno 1942, n. 929, come sostituito dal decreto legislativo 4 dicembre 1992, n. 480, il termine di cinque anni decorre dalla data di entrata in vigore dello stesso.
+
+## Art. 234. — Trasferimento e licenza del marchio
+
+Le norme del decreto legislativo 4 dicembre 1992, n. 480, che disciplinano il trasferimento e la licenza del marchio si applicano anche ai marchi gia' concessi, ma non ai contratti conclusi prima della data di entrata in vigore del decreto legislativo 4 dicembre 1992, n. 480.
+
+## Art. 235. — Decadenza per non uso
+
+Le norme del decreto legislativo 4 dicembre 1992, n. 480, che disciplinano la decadenza per non uso si applicano ai marchi gia' concessi alla data di entrata in vigore dello stesso decreto legislativo, purche' non ancora decaduti a tale data.
+
+## Art. 236. — Decadenza per uso ingannevole
+
+Le norme del decreto legislativo 4 dicembre 1992, n. 480, che disciplinano la decadenza del marchio per uso ingannevole dello stesso si applicano ai marchi gia' concessi alla data di entrata in vigore del medesimo decreto legislativo, in relazione ad un uso ingannevole posto in essere dopo la sua entrata in vigore.
+
+## - - Sezione II Disegni e modelli
+
+## Art. 237. — Domande anteriori
+
+Le domande di brevetto per disegno o modello ornamentale e le domande di trascrizione depositate prima della data di entrata in vigore del decreto legislativo 2 febbraio 2001, n. 95, sono trattate secondo le disposizioni in esso contenute. Le stesse domande sono soggette alle norme precedenti relativamente alla regolarita' formale.
+
+## Art. 238. — Proroga della privativa
+
+I brevetti per disegno o modello ornamentale concessi prima della data di entrata in vigore del decreto legislativo 2 febbraio 2001, n. 95, purche' non scaduti, ne' decaduti alla data di entrata in vigore del decreto legislativo citato, possono essere prorogati fino al termine massimo di venticinque anni dalla data di deposito della domanda di brevetto. I licenziatari e coloro che in vista della prossima scadenza avevano compiuto investimenti seri ed effettivi per utilizzare il disegno o modello hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei brevetti non ancora scaduti.
+
+Le tasse di concessione corrisposte in un'unica soluzione valgono per le prime due proroghe. Le tasse sulle concessioni governative relative al quarto e quinto quinquennio, a far data dal 19 aprile 2001, sono di importo corrispondente alla rata del terzo quinquennio prevista dall'articolo 10, titolo IV, numero 2, lettere c) ed f), della tariffa indicata nella tabella allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 641.
+
+## Art. 239. — (Limiti alla protezione accordata dal diritto d'autore)
+
+La protezione accordata ai disegni e modelli ai sensi dell'articolo 2, n. 10), della legge 22 aprile 1941, n. 633, comprende anche le opere del disegno industriale che, anteriormente alla data del 19 aprile 2001, erano, oppure erano divenute, di pubblico dominio. Tuttavia i terzi che avevano fabbricato o commercializzato, nei dodici mesi anteriori al 19 aprile 2001, prodotti realizzati in conformita' con le opere del disegno industriale allora in pubblico dominio non rispondono della violazione del diritto d'autore compiuta proseguendo questa attivita' anche dopo tale data, limitatamente ai prodotti da essi fabbricati o acquistati prima del 19 aprile 2001 ((e a quelli da essi fabbricati nei tredici anni successivi a tale data)) e purche' detta attivita' si sia mantenuta nei limiti anche quantitativi del preuso.
+
+## Art. 240. — Nullita'
+
+I brevetti per disegni e modelli ornamentali concessi prima della data di entrata in vigore del decreto legislativo 2 febbraio 2001, n. 95, sono soggetti, in quanto alle cause di nullita', alle norme di legge anteriori e, quanto agli effetti della declaratoria di nullita', alla norma di cui all'articolo 77 del presente codice.
+
+## Art. 241. — Diritti esclusivi sulle componenti di un prodotto complesso
+
+Fino a che la direttiva 98/71/CE del parlamento europeo e del Consiglio, del 13 ottobre 1998, sulla protezione giuridica dei disegni e modelli non sara' modificata su proposta della commissione a norma dell'articolo 18 della direttiva medesima, i diritti esclusivi sui componenti di un prodotto complesso non possono essere fatti valere per impedire la fabbricazione e la vendita dei componenti stessi per la riparazione del prodotto complesso, al fine di ripristinarne l'aspetto originario.
+
+## - - Sezione III Nuove Varieta' Vegetali
+
+## Art. 242. — Durata della privativa
+
+Le disposizioni dell'articolo 109 del presente codice si applicano ai brevetti per nuove varieta' vegetali concessi conformemente al decreto del Presidente della Repubblica 12 agosto 1975, n. 974, non scaduti o decaduti alla data di entrata in vigore del decreto legislativo 3 novembre 1998, n. 455.
+
+I licenziatari e coloro che, alla data di entrata in vigore del decreto legislativo 3 novembre 1998, n. 455, hanno compiuto seri ed effettivi investimenti per l'utilizzo delle nuove varieta' vegetali coperte dal diritto di costitutore hanno diritto di ottenere licenza obbligatoria gratuita e non esclusiva per il periodo di maggior durata. Questa facolta' non si applica ai contraffattori dei diritti non ancora scaduti.
+
+((
+
+I diritti annuali versati dalla data di deposito per il mantenimento in vita delle domande e delle privative per novita' vegetali gia' depositate o concesse alla data del 29 marzo 1999 sono considerati valido pagamento dei corrispondenti diritti annuali dovuti dalla concessione della privativa in conformita' all'articolo 25 del decreto legislativo 3 novembre 1998, n. 455.
+
+))
+
+## - - Sezione IV Invenzioni
+
+## Art. 243. — (( (Invenzioni dei ricercatori delle universita' e degli enti
+ pubblici di ricerca) ))
+
+((
+
+Le invenzioni dei dipendenti il cui rapporto di lavoro intercorre con un'universita' o con una pubblica Amministrazione avente tra i suoi compiti istituzionali finalita' di ricerca sono soggette alla disciplina, dettata rispettivamente dall'articolo 24-bis del regio decreto 29 giugno 1939, n. 1127, introdotto dalla legge 18 ottobre 2001, n. 383, dal testo originario dell'articolo 65 del presente Codice e dal testo attuale del medesimo articolo, in vigore al momento in cui le invenzioni sono state conseguite, ancorche' in dipendenza di ricerche cominciate anteriormente.
+
+))
+
+## Art. 243-bis. — (( (Relazione al Parlamento in materia di protezione giuridica delle invenzioni biotecnologiche) ))
+
+((
+
+Il Ministro dello sviluppo economico, di concerto con i Ministri della salute, delle politiche agricole alimentari e forestali, dell'ambiente e della tutela del territorio e del mare, dell'istruzione, dell'universita' e della ricerca e del lavoro e delle politiche sociali presenta al Parlamento ogni anno una relazione sull'applicazione delle norme previste dal Capo II, sezione IV-bis, del presente Codice.
+
+))
+
+## - - Sezione V Domande anteriori
+
+## Art. 244. — Trattamento delle domande
+
+Le domande di brevetto o di registrazione e quelle di trascrizione e annotazione, anche se gia' depositate al momento della data di entrata in vigore del presente codice, sono trattate secondo le disposizioni in esso contenute. Le domande di cui al capo IV, sezione I, sono soggette alle norme preesistenti relativamente alle condizioni di ricevibilita'.
+
+## - - Sezione VI Norme di Procedura
+
+## Art. 245. — Disposizioni procedurali
+
+Le norme dei capi I e IV del titolo II quelle del titolo III e le norme degli articoli 35 e 36 del titolo V del decreto legislativo 17 gennaio 2003, n. 5, si applicano ai procedimenti giudiziari ed agli arbitrati che siano iniziati con atto notificato oppure con deposito del ricorso sei mesi dopo l'entrata in vigore del codice.
+
+((2. Le controversie in grado d'appello nelle materie di cui all'articolo 134, iniziate dopo la data di entrata in vigore del presente codice, restano devolute alla cognizione delle sezioni specializzate di cui al decreto legislativo 27 giugno 2003, n. 168, anche se il giudizio di primo grado o il giudizio arbitrale sono iniziati o si sono svolti secondo le norme precedentemente in vigore, a meno che non sia gia' intervenuta nell'ambito di essi una pronuncia sulla competenza))
+
+((3. Le procedure di reclamo e le cause di merito nelle materie di cui all'articolo 134, iniziate dopo la data di entrata in vigore del presente codice, restano devolute alla cognizione delle sezioni specializzate di cui al decreto legislativo 27 giugno 2003, n. 168, anche se riguardano misure cautelari concesse secondo le norme precedentemente in vigore))
+
+Le norme di procedura di cui all'articolo 136 concernenti la funzione giurisdizionale della commissione dei ricorsi si applicano a partire da un anno dopo l'entrata in vigore del codice.
+
+Le norme di procedura di cui agli articoli 137,146, 194, 195, 196, 198, 199 e 200 si applicano con l'entrata in vigore del codice.
+
+---------------
+                            AGGIORNAMENTO (6)
+                            
+ La Corte costituzionale, con sentenza 14-24 aprile 2008, n. 112 (in G.U. 1a s.s. 30/04/2008, n. 19) ha dichiarato l'illegittimita' costituzionale del comma 2 del presente articolo 245, "nella parte in cui stabilisce che sono devolute alla cognizione delle sezioni specializzate le controversie in grado d'appello iniziate dopo l'entrata in vigore del codice, anche se il giudizio di primo grado e' iniziato e si e' svolto secondo le norme precedentemente in vigore". 
+                            ---------------
+                            AGGIORNAMENTO (7)
+                            
+ La Corte costituzionale, con sentenza 22-30 aprile 2009, n. 123 (in G.U. 1a s.s. 6/5/2009, n. 18) ha dichiarato l'illegittimita' costituzionale del comma 3 del presente articolo 245, "nella parte in cui stabilisce che sono devolute alla cognizione delle sezioni specializzate le procedure di reclamo iniziate dopo l'entrata in vigore del codice, anche se riguardano misure cautelari concesse secondo le norme precedentemente in vigore".
+
+## - - ((Sezione VIbis Brevetto europeo))
+
+## Art. 245-bis. — (( (Regime transitorio). ))
+
+((
+
+Le cause riguardanti il brevetto europeo rilasciato per l'Italia, pendenti fino alla data di entrata in vigore dell'Accordo su un tribunale unificato dei brevetti, ratificato e reso esecutivo ai sensi della legge 3 novembre 2016, n. 214, e quelle promosse dopo l'entrata in vigore dell'Accordo davanti all'autorita' giudiziaria italiana per effetto del regime transitorio di cui all'articolo 83, paragrafo 3, dell'Accordo medesimo, sono decise in conformita' alla legislazione italiana in materia.
+
+))
+
+## - - Sezione VII Abrogazioni
+
+## Art. 246. — Disposizioni abrogative
+

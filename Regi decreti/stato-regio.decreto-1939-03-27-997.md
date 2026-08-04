@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 997
+data: 1939-03-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-03-27;997
+codice_redazionale: 039U0997
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:47Z
+---
+
+REGIO DECRETO
+                27 marzo 1939
+                997
+                Erezione in ente morale dell' «Asilo infantile Vittore e Gemma Tanchis» con sede in Tissi (Sassari). (039U0997)
+
+Entrata in vigore del provvedimento: 03/08/1939
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1045
+data: 1959-11-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-11-01;1045
+codice_redazionale: 059U1045
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 novembre 1959
+                1045
+                Riconoscimento, agli effetti civili, della erezione della parrocchia del SS. Crocifisso, in localita' Ponte Tresa del comune di Lavena (Varese).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 1 novembre 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Como in data 11 febbraio 1959, integrato con dichiarazione del 4 maggio 1959, relativo all'erezione della parrocchia del SS. Crocifisso, in localita' Ponte Tresa del comune di Lavena (Varese).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 9 dicembre 1959
+ Atti del Governo, registro n. 122, foglio n. 125. - VILLA
+

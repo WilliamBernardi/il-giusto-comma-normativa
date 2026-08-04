@@ -1,0 +1,62 @@
+---
+tipo: DECRETO
+numero: 240
+data: 2007-10-30
+titolo: ""
+urn: urn:nir:presidenza.consiglio.ministri:decreto:2007-10-30;240
+codice_redazionale: 007G0257
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+vigenza_date: 2020-07-08
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:40Z
+---
+
+DECRETO
+                30 ottobre 2007
+                240
+                Regolamento recante «Attuazione dell'articolo 17, comma 1-bis, della legge 3 agosto 1998, n. 269, in materia di coordinamento delle azioni di tutela dei minori dallo sfruttamento sessuale e dall'abuso e istituzione dell'Osservatorio per il contrasto della pedofilia e della pornografia minorile».
+
+Entrata in vigore del provvedimento: 5/1/2008
+
+Sentito il parere del Garante per la riservatezza dei dati personali espresso nella riunione del 25 luglio 2007;
+
+Preso atto che la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, non ha provveduto ad esprimere il parere richiesto;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nelle adunanze del 23 luglio e 8 ottobre 2007;
+
+## Art. 1. — Osservatorio per il contrasto della pedofilia e della pornografia minorile
+
+L'Osservatorio per il contrasto della pedofilia e della pornografia minorile, d'ora in poi denominato "Osservatorio", istituito presso la Presidenza del Consiglio dei Ministri dall'articolo 17, comma 1-bis della legge 3 agosto 1998, n. 269, opera presso il ((Dipartimento per le politiche della famiglia)).
+
+L'Osservatorio ha il compito di acquisire e monitorare i dati e le informazioni relativi alle attivita', svolte da tutte le pubbliche amministrazioni, per la prevenzione e la repressione dell'abuso e dello sfruttamento sessuale dei minori.
+
+## Art. 2. — Composizione dell'Osservatorio
+
+
+
+I componenti sono scelti tra persone di comprovata esperienza nei settori della tutela dei minori e della ricerca sociale. Il ((Autorita' politica con delega alla famiglia)) provvede con proprio decreto alla nomina dei componenti.
+
+Possono essere conferiti incarichi individuali ad esperti di comprovata competenza, per il compimento di studi ai sensi del decreto del Presidente della Repubblica 18 aprile 1994, n. 338, il cui compenso e' determinato nel limite delle risorse di cui all'articolo 6.
+
+## Art. 3. — Organizzazione e funzionamento dell'Osservatorio
+
+Le funzioni di segreteria dell'Osservatorio sono assicurate dal ((Dipartimento per le politiche della famiglia)), che, per l'attuazione dei programmi di attivita' dell'Osservatorio puo' stipulare convenzioni con le amministrazioni centrali, regionali e locali, con le universita' e con enti di ricerca pubblici e privati che abbiano particolare qualificazione nel campo dell'infanzia e dell'adolescenza. In particolare il Dipartimento si avvale, per le finalita' dell'Osservatorio, della collaborazione del Centro nazionale di documentazione e analisi per l'infanzia e l'adolescenza di cui all'articolo 3 del decreto del Presidente della Repubblica 14 maggio 2007, n. 103.
+
+Ai componenti dell'Osservatorio estranei alla pubblica amministrazione ((non e' riconosciuto alcun compenso, fatto salvo il rimborso delle spese effettivamente sostenute ai fini della partecipazione ai lavori dell'Osservatorio.))
+
+## Art. 4. — Banca dati
+
+Presso l'Osservatorio e' istituita una banca dati per raccogliere, con l'apporto dei dati forniti dalle amministrazioni, tutte le informazioni necessarie per il monitoraggio del fenomeno dell'abuso e dello sfruttamento sessuale dei minori e della pornografia minorile e delle azioni di prevenzione e repressione ad esso collegate.
+
+Per la identificazione dei dati e delle informazioni che debbono essere acquisite dalla banca dati, per la relativa codificazione e per la regolazione dei flussi informativi il ((Autorita' politica con delega alla famiglia)) conclude specifici accordi con le amministrazioni che detengono i dati e le informazioni. Tali accordi escludono il trattamento di dati nominativi, ma individuano le modalita' di tracciabilita' dei dati.
+
+## Art. 5. — Dati sensibili e giudiziari
+
+Con decreto del Presidente del Consiglio dei Ministri, su proposta del ((Autorita' politica con delega alla famiglia)), sono individuati i casi in cui per lo svolgimento dei compiti di coordinamento della Presidenza del Consiglio dei Ministri, sono raccolti dati personali relativi a minori e altre persone coinvolte in episodi di sfruttamento o di abuso sessuale, in aggiunta ai dati presenti nell'Osservatorio e a quelli raccolti nella banca dati di cui all'articolo 4.
+
+## Art. 6. — Oneri di funzionamento
+
+Agli oneri per la istituzione e per la gestione dell'Osservatorio e della banca dati di cui al presente regolamento si provvede a norma dell'articolo 17, comma 1-bis della legge 3 agosto 1998, n. 269.
+

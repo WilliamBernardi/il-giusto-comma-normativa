@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1878-02-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1878-02-21;1815
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:21Z
+---
+
+REGIO DECRETO
+                21 febbraio 1878
+                MDCCCXV
+                Che erige in corpo morale il legato di Vittoria Langosco Stroppiana Barbavara pel mantenimento di alcuni posti nel seminario di Novara e per soccorsi ai poveri infermi di Gravellona. (7801815R)
+
+Entrata in vigore del provvedimento: 31/03/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 767
+data: 1951-03-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-03-10;767
+codice_redazionale: 051U0767
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 marzo 1951
+                767
+                Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "Besta" di Treviso ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 marzo 1951, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola tecnica commerciale "Besta" di Treviso viene autorizzata ad accettare la donazione di L. 64.000 in titoli di Stato e L. 529 in contanti, da parte del prof. Bruno Fabris ed altri allo scopo di istituire, col relativo reddito, un premio di studio intitolato "Giovanni Fabris", a favore di un alunno della Scuola.
+
+Visto, il Guardasigilli: PICCIONI
+ Registrato alla Corte dei conti, addi' 1 settembre 1951
+ Atti del Governo, registro n. 42, foglio n. 5. - CARLOMAGNO
+

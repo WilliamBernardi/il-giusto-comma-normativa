@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 374
+data: 1955-03-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-03-14;374
+codice_redazionale: 055U0374
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 marzo 1955
+                374
+                Autorizzazione all'Universita' degli studi di Pisa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 marzo 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Pisa viene autorizzata ad accettare la donazione della somma di lire 1.000.000 (un milione) nominali in buoni del tesoro 5%, disposta in suo favore dal prof. Remo de Fazi, per l'istituzione con la relativa rendita, di un premio di studio biennale intitolato "Premio dottor Laura de Fazi".
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 6 maggio 1955
+ Atti del Governo, registro n. 90, foglio n. 138. - CARLOMAGNO
+

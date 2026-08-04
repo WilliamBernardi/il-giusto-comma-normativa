@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1634
+data: 1960-10-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-15;1634
+codice_redazionale: 060U1634
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 ottobre 1960
+                1634
+                Norme sul trattamento economico e normativo degli "scarichi e trasbordatori-viaggianti" dipendenti dalle Imprese esercenti servizi in appalto presso stazioni delle Ferrovie dello Stato.
+
+Federazione Nazionale Lavoratori Trasporti ed Ausiliari del Traffico; ed, in data 29 febbraio 1960, l'Unione italiana Lavoratori Trasporti Ausiliari Traffico e l'Associazione Nazionale Cooperative Portabagagli FF. SS. e Secondarie;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per le attivita' per le quali sono stati stipulati gli accordi indicati nel preambolo, relativi agli scarichini e trasbordatori viaggianti dipendenti dall'impresa S.A.G.A.D., esercente servizi in appalto presso le stazioni FF. SS. di Milano Centrale, Milano Smistamento, Roma Smistamento; dalla impresa S.A.I.L.I.D., esercente servizi in appalto presso le stazioni FF. SS. di La Spezia Centrale, Pisa Centrale, Roma Termini, Roma Ostiense, Sapri; dall'impresa Aimone Cesari, esercente servizi in appalto presso le stazioni FF. SS. di Napoli Centrale, Messina Centrale, Torino Smistamento; dall'impresa Ottorino Biagi, esercente servizi in appalto presso la starone FF. SS. di Livorno Centrale; integrativi del contratto collettivo nazionale di lavoro 22 maggio 1958 per gli operai addetti a servizi in appalto dall'Amministrazione delle Ferrovie dello Stato; sono regolati da norme giuridiche uniformi alle clausole dagli accordi anzidetti, annessi al presente decreto.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese citate del primo comma, esercenti servizi in appalto presso stazioni delle Ferrovie dello Stato.
+

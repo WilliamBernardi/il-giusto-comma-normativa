@@ -1,0 +1,67 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1317
+data: 1968-10-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-10-31;1317
+codice_redazionale: 068U1317
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 ottobre 1968
+                1317
+                Modificazioni allo statuto dell'Universita' degli studi di Roma.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Roma, approvato con regio decreto 20 aprile 1939, n. 1350, modificato con regio decreto 26 ottobre 1939, n. 1734, e successive modificazioni;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Roma, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+ Art. 66 - Dall'elenco degli insegnamenti complementari del corso di laurea in materie letterarie sono soppressi i seguenti:
+ Diritto;
+ Psicologia dell'eta' evolutiva;
+ Storia della scuola;
+ Filologia germanica;
+ Teoria e tecnica comunicazioni di massa;
+ Igiene;
+ Letteratura ibero-americana;
+ Storia della filosofia medioevale;
+ Filosofia della scienza;
+ Psicologia sociale.
+ Art. 67. - Dall'elenco degli insegnamenti complementari del corso di laurea in pedagogia sono soppressi i seguenti:
+ Filologia romanza;
+ Storia della grammatica e della lingua italiana;
+ Letteratura latina medioevale;
+ Filologia germanica;
+ Storia della letteratura italiana moderna e contemporanea.
+ Art. 68. - Dall'elenco degli insegnamenti complementari del corso di laurea in lingua e letterature straniere sono soppressi i seguenti:
+ Diritto;
+ Psicologia dell'eta' evolutiva;
+ Storia della scuola;
+ Filosofia morale;
+ Storia della letteratura italiana moderna e contemporanea;
+ Teoria e tecniche delle comunicazioni di massa;
+ Igiene;
+ Storia del Risorgimento;
+ Storia delle dottrine politiche;
+ Filosofia delle scienze;
+ Psicologia sociale;
+ Storia economica.
+

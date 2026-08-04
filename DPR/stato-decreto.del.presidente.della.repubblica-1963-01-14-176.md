@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 176
+data: 1963-01-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1963-01-14;176
+codice_redazionale: 063U0176
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 gennaio 1963
+                176
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia di San Giuseppe Artigiano al Portonaccio, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica, 14 gennaio 1963, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di Sua Santita', il Sommo Pontefice, in data 24 febbraio 1958, integrato con altro decreto in data 25 febbraio 1958 e con dichiarazioni in data 25 febbraio 1961 e 30 agosto 1961, relativo alla erezione della Parrocchia di San Giuseppe Artigiano al Portonaccio, in Roma, e alla istituzione di due uffici coadiutorali nella Parrocchia stessa.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 23 febbraio 1963
+ Atti del Governo, registro n. 165, foglio n. 47. - VILLA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 704
+data: 1954-06-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-30;704
+codice_redazionale: 054U0704
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 giugno 1954
+                704
+                Attribuzione della denominazione "Fossalon" ad una frazione del comune di Grado (Gorizia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 giugno 1954, col quale, sulla proposta del Ministro per l'interno, alla frazione del comune di Grado (Gorizia), comunemente indicata col nome di "Fossalon", viene attribuita la denominazione medesima, ai sensi dell'art. 266 del testo unico 3 marzo 1934, n. 383, della legge comunale e provinciale.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 3 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 11. - CARLOMAGNO
+

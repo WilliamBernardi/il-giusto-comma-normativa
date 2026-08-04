@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3925
+data: 1867-09-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1867-09-15;3925
+codice_redazionale: 067U3925
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:03Z
+---
+
+REGIO DECRETO
+                15 settembre 1867
+                3925
+                Col quale il Comizio agrario di Treviglio e' legalmente costituito e riconosciuto come Stabilimento di pubblica utilita'. (067U3925)
+
+Entrata in vigore del provvedimento: 18/10/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1891-06-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1891-06-11;212
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:49Z
+---
+
+REGIO DECRETO
+                11 giugno 1891
+                CCXII
+                Che erige in ente morale la fondazione Principe Amedeo duca d'Aosta per la costruzione di case operaie in Venezia e ne approva lo statuto. (9100212R)
+
+Entrata in vigore del provvedimento: 21/07/1891
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4456
+data: 1952-12-01
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-01;4456
+codice_redazionale: 052U4456
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                01 dicembre 1952
+                4456
+                Emissione di un francobollo commemorativo di Leonardo da Vinci in occasione del V centenario della sua nascita e di una cartolina postale commemorativa dell'inaugurazione.
+
+Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+E' autorizzata l'emissione di un terzo francobollo commemorativo di Leonardo da Vinci, in occasione del V centenario della sua nascita e di una cartolina postale commemorativa dell'inaugurazione del Museo nazionale della scienza e della tecnica Vinciana.
+
+## Art. 2.
+
+Con decreto del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro, verranno precisate le caratteristiche tecniche dei valori di cui all'art. 1 del presente decreto e saranno indicati i termini per la validita' ed il cambio dei valori medesimi.
+

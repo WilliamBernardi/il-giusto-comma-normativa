@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1598
+data: 1948-12-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-24;1598
+codice_redazionale: 048U1598
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 dicembre 1948
+                1598
+                Soppressione dell'Ufficio di conciliazione di Capitello.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto legislativo luogotenenziale 24 gennaio 1946, n. 38, con il quale venne soppresso il comune di Capitello ed il relativo territorio passo' al ricostituito comune di Ispani;
+ Vista la deliberazione 4 maggio 1947 della Giunta municipale di Ispani, con la quale si chiede che l'Ufficio di conciliazione con sede nella frazione Capitello sia soppresso e che il relativo territorio sia sottoposto alla giurisdizione dell'Ufficio di conciliazione del comune di Ispani;
+ Sentito il Primo presidente della Corte di appello di Potenza;
+ Visti gli articoli 20 del regio decreto 30 gennaio 1941, n. 12, e 1 del regolamento approvato con regio decreto 26 dicembre 1802, n. 728;
+ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia e giustizia;
+
+ Decreta:
+
+ L'Ufficio di conciliazione di Capitello e' soppresso ed il relativo territorio e' sottoposto alla giurisdizione dell'Ufficio di conciliazione di Ispani.
+

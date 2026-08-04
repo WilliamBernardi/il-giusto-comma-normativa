@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1880-06-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-06-10;2594
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:13Z
+---
+
+REGIO DECRETO
+                10 giugno 1880
+                MMDXCIV
+                Che approva le modificazioni allo statuto della Societa' piroscafi postali d'Ignazio e Vincenzo Florio e compagni. (8002594R)
+
+Entrata in vigore del provvedimento: 28/07/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

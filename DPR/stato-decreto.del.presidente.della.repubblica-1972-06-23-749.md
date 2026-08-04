@@ -1,0 +1,168 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 749
+data: 1972-06-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-06-23;749
+codice_redazionale: 072U0749
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1998-05-06
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:46Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 giugno 1972
+                749
+                Nuovo ordinamento dei segretari comunali e provinciali.
+
+Udito il parere della Commissione parlamentare di cui all'art. 21 della legge 28 ottobre 1970, n. 775;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 2. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 3. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 4. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 5. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 6. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 7. — ((IL D.P.R. 4 DICEMBRE 1997, N. 465, HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+
+
+
+## Art. 8. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 9. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 10. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 11. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 12. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 13. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 14. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 15. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 16. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 17. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 18. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 19. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 20. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 21. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 22. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 23. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 23-bis. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 24. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 25. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 26. — ((IL D.P.R. 4 DICEMBRE 1997, N. 465 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+
+
+
+## Art. 27. — ((IL D.P.R. 4 DICEMBRE 1997, N. 465 HA CONFERMATO L'ABROGAZIONE DEL PRESENTE ARTICOLO))
+
+
+
+## Art. 28. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 29. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 30. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 31. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 32. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 33. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 34. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+
+## Art. 35. — ((ARTICOLO ABROGATO DAL D.P.R. 4 DICEMBRE 1997, N. 465))
+
+
+

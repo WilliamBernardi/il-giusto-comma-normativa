@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1836
+data: 1924-10-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-10-02;1836
+codice_redazionale: 024U1836
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:29Z
+---
+
+REGIO DECRETO
+                02 ottobre 1924
+                1836
+                Esecuzione delle note scambiate col Governo belga per la rimozione del sequestro sui beni ex germanici in Italia ereditati da cittadini belgi e rispettivamente in Belgio ereditati da cittadini italiani. (024U1836)
+
+Entrata in vigore del provvedimento: 09/12/1924
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

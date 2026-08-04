@@ -1,0 +1,71 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 88
+data: 1993-03-03
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1993-03-03;88
+codice_redazionale: 093G0133
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:30Z
+---
+
+DECRETO LEGISLATIVO
+                03 marzo 1993
+                88
+                 Attuazione della direttiva 89/667/CEE in materia di diritto delle societa' relativa alla societa' a responsabilita' limitata con un unico socio.
+
+Entrata in vigore del decreto: 18-4-1993
+
+Acquisiti i pareri delle competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Ministro per il coordinamento delle politiche comunitarie, di concerto con i Ministri degli affari esteri, di grazia e giustizia e del tesoro;
+
+## Art. 1. — Contratto di societa'
+
+La rubrica dell'art. 2247 del codice civile e' sostituita dalla seguente: "Contratto di societa'".
+
+## Art. 2. — Indicazione negli atti e nella corrispondenza
+
+All'art. 2250 del codice civile e' aggiunto il seguente comma:
+ "Negli atti e nella corrispondenza delle societa' a responsabilita' limitata deve essere indicato se queste hanno un unico socio".
+
+## Art. 3. — Costituzione
+
+Il secondo comma dell'art. 2475 del codice civile e' sostituito dai seguenti:
+ "Si applicano alla societa' a responsabilita' limitata le disposizioni degli articoli 2328, ultimo comma, 2329, 2330, 2330- bis, 2331, primo e secondo comma, 2332, con esclusione del n. 8, e 2341.
+ La societa' puo' essere costituita con atto unilaterale. In tal caso, per le operazioni compiute in nome della societa' prima della sua iscrizione e' responsabile, in solido con coloro che hanno agito, anche il socio fondatore".
+
+## Art. 4. — Pubblicita'
+
+Dopo l'art. 2475 del codice civile e' inserito il seguente:
+ "Art. 2475-bis (Pubblicita'). - Quando le quote appartengono ad un solo socio o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione nel registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome, della data e luogo di nascita, del domicilio e cittadinanza dell'unico socio.
+ Quando si costituisce o ricostituisce la pluralita' dei soci, gli amministratori ne devono depositare la dichiarazione per l'iscrizione nel registro delle imprese.
+ L'unico socio o colui che cessi di essere tale puo' provvedere alla pubblicita' prevista nei commi precedenti.
+ Le dichiarazioni degli amministratori devono essere depositate entro quindici giorni dall'iscrizione nel libro dei soci e devono indicare la data di tale iscrizione".
+
+## Art. 5. — Conferimenti
+
+All'art. 2476 del codice civile sono aggiunti i seguenti commi: "In caso di costituzione della societa' con atto unilaterale il conferimento in danaro deve essere interamente versato ai sensi dell'art. 2329, n. 2, del codice civile. In caso di aumento di capitale eseguito nel periodo in cui vi e' un unico socio il conferimento in danaro deve essere interamente versato al momento della sottoscrizione.
+ Se viene meno la pluralita' dei soci, i versamenti ancora dovuti devono essere effettuati entro tre mesi".
+
+## Art. 6. — Contratti con il socio unico
+
+Dopo l'art. 2490 del codice civile e' inserito il seguente articolo:
+ "Art. 2490-bis (Contratti con il socio unico). - I contratti tra la societa' e l'unico socio o le operazioni a favore dell'unico socio devono, anche quando non e' stata attuata la pubblicita' di cui all'art. 2475- bis, essere trascritti nel libro indicato nel n. 3 del primo comma dell'art. 2490 o risultare da atto scritto.
+ I crediti dell'unico socio non illimitatamente responsabile nei confronti della societa' non sono assistiti da cause legittime di prelazione".
+
+## Art. 7. — Responsabilita'
+
+Il secondo comma dell'art. 2497 del codice civile e' sostituito dal seguente:
+ "In caso di insolvenza della societa', per le obbligazioni sociali sorte nel periodo in cui le quote sono appartenute ad un solo socio, questi risponde illimitatamente:
+ a) quando sia una persona giuridica ovvero sia socio unico di altra societa' di capitali;
+ b) quando i conferimenti non siano stati effettuati secondo quanto previsto dall'art. 2476, secondo e terzo comma;
+ c) fino a quando non sia stata attuata la pubblicita' prescritta dall'art. 2475- bis".
+
+## Art. 8. — Disposizione transitoria
+
+Per le societa' a responsabilita' limitata che hanno un unico socio alla data di entrata in vigore del presente decreto, i termini stabiliti dagli articoli 2475- bis 2476, terzo comma, del codice civile decorrono da tale data.
+

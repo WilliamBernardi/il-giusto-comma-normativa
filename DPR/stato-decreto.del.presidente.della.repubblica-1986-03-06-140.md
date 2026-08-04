@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 140
+data: 1986-03-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1986-03-06;140
+codice_redazionale: 086U0140
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 marzo 1986
+                140
+                Autorizzazione all'istituto "Maestre Pie Venerini", in Roma, ad accettare un legato.
+
+## Art. 1.
+
+n.
+
+Decreto del Presidente della Repubblica 6 marzo 1986, col quale, sulla proposta del Ministro della pubblica istruzione, l'istituto "Maestre Pie Venerini", in Roma, viene autorizzato ad accettare il legato, consistente nella nuda proprieta' di un immobile, sito in Pesaro, rappresentato da una casa con giardino ubicata in via Settembrini n. 25, con riserva di usufrutto vita natural durante della coniuge superstite sig.ra Casadei Maria ved.
+ Della Michelina, del valore di L. 250.000.000, disposto dal sig.
+ Della Michelina, Giovanni con testamento olografo 5 novembre 1978, pubblicato in data 23 maggio 1980, n. 20593 di repertorio, a rogito dott. Giuseppe Ferri, notaio in Pesaro, registrato a Pesaro in data 12 giugno 1980 al n. 1176.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 17 aprile 1986
+ Registro n. 30 Istruzione, foglio n. 201
+

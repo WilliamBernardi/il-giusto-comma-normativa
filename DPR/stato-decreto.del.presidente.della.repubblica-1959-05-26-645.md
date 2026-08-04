@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 645
+data: 1959-05-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-05-26;645
+codice_redazionale: 059U0645
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 maggio 1959
+                645
+                Riconoscimento della personalita' giuridica dell'Aero Club "G.
+Bortolotti" di Bologna.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica, 26 maggio 1959, col quale, sulla proposta del Ministro per la difesa, di concerto con il Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Aero Club "G. Bortolotti" di Bologna e ne viene approvato il relativo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 13 agosto 1959
+ Atti del Governo, registro n. 120, foglio n. 40. - VILLA
+

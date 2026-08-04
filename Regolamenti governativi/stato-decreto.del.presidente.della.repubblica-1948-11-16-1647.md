@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1647
+data: 1948-11-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-11-16;1647
+codice_redazionale: 048U1647
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 novembre 1948
+                1647
+                Modificazioni al regolamento sul servizio sanitario militare territoriale.
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Il primo comma del paragrafo 717 del regolamento sul servizio sanitario militare territoriale, quale risulta sostituito dal decreto luogotenenziale 26 aprile 1915, n. 339, sostituito dal seguente:
+ "Paragrafo 717. - L'ufficiale medico che procede alle visite indicate nelle lettere a), b), d), e), g), h), l) del paragrafo 712 ha diritto ad un compenso di L. 100 per ogni individuo visitato, ad eccezione del personale civile del Ministero della difesa; per le visite indicate alla lettera o) ha diritto ad un compenso di L. 25 per ogni individuo visitato, per le visite indicate nella lettera p) ha diritto ad un compenso di L. 50 per ogni impiegato dipendente dai vari Ministeri, esclusi quelli dipendenti dal Ministero della difesa; per le visite indicate nella lettera i) ha diritto ad un compenso di L. 50 indistintamente da tutti quelli che sono stati visitati, eccezione fatta per gli ufficiali e gli impiegati in servizio dell'Amministrazione dell'esercito".
+ Il secondo comma dello stesso paragrafo 717 e' abrogato.
+

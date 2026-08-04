@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 263
+data: 1941-02-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1941-02-17;263
+codice_redazionale: 041U0263
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:16Z
+---
+
+REGIO DECRETO
+                17 febbraio 1941
+                263
+                Soppressione del posto di primo cancelliere presso il Regio consolato in Katowice e del posto di segretario di emigrazione presso il Regio consolato generale in Parigi. (041U0263)
+
+Entrata in vigore del provvedimento: 14/05/1941
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

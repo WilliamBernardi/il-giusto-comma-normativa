@@ -1,0 +1,63 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1532
+data: 1967-08-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-08-14;1532
+codice_redazionale: 067U1532
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 agosto 1967
+                1532
+                Trasformazione dell'istituto professionale di Stato per il commercio "U. di Savoia" in scuola professionale coordinata con l'istituto professionale di Stato per il commercio "N. Garrone", di Roma.
+
+Veduta la legge 15 giugno 1931, n. 889, sul riordinamento dell'istruzione media tecnica;
+
+Veduto il regio decreto 3 marzo 1934, n. 383, che approva il testo unico della legge comunale e provinciale;
+
+Veduto l'art. 9 del regio decreto-legge 21 settembre 1938, n. 2038, convertito nella legge 2 giugno 1939, numero 739;
+
+Veduta la legge 22 novembre 1961, n. 1282;
+
+Veduto il decreto del Presidente della Repubblica 10 luglio 1960, n. 2007, pubblicato nella Gazzetta Ufficiale n. 261 del 19 ottobre 1961, con il quale e' stato istituito a decorrere dal 1 ottobre 1960 l'istituto professionale di Stato per il commercio "M. Buonarroti" di Roma, intitolato con decreto del Presidente della Repubblica 13 luglio 1966 al nome di "N. Garrone";
+
+Veduto il decreto del Presidente della Repubblica 30 settembre 1964, n. 1675, pubblicato nella Gazzetta Ufficiale n. 177 del 17 luglio 1965 con il quale e' stato istituito l'istituto professionale di Stato per il commercio "U. di Savoia" di Roma;
+
+Garrone" di Roma;
+
+Considerata d'altro lato l'opportunita' di adeguare, in conseguenza, l'organizzazione dell'istituto professionale per il commercio "N. Garrone" di Roma, tenendo conto della situazione organica del citato istituto professionale "U. di Savoia" all'uopo istituendo, in via transitoria, un posto di insegnante di ruolo, da riassorbire con la prima successiva vacanza previa riduzione delle ore da affidare per incarico;
+
+## Art. 1.
+
+A decorrere dal 1 ottobre 1967 l'istituto professionale di Stato per il commercio "U. di Savoia" di Roma, e' trasformato in scuola professionale coordinata con lo istituto professionale di Stato per il commercio "N. Garrone" di Roma.
+
+## Art. 2.
+
+L'art. 2 del decreto del Presidente della Repubblica 10 luglio 1960, n. 2007, e' sostituito dal seguente:
+ "Il predetto istituto professionale ha lo scopo di preparare personale idoneo all'esercizio delle attivita' di ordine esecutivo nei vari settori del commercio".
+ Esso e' costituito da una scuola professionale per attivita' e impieghi commerciali, con sezioni per:
+ addetto alla segreteria d'azienda (triennale): n. 3 sezioni;
+ addetto alla contabilita' d'azienda (triennale): n. 3 sezioni;
+ addetto agli uffici turistici (triennale): n. 2 sezioni;
+ applicato ai servizi amministrativi (biennale): una sezione;
+ stenodattilografo (biennale): n. 3 sezioni.
+
+## Art. 3.
+
+Il contributo previsto al n. 1 dell'art. 22 del medesimo decreto del Presidente della Repubblica 10 luglio 1960, n. 2007, e' elevato da L. 63.000.000 a L. 188.270.000.
+
+## Art. 4.
+
+La tabella organica annessa al decreto del Presidente della Repubblica 10 luglio 1960, n. 2007, dell'istituto professionale per il commercio "N. Garrone" di Roma viene sostituita da quella annessa al presente decreto di cui costituisce parte integrante.
+
+## Art. 5.
+
+Il presente decreto ha effetto dal 1 ottobre 1967.
+ La spesa derivante dall'attuazione del presente decreto gravera' sul cap. 2005 dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1967 e sui capitoli corrispondenti per gli esercizi successivi.
+

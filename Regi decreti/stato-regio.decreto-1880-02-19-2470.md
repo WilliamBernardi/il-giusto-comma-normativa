@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1880-02-19
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-02-19;2470
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:57Z
+---
+
+REGIO DECRETO
+                19 febbraio 1880
+                MMCCCCLXX
+                Che autorizza la trasformazione del monte frumentario di Lugnano Labicano (Roma) in una cassa di prestiti. (8002470R)
+
+Entrata in vigore del provvedimento: 14/04/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

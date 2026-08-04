@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 874
+data: 1979-12-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-12-20;874
+codice_redazionale: 079U0874
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:06Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 dicembre 1979
+                874
+                Autorizzazione all'associazione Centro I.S.E.C. (Iniziative per studi e convegni), in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 dicembre 1979, col quale, sulla proposta del Ministro della pubblica istruzione, l'associazione Centro I.S.E.C. (Iniziative per studi e convegni), in Roma, viene autorizzata ad accettare la donazione, consistente in un fabbricato sito in Roma, via Barnaba Oriani n. 94/100, censito al nuovo catasto edilizio urbano al foglio 539, numeri 46/1, 46/2, 46/3, 47/1, 47/2, 47/3 e 47/4, del valore di L. 740.000.000, disposta dalla "ANBO S.p.a.", in Roma, con atto 3 marzo 1977, n. 126055 di repertorio, a rogito dott. Giuseppe Intersimone, notaio in Roma, registrato a Roma in data 21 marzo 1977, n. 2674, vol. 2560.
+
+Visto, il Guardasigilli: MORLINO
+ Registrato alla Corte dei conti, addi' 9 aprile 1980
+ Registro n. 31 Istruzione, foglio n. 191
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 545
+data: 1964-06-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-06-10;545
+codice_redazionale: 064U0545
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 giugno 1964
+                545
+                Autorizzazione all'Ordine dei medici di Pavia ad acquistare un immobile, sito in Pavia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 giugno 1964, col quale, sulla proposta del Ministro per la sanita', l'Ordine dei medici di Pavia viene autorizzato ad acquistare per il prezzo di L. 6.800.000 (seimilioniottocentomila) dai signori Manfredi Alfredo e Rossignoli Francesca, un immobile sito in Pavia al piano rialzato al n. 5 della via Cavagna Sangiuliani, composto di locali quattro ed accessori, riportato al Nuovo catasto edilizio urbano di Pavia alla partita 5809, Sez. A, foglio n. 5, mappali 579/2 e 579/3, da adibire a sede dell'Ordine dei medici in Pavia.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 9 luglio 1964
+ Atti del Governo, registro n. 184, foglio n. 109. - VILLA
+

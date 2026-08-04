@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 4905
+data: 1887-08-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-08-07;4905
+codice_redazionale: 087U4905
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:59Z
+---
+
+REGIO DECRETO
+                07 agosto 1887
+                4905
+                Che sopprime la delegazione di porto di Roseto. (087U4905)
+
+Entrata in vigore del provvedimento: 28/09/1887
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

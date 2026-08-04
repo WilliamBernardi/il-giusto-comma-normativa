@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1909-08-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-08-20;418
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:15Z
+---
+
+REGIO DECRETO
+                20 agosto 1909
+                CCCCXVIII
+                Che erige in ente morale l'asilo infantile di Sant'Anna in Velate Milanese. (0900418R)
+
+Entrata in vigore del provvedimento: 11/12/1909
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

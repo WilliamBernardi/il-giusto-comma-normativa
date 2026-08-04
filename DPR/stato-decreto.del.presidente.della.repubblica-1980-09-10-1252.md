@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1252
+data: 1980-09-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1980-09-10;1252
+codice_redazionale: 080U1252
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 settembre 1980
+                1252
+                Istituzione di un istituto professionale di Stato per l'industria e l'artigianato in Castellabate.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 settembre 1980, col quale, sulla proposta del Ministro della pubblica istruzione di concerto con i Ministri dell'interno, del tesoro e dell'industria, del commercio e dell'artigianato, viene istituito in Castellabate (Salerno), a decorrere dall'anno scolastico 1980-81, un istituto professionale di Stato per l'industria e l'artigianato (scuola avente finalita' ed ordinamento speciali) e ne viene approvata la tabella organica.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 21 aprile 1982
+ Registro n. 57 Istruzione, foglio n. 18
+

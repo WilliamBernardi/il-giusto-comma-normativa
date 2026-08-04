@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 4512
+data: 1868-07-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1868-07-24;4512
+codice_redazionale: 068U4512
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:44Z
+---
+
+REGIO DECRETO
+                24 luglio 1868
+                4512
+                Che ordina la radiazione dal Quadro del Regio Naviglio dei piroscafi rimorchiatori Ferruccio e Rondine. (068U4512)
+
+Entrata in vigore del provvedimento: 29/08/1868
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+

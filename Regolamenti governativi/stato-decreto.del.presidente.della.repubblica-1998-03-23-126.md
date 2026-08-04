@@ -1,0 +1,70 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 126
+data: 1998-03-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1998-03-23;126
+codice_redazionale: 098G0170
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti governativi
+vigenza_date: 2016-05-26
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 marzo 1998
+                126
+                 Regolamento recante norme per l'attuazione della direttiva 94/9/CE in materia di apparecchi e sistemi di protezione destinati ad essere utilizzati in atmosfera potenzialmente esplosiva.
+
+Entrata in vigore del decreto: 19-5-1998
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 19 MAGGIO 2016, N. 85))
+
+
+

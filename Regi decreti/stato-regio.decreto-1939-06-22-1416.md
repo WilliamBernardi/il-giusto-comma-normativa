@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+numero: 1416
+data: 1939-06-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-06-22;1416
+codice_redazionale: 039U1416
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-14
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:42Z
+---
+
+REGIO DECRETO
+                22 giugno 1939
+                1416
+                Provvedimenti a favore degli allievi degli istituti dell'Opera nazionale per i figli degli aviatori. (039U1416)
+
+Entrata in vigore del provvedimento: 17/10/1939
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri:
+
+## Art. 1.
+
+Gli allievi degli istituti dell'Opera nazionale per i figli degli aviatori, sempreche' idonei al servizio militare, anche limitatamente, debbono contrarre, per la continuazione degli studi, appena raggiunto il 17° anno di eta', arruolamento volontario nella Regia aeronautica assumendo una delle ferme previste dal il decreto-legge 3 febbraio 1938-XVI, n. 711, sul reclutamento dei sottufficiali e militari di truppa, in relazione alla durata degli studi che debbono ancora compiere all'atto dell'arruolamento stesso.  
+ ((COMMA ABROGATO DALLA L. 19 MARZO 1980, N. 79)). 
+ 
+ Coloro che non intendessero proseguire nella carriera militare o non fossero dichiarati idonei al servizio aeronavigante, potranno essere nominati sottotenenti di complemento nel ruolo servizi dell'Arma aeronautica, previo parere favorevole della Commissione superiore d'avanzamento purche' muniti del diploma di maturita' classica o scientifica conseguita conte allievi negli istituti dell'Opera predetta. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' 22 giugno 1939-XVII 
+ 
+ VITTORIO EMANUELE 
+ 
+ MUSSOLINI - DI REVEL 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla corte dei conti, addi' 27 settembre 1939-XVII 
+ 
+ Atti del Governo, registro 413, foglio 113 - MANCINI
+

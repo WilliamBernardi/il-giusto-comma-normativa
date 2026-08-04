@@ -1,0 +1,128 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 20
+data: 2024-02-05
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2024-02-05;20
+vigente: true
+source: normattiva-opendata
+collection: Leggi delega e relativi provvedimenti delegati
+vigenza_date: 2026-07-24
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:21Z
+---
+
+DECRETO LEGISLATIVO
+                05 febbraio 2024
+                20
+                Istituzione dell'Autorita' Garante nazionale dei diritti delle persone con disabilita', in attuazione della delega conferita al Governo. (24G00034)
+
+Entrata in vigore del provvedimento: 20/03/2024
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 21 novembre 2023;
+
+Acquisiti i pareri delle competenti Commissioni del Senato della Repubblica e della Camera dei deputati, resi rispettivamente in data 10 gennaio 2024 da parte della 10ª Commissione Senato, in data 16 gennaio 2024 dalla 5ª Commissione Senato, e in data 16 gennaio 2024 dalla V Commissione e dalle Commissioni riunite I e XII della Camera dei deputati;
+
+Sulla proposta del Ministro per le disabilita', di concerto con i Ministri dell'economia e delle finanze, del lavoro e delle politiche sociali, della salute, della giustizia, per la pubblica amministrazione e per la famiglia, la natalita' e le pari opportunita';
+
+## Art. 1.
+
+Istituzione dell'Autorita' «Garante nazionale dei diritti delle persone con disabilita'»
+
+Al fine di assicurare la tutela, la concreta attuazione e la promozione dei diritti delle persone con disabilita', in conformita' a quanto previsto dal diritto internazionale, dal diritto dell'Unione europea e dalle norme nazionali, a decorrere dal 1° gennaio 2025, e' istituita l'Autorita' «Garante nazionale dei diritti delle persone con disabilita'», di seguito denominato «Garante», che esercita le funzioni e i compiti ad essa assegnati dal presente decreto con poteri autonomi di organizzazione, con indipendenza amministrativa e senza vincoli di subordinazione gerarchica.
+
+Il Garante costituisce un'articolazione del sistema nazionale per la promozione e la protezione dei diritti delle persone con disabilita', in attuazione della Convenzione delle Nazioni Unite sui diritti delle persone con disabilita', fatta a New York il 13 dicembre 2006 e ratificata e resa esecutiva con legge 3 marzo 2009, n. 18, ((, per il monitoraggio della sua applicazione)), ai sensi dell'articolo 33, paragrafo 2, della medesima Convenzione, ((nonche' per il controllo delle strutture e dei programmi destinati alle persone con disabilita', ai sensi dell'articolo 16, paragrafo 3, della medesima Convenzione)) e opera in collaborazione con l'Osservatorio nazionale sulla condizione delle persone con disabilita'. Il Garante, con riguardo alle persone con disabilita' che sono private della liberta' personale, individua, ferme restando le rispettive competenze, forme di collaborazione con il Garante nazionale dei diritti delle persone private della liberta' personale, di cui all'articolo 7 del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10.
+
+((Fermo restando quanto previsto dall'articolo 7 del decreto-legge 23 dicembre 2013, n. 146, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 10, il Garante esercita le proprie funzioni nelle strutture sanitarie, sociosanitarie e assistenziali al fine di tutelare i diritti delle persone con disabilita'.))
+
+Il Garante ha sede in Roma in luogo pienamente accessibile e fruibile per le persone con disabilita'.
+
+## Art. 2.
+
+Composizione collegiale, requisiti, incompatibilita' 
+ e nomina del Garante
+
+Il Garante e' organo collegiale composto dal presidente e da due componenti. Nell'ambito della propria autonomia organizzativa, il Garante, con il regolamento di cui all'articolo 3, comma 1, disciplina l'esercizio delle attivita' del collegio e del presidente.
+Su proposta del presidente, con delibera collegiale del Garante, possono essere attribuite a ciascuno dei componenti del Garante deleghe per il compimento di singoli atti o per sovraintendere a determinati settori e materie di competenza del Garante stesso.
+
+Il presidente e i componenti del collegio sono scelti tra persone di notoria indipendenza e di specifiche e comprovate professionalita', competenze o esperienze nel campo della tutela e della promozione dei diritti umani e in materia di contrasto delle forme di discriminazione nei confronti delle persone con disabilita'.
+
+Il presidente e i componenti del collegio non possono essere scelti tra persone che rivestono incarichi pubblici elettivi o cariche in partiti politici o in organizzazioni sindacali o che abbiano rivestito tali incarichi e cariche nell'anno precedente la nomina e, in ogni caso, non devono essere portatori di interessi in conflitto con le funzioni del Garante.
+
+Per la durata dell'incarico, il presidente e i componenti del collegio non possono esercitare, a pena di decadenza, attivita' professionale, imprenditoriale o di consulenza, non possono svolgere le funzioni di amministratori o dipendenti di enti pubblici o privati, ricoprire uffici pubblici di qualsiasi natura o rivestire cariche elettive, assumere cariche di governo o incarichi all'interno di partiti politici o movimenti politici o in associazioni, organizzazioni, anche sindacali, ordini professionali o comunque organismi che svolgono attivita' nel campo della disabilita'.
+All'atto dell'accettazione della nomina il presidente e i componenti del collegio sono collocati fuori ruolo se dipendenti di pubbliche amministrazioni ovvero magistrati o avvocati dello Stato. Se professori universitari di ruolo, il presidente e i componenti del collegio sono collocati in aspettativa senza assegni ai sensi dell'articolo 13 del decreto del Presidente della Repubblica 11 luglio 1980, n. 382. Il personale collocato fuori ruolo o in aspettativa ha diritto alla conservazione del posto di lavoro per la durata del mandato. Per la durata del collocamento fuori ruolo e' reso indisponibile nella dotazione organica dell'amministrazione di provenienza, un numero di posti equivalente dal punto di vista finanziario.
+
+Per il periodo di un anno a decorrere dalla cessazione delle funzioni, il presidente e i componenti del collegio e i dirigenti dell'Ufficio del Garante, di cui all'articolo 3, non possono intrattenere rapporti retribuiti di collaborazione, di consulenza o di impiego con le imprese e le associazioni operanti nel settore dei servizi per le persone con disabilita'.
+
+Il presidente e i componenti del collegio sono nominati con determinazione adottata d'intesa dai Presidenti della Camera dei deputati e del Senato della Repubblica.
+
+Il presidente e i componenti del collegio non possono essere rimossi o destituiti per motivi connessi allo svolgimento dei loro compiti ed esercitano le funzioni senza vincolo di mandato.
+
+Il presidente e i componenti del collegio sono immediatamente sostituiti in caso di dimissioni, morte, incompatibilita' sopravvenuta, accertato impedimento fisico o psichico, ovvero nel caso in cui riportino una condanna definitiva per delitti non colposi.
+
+Il presidente e i componenti del collegio durano in carica di quattro anni e il loro mandato e' rinnovabile una sola volta.
+
+Al presidente e' attribuita un'indennita' di funzione pari al trattamento economico annuo spettante ad un capo Dipartimento della Presidenza del Consiglio dei ministri e, comunque, nel limite di euro 200.000 annui, al lordo degli oneri a carico dell'amministrazione e ai componenti e' attribuita un'indennita' di funzione pari al trattamento economico annuo spettante a un capo ufficio autonomo della Presidenza del Consiglio dei ministri e, comunque, nel limite di euro 160.000 annui, al lordo degli oneri a carico dell'amministrazione.
+
+Al presidente e agli altri componenti spetta il rimborso delle spese sostenute e documentate in occasione di attivita' istituzionali, secondo le modalita' stabilite con il regolamento di cui all'articolo 3, comma 1, e comunque nel limite della spesa autorizzata ai sensi dell'articolo 7, comma 1.
+
+## Art. 3. — Ufficio del Garante
+
+Per lo svolgimento dei propri compiti istituzionali e' istituito l'Ufficio del Garante nazionale dei diritti delle persone con disabilita', di seguito denominato «Ufficio del Garante», posto alle dipendenze del Garante. Nell'ambito della propria autonomia organizzativa, il Garante adotta con regolamento le disposizioni in materia di organizzazione, funzionamento, esercizio delle funzioni e contabilita', nonche' un codice di condotta per i propri componenti e per il personale dell'Ufficio del Garante.
+
+Con decreto del Presidente del Consiglio dei ministri e' istituito un apposito ruolo del personale dipendente dell'Ufficio del Garante, al quale si applicano, in quanto compatibili, le disposizioni sullo stato giuridico ed economico della Presidenza del Consiglio dei ministri, comprese quelle di cui alla vigente contrattazione collettiva.
+
+La relativa dotazione organica, con decorrenza non anteriore al 1° gennaio 2026, e' costituita da una unita' dirigenziale di livello generale e una unita' dirigenziale di livello non generale e ((19 unita' di personale non dirigenziale di cui 12 unita' di categoria A e 7 unita' di categoria B)), in possesso delle competenze e dei requisiti di professionalita' necessari in relazione alle funzioni e alle caratteristiche di indipendenza e imparzialita' del Garante.
+L'assunzione del personale avviene per pubblico concorso.
+
+L'Ufficio del Garante, nei limiti della dotazione organica di cui al comma 3, puo' avvalersi anche di personale appartenente ai ruoli delle amministrazioni pubbliche, in posizione di comando secondo la disciplina vigente per il personale chiamato a prestare servizio presso la Presidenza del Consiglio dei ministri, nonche' in posizione di aspettativa o collocati fuori ruolo o altra analoga posizione prevista dagli ordinamenti di appartenenza, e puo' avvalersi anche del personale delle Forze armate, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco nel limite complessivo di una unita', con esclusione del personale docente, educativo, amministrativo, tecnico e ausiliario delle istituzioni scolastiche. Per la durata del collocamento fuori ruolo e' reso indisponibile nella dotazione organica dell'amministrazione di provenienza, un numero di posti equivalente dal punto di vista finanziario.
+
+L'Ufficio del Garante puo' avvalersi di esperti, ((fino a un massimo di quindici)), di elevata competenza in ambito giuridico, amministrativo, contabile o di comprovata esperienza in materia di disabilita'. Gli esperti possono prestare la propria opera professionale a titolo gratuito. Il Garante, nei limiti delle risorse disponibili, puo' prevedere un compenso, fino a un importo massimo di euro 25.000 lordi annui per singolo incarico, entro il limite di spesa complessivo non superiore a 200.000 euro lordi annui.
+
+Nelle more dell'attuazione delle disposizioni di cui ai commi 1, 2, 3, 4 e 5, al fine di consentire l'immediato avvio delle sue attivita', il Garante, a decorrere dal 1° gennaio 2025, si avvale provvisoriamente di un primo contingente di personale amministrativo e tecnico, non superiore a nove unita', selezionato tra il personale dipendente della pubblica amministrazione in possesso delle competenze e dei requisiti di professionalita' ed esperienza necessari, collocato, nelle forme previste dai rispettivi ordinamenti, in posizione di comando obbligatorio o fuori ruolo dalle amministrazioni di appartenenza entro il termine previsto dall'articolo 17, comma 14, della legge 15 maggio 1997, n. 127, composto da un dirigente di livello non generale e otto unita' di personale non dirigenziale, di cui cinque appartenenti alla categoria A e tre appartenenti alla categoria B. Per il personale proveniente da amministrazioni diverse dalla Presidenza del Consiglio dei ministri o dai Ministeri, il trattamento economico fondamentale rimane a carico delle stesse. Il trattamento economico accessorio e' a carico del Garante. Il servizio prestato presso il Garante è equiparato ad ogni effetto di legge a quello prestato nelle amministrazioni di provenienza. All'atto del collocamento in comando o fuori ruolo, e per tutta la loro durata, i posti in dotazione organica lasciati vacanti sono resi indisponibili presso l'amministrazione di provenienza. Dalla data di istituzione del ruolo autonomo, puo' confluirvi su richiesta il personale gia' assegnato provvisoriamente all'Ufficio, fermi restando i limiti della relativa dotazione organica.
+
+Con decreto del Presidente del Consiglio dei ministri, da adottarsi entro il 30 settembre 2024, su proposta dell'Autorita' politica delegata in materia di disabilita', e' individuato il luogo dove ha sede l'Ufficio del Garante e sono previste le misure organizzative al fine di garantirne la piena operativita' e il funzionamento dal 1° gennaio 2025.
+
+Il rendiconto della gestione finanziaria del Garante e' soggetto al controllo della Corte dei conti.
+
+## Art. 4. — Funzioni e prerogative del Garante
+
+Nei casi di cui al comma 1, lettere a), b), c), d), e), f), g) ed n), restano ferme le disposizioni vigenti in materia di autorizzazione, accreditamento e vigilanza sul possesso dei requisiti di sicurezza e qualita' delle strutture sanitarie di cui al decreto legislativo 30 dicembre 1992, n. 502.
+
+Nell'esercizio delle funzioni di cui al comma 1, il Garante assicura la consultazione, con cadenza almeno semestrale, con le federazioni maggiormente rappresentative delle persone con disabilita' e assicura, altresi', forme di concertazione in relazione alle specifiche attivita' di cui al comma 1, lettere c) ed h).
+
+Nell'esercizio delle funzioni di cui al comma 1, lettere b) ed e), il Garante si coordina anche con la Presidenza del Consiglio dei ministri - Dipartimento per le pari opportunita' e con l'Ufficio nazionale antidiscriminazioni razziali per la promozione di azioni positive contro fenomeni discriminatori multipli e per lo scambio reciproco di segnalazioni relative a detti fenomeni ai fini dell'esercizio delle funzioni rispettivamente assegnate dalla legge.
+
+Il Garante si avvale del patrocinio dell'Avvocatura dello Stato ai sensi dell'articolo 1 del testo unico di cui al regio decreto 30 ottobre 1933, n. 1611. Le disposizioni di cui all'articolo 158 del Testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, si applicano anche al Garante.
+
+## Art. 5. — Pareri del Garante
+
+Il Garante valuta le segnalazioni ricevute ai sensi dell'articolo 4, comma 1, lettera d) e verifica l'esistenza di discriminazioni comportanti lesioni di diritti soggettivi o di interessi legittimi negli ambiti di competenza, secondo le modalita' stabilite dal regolamento di cui all'articolo 3, comma 1. Il Garante, all'esito della valutazione e verifica, previa audizione dei soggetti destinatari delle proposte nel rispetto del principio di leale collaborazione, ad eccezione dei casi di urgenza di cui al comma 4, esprime con delibera collegiale pareri motivati secondo le previsioni di cui ai commi 2, 3 e 4.
+
+Nel caso in cui un'amministrazione o un concessionario di pubblico servizio adotti un provvedimento o un atto amministrativo generale in relazione al quale la parte lamenta una violazione dei diritti della persona con disabilita', una discriminazione o lesione di interessi legittimi, il Garante emette un parere motivato nel quale indica gli specifici profili delle violazioni riscontrate nonche' una proposta di accomodamento ragionevole, come definito dalla Convenzione delle Nazioni Unite sui diritti delle persone con disabilita' e dalla disciplina nazionale, nel rispetto del principio di proporzionalita' e adeguatezza.
+
+Quando le verifiche di cui al comma 1 hanno ad oggetto il mancato adeguamento a quanto previsto dai piani per l'eliminazione di barriere architettoniche dagli edifici pubblici e aperti al pubblico e da quelli privati che forniscono strutture e servizi aperti o forniti al pubblico, nonche' l'eliminazione delle barriere sensopercettive e di ogni altra barriera che impedisce alle persone con disabilita' di potervi accedere in condizione di pari opportunita' con gli altri cittadini o ne limiti la loro fruizione in modo significativo, il Garante puo' proporre all'amministrazione competente un cronoprogramma per rimuovere le barriere e vigilare sugli stati di avanzamento. ((Nel caso di mancata ottemperanza, il Garante puo' agire in giudizio ai sensi dell'articolo 6, anche al fine di chiedere la nomina di un commissario ad acta.))
+
+Nei casi di urgenza dovuta al rischio di un danno grave e irreparabile per i diritti delle persone con disabilita', ove non sia stata promossa azione giudiziaria, il Garante puo', anche d'ufficio, a seguito di un sommario esame circa la sussistenza di una grave violazione del principio di non discriminazione in danno di una o piu' persone con disabilita', proporre l'adozione di misure provvisorie. La proposta e' trasmessa senza indugio alle pubbliche amministrazioni procedenti.
+
+Le proposte di accomodamento ragionevole, nel rispetto della normativa in materia di trattamento dei dati personali, possono essere rese conoscibili sul sito del Garante o con ogni altro opportuno mezzo di pubblicita' al fine di favorire la diffusione delle buone pratiche in materia.
+
+## Art. 6. — (( (Azione processuale del Garante).))
+
+
+
+((Ai giudizi instaurati ai sensi del comma 1, lettere a), b), c), e d), si applica la disciplina prevista per i riti abbreviati relativi a speciali controversie dal libro IV, titolo V, del codice del processo amministrativo di cui all'Allegato 1 al decreto legislativo 2 luglio 2010, n. 104.))
+
+## Art. 7. — Disposizioni finanziarie
+
+Agli oneri di cui agli articoli 1, 2 e 3, pari ad euro 1.683.000 per l'anno 2025 e ad euro 3.202.000 annui a decorrere dall'anno 2026, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 178, della legge 30 dicembre 2021, n. 234.
+
+Salvo quanto disposto dal comma 1, dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 8. — Disposizioni finali
+
+All'articolo 67, primo comma, della legge 26 luglio 1975, n. 354, dopo la lettera l-ter) e' aggiunta la seguente: 
+ «l-quater) Il Garante nazionale dei diritti delle persone con disabilita' di cui all'articolo 2, comma 2, lettera f), della legge 22 dicembre 2021, n. 227.».
+

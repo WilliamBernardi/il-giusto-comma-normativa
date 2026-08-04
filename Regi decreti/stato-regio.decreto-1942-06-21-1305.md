@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1305
+data: 1942-06-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1942-06-21;1305
+codice_redazionale: 042U1305
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:24Z
+---
+
+REGIO DECRETO
+                21 giugno 1942
+                1305
+                Aggiunta all'art. 11 del Regio decreto 30 giugno 1927-V, n. 1259, che approva la tariffa dei dazi doganali della Tripolitania e della Cirenaica. (042U1305)
+
+Entrata in vigore del provvedimento: 20/11/1942
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

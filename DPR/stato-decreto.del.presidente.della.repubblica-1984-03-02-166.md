@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 166
+data: 1984-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-02;166
+codice_redazionale: 084U0166
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1984
+                166
+                Riconoscimento della personalita' giuridica della chiesa parrocchiale di "S. Angela Merici", in Desenzano del Garda, e autorizzazione alla stessa ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 marzo 1984, col quale sulla proposta del Ministro dell'interno, viene riconosciuta la personalita' giuridica della chiesa parrocchiale di "S. Angela Merici", in Desenzano del Garda (Brescia). La chiesa parrocchiale stessa viene, altresi', autorizzata ad accettare la donazione disposta dalla "Autostrada Brescia-Verona-Vicenza-Padova S.p.a.", in Verona, con atto pubblico 29 aprile 1981, n. 32975 di repertorio, a rogito dottor Mario Mastrelli, notaio in Desenzano del Garda, consistente in un appezzamento di terreno sul quale insiste il sacro edificio, descritto nella perizia giurata 5-25 agosto 1981 del dott. ing. Domenico Gorlani e valutato in L. 192.300.000 dall'ufficio tecnico erariale di Brescia.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 12 maggio 1984
+ Registro n. 16 Interno, foglio n. 367
+

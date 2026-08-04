@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 578
+data: 1955-05-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-05-20;578
+codice_redazionale: 055U0578
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 maggio 1955
+                578
+                Riconoscimento agli effetti civili, dell'unione in perpetuo "aeque principaliter" delle parrocchie dei Santi Pietro e Andrea, in comune di Dubino (Sondrio) e di Santa Maria Immacolata, in frazione Monastero dello stesso Comune.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 maggio 1955, col quale, sulla proposta dei Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Como in data 18 giugno 1953, con cui e' stata disposta l'unione perpetuo nella forma "aeque principaliter" delle parrocchie dei Santi Pietro ed Andrea, in comune di Dubino (Sondrio) e di Santa Maria Immacolata, in frazione Monastero dello stesso Comune.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 10 luglio 1955
+ Atti del Governo, registro n. 91, foglio n. 101. - CARLOMAGNO
+

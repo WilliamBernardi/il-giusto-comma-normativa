@@ -1,0 +1,85 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 952
+data: 1962-01-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-01-02;952
+codice_redazionale: 062U0952
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 gennaio 1962
+                952
+                Norme sul trattamento economico e normativo dei dipendenti dalle imprese artigiane della provincia di Napoli.
+
+il contratto collettivo 19 dicembre 1947, per i dipendenti dalle aziende artigiane, stipulato tra la Federazione Provinciale dell'Artigianato e la Camera Confederale del Lavoro;
+
+il contratto collettivo 10 giugno 1949, per gli apprendisti dipendenti dalle aziende artigiane, stipulato tra le medesime parti di cui al predetto contratto 19 dicembre 1917;
+
+il contratto collettivo 14 luglio 1949, per i dipendenti dalle aziende artigiane dell'abbigliamento maschile, stipulato tra la Federazione Provinciale dell'Artigianato, l'Unione Provinciale dell'Abbigliamento e la Federazione Provinciale dei Lavoratori dell'Abbigliamento;
+
+il contratto collettivo 10 novembre 1949, per i dipendenti dalle aziende artigiane di tintorie e lavanderie, stipulato tra la Federazione Provinciale dell'Artigianato, l'Unione Provinciale Tintorie e Lavanderie, e la Federazione italiana Lavoratori Abbigliamento, la Federazione italiana del Lavoro, la Confederazione Sindacale italiana Lavoratori;
+
+il contratto collettivo 1 marzo 1950, per i dipendenti dalle aziende artigiane di tappezzieri ed affini, stipulato tra la Federazione Provinciale dell'Artigianato, l'Unione Provinciale Tappezzieri ed Affini e la Federazione italiana Lavoratori del Legno Artistico e Varie, la Federazione italiana del Lavoro;
+
+il contratto collettivo 5 febbraio 1948, per i dipendenti dalle aziende artigiane metalmeccaniche, stipulato tra l'Unione Provinciale Artigiani Metalmeccanici e la Federazione italiana Operai Metallurgici;
+
+il contratto collettivo 30 giugno 1949, per i dipendenti dalle aziende artigiane del legno, stipulato tra l'Unione Provinciale Mobilieri ed Affini, l'Unione Provinciale Restauro Mobili, Segherie e Carpenterie ed Affini, la Federazione Provinciale dell'Artigianato e la Federazione italiana Lavoratori del Legno Artistico e Varie;
+
+il contratto collettivo 16 maggio 1953, per gli autisti dipendenti dai concessionari di auto pubbliche, stipulato tra la Federazione Provinciale dell'Artigianato, l'Unione Tassisti Artigiani, il Sindacato Tassisti Autonomo e la Confederazione Sindacale italiana Lavoratori;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I rapporti di lavoro costituiti per le attivita' artigiane per le quali sono stati stipulati, per la provincia di Napoli:
+ il contratto collettivo 19 dicembre 1917, relativo ai dipendenti dalle aziende artigiane;
+ il contratto collettivo 10 giugno 1949, relativo agli apprendisti dipendenti dalle aziende artigiane;
+ il contratto collettivo 14 luglio 1949, relativo ai dipendenti dalle aziende artigiane dell'abbigliamento maschile;
+ il contratto collettivo 10 novembre 1949, relativo ai dipendenti dalle aziende artigiane di tintorie e lavanderie;
+ il contratto collettivo 1 marzo 1950, relativo ai dipendenti dalle aziende artigiane di tappezzieri ed affini;
+ il contratto collettivo 5 febbraio 1948, relativo ai dipendenti dalle aziende artigiane metalmeccaniche;
+ il contratto collettivo 30 giugno 1949, relativo ai dipendenti dalle aziende artigiane del legno;
+ il contratto collettivo 16 maggio 1953, relativo agli autisti dipendenti dai concessionari di auto pubbliche;
+sono regolati da norme giuridiche uniformi alle clausole dei contratti anzidetti, annessi al presente decreto, purche' compatibili, per quanto riguarda le attivita' artigiane per le quali sono stati stipulati appositi contratti collettivi nazionali, con quelle concernenti la relativa disciplina nazionale.
+ I minimi di trattamento economico e normativo cosi' stabiliti sono inderogabili nei confronti di tutti i lavoratori dipendenti dalle imprese artigiane esercenti le attivita' indicate nei contratti di cui al primo comma, della provincia di Napoli.
+
+### Art. 1.
+
+CONTRATTO COLLETTIVO 19 DICEMBRE 1947, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+CONTRATTO COLLETTIVO 10 GIUGNO 1949 PER GLI APPRENDISTI DIPENDENTI DALLE AZIENDE ARTIGIANE, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+CONTRATTO COLLETTIVO 14 LUGLIO 1949, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DELL'ABBIGLIAMENTO MASCHILE, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+ACCORDO COLLETTIVO 10 NOVEMBRE 1949, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DI TINTORIE E LAVANDERIE, DELLA PROVINCIA DI NAPOLI
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+CONTRATTO COLLETTIVO I MARZO 1950, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DI TAPPEZZIERI ED AFFINI, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+CONTRATTO COLLETTIVO 5 FEBBRAIO 1948, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE METALMECCANICHE, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+CONTRATTO COLLETTIVO 30 GIUGNO 1949, PER I DIPENDENTI DALLE AZIENDE ARTIGIANE DEL LEGNO, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <---- 
+
+CONTRATTO COLLETTIVO 16 MAGGIO 1953 PER GLI AUTISTI DIPENDENTI DAI CONCESSIONARI DI AUTOPUBBLICHE, DELLA PROVINCIA DI NAPOLI.
+
+ ----> Parte di provvedimento in formato grafico <----
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 301
+data: 1977-04-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-04-22;301
+codice_redazionale: 077U0301
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 aprile 1977
+                301
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Tommaso vescovo e SS. Martiri inglesi, in S. Agata li Battiati.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 aprile 1977, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Catania 29 dicembre 1971, integrato con dichiarazione del 12 giugno 1972 e con altro decreto 31 luglio 1975, relativo alla erezione della parrocchia di S. Tommaso vescovo e SS. Martiri inglesi, in contrada Leucatia del comune di S. Agata li Battiati (Catania).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 10 giugno 1977
+ Registro n. 13 Interno, foglio n. 49
+

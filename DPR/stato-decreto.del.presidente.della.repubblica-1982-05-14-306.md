@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 306
+data: 1982-05-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-05-14;306
+codice_redazionale: 082U0306
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 maggio 1982
+                306
+                Modificazione alla dotazione organica del personale della carriera direttiva delle cancellerie e segreterie giudiziarie.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 17 della legge 28 ottobre 1970, n. 775;
+ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro di grazia e giustizia e il Ministro del tesoro;
+ Sentito il Consiglio superiore della pubblica amministrazione il quale ha espresso al riguardo parere favorevole nell'adunanza del 3 marzo 1981;
+ Considerato, in particolare, che ricorre la necessita' di operare una modificazione nell'organico della carriera direttiva delle cancellerie e segreterie giudiziarie nonche' della dotazione delle qualifiche dirigenziali della carriera medesima allo scopo di corrispondere alle attuali esigenze di servizio;
+ Ritenuto, altresi', che il presente decreto, riducendo il numero complessivo del personale della carriera direttiva delle cancellerie e segreterie giudiziarie, realizza una diminuzione dell'onere globale previsto per le spese del personale del Ministero di grazia e giustizia e, quindi, un'economia di bilancio;
+
+ Decreta:
+
+ La tabella IV, quadro A, allegata al decreto del Presidente della Repubblica 30 giugno 1972, n. 748, cosi' come modificata dall'art. 6 della legge 8 agosto 1980, n. 426, e' sostituita dalla tabella allegata al presente decreto.
+ La dotazione organica del personale della carriera direttiva delle cancellerie e segreterie giudiziarie e' diminuita di trecentottanta unita'.
+

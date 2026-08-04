@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 595
+data: 1894-10-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1894-10-13;595
+codice_redazionale: 094U0595
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:43Z
+---
+
+REGIO DECRETO
+                13 ottobre 1894
+                595
+                Che modifica il ruolo organico del personale della R. Stazione agraria sperimentale di Palermo. (094U0595)
+
+Entrata in vigore del provvedimento: 07/02/1895Il presente Regio Decreto è stato erroneamente pubblicata in Gazzetta Ufficiale con numero di inserzione in Raccolta ufficiale degli atti normativi della Repubblica Italiana "594".
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3
+data: 1906-01-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-01-07;3
+codice_redazionale: 006U0003
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:54Z
+---
+
+REGIO DECRETO
+                07 gennaio 1906
+                3
+                Che autorizza prelevamenti di somme dal fondo di riserva delle «spese impreviste» dello stato di previsione della spesa del Ministero del tesoro. (006U0003)
+
+Entrata in vigore del provvedimento: 04/02/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

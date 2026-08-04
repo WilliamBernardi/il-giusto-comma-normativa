@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 754
+data: 1975-11-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-11-29;754
+codice_redazionale: 075U0754
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 1977-06-14
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:44Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 novembre 1975
+                754
+                Contingente dei coadiutori dattilografi giudiziari da assegnare agli uffici di sorveglianza istituiti con legge 26 luglio 1975, n. 354, relativa a nuove "Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'".
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 26 luglio 1975, n. 354, relativa a nuove "Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della liberta'";
+ Visto l'art. 68 della citata legge che istituisce gli uffici di sorveglianza presso i tribunali esistenti nelle sedi di cui alla tabella A allegata alla legge stessa;
+ Visto l'art. 86 della suindicata legge che prevede entro sei mesi dall'entrata in vigore della legge, la determinazione, con decreti del Presidente della Repubblica, su proposta del Ministro per la grazia e giustizia, di concerto con il Ministro per il tesoro, dei contingenti, tra l'altro, del personale esecutivo, di cui al precedente art. 68, da assegnare a ciascun ufficio di sorveglianza nei limiti delle attuali complessive dotazioni organiche;
+ Esaminate le esigenze degli uffici e tenuto conto dell'afflusso e della distribuzione del lavoro fra i vari tribunali;
+ Ritenuto che per provvedere alle esigenze innanzi specificate occorre ridurre, in base all'esame comparativo del carico di lavoro, gli organici dei coadiutori dattilografi giudiziari dei tribunali di Bolzano, Ferrara, Grosseto, Lucca, Parma, Ragusa, Ravenna, San Remo, Teramo, Terni, Trani, Velletri e Vicenza, mentre per i restanti tribunali di cui alla tabella A allegata alla predetta legge, puo' essere provveduto mediante riduzione da operarsi nell'ambito degli organici degli uffici stessi;
+ Sentito il consiglio di amministrazione che ha espresso parere favorevole nella seduta del 27 novembre 1975;
+ Sulla proposta del Guardasigilli Ministro per la grazia e giustizia, di concerto con il Ministro per il tesoro;
+
+ Decreta:
+
+ La tabella B allegata al decreto ministeriale 15 febbraio 1957, e successive modificazioni, relativa alle piante organiche dei coadiutori dattilografi giudiziari addetti ai tribunali e' modificata, nella parte relativa agli uffici cui si riferisce, come dalla tabella A allegata al presente decreto vistata dal Ministro proponente.
+

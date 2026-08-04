@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1104
+data: 1960-07-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-26;1104
+codice_redazionale: 060U1104
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 luglio 1960
+                1104
+                Riconoscimento, agli effetti civili, della soppressione della parrocchia di San Michele Arcangelo in localita' Gabbiano e del trasferimento del titolo e del beneficio parrocchiale alla nuova parrocchia di San Michele Arcangelo, in localita' Bigiano Basso di Pistoia (Vulgo Casermette).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 luglio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Pistoia in data 31 luglio 1959, relativo alla soppressione della parrocchia di San Michele Arcangelo, in localita' Gabbiano, e al trasferimento del titolo e del beneficio parrocchiale alla nuova parrocchia di San Michele Arcangelo, in localita' Bigiano Basso di Pistoia (Vulgo Casermette).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 settembre 1960
+ Atti del Governo, registro n. 129, foglio n. 100. - VILLA
+

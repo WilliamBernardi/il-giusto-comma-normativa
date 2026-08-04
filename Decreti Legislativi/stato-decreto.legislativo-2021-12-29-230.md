@@ -1,0 +1,204 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 230
+data: 2021-12-29
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2021-12-29;230
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2026-04-21
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:33Z
+---
+
+DECRETO LEGISLATIVO
+                29 dicembre 2021
+                230
+                Istituzione dell'assegno unico e universale per i figli a carico, in attuazione della delega conferita al Governo ai sensi della legge 1° aprile 2021, n. 46. (21G00252)
+
+Entrata in vigore del provvedimento: 31/12/2021
+L'errata-corrige (in G.U. 03/01/2022, n. 1) ha modificato la data del provvedimento da 21 dicembre 2021 a 29 dicembre 2021.
+
+Acquisito il parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, reso nella seduta del 2 dicembre 2021;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Ministro per le pari opportunita' e la famiglia, del Ministro del lavoro e delle politiche sociali e del Ministro dell'economia e delle finanze, sentito il Ministro per le disabilita';
+
+## Art. 1. — Oggetto
+
+A decorrere dal 1° marzo 2022 e' istituito l'assegno unico e universale per i figli a carico, che costituisce un beneficio economico attribuito, su base mensile, per il periodo compreso tra marzo di ciascun anno e febbraio dell'anno successivo, ai nuclei familiari sulla base della condizione economica del nucleo, in base all'indicatore della situazione economica equivalente (ISEE) di cui al decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159, secondo quanto di seguito disciplinato.
+
+Ai fini del presente decreto, si considerano figli a carico quelli facenti parte del nucleo familiare indicato ai fini ISEE, in corso di validita', calcolato ai sensi dell'articolo 7 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159.
+Nel caso di nuclei con figli maggiorenni, l'ISEE e' calcolato ai sensi degli articoli da 2 a 6 e 9 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159.
+
+((Ai soli fini dell'attribuzione dell'assegno di cui al comma 1, si considerano anche i figli residenti in un altro Stato membro dell'Unione europea che siano fiscalmente a carico ai sensi della normativa italiana vigente)).
+
+In assenza di ISEE il nucleo di riferimento e' accertato sulla base dei dati autodichiarati in domanda, ai sensi dell'articolo 46 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, dal richiedente l'assegno unico, sulla base dei criteri di cui al decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159.
+
+Le disposizioni del presente decreto sono applicabili nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento all'articolo 10 della legge costituzionale 18 ottobre 2001, n. 3.
+
+## Art. 2. — Beneficiari
+
+L'assegno di cui all'articolo 1 spetta, nell'interesse del figlio, in parti uguali a chi esercita la responsabilita' genitoriale, salvo quanto previsto dall'articolo 6, commi 4 e 5.
+
+Al fine di assicurare la piena conoscibilita' del beneficio, al momento della registrazione della nascita del figlio, l'ufficiale dello stato civile informa i genitori sull'assegno. Alle attivita' previste dal presente comma si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
+
+-------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.L. 21 giugno 2022, n. 73, ha disposto (con l'art. 38, comma 2) che "Le disposizioni di cui al comma 1 hanno effetto con riferimento alle mensilita' spettanti da marzo 2022."
+
+## Art. 3. — Requisiti soggettivi del richiedente
+
+## Art. 4. — Criteri per la determinazione dell'assegno
+
+Per ciascun figlio minorenne e per ciascun figlio con disabilita' a carico senza limiti di eta', e' previsto un importo pari a 175 euro mensili. Tale importo spetta in misura piena per un ISEE pari o inferiore a 15.000 euro. Per livelli di ISEE superiori, esso si riduce gradualmente secondo gli importi indicati nella tabella 1 fino a raggiungere un valore pari a 50 euro in corrispondenza di un ISEE pari a 40.000 euro. Per livelli di ISEE superiori a 40.000 euro l'importo rimane costante. A decorrere dal 1° gennaio 2023, per ciascun figlio di eta' inferiore a un anno, gli importi di cui ai primi quattro periodi del presente comma, come rivalutati ai sensi del comma 11, sono incrementati del 50 per cento; tale incremento e' riconosciuto inoltre per i nuclei con tre o piu' figli per ciascun figlio di eta' compresa tra uno e tre anni, per livelli di ISEE fino a 40.000 euro.(3)
+
+Per ciascun figlio maggiorenne fino al compimento del ventunesimo anno di eta' e' previsto un importo pari a 85 euro mensili. Tale importo spetta in misura piena per un ISEE pari o inferiore a 15.000 euro. Per livelli di ISEE superiori, esso si riduce gradualmente secondo gli importi indicati nella tabella 1 fino a raggiungere un valore pari a 25 euro in corrispondenza di un ISEE pari a 40.000 euro. Per livelli di ISEE superiori a 40.000 euro l'importo rimane costante.
+
+Per ciascun figlio successivo al secondo e' prevista una maggiorazione dell'importo pari a 85 euro mensili. Tale importo spetta in misura piena per un ISEE pari o inferiore a 15.000 euro.
+Per livelli di ISEE superiori, esso si riduce gradualmente secondo gli importi indicati nella tabella 1 fino a raggiungere un valore pari a 15 euro in corrispondenza di un ISEE pari a 40.000 euro. Per livelli di ISEE superiori a 40.000 euro l'importo rimane costante.
+
+Per ciascun figlio con disabilita' minorenne e anche fino al compimento del ventunesimo anno di eta' e' prevista una maggiorazione, sulla base della condizione di disabilita' come definita ai fini ISEE, degli importi individuati ai sensi dei commi 1 e 3 pari a 105 euro mensili in caso di non autosufficienza, a 95 euro mensili in caso di disabilita' grave e a 85 euro mensili in caso di disabilita' media. (3)
+
+COMMA ABROGATO DALLA L. 29 DICEMBRE 2022, N. 197.
+
+COMMA ABROGATO DALLA L. 29 DICEMBRE 2022, N. 197.
+
+Per le madri di eta' inferiore a 21 anni e' prevista una maggiorazione degli importi individuati ai sensi dei commi 1 e 3 pari a 20 euro mensili per ciascun figlio.
+
+Nel caso in cui entrambi i genitori siano titolari di reddito da lavoro, e' prevista una maggiorazione per ciascun figlio minore pari a 30 euro mensili. Tale importo spetta in misura piena per un ISEE pari o inferiore a 15.000 euro. Per livelli di ISEE superiori, esso si riduce gradualmente secondo gli importi indicati nella tabella 1 fino ad annullarsi in corrispondenza di un ISEE pari a 40.000 euro.
+Per livelli di ISEE superiori a 40.000 euro la maggiorazione non spetta. ((La maggiorazione di cui al presente comma e' riconosciuta, altresi', nel caso di unico genitore lavoratore al momento della presentazione della domanda, ove l'altro risulti deceduto, per un periodo massimo di 5 anni successivi a tale evento, nell'ambito del limite di godimento dell'assegno.))
+                            ((7))
+
+Nel caso di assenza di ISEE per i casi indicati all'articolo 1, comma 3, spettano gli importi corrispondenti a quelli minimi previsti ai commi da 1 a 8.
+
+A decorrere dall'anno 2022 e' riconosciuta una maggiorazione forfettaria per i nuclei familiari con quattro o piu' figli, pari a 100 euro mensili per nucleo. A decorrere dal 1° gennaio 2023, la maggiorazione mensile di cui al primo periodo del presente comma e' incrementata del 50 per cento.
+
+Gli importi dell'assegno di cui all'articolo 1, come individuati della tabella 1 allegata al presente decreto, e le relative soglie ISEE sono adeguati annualmente alle variazioni dell'indice del costo della vita.
+
+-------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.L. 21 giugno 2022, n. 73, ha disposto (con l'art. 38, comma 2) che "Le disposizioni di cui al comma 1 hanno effetto con riferimento alle mensilita' spettanti da marzo 2022." 
+                        -------------
+                        AGGIORNAMENTO (7)
+                        
+ Il D.L. 4 maggio 2023, n. 48, ha disposto (con l'art. 22, comma 1) che la presente modifica ha effetto a decorrere dal 1° giugno 2023.
+
+## Art. 5. — Maggiorazione per i nuclei familiari con ISEE non superiore a 25.000 euro
+
+Al fine di consentire la graduale transizione alle nuove misure a sostegno dei figli a carico e di garantire il rispetto del principio di progressivita', per le prime tre annualita', e' istituita una maggiorazione di natura transitoria, su base mensile, dell'importo dell'assegno di cui all'articolo 1, come determinato ai sensi dell'articolo 4.
+
+La maggiorazione mensile di cui al comma 1 e' pari alla somma dell'ammontare mensile della componente familiare, come determinato al comma 4, e dell'ammontare mensile della componente fiscale, come determinato al comma 5, al netto dell'ammontare mensile dell'assegno come determinato all'articolo
+
+La maggiorazione non spetta a decorrere dal 1° marzo 2025.
+
+La sussistenza della condizione di cui comma 2, lettera b), e' autodichiarata dal richiedente al momento della richiesta. Tale autodichiarazione e' soggetta a controllo successivo a cura dell'INPS che provvede, in caso di dichiarazione mendace, alla revoca della maggiorazione e all'applicazione delle sanzioni previste dalla normativa vigente.
+
+Nel caso di nuclei con almeno un figlio a carico con disabilita', gli importi della maggiorazione di cui al comma 1 sono incrementati di 120 euro al mese ((...)). (3)
+
+-------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.L. 21 giugno 2022, n. 73, ha disposto (con l'art. 38, comma 2) che "Le disposizioni di cui al comma 1 hanno effetto con riferimento alle mensilita' spettanti da marzo 2022."
+
+## Art. 6.
+
+Modalita' di presentazione della domanda ed erogazione del beneficio
+
+((Fermo restando il rispetto dei requisiti di cui all'articolo 3, l'erogazione dell'assegno di cui all'articolo 1 e' commisurata alla durata effettiva della residenza, del domicilio o della prestazione di lavoro svolta in Italia)).
+
+La domanda per il riconoscimento dell'assegno di cui all'articolo 1 e' presentata, annualmente, a decorrere dal 1° gennaio di ciascun anno ed e' riferita al periodo compreso tra il mese di marzo dell'anno di presentazione della domanda e quello di febbraio dell'anno successivo. La domanda e' presentata in modalita' telematica all'INPS ovvero presso gli istituti di patronato di cui alla legge 30 marzo 2001, n. 152, secondo le modalita' indicate dall'INPS sul proprio sito istituzionale entro venti giorni dalla pubblicazione del presente decreto.
+
+((Per i lavoratori non residenti in Italia, la domanda di cui al comma 1 e' presentata per il periodo di durata della prestazione lavorativa e, in ogni caso, e' rinnovata annualmente a decorrere dal 1° marzo di ciascun anno)).
+
+Fatto salvo quanto previsto ai commi 4 e 5, la domanda di cui al comma 1 e' presentata da un genitore ovvero da chi esercita la responsabilita' genitoriale. L'assegno e' riconosciuto a decorrere dal mese successivo a quello di presentazione della domanda; nel caso in cui e' presentata entro il 30 giugno dell'anno di riferimento, l'assegno e' riconosciuto a decorrere dal mese di marzo del medesimo anno. Ferma restando la decorrenza, l'INPS provvede al riconoscimento dell'assegno entro sessanta giorni dalla domanda.
+
+Nel caso di nuove nascite in corso di fruizione dell'assegno, la modifica alla composizione del nucleo familiare e' comunicata con apposita procedura telematica all'INPS ovvero presso gli istituti di patronato di cui alla legge 30 marzo 2001, n. 152 entro centoventi giorni dalla nascita del nuovo figlio, con riconoscimento dell'assegno a decorrere dal settimo mese di gravidanza.
+
+L'assegno e' corrisposto dall'INPS ed e' erogato al richiedente ovvero, a richiesta, anche successiva, in pari misura tra coloro che esercitano la responsabilita' genitoriale. In caso di affidamento esclusivo, l'assegno spetta, in mancanza di accordo, al genitore affidatario. Nel caso di nomina di un tutore o di affidatario ai sensi della legge 4 maggio 1983, n. 184, l'assegno e' riconosciuto nell'interesse esclusivo del tutelato ovvero del minore in affido familiare.
+
+I figli maggiorenni di cui all'articolo 2 possono presentare la domanda di cui al comma 1 in sostituzione dei genitori secondo le modalita' di cui al presente articolo e richiedere la corresponsione diretta della quota di assegno loro spettante.
+
+L'erogazione avviene mediante accredito su IBAN ovvero mediante bonifico domiciliato, fatto salvo quanto previsto all'articolo 7 in caso di nuclei familiari percettori di Reddito di cittadinanza.
+
+Con riguardo all'assegno relativo ai mesi di gennaio e febbraio di ogni anno, si fa riferimento all'ISEE in corso di validita' a dicembre dell'anno precedente.
+
+Agli oneri derivanti dal riconoscimento dell'assegno di cui agli articoli 1, 2, 3, 4, 5 e all'articolo 7, comma 2, sono valutati in 14.219,5 milioni di euro per l'anno 2022, 18.222,2 milioni di euro per l'anno 2023, 18.694,6 milioni di euro per l'anno 2024, 18.914,8 milioni di euro per l'anno 2025, 19.201,0 milioni di euro per l'anno 2026, 19.316,0 milioni di euro per l'anno 2027, 19.431,0 milioni di euro per l'anno 2028 e 19.547,0 milioni di euro annui a decorrere dall'anno 2029 si provvede ai sensi dell'articolo 13. L'INPS provvede al monitoraggio dei relativi oneri, anche in via prospettica sulla base delle domande pervenute e accolte, e comunica mensilmente i risultati di tale attivita' al Ministero del lavoro e delle politiche sociali, alla Presidenza del Consiglio dei ministri - Dipartimento per le politiche della famiglia e al Ministero dell'economia e delle finanze inviando entro il 10 del mese successivo al periodo di monitoraggio, la rendicontazione degli oneri, anche a carattere prospettico, relativi alle domande accolte. (4) (8) (11)
+
+------------
+                        AGGIORNAMENTO (4)
+                        
+ La L. 29 dicembre 2022, n. 197 ha disposto (con l'art. 1, comma 320) che "Gli oneri di cui all'articolo 6, comma 8, del decreto legislativo 29 dicembre 2021, n. 230, sono incrementati di 11 milioni di euro per l'anno 2023, di 708,8 milioni di euro per l'anno 2024, di 717,2 milioni di euro per l'anno 2025, di 727,9 milioni di euro per l'anno 2026, di 732,2 milioni di euro per l'anno 2027, di 736,5 milioni di euro per l'anno 2028 e di 740,8 milioni di euro annui a decorrere dall'anno 2029". 
+ Ha inoltre disposto (con l'art. 1, comma 358) che "Per effetto di quanto disposto dal comma 357 e tenuto conto delle risultanze emerse dall'attivita' di monitoraggio relativa all'anno 2022 e ai conseguenti aggiornamenti degli andamenti anche in termini prospettici, le risorse finanziarie iscritte in bilancio ai fini della copertura degli oneri di cui all'articolo 6, comma 8, del decreto legislativo 29 dicembre 2021, n. 230, sono incrementate di 409,2 milioni di euro per l'anno 2023, di 525,7 milioni di euro per l'anno 2024, di 542,5 milioni di euro per l'anno 2025, di 550,8 milioni di euro per l'anno 2026, di 554,2 milioni di euro per l'anno 2027, di 557,6 milioni di euro per l'anno 2028 e di 560,9 milioni di euro annui a decorrere dall'anno 2029". 
+                        ------------
+                        AGGIORNAMENTO (8)
+                        
+ La L. 30 dicembre 2023, n. 213 ha disposto (con l'art. 1, comma 185) che "Per effetto di quanto disposto dai commi 183 e 184, le risorse finanziarie iscritte in bilancio ai fini della copertura degli oneri di cui all'articolo 6, comma 8, del decreto legislativo 29 dicembre 2021, n. 230, sono incrementate di 44 milioni di euro annui a decorrere dall'anno 2024". 
+                        ------------
+                        AGGIORNAMENTO (11)
+                        
+ La L. 30 dicembre 2025, n. 199, ha disposto (con l'art. 1, comma 208, lettera c)) che "le risorse finanziarie iscritte in bilancio ai fini della copertura degli oneri di cui all'articolo 6, comma 8, del decreto legislativo 29 dicembre 2021, n. 230, sono incrementate di 340,78 milioni di euro per l'anno 2026, di 345,93 milioni di euro per l'anno 2027, di 352,14 milioni di euro per l'anno 2028, di 358,87 milioni di euro per l'anno 2029, di 365,7 milioni di euro per l'anno 2030, di 372,64 milioni di euro per l'anno 2031, di 379,69 milioni di euro per l'anno 2032, di 386,94 milioni di euro per l'anno 2033, di 394,2 milioni di euro per l'anno 2034 e di 401,77 milioni di euro annui a decorrere dall'anno 2035".
+
+## Art. 7.
+
+Compatibilita' rispetto alle prestazioni sociali
+
+L'assegno di cui all'articolo 1 e' compatibile con la fruizione di eventuali altre misure a favore dei figli a carico erogate dalle regioni, province autonome di Trento e di Bolzano e dagli enti locali.
+
+Per i nuclei familiari percettori del Reddito di cittadinanza di cui al decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge del 28 marzo 2019, n. 26, l'INPS corrisponde d'ufficio, a valere sugli oneri indicati all'articolo 6, comma 8, l'assegno di cui all'articolo 1 congiuntamente ad esso e con le modalita' di erogazione del Reddito di cittadinanza, fino a concorrenza dell'importo dell'assegno spettante in ciascuna mensilita' ai sensi di quanto previsto dal presente comma. Il beneficio complessivo e' determinato sottraendo dall'importo teorico spettante la quota di Reddito di cittadinanza relativa ai figli che fanno parte del nucleo familiare, calcolata sulla base della scala di equivalenza di cui all'articolo 2, comma 4, del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge del 28 marzo 2019, n. 26. La richiesta di suddivisione del Reddito di cittadinanza fra i componenti maggiorenni del nucleo comporta anche il pagamento dell'assegno unico in parti uguali fra gli esercenti la responsabilita' genitoriale.
+
+Per la determinazione del Reddito familiare di cui all'articolo 2, comma 1, lettera b), numero 4), del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge del 28 marzo 2019, n. 26, l'assegno non si computa nei trattamenti assistenziali di cui all'articolo 2, comma 6, del medesimo decreto-legge.
+
+## Art. 8.
+
+Neutralita' fiscale
+
+L'assegno non concorre alla formazione del reddito complessivo di cui all'articolo 8 del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
+
+## Art. 9. — Osservatorio nazionale per l'assegno unico e universale
+
+Presso la Presidenza del Consiglio dei ministri - Dipartimento per le politiche della famiglia, e' istituito l'Osservatorio nazionale per l'assegno unico e universale per i figli a carico, di seguito Osservatorio, con funzioni di supporto tecnico-scientifico per lo svolgimento delle attivita' di analisi, monitoraggio e valutazione d'impatto dell'assegno di cui al presente decreto.
+
+L'Osservatorio e' presieduto dal Presidente dell'Osservatorio nazionale sulla famiglia di cui all'articolo 1, commi 1250 e 1253, della legge 27 dicembre 2006, n. 296, ed e', altresi', composto da un rappresentante del Ministero dell'economia e delle finanze, un rappresentante del Ministero del lavoro e delle politiche sociali, un rappresentante dell'INPS, un rappresentante dell'ISTAT, un membro designato dal Presidente dell'Osservatorio nazionale sulla condizione delle persone con disabilita', un membro designato della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281 nonche' da due rappresentanti delle associazioni familiari maggiormente rappresentative.
+
+Dall'istituzione e dal funzionamento dell'Osservatorio non devono derivare nuovi o maggiori oneri per la finanza pubblica. Ai suoi componenti non spettano compensi, gettoni di presenza, rimborsi di spese o altri emolumenti comunque denominati.
+
+## Art. 10. — Abrogazioni e modificazioni
+
+Con effetto dal 1° gennaio 2022, e' abrogato il comma 353 dell'articolo 1, della legge 11 dicembre 2016, n. 232.
+
+Con effetto dal 1° marzo 2022, l'articolo 65 della legge 23 dicembre 1998, n. 448 e' abrogato. Per l'anno 2022, l'assegno di cui all'articolo 65 della legge 23 dicembre 1998, n. 448 e' riconosciuto esclusivamente con riferimento alle mensilita' di gennaio e febbraio.
+
+Limitatamente ai nuclei familiari con figli e orfanili, a decorrere dal 1° marzo 2022, cessano di essere riconosciute le prestazioni di cui all'articolo 2 del decreto-legge 13 marzo 1988, n. 69, convertito, con modificazioni, dalla legge 13 maggio 1988, n. 153 e di cui all'articolo 4 del testo unico delle norme concernenti gli assegni familiari, approvato con decreto del Presidente della Repubblica 30 maggio 1955, n. 797. Conseguentemente, sono ridotte le risorse da trasferire all'INPS per effetto del minor fabbisogno relativo alle effettive esigenze connesse alle prestazioni di cui al primo periodo.
+
+Le disposizioni di cui al comma 4 si applicano a decorrere dal 1° marzo 2022.
+
+A decorrere dal 1° gennaio 2022, sono abrogati i commi 348 e 349 dell'articolo 1, della legge 11 dicembre 2016, n. 232.
+
+## Art. 11. — Disposizioni di proroga in materia di assegno temporaneo per figli minori e di maggiorazione dell'importo dell'assegno al nucleo familiare
+
+Agli oneri derivanti dal comma 1, pari a 440 milioni di euro per l'anno 2022 con riferimento alla lettera a) e valutati in 463 milioni di euro per l'anno 2022 con riferimento alla lettera b) si provvede ai sensi dell'articolo 13.
+
+## Art. 12. — Disposizioni in materia di assunzione di personale 
+ per l'attuazione dell'Assegno unico e universale
+
+Al fine di dare piena attuazione alle disposizioni contenute nel presente decreto, l'Istituto nazionale della previdenza sociale e' autorizzato a bandire apposite procedure concorsuali pubbliche e, conseguentemente, ad assumere con contratto di lavoro subordinato a tempo indeterminato, anche mediante scorrimento di vigenti graduatorie di concorsi pubblici, con corrispondente incremento della vigente dotazione organica, un contingente di personale non dirigenziale pari a 300 unita' da inquadrare nell'Area C - posizione economica C1 del Comparto Funzioni Centrali - Sez. Enti pubblici non economici.
+
+Agli oneri assunzionali derivanti dall'applicazione del comma 1, pari a euro 8.015.336 per l'anno 2022 e a euro 16.030.671 annui a decorrere dall'anno 2023 si provvede ai sensi dell'articolo 13.
+
+L'INPS pone in essere tutte le iniziative di semplificazione e di informazione all'utenza utilizzando le banche dati presenti negli archivi dell'Istituto, anche al fine di introdurre gradualmente gli strumenti necessari ad un'eventuale erogazione d'ufficio dell'assegno.
+
+## Art. 13. — Disposizioni finanziarie
+
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+## Art. 14. — Entrata in vigore
+
+Il presente decreto entra in vigore il giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
+
+((29 dicembre 2021))
+

@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 353
+data: 1914-04-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1914-04-14;353
+codice_redazionale: 014U0353
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:51Z
+---
+
+REGIO DECRETO
+                14 aprile 1914
+                353
+                Col quale l'on. avv. Alfredo Falcioni e' nominato rappresentante del Ministero degli affari esteri nella Delegazione internazionale del Sempione in sostituzione dell'on. Daneo ministro della istruzione pubblica. (014U0353)
+
+Entrata in vigore del provvedimento: 24/05/1914
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

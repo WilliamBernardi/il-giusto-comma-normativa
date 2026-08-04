@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1604
+data: 1951-11-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-27;1604
+codice_redazionale: 051U1604
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 novembre 1951
+                1604
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, in frazione Calcinere del comune di Paesana (Cuneo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 novembre 1951, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Sant'Antonio Abate, in frazione Calcinere del comune di Paesana (Cuneo) e la stessa viene autorizzata ad accettare la eredita' disposta in suo favore da Crespo Domenica e consistente in un appezzamento di terreno valutato L. 4000.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 29 dicembre 1951
+ Atti del Governo, registro n. 47, foglio n. 107. - FRASCA
+

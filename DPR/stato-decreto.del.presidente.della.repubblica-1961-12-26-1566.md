@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1566
+data: 1961-12-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-12-26;1566
+codice_redazionale: 061U1566
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 dicembre 1961
+                1566
+                Riconoscimento della personalita' giuridica dell'Associazione a scopo di culto e di religione, denominata "Pia Unione San Tarcisio", con sede in Nicastro (Catanzaro).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 dicembre 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Associazione a scopo di culto e di religione, denominata "Pia Unione San Tarcisio", con sede in Nicastro (Catanzaro), e viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 gennaio 1962
+ Atti dei Governo, registro n. 143, foglio n. 94 - VILLA
+

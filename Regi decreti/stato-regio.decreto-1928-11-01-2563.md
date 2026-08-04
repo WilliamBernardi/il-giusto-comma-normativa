@@ -1,0 +1,55 @@
+---
+tipo: REGIO DECRETO
+numero: 2563
+data: 1928-11-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-11-01;2563
+codice_redazionale: 028U2563
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:34Z
+---
+
+REGIO DECRETO
+                01 novembre 1928
+                2563
+                Riunione dei comuni di Merone e Moiana, nonche' della frazione Pontenuovo del comune di Erba, in un unico Comune denominato «Merone». (028U2563)
+
+Entrata in vigore del provvedimento: 16/12/1928
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+In virtu' dei poteri conferiti al Governo col R. decreto-Legge 17 marzo 1927, n. 383, convertito nella legge 7 giugno 1928, n. 1382;
+
+## Art. 1.
+
+I comuni di Merone e di Moiana, nonche' la frazione Pontenuovo del comune di Erba, sono riuniti in unico Comune denominato «Merone».
+
+## Art. 2.
+
+I confini della frazione Pontenuovo sono delimitati in conformita' della pianta, planimetrica, vistata dall'ingegnere capo del Genio civile di Corno. 
+ 
+ Tale pianta, vidimata, d'ordine Nostro, dal Ministro proponente, fara' parte integrante del presente decreto.
+
+## Art. 3.
+
+Al prefetto di Como e' demandato di provvedere, sentita la Giunta provinciale amministrativa, alla determinazione, ai sensi ed agli effetti dell'art. 118 della legge comunale e provinciale, testo unico 4 febbraio 1915, n. 148, delle condizioni della riunione dei Comuni di cui all'art. 1, nonche' al regolamento dei rapporti patrimoniali e finanziari fra il comune di Merone e quello di Erba, in dipendenza della disposta variazione di circoscrizione. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a San Rossore, addi' l° novembre 1928 - Anno VII 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Mussolini. 
+ 
+ Visto, il Guardasigilli: Rocco. 
+ 
+ Registrato alla Corte dei conti, addi' 27 novembre 1928 - Anno VII 
+ 
+ Atti del Governo, registro 278, foglio 247. - Sirovich.
+

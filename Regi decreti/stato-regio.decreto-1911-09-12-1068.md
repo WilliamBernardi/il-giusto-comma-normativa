@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1068
+data: 1911-09-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1911-09-12;1068
+codice_redazionale: 011U1068
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:18Z
+---
+
+REGIO DECRETO
+                12 settembre 1911
+                1068
+                Che approva gli elenchi dei decreti da non pubblicarsi o da pubblicarsi per sunto o per estratto nella raccolta ufficiale. (011U1068)
+
+Entrata in vigore del provvedimento: 25/10/1911
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,35 @@
+---
+tipo: REGIO DECRETO
+data: 1890-09-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-09-22;3930
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:41Z
+---
+
+REGIO DECRETO
+                22 settembre 1890
+                MMMDCCCCXXX
+                Che erige in ente morale l'ufficio di patronato dott. Carlo Barilati in Pavia e ne approva lo statuto. (9003930R)
+
+Entrata in vigore del provvedimento: 26/10/1890
+
+## Art. 1.
+
+L'ufficio di patronato dott. Carlo Barilati di Pavia e' eretto in ente morale, ed e' approvato lo statuto che deve governarlo, visto d'ordine Nostro dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Firenze, addi' 22 settembre 1890. 
+ 
+ UMBERTO. 
+ 
+ Registrato alla Corte dei conti addi' 1° ottobre 1890. 
+ Reg. 175. Atti del Governo a f. 178. Mandillo. 
+ Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI. 
+ 
+ L. MICELI.
+

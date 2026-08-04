@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 670
+data: 1958-04-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-04-18;670
+codice_redazionale: 058U0670
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 aprile 1958
+                670
+                Autorizzazione al Fondo pensioni ed indennita' al personale dipendente dalla Cassa di risparmio delle Province Lombarde, con sede in Milano, ad acquistare un'area fabbricabile sita in Busto Arsizio.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 aprile 1958, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, il Fondo pensioni ed indennita' al personale dipendente dalla Cassa di risparmio delle Province Lombarde, con sede in Milano, viene autorizzato ad acquistare al prezzo di L. 40.853.000 (quarantamilioniottocentocinquantatremila) l'area fabbricabile di mq. 1146,47 circa di proprieta' della Cassa di risparmio delle Province Lombarde, sita in Busto Arsizio, con fronti sulla via Galileo Galilei, sulla piazza Garibaldi e sulla via Fratelli d'Italia, esattamente come specificato nello atto notarile redatto dal notaio dott. Cesare Cellina, in Milano il 30 ottobre 1957.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 27 giugno 1958
+ Atti del Governo, registro n. 112, foglio n. 251. - RELLEVA
+

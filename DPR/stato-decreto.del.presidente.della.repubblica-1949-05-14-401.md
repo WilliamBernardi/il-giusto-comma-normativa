@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 401
+data: 1949-05-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-05-14;401
+codice_redazionale: 049U0401
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 maggio 1949
+                401
+                Modificazioni al vigente statuto organico della Fondazione di culto "Opera della Divina Provvidenza Madonna del Grappa per la preservazione della Fede", con sede in Pane di Rifredi (Firenze).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 maggio 1949, col quale, sulla proposta del Ministro per l'interno, vengono approvate le modificazioni al vigente statuto organico della Fondazione di culto "Opera della Divina Provvidenza, Madonna del Grappa per la preservazione della Fede", con sede in Pane di Rifredi (Firenze), ente che assume la nuova denominazione "Opera della Divina Provvidenza Madonnina del Grappa".
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 24 giugno 1949
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1201
+data: 1967-11-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-11-10;1201
+codice_redazionale: 067U1201
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 novembre 1967
+                1201
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Carlo Borromeo, in Bari.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 novembre 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Bari in data 4 novembre 1962, integrato con dichiarazione del 30 marzo 1967, relativo alla erezione della parrocchia di S. Carlo Borromeo, in Bari, ed all'istituzione di un ufficio coadiutoriale nella parrocchia stessa.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 12 dicembre 1967
+ Atti del Governo, registro n. 216, foglio n. 52. - GRECO
+

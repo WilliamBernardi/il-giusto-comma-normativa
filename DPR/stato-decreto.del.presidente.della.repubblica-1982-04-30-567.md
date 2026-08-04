@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 567
+data: 1982-04-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-30;567
+codice_redazionale: 082U0567
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 aprile 1982
+                567
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di "S. Bernardetta Soubirous, vergine", in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 aprile 1982, col quale, sulla proposta del Ministro dello interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di S.S. il Sommo Pontefice per la citta' di Roma 5 novembre 1975, integrato con altro decreto 12 luglio 1977 e con due dichiarazioni del 13 dicembre 1976 e 23 febbraio 1980, relativo alla erezione della parrocchia di "S. Bernardetta Soubirous, vergine", in Roma.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 7 agosto 1982
+ Registro n. 17 Interno, foglio n. 333
+

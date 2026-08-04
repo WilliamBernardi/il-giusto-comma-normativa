@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1003
+data: 1953-11-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-11-22;1003
+codice_redazionale: 053U1003
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 novembre 1953
+                1003
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Giuseppe, in frazione Vanoni-Remelli del comune di Valeggio sul Mincio (Verona).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 novembre 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Verona in data 22 ottobre 1952, integrato con dichiarazione 24 aprile 1953, relativo all'erezione della parrocchia di San Giuseppe, in frazione Vanoni-Remelli del comune di Valeggio sul Mincio (Verona).
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 8 gennaio 1954
+ Atti del Governo, registro n. 81, foglio n. 18. - PALLA
+

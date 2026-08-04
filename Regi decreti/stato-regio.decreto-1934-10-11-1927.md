@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1927
+data: 1934-10-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1934-10-11;1927
+codice_redazionale: 034U1927
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:55Z
+---
+
+REGIO DECRETO
+                11 ottobre 1934
+                1927
+                Riconoscimento della personalita' giuridica della Chiesa di S. Maria, in Sarcedo. (034U1927)
+
+Entrata in vigore del provvedimento: 20/12/1934
+
+## Art. 1.
+
+N.
+
+R. decreto 11 ottobre 1934, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa di S. Maria in Sarcedo (Vicenza) e viene autorizzato alla stessa ad accettare la donazione di alcuni immobili disposta dal comune di Sarcedo. 
+ 
+ Visto, il Guardasigilli: DE FRANCISCI. 
+ Registrato alla Corte dei conti, addi' 23 novembre 1934 - Anno XIII
+

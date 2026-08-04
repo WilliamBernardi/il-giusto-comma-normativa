@@ -1,0 +1,62 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1906
+data: 1960-10-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-10-30;1906
+codice_redazionale: 060U1906
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 ottobre 1960
+                1906
+                Modificazioni allo statuto del Politecnico di Milano.
+
+Veduto lo statuto del Politecnico di Milano, approvato con regio decreto 20 aprile 1939, n. 1028, modificato con regio decreto 11 luglio 1942, n. 921 e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652 e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 31 gennaio 1960, n. 53;
+
+Vedute le proposte di modifiche dello statuto formulate dalle Autorita' accademiche del Politecnico anzidetto;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+## - TITOLO I. ORDINAMENTO DIDATTICO  Capitolo I. - Disposizioni generali
+
+## Art. 1.
+
+Esso comprende una Facolta' di ingegneria ed una Facolta' di architettura.
+
+ Art. 2. - I corsi per il conseguimento delle lauree in ingegneria ed in architettura hanno la durata di 5 anni.
+
+ Art. 3. - Sono ammessi al primo anno dei corsi di laurea in ingegneria coloro che abbiano conseguito il diploma di maturita' classica o scientifica.
+ Al primo anno del corso di laurea in architettura sono ammessi coloro che siano forniti del diploma di maturita' classica, scientifica o artistica.
+ I cittadini italiani residenti all'estero, gli italiani non appartenenti alla Repubblica e gli stranieri possono essere ammessi all'anno di corso per il quale dal Senato accademico, udita la Facolta' competente, siano ritenute sufficienti i titoli di studio conseguiti all'estero.
+ Per ottenere l'ammissione di cui al comma precedente occorre possedere un titolo di studi medi che dia adito, nello Stato dove fu conseguito alle Facolta' di ingegneria e di architettura.
+
+ Art. 4. - Lo studente e' tenuto a frequentare le lezioni e le esercitazioni degli insegnamenti prescritti per ogni singolo anno dal piano degli studi del corso di laurea al quale e' iscritto.
+ Ogni professore, in relazione al proprio insegnamento, si accerta della frequenza, diligenza e profitto dello studente nel modo che crede piu' opportuno ed entro il mese di maggio di ogni anno trasmette al preside l'elenco degli allievi ammessi all'Esame e l'elenco di quelli esclusi, tenuti a ripetere iscrizione e frequenza.
+ Della ammissione all'esame, su richiesta dell'allievo e' data attestazione dal professore sul libretto d'iscrizione.
+
+ Art. 5. - Presso il Politecnico, subordinatamente alle esigenze dell'orario degli insegnamenti ufficiali, possono essere tenuti corsi a titolo privato.
+ Le domande per l'esercizio dell'insegnamento a titolo privato debbono essere presentate, corredate dei programma, al Rettore del Politecnico almeno un mese prima dell'inizio dell'anno accademico.
+ Spetta al Consiglio di Facolta' di approvare i programmi dei corsi tenuti a titolo privato e di coordinarli con gli altri insegnamenti impartiti nel Politecnico.
+

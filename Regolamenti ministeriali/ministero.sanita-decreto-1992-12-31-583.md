@@ -1,0 +1,100 @@
+---
+tipo: DECRETO
+numero: 583
+data: 1992-12-31
+titolo: ""
+urn: urn:nir:ministero.sanita:decreto:1992-12-31;583
+codice_redazionale: 093G0408
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:41Z
+---
+
+DECRETO
+                31 dicembre 1992
+                583
+                 Regolamento recante l'accordo collettivo nazionale per la disciplina dei rapporti libero-professionali tra il Ministero della sanita' ed i medici fiduciari incaricati dell'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile.
+
+Entrata in vigore del decreto: 02-04-1994
+
+## Art. 1.
+
+IL MINISTRO DELLA SANITA'
+ Vista la legge 23 dicembre 1978, n. 833;
+ Visto il decreto del Presidente della Repubblica 31 luglio 1980, n. 620, recante norme sulla disciplina dell'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile, ed in particolare l'art. 6 che prevede che il Ministero della sanita' puo' avvalersi di personale sanitario a rapporto convenzionale;
+ Visto il proprio decreto 22 febbraio 1984, pubblicato nella Gazzetta Ufficiale n. 77 del 17 marzo 1984, con il quale sono stati fissati i livelli delle prestazioni sanitarie e delle prestazioni economiche accessorie a quelle di malattia assicurate al personale di cui sopra;
+ Visti i propri decreti del 5 febbraio 1985 e del 22 giugno 1987, n. 575, pubblicati, rispettivamente, nella Gazzetta Ufficiale n. 97 del 24 aprile 1985 e nella Gazzetta Ufficiale n. 42 del 20 febbraio 1988, con i quali e' stata emanata la disciplina dei rapporti libero- professionali tra il Ministero della sanita' ed i medici fiduciari incaricati dell'assistenza al predetto personale navigante, avente validita' fino al 31 dicembre 1988;
+ Atteso che la disciplina, in relazione anche ai compiti svolti dai predetti medici fiduciari, e' necessariamente correlata, per la parte compatibile, agli istituti di cui all'accordo collettivo nazionale per i medici di medicina generale a rapporto convenzionale con le unita' sanitarie locali;
+ Considerato che con decreto del Presidente della Repubblica 28 settembre 1990, n. 314, e' stato emanato l'accordo collettivo nazionale per la regolamentazione dei rapporti con i medici di medicina generale a rapporto convenzionale con le unita' sanitarie locali per il triennio 1 luglio 1988-30 giugno 1991;
+ Ritenuto, pertanto, di adeguare, per la parte compatibile, la disciplina di cui ai decreti ministeriali 5 febbraio 1985 e 22 giugno 1987, n. 575, applicata in regime di prorogatio, al predetto accordo collettivo nazionale di cui al decreto del Presidente della Repubblica n. 314/1990;
+ Considerato che in data 30 luglio 1991 e' stata raggiunta, al riguardo, una intesa con le organizzazioni sindacali maggiormente rappresentative in campo nazionale sulla disciplina dei rapporti tra il Ministero della sanita' e i medici fiduciari per l'assistenza sanitaria al personale navigante marittimo e dell'aviazione civile di cui ai decreti ministeriali 5 febbraio 1985 e 22 giugno 1987, n. 575, per il periodo 1 gennaio 1989-31 dicembre 1991;
+ Ritenuto di disciplinare i rapporti in questione per il triennio 1989-91 in conformita' alle predette intese;
+ Considerato che l'applicazione della suindicata disciplina ai rapporti convenzionali relativi agli anni 1989, 1990 e 1991 comporta, rispetto agli oneri gia' previsti a tale titolo, un presumibile maggiore onere complessivo di L. 1.500.000.000;
+ Visto l'art. 17, comma 3, della legge 23 agosto 1988, n. 400;
+ Udito il parere del Consiglio di Stato n. 806/92- bis espresso dalla sezione I nell'adunanza generale del 18 maggio 1992;
+ Vista la comunicazione al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata legge n. 400/1988 (nota n. DAGL.1/31890/4.18.54 del 15 ottobre 1992);
+ A D O T T A
+ il seguente regolamento:
+ 1. E' reso esecutivo l'accordo collettivo nazionale, per la disciplina dei rapporti libero-professionali tra il Ministero della sanita' ed i medici fiduciari incaricati dell'assistenza sanitaria al personale navigante, marittimo e dell'aviazione civile, per il triennio 1989-91, sottoscritto ai sensi dell'art. 6 del decreto del Presidente della Repubblica 31 luglio 1980, n. 620, riportato nel testo allegato, vistato dal proponente.
+
+### Art. 1.
+
+ACCORDO COLLETTIVO NAZIONALE PER LA DISCIPLINA DEI RAPPORTI LIBERO-PROFESSIONALI TRA IL MINISTERO DELLA SANITA' ED I MEDICI FIDUCIARI, INCARICATI DELLA ASSISTENZA SANITARIA AL PERSONALE NAVIGANTE, MARITTIMO E DELL'AVIAZIONE CIVILE 
+ 
+ Art. 1. 
+ Campo di applicazione 
+ 1. I rapporti di lavoro fra i medici fiduciari incaricati dell'assistenza sanitaria al personale navigante di cui al decreto del Presidente della Repubblica 31 luglio 1980, n. 620, ed il Ministero della sanita' continuano ad essere regolati ai sensi della disciplina relativa ai rapporti libero-professionali tra i medici generici fiduciari, incaricati dell'assistenza al personale navigante, marittimo e dell'aviazione civile, approvata con i decreti ministeriali 5 febbraio 1985 e 22 giugno 1987, n. 575, con le integrazioni e le modifiche di cui agli articoli seguenti. 
+ 2. Il presente regolamento disciplina il rapporto dei suindicati medici fiduciari per il periodo 1 gennaio 1989-31 dicembre 1991.
+
+### Art. 2.
+
+Compiti
+ 1. I medici fiduciari, oltre a svolgere i compiti previsti dalla disciplina approvata con i citati decreti ministeriali 5 febbraio 1985 e 22 giugno 1987, n. 575, richiamati all'art. 1 e quelli compatibili previsti dall'accordo per la medicina generale emanato con decreto del Presidente della Repubblica 28 settembre 1990, n. 314, effettuano visite in aeroporto o a bordo di navi in porto, in rada o in navigazione, procedendo all'eventuale accompagnamento in ospedale nei casi in cui le condizioni fisiopatologiche del navigante lo richiedano.
+
+### Art. 3.
+
+Visite preventive d'imbarco
+ 1. I medici fiduciari con incarico limitato alle sole visite domiciliari, nelle localita' sedi di ambulatori direttamente gestiti dal Ministero della sanita', effettuano anche visite preventive di imbarco urgenti nelle ore di chiusura degli ambulatori stessi.
+
+### Art. 4.
+
+Onorari
+ 1. Gli onorari previsti dall'art. 2 della disciplina approvata con decreto ministeriale 22 giugno 1987, n. 575, sono rideterminati come segue:
+ a) visita ambulatoriale: dal 1 gennaio 1989, L. 15.500; dal 1 gennaio 1990, L. 16.500; dal 1 gennaio 1991, L. 17.700;
+ b) visita domiciliare o in aeroporto o a bordo di nave in porto: dal 1 gennaio 1989, L. 23.000; dal 1 gennaio 1990, L. 24.000; dal 1 gennaio 1991, L. 27.000;
+ c) visita a bordo di nave in rada: dal 1 gennaio 1991, L. 70.000;
+ d) visita a bordo di nave in navigazione con eventuale accompagnamento di marittimo in ospedale: dal 1 gennaio 1991, L. 150.000;
+ e) visita biennale: dal 1 gennaio 1991, L. 35.000.
+ 2. A decorrere dal 1 gennaio 1989 gli onorari per le prestazioni extra di cui all'art. 9 della disciplina approvata con il citato decreto ministeriale 5 febbraio 1985 cosi' come rideterminati dall'art. 2 della disciplina approvata con il citato decreto ministeriale n. 575/1987, sono quelli previsti dall'allegato D all'accordo per la regolamentazione dei rapporti con i medici di medicina generale emanato con decreto del Presidente della Repubblica 28 settembre 1990, n. 314.
+ 3. Per la partecipazione a commissioni mediche per lo svolgimento di attivita' medico-legali in favore del personale navigante la misura del compenso e' pari a L. 120.000 (centoventimila).
+ 4. I compensi per le visite di controllo sono quelli di cui alla disciplina approvata con il citato decreto ministeriale n. 575/1987.
+
+### Art. 5.
+
+Assicurazione infortuni
+ 1. Entro sei mesi dal 30 luglio 1991, a cura e spese del Ministero della sanita', i medici fiduciari sono assicurati contro gli infortuni subi'ti a causa o in occasione dell'espletamento dei compiti connessi, oltre che alla visita a bordo di nave in rada, anche alle visite effettuate a bordo di nave in navigazione.
+
+### Art. 6.
+
+Norma transitoria
+ 1. I sanitari che alla data del 30 luglio 1991 erano titolari di incarico provvisorio di medico fiduciario, conferito ai sensi dell'ultimo comma dell'art. 4 della disciplina approvata con decreto ministeriale 5 febbraio 1985, sono confermati, in via definitiva, nell'incarico stesso, purche' siano in possesso dei requisiti e versino nelle condizioni previste per il conferimento dell'incarico.
+
+### Art. 7.
+
+Oneri di spesa
+ 1. Agli oneri derivanti dall'applicazione del presente regolamento, valutati per gli anni 1989, 1990, 1991 in complessive L. 1.500.000.000 si fara' fronte con gli stanziamenti del cap. 4306 dello stato di previsione della spesa del Ministero della sanita'.
+ELENCO DELLE PARTI FIRMATARIE DELLA CONVENZIONE PER LA REGOLAMENTAZIONE DEI RAPPORTI LIBERO-PROFESSIONALI TRA IL MINISTERO DELLA SANITA' ED I MEDICI FIDUCIARI INCARICATI DELL'ASSISTENZA SANITARIA AL PERSONALE NAVIGANTE.
+Ministero della sanita': on. DE LORENZO
+Sindacato medici SASN di Genova: CRISTIANI
+Sindacato medici SASN di Napoli: BRANCACCIO
+ CAPRERA
+ LO VERDE
+ SANTANGELO
+Sindacato medici SASN di Trieste: VALENTINI
+Federazione italiana medici di
+medicina generale: S.N.A.M.I.:
+ BONI
+ DI DONNA
+

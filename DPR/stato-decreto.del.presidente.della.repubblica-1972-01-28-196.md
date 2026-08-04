@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 196
+data: 1972-01-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-01-28;196
+codice_redazionale: 072U0196
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 gennaio 1972
+                196
+                Estinzione della fondazione scolastica "Graziadio Cassab", con sede presso il liceo scientifico "Oberdan" di Trieste.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 gennaio 1972, col quale, sulla proposta del Ministro per la pubblica istruzione, la fondazione scolastica "Graziadio Cassab", presso il liceo scientifico "Oberdan" di Trieste, viene dichiarata estinta ed il relativo patrimonio devoluto alla cassa scolastica del predetto liceo scientifico.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 maggio 1972
+ Atti del Governo, registro n. 248, foglio n. 118. - VALENTINI
+

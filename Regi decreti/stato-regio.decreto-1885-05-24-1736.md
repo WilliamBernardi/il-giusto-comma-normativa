@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1885-05-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-05-24;1736
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:24Z
+---
+
+REGIO DECRETO
+                24 maggio 1885
+                MDCCXXXVI
+                Che erige in corpo morale l'opera pia Sidoli in Travazzano frazione di Carpaneto, e ne approva lo statuto. (8501736R)
+
+Entrata in vigore del provvedimento: 14/07/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

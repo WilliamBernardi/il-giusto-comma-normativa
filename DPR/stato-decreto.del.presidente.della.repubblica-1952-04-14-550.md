@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 550
+data: 1952-04-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-04-14;550
+codice_redazionale: 052U0550
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 aprile 1952
+                550
+                Riconoscimento della personalita' giuridica della Chiesa-Cappella di San Giovanni Battista Decollato, in frazione Vernetto del comune di Villanova Solaro (Cuneo).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 aprile 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa-Cappella di San Giovanni Battista Decollato, in frazione Vernetto del comune di Villanova Solaro (Cuneo) e la stessa viene autorizzata ad accettare il legato disposto da Einaudi Orsola ved. Angaramo consistente in alcuni immobili situati in Vernetto di Villanova Solaro valutati L. 525.862.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 24 maggio 1952
+ Atti del Governo, registro n. 53, foglio n. 120. - CARLOMAGNO
+

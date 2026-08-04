@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 379
+data: 1949-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1949-04-27;379
+codice_redazionale: 049U0379
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1949
+                379
+                Riconoscimento della personalita' giuridica della Chiesa parocchiale di Nostra Signora del Sacro Cuore, in frazione Capezzano del comune di Camaiore (Lucca).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1949, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Nostra Signora del Sacro Cuore, in frazione Capezzano del comune di Camaiore (Lucca), e la Chiesa parrocchiale anzidetta viene autorizzata ad accettare la donazione disposta in suo favore da Corfini Giuseppe, consistente in alcuni immobili del complessivo valore di L. 160.000, situati in Capezzano.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla corte dei conti, addi' 28 giugno 1949
+

@@ -1,0 +1,56 @@
+---
+tipo: DECRETO
+numero: 95
+data: 1996-01-26
+titolo: ""
+urn: urn:nir:ministero.finanze:decreto:1996-01-26;95
+codice_redazionale: 096G0103
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:39Z
+---
+
+DECRETO
+                26 gennaio 1996
+                95
+                 Regolamento recante norme per l'esenzione dei diritti doganali per merci importate a seguito viaggiatori.
+
+Entrata in vigore del decreto: 16/3/1996
+
+Ritenuta la necessita' di adeguare il predetto decreto ministeriale alle disposizioni contenute nella direttiva comunitaria n. 94/4/CEE nonche' di quelle adottate in relazione alla soppressione delle frontiere fiscali dalla direttiva n. 91/680/CEE del Consiglio;
+
+## Art. 1.
+
+Sono ammesse alla franchigia dai diritti doganali, ai sensi dell'art. 12 delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvate con decreto del Presidente della Repubblica 26 giugno 1965, n. 723, e successive modificazioni, gli oggetti e generi di consumo che i viaggiatori in provenienza da Paesi terzi portano con se' nel proprio bagaglio a condizione che si tratti di importazioni prive di ogni carattere commerciale e il loro valore non superi 175 unita' di conto europee.
+
+Tale importo e' ridotto a novanta unita' di conto europee per i viaggiatori di eta' inferiore a 15 anni.
+
+I viaggiatori di eta' inferiore a diciassette anni sono esclusi dalla franchigia prevista per i prodotti di cui alle lettere a) e b) e, se inferiori a quindici anni, anche dalla franchigia di cui alla lettera d).
+
+Il valore dei generi compresi nei quantitativi di cui sopra non va calcolato agli effetti della determinazione del valore globale degli oggetti da ammettere in franchigia.
+ AVVERTENZA:
+ Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
+ Note alle premesse:
+ - L'art. 14 delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvata con D.P.R. 26 giugno 1965, n. 723, come sostituito dall'art. 1 della legge 26 novembre 1992, n. 479, e' cosi' formulato:
+ "Art. 14. - 1. Con regolamenti approvati con decreti del Ministro delle finanze, ai sensi dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite, in conformita' alle disposizioni comunitarie, condizioni, modalita' e formalita' per l'ammissione alle franchigie dai diritti doganali previste dall'art. 12 e dal regolamento (CEE) n. 918/83 del Consiglio, del 28 marzo 1983.
+ 2. Con successivi regolamenti, approvati con decreti del Ministro delle finanze, sono disposti gli ulteriori adeguamenti alle disposizioni comunitarie".
+ - Il regolamento (CEE) n. 918/83, relativo alla fissazione del regime comunitario delle franchigie doganali, e' pubblicato nella "Gazzetta Ufficiale" delle Comunita' europee n. L 105 del 23 aprile 1983.
+ - La direttiva CEE n. 91/680, che completa il sistema comune di imposta sul valore aggiunto e modifica, in vista della soppressione delle frontiere fiscali, la direttiva 77/388/CEE, e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 376 del 31 dicembre 1991 e ripubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 31 del 23 aprile 1992, 2a serie speciale.
+ - La direttiva CEE n. 69/169, relativa all'armonizzazione delle disposizioni legislative, regolamentari e amministrative riguardanti la franchigia dalle imposte sulla cifra d'affari e dalle altre imposizioni indirette interne riscosse all'importazione nel traffico internazionale di viaggiatori, piu' volte modificata, e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 133 del 4 giugno 1969.
+ - La direttiva CEE n. 94/4, che modifica le direttive 69/169/CEE e 77/388/CEE e aumenta il livello delle franchigie per i viaggiatori provenienti da Paesi terzi e dei limiti per gli acquisti in franchigia effettuati da viaggiatori intracomunitari, e' stata pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. L 60 del 3 marzo 1994 e ripubblicata nella Gazzetta Ufficiale della Repubblica italiana n. 33 del 5 maggio 1994, 2a serie speciale.
+ - L'art. 12 delle disposizioni preliminari alla tariffa dei dazi doganali d'importazione, approvata con D.P.R. 26 giugno 1965, n. 723, come sostituito dall'art. 1 della legge 26 novembre 1992, n. 479, e' cosi' formulato:
+ "Art. 12. - 1. Salvo quanto previsto dal regolamento (CEE) 918/83 del Consiglio, del 28 marzo 1983, e senza pregiudizio delle maggiori facilitazioni stabilite dagli accordi internazionali, e' concessa l'importazione definitiva in esenzione dai diritti di confine, diversi da quelli contemplati dal suddetto regolamento, delle merci per le quali risultano soddisfatte le medesime condizioni prescritte, per la franchigia daziaria, dal regolamento stesso.
+ 2. Non sono soggette all'imposta sul valore aggiunto le importazioni di merci per le quali l'esenzione dal predetto tributo e' disposta, con carattere di obbligatorieta', dalle direttive del Consiglio delle Comunita' europee adottate in materia di armonizzazione delle disposizioni riguardanti la franchigia dalle imposte sulla cifra di affari riscosse all'importazione nel traffico internazionale dei viaggiatori, ovvero le franchigie applicabili all'importazione delle merci oggetto di piccole spedizioni a carattere non commerciale, o quelle applicabili alle importazioni definitive di beni personali di privati provenienti da uno Stato membro, nonche' dalle direttive del Consiglio delle Comunita' europee adottate in materia di determinazione del campo di applicazione dell'art. 14, paragrafo 1, lettera d), della direttiva 77/388/CEE del Consiglio, del 17 maggio 1977".
+ - Il comma 3 dell'art. 17 della legge n. 400/1988 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri) prevede che con decreto ministeriale possano essere adottati regolamenti nelle materie di competenza del Ministro o di autorita' sottordinate al Ministro, quando la legge espressamente conferisca tale potere. Tali regolamenti, per materie di competenza di piu' Ministri, possono essere adottati con decreti interministeriali, ferma restando la necessita' di apposita autorizzazione da parte della legge. I regolamenti ministeriali ed interministeriali non possono dettare norme contrarie a quelle dei regolamenti emanati dal Governo.
+ Essi debbono essere comunicati al Presidente del Consiglio dei Ministri prima della loro emanazione. Il comma 4 dello stesso articolo stabilisce che gli anzidetti regolamenti debbano recare la denominazione di "regolamento", siano adottati previo parere del Consiglio di Stato, sottoposti al visto ed alla registrazione della Corte dei conti e pubblicati nella Gazzetta Ufficiale.
+
+## Art. 2.
+
+Sono esclusi dalla franchigia i medesimi oggetti e prodotti importati nel traffico di frontiera.
+
+## Art. 3.
+
+Il decreto ministeriale 16 ottobre 1990, n. 440, pubblicato nella Gazzetta Ufficiale n. 22 del 26 gennaio 1991, e' abrogato.
+

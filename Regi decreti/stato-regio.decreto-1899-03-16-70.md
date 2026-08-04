@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1899-03-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1899-03-16;70
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:30Z
+---
+
+REGIO DECRETO
+                16 marzo 1899
+                LXX
+                Che modifica la tabella B del personale dei convitti nazionali in seguito alla conversione del reale collegio di Lucca. (9900070R)
+
+Entrata in vigore del provvedimento: 22/04/1899
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

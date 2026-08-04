@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 39
+data: 1957-01-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-01-13;39
+codice_redazionale: 057U0039
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 gennaio 1957
+                39
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Gesu' Divino Lavoratore, della B. V. Maria Addolorata e di Santa Rita, in rione Pombio del comune di Voghera (Pavia).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 gennaio 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Tortona in data 25 marzo 1956, integrato con tre dichiarazioni, una in data 11 giugno 1956, la seconda in data 15 giugno 1956, munita di postilla 3 ottobre 1956, e la terza di pari data 15 giugno 1956, relativo alla erezione della parrocchia di Gesu' Divino Lavoratore, della B. V. Maria Addolorata e di Santa Rita, in rione Pombio del comune di Voghera (Pavia). 
+ 
+Visto, il Guardasigilli: MORO 
+ Registrato alla Corte dei conti, addi' 28 febbraio 1957 
+ Atti del Governo, registro n. 104, foglio n. 67. - CARLOMAGNO
+

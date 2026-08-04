@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1883-01-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1883-01-28;850
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:05Z
+---
+
+REGIO DECRETO
+                28 gennaio 1883
+                DCCCL
+                Che scioglie la congregazione di carita' di Canistro (Aquila). (8300850R)
+
+Entrata in vigore del provvedimento: 18/04/1883
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

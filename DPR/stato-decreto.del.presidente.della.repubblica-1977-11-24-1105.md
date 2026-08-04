@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1105
+data: 1977-11-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-11-24;1105
+codice_redazionale: 077U1105
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 novembre 1977
+                1105
+                Approvazione del nuovo statuto dell'Associazione radio amatori italiani, in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 novembre 1977, col quale, sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con i Ministri per l'interno, per i beni culturali e ambientali e per l'industria, il commercio e l'artigianato, viene approvato il nuovo statuto dell'Associazione radioamatori italiani (A.R.I.), in Milano, eretta in ente morale con decreto del Presidente della Repubblica 10 gennaio 1950, n. 368.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 24 febbraio 1978
+ Registro n. 10 Poste, foglio n. 236
+

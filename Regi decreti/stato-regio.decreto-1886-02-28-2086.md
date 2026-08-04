@@ -1,0 +1,56 @@
+---
+tipo: REGIO DECRETO
+data: 1886-02-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1886-02-28;2086
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:55Z
+---
+
+REGIO DECRETO
+                28 febbraio 1886
+                MMLXXXVI
+                Che costituisce in ente morale l'eredita' disposta dal fu Giovanni Cappelli a favore del regio istituto di belle arti di Modena. (8602086R)
+
+Entrata in vigore del provvedimento: 24/04/1886
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la seguente clausola del citato testamento: «Se avvenisse che in Modena, o fuori, non ci fosse artista statuario modenese meritevole di aver
+
+commissioni, in allora l'amministrazione mettera' a frutto i frutti, fintantoche' non sia raggiunta la somma di ventimila lire (L. 20,000): ottenuto questo, sia erogata la meta' di questa somma vale a dire lire diecimila (L. 10,000), in opere di beneficenza, continuando finche' sorga l'artista meritevole, sia in Modena, come fuori;»
+
+Sentito il parere del consiglio di Stato;
+
+## Art. 1.
+
+E' eretto in ente morale il legato disposto dal fu Giovanni Cappelli, gia' professore nel regio istituto di belle arti di Modena, ad incremento dell'arte scultoria in quella citta' ed eventualmente, a scopo di beneficenza.
+
+## Art. 2.
+
+E' autorizzato il regio istituto di belle arti di Modena, ad accettare siffatto lascito e ad amministrarne le rendite, alle condizioni volute dal testatore.
+
+## Art. 3.
+
+Lo statuto organico per l'amministrazione del patrimonio Cappelli, dovra' essere dall'istituto medesimo presentato nel termine di un anno, all'approvazione del Governo. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 28 febbraio 1886. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 25 marzo 1886. 
+ 
+ Reg. 148. Atti del Governo a f. 102. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli D. TAJANI. 
+ 
+ DEPRETIS. 
+ COPPINO.
+

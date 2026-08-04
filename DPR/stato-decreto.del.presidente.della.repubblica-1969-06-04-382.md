@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 382
+data: 1969-06-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-06-04;382
+codice_redazionale: 069U0382
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 giugno 1969
+                382
+                Riconoscimento della personalita' giuridica del monastero di S. Maria del Mare delle Suore Benedettine, nel comune di La Spezia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 giugno 1969, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica del monastero di S. Maria del Mare delle Suore Benedettine, in localita' Marinasco del comune di La Spezia, e viene inoltre autorizzato ad accettare la donazione disposta dal monastero delle Suore Benedettine della SS. Annunziata di Rosano in Rignano sull'Arno (Firenze), consistente in un fabbricato, adibito a sede, con adiacente terreno di ha 1.37.54, il tutto valutato L. 25.571.400.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 10 luglio 1969
+ Atti del Governo, registro n. 227, foglio n. 187. - CARUSO
+

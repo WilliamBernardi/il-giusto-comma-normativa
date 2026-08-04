@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 216
+data: 1951-02-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-02-06;216
+codice_redazionale: 051U0216
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 febbraio 1951
+                216
+                Determinazione delle misure dei contributi dovuti per l'anno 1950 al "Fondo di integrazione per le assicurazioni sociali".
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+I contributi, dovuti per l'anno 1950 al "Fondo di integrazione per le assicurazioni sociali" istituito col decreto legislativo luogotenenziale 1 marzo 1945, numero 177, sono fissati nelle seguenti aliquote della retribuzione calcolata nei limiti stabiliti dal secondo comma dell'art. 9 del decreto legislativo luogotenenziale n. 177:
+ 1) 1,97 per cento per i lavoratori soggetti all'obbligo della assicurazione per l'invalidita', la vecchiaia ed i superstiti;
+ 2) 0,56 per cento per i lavoratori soggetti all'obbligo della iscrizione al Fondo di previdenza per il personale addetto ai pubblici servizi di telefonia;
+ 3) 0,46 per cento per i lavoratori soggetti all'obbligo della iscrizione al Fondo di previdenza per il personale addetto alle gestioni delle imposte di consumo;
+ 4) 0,64 per cento per i lavoratori soggetti all'obbligo della iscrizione al Fondo di previdenza per gli impiegati dipendenti dalle esattorie e ricevitorie delle imposte dirette;
+ 5) 2,99 per cento per i lavoratori soggetti all'obbligo della assicurazione obbligatoria per la disoccupazione involontaria;
+ 6) 3,22 per cento per i lavoratori soggetti all'obbligo della assicurazione obbligatoria contro la tubercolosi.
+

@@ -1,0 +1,160 @@
+---
+tipo: DECRETO-LEGGE
+numero: 133
+data: 1986-04-30
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1986-04-30;133
+codice_redazionale: 086U0133
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1986-08-18
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                30 aprile 1986
+                133
+                Provvedimenti urgenti per la finanza locale.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## - Titolo I BILANCI, TRASFERIMENTI E MUTUI
+
+## Art. 1.
+
+DECRETO DECADUTO
+
+## Art. 2.
+
+DECRETO DECADUTO
+
+## Art. 3.
+
+DECRETO DECADUTO
+
+## Art. 4.
+
+DECRETO DECADUTO
+
+## Art. 5.
+
+DECRETO DECADUTO
+
+## Art. 6.
+
+DECRETO DECADUTO
+
+## Art. 7.
+
+DECRETO DECADUTO
+
+## Art. 8.
+
+DECRETO DECADUTO
+
+## Art. 9.
+
+DECRETO DECADUTO
+
+## Art. 10.
+
+DECRETO DECADUTO
+
+## Art. 11.
+
+DECRETO DECADUTO
+
+## Art. 12.
+
+DECRETO DECADUTO
+
+## Art. 13.
+
+DECRETO DECADUTO
+
+## - Titolo II TASSA PER I SERVIZI COMUNALI
+
+## Art. 14.
+
+DECRETO DECADUTO
+
+## Art. 15.
+
+DECRETO DECADUTO
+
+## Art. 16.
+
+DECRETO DECADUTO
+
+## Art. 17.
+
+DECRETO DECADUTO
+
+## Art. 18.
+
+DECRETO DECADUTO
+
+## Art. 19.
+
+DECRETO DECADUTO
+
+## Art. 20.
+
+DECRETO DECADUTO
+
+## Art. 21.
+
+DECRETO DECADUTO
+
+## Art. 22.
+
+DECRETO DECADUTO
+
+## Art. 23.
+
+DECRETO DECADUTO
+
+## Art. 24.
+
+DECRETO DECADUTO
+
+## Art. 25.
+
+DECRETO DECADUTO
+
+## - Titolo III ALTRE DISPOSIZIONI FISCALI
+
+## Art. 26.
+
+DECRETO DECADUTO
+
+## Art. 27.
+
+DECRETO DECADUTO
+
+## Art. 28.
+
+DECRETO DECADUTO
+
+## Art. 29.
+
+DECRETO DECADUTO
+
+## Art. 30.
+
+DECRETO DECADUTO
+
+## Art. 31.
+
+DECRETO DECADUTO
+
+## Art. 32.
+
+DECRETO DECADUTO
+
+## Art. 33.
+
+DECRETO DECADUTO
+

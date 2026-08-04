@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1426
+data: 1938-07-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1938-07-12;1426
+codice_redazionale: 038U1426
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:10Z
+---
+
+REGIO DECRETO
+                12 luglio 1938
+                1426
+                Riconoscimento della personalita' giuridica della Provincia italiana della Congregazione delle Suore Betlemite, con sede in Roma. (038U1426)
+
+Entrata in vigore del provvedimento: 02/10/1938
+
+## Art. 1.
+
+N.
+
+R. decreto 12 luglio 1938, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia italiana della Congregazione delle Suore Betlemite con sede in Roma, via Lambro, 14, e con Casa generalizia in Bogota' (Colombia), e viene autorizzato il trasferimento a favore della Provincia predetta di immobili del complessivo valore approssimativo di L. 593.644,20, da essa posseduti da epoca anteriore al Concordato con la Santa Sede, attualmente intestati a terzi. 
+ 
+ Visto, il Guardasigilli: SOLMI. 
+ 
+ Registrato alla Corte dei conti, addi' 1° settembre 1938 - Anno XVI
+

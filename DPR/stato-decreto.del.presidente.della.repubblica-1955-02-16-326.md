@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 326
+data: 1955-02-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-02-16;326
+codice_redazionale: 055U0326
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 febbraio 1955
+                326
+                Autorizzazione alla Cassa scolastica dell'Istituto tecnico commerciale e per geometri statale "A. Pitentino" di Mantova ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 febbraio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto tecnico commerciale e per geometri statale "A. Pitentino" di Mantova viene autorizzata ad accettare la donazione di nominali L. 300.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, una borsa di studio annuale intitolata al nome del geometra Giulio Giuseppe Motta.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 30 aprile 1955
+ Atti del Governo, registro n. 90, foglia n. 99. - CARLOMAGNO
+

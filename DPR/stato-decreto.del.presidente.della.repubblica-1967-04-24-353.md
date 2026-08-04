@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 353
+data: 1967-04-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-04-24;353
+codice_redazionale: 067U0353
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 aprile 1967
+                353
+                Riconoscimento, agli effetti civili, della istituzione, nel capitolo cattedrale di Chioggia (Venezia), di un canonicato semplice intitolato al SS. Felice e Fortunato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 aprile 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effettivi civili, il decreto dell'Ordinario diocesano di Chioggia in data 31 ottobre 1966, relativo alla istituzione, nel capitolo cattedrale di Chioggia (Venezia), di un canonicato semplice intitolato ai SS. Felice e Fortunato.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 3 giugno 1967
+ Atti del Governo, registro n. 211, foglio n. 74. - GRECO
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 443
+data: 1966-04-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-04-29;443
+codice_redazionale: 066U0443
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 aprile 1966
+                443
+                Autorizzazione all'Automobile Club d'Italia, con sede in Roma, ed all'Automobile Club di Treviso ad acquistare in comproprieta' un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 aprile 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club d'Italia, con sede in Roma e l'Automobile Club di Treviso vengono autorizzati ad acquistare in comproprieta' dalla signora Giovanna Cappelletto, per il prezzo di L. 34.500.000, la porzione immobiliare - costituita da un vano al piano sotterraneo, tre vani al piano terreno e undici vani al piano ammezzato - facente parte del fabbricato sito in Treviso alla piazza S. Pio X, n. 19, da adibire a sede dei propri uffici.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 giugno 1966
+ Atti del Governo, registro n. 203, foglio n. 138. - VILLA
+

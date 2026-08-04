@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 5501
+data: 1888-06-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-06-24;5501
+codice_redazionale: 088U5501
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:42Z
+---
+
+REGIO DECRETO
+                24 giugno 1888
+                5501
+                che modifica il ruolo organico del personale delle Intendenze di Finanza (088U5501)
+
+Entrata in vigore del provvedimento: 25/07/1888
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

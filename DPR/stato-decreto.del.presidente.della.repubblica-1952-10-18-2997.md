@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2997
+data: 1952-10-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-10-18;2997
+codice_redazionale: 052U2997
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 ottobre 1952
+                2997
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della B. V. Immacolata, in frazione Fornaci del comune di Briosco (Milano).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 ottobre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Milano, in data 16 dicembre 1944, integrato con successivi 2 febbraio 1951, 10 settembre 1951 e 21 marzo 1952, relativo all'erezione della parrocchia della B. V. Immacolata, in frazione Fornaci del comune di Briosco (Milano) e inoltre viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 16 dicembre 1952
+ Atti del Governo, registro n. 62, foglio n. 71. - PALLA
+

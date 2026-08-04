@@ -1,0 +1,130 @@
+---
+tipo: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+numero: 769
+data: 1994-10-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.del.consiglio.dei.ministri:1994-10-06;769
+codice_redazionale: 094G0632
+vigente: true
+source: normattiva-opendata
+collection: DPCM
+vigenza_date: 2007-08-11
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:40:12Z
+---
+
+DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI
+                06 ottobre 1994
+                769
+                 Regolamento per la gestione delle spese occorrenti per il funzionamento dell'Autorita' per l'informatica nella pubblica amministrazione.
+
+Entrata in vigore del decreto: 18-4-1995
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 23. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 24. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 25. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 26. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+
+## Art. 27. — ((PROVVEDIMENTO ABROGATO DAL D.P.C.M. 1 GIUGNO 2007, N. 110))
+
+
+

@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 769
+data: 1969-03-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-31;769
+codice_redazionale: 069U0769
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 marzo 1969
+                769
+                Inclusione dell'abitato di Ventimiglia tra quelli da consolidare a cura e spese dello Stato, limitatamente alla zona in destra del fiume Roia.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 9 luglio 1908, n. 445;
+ Visto il decreto-legge luogotenenziale 30 giugno 1918, n. 1019;
+ Visto il regio decreto 4 novembre 1938, n. 2016, con il quale l'abitato di Ventimiglia, in provincia di Imperia, fu ammesso tra quelli da consolidare a cura e spese dello Stato, ai sensi della citata legge 9 luglio 1908, n. 445;
+ Considerato che i movimenti franosi verificatisi in prosieguo di tempo hanno interessato soltanto una parte del centro abitato, mentre la restante parte si e' dimostrata di positivo equilibrio geologico;
+ Ritenuta l'opportunita' di procedere alla revisione del provvedimento a suo tempo adottato col citato regio decreto 4 novembre 1938, n. 2016;
+ Visto il conforme parere del Consiglio superiore dei lavori pubblici espresso con voto n. 1524, emesso nell'adunanza del 19 novembre 1968;
+ Sulla proposta del Ministro Segretario di Stato per i lavori pubblici;
+
+ Decreta:
+
+ A decorrere dalla data del presente decreto la dichiarazione, di cui al regio decreto 4 novembre 1938, n. 2016, d'ammissione al consolidamento a cura e spese dello Stato ai sensi della legge 9 luglio 1908, n. 445, dell'intero abitato del comune di Ventimiglia (Imperia) cessa d'avere validita', restando l'ammissione stessa limitata alla zona in destra del fiume Roia.
+

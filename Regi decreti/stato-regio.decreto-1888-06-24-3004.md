@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1888-06-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-06-24;3004
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:56Z
+---
+
+REGIO DECRETO
+                24 giugno 1888
+                MMMIV
+                Che approva il nuovo statuto organico del pio sodalizio dei fornai italiani in S. Maria di Loreto presso il Foro Trajano in Roma. (8803004R)
+
+Entrata in vigore del provvedimento: 14/08/1888
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

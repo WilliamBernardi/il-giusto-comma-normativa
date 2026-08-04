@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1030
+data: 1954-08-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-08-24;1030
+codice_redazionale: 054U1030
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 agosto 1954
+                1030
+                Riconoscimento, agli effetti civili, della erezione della parrocchia del Cuore Immacolato della Beata Maria Vergine, detta anche di Santa Maria di Cittadella, in Cittadella (Padova).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 agosto 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Padova in data 16 novembre 1949, integrato con postilla e dichiarazione 4 agosto 1951, relativo alla erezione della parrocchia del Cuore Immacolato della Beata Maria Vergine, detta anche di Santa Maria di Cittadella, in Cittadella (Padova) e viene autorizzato l'ente predetto ad accettare donazioni consistenti in alcuni immobili situati nei comuni di Tombolo e Cittadella. Inoltre viene riconosciuta la personalita' giuridica della Chiesa parrocchiale omonima con i beni attribuitile con il citato decreto Vescovile, e viene autorizzata la Chiesa stessa ad accettare una donazione consistente in un appezzamento di terreno, situato in comune di Cittadella (Padova), sul quale sono state costruite la chiesa e la casa canonica.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 30 ottobre 1954
+ Atti del Governo, registro n. 86, foglio n. 181. - CARLOMAGNO
+

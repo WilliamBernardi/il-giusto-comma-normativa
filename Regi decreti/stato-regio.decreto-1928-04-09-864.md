@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 864
+data: 1928-04-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-04-09;864
+codice_redazionale: 028U0864
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:48Z
+---
+
+REGIO DECRETO
+                09 aprile 1928
+                864
+                Riunione dei comuni di Amantea e San Pietro in Amantea in un unico Comune con denominazione e capoluogo Amantea. (028U0864)
+
+Entrata in vigore del provvedimento: 19/05/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

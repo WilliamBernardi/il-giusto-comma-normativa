@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 767
+data: 1970-09-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-09-14;767
+codice_redazionale: 070U0767
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 settembre 1970
+                767
+                Riconoscimento della personalita' giuridica della provincia romana "Sacro Cuore di Gesu'" dell'Istituto delle suore passioniste di S.
+Paolo della Croce, con sede in comune di Marino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 settembre 1970, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della provincia romana "Sacro Cuore di Gesu'" dell'Istituto delle suore passioniste di S.
+ Paolo della Croce, con sede in frazione Ciampino del comune di Marino (Roma), nonche' l'autorizzazione ad accettare la donazione disposta dall'Istituto delle suore passioniste di S. Paolo della Croce, con sede in Roma, consistente in un terreno di mq. 47.107 con sovrastanti due fabbricati, valutati complessivamente lire 168.000.000.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 29 ottobre 1970
+ Atti del Governo, registro n. 238, foglio n. 18 - CARUSO
+

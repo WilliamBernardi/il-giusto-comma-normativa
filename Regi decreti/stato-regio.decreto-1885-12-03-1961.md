@@ -1,0 +1,55 @@
+---
+tipo: REGIO DECRETO
+data: 1885-12-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-12-03;1961
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:45Z
+---
+
+REGIO DECRETO
+                03 dicembre 1885
+                MDCCCCLXI
+                Che costituisce in corpo morale l'asilo infantile di Centuripe, e ne approva lo statuto. (8501961R)
+
+Entrata in vigore del provvedimento: 27/01/1886
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro ministro segretario di Stato per gli affari dell'interno, presidente del consiglio dei ministri;
+
+Veduto l'atto 20 dicembre 1883 con il quale il consiglio comunale di Centuripe delibero' l'istituzione di un asilo infantile vincolando a tale effetto il proprio bilancio per la somma annua di L. 2500 compreso il sussidio di L. 1000, che corrisponde ogni anno la provincia di Catania;
+
+Veduta la deliberazione della deputazione provinciale 16 luglio 1884 e gli altri atti corrispondenti all'appoggio dei quali si chiede l'erezione in corpo morale dell'asilo suddetto e la contemporanea approvazione dello statuto organico discusso ed adottato dal consiglio comunale;
+
+Veduto detto statuto organico;
+
+Veduta la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno;
+
+## Art. 1.
+
+L'asilo infantile istituito in Centuripe dal consiglio comunale coll'atto 20 dicembre 1883 e' eretto in corpo morale.
+
+## Art. 2.
+
+E' approvato il relativo statuto organico composto di ventiquattro articoli adottato definitivamente dal consiglio comunale in seduta 7 ottobre anno corrente visto e sottoscritto dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 3 dicembre 1885. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 4 gennaio 1886. 
+ 
+ Reg. 146. Atti del Governo a f. 101. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli D. TAJANI. 
+ 
+ DEPRETIS.
+

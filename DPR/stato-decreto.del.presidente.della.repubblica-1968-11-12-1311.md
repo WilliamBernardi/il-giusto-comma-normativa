@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1311
+data: 1968-11-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-11-12;1311
+codice_redazionale: 068U1311
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 novembre 1968
+                1311
+                Erezione in ente morale dell'opera pia "Casa di riposo Brentani-Nuti, Bonaccorsi, Tredozi", con sede nel comune di Tredozio.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 novembre 1968, col quale, sulla proposta del Ministro per l'interno, l'opera pia "Casa di riposo Brentani-Nuti, Bonaccorsi, Tredozi" con sede nel comune di Tredozio (Forli), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 dicembre 1968
+ Atti del Governo, registro n. 224, foglio n. 108. - GRECO
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1866-08-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-08-22;1796
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:54Z
+---
+
+REGIO DECRETO
+                22 agosto 1866
+                MDCCXCVI
+                Col quale e' soppresso uno dei due posti di Vice-Direttrice dell'Educandato femminile di Palermo. (6601796R)
+
+Entrata in vigore del provvedimento: 02/10/1866
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

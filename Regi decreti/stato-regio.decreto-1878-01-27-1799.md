@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+data: 1878-01-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1878-01-27;1799
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:39Z
+---
+
+REGIO DECRETO
+                27 gennaio 1878
+                MDCCXCIX
+                Che erige in corpo morale, a beneficio dell'istruzione elementare in Collescipoli (Perugia), l'istituzione fatta con un breve di Papa Pio VI, e ne approva il relativo regolamento. (7801799R)
+
+Entrata in vigore del provvedimento: 13/03/1878
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

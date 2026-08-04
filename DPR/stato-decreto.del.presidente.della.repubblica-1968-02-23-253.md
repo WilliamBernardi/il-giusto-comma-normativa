@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 253
+data: 1968-02-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-02-23;253
+codice_redazionale: 068U0253
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 febbraio 1968
+                253
+                Modifica allo statuto del Consorzio per il nucleo di industrializzazione della Valle del Sacco.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il proprio decreto dell'11 ottobre 1963, n. 1526, con il quale e' stato approvato lo statuto del Consorzio per il nucleo di industrializzazione della Valle del Sacco (Frosinone);
+ Vista la deliberazione n. 16 del 17 dicembre 1966 del consiglio generale del Consorzio per il nucleo di industrializzazione della Valle del Sacco (Frosinone);
+ Vista la nota del Ministero dell'industria, del commercio e dell'artigianato n. 91156 del 23 maggio 1967, concernente l'approvazione della suindicata deliberazione da parte della commissione per la vigilanza e la tutela dei consorzi di sviluppo industriale;
+ Vista la legge 29 luglio 1957, n. 634, modificata ed integrata dalla legge 18 luglio 1959, n. 555;
+ Vista la deliberazione del 27 luglio 1967 del comitato dei Ministri per il Mezzogiorno, con l'intervento del Ministro per l'interno;
+ Sulla proposta del Presidente del Consiglio dei Ministri;
+
+ Decreta:
+
+ E' approvata la modifica apportata all'art. 3 dello statuto del Consorzio per il nucleo di industrializzazione della Valle del Sacco (Frosinone) nei termini indicati dalla deliberazione n. 16 del 17 dicembre 1966 del consiglio generale del consorzio stesso.
+

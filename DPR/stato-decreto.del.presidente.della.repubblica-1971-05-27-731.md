@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 731
+data: 1971-05-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-05-27;731
+codice_redazionale: 071U0731
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 maggio 1971
+                731
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria Mater Ecclesiae, nel comune di Montesilvano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 maggio 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Penne-Pescara in data 14 aprile 1968, integrato con dichiarazioni del 22 aprile 1969 e 23 dicembre 1970, relativo alla erezione della parrocchia di Maria Mater Ecclesiae, in localita' Montesilvano Spiaggia del comune di Monte silvano (Pescara).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte, dei conti, addi' 1 settembre 1971
+ Atti del Governo, registro n. 244, foglio n. 66. - PASQUALUCCI
+

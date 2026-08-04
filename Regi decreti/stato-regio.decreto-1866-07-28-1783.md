@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1866-07-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-07-28;1783
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:22Z
+---
+
+REGIO DECRETO
+                28 luglio 1866
+                MDCCLXXXIII
+                Col quale e' prorogato di altri tre anni il termine per la pesca nel lago ed altre acque pubbliche della Provincia di Como. (6601783R)
+
+Entrata in vigore del provvedimento: 03/09/1866
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

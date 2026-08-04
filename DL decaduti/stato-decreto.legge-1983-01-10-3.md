@@ -1,0 +1,76 @@
+---
+tipo: DECRETO-LEGGE
+numero: 3
+data: 1983-01-10
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1983-01-10;3
+codice_redazionale: 083U0003
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1983-11-11
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:48Z
+---
+
+DECRETO-LEGGE
+                10 gennaio 1983
+                3
+                Misure urgenti in materia previdenziale.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO
+
+## Art. 2.
+
+DECRETO DECADUTO
+
+## Art. 3.
+
+DECRETO DECADUTO; GLI EFFETTI DEL PRESENTE ARTICOLO
+ SONO STATI FATTI SALVI DALLA L. 11 NOVEMBRE 1983, N. 638
+
+## Art. 4.
+
+DECRETO DECADUTO; GLI EFFETTI DEL COMMA 3 DEL PRESENTE ARTICOLO
+ SONO STATI FATTI SALVI DALLA L. 11 NOVEMBRE 1983, N. 638
+
+## Art. 5.
+
+DECRETO DECADUTO
+
+## Art. 6.
+
+DECRETO DECADUTO
+
+## Art. 7.
+
+DECRETO DECADUTO
+
+## Art. 8.
+
+DECRETO DECADUTO
+
+## Art. 9.
+
+DECRETO DECADUTO
+
+## Art. 10.
+
+DECRETO DECADUTO
+
+## Art. 11.
+
+DECRETO DECADUTO
+
+## Art. 12.
+
+DECRETO DECADUTO
+
+## Art. 13.
+
+DECRETO DECADUTO
+

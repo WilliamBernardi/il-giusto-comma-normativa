@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 1098
+data: 1923-05-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-05-03;1098
+codice_redazionale: 023U1098
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:03Z
+---
+
+REGIO DECRETO
+                03 maggio 1923
+                1098
+                Erezioni in Ente morale. (023U1098)
+
+Entrata in vigore del provvedimento: 19/06/1923
+
+## Art. 1.
+
+N.
+
+Regio decreto 3 maggio 1923, col quale, sulla proposta del Ministro dell'istruzione pubblica, e' eretta in Ente morale la Cassa scolastica del Regio liceo-ginnasio «A. Caro» di Fermo, ed e' approvato il relativo statuto.
+

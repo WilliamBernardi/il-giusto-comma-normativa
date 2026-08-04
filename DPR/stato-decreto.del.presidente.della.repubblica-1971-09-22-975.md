@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 975
+data: 1971-09-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-09-22;975
+codice_redazionale: 071U0975
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 settembre 1971
+                975
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Giuseppe da Leonessa, nel comune di Amelia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 settembre 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Amelia in data 10 settembre 1968, integrato con due dichiarazioni rispettivamente in data 20 maggio 1969 e 30 marzo 1971, relativo alla erezione della parrocchia di S. Giuseppe da Leonessa, in zona Zingarini e Capo di Sopra del comune di Amelia (Terni).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 17 novembre 1971
+ Atti del Governo, registro n. 245, foglio n. 47. - CARUSO
+

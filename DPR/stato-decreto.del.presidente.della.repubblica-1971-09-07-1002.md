@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1002
+data: 1971-09-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-09-07;1002
+codice_redazionale: 071U1002
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 settembre 1971
+                1002
+                Estinzione dell'istituto profilattico elioterapico "Famiglia cav.
+dott. Giuseppe Tonietti quondam Apollonio", con sede in Portoferraio.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 settembre 1971, col quale, sulla proposta del Ministro per l'interno, l'istituto profilattico elioterapico "Famiglia cav. dott. Giuseppe Tonietti quondam Apollonio", con sede in Portoferraio, viene dichiarato estinto ed il relativo patrimonio devoluto al locale ente comunale di assistenza con l'obbligo; per questo ultimo, di destinarne le rendite al mantenimento in idonei istituti di bambini subnormali residenti nei comuni dell'Isola d'Elba.
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti, addi' 25 novembre 1971
+ Atti del Governo, registro n. 245, foglio n. 104. - CARUSO
+

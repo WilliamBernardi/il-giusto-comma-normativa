@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 821
+data: 1961-07-06
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-07-06;821
+codice_redazionale: 061U0821
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                06 luglio 1961
+                821
+                Riconoscimento, agli effetti civili, della erezione della parrocchia dei S.S. Apostoli Filippo e Giacomo, nel comune di Zambana (Trento).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 6 luglio 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Trento in data 17 gennaio 1961, integrato con postilla e dichiarazione del 2 marzo 1961, relativo alla erezione della parrocchia dei S.S. Apostoli Filippo e Giacomo, nel comune di Zambana (Trento).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 agosto 1961
+ Atti del Governo, registro n. 138, foglio n. 104. - DI PRETORO
+

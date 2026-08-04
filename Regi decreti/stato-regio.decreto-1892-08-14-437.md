@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 437
+data: 1892-08-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-08-14;437
+codice_redazionale: 092U0437
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:01:11Z
+---
+
+REGIO DECRETO
+                14 agosto 1892
+                437
+                Che costituisce in sezione elettorale autonoma il comune di Costermano. (092U0437)
+
+Entrata in vigore del provvedimento: 20/09/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

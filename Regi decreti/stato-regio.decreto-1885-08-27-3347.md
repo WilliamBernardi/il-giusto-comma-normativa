@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+numero: 3347
+data: 1885-08-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-08-27;3347
+codice_redazionale: 085U3347
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:33Z
+---
+
+REGIO DECRETO
+                27 agosto 1885
+                3347
+                Che istituisce nella citta' di Foggia una Scuola tecnica governativa di 2ª classe a cominciare dal 1° ottobre 1885. (085U3347)
+
+Entrata in vigore del provvedimento: 03/10/1885
+
+## Art. 1.
+
+UMBERTO I 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Veduta la legge 13 novembre 1859; 
+ 
+ Veduta la deliberazione del 24 maggio 1884, con la quale il comune di Foggia si obbliga di versare annualmente all'erario la differenza fra la spesa effettiva per il personale dirigente ed insegnante della scuola tecnica ed una quota fissa di lire 6000 a carico dello Stato, e si obbliga altresi' di sostenere le altre spese spettanti ai comuni per le scuole tecniche, a sensi della precitata legge 13 novembre 1859; 
+ 
+ Veduta la deliberazione in data 4 luglio 1884, con la quale la Deputazione provinciale di Foggia, approvando la deliberazione di quel Consiglio comunale, autorizza il conseguente vincolo nel bilancio del comune stesso; 
+ 
+ Veduta la legge del 28 giugno 1885, n. 3175, che approva il bilancio di previsione del Ministero di Pubblica Istruzione per l'esercizio finanziario 1885-86; 
+ 
+ Sulla proposta del Nostro Ministro Segretario di Stato per la Pubblica Istruzione, 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ A cominciare dal 1° ottobre 1885 e' instituita in Foggia una Scuola tecnica governativa di 2ª classe. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Monza, addi' 27 agosto 1885. 
+ 
+ UMBERTO. 
+ 
+ Coppino. 
+ 
+ Visto, Il Guardasigilli: Tajani.
+

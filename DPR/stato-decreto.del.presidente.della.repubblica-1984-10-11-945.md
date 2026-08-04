@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 945
+data: 1984-10-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-10-11;945
+codice_redazionale: 084U0945
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 ottobre 1984
+                945
+                Autorizzazione alla fondazione "Clinica del lavoro", in Pavia, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 ottobre 1984, col quale, sulla proposta del Ministro della sanita', la fondazione 
+ "Clinica del lavoro", in Pavia, viene autorizzata ad acquistare: al 
+ prezzo di lire 10 milioni, un appezzamento di terreno, di 
+ proprieta' dei signori Antonio Bruno Scarabelli e Felice Scarabelli 
+ sito nel comune di Montescano (Pavia), distinto in catasto al 
+ foglio 1, mappale 348/b ed esteso Ha 0.14.00, necessario alla 
+ fondazione per l'ampliamento del proprio centro medico di 
+ riabilitazione di Montescano; al prezzo di lire 20 milioni, il 
+ diritto di edificabilita', su altri due terreni, appartenenti agli  stessi proprietari, e distinti in catasto alla partita 1086, foglio 
+ 1, mappale 347 di Ha 0.78.46 e alla partita 13224, foglio 1, 
+ mappale 348/a di Ha 0.15.94, sempre in vista dell'ampliamento del  centro medico su menzionato, il tutto come da atto di compravendita 
+ 7 agosto 1981, numero 20952/4744 di repertorio, a rogito avv. Ugo  Reitano, notaio in Mede, registrato a Mede in data 27 agosto 1981  al n. 1076. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 12 gennaio 1985 
+ Registro n. 1 Sanita', foglio n. 14
+

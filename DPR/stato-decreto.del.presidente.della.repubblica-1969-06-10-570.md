@@ -1,0 +1,33 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 570
+data: 1969-06-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-06-10;570
+codice_redazionale: 069U0570
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 giugno 1969
+                570
+                Soppressione della sede staccata della pretura di Ploaghe.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 41 del vigente ordinamento giudiziario;
+ Vista l'istanza del sindaco di Ploaghe intesa ad ottenere che la sede staccata della pretura di Sassari, istituita in quel comune con decreto del Presidente della Repubblica 31 dicembre 1963, n. 2105, sia soppressa per comprovata inutilita' e inattivita' e che quindi si provveda al rilascio dei locali relative, la cui disponibilita' e' resa necessaria dalle esigenze di quell'amministrazione comunale;
+ Constatato che la sede staccata in questione e' effettivamente inattiva fin dalla sua istituzione e che pertanto e' necessario provvedere alla sua soppressione;
+ Visto il parere espresso dal Consiglio superiore della magistratura nella seduta del 6 marzo 1969;
+ Sulla proposta del Ministro per la grazia e giustizia, di concerto con il Ministro per il tesoro;
+
+ Decreta:
+
+ La sede staccata della pretura di Sassari, istituita nel comune di Ploaghe con decreto del Presidente della Repubblica 31 dicembre 1963, n. 2105, e' soppressa.
+

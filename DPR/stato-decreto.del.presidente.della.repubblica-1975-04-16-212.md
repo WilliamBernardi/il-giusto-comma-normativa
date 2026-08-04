@@ -1,0 +1,39 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 212
+data: 1975-04-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-04-16;212
+codice_redazionale: 075U0212
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 aprile 1975
+                212
+                Misura delle riduzioni organiche dei ruoli del personale del Ministero dell'interno.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto l'art. 87 della Costituzione; 
+ Visto il decreto del Presidente della Repubblica 30 giugno 1972, n. 748; 
+ Vista la legge 24 maggio 1970, n. 336; 
+ Visto il decreto-legge 8 luglio 1974, n. 261, convertito, con modificazioni, nella legge 14 agosto 1974, n. 355; 
+ Visti i decreti ministeriali 20 gennaio 1971, pubblicati nella Gazzetta Ufficiale 2 ottobre 1971, n. 249 e 7 gennaio 1972, n. 5, contenenti le nuove tabelle dei ruoli organici del personale dell'Amministrazione civile del Ministero dell'interno; 
+ Udito il parere del Consiglio superiore della pubblica amministrazione; 
+ Udito il parere preliminare della commissione parlamentare istituita ai sensi dell'art. 2, secondo comma, della citata legge n. 335 del 1974; 
+ Sentito in via preliminare il Consiglio dei Ministri; 
+ Udito il parere definitivo della commissione parlamentare anzidetta; 
+ Sentito il Consiglio dei Ministri; 
+ Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri per l'interno, per l'organizzazione della pubblica amministrazione e per il tesoro; 
+ 
+ Decreta: 
+ 
+ Le dotazioni dei ruoli organici ordinari del personale dell'Amministrazione civile dell'interno, ai sensi dell'articolo 2 della legge 14 agosto 1974, n. 355, sono ridotte alle misure indicate per ciascuna carriera nella tabella allegata al presente decreto.
+

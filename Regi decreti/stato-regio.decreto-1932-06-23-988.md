@@ -1,0 +1,29 @@
+---
+tipo: REGIO DECRETO
+numero: 988
+data: 1932-06-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-06-23;988
+codice_redazionale: 032U0988
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:46Z
+---
+
+REGIO DECRETO
+                23 giugno 1932
+                988
+                Riconoscimento della personalita' giuridica del Monastero delle Agostiniane sotto il titolo di S. Caterina in Urbino. (032U0988)
+
+Entrata in vigore del provvedimento: 09/09/1932
+
+## Art. 1.
+
+N.
+
+R. decreto 23 giugno 1932, col quale, sulla proposta del Guardasigilli, Ministro per la giustizia e gli affari di culto, viene riconosciuta la personalita' giuridica del Monastero delle Agostiniane sotto il titolo di S. Caterina in Urbino, ed e' autorizzato il trasferimento al Monastero medesimo degli immobili dei quali esso e' in possesso da epoca anteriore al Concordato, attualmente intestati a terzi. 
+ Visto, il Guardasigilli: Rocco. 
+ Registrato alla Corte dei conti, addi' 10 agosto 1932 - Anno X
+

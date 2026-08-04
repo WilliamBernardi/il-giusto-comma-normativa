@@ -1,0 +1,62 @@
+---
+tipo: REGIO DECRETO
+numero: 5643
+data: 1888-07-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-07-12;5643
+codice_redazionale: 088U5643
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:07Z
+---
+
+REGIO DECRETO
+                12 luglio 1888
+                5643
+                Che istituisce, in Messina, una scuola pratica di agricoltura. (088U5643)
+
+Entrata in vigore del provvedimento: 13/09/1888
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Udito il parere del Consiglio per la istruzione agraria;
+
+## Art. 1.
+
+E' istituita in Messina una scuola pratica di agricoltura ordinata secondo le prescrizioni della legge 6 giugno 1885 N. 3141.
+
+## Art. 2.
+
+Alle spese d'istituzione della scuola provvede la provincia di Messina col contributo proprio di L. 10,800. Lo Stato contribuisce nella spesa suddetta con la somma di L. 16,200.
+
+## Art. 3.
+
+Alle spese di annuo mantenimento della scuola provvederanno il Governo e la provincia nelle proporzioni fissate dalla predetta legge organica 6 giugno 1885.
+
+## Art. 4.
+
+Il Ruolo del personale della scuola e' fissato nel modo seguente:  
+ professore di agricoltura stipendio L. 2400 - indennita' di direzione L. 300; 
+ 
+ professore di scienze fisiche e naturali ed aiuto-direttore, stipendio L. 2000; 
+ 
+ maestro e censore di disciplina, insegnante di lingua italiana, di storia, di geografia, d'aritmetica e computisteria generale, stipendio L. 1800.
+
+## Art. 5.
+
+Alle spese per il mantenimento della scuola per la quota a carico dello Stato, si fara' fronte con i fondi stanziati nel capitolo 12 del bilancio del Ministero di Agricoltura, Industria, e Commercio per il corrente esercizio e con quelli corrispondenti degli esercizi successivi. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 12 luglio 1888. 
+ 
+ UMBERTO. 
+ 
+ GRIMALDI. 
+ 
+ Visto, Il Guardasigilli: ZANARDELLI.
+

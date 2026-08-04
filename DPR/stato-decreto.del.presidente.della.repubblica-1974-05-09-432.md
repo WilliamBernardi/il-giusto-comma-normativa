@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 432
+data: 1974-05-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-05-09;432
+codice_redazionale: 074U0432
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 maggio 1974
+                432
+                Modificazioni allo statuto dell'istituto autonomo per le case popolari della provincia di Enna.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 maggio 1974, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 6, 9, 11, 13, 16, 18, 19 e 22 dello statuto dell'Istituto autonomo per le case popolari della provincia di Enna, approvato con regio decreto 12 dicembre 1938, n. 2098.
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 9 settembre 1974
+ Atti di Governo, registro n. 5, foglio n. 31. - SCIARRETTA
+

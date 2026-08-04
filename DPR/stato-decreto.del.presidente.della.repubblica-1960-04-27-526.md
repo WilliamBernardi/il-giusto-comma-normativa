@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 526
+data: 1960-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-04-27;526
+codice_redazionale: 060U0526
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1960
+                526
+                Modificazioni allo statuto organico della fondazione "Maggiore d'Amministrazione Oreste Salomone, medaglia d'oro".
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1960, col quale, sulla proposta del Ministro per la difesa, vengono sostituiti gli articoli 4 e 9 dello statuto organico della fondazione "Maggiore d'amministrazione Oreste Salomone, medaglia d'oro".
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 6 giugno 1960.
+ Atti del governo, registro n. 127, foglio n. 20. - VILLA
+

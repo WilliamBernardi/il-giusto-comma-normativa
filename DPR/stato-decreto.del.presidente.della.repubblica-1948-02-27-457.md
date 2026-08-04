@@ -1,0 +1,35 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 457
+data: 1948-02-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-02-27;457
+codice_redazionale: 048U0457
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 febbraio 1948
+                457
+                Aggiunta dell'abitato di Pietrabbondante, in provincia di Campobasso, tra quelli da consolidare a totale carico dello Stato.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 9 luglio 1908, n. 445;
+ Visto il decreto-legge luogotenenziale 30 giugno 1918, n. 1019;
+ Visto il regio decreto 24 aprile 1921, n. 908, col quale l'abitato di Pietrabbondante, in provincia di Campobasso, minacciato da una frana, fu incluso nell'elenco di quelli da consolidare a cura e spese dello Stato, di cui alla tabella D allegata alla legge 9 luglio 1908, n. 445;
+ Visto il regio decreto 25 marzo 1937, n. 1160, con cui l'abitato suddetto fu cancellato dall'elenco summenzionato;
+ Ritenuto che, in conseguenza di una ripresa del movimento franoso, si ravvisa la necessita' di un nuovo intervento diretto dello Stato per l'esecuzione di ulteriori opere di consolidamento;
+ Visto il voto del Consiglio superiore dei lavori pubblici n. 2181, emesso nell'adunanza del 10 novembre 1947;
+ Sulla proposta del Ministro per i lavori pubblici;
+
+ Decreta:
+
+ A norma dell'art. 1, sub 7, del decreto-legge luogotenenziale 30 giugno 1918, n. 1019, e' nuovamente aggiunto, a tutti gli effetti della legge 9 luglio 1908, n. 445, titolo IV, agli abitati indicati nella tabella D allegata alla legge stessa (consolidamento di frane minaccianti abitati), quello di Pietrabbondante, in provincia di Campobasso.
+

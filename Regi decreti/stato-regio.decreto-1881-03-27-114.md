@@ -1,0 +1,51 @@
+---
+tipo: REGIO DECRETO
+data: 1881-03-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1881-03-27;114
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:38Z
+---
+
+REGIO DECRETO
+                27 marzo 1881
+                CXIV
+                Che erige in corpo morale il pio lascito Capurro in Avegno (Genova) e ne approva lo statuto. (8100114R)
+
+Entrata in vigore del provvedimento: 18/06/1881
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di stato per gli affari, dell'interno;
+
+Veduta la domanda per la costituzione in ente morale del pio lascito limosiniero Antonio Capurro in Avegno (Genova) e per l'approvazione del relativo statuto organico presentato dagli amministratori di detta opera pia;
+
+Veduto il testamento del suddetto Antonio Capurro in data 22 febbraio 1859 e gli atti dai quali consta che tale pio lascito ascende al valore di lire 9354, 56;
+
+Veduto il voto della deputazione provinciale;
+
+Udito il parere del consiglio di Stato;
+
+## Art. 1.
+
+Il pio lascito Antonio Capurro in Avegno (Genova) e' costituito in ente morale, ed e' approvato il corrispondente statuto organico, portante la data del 28 novembre 1880, composto di 9 articoli, visto e sottoscritto d'ordine nostro dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 27 marzo 1881. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 14 aprile 1881 
+ 
+ Reg. 113 Atti del Governo a f. 60. Ayres. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli T. Villa. 
+ 
+ Depretis.
+

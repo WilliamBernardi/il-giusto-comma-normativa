@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 751
+data: 1923-03-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-03-25;751
+codice_redazionale: 023U0751
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 1929-10-02
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:27Z
+---
+
+REGIO DECRETO
+                25 marzo 1923
+                751
+                Erezioni in ente morale. (023U0751)
+
+Entrata in vigore del provvedimento: 19/05/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL REGIO DECRETO 8 LUGLIO 1929, N. 1528))
+
+
+

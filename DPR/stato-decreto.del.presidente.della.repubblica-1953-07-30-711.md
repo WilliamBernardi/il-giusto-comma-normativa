@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 711
+data: 1953-07-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-07-30;711
+codice_redazionale: 053U0711
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 luglio 1953
+                711
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Giovanni Battista in frazione Stoccareddo dei comune di Gallio di Gallio (Vicenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 luglio 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Padova in data 18 gennaio 1952, integrato con dichiarazione 25 agosto 1952, relativo all'erezione della parrocchia di San Giovanni Battista, in frazione Stoccareddo del comune di Gallio (Vicenza), ed il beneficio parrocchiale viene autorizzato ad accettare la donazione consistente in alcuni immobili situati in comune di Gallio; viene inoltre riconosciuta la personalita' giuridica della Chiesa, sede della parrocchia.
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 22 settembre 1953
+ Atti del Governo, registro n. 79, foglio n. 48. - PALLA
+

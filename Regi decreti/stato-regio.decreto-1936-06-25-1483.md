@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1483
+data: 1936-06-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-06-25;1483
+codice_redazionale: 036U1483
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:47Z
+---
+
+REGIO DECRETO
+                25 giugno 1936
+                1483
+                Riconoscimento, agli effetti civili, della parrocchia di S. Maria ai Monti, in Valfurva (Sondrio). (036U1483)
+
+Entrata in vigore del provvedimento: 23/08/1936
+
+## Art. 1.
+
+N.
+
+R. decreto 25 giugno 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Como in data settembre 1935, relativo alla erezione della parrocchia di Santa Maria ai Monti, in comune di Vailfurva (Sondrio). 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, 31 luglio 1936 - Anno XIV
+

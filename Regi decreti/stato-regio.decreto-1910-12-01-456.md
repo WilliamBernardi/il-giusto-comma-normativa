@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1910-12-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-12-01;456
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:10Z
+---
+
+REGIO DECRETO
+                01 dicembre 1910
+                CCCCLVI
+                Che istituisce in Palermo un Collegio di probiviri per la industria dei trasporti. (1000456R)
+
+Entrata in vigore del provvedimento: 04/01/1911
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

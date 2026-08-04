@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 132
+data: 1973-01-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-18;132
+codice_redazionale: 073U0132
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 gennaio 1973
+                132
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Bernardo degli Uberti, in Parma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 gennaio 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Parma in data 4 dicembre 1971, integrato con due dichiarazioni del 25 gennaio 1972, relativo alla erezione della parrocchia di San Bernardo degli Uberti, in quartiere San Leonardo di Parma.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 11 aprile 1973
+ Atti di Governo, registro n. 257, foglio n. 73. - VALENTINI
+

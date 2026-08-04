@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1114
+data: 1969-12-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-12-18;1114
+codice_redazionale: 069U1114
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 dicembre 1969
+                1114
+                Erezione in ente morale della "Casa Santi Angeli", con sede in Sassari.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 dicembre 1969, col quale, sulla proposta del Ministro per l'interno, la "Casa Santi Angeli", con sede in Sassari, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 2 febbraio 1970
+ Atti del Governo, registro n. 231, foglio n. 75. - CARUSO
+

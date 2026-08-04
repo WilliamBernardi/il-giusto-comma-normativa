@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 746
+data: 1958-06-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-06-19;746
+codice_redazionale: 058U0746
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 giugno 1958
+                746
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di San Pio X, nella citta' di Cagliari.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 giugno 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Cagliari in data 3 settembre 1956, integrato con due dichiarazioni rispettivamente del 3 novembre 1957 e 29 gennaio 1958, relativo alla erezione della parrocchia di San Pio X, nella citta' di Cagliari.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 24 luglio 1958
+ Atti del Governo, registro n. 113, foglio n. 92. - RELLEVA
+

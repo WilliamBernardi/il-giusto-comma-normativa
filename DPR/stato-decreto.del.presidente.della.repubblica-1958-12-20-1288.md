@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1288
+data: 1958-12-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-12-20;1288
+codice_redazionale: 058U1288
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 dicembre 1958
+                1288
+                Assoggettamento alla tutela della pubblica Amministrazione della ricerca, estrazione e utilizzazione di tutte le acque sotterranee in alcuni Comuni della provincia di Reggio Emilia.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 94 del testo unico delle leggi sulle acque e sugli impianti elettrici approvato con il regio decreto 11 dicembre 1933, n. 1775, col quale il Governo della Repubblica e' autorizzato a stabilire i comprensori nei quali la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione;
+ Ritenuta la necessita' di dichiarare soggetti alla tu.
+ tela della pubblica Amministrazione i territori indicati nella parte dispositiva del presente decreto;
+ Visto il voto 22 luglio 1958, n. 1377, del Consiglio superiore dei lavori pubblici;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Ministro per i lavori pubblici, di concerto con il Ministro per l'agricoltura e foreste;
+
+ Decreta:
+
+ Ai sensi e per gli effetti dell'art. 94 del testo unico di leggi 11 dicembre 1933, n. 1775, la ricerca, l'estrazione e l'utilizzazione di tutte le acque sotterranee sono soggette alla tutela della pubblica Amministrazione nei territori dei seguenti comuni della provincia di Reggio Emilia:
+
+ Bagnolo in Piano, Baiso, Boretto, Brescello, Campagnola, Casina, Carpineti, Ciano d'Enza, Correggio, Fabbrico, Gualtieri, Poviglio, Rio Saliceto, San Martino in Rio, Toano e Vetto.
+

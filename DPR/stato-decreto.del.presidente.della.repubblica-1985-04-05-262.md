@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 262
+data: 1985-04-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-04-05;262
+codice_redazionale: 085U0262
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 aprile 1985
+                262
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di "S. Carlo Borromeo", in Novate Milanese.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 aprile 1985, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Milano 23 luglio 1982, integrato con altro decreto 13 febbraio 1984 e con dichiarazione 23 settembre 1983, relativo alla erezione della parrocchia di "S. Carlo Borromeo", in Novate Milanese (Milano).
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 1 giugno 1985
+ Registro n. 21 Interno, foglio n. 21
+

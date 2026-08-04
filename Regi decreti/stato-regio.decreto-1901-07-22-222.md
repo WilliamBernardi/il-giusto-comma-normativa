@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1901-07-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1901-07-22;222
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:29Z
+---
+
+REGIO DECRETO
+                22 luglio 1901
+                CCXXII
+                Che erige in ente morale l'asilo infantile di Ghirla. (0100222R)
+
+Entrata in vigore del provvedimento: 27/08/1901
+
+## Art. 1.
+
+Con cui l'asilo infantile di Ghirla frazione di Valganna viene eretto in ente morale e ne viene approvato lo statuto organico. - Firmato VITTORIO EMANUELE - Controfirmato Giolitti - Visto F.
+Cocco-Ortu. 
+ 
+ Registrato alla Corte dei conti addi' 5 agosto 1901. 
+ 
+ Reg. 230. Atti del Governo a f. 51.
+

@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 743
+data: 1960-06-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-06-22;743
+codice_redazionale: 060U0743
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 giugno 1960
+                743
+                Soppressione dell'Archivio notarile mandamentale di Montemaggiore Belsito.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il regio decreto 23 ottobre 1890, n. 7192, con il quale venne istituito l'Archivio notarile mandamentale di Montemaggiore Belsito;
+ Visto l'art. 248 del regolamento per l'esecuzione della legge 16 febbraio 1913, n. 89, riguardante l'ordinamento del notariato e degli Archivi notarili, approvato con regio decreto 10 settembre 1914, n. 1326;
+ Viste le deliberazioni dei comuni di;
+ Caltavuturo in data 12 febbraio 1969;
+ Aliminusa in data 5 gennaio 1960;
+ Montemaggiore Belsito in data 30 gennaio 1960;
+ Sclafani Bagni in data 29 ottobre 1959;
+ Visto il parere del conservatore dell'Archivio notarile distrettuale di Termini Imerese, in data 3 maggio 1960;
+ Visto il del Procuratore della Repubblica di Termini Imerese in data 30 aprile 1960;
+ Considerata l'irrilevante attivita' del predetto Archivio mandamentale che non risponde ad alcuna utilita' per la popolazione;
+ Sulla proposta del Guardasigilli Ministro Segretario di Stato per la grazia, e giustizia;
+
+ Decreta
+
+ L'Archivio notarile mandamentale di Montemaggiore Belsito e' soppresso.
+ Gli atti e documenti attualmente depositati in detto Archivio dovranno essere conservati nell'Archivio notarile distrettuale di Termini Imerese.
+

@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1905-01-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1905-01-29;12
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:45Z
+---
+
+REGIO DECRETO
+                29 gennaio 1905
+                XII
+                Per la istituzione in Catania di un collegio di probi-viri per l'industria agrumaria. (0500012R)
+
+Entrata in vigore del provvedimento: 08/03/1905
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

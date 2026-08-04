@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 4692
+data: 1887-06-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1887-06-26;4692
+codice_redazionale: 087U4692
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:06Z
+---
+
+REGIO DECRETO
+                26 giugno 1887
+                4692
+                Che porta da venti a ventidue il numero degli ingegneri di 1ª classe nel corpo del genio navale. (087U4692)
+
+Entrata in vigore del provvedimento: 30/07/1887
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 80
+data: 1897-02-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-02-25;80
+codice_redazionale: 097U0080
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:38Z
+---
+
+REGIO DECRETO
+                25 febbraio 1897
+                80
+                Che sopprime la cattedra di geografia stabilita nel ruolo organico dell'Istituto nautico di Bari. (097U0080)
+
+Entrata in vigore del provvedimento: 28/03/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

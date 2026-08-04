@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-06-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-06-20;143
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:00Z
+---
+
+REGIO DECRETO
+                20 giugno 1895
+                CXLIII
+                Che da' facolta' al comune di San Severo di applicare nel corrente anno la tassa di famiglia col limite massimo eccezionale di L. 150. (9500143R)
+
+Entrata in vigore del provvedimento: 23/07/1895
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

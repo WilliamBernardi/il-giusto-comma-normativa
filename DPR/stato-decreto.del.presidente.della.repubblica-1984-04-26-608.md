@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 608
+data: 1984-04-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-04-26;608
+codice_redazionale: 084U0608
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:06Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 aprile 1984
+                608
+                Assegnazione di quattro posti di tecnico laureato presso l'Universita' degli studi di Napoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 aprile 1984, col quale, sulla proposta del Ministro della pubblica istruzione, quattro posti disponibili nel ruolo dei tecnici laureati vengono assegnati all'Universita' di Napoli come segue:
+
+Prima facolta' di medicina e chirurgia:
+istituto di anatomia chirurgica (corso di insegnamento
+di patologia chirurgica). . . . . . . . . . . . . . . . . . . posti 1 Seconda facolta' di medicina e chirurgia:
+cattedra di chirurgia del cuore e grossi vasi . . . . . . . . posti 1 istituto di patologia generale. . . . . . . . . . . . . . . . posti 1 clinica odontostomatologica (per le esigenze del corso
+di laurea in odontoiatria e protesi dentaria. . . . . . . . . posti 1 
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 12 settembre 1984
+ Registro n. 53 Istruzione, foglio n. 387
+

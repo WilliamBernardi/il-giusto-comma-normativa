@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1134
+data: 1924-06-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-06-15;1134
+codice_redazionale: 024U1134
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:26Z
+---
+
+REGIO DECRETO
+                15 giugno 1924
+                1134
+                Erezione in Ente morale dell'Asilo infantile di Perledo. (024U1134)
+
+Entrata in vigore del provvedimento: 08/08/1924
+
+## Art. 1.
+
+N.
+
+R. decreto 15 giugno 1924, col quale, sulla proposta del Ministro per l'interno, Presidente del Consiglio dei Ministri, viene eretto in Ente morale l'Asilo infantile di Perledo ed e' approvato il relativo statuto organico. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 18 luglio 1924.
+

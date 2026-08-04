@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 977
+data: 1968-07-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-07-29;977
+codice_redazionale: 068U0977
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 luglio 1968
+                977
+                Riconoscimento della personalita' giuridica della casa di procura generalizia, con sede in Roma, della Congregazione delle suore dei Sacri Cuori di Gesu' e Maria del Libano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 luglio 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della casa di procura generalizia, con sede in Roma, della Congregazione delle suore dei Sacri Cuori di Gesu' e Maria del Libano. La casa di procura anzidetta inoltre, viene autorizzata ad accettare la donazione disposta dalla casa di procura generalizia, con sede in Roma, della Congregazione del terz'ordine di San Francesco di Montpellier, consistente in un fabbricato sito in Roma, adibito a sede dell'ente, di complessivi vani 22, valutato L. 33.000.000.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 9 settembre 1968
+ Atti del Governo, registro n. 222, foglio n. 135. - DI PRETORO
+

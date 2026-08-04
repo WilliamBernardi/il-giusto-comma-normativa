@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1610
+data: 1964-10-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-10-15;1610
+codice_redazionale: 064U1610
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 ottobre 1964
+                1610
+                Trasferimento del territorio della provincia di Belluno dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quello con sede in Venezia che comprende le province di Belluno, Padova, Rovigo, Treviso, Venezia, Verona e Vicenza.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto l'art. 27 della legge 16 giugno 1927, n. 1766, sul riordinamento degli usi civici;
+ Visto il decreto del Presidente della Repubblica del 19 aprile 1958, n. 536, che modifica le circoscrizioni territoriali dei Commissariati per la liquidazione degli usi civici con sede in Trieste, Venezia, Milano, Bologna, Roma e Napoli;
+ Visto lo Statuto speciale della Regione Friuli-Venezia Giulia di cui alla legge costituzionale 31 gennaio 1963, n. 1;
+ Considerato che la circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste comprende oltre i territori delle province di Gorizia e di Udine e dei comuni di Trieste, Duino-Aurisina, Monrupino, Muggia, San Dorligo della Valle e Sgonico, che costituiscono il territorio della Regione Friuli-Venezia Giulia, anche il territorio della provincia di Belluno;
+ Considerato che per effetto dello Statuto anzidetto le funzioni amministrative, in materia di usi civici, nel territorio della Regione, sono esercitate dalla Regione Friuli-Venezia Giulia e che pertanto si ravvisa la necessita' di trasferire il territorio della provincia di Belluno, non compreso nel territorio della Regione, dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quella del Commissariato per la liquidazione degli usi civici con sede in Venezia;
+ Sulla proposta del Ministro Segretario di Stato per l'agricoltura e per le foreste;
+
+ Decreta:
+
+ Il territorio della provincia di Belluno e' trasferito dalla circoscrizione territoriale del Commissariato per la liquidazione degli usi civici con sede in Trieste a quella del Commissariato per la liquidazione degli usi civici con sede in Venezia, che pertanto comprende le province di Belluno, Padova, Rovigo, Treviso, Venezia, Verona e Vicenza.
+

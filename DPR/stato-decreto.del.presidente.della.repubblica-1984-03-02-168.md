@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 168
+data: 1984-03-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-03-02;168
+codice_redazionale: 084U0168
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 marzo 1984
+                168
+                Riconoscimento, agli effetti civili, della unione della parrocchia di "S. Maria Assunta e Sagrestanato" con la parrocchia del "SS.mo Nome di Gesu'", entrambe in Montepulciano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 marzo 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Montepulciano 1 settembre 1981, integrato con dichiarazione di pari data, relativo alla unione perpetua aeque principalis della parrocchia di "S. Maria Assunta e Sagrestanato", nella cattedrale di Montepulciano (Siena), con la parrocchia del "SS.mo Nome di Gesu'", nella stessa citta'.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 12 maggio 1984
+ Registro n. 16 Interno, foglio n. 366
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1045
+data: 1965-04-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-04-15;1045
+codice_redazionale: 065U1045
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 aprile 1965
+                1045
+                Autorizzazione all'Universita' degli studi di Firenze ad accettare una donazione per l'istituzione della Fondazione "Professore Alessandro Levi".
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 aprile 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' degli studi di Firenze viene autorizzata ad accettare la donazione di L. 8.000.000, disposta dalla signora Sarina Levi nata Nathan, per l'istituzione di una Fondazione intitolata al nome del defunto marito "Prof. Alessandro Levi" avente per scopo il conferimento, con gli interessi di detto capitale, di una borsa di studio annuale in favore di uno studente iscritto alla Facolta' di giurisprudenza. La Fondazione stessa viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte nei conti, addi' 4 settembre 1965
+ Atti del Governo, registro n. 196, foglio n. 102. - VILLA
+

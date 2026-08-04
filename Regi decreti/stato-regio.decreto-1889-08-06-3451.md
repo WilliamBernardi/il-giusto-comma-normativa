@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1889-08-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1889-08-06;3451
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:12Z
+---
+
+REGIO DECRETO
+                06 agosto 1889
+                MMMCCCCLI
+                Che erige in corpo morale l'opera pia Colleoni in Murano (Venezia) e ne approva lo statuto. (8903451R)
+
+Entrata in vigore del provvedimento: 14/09/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1884-09-01
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1884-09-01;1419
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:53Z
+---
+
+REGIO DECRETO
+                01 settembre 1884
+                MCCCCXIX
+                Che autorizza la trasformazione del monte frumentario di Pietrapertosa in una cassa di prestanze agrarie, e ne approva lo statuto. (8401419R)
+
+Entrata in vigore del provvedimento: 19/10/1884
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

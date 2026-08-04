@@ -1,0 +1,72 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 28
+data: 1979-01-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-01-16;28
+codice_redazionale: 079U0028
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2003-12-19
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:43Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 gennaio 1979
+                28
+                Modificazioni al decreto del Presidente della Repubblica 12 gennaio 1971, n. 208, recante norme di sicurezza per gli impianti di distribuzione stradale di gas di petrolio liquefatti per autotrazione.
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1. — Dispositivi per il travaso
+
+L'art. 16 del decreto del Presidente della Repubblica 12 gennaio 1971, n. 208, e' sostituito dal seguente:
+ "Le operazioni di travaso dei gas di petrolio liquefatti, dall'autocisterna al serbatoio e viceversa, devono essere effettuate a circuito chiuso, mediante due tubazioni flessibili o snodabili, l'una per la fase liquida, l'altra per la fase gassosa, che possono essere in dotazione o all'impianto o all'autocisterna.
+ Le parti terminali di queste devono essere munite di flange antiscintilla o raccordi a vite antiscintilla.
+ Inoltre:
+ a) l'estremita' di attacco all'autocisterna dev'essere munita di una valvola di eccesso di flusso;
+ b) l'estremita' di attacco al serbatoio dev'essere munita di valvola di intercettazione e di una valvola di eccesso di flusso, quest'ultima direttamente collegata alla precedente.
+ Le tubazioni devono essere a flange oppure a raccordi rapidi, per modo che le operazioni di travaso possano essere sempre effettuate senza dover ricorrere a raccordi di passaggio, di cui e' fatto divieto assoluto.
+ Le tubazioni di cui al primo comma devono essere sottoposte annualmente, a cura del gestore dell'impianto o del proprietario dell'autocisterna, ad una prova idraulica di pressione a 30 atmosfere. La prova deve essere effettuata presso un laboratorio di Stato o di ente pubblico. Il certificato dell'eseguita prova deve essere esibito a richiesta degli addetti al controllo.
+ Il collegamento tra autocisterna e serbatoio dev'essere attuato in modo da assicurare la continuita' elettrica.
+ Nel luogo in cui si effettuano le operazioni di travaso deve essere predisposta una presa di terra con resistenza non superiore a 5 Ohm per la messa a terra dell'autocisterna".
+
+## Art. 2. — Ubicazioni vietate
+
+L'art. 22 del decreto del Presidente della Repubblica 12 gennaio 1971, n. 208, e' sostituito dal seguente:
+ "Gli impianti di distribuzione stradale di gas di petrolio liquefatti per autotrazione non possono sorgere:
+ a) nella zona territoriale omogenea totalmente edificata, individuata come zona A nel piano regolatore generale o nel programma di fabbricazione ai sensi dell'art. 2 del decreto ministeriale 2 aprile 1963, n. 1444 e, nei comuni sprovvisti dei predetti strumenti urbanistici, all'interno del perimetro del centro abitato, delimitato a norma dell'art. 17 della legge 6 agosto 1967, n. 765, quando, nell'uno e nell'altro caso, la densita' della edificazione esistente, nel raggio di duecento metri dal centro del serbatoio da installare, risulti superiore a tre metri cubi per metro quadrato;
+ b) nelle zone di completamento e di espansione dell'aggregato urbano indicate nel piano regolatore generale o nel programma di fabbricazione, nelle quali sia previsto un indice di edificabilita' superiore a tre metri cubi per metro quadrato;
+ c) nelle aree, ovunque ubicate, destinate a verde pubblico.
+ L'attestazione che l'area prescelta per l'installazione dell'impianto non ricade in alcuna delle zone o aree indicate nel comma precedente e' rilasciata dal sindaco".
+
+## Art. 3. — Divieto di permanenza in aree non piu' rispondenti
+
+L'art. 23 del decreto del Presidente della Repubblica 12 gennaio 1971, n. 208, e' sostituito dal seguente:
+ "L'impianto regolarmente installato in una zona di completamento o di espansione dell'aggregato urbano deve essere rimosso, quando, a seguito di variazioni comunque intervenute nelle caratteristiche della zona, l'edificazione effettiva abbia superato, nell'area compresa entro il raggio di duecento metri dal centro del serbatoio, la densita' territoriale di tre metri cubi per metro quadrato.
+ Il verificarsi delle circostanze ostative alla permanenza dell'impianto ai sensi del comma precedente e' accertato dalla amministrazione comunale su richiesta del comandante provinciale dei vigili del fuoco".
+
+## Art. 4. — Distanze di sicurezza esterne
+
+L'art. 24 del decreto del Presidente della Repubblica 12 gennaio 1971, n. 208, modificato dall'art. 2 del decreto del Presidente della Repubblica 8 novembre 1973, n. 915, e' sostituito dal seguente:
+ "Ferme restando le norme circa l'ubicazione degli impianti, l'area su cui questi sorgono deve soddisfare alle seguenti condizioni:
+ a) che entro il raggio di 30 metri dal punto piu' prossimo del serbatoio e degli altri elementi dell'impianto di cui all'art. 2 non esistano, salvo quanto previsto nell'articolo successivo, edifici di sorta;
+ b) che nella fascia contigua fino a 40 metri di raggio dal punto piu' prossimo del serbatoio e degli altri elementi dell'impianto di cui all'art. 2 non esistano edifici o parti di edifici con cubatura singola superiore a 3.000 metri cubi, ne' comunque edifici destinati alla collettivita' come scuole, ospedali, chiese, caserme; per edifici giacenti parzialmente nella fascia suddetta, la cubatura di 3.000 metri cubi va calcolata solo per la parte insistente nella fascia stessa.
+ In prossimita' di luoghi in cui sul verificarsi affluenza di pubblico come fermate di linee di trasporto pubblico, stadi o campi sportivi, circhi equestri o lunapark a carattere stabile, campi per fiere e mercati, e simili, la distanza tra il punto piu' prossimo del serbatoio e degli altri elementi dell'impianto di cui all'art. 2, e il punto piu' vicino del perimetro di detti luoghi, non puo' essere inferiore a 60 metri.
+ In prossimita' di vie di comunicazioni, la distanza tra il punto piu' prossimo del serbatoio e degli altri elementi dell'impianto di cui all'art. 2 non puo' essere inferiore a:
+ 30 metri per le autostrade, ferrovie e tramvie;
+ 15 metri per le altre strade e le vie navigabili.
+ La distanza di cui al comma precedente va misurata:
+ a) per le strade e le autostrade, tra l'elemento piu' prossimo dell'impianto, di cui all'art. 2, e il bordo della carreggiata, intesa come parte della strada destinata alla circolazione dei veicoli;
+ b) per le ferrovie e le tramvie, tra l'elemento piu' prossimo dell'impianto, di cui all'art. 2, e la rotaia del binario di corsa piu' vicino;
+ c) per le vie navigabili, tra l'elemento piu' prossimo dell'impianto di cui all'art. 2 ed il limite della superficie delle acque al livello di guardia.
+ In prossimita' di linee elettriche aeree, la distanza tra l'elemento piu' prossimo dell'impianto di cui all'articolo 2 e la proiezione della linea elettrica piu' vicina non puo' essere inferiore a 15 metri. La distanza e' calcolata a partire dal punto piu' prossimo del serbatoio e degli apparecchi di distribuzione".
+
+## Art. 5. — ((ARTICOLO ABROGATO DAL D.P.R. 24 OTTOBRE 2003, N.340))
+
+
+

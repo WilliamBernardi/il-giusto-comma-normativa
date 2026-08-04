@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1901-02-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1901-02-21;55
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:10Z
+---
+
+REGIO DECRETO
+                21 febbraio 1901
+                LV
+                Che approva lo statuto della societa' italiana degli autori per la tutela della proprieta' letteraria ed artistica in Milano. (0100055R)
+
+Entrata in vigore del provvedimento: 30/03/1901
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

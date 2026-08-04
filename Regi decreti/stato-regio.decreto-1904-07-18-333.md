@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-07-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-07-18;333
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:23Z
+---
+
+REGIO DECRETO
+                18 luglio 1904
+                CCCXXXIII
+                Con il quale il monte frumentario di Villarielli (Chieti) viene trasformato in una cassa di prestanze agrarie ed e' approvato lo statuto organico per il governo del pio ente. (0400333R)
+
+Entrata in vigore del provvedimento: 15/09/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

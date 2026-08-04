@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2390
+data: 1928-08-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-08-03;2390
+codice_redazionale: 028U2390
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:48Z
+---
+
+REGIO DECRETO
+                03 agosto 1928
+                2390
+                Annullamento del contributo scolastico liquidato a carico del comune di San Giovanni di Galermo col R. decreto 18 novembre 1926, n. 2445. (028U2390)
+
+Entrata in vigore del provvedimento: 29/11/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

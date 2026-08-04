@@ -1,0 +1,43 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 177
+data: 1957-02-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-02-05;177
+codice_redazionale: 057U0177
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 febbraio 1957
+                177
+                Modificazioni allo statuto dell'Universita' degli studi di Padova.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduto lo statuto dell'Universita' degli studi di Padova, approvato con regio decreto 20 aprile 1939, numero 1058 e modificato con i regi decreti 5 ottobre 1939, n. 1847; 26 ottobre 1940, n. 2058; 16 marzo 1942, n. 323; 24 ottobre 1942, n. 1597 e con decreti del Presidente della Repubblica 23 settembre 1949, n. 932; 31 ottobre 1950, n. 1308; 11 aprile 1951, n. 953; 25 luglio 1952, n. 1501; 26 ottobre 1952, n. 4529; 10 febbraio 1953, n. 384; 30 luglio 1953, n. 715; 24 settembre 1954, n. 1205; 14 marzo 1955, n. 345 e 24 luglio 1955, n. 798;
+ Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+ Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+ Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+ Veduta la legge 11 aprile 1953, n. 312;
+ Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+ Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+ Sentito il parere del Consiglio superiore della pubblica istruzione;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Lo statuto dell'Universita' degli studi di Padova, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+ Art. 39. - All'elenco degli insegnamenti complementari del corso di laurea in scienze politiche sono aggiunti i seguenti:
+ 10) Organizzazione economica internazionale;
+ 11) Elementi di diritto pubblico ecclesiastico;
+ 12) Storia dei concordati;
+ 13) Diplomazia e diritto diplomatico;
+ 14) Scienza delle finanze e diritto finanziario.
+

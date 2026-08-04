@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 907
+data: 1969-10-13
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-10-13;907
+codice_redazionale: 069U0907
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                13 ottobre 1969
+                907
+                Trasformazione del fine e modifica della denominazione della "Casa di salute Angelina Damiani", con sede in Marsala.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 13 ottobre 1969, col quale, sulla proposta del Ministro per l'interno, viene trasformato il fine istituzionale della "Casa di salute Angelina Damiani", con sede in Marsala, che assume, inoltre, la denominazione di "Casa del sordomuto Angelina Damiani", della quale viene approvato, con modificazione, il nuovo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 2 dicembre 1969
+ Atti del Governo, registro n. 230, foglio n. 116. - CARUSO
+

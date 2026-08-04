@@ -1,0 +1,49 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1582
+data: 1951-11-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1951-11-04;1582
+codice_redazionale: 051U1582
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:08Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 novembre 1951
+                1582
+                Disposizioni per la formazione dei ruoli delle imposte dirette per il primo semestre 1952.
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Per il primo semestre dell'anno 1952, le imposte sui redditi dei terreni, sui redditi agrari, sui redditi dei fabbricati, sui redditi di ricchezza mobile delle categorie A, B e C-1, a carico dei contribuenti non tassabili in base a bilancio, sono dovute, sulla meta' dei redditi iscritti o iscrivibili a ruolo per l'anno 1951.
+ L'imposta complementare progressiva sul reddito per il primo semestre dell'anno 1972 e' dovuto silla meta' dei redditi indicati nel comma precedente, con l'aliquota corrispondente all'intero ammontare dei redditi stessi.
+
+## Art. 2.
+
+Per il primo semestre dell'anno 1952, le societa' e gli enti tassabili in base a bilancio saranno iscritti provvisoriamente a ruolo per la meta' dei redditi risultanti, dai bilanci chiusi nel corso dell'anno 1950. Per l'esercizio finanziario 1952-53, saranno iscritti provvisoriamente a ruolo per l'intero ammontare dei redditi risultanti dai bilanci sopra indicati.
+ La tassazione definitiva di conguaglio sara' eseguita:
+ a) per il primo semestre 1952, sulla meta' dei redditi definitivamente accertati in base ai bilanci chiusi nel corso dell'anno 1952;
+ b) per l'esercizio finanziario 1952-53, sull'intero ammontare dei redditi definitivamente accertati in base ai bilanci chiusi nel corso dell'esercizio finanziario suddetto.
+ Per l'esercizio 1953-54, l'iscrizione provvisoria sara' operata sui redditi risultanti dai bilanci chiusi nel corso dell'anno 1951, e la tassazione di conguaglio sui redditi definitivamente accertati in base ai bilanci chiusi nel corso dell'esercizio medesimo.
+
+## Art. 3.
+
+Per il primo semestre dell'anno 1952, l'imposta di ricchezza mobile sui redditi della categoria C-2 e' dovuta, in via provvisoria, sulla meta' dei redditi definitivamente accertati per l'anno
+
+Per l'esercizio finanziario 1952-53 l'imposta predetta e' dovuta, in via provvisoria, sull'altra meta' dei redditi sopra indicati.
+ La tassazione definitiva di conguaglio dell'importo complessivo dei redditi provvisoriamente iscritti a termini del comma precedente sara' eseguita in base alla dichiarazione dei redditi corrisposti nell'anno solare 1952, da presentarsi a' sensi dell'art. 3, primo comma, del decreto-legge 30 gennaio 1933, n. 18, e delle rettifiche e degli accertamenti eventualmente proposti dall'amministrazione.
+
+## Art. 4.
+
+Le disposizioni degli articoli 1 e 2 si applicano anche per le imposte, sovrimposte e contributi di qualsiasi specie indicati nell'art. 3 della legge 16 giugno 1939, n. 942.
+
+## Art. 5.
+
+Per la riscossione dei tributi afferenti il primo semestre 1952, previsti negli articoli precedenti, e' autorizzata l'emissione di ruoli di tre rate, scadenti rispettivamente il 10 febbraio, il 10 aprile e il 10 giugno 1952.
+

@@ -1,0 +1,92 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 389
+data: 1995-07-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1995-07-05;389
+codice_redazionale: 095G0422
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2001-11-08
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 luglio 1995
+                389
+                 Regolamento recante norme per i lavori, le forniture ed i servizi eseguibili con procedure semplificate, riguardanti il Ministero delle poste e delle telecomunicazioni.
+
+Entrata in vigore del decreto: 5/10/1995
+
+## - Capo I SPESE CONCERNENTI PUBBLICI SERVIZI, ONERI TRIBUTARI ED ESIGENZE PARTICOLARI
+
+## Art. 1. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## - Capo II PROCEDURE SEMPLIFICATE
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384))
+
+
+
+## Art. 3. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 4. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 5. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 6. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 7. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 8. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 9. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 10. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 11. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 12. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## - Capo III DISPOSIZIONI COMUNI
+
+## Art. 13. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 14. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 15. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+
+## Art. 16. — (( PROVVEDIMENTO ABROGATO DAL D.P.R. 20 AGOSTO 2001, N. 384 ))
+
+
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2136
+data: 1937-07-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-07-29;2136
+codice_redazionale: 037U2136
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:39Z
+---
+
+REGIO DECRETO
+                29 luglio 1937
+                2136
+                Autorizzazione alla Colonia «Eugenia Bona Capello» presso la Scuola professionale pareggiata «Maria Laetitia» di Torino ad accettare un legato. (037U2136)
+
+Entrata in vigore del provvedimento: 14/01/1938
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

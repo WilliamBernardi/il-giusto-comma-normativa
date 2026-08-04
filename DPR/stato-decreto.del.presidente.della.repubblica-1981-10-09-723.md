@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 723
+data: 1981-10-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-10-09;723
+codice_redazionale: 081U0723
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 ottobre 1981
+                723
+                Autorizzazione alla fondazione "Pro juventute don Carlo Gnocchi", in Roma, ad accettare un lascito.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 9 ottobre 1981, col quale, sulla proposta del Presidente del Consiglio dei Ministri, la fondazione "Pro juventute don Carlo Gnocchi" in Roma, viene autorizzata ad accettare il lascito, consistente in beni mobili ed immobili per un valore complessivo di L. 10.500.000, disposto dalla sig.ra Galli Maria ved. Brevi con testamento olografo 6 ottobre 1975, pubblicato a rogito dott. Giovanni Lamati, notaio in Milano, in data 24 novembre 1976, n. 435835 di repertorio e n. 26394 di raccolta, registrato a Milano il 2 dicembre 1976 al n. 18023.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 1 dicembre 1981
+ Registro n. 10 Presidenza, foglio n. 242
+

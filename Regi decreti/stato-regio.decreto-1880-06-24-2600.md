@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1880-06-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-06-24;2600
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:18Z
+---
+
+REGIO DECRETO
+                24 giugno 1880
+                MMDC
+                Che erige in corpo morale l'opera pia Bertini fondata in Firenzuola (Firenze), e ne approva lo statuto. (8002600R)
+
+Entrata in vigore del provvedimento: 08/08/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

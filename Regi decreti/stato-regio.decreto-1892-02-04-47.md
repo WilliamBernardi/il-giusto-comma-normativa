@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1892-02-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1892-02-04;47
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:08Z
+---
+
+REGIO DECRETO
+                04 febbraio 1892
+                XLVII
+                Che concentra nella congregazione di carita' di S. Giorgio in Legnano l'amministrazione del pio legato Lampugnani. (9200047R)
+
+Entrata in vigore del provvedimento: 10/03/1892
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1139
+data: 1953-01-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-01-20;1139
+codice_redazionale: 053U1139
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 gennaio 1953
+                1139
+                Autorizzazione alla Cassa scolastica della Scuola tecnica commerciale "Fabio Besta" di Treviso ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 gennaio 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica, della Scuola tecnica commerciale "Fabio Besta" di Treviso, viene autorizzata ad accettare la donazione di nominali L. 25.500 in titoli di Stato, disposta dal Comitato per le onoranze alla memoria del prof. Luigi Grollo, nonche' L. 74.500 offerte dalla predetta Cassa scolastica, il cui reddito globale viene destinato per l'istituzione di un annuo premio di studio intitolato al nome dello stesso prof. Luigi Grollo.
+
+Visto, il Guardasigilli: AZARA
+ Registrato alla Corte dei conti, addi' 26 marzo 1954
+ Atti dei Governo, registro n. 82, foglio n. 67. - CARLOMAGNO
+

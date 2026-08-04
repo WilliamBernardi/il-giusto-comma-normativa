@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1252
+data: 1960-09-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-09-11;1252
+codice_redazionale: 060U1252
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 settembre 1960
+                1252
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Sant'Antonio di Padova, in frazione Bordano del comune di Bordano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 settembre 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 29 settembre 1959, integrato con prospetto e dichiarazione del 20 dicembre stesso anno, relativo alla erezione della parrocchia di Sant'Antonio di Padova, in frazione Bordano del comune di Bordano (Udine).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 ottobre 1960
+ Atti del Governo, registro n. 130, foglio n. 131. - VILLA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 93
+data: 1982-01-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-01-29;93
+codice_redazionale: 082U0093
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 gennaio 1982
+                93
+                Autorizzazione all'Unione italiana dei ciechi, in Roma, ad accettare una eredita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 gennaio 1982, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad accettare, col beneficio d'inventario, l'eredita', consistente in beni mobili (monete d'oro e argento, preziosi vari) e in un conto corrente presso il Banco lariano, in Como, per un importo complessivo di L. 45.032.431, disposta dalla sig.na Astesani Aurelia con testamento olografo 2 novembre 1960, pubblicato in data 16 novembre 1972, n. 15737 di repertorio e n. 723 di raccolta, a rogito dott. Salvatore Pascali, notaio in Como, registrato a Como in data 25 novembre 1972 al n. 5664.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 18 marzo 1982
+ Registro n. 3 Presidenza, foglio n. 15
+

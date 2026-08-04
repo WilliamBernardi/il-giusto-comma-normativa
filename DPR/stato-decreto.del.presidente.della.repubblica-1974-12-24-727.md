@@ -1,0 +1,63 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 727
+data: 1974-12-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1974-12-24;727
+codice_redazionale: 074U0727
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2011-07-13
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:45Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 dicembre 1974
+                727
+                Attuazione della decisione del Consiglio delle Comunita' europee relativa alla sostituzione dei contributi finanziari degli Stati membri con risorse proprie delle Comunita' e dei regolamenti comunitari relativi al finanziamento della politica agricola comune, in applicazione dell'art. 3 della legge 23 dicembre 1970, n. 1185. (Quinto provvedimento).
+
+Sentita la commissione parlamentare di cui all'articolo 4 della legge 23 dicembre 1970, n. 1185;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+Le disposizioni del decreto del Presidente della Repubblica 4 luglio 1973, n. 532, con le modificazioni ed integrazioni stabilite con il presente decreto, possono applicarsi al pagamento di tutte le provvidenze finanziarie, quali integrazioni di prezzo, sovvenzioni, aiuti indennita' compensative e premi, disposte dai regolamenti della Comunita' economica europea, la cui erogazione sia affidata alla Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.) e sia effettuata con le anticipazioni finanziarie della Comunita' stessa.
+ Per le provvidenze per le quali gli atti definitori delle domande presentate dagli interessati sono adottati direttamente dall'A.I.M.A., restano invariate le funzioni di controllo preventivo, su tali atti, dell'ufficio di ragioneria e dell'ufficio della Corte dei conti, di cui all'art. 9 della legge 13 maggio 1966, n. 303.
+
+## Art. 2.
+
+L'art. 5 del decreto del Presidente della Repubblica 4 luglio 1973, n. 532, e' abrogato. 
+ Le somme dovute agli aventi diritto in attuazione di disposizioni dell'ordinamento comunitario relative a provvidenze finanziarie, la cui erogazione sia affidata agli organismi pagatori riconosciuti ai sensi del regolamento (CE) n. 1663/95 della Commissione, del 7 luglio 1995, non possono essere sequestrate, pignorate o formare oggetto di provvedimenti cautelari, ivi compresi i fermi amministrativi di cui all'articolo 69, sesto comma, del regio decreto 18 novembre 1923, n. 2440, tranne che per il recupero da parte degli organismi pagatori di pagamenti indebiti di tali provvidenze. ((3)) 
+ I crediti inerenti alle suddette provvidenze non sono cedibili per atto tra vivi. 
+ E' fatta salva l'efficacia degli atti di sequestro, pignoramento e di cessione di credito notificati alla data di entrata in vigore del presente decreto.
+
+-------------
+                        AGGIORNAMENTO (3)
+                        
+ Il D.L. 13 maggio 2011, n. 70, convertito con modificazioni dalla L. 12 luglio 2011, n. 106, ha disposto (con l'art. 8, comma 11) che "Al fine di agevolare l'applicazione delle disposizioni contenute nel regolamento (CE) n. 1290/2005 del Consiglio, del 21 giugno 2005, relativo al finanziamento della politica agricola comune, e in particolare dei pagamenti diretti agli agricoltori, in conformita' all'articolo 43 del regolamento (CE) n. 73/ 2009 del Consiglio, del 19 gennaio 2009, e agli articoli 12 e 27 del regolamento (CE) n. 1120/2009 della Commissione, del 29 ottobre 2009, e' consentita la cessione dei relativi crediti agli Istituti finanziari a condizione che l'operazione finanziaria sia contabilizzata come sconto di credito tra soggetti privati, in deroga al terzo comma dell'articolo 2 del decreto del Presidente della Repubblica 24 dicembre 1974, n. 727".
+
+## Art. 3.
+
+Il secondo comma dell'art. 3 del decreto del Presidente della Repubblica 4 luglio 1973, n. 532, e' sostituito dai seguenti altri:
+ "L'A.I.M.A. comunica rispettivamente e contestualmente agli uffici ed enti incaricati del servizio, per singola provincia, l'avvenuto inoltro all'istituto di credito incaricato dell'emissione e spedizione degli assegni circolari, degli elenchi di cui all'art. 2, secondo comma.
+ Entro il primo mese successivo alla scadenza di ciascun trimestre dell'anno finanziario, gli uffici ed enti suddetti debbono trasmettere alla competente ragioneria regionale dello Stato copia degli elenchi trasmessi all'A.I.M.A., ai sensi del precedente art. 2, secondo comma, per i quali l'A.I.M.A., nel corso del trimestre, abbia dato la citata comunicazione, corredati degli atti di cui al primo comma del presente articolo, delle domande afferenti ai soggetti indicati in tali elenchi, delle corrispondenti denuncie di coltivazione o denuncie di semina, delle relazioni sui controlli eseguiti e degli atti di determinazione delle rese indicative".
+
+## Art. 4.
+
+Per le esigenze connesse all'applicazione delle norme del decreto del Presidente della Repubblica 4 luglio 1973, n. 532 e del presente decreto puo' essere comandato presso l'Azienda di Stato per gli interventi nel mercato agricolo (A.I.M.A.), previa deliberazione del consiglio di amministrazione dell'Azienda stessa, personale di altre amministrazioni dello Stato nonche' di enti pubblici operanti nel settore dell'agricoltura. L'onere del personale comandato e' assunto dall'Azienda medesima.
+
+## Art. 5.
+
+A decorrere dalle date di applicazione delle decisioni adottate dalla commissione delle Comunita' europee il 5 giugno 1974, il 21 giugno 1974 ed il 17 luglio 1974, nel quadro delle azioni di politica congiunturale previste dall'art. 108 del trattato istitutivo della Comunita' economica europea, le disposizioni del regolamento (CEE) n. 974/71 si applicano con l'osservanza delle misure integrative previste dalle citate decisioni e dalle successive modifiche ed integrazioni.
+
+## Art. 6. — ((ARTICOLO SOPPRESSO DAL D.P.R. 5 DICEMBRE 1978 N. 822))
+
+
+
+## Art. 7.
+
+Il quinto comma dell'art. 4 del decreto del Presidente della Repubblica 16 aprile 1971, n. 321, secondo quanto risulta dalle integrazioni apportate con l'art. 7 del decreto del Presidente della Repubblica 4 luglio 1973, n. 532, e' soppresso.
+

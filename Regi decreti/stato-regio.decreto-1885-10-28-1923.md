@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1885-10-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1885-10-28;1923
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:39Z
+---
+
+REGIO DECRETO
+                28 ottobre 1885
+                MDCCCCXXIII
+                Che autorizza il comizio agrario di Casalmaggiore ad acquistare la casa del signor O. Gabrieli in detta citta'. (8501923R)
+
+Entrata in vigore del provvedimento: 22/12/1885
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

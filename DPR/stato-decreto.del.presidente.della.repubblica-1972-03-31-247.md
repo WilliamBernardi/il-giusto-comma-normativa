@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 247
+data: 1972-03-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-03-31;247
+codice_redazionale: 072U0247
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:05Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 marzo 1972
+                247
+                Autorizzazione all'Automobile club di Modena ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 marzo 1972, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile club di Modena viene autorizzato ad acquistare in proprieta', dal sig. Enrico. Giusti, per il prezzo di L. 61.250.000, e per la costruzione della sede degli uffici di assistenza automobilistica, l'appezzamento di terreno sito in Modena, esteso per una superficie complessiva di mq. 17.500 circa individuato nel catasto alla sezione Forese, foglio n. 108/109, mappale 33617 e parte dei mappali 33678 e 33679.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 12 giugno 1972
+ Atti del Governo, registro n. 249, foglio n. 57. - CARUSO
+

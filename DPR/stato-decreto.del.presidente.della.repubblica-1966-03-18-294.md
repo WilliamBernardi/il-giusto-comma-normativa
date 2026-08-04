@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 294
+data: 1966-03-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-03-18;294
+codice_redazionale: 066U0294
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 marzo 1966
+                294
+                Autorizzazione all'Automobile Club di Livorno ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 marzo 1966, col quale, sulla proposta del Ministro per il turismo e lo spettacolo, l'Automobile Club di Livorno viene autorizzato ad acquistare in proprieta' dal signor Ilando Iacopini, per il prezzo di L. 2.000.000, lo appezzamento di terreno sito nel comune di Cecina, esteso mq. 1750, per la costruzione degli uffici della propria delegazione e di una stazione di rifornimento carburanti.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 12 maggio 1966
+ Atti del Governo, registro n. 203, foglio n. 37. - VILLA
+

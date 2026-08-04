@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 197
+data: 1965-01-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-01-19;197
+codice_redazionale: 065U0197
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 gennaio 1965
+                197
+                Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, ad acquistare un appartamento sito in Viterbo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 gennaio 1965, col quale, sulla proposta del Ministro per la difesa, l'Unione nazionale ufficiali in congedo d'Italia, con sede in Roma, viene autorizzata ad acquistare l'appartamento composto di tre vani piu' servizi, situato al primo piano del fabbricato che sorge in Viterbo, via Romanelli n. 2, di proprieta' della signora Fabi Luisa, al prezzo di L. 4.500.000, per destinarlo a sede del dipendente Gruppo provinciale di detta citta'.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 20 marzo 1965
+ Atti del Governo, registro n. 191, foglio n. 105. - VILLA
+

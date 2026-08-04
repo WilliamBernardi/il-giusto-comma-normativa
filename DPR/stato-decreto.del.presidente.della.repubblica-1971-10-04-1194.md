@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1194
+data: 1971-10-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1971-10-04;1194
+codice_redazionale: 071U1194
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 ottobre 1971
+                1194
+                Riconoscimento agli effetti civili, della erezione della parrocchia della Madonna del Rosario, in Manduria.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 ottobre 1971, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Oria in data 15 agosto 1965, integrato con dichiarazioni del 16 maggio 1967 e 18 marzo 1971, relativo alla erezione della parrocchia della Madonna del Rosario, in Manduria (Taranto).
+
+Visto, il Guardasigilli: COLOMBO
+ Registrato alla Corte dei conti addi' 3 gennaio 1972
+ Atti del Governo, registro n. 245, foglio n. 174. - VALENTINI
+

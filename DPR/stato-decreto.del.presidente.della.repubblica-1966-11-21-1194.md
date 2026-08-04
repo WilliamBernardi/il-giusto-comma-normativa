@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1194
+data: 1966-11-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-11-21;1194
+codice_redazionale: 066U1194
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 novembre 1966
+                1194
+                Autorizzazione all'Istituto di studi liguri, con sede in Bordighera, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 novembre 1966, col quale, sulla proposta del Ministro per la pubblica istruzione, l'istituto di studi liguri, con sede in Bordighera, viene autorizzato ad accettare la donazione, consistente in due appartamenti siti in Finale Ligure, disposta in favore dell'Istituto medesimo dal gr. uff. dott. Antonio Anfossi con atto pubblico in data 17 giugno 1959, n. 1006 di repertorio, a rogito dell'avv. Rinaldo Firighelli, notaio in Finale Ligure.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 31 dicembre 1966
+ Atti del Governo, registro n. 208, foglio n. 71. - VILLA
+

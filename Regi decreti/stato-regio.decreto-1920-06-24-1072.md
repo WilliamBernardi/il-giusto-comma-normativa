@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1072
+data: 1920-06-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1920-06-24;1072
+codice_redazionale: 020U1072
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:22Z
+---
+
+REGIO DECRETO
+                24 giugno 1920
+                1072
+                Che modifica il regolamento per l'esercizio dell' industria stalloniera privata approvato con R. decreto 4 settembre 1919, n.1819. (020U1072)
+
+Entrata in vigore del provvedimento: 26/08/1920
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

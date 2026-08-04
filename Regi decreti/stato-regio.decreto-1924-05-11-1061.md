@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1061
+data: 1924-05-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1924-05-11;1061
+codice_redazionale: 024U1061
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:29Z
+---
+
+REGIO DECRETO
+                11 maggio 1924
+                1061
+                Autorizzazione ad accettare una donazione di due quadri fatta allo Stato dal signor Messinger Otto Eugenio. (024U1061)
+
+Entrata in vigore del provvedimento: 26/07/1924
+
+## Art. 1.
+
+N.
+
+R. decreto 11 maggio 1924, col quale sulla proposta del Ministro per la pubblica istruzione, il Governo del Re e per esso il Ministro per la pubblica istruzione, e' autorizzato ad accettare la donazione fatta allo Stato dal sig. Messinger Otto Eugenio del fu Adamo, di Worms, di due quadri rappresentanti l'uno il ritratto dello stesso donatore sig. Messinger, dipinto da Antonio Mancini, e l'altro il ritratto della signora Teresa Oneto Maglione, dipinto da Domenico Morelli, giusta il pubblico atto rogato il giorno 8 febbraio 1924, presso la cancelleria del Regio consolato d'Italia in Madrid. 
+ 
+ Visto, il Guardasigilli: Oviglio. 
+ 
+ Registrato alla Corte dei conti, addi' 7 luglio 1924.
+

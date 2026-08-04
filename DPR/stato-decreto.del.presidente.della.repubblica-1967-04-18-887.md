@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 887
+data: 1967-04-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-04-18;887
+codice_redazionale: 067U0887
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 aprile 1967
+                887
+                Trasferimento della sede, da Avellino a Napoli, del Consorzio cooperative di produzione e lavoro "CER" (Cooperative Edili Riunite).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la legge 25 giugno 1909, n. 422, ed il regolamento approvato con regio decreto 12 febbraio 1911, n. 278, emanato in esecuzione di essa;
+ Visto il decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577, ratificato, con modificazioni, dalla legge 2 aprile 1951, n. 302;
+ Visto il decreto del Presidente della Repubblica 25 novembre 1962, n. 2049, con il quale fu costituito il Consorzio cooperative di produzione e lavoro "CER" (Cooperative Edili Riunite), con sede in Avellino, e ne fu approvato il relativo statuto;
+ Visto il verbale dell'assemblea straordinaria dei delegati del Consorzio, tenutasi il 21 novembre 1964, nella quale e' stato deliberato il trasferimento della sede sociale del Consorzio da Avellino a Napoli;
+ Vista l'istanza 5 gennaio 1964, con la quale l'Ente citato chiede l'approvazione del trasferimento suddetto;
+ Visti i verbali delle assemblee delle cooperative aderenti al Consorzio, con i quali e' stato ratificato l'operato dei delegati in merito al succitato trasferimento, ai sensi dell'art. 64 del regolamento 12 febbraio 1911, n. 278;
+ Udito, in via d'urgenza, il Comitato costituito in seno alla Commissione centrale per le cooperative, ai sensi dell'art. 19, lettera b) del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, n. 1577;
+ Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici;
+
+ Decreta:
+
+ E' approvato il trasferimento della sede del Consorzio cooperative di produzione e lavoro "C E R" (Cooperative Edili Riunite), da Avellino a Napoli, ed in tal senso viene modificato il primo comma dell'art. 3 dello statuto.
+

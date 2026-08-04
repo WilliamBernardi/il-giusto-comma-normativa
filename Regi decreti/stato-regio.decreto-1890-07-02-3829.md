@@ -1,0 +1,35 @@
+---
+tipo: REGIO DECRETO
+data: 1890-07-02
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1890-07-02;3829
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:47Z
+---
+
+REGIO DECRETO
+                02 luglio 1890
+                MMMDCCCXXIX
+                Che autorizza la camera di commercio ed arti di Lecce ad acquistare una casa appartenente al cav. Boccadamo. (9003829R)
+
+Entrata in vigore del provvedimento: 01/08/1890
+
+## Art. 1.
+
+La camera di commercio ed arti di Lecce e' autorizzata ad acquistare la casa ora appartenente al cav. Luigi Boccadamo, posta in quella citta', via Palmieri e piazzetta Antonio Panzera, pel prezzo e alle condizioni risultanti dalla deliberazione presa dalla predetta camera nell'adunanza dei 17 aprile 1890. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 2 luglio 1890. 
+ 
+ UMBERTO. 
+ 
+ Registrato alla Corte dei conti addi' 10 luglio 1890. 
+ Reg. 174. Atti del Governo a f. 85. Mandillo. 
+ Luogo del Sigillo. V. Il Guardasigilli G. ZANARDELLI. 
+ 
+ L. MICELI.
+

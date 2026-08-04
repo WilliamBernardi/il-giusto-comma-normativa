@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 2149
+data: 1929-12-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1929-12-06;2149
+codice_redazionale: 029U2149
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:57Z
+---
+
+REGIO DECRETO
+                06 dicembre 1929
+                2149
+                Nomina di un commissario straordinario per la Camera agrumaria per la Sicilia e la Calabria, in Messina. (029U2149)
+
+Entrata in vigore del provvedimento: 17/01/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

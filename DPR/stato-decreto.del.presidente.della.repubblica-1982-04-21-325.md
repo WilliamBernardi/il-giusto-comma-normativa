@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 325
+data: 1982-04-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-04-21;325
+codice_redazionale: 082U0325
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 aprile 1982
+                325
+                Autorizzazione all'Accademia nazionale dei Lincei, in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 aprile 1982, col quale, sulla proposta del Ministro per i beni culturali e ambientali, l'Accademia nazionale dei Lincei, in Roma, viene autorizzata ad accettare una donazione di L. 20.000.000 in buoni del Tesoro disposta dai signori Mario Barone e Giovanna Biraghi Lossetti in Barone, come da atto pubblico 28 maggio 1980, n. 73183/32838 di repertorio, a rogito dottor Vincenzo Colapietro, notaio in Roma, registrato a Roma in data 17 giugno 1980 al n. 8480.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 29 maggio 1982
+ Registro n. 14 Beni culturali, foglio n. 197
+

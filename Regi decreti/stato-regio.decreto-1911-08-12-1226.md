@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+numero: 1226
+data: 1911-08-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1911-08-12;1226
+codice_redazionale: 011U1226
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:39Z
+---
+
+REGIO DECRETO
+                12 agosto 1911
+                1226
+                Iscrizione nella 1ª serie del porto di Milazzo. (011U1226)
+
+Entrata in vigore del provvedimento: 08/12/1911
+
+## Art. 1.
+
+N. 1226 
+ 
+ Regio Decreto 12 agosto 1911, col quale, sulla proposta del ministro dei lavori pubblici, il porto di Milazzo viene inscritto nella 1ª serie della 2ª classe II categoria nei riguardi del commercio, ferma restando la sua iscrizione in I categoria nei riguardi della navigazione.
+

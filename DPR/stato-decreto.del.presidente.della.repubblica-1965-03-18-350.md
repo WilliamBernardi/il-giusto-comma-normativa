@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 350
+data: 1965-03-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-03-18;350
+codice_redazionale: 065U0350
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 marzo 1965
+                350
+                Riconoscimento, agli effetti civili, del trasferimento della Parrocchia di Sant'Elena, in frazione Paganico del comune di Camerino (Macerata), nella Chiesa di Santa Maria delle Grazie, sita in localita' "Le Mosse" dello stesso Comune.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 marzo 1965, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Camerino in data 10 dicembre 1963, integrato con dichiarazione del 3 ottobre 1964, relativo al trasferimento della Parrocchia di Sant'Elena, in frazione Paganico del comune di Camerino (Macerata), nella Chiesa di Santa Maria delle Grazie, sita in localita' "Le Morse" dello stesso Comune, con l'assegnazione di nuova circoscrizione territoriale e del titolo di Sant'Elena in Santa Maria delle Grazie.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 22 aprile 1965
+ Atti del Governo, registro n. 192, foglio n. 58. - VILLA
+

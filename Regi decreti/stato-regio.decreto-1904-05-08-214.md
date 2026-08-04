@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-05-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-05-08;214
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:39Z
+---
+
+REGIO DECRETO
+                08 maggio 1904
+                CCXIV
+                Che da' al regio conservatorio di musica in Palermo il nome di «Vincenzo Bellini». (0400214R)
+
+Entrata in vigore del provvedimento: 26/06/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

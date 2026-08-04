@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 157
+data: 1973-01-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-01-18;157
+codice_redazionale: 073U0157
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 gennaio 1973
+                157
+                Riconoscimento, agli effetti civili, della erezione della parrocchia de "La Visitazione", in Torino.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 gennaio 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Torino in data 2 ottobre 1971, integrato con dichiarazione del 15 successivo, relativo alla erezione della parrocchia de "La Visitazione", in Torino.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 aprile 1973
+ Atti di Governo, registro n. 257, foglio n. 104 - VALENTINI
+

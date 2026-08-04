@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 632
+data: 1968-03-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-03-26;632
+codice_redazionale: 068U0632
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 marzo 1968
+                632
+                Riconoscimento, agli effetti civili, dell'unione della parrocchia di S. Antonio Abate, nel comune di Cravagliana, con quella di S.
+Giovanni Battista, in Sabbia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 marzo 1968, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Novara in data 10 giugno 1967, relativo alla unione perpetua "aeque principalis" della parrocchia di S. Antonio Abate, in frazione Brugaro del comune di Cravagliana (Vercelli), con quella di S. Giovanni Battista, in Sabbia (Vercelli).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 11 maggio 1968
+ Atti del Governo, registro n. 219, foglio n. 121. - GRECO
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 216
+data: 1959-03-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-03-12;216
+codice_redazionale: 059U0216
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 marzo 1959
+                216
+                Riconoscimento, agli effetti civili, della erezione della parrocchia del SS.mo Crocifisso, in frazione Borgo Petilia del comune di Caltanissetta.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 marzo 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Caltanissetta in data 13 giugno 1958, integrato con postilla senza data, relativo alla erezione della parrocchia del SS.mo Crocifisso, in frazione Borgo Petilia del comune di Caltanissetta e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 18 aprile 1959
+ Atti del Governo, registro n. 118, foglio n. 62. - VILLA
+

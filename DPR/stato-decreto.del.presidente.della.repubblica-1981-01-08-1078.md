@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1078
+data: 1981-01-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1981-01-08;1078
+codice_redazionale: 081U1078
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:02Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 gennaio 1981
+                1078
+                Autorizzazione all'Associazione italiana della Croce rossa, in Roma, ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 gennaio 1981, col quale, sulla proposta del Ministro della sanita', l'Associazione italiana della Croce rossa, in Roma, viene autorizzata ad accettare il legato, consistente in un appartamento sito in Piacenza, via Nicolini n. 8, del valore di L. 31.000.000 circa, disposta dal geom. Vincenzo Torelli con testamento pubblico 24 maggio 1975, n. 201 di repertorio, a rogito dott. Viscardo Tagliaferro, notaio in Castel S. Giovanni (Piacenza), registrato a Piacenza in data 9 luglio 1976.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 13 marzo 1982
+ Registro n. 2 Sanita', foglio n. 58
+

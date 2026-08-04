@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 141
+data: 1969-03-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1969-03-04;141
+codice_redazionale: 069U0141
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:13Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 marzo 1969
+                141
+                Erezione in ente morale della fondazione "Caffaro Allera Giovanni Battista", con sede in Lessolo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 marzo 1969, col quale, sulla proposta del Ministro per l'interno, la fondazione "Caffaro Allera Giovanni Battista", con sede in Lessolo (Torino), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: GAVA
+ Registrato alla Corte dei conti, addi' 17 aprile 1969
+ Atti del Governo, registro n. 226, foglio n. 65. - GRECO
+

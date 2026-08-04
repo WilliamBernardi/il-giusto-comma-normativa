@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 811
+data: 1976-09-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-09-27;811
+codice_redazionale: 076U0811
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 settembre 1976
+                811
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Maria Assunta e di S. Nicolo' V. e M., in Tizzano Val Parma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 settembre 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Parma 1 settembre 1975, relativo all'unione perpetua aeque principaliter delle parrocchie di S. Maria Assunta, in frazione Isola del comune di Tizzano Val Parma (Parma), e di S.
+ Nicolo' V. e M., in frazione Reno dello stesso comune.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 4 dicembre 1976
+ Registro n. 22 Interno, foglio n. 142
+

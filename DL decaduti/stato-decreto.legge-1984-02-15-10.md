@@ -1,0 +1,48 @@
+---
+tipo: DECRETO-LEGGE
+numero: 10
+data: 1984-02-15
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1984-02-15;10
+codice_redazionale: 084U0010
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1984-06-14
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                15 febbraio 1984
+                10
+                Misure urgenti in materia di tariffe, di prezzi amministrati e di
+indennita' di contingenza.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 12 GIUGNO 1984, N. 219
+
+## Art. 2.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 12 GIUGNO 1984, N. 219
+
+## Art. 3.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 12 GIUGNO 1984, N. 219
+
+## Art. 4.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 12 GIUGNO 1984, N. 219
+
+## Art. 5.
+
+DECRETO DECADUTO;I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 12 GIUGNO 1984, N. 219
+

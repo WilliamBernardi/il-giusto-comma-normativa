@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1433
+data: 1927-07-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1927-07-23;1433
+codice_redazionale: 027U1433
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:27Z
+---
+
+REGIO DECRETO
+                23 luglio 1927
+                1433
+                Determinazione dei centri di studio del genio e loro sedi. (027U1433)
+
+Entrata in vigore del provvedimento: 18/08/1927
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

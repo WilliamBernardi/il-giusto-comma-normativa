@@ -1,0 +1,37 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 2179
+data: 1962-11-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-11-22;2179
+codice_redazionale: 062U2179
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 novembre 1962
+                2179
+                Trasformazione della Scuola d'arte di Messina in Istituto d'arte.
+
+IL PRESIDENTE DELLA REPUBBLICA
+            
+            
+                
+                    Vista la legge 9 aprile 1962, n. 163, concernente l'ordinamento amministrativo e didattico degli Istituti e Scuole d'arte;
+                
+            
+            
+                Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:
+
+## Art. 1.
+
+A decorre dal 1 ottobre 1962, la Scuola d'arte di Messina e' trasformata in Istituto d'arte, del quale e' approvata la pianta organica annessa al presente decreto e firmata, d'ordine del Presidente della Repubblica, dal Ministro per la pubblica istruzione e da quello per il tesoro.
+
+## Art. 2.
+
+La maggiore spesa di L. 20.500.000, occorrente per il funzionamento dell'"Istituto di cui all'articolo precedente, gravera' sul cap. 242 bis del bilancio del Ministero della pubblica istruzione per l'esercizio finanziario 1982-63 e corrispondenti negli esercizi futuri.
+

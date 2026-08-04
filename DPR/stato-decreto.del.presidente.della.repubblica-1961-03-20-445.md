@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 445
+data: 1961-03-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-03-20;445
+codice_redazionale: 061U0445
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 marzo 1961
+                445
+                Approvazione del nuovo statuto della Fondazione "Casimiro Mondino", con sede presso l'Universita' di Pavia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 marzo 1961, col quale, sulla proposta del Ministro per la pubblica istruzione, viene approvato il nuovo statuto, proposto dal Comitato di amministrazione, della Fondazione "Casimiro Mondino", con sede presso la Universita' di Pavia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 26 maggio 1961
+ Atti del Governo, registro n. 136, foglio n. 181. - VILLA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1222
+data: 1956-09-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-09-19;1222
+codice_redazionale: 056U1222
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 settembre 1956
+                1222
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Regina, in localita' Forcal Savassa del comune di Vittorio Veneto (Treviso).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 settembre 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Vittorio Veneto in data 1 novembre 1954, integrato con dichiarazione 4 maggio 1955, relativo all'erezione della parrocchia di Santa Maria Regina, in localita' Forcal Savassa del comune di Vittorio Veneto (Treviso) e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede dell'anzidetta parrocchia.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 25 ottobre 1956
+ Atti del Governo, registro n. 101, foglio n. 89. - CARLOMAGNO
+

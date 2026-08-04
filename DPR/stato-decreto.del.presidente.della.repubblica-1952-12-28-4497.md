@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4497
+data: 1952-12-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-12-28;4497
+codice_redazionale: 052U4497
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 dicembre 1952
+                4497
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria della Mercede, in comune di Catania.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 dicembre 1952, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Arcivescovo di Catania in data 18 gennaio 1951, relativo all'erezione della parrocchia di Santa Maria della Mercede, in comune di Catania e il Beneficio dell'anzidetta parrocchia viene autorizzato ad accettare la donazione disposta in suo favore da Ricceri Francesco consistente in alcuni immobili situati in Catania e valutati L. 840.000.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 16 febbraio 1953
+ Atti del Governo, registro n. 75, foglio n. 40. - PALLA
+

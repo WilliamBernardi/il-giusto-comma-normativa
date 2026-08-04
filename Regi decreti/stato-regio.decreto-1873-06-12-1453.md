@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1453
+data: 1873-06-12
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1873-06-12;1453
+codice_redazionale: 073U1453
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:09:46Z
+---
+
+REGIO DECRETO
+                12 giugno 1873
+                1453
+                Che all'Elenco delle strade provinciali di Napoli ne aggiunge due altre, e ne cancella una terza. (073U1453)
+
+Entrata in vigore del provvedimento: 25/07/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

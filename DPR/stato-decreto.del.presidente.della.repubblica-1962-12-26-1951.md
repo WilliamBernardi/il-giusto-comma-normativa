@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1951
+data: 1962-12-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-12-26;1951
+codice_redazionale: 062U1951
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 dicembre 1962
+                1951
+                Riconoscimento, agli effetti civili, della elevazione in Parrocchia della Vicaria curata di San Firmano, nel comune dai Montelupone (Macerata).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 dicembre 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Recanati e Loreto in data 1 ottobre 1959, integrato con postilla di pari data e con tre dichiarazioni rispettivamente del 12 aprile, 7 giugno e 14 luglio 1962, relativo alla elevazione in Parrocchia della Vicaria curata di San Firmano, nel comune di Montelupone (Macerata).
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 5 febbraio 1963
+ Atti del Governo, registro n. 163, foglio n. 16. - VILLA
+

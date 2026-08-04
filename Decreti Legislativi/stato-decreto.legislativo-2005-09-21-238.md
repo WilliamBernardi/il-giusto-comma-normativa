@@ -1,0 +1,118 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 238
+data: 2005-09-21
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2005-09-21;238
+codice_redazionale: 005G0263
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2015-07-29
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:30Z
+---
+
+DECRETO LEGISLATIVO
+                21 settembre 2005
+                238
+                Attuazione della direttiva 2003/105/CE, che modifica la direttiva 96/82/CE, sul controllo dei pericoli di incidenti rilevanti connessi con determinate sostanze pericolose.
+
+Entrata in vigore del provvedimento: 6/12/2005
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 23. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+
+## Art. 24. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 26 GIUGNO 2015, N. 105))
+
+
+

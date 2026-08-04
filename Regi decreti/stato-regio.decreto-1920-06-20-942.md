@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 942
+data: 1920-06-20
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1920-06-20;942
+codice_redazionale: 020U0942
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:17:53Z
+---
+
+REGIO DECRETO
+                20 giugno 1920
+                942
+                Che reca un'aggiunta al decreto Luogotenenziale 18 gennaio 1917, n. 1879, nel senso che il R. Istituto commerciale di Salerno viene autorizzato a rilasciare ai propri licenziati il titolo di ragioniere commerciale. (020U0942)
+
+Entrata in vigore del provvedimento: 23/07/1920
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

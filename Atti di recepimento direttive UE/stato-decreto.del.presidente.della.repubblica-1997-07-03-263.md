@@ -1,0 +1,102 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 263
+data: 1997-07-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1997-07-03;263
+codice_redazionale: 097G0301
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2008-09-26
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 luglio 1997
+                263
+                 Regolamento di attuazione della direttiva 93/53/CEE recante misure comunitarie minime di lotta contro talune malattie dei pesci.
+
+Entrata in vigore del decreto: 9/8/1997
+
+## - SEZIONE I DISPOSIZIONI GENERALI
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## - SEZIONE II MISURE DI LOTTA CONTRO LE MALATTIE DELL'ELENCO I
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## - SEZIONE III MISURE DI LOTTA CONTRO LE MALATTE DELL'ELENCO II
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## - SEZIONE IV DISPOSIZIONI FINALI
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+

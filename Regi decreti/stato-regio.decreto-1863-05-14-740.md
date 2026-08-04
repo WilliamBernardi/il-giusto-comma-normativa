@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1863-05-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-05-14;740
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:29Z
+---
+
+REGIO DECRETO
+                14 maggio 1863
+                DCCXL
+                Che modifica lo Statuto dell'Accademia delle arti del disegno di Firenze. (6300740R)
+
+Entrata in vigore del provvedimento: 21/06/1863
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

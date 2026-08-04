@@ -1,0 +1,43 @@
+---
+tipo: REGIO DECRETO
+data: 1902-01-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1902-01-26;43
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:39Z
+---
+
+REGIO DECRETO
+                26 gennaio 1902
+                XLIII
+                Che autorizza la regia pinacoteca di Brera in Milano ad accettare il legato Sabatelli. (0200043R)
+
+Entrata in vigore del provvedimento: 23/03/1902
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sentito il consiglio di Stato;
+
+## Art. 1.
+
+La regia pinacoteca di Brera e' autorizzata ad accettare il legato del disegno di Luigi Sabatelli, esprimente la Presa di Damietta, legato disposto a favore di essa dal marchese Luigi Crivelli con testamento del 21 marzo 1898. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 26 gennaio 1902. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 6 marzo 1902. 
+ 
+ Reg. 2. Atti del Governo a f. 10. F. Rostagno. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli F. Cocco-Ortu. 
+ 
+ N. Nasi.
+

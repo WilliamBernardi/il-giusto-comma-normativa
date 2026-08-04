@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 417
+data: 1955-04-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-04-02;417
+codice_redazionale: 055U0417
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 aprile 1955
+                417
+                Trasferimento della sede municipale del comune di Pella, in provincia di Novara, dall'attuale capoluogo alla frazione Prorio.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Pella in data 12 febbraio 1954, n. 5, con la quale e' stato chiesto di trasferire la sede municipale dall'attuale capoluogo alla frazione Prorio;
+ Vista la deliberazione del Consiglio provinciale di Novara in data 31 maggio 1954, n. 5, con la quale e' stato espresso parere favorevole in ordine alla precitata richiesta;
+ Visto l'art. 266 del testo unico 3 marzo 1934, n. 383, della legge comunale e provinciale;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ La sede municipale del comune di Pella, in provincia di Novara, e' trasferita dall'attuale capoluogo alla frazione Prorio.
+

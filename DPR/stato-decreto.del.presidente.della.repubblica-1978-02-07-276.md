@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 276
+data: 1978-02-07
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1978-02-07;276
+codice_redazionale: 078U0276
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                07 febbraio 1978
+                276
+                Autorizzazione alla Unione italiana lotta alla distrofia muscolare - UILDM, in Padova, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 7 febbraio 1978, col quale, sulla proposta del Ministro della sanita', la Unione italiana lotta alla distrofia muscolare - UILDM, in Padova, viene autorizzata ad acquistare, al prezzo di L. 13.000.000, ritenuto congruo dall'ufficio tecnico erariale di Venezia, un immobile sito in Venezia-Marghera, identificato al nuovo catasto edilizio urbano alla partita 7434, foglio I, mappale 1207, via Scarsellini, p.t. 1° - 2.c.5° - cat. B/4 - cl. unica - R.C.L. 1488, descritto nell'atto di compravendita a rogito notaio Polizzi n. di repertorio 21821 del 9 aprile 1975.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 7 giugno 1978
+ Registro n. 4 Sanita', foglio n. 56
+

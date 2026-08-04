@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1876-12-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1876-12-28;1463
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:51Z
+---
+
+REGIO DECRETO
+                28 dicembre 1876
+                MCCCCLXIII
+                Che approva il trasferimento della sede della banca agricola nazionale da Lucca a Firenze. (7601463R)
+
+Entrata in vigore del provvedimento: 11/02/1877
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

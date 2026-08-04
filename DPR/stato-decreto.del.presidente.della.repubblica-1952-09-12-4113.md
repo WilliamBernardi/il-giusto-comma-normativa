@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 4113
+data: 1952-09-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-09-12;4113
+codice_redazionale: 052U4113
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 settembre 1952
+                4113
+                Riconoscimento della personalita' giuridica della Congregazione dei Poveri Servi della Divina Provvidenza, con sede in Verona.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 settembre 1952, col quale, sulla proposta del Ministro ad interim per l'interno, viene riconosciuta la personalita' giuridica della Congregazione dei Poveri Servi della Divina Provvidenza, con sede in Verona, via San Zeno in Monte n. 23, e la stessa viene autorizzata ad accettare le donazioni disposte da Giovanni Calabra' e Ignazio Battiato consistenti in alcuni immobili valutati L. 37.000.000 e situati ne comuni di Verona e Lavagna.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte di conti, addi' 17 gennaio 1953
+ Atti dei Governo, registro n. 72, foglio n. 129. - PALLA
+

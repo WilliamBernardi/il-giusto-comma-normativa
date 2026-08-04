@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2572
+data: 1928-10-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-10-25;2572
+codice_redazionale: 028U2572
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:11:55Z
+---
+
+REGIO DECRETO
+                25 ottobre 1928
+                2572
+                Approvazione di alcune modificazioni dello statuto del Consorzio « Federazione delle cooperative della provincia di Ravenna », con sede in Ravenna. (028U2572)
+
+Entrata in vigore del provvedimento: 15/12/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

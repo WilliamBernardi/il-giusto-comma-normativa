@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 798
+data: 1954-06-18
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-06-18;798
+codice_redazionale: 054U0798
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                18 giugno 1954
+                798
+                Riconoscimento della personalita' giuridica della Chiesa parrocchiale di Santa Maria, in frazione Santa Maria in Fabriago del comune di Lugo (Ravenna).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 18 giugno 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Chiesa parrocchiale di Santa Maria, in frazione Santa Maria in Fabriago del comune di Lugo (Ravenna) e la Chiesa predetta viene autorizzata ad acquistare un appezzamento di terreno dall'Opera pia Ospedale dei poveri infermi, con sede in Lugo.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 28 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 116. - CARLOMAGNO
+

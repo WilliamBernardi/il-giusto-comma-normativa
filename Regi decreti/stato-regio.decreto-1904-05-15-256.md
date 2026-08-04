@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-05-15
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-05-15;256
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:59Z
+---
+
+REGIO DECRETO
+                15 maggio 1904
+                CCLVI
+                Che da' facolta' al consorzio di irrigazione Pallerone-Bibola in Aulla, in provincia di Massa e Carrara a riscuotere il contributo dei soci. (0400256R)
+
+Entrata in vigore del provvedimento: 22/07/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

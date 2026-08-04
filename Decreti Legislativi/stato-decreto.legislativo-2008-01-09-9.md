@@ -1,0 +1,394 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 9
+data: 2008-01-09
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2008-01-09;9
+codice_redazionale: 008G0019
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2026-06-26
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:34Z
+---
+
+DECRETO LEGISLATIVO
+                09 gennaio 2008
+                9
+                Disciplina della titolarita' e della commercializzazione dei diritti audiovisivi sportivi e relativa ripartizione delle risorse.
+
+Entrata in vigore del provvedimento: 16/2/2008
+
+((Visto il decreto legislativo 31 luglio 2005, n. 177;))
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Ministro per le politiche giovanili e le attivita' sportive e del Ministro delle comunicazioni, di concerto con il Ministro dell'economia e delle finanze, con il Ministro per le politiche europee e con il Ministro dello sviluppo economico;
+
+## - Titolo I PRINCIPI E DEFINIZIONI
+
+## Art. 1. — Principi
+
+Il presente decreto legislativo reca, in attuazione dei principi e dei criteri sanciti dalla legge 19 luglio 2007, n. 106, disposizioni volte a garantire la trasparenza e l'efficienza del mercato dei diritti audiovisivi degli eventi sportivi di campionati, coppe e tornei professionistici a squadre e delle correlate manifestazioni sportive, organizzati a livello nazionale, ed a disciplinare la ripartizione delle risorse economiche e finanziarie assicurate dalla commercializzazione in forma centralizzata di tali diritti, in modo da garantire l'equilibrio competitivo fra i soggetti partecipanti alle competizioni e da destinare una quota di tale risorse a fini di mutualita'.
+
+## Art. 2. — Definizioni
+
+## - Titolo II TITOLARITA' ED ESERCIZIO DEI DIRITTI AUDIOVISIVI  Capo I  Regole generali
+
+## Art. 3. — Titolarita' dei diritti audiovisivi
+
+L'organizzatore della competizione e gli organizzatori degli eventi sono contitolari dei diritti audiovisivi relativi agli eventi della competizione medesima, salvo quanto previsto al comma 2.
+
+La titolarita' del diritto di archivio relativo a ciascun evento della competizione e' riconosciuta in esclusiva all'organizzatore dell'evento medesimo.
+
+## Art. 4. — Esercizio dei diritti audiovisivi
+
+L'esercizio dei diritti audiovisivi relativi ai singoli eventi della competizione spetta all'organizzatore della competizione medesima. Fermo restando quanto previsto dall'articolo 27, gli atti giuridici posti in essere in violazione della presente disposizione sono nulli.
+
+L'esercizio del diritto di archivio e' attribuito all'organizzatore di ciascun evento, il quale consente, in condizione di reciprocita', alla societa' sportiva che partecipa all'evento in qualita' di ospite di conservare nel proprio archivio e utilizzare economicamente le immagini dell'evento medesimo.
+
+Sono riservate agli organizzatori degli eventi autonome iniziative commerciali aventi ad oggetto i diritti di trasmissione sui canali tematici ufficiali della sintesi, della replica e delle immagini salienti relativi agli eventi cui gli stessi partecipano.
+
+La produzione audiovisiva dell'evento spetta all'organizzatore dell'evento medesimo il quale, a tali fini, puo' effettuare le riprese direttamente o tramite un servizio tecnico di ripresa, ovvero avvalersi degli operatori della comunicazione assegnatari dei diritti audiovisivi. L'organizzatore della competizione coordina le produzioni audiovisive determinando nelle linee guida di cui all'articolo 6 le modalita' di produzione e gli standard tecnici minimi, qualitativi ed editoriali, ai quali l'organizzatore dell'evento deve attenersi. L'organizzatore dell'evento mette a disposizione dell'organizzatore della competizione il segnale contenente le immagini dell'evento, comprensivo delle fonti di ripresa e dei formati indicati negli standard minimi, senza alcun corrispettivo o rimborso di costi, e consente all'organizzatore della competizione di accedere alle postazioni di regia ai fini dei necessari controlli, anche ai fini sportivi.
+
+Qualora l'organizzatore dell'evento non intenda effettuare la produzione audiovisiva ai sensi del precedente comma 4, la stessa e' effettuata dall'organizzatore della competizione, il quale puo' effettuare le riprese direttamente o tramite un servizio tecnico di ripresa, ovvero avvalersi degli operatori della comunicazione assegnatari dei diritti audiovisivi, fermo restando l'obbligo di mettere a disposizione dell'organizzatore dell'evento il segnale contenente le immagini dell'evento medesimo e comprensivo di qualsiasi fonte di ripresa, senza alcun corrispettivo o rimborso dei costi tecnici.
+
+La proprieta' delle riprese, quale risultato delle produzioni audiovisive di cui ai commi 4 e 5, anche in deroga a quanto previsto all'articolo 78-ter della legge 22 aprile 1941, n. 633, spetta all'organizzatore dell'evento, fermo restando il diritto dell'organizzatore della competizione di farne uso per tutti i fini di cui al presente decreto.
+
+Il soggetto che produce le immagini degli eventi della competizione ai sensi dei commi 4 e 5, e' tenuto a mettere a disposizione di tutti gli assegnatari dei diritti audiovisivi, a condizioni trasparenti e non discriminatorie, e secondo un tariffario stabilito dall'organizzatore della competizione, l'accesso al segnale, unitamente ai servizi tecnici correlati, senza loghi e commenti parlati e dotate di rumori di fondo. L'Autorita' per le garanzie nelle comunicazioni vigila sulla corretta applicazione della presente disposizione.
+
+## Art. 5. — Diritto di cronaca
+
+Agli operatori della comunicazione e' riconosciuto il diritto di cronaca relativo a ciascun evento della competizione.
+
+L'esercizio del diritto di cronaca non puo' pregiudicare lo sfruttamento normale dei diritti audiovisivi da parte dei soggetti assegnatari dei diritti medesimi, ne' arrecare un ingiustificato pregiudizio agli interessi dell'organizzatore della competizione e dell'organizzatore dell'evento. Non pregiudica comunque lo sfruttamento normale dei diritti audiovisivi la comunicazione al pubblico, scritta o sonora, anche in tempo reale, della sola notizia del risultato sportivo e dei suoi aggiornamenti, adeguatamente intervallati.
+
+E' comunque garantita alla concessionaria del servizio pubblico, limitatamente alle trasmissioni televisive, e alle altre emittenti televisive nazionali e locali la trasmissione di immagini salienti e correlate per il resoconto di attualita' nell'ambito dei telegiornali, di durata non superiore a otto minuti complessivi per giornata e comunque non superiore a quattro minuti per ciascun giorno solare, con un limite massimo di tre minuti per singolo evento, decorso un breve lasso di tempo dalla conclusione dell'evento, comunque non inferiore alle tre ore, e fino alle quarantotto ore successive alla conclusione dell'evento medesimo, nel rispetto delle modalita' e dei limiti temporali previsti da apposito regolamento dell'Autorita' per le garanzie nelle comunicazioni, sentiti i rappresentanti delle categorie interessate e le associazioni dei consumatori e degli utenti rappresentative a livello nazionale iscritte nell'elenco di cui all'articolo 137 del decreto legislativo 6 settembre 2005, n. 206.
+
+L'Autorita' adotta, con le stesse procedure di cui al comma 3, un regolamento per disciplinare i limiti temporali e le modalita' di esercizio del diritto di cronaca, anche in diretta, da parte delle emittenti di radiodiffusione sonora e dei fornitori di contenuti radiofonici in ambito nazionale e locale, fatte comunque salve le modalita' di diffusione acquisite per il medesimo diritto di cronaca.
+
+Il regolamento di cui al comma 3 e' redatto in conformita' alle disposizioni derivanti dall'ordinamento comunitario, con particolare riferimento alla disciplina degli eventi di particolare rilevanza per la societa' ai ((sensi del decreto legislativo 31 luglio 2005, n. 177.))
+
+Ai fini dell'esercizio del diritto di cronaca, all'organizzatore della competizione e all'organizzatore dell'evento e agli assegnatari dei diritti e' fatto obbligo di mettere a disposizione degli operatori della comunicazione, previo rimborso dei soli costi tecnici stabiliti nel tariffario di cui all'articolo 4, comma 7, estratti di immagini salienti e correlate, contrassegnati dal logo dell'organizzatore della competizione. Qualora non fosse garantita l'acquisizione delle immagini nei termini che precedono, l'organizzatore della competizione e l'organizzatore dell'evento consentono agli operatori della comunicazione di accedere agli impianti sportivi per riprendere l'evento, secondo le modalita' stabilite nel regolamento di cui al comma 3. Il regolamento di cui al comma 3 stabilisce altresi' i requisiti soggettivi e oggettivi per l'accreditamento degli operatori della comunicazione all'interno dell'impianto sportivo.
+
+L'Autorita' per le garanzie nelle comunicazioni vigila sulla corretta applicazione del presente articolo.
+
+((8. Alle violazioni dei regolamenti di cui ai commi 3 e 4))
+
+## - Capo II Commercializzazione dei diritti audiovisivi  Sezione I  Norme generali
+
+## Art. 6. — Linee guida
+
+L'organizzatore della competizione e' tenuto a predeterminare, in conformita' ai principi e alle disposizioni del presente decreto, linee guida per la commercializzazione dei diritti audiovisivi recanti regole in materia di offerta e di assegnazione dei diritti audiovisivi medesimi, criteri in materia di formazione dei relativi pacchetti e le ulteriori regole previste dal presente decreto in modo da garantire ai partecipanti alle procedure competitive di cui all'articolo 7 condizioni di assoluta equita', trasparenza e non discriminazione.
+
+Le linee guida sono deliberate, per ciascuna competizione, dall'assemblea di categoria delle societa' sportive partecipanti alla competizione medesima, con la maggioranza qualificata dei due terzi degli aventi diritto al voto per le prime tre votazioni e con maggioranza semplice a partire dalla quarta. In sede di prima applicazione, l'organizzatore della competizione predispone le linee guida entro quattro mesi dall'entrata in vigore del presente decreto.
+
+Le linee guida individuano i diritti di natura secondaria oggetto di autonome iniziative commerciali da parte degli organizzatori degli eventi, fermo restando quanto previsto dall'articolo 4, comma 3.
+
+Le linee guida individuano altresi' il periodo temporale dopo il quale e' possibile esercitare i diritti audiovisivi di natura secondaria, le modalita' di esercizio dei diritti di trasmissione in diretta delle immagini correlate relativi agli eventi della competizione sui canali degli assegnatari dei diritti audiovisivi e sui canali tematici ufficiali, le modalita' di produzione audiovisiva e i relativi costi, nonche' gli standard qualitativi ed editoriali richiesti alle produzioni audiovisive.
+
+Al fine di valorizzare i diritti audiovisivi relativi agli eventi del campionato di calcio di serie B e di perseguire il migliore risultato economico nella commercializzazione degli stessi, l'assemblea di categoria delle societa' sportive partecipanti al campionato di calcio di serie A favorisce modalita' di commercializzazione integrata dei diritti audiovisivi relativi ai campionati di calcio di serie A e di serie B, ferme restando le disposizioni dell'articolo 3 in materia di titolarita' dei diritti audiovisivi in capo all'organizzatore di ciascuna competizione e agli organizzatori degli eventi che fanno parte della competizione medesima, nonche' le disposizioni del Titolo III in materia di ripartizione delle risorse.
+
+L'Autorita' per le garanzie nelle comunicazioni e l'Autorita' garante della concorrenza e del mercato verificano, per i profili di rispettiva competenza, la conformita' delle linee guida ai principi e alle disposizioni del presente decreto e le approvano entro sessanta giorni dal ricevimento delle stesse.
+
+## Art. 7. — Offerta dei diritti audiovisivi
+
+L'organizzatore della competizione e' tenuto ad offrire i diritti audiovisivi a tutti gli operatori della comunicazione di tutte le piattaforme, attraverso distinte procedure competitive relative al mercato nazionale e, tenuto conto delle relative peculiarita', al mercato internazionale e alla piattaforma radiofonica.
+
+L'organizzatore della competizione e' tenuto a procedere all'offerta dei diritti audiovisivi con congruo anticipo rispetto alla data d'inizio della competizione.
+
+L'organizzatore della competizione non e' tenuto a commercializzare le dirette relative a tutti gli eventi della competizione. Le linee guida di cui all'articolo 6 indicano il numero minimo delle dirette destinate alla commercializzazione.
+
+Al fine di perseguire il miglior risultato nella commercializzazione dei diritti audiovisivi sul mercato nazionale, l'organizzatore della competizione puo' individuare, attraverso un'apposita procedura competitiva, un intermediario indipendente a cui concedere in licenza tutti i diritti audiovisivi relativi ad una competizione. L'organizzatore della competizione non puo' procedere all'assegnazione di tutti i diritti audiovisivi all'intermediario indipendente prima che siano decorsi quarantacinque giorni dalla comunicazione all'Autorita' garante della concorrenza e del mercato dei risultati e dei criteri adottati nella procedura competitiva.
+
+La procedura competitiva di cui al comma 4 e' disciplinata dalle linee guida di cui all'articolo 6 e deve essere resa nota mediante la tempestiva pubblicazione di un avviso sul sito informatico dell'organizzatore della competizione e su almeno due dei principali quotidiani a diffusione nazionale. Alla procedura competitiva devono essere invitati a partecipare tutti gli intermediari indipendenti che ne abbiano fatto richiesta.
+
+Nell'ipotesi di cui al comma 4, l'intermediario indipendente assegnatario dei diritti audiovisivi e' tenuto al rispetto delle disposizioni del presente decreto in materia di commercializzazione dei diritti stessi, nonche' delle linee guida di cui all'articolo 6.
+Fermo restando quanto previsto dal presente articolo e dagli articoli 8, 9 e 10, al fine di perseguire il miglior risultato nella commercializzazione dei diritti audiovisivi, l'intermediario indipendente puo' procedere alla formazione e modifica dei pacchetti, previa approvazione dell'Autorita' per le garanzie nelle comunicazioni e dell'Autorita' garante della concorrenza e del mercato, secondo le modalita' di cui all'articolo 6, comma 6.
+
+Qualora l'organizzatore della competizione, al fine di perseguire il miglior risultato nella commercializzazione dei diritti audiovisivi, sia in ambito nazionale che in ambito internazionale, intenda costituire una o piu' societa' con funzioni di advisor, la partecipazione a tale societa' e' vietata agli operatori della comunicazione e agli intermediari indipendenti che partecipano alle procedure di cui al comma 1, nonche' ai soggetti che operano in qualita' di advisor dell'organizzatore della competizione.
+
+Alla commercializzazione dei diritti audiovisivi relativi alle competizioni delle categorie professionistiche calcistiche inferiori al campionato di serie A e degli altri sport professionistici a squadre oggetto del presente decreto, nonche' quelle relative alle Coppe nazionali e agli ulteriori eventi organizzati sulla base dell'esito delle competizioni, si applicano le disposizioni di cui alle sezioni I, II e III del presente capo, con esclusione degli articoli 8, commi 2 e 3, e 9, comma 4, nonche' le disposizioni di cui alle sezioni IV e V del presente capo ad eccezione dell'articolo 14, comma 4.
+
+## - Sezione II Commercializzazione dei diritti audiovisivi sul mercato nazionale
+
+## Art. 8. — Offerta dei diritti audiovisivi e formazione dei pacchetti
+
+L'organizzatore della competizione e' tenuto ad offrire i diritti audiovisivi mediante piu' procedure competitive, ai fini dell'esercizio degli stessi per singola piattaforma ovvero mettendo in concorrenza le diverse piattaforme, ovvero con entrambe le modalita'.
+
+Nell'ipotesi in cui vengano messe in concorrenza diverse piattaforme, l'organizzatore della competizione e' tenuto a predisporre piu' pacchetti.
+
+L'organizzatore della competizione deve predisporre pacchetti tra loro equilibrati in modo da garantire la presenza, in ciascuno di essi, di eventi della competizione di elevato interesse per gli utenti.
+
+L'organizzatore della competizione fissa il prezzo minimo di ciascun pacchetto al di sotto del quale, previa comunicazione all'Autorita' garante della concorrenza e del mercato, puo' decidere di revocare l'offerta.
+
+## Art. 9. — Assegnazione dei diritti audiovisivi
+
+La partecipazione alle procedure per l'assegnazione dei diritti audiovisivi e' consentita solo agli operatori della comunicazione in possesso del prescritto titolo abilitativo ed agli intermediari indipendenti.
+
+Nell'ipotesi in cui vengano messe in concorrenza piu' piattaforme, la partecipazione alla procedura competitiva e' consentita anche all'operatore della comunicazione in possesso del titolo abilitativo per una sola piattaforma.
+
+Le linee guida di cui all'articolo 6 indicano i requisiti di capacita' tecnica, professionale, economica e finanziaria richiesti agli intermediari indipendenti ai fini della partecipazione alle procedure di cui al comma 1.
+
+E' fatto divieto a chiunque di acquisire in esclusiva tutti i pacchetti relativi alle dirette, fermi restando i divieti previsti in materia di formazione di posizioni dominanti.
+
+## Art. 10. — Contratti di licenza
+
+I contratti di licenza hanno una durata massima di ((cinque)) anni.
+
+L'organizzatore della competizione deve comunque prevedere una durata massima dei contratti di licenza che garantisca la parita' di trattamento di tutti gli operatori della comunicazione.
+
+I contratti di licenza sono vincolanti per tutta la durata prevista dai contratti medesimi, indipendentemente dalle societa' sportive partecipanti a ciascuna competizione in forza dei meccanismi di retrocessione e promozione previsti dai regolamenti sportivi.
+
+## - Sezione III Esercizio dei diritti audiovisivi da parte degli operatori della comunicazione e degli intermediari indipendenti
+
+## Art. 11. — Modalita' di esercizio
+
+Gli operatori della comunicazione sono tenuti ad esercitare i diritti audiovisivi loro assegnati sulla piattaforma per la quale sono in possesso del relativo titolo abilitativo.
+
+In caso di esercizio dei diritti audiovisivi su una piattaforma per la quale l'operatore della comunicazione non risulti in possesso del relativo titolo abilitativo, il contratto di licenza e' risolto.
+In tale caso l'operatore della comunicazione non puo' ripetere il corrispettivo e l'organizzatore della competizione non e' tenuto a versare alcun indennizzo.
+
+Le linee guida di cui all'articolo 6 disciplinano le modalita' di commercializzazione dei diritti audiovisivi rimasti invenduti in modo da consentire anche all'organizzatore dell'evento di commercializzarli o di esercitarli direttamente attraverso il proprio canale tematico ufficiale, relativamente ai soli eventi ai quali la propria squadra partecipa.
+
+Non si applica la disciplina di cui al comma 3 nel caso in cui, per scelta dell'organizzatore della competizione, talune dirette non siano oggetto di commercializzazione ai sensi dell'articolo 7, comma 7.
+
+Nel caso previsto all'articolo 9, comma 2, l'operatore della comunicazione esercita i diritti audiovisivi sulle piattaforme per le quali e' in possesso del relativo titolo abilitativo. In tal caso l'organizzatore della competizione non puo' commercializzare i diritti audiovisivi gia' concessi in licenza e non esercitabili.
+
+L'operatore della comunicazione assegnatario dei diritti audiovisivi non puo' subconcedere in licenza a terzi, in tutto o in parte, tali diritti, ne' cedere, in tutto o in parte, i contratti di licenza, ne' concludere accordi aventi effetti analoghi, salvo quanto previsto dall'articolo 19, comma 1.
+
+L'operatore della comunicazione assegnatario dei diritti audiovisivi puo' concludere, previa autorizzazione, a titolo oneroso e in forma scritta, dell'organizzatore della competizione, accordi non esclusivi aventi ad oggetto la ritrasmissione, in simultanea o in differita, direttamente o da parte di terzi, dei prodotti audiovisivi, e accordi di distribuzione del segnale su altre piattaforme. L'autorizzazione puo' essere concessa a fronte del pagamento di un prezzo congruo e solo laddove non pregiudichi lo sfruttamento dei diritti audiovisivi da parte di altri operatori della comunicazione assegnatari dei diritti concessi in licenza sulle piattaforme per cui si chiede la ritrasmissione dei prodotti audiovisivi o la ridistribuzione del segnale. L'operatore della comunicazione, se autorizzato, deve operare nei confronti dei soggetti terzi, comunque in possesso del prescritto titolo abilitativo, in modo equo, trasparente, non discriminatorio e, in ogni caso, non lesivo della concorrenza.
+
+L'intermediario indipendente assegnatario dei diritti audiovisivi e' tenuto a subconcedere in licenza i diritti stessi senza modificare i pacchetti e con modalita' eque, trasparenti e non discriminatorie, nel rispetto dei principi contenuti nel presente decreto e nelle linee guida di cui all'articolo 6 in materia di assegnazione dei diritti audiovisivi.
+
+## Art. 12. — Tutela degli utenti
+
+Al fine di garantire la fruizione degli eventi da parte degli utenti, l'organizzatore della competizione, in caso di mancato esercizio, anche parziale, da parte dell'assegnatario dei diritti audiovisivi, consente, dietro pagamento di un equo corrispettivo, secondo le modalita' e nei limiti temporali determinati nelle linee guida di cui all'articolo 6, l'acquisizione dei diritti audiovisivi non esercitati da parte di altri operatori della comunicazione, fatto salvo quanto previsto all'articolo 11, comma 4.
+
+Le linee guida di cui all'articolo 6 prevedono forme di agevolazione a favore delle emittenti locali per consentire l'acquisizione dei diritti audiovisivi rimasti invenduti o dei diritti audiovisivi non esercitati, in modo da garantire la fruibilita' degli eventi della competizione in ambito locale, a prezzi commisurati al bacino di utenza.
+
+## Art. 13. — Produzione e distribuzione dei prodotti audiovisivi da parte dell'organizzatore della competizione
+
+Nel rispetto dei principi di libera concorrenza e nei limiti delle disposizioni comunitarie vigenti e fermi restando gli obblighi assunti con i contratti di licenza, l'organizzatore della competizione puo' realizzare una propria piattaforma, previo ottenimento dell'occorrente titolo abilitativo, ovvero realizzare prodotti audiovisivi e distribuirli direttamente agli utenti, attraverso i canali tematici ufficiali ovvero attraverso un proprio canale tematico, accedendo ai necessari servizi tecnici e commerciali a condizioni eque, trasparenti, non discriminatorie e orientate ai costi.
+
+## - Sezione IV Commercializzazione dei diritti audiovisivi sulle piattaforme emergenti e sulla piattaforma radiofonica
+
+## Art. 14. — Piattaforme emergenti
+
+L'Autorita' per le garanzie nelle comunicazioni individua, periodicamente e con cadenza almeno biennale, le piattaforme emergenti, tenendo conto anche delle analisi di mercato previste dal titolo I, capo II, del decreto legislativo 1° agosto 2003, n. 259.
+
+Alla commercializzazione dei diritti audiovisivi destinati alle piattaforme emergenti si applicano le disposizioni di cui alle sezioni I, II e III del presente capo, salvo quanto previsto nel presente articolo.
+
+I diritti audiovisivi destinati alle piattaforme emergenti sono offerti su base non esclusiva.
+
+L'organizzatore della competizione, al fine di sostenere lo sviluppo e la crescita delle piattaforme emergenti, e' tenuto a concedere in licenza direttamente a tali piattaforme diritti audiovisivi, ivi inclusa una quota rilevante dei diritti relativi alla prima messa in onda, adatti alle caratteristiche tecnologiche di ciascuna di esse, a prezzi commisurati all'effettiva utilizzazione, da parte degli utenti di ciascuna piattaforma, dei prodotti audiovisivi.
+
+Al fine di evitare la formazione di posizioni dominanti, la commercializzazione dei diritti audiovisivi destinati alle piattaforme emergenti avviene per singola piattaforma.
+
+Le disposizioni di cui ai commi 4 e 5 si applicano anche all'intermediario indipendente assegnatario dei diritti audiovisivi ai sensi dell'articolo 7, comma 4.
+
+La partecipazione alle procedure per l'assegnazione dei diritti audiovisivi e' consentita agli operatori della comunicazione in possesso del prescritto titolo abilitativo e che abbiano effettivamente esercitato il predetto titolo avendo stipulato accordi con gli operatori di rete prima dell'inizio delle procedure competitive, e agli intermediari indipendenti.
+
+## Art. 15. — Piattaforma radiofonica
+
+Alla commercializzazione dei diritti audio destinati alla piattaforma radiofonica si applicano le disposizioni di cui alle sezioni I, II e III del presente capo, salvo quanto previsto nel presente articolo.
+
+L'organizzatore della competizione, limitatamente alle trasmissioni in lingua italiana, puo' predisporre per i mercati nazionale e internazionale un solo pacchetto, da assegnare ad un solo operatore della comunicazione.
+
+Le linee guida di cui all'articolo 6 fissano i criteri per l'acquisizione in forma non esclusiva da parte delle emittenti radiofoniche operanti in ambito nazionale di brevi estratti in diretta degli eventi della competizione, purche' la loro durata non pregiudichi lo sfruttamento del pacchetto nazionale ed internazionale.
+
+Al fine di salvaguardare le esigenze delle emittenti locali, le linee guida di cui all'articolo 6 individuano i diritti audio il cui esercizio e' riservato agli organizzatori degli eventi.
+
+## - Sezione V Commercializzazione dei diritti audiovisivi sul mercato internazionale
+
+## Art. 16. — Commercializzazione dei diritti audiovisivi sul mercato internazionale
+
+Alla commercializzazione dei diritti audiovisivi destinati al mercato internazionale ((non si applicano le disposizioni di cui alle sezioni I, II e III del presente capo, salvo quanto disposto dagli articoli 6, per la parte applicabile alla commercializzazione sul mercato internazionale, 7, comma 7, e)), salvo quanto previsto nel presente articolo.
+
+L'organizzatore della competizione disciplina nelle linee guida di cui all'articolo 6 la commercializzazione dei diritti audiovisivi sul mercato internazionale, prevedendo modalita' tese a consentire la fruizione degli eventi delle competizioni da parte delle comunita' italiane residenti all'estero e a valorizzare l'immagine della competizione medesima.
+
+((COMMA ABROGATO DAL D.L. 30 APRILE 2022, N. 36, CONVERTITO CON MODIFICAZIONI DALLA L. 29 GIUGNO 2022, N. 79)).
+
+((COMMA ABROGATO DAL D.L. 30 APRILE 2022, N. 36, CONVERTITO CON MODIFICAZIONI DALLA L. 29 GIUGNO 2022, N. 79)).
+
+## Art. 17. — Misure di protezione delle immagini degli eventi della competizione
+
+I contratti di licenza devono contenere clausole aventi ad oggetto l'obbligo degli operatori della comunicazione di garantire la protezione delle immagini degli eventi della competizione, anche attraverso misure che prevengano indebite captazioni delle immagini, indebite immissioni delle stesse nelle reti di comunicazione elettronica e indebite ritrasmissioni del segnale dal territorio estero in quello italiano e viceversa.
+
+## - Capo III Tutela dei diritti audiovisivi
+
+## Art. 18. — Legittimazione ad agire
+
+Fermo restando quanto previsto dall'articolo 28, la tutela dei diritti audiovisivi di cui all'articolo 3, comma 1, spetta al solo organizzatore della competizione, fatta salva la legittimazione ad agire degli organizzatori dei singoli eventi in relazione ai diritti secondari oggetto di autonome iniziative commerciali da parte di costoro ai sensi degli articoli 4, comma 3, 6, comma 3, e 11, comma 3.
+
+((
+
+I licenziatari che hanno stipulato contratti di licenza con gli organizzatori della competizione o con gli organizzatori degli eventi sono legittimati ad agire in giudizio nel caso di violazione dei diritti audiovisivi oggetto della licenza trasmessi o diffusi sulle reti di comunicazione e ad ottenere che sia vietato il proseguimento della violazione. Sussiste in ogni caso il litisconsorzio necessario con i soggetti di cui al comma 1.
+
+1-ter. Il giudice, su istanza della parte legittimata ad agire ai sensi dei commi 1 e 1-bis, dispone misure idonee ad impedire la reiterazione delle violazioni del diritto d'autore e dei diritti connessi, anche per l'intera durata della competizione e per ciascuno dei suoi eventi))
+
+## - Capo IV Vigilanza e controllo
+
+## Art. 19. — Autorita' per le garanzie nelle comunicazioni
+
+Ferme restando le competenze generali e quelle previste dal presente decreto, l'Autorita' per le garanzie nelle comunicazioni e l'Autorita' garante della concorrenza e del mercato, tenuto conto dell'evoluzione tecnologica delle piattaforme e della necessita' di garantire la concorrenza nel mercato dei diritti audiovisivi, provvedono, ciascuna per i profili di competenza, sulle richieste dell'organizzatore della competizione volte a consentire limitate deroghe ai divieti di cui all'articolo 11, comma 6.
+
+Entro novanta giorni dalla data di entrata in vigore del presente decreto, l'Autorita' per le garanzie nelle comunicazioni delibera, nel rispetto dei principi della legge 7 agosto 1990, n. 241, in materia di procedure istruttorie e di criteri di accertamento, per le attivita' ad essa demandate dal presente decreto legislativo, nonche' le opportune modifiche organizzative interne finalizzate a dare attuazione al presente decreto legislativo anche mediante un'apposita struttura.
+
+## Art. 20. — Autorita' garante della concorrenza e del mercato
+
+Ferme restando le competenze generali e quelle previste dal presente decreto, l'Autorita' garante della concorrenza e del mercato, al fine di garantire la concorrenza nel mercato dei diritti audiovisivi, vigila sulla corretta applicazione del presente decreto e delle linee guida di cui all'articolo 6, avvalendosi dei poteri di cui alla legge 10 ottobre 1990, n. 287.
+
+## - Titolo III RIPARTIZIONE DELLE RISORSE ASSICURATE DAL MERCATO DEI DIRITTI AUDIOVISIVI
+
+## Art. 21. — (Ripartizione delle risorse)
+
+Le risorse economiche e finanziarie derivanti dalla commercializzazione dei diritti, di cui all'articolo 3, comma 1, sono ripartite, previa deduzione delle quote di cui all'articolo 22, tra tutti i soggetti partecipanti alla competizione, secondo i criteri indicati negli articoli 25 e 26. Le risorse economiche e finanziarie derivanti dalla commercializzazione dei diritti audiovisivi di natura secondaria oggetto di autonome iniziative commerciali ai sensi degli articoli 4, comma 3, e 11, comma 3, spettano agli organizzatori degli eventi. ((4))
+
+-------------
+                            AGGIORNAMENTO (4)
+                            
+ Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 11, comma 2-bis) che "Gli articoli 21 e 22 del decreto legislativo 9 gennaio 2008, n. 9, come modificati dal decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1º dicembre 2016, n. 225, si applicano a decorrere dal 1º luglio 2017. Fino al 30 giugno 2017 si applicano gli articoli 21, 22, 23 e 24 del decreto legislativo 9 gennaio 2008, n. 9, nel testo vigente prima della data di entrata in vigore della legge 1º dicembre 2016, n. 225".
+
+## Art. 22. — (Mutualita' generale)
+
+L'organizzatore delle competizioni facenti capo alla Lega di serie A destina una quota del 10 per cento delle risorse economiche e finanziarie derivanti da tutti i contratti stipulati per la commercializzazione dei diritti di cui all'articolo 3, comma 1, esclusivamente per lo sviluppo dei settori giovanili delle societa', per la formazione e per l'utilizzo di calciatori convocabili per le squadre nazionali giovanili italiane maschili e femminili, per il sostegno degli investimenti per gli impianti sportivi ((...)) e delle attivita' giovanili ((...)).
+
+La quota di cui al comma 1 e' destinata ((al soggetto che organizza il campionato professionistico di Serie A femminile)), che determina i criteri e le modalita' di erogazione secondo le finalita' di cui al comma 1, previa rendicontazione certificata da parte dei destinatari. Tali fondi sono destinati: nella misura del 6 per cento alla Lega di serie B; nella misura del 2 per cento alla Lega Pro; nella misura dell'1 per cento alla Lega nazionale dilettanti; nella misura dell'1 per cento alla Federazione italiana giuoco calcio.
+
+La Federazione italiana giuoco calcio presenta al Presidente del Consiglio dei ministri ovvero, se nominato, al Sottosegretario di Stato alla Presidenza del Consiglio dei ministri con delega allo sport, entro il 31 gennaio di ogni anno, una relazione sull'attivita' svolta nell'anno sportivo precedente.
+
+Al fine di incentivare l'ammodernamento degli impianti calcistici, in regime di proprieta' o di concessione amministrativa, in favore delle societa' appartenenti alla Lega di serie B, alla Lega Pro e alla Lega nazionale dilettanti che hanno beneficiato della mutualita' e' riconosciuto un contributo, sotto forma di credito d'imposta, nella misura del 12 per cento dell'ammontare degli interventi di ristrutturazione degli impianti medesimi, sino a un massimo di 25.000 euro, realizzati mediante l'impiego delle somme di cui al comma 1 entro il terzo periodo d'imposta successivo alla loro attribuzione. Il contributo e' riconosciuto nel rispetto del regolamento (UE) n. 1407/2013 della Commissione, del 18 dicembre 2013, relativo all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea agli aiuti "de minimis". Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente disposizione, sono individuate le modalita' di attuazione dell'incentivo anche al fine del rispetto del limite di spesa di 4 milioni di euro annui a decorrere dal 2018. 
+ (4)
+
+-------------
+                            AGGIORNAMENTO (4)
+                            
+ Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 11, comma 2-bis) che "Gli articoli 21 e 22 del decreto legislativo 9 gennaio 2008, n. 9, come modificati dal decreto-legge 22 ottobre 2016, n. 193, convertito, con modificazioni, dalla legge 1º dicembre 2016, n. 225, si applicano a decorrere dal 1º luglio 2017. Fino al 30 giugno 2017 si applicano gli articoli 21, 22, 23 e 24 del decreto legislativo 9 gennaio 2008, n. 9, nel testo vigente prima della data di entrata in vigore della legge 1º dicembre 2016, n. 225".
+
+## Art. 23.
+
+ARTICOLO ABROGATO DAL D.L. 22 OTTOBRE 2016, N. 193, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2016, N. 225 ((4))
+
+--------------
+                            AGGIORNAMENTO (4)
+                            
+ Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 11, comma 2-bis) che "Fino al 30 giugno 2017 si applicano gli articoli 21, 22, 23 e 24 del decreto legislativo 9 gennaio 2008, n. 9, nel testo vigente prima della data di entrata in vigore della legge 1º dicembre 2016, n. 225".
+
+## Art. 24.
+
+ARTICOLO ABROGATO DAL D.L. 22 OTTOBRE 2016, N. 193, CONVERTITO CON MODIFICAZIONI DALLA L. 1 DICEMBRE 2016, N. 225 ((4))
+
+--------------
+                            AGGIORNAMENTO (4)
+                            
+ Il D.L. 30 dicembre 2016, n. 244, convertito con modificazioni dalla L. 27 febbraio 2017, n. 19, ha disposto (con l'art. 11, comma 2-bis) che "Fino al 30 giugno 2017 si applicano gli articoli 21, 22, 23 e 24 del decreto legislativo 9 gennaio 2008, n. 9, nel testo vigente prima della data di entrata in vigore della legge 1º dicembre 2016, n. 225".
+
+## Art. 25. — Ripartizione delle risorse fra i soggetti partecipanti a ciascuna competizione
+
+La ripartizione delle risorse fra i soggetti partecipanti a ciascuna competizione e' effettuata in modo da garantire l'attribuzione in parti uguali di una quota prevalente, nonche' l'attribuzione delle restanti quote anche in base al bacino di utenza e ai risultati sportivi conseguiti da ciascuno di essi.
+
+La quota delle risorse da distribuire in parti uguali fra tutti i partecipanti a ciascuna competizione non puo' essere comunque inferiore al 40 per cento.
+
+La quota determinata sulla base del risultato sportivo non puo' essere inferiore alla quota determinata sulla base del bacino d'utenza.
+
+Fermo restando quanto previsto dall'articolo 26, i criteri di ripartizione delle risorse fra i soggetti partecipanti alla competizione sono determinati con deliberazione adottata dall'assemblea di categoria dell'organizzatore della competizione medesima con la maggioranza qualificata dei tre quarti degli aventi diritto al voto.
+
+## Art. 26. — (Ripartizione delle risorse del Campionato di calcio di serie A)
+
+, e' determinata sulla base dei seguenti criteri:
+
+a) la classifica e i punti conseguiti nell'ultimo campionato;
+
+b) i risultati conseguiti negli ultimi cinque campionati;
+
+c) i risultati conseguiti a livello nazionale a partire dalla stagione sportiva 1946/ 1947))
+
+((6))
+
+((3. La quota di cui al comma 1, lettera c), e' determinata sulla base dei seguenti criteri:
+
+a) il pubblico di riferimento di ciascuna squadra, calcolato tenendo in considerazione il numero degli spettatori paganti che hanno assistito dal vivo alle gare casalinghe disputate negli ultimi tre campionati;
+
+b) l'audience televisiva certificata;
+
+c) i minuti giocati nel campionato di serie A da giocatori di eta' compresa tra quindici e ventitre' anni, formati nei settori giovanili italiani e che siano tesserati da almeno trentasei mesi ininterrotti per la societa' presso la quale prestano l'attivita' sportiva, comprendendo nel computo eventuali periodi di cessione a titolo temporaneo a favore di altre societa' partecipanti ai campionati di serie A o di serie B o delle seconde squadre partecipanti al campionato di serie C))
+
+((6))
+
+((3-bis. La quota prevista in base ai criteri di cui alla lettera c) del comma 3 non puo' essere inferiore al 5 per cento della quota complessiva del 22 per cento di cui al comma 1, lettera c). Essa spetta alle societa' presso le quali il giocatore sia stato tesserato in Italia dal compimento del sedicesimo anno di eta', in proporzione alla durata del tesseramento presso ciascuna di esse))
+
+((6))
+
+(( 4. Con decreto del Presidente del Consiglio dei ministri sono determinati:
+
+a) le quote percentuali relative ai diversi criteri indicati al comma 1, lettere b) e c);
+
+b) i criteri di ponderazione delle quote di cui al comma 2;
+
+c) i criteri per la determinazione del pubblico di riferimento di ciascuna squadra, di cui al comma 3, lettera a), e dei minuti giocati dai giovani calciatori, di cui al comma 3, lettera c) ))
+
+((6))
+
+---------------
+                            AGGIORNAMENTO (6)
+                            
+ La L. 30 dicembre 2018, n. 145 ha disposto (con l'art. 1, comma 642) che le modifiche di cui al presente articolo "acquistano efficacia a decorrere dalla stagione sportiva 2021/2022. Fino a tale decorrenza, le disposizioni dell'articolo 26 del decreto legislativo 9 gennaio 2008, n. 9, continuano ad applicarsi nel testo vigente prima della data di entrata in vigore della presente legge".
+
+## - Titolo IV DISPOSIZIONI TRANSITORIE DI COORDINAMENTO E FINALI
+
+## Art. 27. — Disciplina del periodo transitorio
+
+Gli effetti dei contratti di licenza, cessione o alienazione dei diritti audiovisivi di cui all'articolo 3, comma 1, in corso alla data di entrata in vigore del presente decreto e stipulati prima del 31 maggio 2006, sono fatti salvi fino al 30 giugno 2010, anche se tali effetti derivano dall'esercizio di diritti di opzione o prelazione contenuti nei predetti contratti o in contratti ad essi collegati stipulati prima del 31 maggio 2006.
+
+Gli effetti dei contratti di licenza, cessione, o alienazione dei diritti audiovisivi di cui all'articolo 3, comma 1, stipulati dopo il 31 maggio 2006 e fino alla data di entrata in vigore del presente decreto da soggetti diversi da quelli titolari dei contratti di licenza di cui al comma 1 ovvero dagli stessi soggetti di cui al comma 1 ma aventi un diverso oggetto, sono fatti salvi fino al 30 giugno 2010, anche se tali effetti derivano dall'esercizio di diritti di opzione o prelazione contenuti nei predetti contratti o in contratti ad essi collegati.
+
+Sono parimenti fatti salvi sino al 30 giugno 2010 gli effetti dei contratti di cessione e di sublicenza con cui gli operatori della comunicazione e gli intermediari indipendenti trasferiscono ad altri operatori della comunicazione i diritti audiovisivi di cui all'articolo 3, comma 1, acquisiti in virtu' dei contratti di cui ai commi 1 e 2.
+
+Gli organizzatori degli eventi non titolari di contratti di licenza alla data di entrata in vigore del presente decreto possono stipulare, previa autorizzazione dell'organizzatore della competizione, contratti di licenza aventi durata fino al 30 giugno 2010.
+
+Al fine di garantire una equa ripartizione delle risorse economiche e finanziarie derivanti dai contratti di cui ai commi 1, 2 e 3, i soggetti partecipanti al campionato di calcio di serie A redistribuiscono all'interno della propria categoria una quota percentuale crescente del totale delle risorse assicurate dalla contrattazione individuale dei diritti audiovisivi, determinata prioritariamente dall'Assemblea di categoria entro sessanta giorni dalla data di entrata in vigore del presente decreto, con delibera adottata con la maggioranza qualificata dei tre quarti degli aventi diritto al voto.
+
+Le disposizioni di cui agli articoli 22, comma 2, e 24 si applicano a partire dalla stagione sportiva 2010/2011.
+
+Al fine di consentire una applicazione graduale del principio di mutualita' generale, e' destinata alla Fondazione di cui all'articolo 23, per ciascuna delle stagioni sportive 2008/2009 e 2009/2010, una quota percentuale delle somme derivanti dai contratti di licenza, cessione o alienazione dei diritti audiovisivi sottoscritti per le medesime stagioni, anche a titolo individuale ed anche se derivanti dall'esercizio di diritti di opzione o prelazione, determinata prioritariamente dall'organizzatore del campionato di calcio di serie A entro sessanta giorni dalla data di entrata in vigore del presente decreto con delibera adottata con la maggioranza qualificata dei tre quarti degli aventi diritto al voto.
+
+Al fine di consentire una applicazione graduale del principio di mutualita' per le categorie inferiori di cui all'articolo 24, e' destinata alle predette categorie una quota percentuale delle somme derivanti dai contratti di licenza, cessione o alienazione dei diritti audiovisivi sottoscritti per le medesime stagioni, anche a titolo individuale ed anche se derivanti dall'esercizio di diritti di opzione o prelazione, determinata prioritariamente dall'organizzatore del campionato di calcio di serie A entro sessanta giorni dalla data di entrata in vigore del presente decreto con delibera adottata con la maggioranza qualificata dei tre quarti degli aventi diritto al voto.
+
+## Art. 28. — Disposizione di coordinamento
+
+Al titolo II della legge 22 aprile 1941, n. 633, dopo l'articolo 78-ter e' inserito il seguente capo:
+
+ «Capo I-ter
+
+ Diritti audiovisivi sportivi
+ Art. 78-quater.
+ Ai diritti audiovisivi sportivi di cui alla legge 19 luglio 2007, n. 106, e relativi decreti legislativi attuativi si applicano le disposizioni della presente legge, in quanto compatibili.».
+
+## Art. 29. — Norme finanziarie
+
+Dall'attuazione del presente decreto non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
+
+All'onere derivante dal funzionamento della struttura di cui all'articolo 19, comma 2, si provvede mediante un contributo di importo annuale non superiore allo 0,50 per mille dei ricavi di ciascun anno derivanti dalla commercializzazione dei diritti audiovisivi da parte dell'organizzatore della competizione. Il contributo e' versato entro il 31 luglio di ogni anno nella misura e secondo le modalita' stabilite dall'Autorita' per le garanzie nelle comunicazioni, ai sensi dell'articolo 1, commi 65 e 66, della legge 23 dicembre 2005, n. 266. ((2))
+
+--------------
+                            AGGIORNAMENTO (2)
+                            
+ La Delibera 18 ottobre 2012 (in G.U. 6/4/2013, n. 81) ha disposto (con l'art. 1, comma 1) che "Per l'anno 2012, la contribuzione di cui all'art. 29, comma 2, del decreto legislativo 9 gennaio 2008, n. 9, dovuta all'Autorita' dai soggetti organizzatori di competizioni sportive professionistiche a squadre, ovvero, per i campionati di pallacanestro, la Lega Societa' di Pallacanestro serie A e, per i campionati di calcio, la Lega Nazionale Professionisti Serie A, la Lega Nazionale Professionisti Serie B e la Lega Italiana Calcio Professionistico e' fissata in misura pari allo 0,3 per mille dei ricavi lordi derivanti dalla commercializzazione dei diritti audiovisivi sportivi conseguiti in riferimento alla stagione sportiva 2011/12, risultanti dall'ultimo bilancio o altra scrittura contabile o fiscale obbligatoria approvati prima dell'adozione della presente delibera".
+
+## Art. 30. — Abrogazioni
+
+E' abrogato l'articolo 2, comma 1, del decreto-legge 30 gennaio 1999, n. 15, convertito, con modificazioni, dalla legge 29 marzo 1999, n. 78.
+ Il presete decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+ Dato a Roma, addi' 9 gennaio 2008
+
+ NAPOLITANO
+ Prodi, Presidente del Consiglio dei Ministri
+ Melandri, Ministro per le politiche giovanili e le attivita' sportive
+ Gentiloni Silveri, Ministro delle comunicazioni
+ Padoa Schioppa, Ministro dell'economia e delle finanze
+ Bonino, Ministro per le politiche europee
+ Bersani, Ministro dello sviluppo economico
+Visto, il Guardasigilli: Mastella
+

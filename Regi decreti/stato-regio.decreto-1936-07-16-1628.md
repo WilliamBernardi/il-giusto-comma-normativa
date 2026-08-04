@@ -1,0 +1,45 @@
+---
+tipo: REGIO DECRETO
+numero: 1628
+data: 1936-07-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1936-07-16;1628
+codice_redazionale: 036U1628
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:36Z
+---
+
+REGIO DECRETO
+                16 luglio 1936
+                1628
+                Dichiarazione formale dei fini di n. 7 Confraternite della provincia di Benevento. (036U1628)
+
+Entrata in vigore del provvedimento: 24/09/1936
+
+## Art. 1.
+
+N.
+
+R. decreto 16 luglio 1936, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene provveduto all'accertamento dello scopo prevalente di culto nei riguardi delle seguenti Confraternite in provincia di Benevento: 
+ 
+ 1. Castelfranco in Miscano - Congrega di. S. Rocco. 
+ 
+ 2. Moiano - Arciconfraternita del SS.mo Purgatorio. 
+ 
+ 3. Moiano - Confraternita di Maria SS. Immacolata nella frazione Luzzano. 
+ 
+ 4. Piedimonte d'Alife - Confraternita della Immacolata Concezione. 
+ 
+ 5. S. Agata dei Goti - Confraternita del SS.mo Rosario. 
+ 
+ 6. S. Agata dei Goti - Confraternita della SS,ma Addolorata: 
+ 
+ 7. S. Angelo d'Alife - Confraternita, del SS.mo Rosario. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 28 agosto 1936 - Anno XIV.
+

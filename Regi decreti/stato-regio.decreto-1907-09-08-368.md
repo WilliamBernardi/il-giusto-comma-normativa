@@ -1,0 +1,101 @@
+---
+tipo: REGIO DECRETO
+data: 1907-09-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1907-09-08;368
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:48Z
+---
+
+REGIO DECRETO
+                08 settembre 1907
+                CCCLXVIII
+                Che istituisce in Fuscaldo una regia scuola professionale di disegno e intaglio. (0700368R)
+
+Entrata in vigore del provvedimento: 17/10/1907
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Riconosciuta l'opportunita' di riordinare e trasformare la scuola di disegno e plastica di Fuscaldo;
+
+## Art. 1.
+
+E' istituita in Fuscaldo una regia scuola professionale di disegno e intaglio allo scopo di fornire insegnamenti tecnici ed artistici ai giovani che vogliono dedicarsi alle arti del falegname ebanista, e dello scalpellino, del fabbro, del muratore.
+
+## Art. 2.
+
+Alle spese di mantenimento annuo della regia scuola concorrono il Ministero di agricoltura, industria e commercio con lire 4,500, il comune di Fuscaldo con lire
+
+Il comune di Fuscaldo si obbliga inoltre di fornire adatti locali per sede della scuola e dei laboratori. 
+ 
+ Sono pure destinati al mantenimento della regia scuola gli assegni che fossero concessi da altri enti, come pure i proventi delle tasse scolastiche, nonche' gli utili dei laboratori.
+
+## Art. 3.
+
+La regia scuola ha un corso diurno di tre anni. Possono esservi ammessi gli alunni prosciolti dall'obbligo dell'istruzione elementare, che non abbiano oltrepassato il sedicesimo anno di eta'. 
+ 
+ Al termine dei tre anni agli allievi approvati negli esami e' rilasciato un certificato di licenza, che apre l'adito all'ammissione senza esame nelle scuole industriali di secondo grado designate dal Ministero. 
+ 
+ Per passare da una classe all'altra superiore occorre l'approvazione negli esami di promozione. 
+ 
+ Gli allievi che conseguono la licenza prima del 17° anno possono essere autorizzati a continuare a frequentare sino al 18° anno i laboratori della scuola, per perfezionarsi nell'arte. 
+ 
+ E' aggiunto alla scuola un corso serale e festivo, al quale potranno essere ammessi gli adulti che siano gia' occupati come operai.
+
+## Art. 4.
+
+La scuola fornisce i seguenti insegnamenti: 
+ 
+ Italiano; 
+ 
+ Elementi di storia moderna e di geografia; 
+ 
+ Diritti e doveri dei cittadini, con cenni sui principali istituti e sulle leggi sociali; 
+ 
+ Aritmetica; 
+ 
+ Disegno geometrico; 
+ 
+ Disegno di ornato e architettonico; 
+ 
+ Modellazione e plastica. 
+ 
+ Per le esercitazioni pratiche la scuola ha speciali laboratori. 
+ 
+ Potranno essere aggiunti dal ministro nuovi insegnamenti, come pure nuove sezioni, laboratori ed officine entro i limiti dei fondi disponibili e sentita la giunta di vigilanza.
+
+## Art. 5.
+
+L'amministrazione della scuola e' affidata ad una giunta di vigilanza, della quale fanno parte due rappresentanti del Ministero, uno del comune di Fuscaldo ed il direttore della scuola. 
+ 
+ Altri enti che si obbligheranno con regolari deliberazioni a concorrere con la somma annua di almeno lire 500 al mantenimento della scuola, avranno diritto di avere un proprio delegato nella giunta di vigilanza.
+
+## Art. 6.
+
+In applicazione dell'art. 236 del regolamento approvato con regio decreto 24 dicembre 1906 e in deroga alle disposizioni dell'art. 231 le attribuzioni del collegio degli insegnanti sono delegate alla giunta di vigilanza. 
+ 
+ Alle adunanze tenute da questa con le funzioni del collegio degli insegnanti prenderanno parte con voto deliberativo il direttore, gli insegnanti e i capi di laboratorio e d'officina.
+
+## Art. 7.
+
+Per tutto quanto non e' stato specialmente disposto col presente decreto si osserveranno le prescrizioni del regolamento approvato con regio decreto 24 dicembre 1906, n. 670, per l'esecuzione della legge 25 giugno 1906, numero 255, sui provvedimenti speciali a favore delle Categorie. 
+ 
+ Ordiniamo che il presente devi essere munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delleleggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Racconigi, addi' 8 settembre 1907. 
+ 
+ VITTORIO EMANUELE 
+ 
+ Registrato alla Corte dei conti addi' 27 settembre 1907. 
+ 
+ Reg. 37. Atti del Governo a f. 75. Pacini. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli ORLANDO. 
+ 
+ F. Cocco-Ortu.
+

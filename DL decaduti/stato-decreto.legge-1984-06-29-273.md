@@ -1,0 +1,67 @@
+---
+tipo: DECRETO-LEGGE
+numero: 273
+data: 1984-06-29
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1984-06-29;273
+codice_redazionale: 084U0273
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1984-12-22
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                29 giugno 1984
+                273
+                Misure urgenti a sostegno e ad incremento dei livelli occupazionali.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 19 DICEMBRE 1984, N. 863
+

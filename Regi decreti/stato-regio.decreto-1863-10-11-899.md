@@ -1,0 +1,942 @@
+---
+tipo: REGIO DECRETO
+data: 1863-10-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1863-10-11;899
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:41Z
+---
+
+REGIO DECRETO
+                11 ottobre 1863
+                DCCCXCIX
+                Col quale e' autorizzata la Regia Compagnia delle ferrovie di Sardegna ed approvati i relativi Statuti. (6300899R)
+
+Entrata in vigore del provvedimento: 06/11/1863
+ Gli Allegati annessi al provvedimento sono stati pubblicati successivamente nel SO relativo alla GU n. 256 del 29-10-1863.
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+### Art. 1.
+
+Statuti-art. 1
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 2.
+
+Statuti-art. 2
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 3.
+
+Statuti-art. 3
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 4.
+
+Statuti-art. 4
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 5.
+
+Statuti-art. 5
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 6.
+
+Statuti-art. 6
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 7.
+
+Statuti-art. 7
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 8.
+
+Statuti-art. 8
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 9.
+
+Statuti-art. 9
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 10.
+
+Statuti-art. 10
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 11.
+
+Statuti-art. 11
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 12.
+
+Statuti-art. 12
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 13.
+
+Statuti-art. 13
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 14.
+
+Statuti-art. 14
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 15.
+
+Statuti-art. 15
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 16.
+
+Statuti-art. 16
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 17.
+
+Statuti-art. 17
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 18.
+
+Statuti-art. 18
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 19.
+
+Statuti-art. 19
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 20.
+
+Statuti-art. 20
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 21.
+
+Statuti-art. 21
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 22.
+
+Statuti-art. 22
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 23.
+
+Statuti-art. 23
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 24.
+
+Statuti-art. 24
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 25.
+
+Statuti-art. 25
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 26.
+
+Statuti-art. 26
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 27.
+
+Statuti-art. 27
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 28.
+
+Statuti-art. 28
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 29.
+
+Statuti-art. 29
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 30.
+
+Statuti-art. 30
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 31.
+
+Statuti-art. 31
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 32.
+
+Statuti-art. 32
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 33.
+
+Statuti-art. 33
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 34.
+
+Statuti-art. 34
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 35.
+
+Statuti-art. 35
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 36.
+
+Statuti-art. 36
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 37.
+
+Statuti-art. 37
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 38.
+
+Statuti-art. 38
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 39.
+
+Statuti-art. 39
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 40.
+
+Statuti-art. 40
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 41.
+
+Statuti-art. 41
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 42.
+
+Statuti-art. 42
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 43.
+
+Statuti-art. 43
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 44.
+
+Statuti-art. 44
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 45.
+
+Statuti-art. 45
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 46.
+
+Statuti-art. 46
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 47.
+
+Statuti-art. 47
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 48.
+
+Statuti-art. 48
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 49.
+
+Statuti-art. 49
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 50.
+
+Statuti-art. 50
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 51.
+
+Statuti-art. 51
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 52.
+
+Statuti-art. 52
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 53.
+
+Statuti-art. 53
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 54.
+
+Statuti-art. 54
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 55.
+
+Statuti-art. 55
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 56.
+
+Statuti-art. 56
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 57.
+
+Statuti-art. 57
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 58.
+
+Statuti-art. 58
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 59.
+
+Statuti-art. 59
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 60.
+
+Statuti-art. 60
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 61.
+
+Statuti-art. 61
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 62.
+
+Statuti-art. 62
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 63.
+
+Statuti-art. 63
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 64.
+
+Statuti-art. 64
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 65.
+
+Statuti-art. 65
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 66.
+
+Statuti-art. 66
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 67.
+
+Statuti-art. 67
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 68.
+
+Statuti-art. 68
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 69.
+
+Statuti-art. 69
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 70.
+
+Statuti-art. 70
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 71.
+
+Statuti-art. 71
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 72.
+
+Statuti-art. 72
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 73.
+
+Statuti-art. 73
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 74.
+
+Statuti-art. 74
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 75.
+
+Statuti-art. 75
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 76.
+
+Statuti-art. 76
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 77.
+
+Statuti-art. 77
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 78.
+
+Statuti-art. 78
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 79.
+
+Statuti-art. 79
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 80.
+
+Statuti-art. 80
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 81.
+
+Statuti-art. 81
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 82.
+
+Statuti-art. 82
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 83.
+
+Statuti-art. 83
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 84.
+
+Statuti-art. 84
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 85.
+
+Statuti-art. 85
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 86.
+
+Statuti-art. 86
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 87.
+
+Statuti-art. 87
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 88.
+
+Statuti-art. 88
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 89.
+
+Statuti-art. 89
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 90.
+
+Statuti-art. 90
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 91.
+
+Statuti-art. 91
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 92.
+
+Statuti-art. 92
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 93.
+
+Statuti-art. 93
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 94.
+
+Statuti-art. 94
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 95.
+
+Statuti-art. 95
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 96.
+
+Statuti-art. 96
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 97.
+
+Statuti-art. 97
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 98.
+
+Statuti-art. 98
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 99.
+
+Statuti-art. 99
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 100.
+
+Statuti-art. 100
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 101.
+
+Statuti-art. 101
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 102.
+
+Statuti-art. 102
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 103.
+
+Statuti-art. 103
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 104.
+
+Statuti-art. 104
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 105.
+
+Statuti-art. 105
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 106.
+
+Statuti-art. 106
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 107.
+
+Statuti-art. 107
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 108.
+
+Statuti-art. 108
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 109.
+
+Statuti-art. 109
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 110.
+
+Statuti-art. 110
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 111.
+
+Statuti-art. 111
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 112.
+
+Statuti-art. 112
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 113.
+
+Statuti-art. 113
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 114.
+
+Statuti-art. 114
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 115.
+
+Statuti-art. 115
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 116.
+
+Statuti-art. 116
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 117.
+
+Statuti-art. 117
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 118.
+
+Statuti-art. 118
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 119.
+
+Statuti-art. 119
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 120.
+
+Statuti-art. 120
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 121.
+
+Statuti-art. 121
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 122.
+
+Statuti-art. 122
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 123.
+
+Statuti-art. 123
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 124.
+
+Statuti-art. 124
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 125.
+
+Statuti-art. 125
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 126.
+
+Statuti-art. 126
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 127.
+
+Statuti-art. 127
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 128.
+
+Statuti-art. 128
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 129.
+
+Statuti-art. 129
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 130.
+
+Statuti-art. 130
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 131.
+
+Statuti-art. 131
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 132.
+
+Statuti-art. 132
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 133.
+
+Statuti-art. 133
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 134.
+
+Statuti-art. 134
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 135.
+
+Statuti-art. 135
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 136.
+
+Statuti-art. 136
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 137.
+
+Statuti-art. 137
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 138.
+
+Statuti-art. 138
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 139.
+
+Statuti-art. 139
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 140.
+
+Statuti-art. 140
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 141.
+
+Statuti-art. 141
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 142.
+
+Statuti-art. 142
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 143.
+
+Statuti-art. 143
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 144.
+
+Statuti-art. 144
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 145.
+
+Statuti-art. 145
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 146.
+
+Statuti-art. 146
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 147.
+
+Statuti-art. 147
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 148.
+
+Statuti-art. 148
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 149.
+
+Statuti-art. 149
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 150.
+
+Statuti-art. 150
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 151.
+
+Statuti-art. 151
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 152.
+
+Statuti-art. 152
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 153.
+
+Statuti-art. 153
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 154.
+
+Statuti-art. 154
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 155.
+
+Statuti-art. 155
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 156.
+
+Statuti-art. 156
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 157.
+
+Statuti-art. 157
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 158.
+
+Statuti-art. 158
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 159.
+
+Statuti-art. 159
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 160.
+
+Statuti-art. 160
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 161.
+
+Statuti-art. 161
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 162.
+
+Statuti-art. 162
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 163.
+
+Statuti-art. 163
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 164.
+
+Statuti-art. 164
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 165.
+
+Statuti-art. 165
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 166.
+
+Statuti-art. 166
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 167.
+
+Statuti-art. 167
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 168.
+
+Statuti-art. 168
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 169.
+
+Statuti-art. 169
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 170.
+
+Statuti-art. 170
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 171.
+
+Statuti-art. 171
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 172.
+
+Statuti-art. 172
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 173.
+
+Statuti-art. 173
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 174.
+
+Statuti-art. 174
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 175.
+
+Statuti-art. 175
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 176.
+
+Statuti-art. 176
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 177.
+
+Statuti-art. 177
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 178.
+
+Statuti-art. 178
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 179.
+
+Statuti-art. 179
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 180.
+
+Statuti-art. 180
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+### Art. 181.
+
+Statuti-art. 181
+ ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1873-07-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1873-07-09;684
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:26Z
+---
+
+REGIO DECRETO
+                09 luglio 1873
+                DCLXXXIV
+                Che modifica lo statuto della Cassa di risparmio e prestiti, Principe Umberto, in Catania. (7300684R)
+
+Entrata in vigore del provvedimento: 10/08/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

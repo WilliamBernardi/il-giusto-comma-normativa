@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 118
+data: 1975-01-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-01-28;118
+codice_redazionale: 075U0118
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 gennaio 1975
+                118
+                Modificazioni allo statuto dell'Istituto autonomo per le case popolari della provincia di Chieti.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 gennaio 1975, col quale, sulla proposta del Ministro per i lavori pubblici, vengono approvate le modificazioni agli articoli 4, 9, 11 e 13 dello statuto dell'Istituto autonomo per le case popolari della provincia di Chieti, approvato con regio decreto 17 febbraio 1938, n. 179.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 15 aprile 1975
+ Atti di Governo, registro n. 9, foglio n. 55
+

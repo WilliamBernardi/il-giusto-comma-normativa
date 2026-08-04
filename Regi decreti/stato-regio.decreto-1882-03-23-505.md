@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1882-03-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-03-23;505
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:17Z
+---
+
+REGIO DECRETO
+                23 marzo 1882
+                DV
+                Che costituisce in ente morale la pia fondazione Riello istituita in Padova e ne approva lo Statuto. (8200505R)
+
+Entrata in vigore del provvedimento: 13/06/1882
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

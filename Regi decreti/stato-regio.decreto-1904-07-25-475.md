@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 475
+data: 1904-07-25
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-07-25;475
+codice_redazionale: 004U0475
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:55Z
+---
+
+REGIO DECRETO
+                25 luglio 1904
+                475
+                Col quale sono dichiarate zone malariche talune porzioni di territori nella provincia di Novara. (004U0475)
+
+Entrata in vigore del provvedimento: 24/09/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1128
+data: 1972-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-12-30;1128
+codice_redazionale: 072U1128
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 dicembre 1972
+                1128
+                Riconoscimento, agli effetti civili, della erezione della parrocchia "Regina Pacis", in Monopoli.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 dicembre 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Monopoli, in data 2 aprile 1971, integrato con dichiarazione 30 giugno 1971, relativo alla erezione della parrocchia "Regina Pacis", in Monopoli (Bari).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 21 marzo 1973
+ Atti di Governo, registro n. 256, foglio n. 113. - VALENTINI
+

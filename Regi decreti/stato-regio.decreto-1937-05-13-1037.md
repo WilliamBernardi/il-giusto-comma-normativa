@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1037
+data: 1937-05-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1937-05-13;1037
+codice_redazionale: 037U1037
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:18:31Z
+---
+
+REGIO DECRETO
+                13 maggio 1937
+                1037
+                Autorizzazione all'Opera nazionale Dopolavoro ad accettare una donazione. (037U1037)
+
+Entrata in vigore del provvedimento: 25/07/1937
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

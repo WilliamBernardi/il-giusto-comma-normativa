@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 503
+data: 1958-04-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-04-02;503
+codice_redazionale: 058U0503
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 aprile 1958
+                503
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Goretti, nel comune di Ascoli Piceno.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 aprile 1958, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Ascoli Piceno in data 14 settembre 1957, integrato con dichiarazione del 29 novembre 1957, relativo alla erezione della parrocchia di Santa Maria Goretti, nel comune di Ascoli Piceno.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 22 maggio 1958
+ Atti del Governo, registro n. 112, foglio n. 110. - RELLEVA
+

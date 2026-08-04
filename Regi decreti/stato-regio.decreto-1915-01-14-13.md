@@ -1,0 +1,62 @@
+---
+tipo: REGIO DECRETO
+numero: 13
+data: 1915-01-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1915-01-14;13
+codice_redazionale: 015U0013
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2009-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:45Z
+---
+
+REGIO DECRETO
+                14 gennaio 1915
+                13
+                Col quale viene nominato il R. commissario e sono dati provvedimenti per i comuni dei circondari di Avezzano e di Sora colpiti dal terremoto del 13 gennaio 1915. (015U0013)
+
+Entrata in vigore del provvedimento: 14/01/1915
+
+## Art. 1.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 2.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 3.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 4.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 5.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 6.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 7.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+
+## Art. 8.
+
+((PROVVEDIMENTO ABROGATO DAL D.L. 22 DICEMBRE 2008, N. 200,
+ CONVERTITO CON MODIFICAZIONI DALLA L. 18 FEBBRAIO 2009, N. 9))
+

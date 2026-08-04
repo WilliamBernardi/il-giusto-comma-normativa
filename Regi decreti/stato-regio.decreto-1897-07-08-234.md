@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1897-07-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1897-07-08;234
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:03Z
+---
+
+REGIO DECRETO
+                08 luglio 1897
+                CCXXXIV
+                Che accorda al consorzio di irrigazione Vaso Canalone di Montichiari in provincia di Brescia, la facolta' di riscuotere il contributo dei soci coi privilegi fiscali. (9700234R)
+
+Entrata in vigore del provvedimento: 03/09/1897
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

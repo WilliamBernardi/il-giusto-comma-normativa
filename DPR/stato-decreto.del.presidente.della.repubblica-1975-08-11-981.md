@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 981
+data: 1975-08-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1975-08-11;981
+codice_redazionale: 075U0981
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:56Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 agosto 1975
+                981
+                Trasferimento di un posto di assistente ordinario presso la facolta' di magistero dell'Universita' di Sassari.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA 
+ 
+ Visto il decreto ministeriale 26 novembre 1971, registrato alla Corte dei conti, addi' 17 giugno 1972, registro n. 38, foglio n. 98, con il quale il posto assegnato alla cattedra di storia delle religioni della facolta' di magistero dell'Universita' di Sassari e' stato trasferito, a decorrere dal 1° novembre 1971, alla cattedra di storia della stessa facolta'; 
+ Visto il decreto del Presidente della Repubblica 5 marzo 1974, registrato alla Corte dei conti, addi' 16 maggio 1974, Atti di Governo, registro n. 3, foglio n. 28, con cui e' stato modificato l'ordinamento didattico universitario della facolta' di magistero dell'Universita' di Sassari nel senso che l'insegnamento fondamentale di storia e' stato ripartito in storia romana, storia medievale e storia moderna; 
+ Considerato che il consiglio della facolta' di magistero, in data 30 gennaio 1975, ha deliberato che il posto di assistente ordinario assegnato alla cattedra di storia venga attribuito alla cattedra di storia romana; 
+ Sulla proposta del Ministro per la pubblica istruzione; 
+ 
+ Decreta: 
+ 
+ Il posto di assistente ordinario, gia' assegnato alla cattedra di storia della facolta' di magistero dell'Universita' di Sassari, a seguito della modificazione dell'ordinamento didattico universitario, di cui al decreto del Presidente della Repubblica 5 marzo 1974, citato nelle premesse del presente decreto, e' attribuito alla cattedra di storia romana.
+

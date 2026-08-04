@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1477
+data: 1873-06-23
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1873-06-23;1477
+codice_redazionale: 073U1477
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:05:39Z
+---
+
+REGIO DECRETO
+                23 giugno 1873
+                1477
+                Col quale il Comune di Linguaglossa, in Provincia di Catania, e' dichiarato chiuso nei rapporti del dazio di consumo. (073U1477)
+
+Entrata in vigore del provvedimento: 28/07/1873
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

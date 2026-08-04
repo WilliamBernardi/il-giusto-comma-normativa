@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1012
+data: 1932-07-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1932-07-07;1012
+codice_redazionale: 032U1012
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:22:47Z
+---
+
+REGIO DECRETO
+                07 luglio 1932
+                1012
+                Numero dei membri delle Fabbricerie di alcune Chiese parrocchiali della Diocesi di Lodi. (032U1012)
+
+Entrata in vigore del provvedimento: 13/09/1932
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

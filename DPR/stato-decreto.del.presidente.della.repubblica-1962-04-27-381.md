@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 381
+data: 1962-04-27
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-04-27;381
+codice_redazionale: 062U0381
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                27 aprile 1962
+                381
+                Riconoscimento, agli effetti civili, della erezione della parrocchia da Sant'Antonio, in rione San Leonardo del comune di Catanzaro.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 27 aprile 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Catanzaro in data 1 novembre 1960, integrato con dichiarazione del 17 novembre 1961, relativo alla erezione della parrocchia di Sant'Antonio in rione San Leonardo del comune di Catanzaro, e viene riconosciuta la personalita' giuridica della Chiesa omonima, sede della parrocchia stessa.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 4 giugno 1962
+ Atti del Governo, registro n. 148, foglio n. 95. - VILLA
+

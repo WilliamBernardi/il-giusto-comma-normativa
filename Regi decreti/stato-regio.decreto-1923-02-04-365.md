@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 365
+data: 1923-02-04
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-02-04;365
+codice_redazionale: 023U0365
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:48Z
+---
+
+REGIO DECRETO
+                04 febbraio 1923
+                365
+                Erezione in Ente morale. (023U0365)
+
+Entrata in vigore del provvedimento: 12/04/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

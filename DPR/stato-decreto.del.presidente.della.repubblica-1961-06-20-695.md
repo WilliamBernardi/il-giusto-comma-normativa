@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 695
+data: 1961-06-20
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-06-20;695
+codice_redazionale: 061U0695
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                20 giugno 1961
+                695
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Assunta, in borgata Palmadula-Nurra del comune di Sassari.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 20 giugno 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Sassari in data 1 novembre 1957, integrato con postilla di pari data e con dichiarazione del 14 marzo 1961, relativo alla erezione della parrocchia di Santa Maria Assunta in Borgata Palmadula-Nurra del comune di Sassari.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 22 luglio 1961
+ Atti del Governo, registro n. 137, foglio n. 178. - VILLA
+

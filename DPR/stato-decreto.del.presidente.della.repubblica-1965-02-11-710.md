@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 710
+data: 1965-02-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1965-02-11;710
+codice_redazionale: 065U0710
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 febbraio 1965
+                710
+                Erezione in ente morale della Cassa scolastica dell'istituto professionale di Stato per l'agricoltura "Bettino Ricasoli" di Siena.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 febbraio 1965, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dell'Istituto professionale di Stato per l'agricoltura "Bettino Ricasoli", di Siena, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 12 giugno 1965
+ Atti del Governo, registro n. 193, foglio n. 175. - VILLA
+

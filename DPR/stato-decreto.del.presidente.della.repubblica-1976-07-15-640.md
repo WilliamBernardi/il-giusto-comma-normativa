@@ -1,0 +1,38 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 640
+data: 1976-07-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-07-15;640
+codice_redazionale: 076U0640
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 luglio 1976
+                640
+                Modificazione allo statuto della sezione autonoma di credito fondiario del Banco di Sardegna, ente morale, in Cagliari.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visti il regio decreto 16 luglio 1905, n. 646, che approva il testo unico delle leggi sul credito fondiario, il regio decreto 5 maggio 1910, n. 472, che approva il regolamento per l'esecuzione del predetto testo unico, nonche' le successive modificazioni;
+ Visti il regio decreto-legge 29 luglio 1927, n. 1509, convertito, con modificazioni, nella legge 5 luglio 1928, n. 1760, e le successive modificazioni, nonche' il regolamento per l'esecuzione del suddetto regio decreto-legge 29 luglio 1927, n. 1509, approvato con decreto ministeriale 23 gennaio 1928, e le successive modificazioni;
+ Visti il regio decreto-legge 12 marzo 1936, n. 375, e le successive modificazioni, nonche' il decreto legislativo del Capo provvisorio dello Stato 17 luglio 1947, n. 691;
+ Vista la deliberazione del consiglio di amministrazione della sezione autonoma di credito fondiario del Banco di Sardegna, ente morale con sede legale in Cagliari e sede amministrativa e direzione generale in Sassari, in data 31 ottobre 1973;
+ Visto lo statuto della predetta sezione approvato con proprio decreto del 25 gennaio 1965, n. 236 e modificato da ultimo con proprio decreto del 13 febbraio 1974, n. 89;
+ Sentito il Comitato interministeriale per il credito ed il risparmio nella seduta del 23 dicembre 1974;
+ D'intesa con il presidente della regione autonoma della Sardegna;
+ Udito il parere del Consiglio di Stato;
+ Sulla proposta del Ministro per il tesoro;
+
+ Decreta:
+
+ E' approvata la modificazione del secondo comma dell'art. 4 dello statuto della sezione autonoma di credito fondiario del Banco di Sardegna, ente morale con sede legale in Cagliari e sede amministrativa e direzione generale in Sassari, secondo il seguente testo:
+ "Il fondo di dotazione e' costituito dalla somma di lire 2 miliardi assegnata dal Banco di Sardegna".
+

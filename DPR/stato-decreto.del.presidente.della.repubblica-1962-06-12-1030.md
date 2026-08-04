@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1030
+data: 1962-06-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1962-06-12;1030
+codice_redazionale: 062U1030
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:52Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 giugno 1962
+                1030
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Santa Maria Bertilla Boscardin, in localita' Cattane del comune di Vicenza.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 giugno 1962, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili il decreto dell'Ordinario diocesano di Vicenza in data 23 luglio 1961, integrato con dichiarazione del 5 gennaio 1962, relativo all'erezione della parrocchia di Santa Maria Bertilla Boscardin, in localita' Cattane del comune di Vicenza.
+
+Visto, il Guardasigilli: BOSCO
+ Registrato alla Corte dei conti, addi' 20 luglio 1962
+ Atti del Governo, registro n. 157, foglio n. 29. - VILLA
+

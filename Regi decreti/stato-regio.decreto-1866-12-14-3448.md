@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 3448
+data: 1866-12-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1866-12-14;3448
+codice_redazionale: 066U3448
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:04:10Z
+---
+
+REGIO DECRETO
+                14 dicembre 1866
+                3448
+                Che manda pubblicare nelle Provincie della Venezia ed in quella di Mantova le Leggi sull'avanzamento, sulle pensioni, sulla riforma e sulla leva di mare. (066U3448)
+
+Entrata in vigore del provvedimento: 27/01/1867
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

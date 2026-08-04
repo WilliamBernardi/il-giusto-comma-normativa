@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 235
+data: 1908-05-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1908-05-17;235
+codice_redazionale: 008U0235
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:51Z
+---
+
+REGIO DECRETO
+                17 maggio 1908
+                235
+                Che delimita le zone malariche dei comuni di Banzi e di Genzano in provincia di Potenza. (008U0235)
+
+Entrata in vigore del provvedimento: 26/06/1908
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

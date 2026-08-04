@@ -1,0 +1,119 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 171
+data: 2016-08-04
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2016-08-04;171
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2024-12-28
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:21Z
+---
+
+DECRETO LEGISLATIVO
+                04 agosto 2016
+                171
+                Attuazione della delega di cui all'articolo 11, comma 1, lettera p), della legge 7 agosto 2015, n. 124, in materia di dirigenza sanitaria. (16G00185)
+
+Entrata in vigore del provvedimento: 18/09/2016
+
+Acquisito il parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, nella seduta del 3 marzo 2016;
+
+Udito il parere del Consiglio di Stato, espresso dalla Commissione speciale nell'Adunanza del 18 aprile 2016;
+
+Acquisiti i pareri delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Acquisita l'intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, di cui all'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, raggiunta nella seduta del 6 aprile 2017:
+
+## Art. 1. — Elenco nazionale dei soggetti idonei alla nomina di direttore generale delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale
+
+I provvedimenti di nomina dei direttori generali delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale sono adottati nel rispetto di quanto previsto dal presente articolo.
+
+E' istituito, presso il Ministero della salute, l'elenco nazionale dei soggetti idonei alla nomina di direttore generale delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale, aggiornato con cadenza biennale. Fermo restando l'aggiornamento biennale, l'iscrizione nell'elenco e' valida per quattro anni, salvo quanto previsto dall'articolo 2, comma 7. L'elenco nazionale e' alimentato con procedure informatizzate ed e' pubblicato sul sito internet del Ministero della salute. (6) ((7))
+
+Nell'elenco nazionale di cui al comma 2 e' istituita un'apposita sezione dedicata ai soggetti idonei alla nomina di direttore generale presso gli Istituti zooprofilattici sperimentali, aventi i requisiti di cui all'articolo 11, comma 6, primo periodo, del decreto legislativo 28 giugno 2012, n. 106.
+
+Ai fini della formazione dell'elenco di cui al comma 2, con decreto del Ministro della salute e' nominata ogni due anni, senza nuovi o maggiori oneri per la finanza pubblica, una commissione composta da cinque membri, di cui uno designato dal Ministro della salute con funzioni di presidente scelto tra magistrati ordinari, amministrativi, contabili e avvocati dello Stato, e quattro esperti di comprovata competenza ed esperienza, in particolare in materia di organizzazione sanitaria o di gestione aziendale, di cui uno designato dal Ministro della salute, uno designato dall'Agenzia nazionale per i servizi sanitari regionali, e due designati dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano. I componenti della commissione possono essere nominati una sola volta e restano in carica per il tempo necessario alla formazione dell'elenco e all'espletamento delle attivita' connesse e conseguenziali. In fase di prima applicazione, la commissione e' nominata entro trenta giorni dalla data di entrata in vigore del presente decreto.
+
+I requisiti indicati nel comma 4 devono essere posseduti alla data di scadenza del termine stabilito per la presentazione della domanda di ammissione. Alle domande dovranno essere allegati il curriculum formativo e professionale e l'elenco dei titoli valutabili ai sensi del comma 6. La partecipazione alla procedura di selezione e' subordinata al versamento ad apposito capitolo di entrata del bilancio dello Stato di un contributo pari ad euro 30, non rimborsabile. I relativi introiti sono riassegnati ad apposito capitolo di spesa dello stato di previsione del Ministero della salute per essere destinati alle spese necessarie per assicurare il supporto allo svolgimento delle procedure selettive e per la gestione dell'elenco di idonei cui al presente articolo.
+
+Il punteggio massimo complessivamente attribuibile dalla commissione a ciascun candidato e' di 100 punti e possono essere inseriti nell'elenco nazionale i candidati che abbiano conseguito un punteggio minimo non inferiore a 70 punti. Il punteggio e' assegnato ai fini dell'inserimento del candidato nell'elenco nazionale che e' pubblicato secondo l'ordine alfabetico dei candidati senza l'indicazione del punteggio conseguito nella selezione.
+
+Ai fini della valutazione dell'esperienza dirigenziale maturata nel settore sanitario, pubblico o privato, di cui all'articolo 1, comma 4, lettera b), la Commissione fa riferimento all'esperienza acquisita nelle strutture autorizzate all'esercizio di attivita' sanitaria, del settore farmaceutico e dei dispositivi medici, nonche' negli enti a carattere regolatorio e di ricerca in ambito sanitario.
+
+L'esperienza dirigenziale valutabile dalla Commissione, di cui al comma 6, lettera a), e' esclusivamente l'attivita' di direzione dell'ente, dell'azienda, della struttura o dell'organismo ovvero di una delle sue articolazioni comunque contraddistinte, svolta, a seguito di formale conferimento di incarico, con autonomia organizzativa e gestionale, nonche' diretta responsabilita' di risorse umane, tecniche o finanziarie, maturata nel settore pubblico e privato. Non si considera esperienza dirigenziale valutabile ai sensi del presente comma l'attivita' svolta a seguito di incarico comportante funzioni di mero studio, consulenza e ricerca.
+
+Eventuali provvedimenti di decadenza del candidato, o provvedimenti assimilabili, riportati negli ultimi sette anni e, nelle regioni con popolazione inferiore a 500.000 abitanti, negli ultimi dieci anni, sono valutati con una decurtazione del punteggio pari ad un massimo di 8 punti. Il punteggio per ciascuna esperienza dirigenziale valutata, per la frazione superiore all'anno, e' attribuito assegnando per ciascun giorno di durata un trecentosessantacinquesimo del punteggio annuale previsto per quella specifica esperienza dirigenziale. Nel caso di sovrapposizioni temporali degli incarichi ricoperti, e' valutata ai fini dell'idoneita' esclusivamente una singola esperienza dirigenziale, scegliendo quella a cui puo' essere attribuito il maggior punteggio.
+
+La Commissione valuta i titoli formativi e professionali posseduti dal candidato attribuendo un punteggio, complessivo massimo non superiore a 40 punti, ripartito in relazione ai titoli di cui al comma 6, lettera b).
+
+Non possono essere reinseriti nell'elenco nazionale coloro che siano stati dichiarati decaduti dal precedente incarico di direttore generale per violazione degli obblighi di trasparenza di cui al decreto legislativo 14 marzo 2013, n. 33, come modificato dal decreto legislativo 25 maggio 2016, n. 97. 
+ 
+ (2)
+
+--------------
+                        AGGIORNAMENTO (2)
+                        
+ Il D.L. 30 aprile 2019, n. 35, convertito con modificazioni dalla L. 25 giugno 2019, n. 60, ha disposto (con l'art. 11, comma 5) che "Nelle more della formazione della sezione dell'elenco di cui all'articolo 1, comma 2-bis, del decreto legislativo 4 agosto 2016, n. 171, introdotto dal comma 4-quater del presente articolo, e comunque entro diciotto mesi dalla data di entrata in vigore della legge di conversione del presente decreto, i direttori generali degli istituti zooprofilattici sperimentali sono nominati ai sensi dell'articolo 11, comma 5, del decreto legislativo 28 giugno 2012, n. 106, sulla base dei requisiti di cui al citato articolo 11, comma 6, primo periodo, del decreto legislativo n. 106 del 2012, come modificato dal comma 4-quinquies del presente articolo". 
+                        --------------
+                        AGGIORNAMENTO (6)
+                        
+ Il D.L. 30 aprile 2023, n. 215 ha disposto (con l'art. 4, comma 3) che "Il termine di validita' dell'iscrizione nell'elenco nazionale dei soggetti idonei alla nomina di direttore generale delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale di cui all'articolo 1, comma 2, del decreto legislativo 4 agosto 2016, n. 171, per i soggetti iscritti nell'elenco pubblicato sul sito internet del Ministero della salute in data 1° aprile 2020, e' prorogato fino alla pubblicazione dell'elenco nazionale aggiornato e, comunque, non oltre il 31 dicembre 2024". 
+                        ---------------
+                        AGGIORNAMENTO (7)
+                        
+ Il D.L. 30 dicembre 2023, n. 215, convertito con modificazioni dalla L. 23 febbraio 2024, n. 18, come modificata dal D.L. 27 dicembre 2024, n. 202, ha disposto (con l'art. 4, comma 3) che "Il termine di validita' dell'iscrizione nell'elenco nazionale dei soggetti idonei alla nomina di direttore generale delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale di cui all'articolo 1, comma 2, del decreto legislativo 4 agosto 2016, n. 171, per i soggetti iscritti nell'elenco pubblicato sul sito internet del Ministero della salute in data 1° aprile 2020, e' prorogato fino alla pubblicazione dell'elenco nazionale aggiornato e, comunque, non oltre il 31 dicembre 2025".
+
+## Art. 2. — Disposizioni relative al conferimento degli incarichi di direttore generale
+
+Le regioni nominano direttori generali esclusivamente gli iscritti all'elenco nazionale dei direttori generali di cui all'articolo 1. A tale fine, la regione rende noto, con apposito avviso pubblico, pubblicato sul sito internet istituzionale della regione l'incarico che intende attribuire, ai fini della manifestazione di interesse da parte dei soggetti iscritti nell'elenco nazionale. La valutazione dei candidati per titoli e colloquio e' effettuata da una commissione regionale, ((nominata dal Presidente della Regione, secondo modalita' e criteri definiti dalle Regioni,)) anche tenendo conto di eventuali provvedimenti di accertamento della violazione degli obblighi in materia di trasparenza. La commissione, composta da esperti, indicati da qualificate istituzioni scientifiche indipendenti che non si trovino in situazioni di conflitto d'interessi, di cui uno designato dall'Agenzia nazionale per i servizi sanitari regionali, e uno dalla regione, senza nuovi o maggiori oneri a carico della finanza pubblica, propone al presidente della regione una rosa di candidati, ((...)) nell'ambito dei quali viene scelto quello che presenta requisiti maggiormente coerenti con le caratteristiche dell'incarico da attribuire. Nella rosa proposta non possono essere inseriti coloro che abbiano ricoperto l'incarico di direttore generale, per due volte consecutive, presso la medesima azienda sanitaria locale, la medesima azienda ospedaliera o il medesimo ente del Servizio sanitario nazionale.
+
+Il provvedimento di nomina, di conferma o di revoca del direttore generale e' motivato e pubblicato sul sito internet istituzionale della regione e delle aziende o degli enti interessati, unitamente al curriculum del nominato, nonche' ai curricula degli altri candidati inclusi nella rosa. All'atto della nomina di ciascun direttore generale, le regioni definiscono e assegnano, aggiornandoli periodicamente, gli obiettivi di salute e di funzionamento dei servizi con riferimento alle relative risorse, gli obiettivi di trasparenza, finalizzati a rendere i dati pubblicati di immediata comprensione e consultazione per il cittadino, con particolare riferimento ai dati di bilancio sulle spese e ai costi del personale, da indicare sia in modo aggregato che analitico, tenendo conto dei canoni valutativi di cui al comma 3, e ferma restando la piena autonomia gestionale dei direttori stessi. La durata dell'incarico di direttore generale non puo' essere inferiore a tre anni e superiore a cinque anni. Alla scadenza dell'incarico, ovvero, nelle ipotesi di decadenza e di mancata conferma dell'incarico, le regioni procedono alla nuova nomina, previo espletamento delle procedure di cui presente articolo. ((La nuova nomina, in caso di decadenza e di mancata conferma, puo' essere effettuata anche mediante l'utilizzo degli altri nominativi inseriti nella rosa di candidati di cui al comma 1, relativa ad una selezione svolta in una data non antecedente agli ultimi tre anni e purche' i candidati inclusi nella predetta rosa risultino ancora inseriti nell'elenco nazionale di cui all'articolo 1.)) In caso di commissariamento delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale, il commissario e' scelto tra i soggetti inseriti nell'elenco nazionale.
+
+Trascorsi ventiquattro mesi dalla nomina di ciascun direttore generale, la regione, entro ((novanta giorni)), sentito il parere del sindaco o della Conferenza dei sindaci di cui all'articolo 3, comma 14, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, ovvero, per le aziende ospedaliere, della Conferenza di cui all'articolo 2, comma 2-bis, del medesimo decreto legislativo, verifica i risultati aziendali conseguiti e il raggiungimento degli obiettivi di cui ai commi 2 e 3, e in caso di esito negativo dichiara, previa contestazione e nel rispetto del principio del contraddittorio, la decadenza immediata dall'incarico con risoluzione del relativo contratto, in caso di valutazione positiva la Regione procede alla conferma con provvedimento motivato. La disposizione si applica in ogni altro procedimento di valutazione dell'operato del direttore generale. A fini di monitoraggio, le regioni trasmettono all'Agenzia nazionale per i servizi sanitari regionali una relazione biennale sulle attivita' di valutazione dei direttori generali e sui relativi esiti.
+
+La regione, previa contestazione e nel rispetto del principio del contraddittorio, provvede, entro trenta giorni dall'avvio del procedimento, a risolvere il contratto, dichiarando l'immediata decadenza del direttore generale con provvedimento motivato e provvede alla sua sostituzione con le procedure di cui al presente articolo, se ricorrono gravi e comprovati motivi, o se la gestione presenta una situazione di grave disavanzo imputabile al mancato raggiungimento degli obiettivi di cui al comma 3, o in caso di manifesta violazione di legge o regolamenti o del principio di buon andamento e di imparzialita' dell'amministrazione, nonche' di violazione degli obblighi in materia di trasparenza di cui al decreto legislativo 14 marzo 2013, n. 33, come modificato dal decreto legislativo 25 maggio 2016, n. 97. In tali casi la regione provvede previo parere della Conferenza di cui all'articolo 2, comma 2-bis, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, che si esprime nel termine di dieci giorni dalla richiesta, decorsi inutilmente i quali la risoluzione del contratto puo' avere comunque corso. Si prescinde dal parere nei casi di particolare gravita' e urgenza. Il sindaco o la Conferenza dei sindaci di cui all'articolo 3, comma 14, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, ovvero, per le aziende ospedaliere, la Conferenza di cui all'articolo 2, comma 2-bis, del medesimo decreto legislativo, nel caso di manifesta inattuazione nella realizzazione del Piano attuativo locale, possono chiedere alla regione di revocare l'incarico del direttore generale.
+Quando i procedimenti di valutazione e di decadenza dall'incarico di cui al comma 4 e al presente comma riguardano i direttori generali delle aziende ospedaliere, la Conferenza di cui al medesimo articolo 2, comma 2-bis, e' integrata con il sindaco del comune capoluogo della provincia in cui e' situata l'azienda.
+
+E' fatto salvo quanto previsto dall'articolo 52, comma 4, lettera d), della legge 27 dicembre 2002, n. 289, e quanto previsto dall'articolo 3-bis, comma 7-bis, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, e dall'articolo 1, commi 534 e 535, della legge 28 dicembre 2015, n. 208.
+
+I provvedimenti di decadenza di cui ai commi 4 e 5 e di decadenza automatica di cui al comma 6 sono comunicati al Ministero della salute ai fini della cancellazione dall'elenco nazionale del soggetto decaduto dall'incarico. Fermo restando quanto disposto al comma 6, lettera a), dell'articolo 1, i direttori generali decaduti possono essere reinseriti nell'elenco esclusivamente previa nuova selezione.
+
+## Art. 3. — Disposizioni per il conferimento dell'incarico di direttore sanitario, direttore amministrativo e, ove previsto dalle leggi regionali, di direttore dei servizi socio-sanitari delle aziende sanitarie locali, delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale
+
+Il direttore generale, nel rispetto dei principi di trasparenza di cui al decreto legislativo 14 marzo 2013, n. 33, come modificato dal decreto legislativo 25 maggio 2016, n. 97, e di cui all'articolo 1, comma 522, della legge 28 dicembre 2015, n. 208, nomina il direttore amministrativo, il direttore sanitario e, ove previsto dalle leggi regionali, il direttore dei servizi socio sanitari, attingendo obbligatoriamente agli elenchi regionali di idonei, anche di altre regioni, appositamente costituiti, previo avviso pubblico e selezione per titoli e colloquio, effettuati da una commissione nominata dalla regione, senza nuovi o maggiori oneri per la finanza pubblica, e composta da esperti di qualificate istituzioni scientifiche indipendenti che non si trovino in situazioni di conflitto d'interessi, di comprovata professionalita' e competenza nelle materie oggetto degli incarichi, di cui uno designato dalla regione. La commissione valuta i titoli formativi e professionali, scientifici e di carriera presentati dai candidati, secondo specifici criteri indicati nell'avviso pubblico, definiti, entro centoventi giorni dalla data di entrata in vigore del presente decreto, con Accordo in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, fermi restando i requisiti previsti per il direttore amministrativo e il direttore sanitario dall'articolo 3, comma 7, e dall'articolo 3-bis, comma 9, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni. L'elenco regionale e' aggiornato con cadenza biennale. L'incarico di direttore amministrativo, di direttore sanitario e ove previsto dalle leggi regionali, di direttore dei servizi socio sanitari, non puo' avere durata inferiore a tre anni e superiore a cinque anni. In caso di manifesta violazione di leggi o regolamenti o del principio di buon andamento e di imparzialita' della amministrazione, il direttore generale, previa contestazione e nel rispetto del principio del contraddittorio, risolve il contratto, dichiarando la decadenza del direttore amministrativo e del direttore sanitario, e ove previsto dalle leggi regionali, di direttore dei servizi socio sanitari, con provvedimento motivato e provvede alla sua sostituzione con le procedure di cui al presente articolo.
+
+## Art. 4.
+
+Disposizioni in materia di inconferibilita' e incompatibilita' dell'incarico di direttore generale, di direttore sanitario, di direttore amministrativo e, ove previsto dalle leggi regionali, di direttore dei servizi socio-sanitari 
+ 
+ 1. In materia di inconferibilita' e di incompatibilita', si applicano all'incarico di direttore generale, di direttore amministrativo, di direttore sanitario e, ove previsto dalle leggi regionali, di direttore dei servizi socio-sanitari, le disposizioni vigenti.
+
+## Art. 5. — Disposizioni transitorie
+
+Fino alla costituzione dell'elenco nazionale e degli elenchi regionali di cui, rispettivamente, agli articoli 1 e 3, si applicano, per il conferimento degli incarichi di direttore generale, di direttore amministrativo, di direttore sanitario e, ove previsto dalle leggi regionali, di direttore dei servizi socio-sanitari, delle aziende sanitarie locali e delle aziende ospedaliere e degli altri enti del Servizio sanitario nazionale, e per la valutazione degli stessi, le procedure vigenti alla data di entrata in vigore del presente decreto. Nel caso in cui non e' stato costituito l'elenco regionale, per il conferimento degli incarichi di direttore amministrativo, di direttore sanitario e, ove previsto dalle leggi regionali, di direttore dei servizi socio-sanitari, le regioni attingono agli altri elenchi regionali gia' costituiti.
+
+## Art. 6. — Aziende ospedaliero universitarie
+
+Le disposizioni di cui agli articoli 1, 2, 3, 4 e 5, si applicano anche alle aziende ospedaliero universitarie, ferma restando per la nomina del direttore generale l'intesa della regione con il rettore.
+
+## Art. 7. — Competenze delle regioni a Statuto speciale 
+ e delle province autonome
+
+Le disposizioni del presente decreto sono applicabili nelle regioni a Statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3.
+
+## Art. 8. — Disposizioni finanziarie
+
+La partecipazione alla commissione nazionale di cui all'articolo 1 e alle commissioni regionali di cui agli articoli 2 e 3, e' a titolo gratuito e ai componenti non sono corrisposti gettoni, compensi, rimborsi di spese o altri emolumenti comunque denominati.
+
+Fermo restando quanto disposto dall'articolo 1, comma 5, all'attuazione delle disposizioni derivanti dal presente decreto si provvede nell'ambito delle risorse umane, finanziarie e strumentali disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.
+
+## Art. 9. — Abrogazioni e disposizioni finali
+
+A decorrere dalla data di istituzione dell'elenco nazionale di cui all'articolo 1, sono abrogate le disposizioni del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, di cui all'articolo 3-bis, comma 1, commi da 3 a 7, e commi 13 e 15.
+Tutti i riferimenti normativi ai commi abrogati dell'articolo 3-bis devono, conseguentemente, intendersi come riferimenti alle disposizioni del presente decreto.
+
+Restano altresi' ferme, in ogni caso, le disposizioni recate dai commi 2, 7-bis, 8 per la parte compatibile con le disposizioni del presente decreto, e da 9 a 12 e 14 dell'articolo 3-bis, del decreto legislativo 30 dicembre 1992, n. 502, e successive modificazioni, non abrogate dal presente decreto.
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 774
+data: 1954-01-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-01-26;774
+codice_redazionale: 054U0774
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 gennaio 1954
+                774
+                Autorizzazione alla Societa' scuole tecniche operaie San Carlo di Torino ad accettare un lascito.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 gennaio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Societa' scuole tecniche operaie San Carlo di Torino viene autorizzata ad accettare il lascito di una casa sita in Montanaro, con annesso cortile, tettoia e giardino, da parte del signor Clara Giuseppe Cipriano fu Gaspare con testamento olografo 22 settembre 1949.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 26 agosto 1954
+ Atti del Governo, registro n. 85, foglio n. 92. - CARLOMAGNO
+

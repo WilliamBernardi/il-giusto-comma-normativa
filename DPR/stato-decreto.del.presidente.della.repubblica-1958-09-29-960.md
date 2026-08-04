@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 960
+data: 1958-09-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1958-09-29;960
+codice_redazionale: 058U0960
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 settembre 1958
+                960
+                Autorizzazione all'Azienda dei "Patrimoni Riuniti ex Economali" ad acquistare un complesso immobiliare sito in Nerola (Roma).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 settembre 1958, col quale, sulla proposta del Ministro per l'interno, l'Azienda dei "Patrimoni Riuniti ex Economali" viene autorizzata ad acquistare, per il prezzo di lire 80 milioni, un complesso immobiliare sito in Nerola (Roma), costituito da terreni, con soprastante fabbricato, della superficie di mq. 14.650, identificati nel catasto terreni di detto Comune al foglio 9, dalle particelle n. 1b, 2b, 75b, e 23.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dai conti, addi' 27 ottobre 1958
+ Atti del Governo, registro n. 114, foglio n. 8. - RELLEVA
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 570
+data: 1985-05-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1985-05-31;570
+codice_redazionale: 085U0570
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 maggio 1985
+                570
+                Rettifica al decreto del Presidente della Repubblica 10 gennaio 1985, n. 133, recante assegnazione di ventinove posti di tecnico laureato presso varie universita'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 maggio 1985, col quale, sulla proposta del Ministro della pubblica istruzione, il decreto del Presidente della Repubblica 10 gennaio 1985, n. 133, viene rettificato nel senso che il posto di tecnico laureato assegnato all'istituto di anatomia ed istologia patologica della facolta' di medicina e chirurgia dell'Universita' di Perugia deve intendersi assegnato all'istituto di anatomia umana normale presso la medesima facolta' dello stesso Ateneo.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 12 ottobre 1985
+ Registro n. 68 Istruzione, foglio n. 221
+

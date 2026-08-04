@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1649
+data: 1964-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-08-31;1649
+codice_redazionale: 064U1649
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:49Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1964
+                1649
+                Erezione in ente morale dell'Associazione C.E.M.E.A. (Centri di esercitazione ai metodi di educazione attiva), con sede in Milano.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 agosto 1.964, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Associazione C.E.M.E.A. (Centri di esercitazione ai metodi di educazione attiva) con sede in Milano, viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 23 marzo 1965
+ Atti del Governo, registro n. 191, foglio n. 122. - VILLA
+

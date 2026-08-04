@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-12-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-12-29;547
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:52Z
+---
+
+REGIO DECRETO
+                29 dicembre 1904
+                DXLVII
+                Che modifica la tabella delle sezioni elettorali del collegio di probiviri per le industrie tessili in Busto Arsizio. (0400547R)
+
+Entrata in vigore del provvedimento: 09/02/1905
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1904-07-18
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1904-07-18;334
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:23:14Z
+---
+
+REGIO DECRETO
+                18 luglio 1904
+                CCCXXXIV
+                Con il quale i monti frumentari di Rosciano (Teramo) denominati di Rosciano, di Villa Badessa e di Villa Oliveti sono trasformati in una cassa di prestanze agrarie e questa e' concentrata nella congregazione di carita' del luogo. (0400334R)
+
+Entrata in vigore del provvedimento: 15/09/1904
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

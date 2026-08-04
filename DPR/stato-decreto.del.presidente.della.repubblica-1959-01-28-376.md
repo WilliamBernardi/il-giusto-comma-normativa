@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 376
+data: 1959-01-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-01-28;376
+codice_redazionale: 059U0376
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 gennaio 1959
+                376
+                Attribuzione della denominazione di "Casa Romana" ad una frazione del comune di Zagarolo (Roma).
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Vista la deliberazione del Consiglio comunale di Zagarolo (provincia di Roma) in data 10 marzo 1958, n. 14, con la quale e' stato chiesto che ad una frazione di quel Comune sia attribuita la denominazione di "Casa Romana";
+ Vista la deliberazione del Consiglio provinciale di Roma in data 21 dicembre 1955, n. 944/14124, con la quale e' stato espresso parere favorevole in merito alla denominazione predetta;
+ Visto l'art. 266 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+ Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno;
+
+ Decreta:
+
+ E' attribuita la denominazione di "Casa Romana" alla frazione del comune di Zagarolo, in provincia di Roma, di fatto identificata con il nome suddetto.
+

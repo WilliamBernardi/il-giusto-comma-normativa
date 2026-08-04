@@ -1,0 +1,53 @@
+---
+tipo: REGIO DECRETO
+data: 1893-09-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1893-09-13;422
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:15Z
+---
+
+REGIO DECRETO
+                13 settembre 1893
+                CCCCXXII
+                Che autorizza la congregazione di carita' di S. Remo ad accettare la eredita' Massa per la fondazione di un ospizio infantile, lo costituisce in ente morale e ne approva lo statuto. (9300422R)
+
+Entrata in vigore del provvedimento: 09/12/1893
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la domanda della congregazione di carita' di San Remo (Porto Maurizio) per essere autorizzata ad accettare la eredita' disposta dal fu Zeffiro Massa fu Lodovico, ammontante a lire 238.000 circa, fra beni immobili e mobili, nell' interesse del pio istituto dal medesimo fondato con testamento olografo 1° gennaio 1881, sotto il titolo di «Ospizio infantile»; nonche' per ottenere che il nuovo ospizio sia costituito in ente morale e ne sia approvato il relativo statuto organico;
+
+Vedute le relative deliberazioni della congregazione medesima, del consiglio comunale di San Remo e della giunta provinciale amministrativa di Porto Maurizio;
+
+Vedute le leggi 17 luglio 1890, n. 6972, e 5 giugno 1850, n. 1037;
+
+Udito il parere del consiglio di Stato;
+
+## Art. 1.
+
+La congregazione di carita' di San Remo e' autorizzata ad accettare la eredita' come sopra disposta dal fu Zeffiro Massa per la fondazione in detta citta' di un ospizio infantile con la denominazione di «Ospizio infantile Zeffiro Massa», che e' costituito in ente morale sotto l'amministrazione della stessa congregazione di carita'.
+
+## Art. 2.
+
+E' approvato lo statuto organico dello stesso ospizio in data 22 giugno 1893, composto di diciassette articoli, che sara' munito di visto e sottoscritto, d'ordine Nostro, dal ministro proponente. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d' Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Torino, addi' 13 settembre 1893. 
+ 
+ UMBERTO 
+ 
+ Registrato alla Corte dei conti addi' 17 novembre 1893. 
+ 
+ Reg. 193. Atti del Governo a f. 124. Petrecca. 
+ 
+ Luogo del Sigillo. V. Il Guardasigilli G. Armo'. 
+ 
+ G. Giolitti.
+

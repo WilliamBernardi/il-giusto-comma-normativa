@@ -1,0 +1,40 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 161
+data: 1987-04-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1987-04-28;161
+codice_redazionale: 087U0161
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 aprile 1987
+                161
+                Assegnazione alle regioni del numero dei seggi per la elezione del Senato della Repubblica.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il decreto in data odierna, con il quale i comizi per la elezione del Senato della Repubblica sono stati convocati per il giorno di domenica 14 giugno 1987;
+ Vista la legge costituzionale 27 dicembre 1963, n. 3: "Modificazione agli articoli 131 e 57 della Costituzione e istituzione della regione Molise";
+ Visto l'art. 1 della legge 27 febbraio 1958, n. 64, recante modificazioni alla legge 6 febbraio 1948, n. 29: "Norme per la elezione del Senato della Repubblica";
+ Vista la legge 25 febbraio 1963, n. 282: "Modificazioni all'articolo 1 della legge 27 febbraio 1958, n. 64, sulla elezione del Senato della Repubblica";
+ Vista la legge 23 aprile 1976, n. 136, recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;
+ Vista la legge 14 febbraio 1963, n. 55, per la revisione delle circoscrizioni dei collegi senatoriali del Friuli-Venezia Giulia;
+ Visto il decreto 25 marzo 1983, n. 95, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 95 del 7 aprile 1983, con il quale vengono dichiarati i risultati ufficiali relativi alla popolazione legale secondo il censimento del 25 ottobre 1981;
+ Sulla proposta del Ministro dell'interno;
+
+ EMANA
+
+il seguente decreto:
+
+ Alle regioni di cui all'art. 131 della Costituzione, modificato dall'art. 1 della legge costituzionale 27 dicembre 1963, n. 3, e' assegnato il numero dei seggi senatoriali rispettivamente indicato nella tabella allegata al presente decreto, vistata dal Ministro dell'interno.
+ Il presente decreto entra in vigore lo stesso giorno della sua pubblicazione nella Gazzetta Ufficiale della Repubblica.
+ Il presente decreto sara' inviato alla Corte dei conti per la registrazione.
+

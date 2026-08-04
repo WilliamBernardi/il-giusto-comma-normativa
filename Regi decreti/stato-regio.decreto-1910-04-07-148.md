@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+data: 1910-04-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1910-04-07;148
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:32Z
+---
+
+REGIO DECRETO
+                07 aprile 1910
+                CXLVIII
+                Per l'accettazione del lascito «De Clario» di Napoli. (1000148R)
+
+Entrata in vigore del provvedimento: 25/05/1910
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Ritenuto che con testamento olografo del 10 maggio 1908, pubblicato per atti del R. notaio residente in Napoli, Vincenzo Sanseverino, il 5 maggio 1909, l'avv. Alfonso De Clario, fu Michele, lascio' allo Stato tutti i suoi libri perche' fossero conservati nella biblioteca dei padri Girolamini, situata nell'oratorio dei Girolamini in Napoli; 
+ 
+ Udito il parere del Consiglio di Stato; 
+ 
+ Sulla proposta del Nostro ministro, segretario di Stato per la pubblica istruzione; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ E' accettato il lascito disposto dall'avv. Alfonso De Clario alla condizione surricordata. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 7 aprile 1910. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Credaro. 
+ 
+ Visto, Il guardasigilli: Fani.
+

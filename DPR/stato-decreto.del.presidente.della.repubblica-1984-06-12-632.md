@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 632
+data: 1984-06-12
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1984-06-12;632
+codice_redazionale: 084U0632
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                12 giugno 1984
+                632
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di "S. Tarcisio", in Palermo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 12 giugno 1984, col quale, sulla proposta del Ministro dell'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Palermo 1 aprile 1979, integrato con due dichiarazioni in data 2 marzo 1981 e 11 aprile 1983, relativo all'erezione della parrocchia di "S. Tarcisio", in Palermo.
+
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 19 settembre 1984
+ Registro n. 30 Interno, foglio n. 245
+

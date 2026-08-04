@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1876-07-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1876-07-09;1326
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:12Z
+---
+
+REGIO DECRETO
+                09 luglio 1876
+                MCCCXXVI
+                Che modifica l'articolo 1 del regio decreto che approva la societa' enofila d'Asti. (7601326R)
+
+Entrata in vigore del provvedimento: 22/08/1876
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

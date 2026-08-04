@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1489
+data: 1954-10-16
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-10-16;1489
+codice_redazionale: 054U1489
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                16 ottobre 1954
+                1489
+                Riconoscimento, agli effetti civili, dell'erezione in parrocchia della Coadiutoria curata non autonoma di Santa Croce del Montello, in localita' Santa Croce del comune di Nervesa della Battaglia (Treviso).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 16 ottobre 1954, col quale, sulla proposta, del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Treviso in data 24 dicembre 1937, integrato con prospetto sulla consistenza patrimoniale del Beneficio a sua volta integrato con postille 19 ottobre 1953 e 9 aprile 1954, relativo alla erezione in parrocchia della Coadiutoria curata non autonoma di Santa Croce del Montello, in localita' Santa Croce del comune di Nervesa della Battaglia (Treviso) e viene riconosciuta la personalita' giuridica dell'ente Chiesa omonima, sede dell'anzidetta nuova parrocchia alla quale viene assegnata in dotazione la casa canonica.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 10 marzo 1955
+ Atti del Governo, registro n. 89, foglio n. 73. - CARLOMAGNO
+

@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1871-02-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1871-02-05;10
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:21:39Z
+---
+
+REGIO DECRETO
+                05 febbraio 1871
+                X
+                Che approva una nuova modificazione allo statuto della Societa' anonima Bresciana per la stagionatura e per l'assaggio delle sete. (7100010R)
+
+Entrata in vigore del provvedimento: 21/03/1871
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

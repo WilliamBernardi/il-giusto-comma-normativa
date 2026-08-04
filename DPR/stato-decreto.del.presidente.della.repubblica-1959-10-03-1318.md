@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1318
+data: 1959-10-03
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-10-03;1318
+codice_redazionale: 059U1318
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:00Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                03 ottobre 1959
+                1318
+                Modificazioni all'art. 1 del decreto Presidenziale 30, agosto 1952, n. 1379, recante norme per l'espletamento dei concorsi per il reclutamento straordinario di ufficiali in servizio permanente effettivo dell'Esercito.
+
+Udito il parere del Consiglio superiore delle forze armate;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+## Art. 1.
+
+L'art. 1 del decreto del Presidente della Repubblica 30 agosto 1952, n. 1379, e' sostituito dal seguente:
+ "Gli esami di concorso per il reclutamento straordinario di ufficiali in servizio permanente dell'Esercito, di cui agli articoli 7 e 8 della legge 24 dicembre 1951, n. 1638, consistono:
+ per gli aspiranti alla nomina a sottotenente delle armi, in due prove scritte, l'una di cultura generale, l'altra di cultura tecnico-professionale, e in due prove orali, l'una su argomenti tecnico-professionali comuni a tutte le armi, l'altra su argomenti propri dell'arma per cui il concorso e' bandito;
+ per gli aspiranti alla nomina a tenente o a sottotenente dei servizi, in una prova scritta di cultura tecnico-professionale e in una prova orale sulle materie tecnico-professionali proprie del servizio per cui il concorso e' bandito.
+ I programmi delle prove di esame sono indicati nei bandi di concorso.
+ Sono ammessi alle prove orali i candidati che abbiano riportato una votazione di almeno dodici ventesimi in ciascuna prova scritta. Le prove orali non si intendono superate se il candidato non ottenga almeno la votazione di dodici ventesimi in ciascuna di esse. La votazione complessiva e' stabilita dalla somma del punto o della media dei punti riportati nelle prove scritte e del punto o della media dei punti conseguiti nelle prove orali".
+

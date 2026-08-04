@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1364
+data: 1954-12-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-12-22;1364
+codice_redazionale: 054U1364
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:11Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 dicembre 1954
+                1364
+                Autorizzazione all'Unione italiana dei ciechi ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 dicembre 1954, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi viene autorizzata ad accettare un legato disposto in favore della; Sezione provinciale di Modena dell'Unione stessa dal sig. Civolari Aldo, con testamento olografo 7 ottobre 1943, costituito da, immobili rustici per la complessiva estensione di ettari 49.25.24, il cui usufrutto e' riservato, vita natural durante, a favore della vedova del de cuius.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 10 febbraio 1955
+ Atti del Governo, registro n. 88, foglio n. 133. - CARLOMAGNO
+

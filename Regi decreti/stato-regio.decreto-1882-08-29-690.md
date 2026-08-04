@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1882-08-29
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1882-08-29;690
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:21Z
+---
+
+REGIO DECRETO
+                29 agosto 1882
+                DCXC
+                Che erige in corpo morale il lascito Bertelli a favore del municipio di Gavi e ne approva lo statuto. (8200690R)
+
+Entrata in vigore del provvedimento: 10/11/1882
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

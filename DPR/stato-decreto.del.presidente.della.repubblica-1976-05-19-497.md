@@ -1,0 +1,30 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 497
+data: 1976-05-19
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1976-05-19;497
+codice_redazionale: 076U0497
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:14Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                19 maggio 1976
+                497
+                Riconoscimento, agli effetti civili, della unione delle parrocchie di S. Bernardo, in Ailoche, con quella di S. Agata, in Guardabosone, e di S. Carlo, in Caprile, con quella di S. Grato, in Pianceri di Pray.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 19 maggio 1976, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Vercelli 1 maggio 1974, integrato con due dichiarazioni datate 22 maggio stesso anno e 25 marzo 1975, relativo alla separazione delle parrocchie di S. Bernardo, in Ailoche (Vercelli), da quella di S. Carlo, in Caprile (Vercelli), ed all'unione temporanea aeque principaliter della parrocchia di S.
+ Bernardo, in Ailoche, a quella di S. Agata, in Guardabosone (Vercelli), e della parrocchia di S. Carlo, in Caprile, a quella di S. Grato, in Pianceri di Pray (Vercelli).
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 13 luglio 1976
+ Atti di Governo, registro n. 7, foglio n. 68
+

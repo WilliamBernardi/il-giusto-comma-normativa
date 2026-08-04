@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 1424
+data: 1939-07-28
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-07-28;1424
+codice_redazionale: 039U1424
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:51Z
+---
+
+REGIO DECRETO
+                28 luglio 1939
+                1424
+                Riconoscimento, agli effetti civili, della unione temporanea delle parrocchie di S. Emidio a Viamaggio, e dei S.S. Pietro e Paolo a Fresciano, in comune di Badia Tedalda (Arezzo). (039U1424)
+
+Entrata in vigore del provvedimento: 18/10/1939
+
+## Art. 1.
+
+N.
+
+R. decreto 28 luglio 1939, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Sansepolcro in data 1° novembre 1938-XVII, relativi alla unione temporanea delle parrocchie di S. Emidio a Viamaggio, e dei S.S.
+Pietro e Paolo a Fresciano, in comune di Badia Tedalda (Arezzo). 
+ 
+ Visto, il Guardasigilli: GRANDI 
+ 
+ Registrato alla Corte dei conti, addi' 18 settembre 1939-XVII
+

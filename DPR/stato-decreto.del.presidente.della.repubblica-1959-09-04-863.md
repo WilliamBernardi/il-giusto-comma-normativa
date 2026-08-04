@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 863
+data: 1959-09-04
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1959-09-04;863
+codice_redazionale: 059U0863
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:04Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                04 settembre 1959
+                863
+                Riconoscimento, agli effetti civili, dell'unione temporanea "acque principaliter", della parrocchia di Maria SS.ma del Carmine, in comune di Teana, con la parrocchia di Sant'Antonio di Padova, in comune di Fardella (Potenza).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 4 settembre 1959, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Angiona-Tursi in data 18 dicembre 1958, relativo all'unione temporanea "aeque principaliter", della parrocchia di Maria SS.ma del Carmine, in comune di Teana, con la parrocchia di Sant'Antonio di Padova, in comune di Fardella (Potenza).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 16 ottobre 1959
+ Atti del Governo, registro n. 121, foglio n. 60. - RELLEVA
+

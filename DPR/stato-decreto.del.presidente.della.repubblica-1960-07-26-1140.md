@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1140
+data: 1960-07-26
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1960-07-26;1140
+codice_redazionale: 060U1140
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:09Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                26 luglio 1960
+                1140
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di San Giovanni Bosco Confessore, in localita' Tondo del comune di Reggio nell'Emilia.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 luglio 1960, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Reggio Emilia in data 19 dicembre 1957, integrato con dichiarazione del 12 febbraio 1959, relativo alla erezione della parrocchia di San Giovanni Bosco Confessore, in localita' Tondo del comune di Reggio nell'Emilia.
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 4 ottobre 1960
+ Atti del Governo, registro n. 130, foglio n. 46. - VILLA
+

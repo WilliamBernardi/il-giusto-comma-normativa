@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1016
+data: 1954-05-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-05-29;1016
+codice_redazionale: 054U1016
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:12Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 maggio 1954
+                1016
+                Erezione in ente morale della Cassa scolastica della Scuola media statale "A" di via Fratti di Terni.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 maggio 1954, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica della Scuola media statale "A" di via Fratti di Terni viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 27 ottobre 1954
+ Atti dei Governo, registro n. 86, foglio n. 177. - CARLOMAGNO
+

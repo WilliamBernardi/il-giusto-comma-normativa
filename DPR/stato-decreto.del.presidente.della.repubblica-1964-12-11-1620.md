@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1620
+data: 1964-12-11
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1964-12-11;1620
+codice_redazionale: 064U1620
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:01Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                11 dicembre 1964
+                1620
+                Erezione in ente morale della Cassa scolastica dell'istituto tecnico commerciale di Casamicciola Terme (Napoli).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 11 dicembre 1964, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello Istituto tecnico commerciale di Casamicciola Terme (Napoli), viene eretta in ente morale e ne viene approvato lo statuto.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte del conti, addi' 22 febbraio 1965
+ Atti del Governo, registro n. 191, foglio n. 2. - VILLA
+

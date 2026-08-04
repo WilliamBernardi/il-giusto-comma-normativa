@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 223
+data: 1977-02-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1977-02-10;223
+codice_redazionale: 077U0223
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 febbraio 1977
+                223
+                Autorizzazione alla cassa mutua di malattia per i coltivatori diretti di Potenza ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 10 febbraio 1977, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, la cassa mutua di malattia per i coltivatori diretti di Potenza viene autorizzata ad acquistare, al prezzo di L. 22.700.000, una porzione di immobile sita in Potenza, via della Pineta, 28, rappresentata dall'intero terzo piano e da un locale al piano terreno di proprieta' dei signori Francesco Paolo e Michele Tolla, iscritta in catasto al foglio n. 47, part. 743 sub 6 e 14, come da rogito per notaio Pier Luigi Giuliani del 18 giugno 1963, n. 2131 di repertorio, da adibire a poliambulatorio.
+
+Visto, il Guardasigilli: BONIFACIO
+ Registrato alla Corte dei conti, addi' 16 maggio 1977
+ Registro n. 1 Lavoro, foglio n. 17
+

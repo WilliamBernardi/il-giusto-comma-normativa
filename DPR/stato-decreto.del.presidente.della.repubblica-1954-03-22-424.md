@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 424
+data: 1954-03-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1954-03-22;424
+codice_redazionale: 054U0424
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 marzo 1954
+                424
+                Riconoscimento della personalita' giuridica della Congregazione delle Piccole Missionarie del Sacro Cuore, con sede in frazione Antignano del comune di Livorno.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 marzo 1954, col quale, sulla proposta del Ministro per l'interno, viene riconosciuta la personalita' giuridica della Congregazione delle Piccole Missionarie del Sacro Cuore, con sede in frazione Antignano del comune di Livorno e la Congregazione stessa viene autorizzata ad accettare la donazione disposta da Rossi Ginevra e Rossi Annina, consistente in immobili situati in Livorno e Bagni di Casciano (Pisa), adibiti a sede della Congregazione e ad asili infantili gestiti dalla stessa.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 1 luglio 1954
+ Atti del Governo, registro n. 84, foglio n. 3. - CARLOMAGNO
+

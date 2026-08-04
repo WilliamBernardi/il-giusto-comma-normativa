@@ -1,0 +1,90 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 61
+data: 2011-04-11
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2011-04-11;61
+codice_redazionale: 011G0101
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2024-10-18
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:28Z
+---
+
+DECRETO LEGISLATIVO
+                11 aprile 2011
+                61
+                Attuazione della Direttiva 2008/114/CE recante l'individuazione e la designazione delle infrastrutture critiche europee e la valutazione della necessita' di migliorarne la protezione. (11G0101)
+
+Entrata in vigore del provvedimento: 05/05/2011
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 SETTEMBRE 2024, N. 134))
+
+
+

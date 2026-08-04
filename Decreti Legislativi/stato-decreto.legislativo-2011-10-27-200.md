@@ -1,0 +1,70 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 200
+data: 2011-10-27
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:2011-10-27;200
+codice_redazionale: 011G0242
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2017-04-02
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:31Z
+---
+
+DECRETO LEGISLATIVO
+                27 ottobre 2011
+                200
+                Disciplina sanzionatoria per la violazione delle disposizioni del regolamento (CE) n. 689/2008 sull'esportazione ed importazione di sostanze chimiche pericolose. (11G0242)
+
+Entrata in vigore del provvedimento: 20/12/2011
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 4. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 8. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 10 FEBBRAIO 2017, N. 28))
+
+
+

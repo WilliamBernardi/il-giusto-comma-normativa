@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 790
+data: 1913-06-22
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-06-22;790
+codice_redazionale: 013U0790
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:13Z
+---
+
+REGIO DECRETO
+                22 giugno 1913
+                790
+                Modificazione di statuto. (013U0790)
+
+Entrata in vigore del provvedimento: 27/07/1913
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

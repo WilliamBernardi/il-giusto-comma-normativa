@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 786
+data: 1979-10-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-10-29;786
+codice_redazionale: 079U0786
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 ottobre 1979
+                786
+                Autorizzazione alla Cassa nazionale di previdenza e assistenza a favore dei dottori commercialisti, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 ottobre 1979, col quale, sulla proposta del Ministro del lavoro e della previdenza sociale, la Cassa nazionale di previdenza e assistenza a favore dei dottori commercialisti, in Roma, viene autorizzata ad acquistare, in via di sanatoria, al prezzo di L. 375.000.000, il fabbricato di cinque piani sito in Torino, via Bligny n. 11, censito al nuovo catasto edilizio urbano al foglio 205 n. 137 subb. dall'1 al 22 compreso, di proprieta' della societa' immobiliare Tabli, come da atto di compravendita 27 novembre 1969, n. 217259 di repertorio, a rogito avv. Remo Morone, notaio in Torino. 
+ 
+Visto, il Guardasigilli: MORLINO 
+ Registrato alla Corte dei conti, addi' 23 febbraio 1980 
+ Registro n. 1 Lavoro, foglio n. 97
+

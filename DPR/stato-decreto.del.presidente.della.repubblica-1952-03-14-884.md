@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 884
+data: 1952-03-14
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-03-14;884
+codice_redazionale: 052U0884
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                14 marzo 1952
+                884
+                Autorizzazione all'Universita' cattolica del Sacro Cuore di Milano ad accettare un legato.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 14 marzo 1952, col quale, sulla proposta del Ministro per la pubblica istruzione, l'Universita' cattolica del Sacro Cuore di Milano viene autorizzata ad accettare il legato di L. 300.000 disposto in suo favore della defunta signorina Serena Giselda, con testamento pubblico in data 15 gennaio 1951, per l'istituenda Facolta' di medicina e chirurgia.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Carte dei conti, addi' 9 luglio 1952
+ Atti del Governo, registro n. 55, foglio n. 92. - FRASCA
+

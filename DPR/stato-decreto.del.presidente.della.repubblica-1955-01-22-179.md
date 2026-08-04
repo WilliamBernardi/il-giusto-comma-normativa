@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 179
+data: 1955-01-22
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-01-22;179
+codice_redazionale: 055U0179
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                22 gennaio 1955
+                179
+                Autorizzazione alla Cassa scolastica dello statale Istituto tecnico commerciale e per geometri "J. Barozzi" di Modena ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 22 gennaio 1955, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica dello statale Istituto tecnico commerciale e per geometri "J. Barozzi" di Modena viene autorizzata, ad accettare la, donazione di nominali L. 200.000 in titoli di Stato, disposta al fine di istituire, col relativo reddito, una borsa di studio annuale intitolata al ragioniere Renzo Ghittoni.
+
+Visto, il Guardasigilli: DE PIETRO
+ Registrato alla Corte dei conti, addi' 29 marzo 1955
+ Atti dei Governo, registro n. 89, foglio n. 197. - CARLOMAGNO
+

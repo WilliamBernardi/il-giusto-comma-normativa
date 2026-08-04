@@ -1,0 +1,185 @@
+---
+tipo: DECRETO
+numero: 41
+data: 2015-02-18
+titolo: ""
+urn: urn:nir:ministero.economia.e.finanze:decreto:2015-02-18;41
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+vigenza_date: 2025-01-14
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:39Z
+---
+
+DECRETO
+                18 febbraio 2015
+                41
+                Regolamento concernente l'individuazione delle finalita', degli obiettivi, dell'organizzazione, nonche' delle modalita' concorsuali per l'accesso al corso superiore di polizia tributaria. (15G00055)
+
+Entrata in vigore del provvedimento: 01/05/2015
+
+E DELLE FINANZE
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 17 marzo 2014;
+
+## - Titolo I Finalita' e obiettivi del corso superiore di polizia tributaria
+
+## Art. 1.
+
+Finalita' del corso superiore di polizia tributaria
+
+Il corso superiore di polizia tributaria, della durata di due anni, ha la finalita' di preparare gli ufficiali frequentatori a ricoprire incarichi connotati da elevata complessita' gestionale e organizzativa, in relazione alla particolarita' del contesto istituzionale, alla dimensione della struttura e al livello di responsabilita'.
+
+Il superamento del corso superiore costituisce titolo per l'avanzamento in carriera con preferenza rispetto ad altri corsi o titoli acquisiti, ai sensi dell'articolo 19, comma 2, del decreto legislativo 19 marzo 2001, n. 69.
+
+## Art. 2. — Obiettivi del corso superiore di polizia tributaria
+
+## - Titolo II Modalita' di ammissione al corso superiore di polizia tributaria
+
+## Art. 3. — Bando di concorso
+
+Al corso superiore di polizia tributaria accedono i vincitori di un concorso per titoli ed esami, indetto annualmente con determinazione del Comandante Generale della Guardia di finanza ed al quale possono partecipare gli ufficiali in possesso dei requisiti di cui all'articolo 5 della legge 24 ottobre 1966, n. 887 e che, ai sensi dell'articolo 4, secondo comma, della legge 3 maggio 1971, n. 320, non siano titolati «Istituto superiore di stato maggiore interforze» ovvero frequentatori del corso superiore di stato maggiore interforze di cui all'articolo 751 del decreto legislativo 15 marzo 2010, n. 66. Il bando, che viene pubblicato sul foglio d'ordini della Guardia di finanza, stabilisce il numero dei posti a disposizione, i singoli titoli valutabili e il relativo punteggio, definiti ai sensi dell'articolo 5, comma 2, i programmi di esame, le modalita' di svolgimento delle prove di esame e le cause di esclusione dal concorso per motivi verificatisi dopo l'ammissione ovvero di revoca del giudizio di idoneita' prima dell'inizio del corso.
+
+Al corso superiore di polizia tributaria possono partecipare, previe intese con le amministrazioni interessate, ufficiali di altre Forze armate e di polizia, nonche' rappresentanti di altre pubbliche amministrazioni, anche internazionali, sulla base di modalita' stabilite con determinazione del Comandante Generale della Guardia di finanza.
+
+## Art. 4. — Fasi concorsuali
+
+## Art. 5. — Valutazione dei titoli
+
+I titoli da valutare ai fini del concorso per l'ammissione al corso superiore di polizia tributaria, per un massimo di trenta punti, calcolati sino al centesimo, sono le qualita' morali, di carattere, fisiche e professionali e le doti intellettuali e di cultura dell'ufficiale emergenti dal libretto personale.
+
+## Art. 6. — Prove di esame
+
+
+
+Ogni membro con diritto di voto della commissione giudicatrice di cui all'articolo 7 attribuisce a ciascun candidato, per ognuna delle prove di cui al comma 1, un punteggio in trentesimi.
+
+Il punteggio conseguito da ciascun candidato per ognuna delle prove di esame di cui al comma 1 e' determinato calcolando sino al centesimo la media aritmetica dei punteggi di cui al comma 3.
+
+Ciascuna delle prove di esame di cui al comma 1 e' superata dal candidato che abbia conseguito almeno diciotto trentesimi. Sono ammessi alle prove orali e di lingua inglese i candidati che abbiano superato entrambe le prove scritte.
+
+## Art. 7. — Commissione giudicatrice e graduatoria
+
+La commissione giudicatrice per la valutazione dei titoli e delle prove di esame, di cui agli articoli 5 e 6, e' nominata annualmente con determinazione del Comandante Generale della Guardia di finanza. La stessa e' presieduta ((da un generale di corpo d'armata della Guardia di finanza)) e composta da due ufficiali generali della Guardia di finanza, da un colonnello del Corpo e da un professore universitario in diritto tributario. Per lo svolgimento della prova di cui all'articolo 6, comma 1, lettera e), la commissione e' integrata da un esperto di lingua inglese. Le funzioni di segretario, senza voto, sono esercitate da un ufficiale superiore della Guardia di finanza.
+
+Prima di procedere all'esame dei titoli posseduti dai candidati e alla somministrazione delle prove di esame, la commissione giudicatrice definisce, in appositi verbali, i criteri cui attenersi nelle valutazioni di cui agli articoli 5 e 6.
+
+Ultimati gli esami, la commissione procede alla formazione della graduatoria generale dei candidati sulla base dei punteggi di merito attribuiti con le modalita' di cui agli articoli 5 e 6.
+
+((La graduatoria generale di merito del concorso e' formata in base alla media aritmetica ponderata, calcolata sino al centesimo, tra il punteggio conseguito nella valutazione dei titoli di cui all'articolo 5, il punteggio complessivo di cui all'articolo 6, comma 6, lettera a), e il punteggio complessivo di cui all'articolo 6, comma 6, lettera b). Al punteggio complessivo di cui all'articolo 6, comma 6, lettere a) e b), e' attribuito coefficiente doppio.)) E' data precedenza in graduatoria, a parita' di voto, al concorrente piu' elevato in grado. In caso di ulteriore parita' prevale il candidato con maggiore anzianita' relativa.
+
+La graduatoria generale e' approvata con determinazione del Comandante Generale della Guardia di finanza e pubblicata sul foglio d'ordini del Corpo.
+
+## - Titolo III Organizzazione del corso  Capo I   Programmazione didattica
+
+## Art. 8. — Sede
+
+Il corso superiore di polizia tributaria si svolge presso la Scuola di polizia tributaria della Guardia di finanza.
+
+Ciascun corso e' contraddistinto da un numero d'ordine progressivo.
+
+## Art. 9. — Programma didattico
+
+Il corso superiore di polizia tributaria si svolge secondo il calendario e le prescrizioni contenute nel programma didattico, approvato con determinazione del Comandante Generale della Guardia di finanza.
+
+Il programma didattico si articola in specifici ed autonomi moduli formativi e in esperienze applicative esterne, tendenti allo sviluppo dei contenuti delle aree di cui all'articolo 10. Per ciascun modulo formativo e esperienza applicativa esterna sono indicati i relativi obiettivi didattici, i contenuti, le modalita' didattiche, la durata e la tipologia di docenza.
+
+## Art. 10. — Aree didattiche
+
+Per la realizzazione delle finalita' e degli obiettivi di cui al Titolo I, il corso superiore di polizia tributaria e' strutturato secondo una combinazione equilibrata di competenze, capacita' gestionali e manageriali che attengono alla sfera istituzionale della Guardia di finanza.
+
+## Art. 11. — Metodologie didattiche
+
+Per la realizzazione del programma didattico di cui all'articolo 9 vengono utilizzate metodologie basate sulla valorizzazione del discente come soggetto attivo del processo di apprendimento, al fine di stimolarne partecipazione e coinvolgimento e facilitare lo scambio di esperienze e l'interazione linguistica, anche mediante lo svolgimento di attivita' didattiche in lingua straniera.
+
+## - Capo II Soggetti
+
+## Art. 12. — Direttore del corso
+
+Direttore del corso e' il comandante della Scuola di polizia tributaria.
+
+Il direttore del corso, avvalendosi anche del comandante del corso di cui all'articolo 13, o di altro ufficiale della Scuola di polizia tributaria, garantisce il coordinamento della progettazione didattica di dettaglio elaborata da ciascun docente nell'ambito dell'area didattica di competenza.
+
+## Art. 13. — Comandante del corso
+
+## Art. 14. — Docenti
+
+Il corpo docente del corso superiore di polizia tributaria e' approvato dal Comandante Generale della Guardia di finanza ed e' costituito da figure, sia interne alla Guardia di finanza che esterne, selezionate sulla base della rilevanza dell'esperienza maturata sia sotto l'aspetto professionale che formativo. In particolare, i docenti devono possedere sperimentata padronanza nella gestione dei processi di apprendimento, nell'uso di metodologie didattiche attive, nel governo delle dinamiche di gruppo.
+
+Di norma, l'incarico viene affidato a docenti universitari, ufficiali in servizio permanente effettivo nella Guardia di finanza ed in altre Forze armate con grado non inferiore a colonnello e gradi equiparati, dirigenti delle Forze di polizia ad ordinamento civile, magistrati, dirigenti delle amministrazioni dello Stato, esperti esterni alle amministrazioni dello Stato particolarmente qualificati.
+
+Per ciascun modulo formativo viene incaricato un docente titolare, il quale puo' avvalersi, per una parte del programma da svolgere, di non piu' di due docenti aggiunti, designati su sua indicazione. Per la trattazione di argomenti specifici e' altresi' possibile fare ricorso a testimonianze qualificate.
+
+## - Capo III Valutazione
+
+## Art. 15. — Valutazione durante la frequenza del corso
+
+A ognuno dei lavori di cui al comma 1, lettere a) e b), e' attribuito uno dei seguenti giudizi, sinteticamente motivato: ottimo, molto buono, buono, sufficiente, insufficiente.
+
+## Art. 16. — Prova orale
+
+Al termine del ciclo di lezioni di ciascun anno di corso ha luogo un esame finale orale, a carattere interdisciplinare, sulle materie indicate, annualmente, con determinazione del Comandante Generale tra quelle oggetto di insegnamento.
+
+## Art. 17. — Commissione di esame
+
+La commissione giudicatrice per la valutazione dell'esame di cui all'articolo 16 e' nominata annualmente con determinazione del Generale ispettore per gli istituti di istruzione della Guardia di finanza. La stessa e' presieduta dal direttore del corso e composta dal comandante del corso e dagli insegnanti titolari delle materie oggetto di esame. Le funzioni di segretario, senza voto, sono esercitate da un ufficiale superiore della Scuola di polizia tributaria.
+
+## Art. 18. — Valutazione dell'esame finale orale
+
+Al termine della prova di esame di cui all'articolo 16 la commissione attribuisce a ciascun frequentatore uno dei giudizi indicati all'articolo 15, comma 2.
+
+Al termine di ogni seduta la commissione di esame compila il verbale con l'elenco dei frequentatori esaminati e l'indicazione del giudizio da ciascuno riportato, che viene immediatamente comunicato agli interessati.
+
+La prova di esame e' superata qualora il frequentatore riporti un giudizio non inferiore a sufficiente.
+
+## Art. 19. — Commissione giudicatrice e valutazione finale
+
+Al termine di ciascun anno di corso, una commissione giudicatrice presieduta dal Generale ispettore per gli istituti di istruzione della Guardia di finanza e composta dal direttore e dal comandante del corso, tenendo conto degli esiti delle attivita' didattiche di cui all'articolo 15 e della prova di esame di cui all'articolo 16, attribuisce a ogni frequentatore un giudizio complessivo.
+
+Al termine del biennio, la commissione giudicatrice di cui al comma 1, tenendo conto dei giudizi complessivi espressi al termine di ciascun anno, attribuisce a ogni frequentatore un giudizio finale.
+
+Ai fini di cui ai commi 1 e 2 viene attribuito a ciascun frequentatore uno dei giudizi di cui all'articolo 15, comma 2, sinteticamente motivato. E' dichiarato idoneo il frequentatore che abbia riportato un giudizio non inferiore a sufficiente.
+
+Ai componenti della commissione giudicatrice di cui al comma 1 non spettano emolumenti, compensi, indennita' o rimborsi spese.
+
+## Art. 20. — Impedimento a sostenere l'esame
+
+I frequentatori che, per giustificato motivo, non possono sostenere la prova di esame di cui all'articolo 16 sono ammessi dal presidente della commissione di esame a effettuarla in data successiva, ma non oltre trenta giorni rispetto a quella stabilita.
+
+## Art. 21. — Assenza dalla prova di esame
+
+Ai frequentatori che si ritirano durante la prova di esame di cui all'articolo 16 o che non si presentano alla stessa senza giustificato motivo e' attribuito il giudizio di insufficiente.
+
+## Art. 22. — Rinvio dal corso
+
+Il provvedimento di rinvio e' adottato dal Comandante Generale della Guardia di Finanza ed e' notificato all'ufficiale interessato.
+
+Nei casi previsti dalle lettere c) ed e) del comma 1, se l'impedimento o l'assenza e' dovuto a giustificati motivi, gli ufficiali possono chiedere con documentata istanza diretta al Comandante Generale della Guardia di Finanza, che provvede con propria determinazione, di essere ammessi, per una sola volta, alla frequenza del corso immediatamente successivo.
+
+Gli ufficiali rinviati dal corso non possono partecipare ai successivi concorsi per l'ammissione al corso superiore di polizia tributaria.
+
+## Art. 23. — Esclusione dal corso
+
+Sono esclusi dal corso superiore di polizia tributaria gli ufficiali ai quali, durante la frequenza del corso, e' irrogata una sanzione disciplinare di stato ovvero una sanzione disciplinare di corpo non inferiore alla consegna di rigore.
+
+Il provvedimento e' adottato, con propria determinazione, dal Comandante Generale della Guardia di finanza.
+
+Gli ufficiali esclusi non possono partecipare ai successivi concorsi per l'ammissione al corso superiore di polizia tributaria.
+
+## - Titolo IV Disposizioni varie
+
+## Art. 24. — Titoli e brevetti
+
+## Art. 25. — Documentazione caratteristica
+
+La documentazione caratteristica nei confronti dei frequentatori dei corsi e' compilata in ossequio alle disposizioni vigenti in materia.
+
+## Art. 26. — Abrogazioni
+
+E' abrogato il decreto del Ministro dell'economia e delle finanze 1° aprile 2004, n. 125, fatto salvo quanto stabilito dall'articolo 27 del presente regolamento.
+
+## Art. 27. — Decorrenza
+
+Le disposizioni del Titolo III si applicano a partire dal corso superiore che avra' inizio nell'anno accademico di entrata in vigore del presente regolamento. Per i corsi precedenti, continuano ad applicarsi le disposizioni di cui al Titolo III del decreto del Ministro dell'economia e delle finanze di cui all'articolo 26.
+

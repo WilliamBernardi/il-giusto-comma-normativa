@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2562
+data: 1875-06-17
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1875-06-17;2562
+codice_redazionale: 075U2562
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:14:35Z
+---
+
+REGIO DECRETO
+                17 giugno 1875
+                2562
+                Col quale al consorzio costituitosi in Confienza, provincia di Pavia, e' concessa la facolta' di riscuotere coi privilegi e nelle forme fiscali il contributo dei soci. (075U2562)
+
+Entrata in vigore del provvedimento: 29/07/1875
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

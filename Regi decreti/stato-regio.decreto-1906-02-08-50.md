@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+data: 1906-02-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1906-02-08;50
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:02Z
+---
+
+REGIO DECRETO
+                08 febbraio 1906
+                L
+                Autorizzazione al comune di Como di esercitare linee a trazione elettrica in citta'. (0600050R)
+
+Entrata in vigore del provvedimento: 20/04/1906
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

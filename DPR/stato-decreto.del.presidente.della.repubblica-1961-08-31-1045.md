@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1045
+data: 1961-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1961-08-31;1045
+codice_redazionale: 061U1045
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1961
+                1045
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di N.S.G.C. Re, in Belpasso (Catania).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 agosto 1961, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Catania in data 15 giugno 1958, integrato con postilla del 5 dicembre 1960 e con dichiarazione del 21 aprile 1961, relativo alla erezione della parrocchia di N.S.G.C. Re, in Belpasso (Catania).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 10 ottobre 1961
+ Atti del Governo, registro n. 140, foglio n. 158. - VILLA
+

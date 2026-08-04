@@ -1,0 +1,31 @@
+---
+tipo: REGIO DECRETO
+numero: 1986
+data: 1935-01-24
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1935-01-24;1986
+codice_redazionale: 035U1986
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:26:48Z
+---
+
+REGIO DECRETO
+                24 gennaio 1935
+                1986
+                Riconoscimento della personalita' giuridica della Provincia delle Marche dell'Ordine dei Frati Minori Conventuali, con sede in Osimo. (035U1986)
+
+Entrata in vigore del provvedimento: 12/12/1935
+
+## Art. 1.
+
+N.
+
+R. decreto 24 gennaio 1935, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, viene riconosciuta la personalita' giuridica della Provincia delle Marche, con sede in Osimo, dell'Ordine dei Frati Minori Convenutale e viene concessa l'autorizzazione alla stessa pel trasferimento d'immobili, da essa posseduti da epoca anteriore al Concordato, attualmente intestati a terzi. 
+ 
+ Visto, il Guardasigilli: Solmi. 
+ 
+ Registrato alla Corte dei conti, addi' 20 novembre 1935 - Anno XIV
+

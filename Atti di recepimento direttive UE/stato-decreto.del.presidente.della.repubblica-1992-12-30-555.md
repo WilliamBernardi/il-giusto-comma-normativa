@@ -1,0 +1,116 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 555
+data: 1992-12-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1992-12-30;555
+codice_redazionale: 093G0059
+vigente: true
+source: normattiva-opendata
+collection: Atti di recepimento direttive UE
+vigenza_date: 2008-09-26
+zip_date: 2026-07-30
+fetched_at: 2026-08-02T09:40:47Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 dicembre 1992
+                555
+                 Regolamento per l'attuazione della direttiva 91/67/CEE che stabilisce norme di polizia sanitaria per i prodotti di acquacoltura.
+
+Entrata in vigore del decreto: 19-2-1993
+
+## - Capo I DISPOSIZIONI GENERALI
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## - Capo II IMMISSIONE SUL MERCATO DEGLI ANIMALI E DEI PRODOTTI D'ACQUACOLTURA DELLA COMUNITA'
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 4. — (( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
+
+
+
+## Art. 5. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 6. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 7. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 8. — (( PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148 ))
+
+
+
+## Art. 9. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 10. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 11. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 12. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 13. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 14. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 15. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 16. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 17. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## - Capo III NORME APPLICABILI PER LE IMPORTAZIONI IN PROVENIENZA DA PAESI TERZI
+
+## Art. 18. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 19. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 20. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 21. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+
+## Art. 22. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 4 AGOSTO 2008, N. 148))
+
+
+

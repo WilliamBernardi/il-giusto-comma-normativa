@@ -1,0 +1,641 @@
+---
+tipo: REGIO DECRETO
+numero: 1401
+data: 1930-09-26
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1930-09-26;1401
+codice_redazionale: 030U1401
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-10-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:00:47Z
+---
+
+REGIO DECRETO
+                26 settembre 1930
+                1401
+                Nuovi elenchi delle imperfezioni e delle infermita' riguardanti l'attitudine fisica al servizio militare. (030U1401)
+
+Entrata in vigore del provvedimento: 13/11/1930
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+
+
+### Art. 1.
+
+Elenco A-art. 1 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 2.
+
+Elenco A-art. 2 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 3.
+
+Elenco A-art. 3 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 4.
+
+Elenco A-art. 4 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 5.
+
+Elenco A-art. 5 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 6.
+
+Elenco A-art. 6 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 7.
+
+Elenco A-art. 7 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 8.
+
+Elenco A-art. 8 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 9.
+
+Elenco A-art. 9 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 10.
+
+Elenco A-art. 10 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 11.
+
+Elenco A-art. 11 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 12.
+
+Elenco A-art. 12 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 13.
+
+Elenco A-art. 13 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 14.
+
+Elenco A-art. 14 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 15.
+
+Elenco A-art. 15 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 16.
+
+Elenco A-art. 16 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 17.
+
+Elenco A-art. 17 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 18.
+
+Elenco A-art. 18 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 19.
+
+Elenco A-art. 19 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 20.
+
+Elenco A-art. 20 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 21.
+
+Elenco A-art. 21 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 22.
+
+Elenco A-art. 22 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 23.
+
+Elenco A-art. 23 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 24.
+
+Elenco A-art. 24 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 25.
+
+Elenco A-art. 25 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 26.
+
+Elenco A-art. 26 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 27.
+
+Elenco A-art. 27 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 28.
+
+Elenco A-art. 28 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 29.
+
+Elenco A-art. 29 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 30.
+
+Elenco A-art. 30 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 31.
+
+Elenco A-art. 31 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 32.
+
+Elenco A-art. 32 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 33.
+
+Elenco A-art. 33 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 34.
+
+Elenco A-art. 34 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 35.
+
+Elenco A-art. 35 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 36.
+
+Elenco A-art. 36 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 37.
+
+Elenco A-art. 37 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 38.
+
+Elenco A-art. 38 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 39.
+
+Elenco A-art. 39 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 40.
+
+Elenco A-art. 40 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 41.
+
+Elenco A-art. 41 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 42.
+
+Elenco A-art. 42 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 43.
+
+Elenco A-art. 43 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 44.
+
+Elenco A-art. 44 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 45.
+
+Elenco A-art. 45 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 46.
+
+Elenco A-art. 46 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 47.
+
+Elenco A-art. 47 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 48.
+
+Elenco A-art. 48 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 49.
+
+Elenco A-art. 49 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 50.
+
+Elenco A-art. 50 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 51.
+
+Elenco A-art. 51 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 52.
+
+Elenco A-art. 52 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 53.
+
+Elenco A-art. 53 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 54.
+
+Elenco A-art. 54 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 55.
+
+Elenco A-art. 55 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 56.
+
+Elenco A-art. 56 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 57.
+
+Elenco A-art. 57 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 58.
+
+Elenco A-art. 58 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 59.
+
+Elenco A-art. 59 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 60.
+
+Elenco A-art. 60 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 61.
+
+Elenco A-art. 61 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 62.
+
+Elenco A-art. 62 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 63.
+
+Elenco A-art. 63 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 64.
+
+Elenco A-art. 64 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 65.
+
+Elenco A-art. 65 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 66.
+
+Elenco A-art. 66 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 67.
+
+Elenco A-art. 67 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 68.
+
+Elenco A-art. 68 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 69.
+
+Elenco A-art. 69 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 70.
+
+Elenco A-art. 70 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 71.
+
+Elenco A-art. 71 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 72.
+
+Elenco A-art. 72 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 73.
+
+Elenco A-art. 73 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 74.
+
+Elenco A-art. 74 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 75.
+
+Elenco A-art. 75 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 76.
+
+Elenco A-art. 76 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 77.
+
+Elenco A-art. 77 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 78.
+
+Elenco A-art. 78 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 79.
+
+Elenco A-art. 79 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 80.
+
+Elenco A-art. 80 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 81.
+
+Elenco A-art. 81 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 82.
+
+Elenco A-art. 82 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 83.
+
+Elenco A-art. 83 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 84.
+
+Elenco A-art. 84 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 85.
+
+Elenco A-art. 85 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 86.
+
+Elenco A-art. 86 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 87.
+
+Elenco A-art. 87 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 88.
+
+Elenco A-art. 88 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 89.
+
+Elenco A-art. 89 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 90.
+
+Elenco A-art. 90 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 91.
+
+Elenco A-art. 91 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 92.
+
+Elenco A-art. 92 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 93.
+
+Elenco A-art. 93 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 94.
+
+Elenco A-art. 94 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 95.
+
+Elenco A-art. 95 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 96.
+
+Elenco A-art. 96 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 97.
+
+Elenco A-art. 97 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 98.
+
+Elenco A-art. 98 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 99.
+
+Elenco A-art. 99 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 1.
+
+Elenco B-art. 1 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 2.
+
+Elenco A-art. 2 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 3.
+
+Elenco A-art. 3 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 4.
+
+Elenco A-art. 4 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 5.
+
+Elenco A-art. 5 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 6.
+
+Elenco A-art. 6 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 7.
+
+Elenco A-art. 7 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 8.
+
+Elenco A-art. 8 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 9.
+
+Elenco A-art. 9 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 10.
+
+Elenco A-art. 10 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 11.
+
+Elenco A-art. 11 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 12.
+
+Elenco A-art. 12 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 13.
+
+Elenco A-art. 13 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 14.
+
+Elenco A-art. 14 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 15.
+
+Elenco A-art. 15 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 16.
+
+Elenco A-art. 16 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 17.
+
+Elenco A-art. 17 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 18.
+
+Elenco A-art. 18 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 19.
+
+Elenco A-art. 19 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 20.
+
+Elenco A-art. 20 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 21.
+
+Elenco A-art. 21 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 22.
+
+Elenco A-art. 22 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 23.
+
+Elenco A-art. 23 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+
+### Art. 24.
+
+Elenco A-art. 24 
+ ((PROVVEDIMENTO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))
+

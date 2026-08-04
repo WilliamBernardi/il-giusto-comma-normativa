@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 568
+data: 1952-05-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1952-05-05;568
+codice_redazionale: 052U0568
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:54Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 maggio 1952
+                568
+                Autorizzazione all'Associazione nazionale mutilati ed invalidi del lavoro, con sede in Roma, ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 maggio 1952, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Associazione nazionale mutilati ed invalidi del lavoro, con sede in Roma, viene autorizzata ad accettare la donazione effettuata da parte del comune di Gallarate (Varese) consistente in un'area sita in detto Comune.
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 3 giugno 1952
+ Atti del Governo, registro n. 54, foglio n. 6. - FRASCA
+

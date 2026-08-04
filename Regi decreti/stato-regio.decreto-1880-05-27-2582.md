@@ -1,0 +1,28 @@
+---
+tipo: REGIO DECRETO
+data: 1880-05-27
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1880-05-27;2582
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:34Z
+---
+
+REGIO DECRETO
+                27 maggio 1880
+                MMDLXXXII
+                Che erige in corpo morale l'opera pia Pollenghi fondata in Lodi Vecchio (Milano), e ne approva lo statuto. (8002582R)
+
+Entrata in vigore del provvedimento: 22/07/1880
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

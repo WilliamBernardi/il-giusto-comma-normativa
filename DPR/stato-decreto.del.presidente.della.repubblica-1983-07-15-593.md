@@ -1,0 +1,34 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 593
+data: 1983-07-15
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-07-15;593
+codice_redazionale: 083U0593
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                15 luglio 1983
+                593
+                Assegnazione di quattro posti di tecnico laureato presso l'Universita' degli studi di Cosenza.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 15 luglio 1983, col quale, sulla proposta del Ministro della pubblica istruzione, quattro posti disponibili nel ruolo dei tecnici laureati vengono assegnati come segue:
+
+UNIVERSITA' DI COSENZA
+Facolta' di ingegneria:
+dipartimento di difesa del suolo (per le esigenze della cattedra acquedotti e fognature) . . . . . . . . . . . . . . . . . . . posti 1 Facolta' di scienze matematiche, fisiche e naturali:
+dipartimento di matematica (per le esigenze del laboratorio di analisi numerica annesso alla cattedra di calcoli numerici e grafici). . . . . . . . . . . . . . . . . . . . . . . . . . . posti 1 Facolta' di lettere e filosofia:
+dipartimento di storia medioevale . . . . . . . . . . . . . . posti 1 dipartimento di scienza dell'educazione . . . . . . . . . . . posti 1 
+Visto, il Guardasigilli: MARTINAZZOLI
+ Registrato alla Corte dei conti, addi' 15 ottobre 1983
+ Registro n. 66 Istruzione, foglio n. 146
+

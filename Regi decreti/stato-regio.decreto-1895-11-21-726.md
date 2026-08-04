@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-11-21
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-11-21;726
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:49Z
+---
+
+REGIO DECRETO
+                21 novembre 1895
+                DCCXXVI
+                Con cui la pia opera Locicero e' concentrata nella congregazione di carita' di Termini Imerese. (9500726R)
+
+Entrata in vigore del provvedimento: 04/01/1896
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

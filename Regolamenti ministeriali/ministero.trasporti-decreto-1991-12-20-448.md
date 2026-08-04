@@ -1,0 +1,177 @@
+---
+tipo: DECRETO
+numero: 448
+data: 1991-12-20
+titolo: ""
+urn: urn:nir:ministero.trasporti:decreto:1991-12-20;448
+codice_redazionale: 092G0099
+vigente: true
+source: normattiva-opendata
+collection: Regolamenti ministeriali
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:42:40Z
+---
+
+DECRETO
+                20 dicembre 1991
+                448
+                 Regolamento di attuazione della direttiva del Consiglio delle Comunita' europee n. 438 del 21 giugno 1989 che modifica la direttiva del Consiglio n. 562 del 12 novembre 1974 riguardante l'accesso alla professione di trasportatore di viaggiatori su strada nel settore dei trasporti nazionali ed internazionali.
+
+Entrata in vigore del decreto: 1/3/1992
+
+Udito il parere del Consiglio di Stato reso nell'adunanza generale del 30 maggio 1991;
+
+Esperita la procedura prevista dalla sopracitata legge n. 400/1988, art. 17, comma 3, ultimo periodo, con la comunicazione al Presidente del Consiglio dei Ministri;
+
+## Art. 1. — Definizioni
+
+## Art. 2. — Limiti di applicabilita' delle norme
+
+Sono esonerate dall'applicazione delle disposizioni contenute nel presente regolamento le imprese che effettuano esclusivamente trasporto di viaggiatori su strada a fini non commerciali mediante autobus immatricolati ai sensi dell'art. 58, comma 7, seconda parte, del decreto del Presidente della Repubblica 15 giugno 1959, n. 393, e successive modificazioni ed integrazioni.
+
+L'esercizio dei servizi pubblici di linea e l'attivita' di noleggio con conducente, restano soggetti alle apposite disposizioni, in quanto compatibili con quelle del presente regolamento.
+
+## Art. 3. — Requisiti per l'accesso alla professione
+ di trasportatore di viaggiatori su strada
+
+Le imprese che intendono esercitare la professione di trasportatore di viaggiatori su strada debbono dimostrare nei modi indicati negli articoli seguenti la propria idoneita' morale, finanziaria e professionale.
+
+## Art. 4. — Requisito della idoneita' morale
+
+Il predetto requisito deve essere posseduto dal titolare della impresa individuale o, quando si tratta di societa', da tutti i soci per le societa' in nome collettivo, dai soci accomandatari per le societa' in accomandita semplice o per azioni, dagli amministratori per ogni altro tipo di societa'. Quando all'esercizio dell'impresa o di un ramo di essa o di una sede sia proposto un institore o un direttore, anche da quest'ultimo.
+
+Il requisito dell'idoneita' morale deve essere inoltre posseduto da tutte le persone che dirigono l'attivita' di trasporto in maniera permanente ed effettiva.
+
+## Art. 5. — Requisito della idoneita' finanziaria
+
+La idoneita' finanziaria consiste nella disponibilita' di risorse finanziarie necessarie ad assicurare il corretto avviamento e la buona gestione dell'impresa.
+
+Ai fini dell'accertamento della idoneita' finanziaria l'autorita' competente considera: i conti annuali dell'impresa, ove esistano; i fondi disponibili, compreso le liquidita' bancarie e le possibilita' di scoperti e prestiti; tutti gli attivi, comprese le proprieta' disponibili come garanzia per l'impresa; i costi, compreso il prezzo di acquisto o i pagamenti iniziali per veicoli, edifici, impianti e installazioni; nonche' il capitale di esercizio.
+
+In alternativa agli accertamenti di cui al comma precedente, si considera prova sufficiente del requisito la presentazione di un'attestazione di affidamento, rilasciata da aziende od istituti di credito ovvero da societa' finanziaria con capitale sociale non inferiore a 5 miliardi, per un importo pari a lire 100 milioni nella forma di cui all'allegato A.
+
+L'importo dell'attestazione dovra' essere aumentato nella misura di 5 milioni per ciascun veicolo da adibire al servizio da svolgere.
+
+## Art. 6. — Requisito della idoneita' professionale
+
+Il requisito di idoneita' professionale e' soddisfatto qualora gli interessati dimostrino di possedere adeguata conoscenza delle materie riportate nell'elencazione allegata al presente regolamento.
+
+A seguito del superamento dell'esame vertente sulle predette materie davanti alle commissioni regolarmente istituite, ai sensi del successivo art. 10, verra' rilasciato dal competente ufficio provinciale M.C.T.C. un attestato che abilita l'interessato a dirigere l'attivita' di trasporto esclusivamente nazionale ovvero anche internazionale.
+
+## Art. 7. — Esenzione dall'esame
+
+Sono esonerati dall'esame di idoneita' professionale coloro che dimostrino di avere un'esperienza di almeno cinque anni in forma continua con funzioni dirigenziali in imprese gia' abilitate in ambito nazionale e internazionale.
+
+Tale esperienza dovra' risultare da idonea documentazione atta a certificare che gli interessati siano regolarmente inseriti nella struttura delle predette imprese in qualita' di titolari di imprese individuali, di socio amministratore nelle societa' in nome collettivo e di socio accomandatario nelle societa' in accomandita semplice, di amministratori per ogni altro tipo di societa', di dipendenti a livello direzionale documentato da regolare iscrizione agli istituti previdenziali, di collaboratori per le imprese familiari.
+
+Ai richiedenti in possesso del predetto requisito verra' rilasciato a cura dell'ufficio provinciale M.C.T.C. del capoluogo di regione nel quale risultino residenti, un attestato di idoneita' professionale per trasporti nazionali ovvero nazionali ed internazionali a seconda che la loro esperienza sia maturata in imprese che esercitino, a livello nazionale ovvero nazionale ed internazionale, attivita' di trasporto.
+
+L'attestato deve essere conforme ai modelli di cui agli allegati B e C.
+
+## Art. 8. — Disposizioni relative alla idoneita' professionale
+
+## Art. 9. — Presentazione e documentazione
+ inerente alle domande d'esame
+
+Chi intende sostenere l'esame di idoneita', deve farne domanda scritta alla commissione costituita presso l'ufficio provinciale M.C.T.C. del capoluogo della regione in cui risiede.
+
+La domanda, redatta in carta legale e con firma autenticata, deve essere protocollata dal segretario della competente commissione d'esame.
+
+Le domande dovranno essere corredate in ogni caso da idonea certificazione attestante la residenza ovvero da autocertificazione in tal senso predisposta.
+
+## Art. 10. — Composizione commissione esami
+
+Le commissioni d'esame istituite su base regionale con decreto del Ministro dei trasporti sono composte come segue:
+ Presidente:
+ un dirigente della Direzione generale della M.C.T.C.
+ Membri:
+ cinque funzionari della Direzione generale o dell'ufficio provinciale M.C.T.C. capoluogo di regione almeno del settimo livello; un rappresentante, per ogni associazione nazionale di categoria o associazione locale aderente ad associazione nazionale maggiormente rappresentativa a livello nazionale.
+
+In corrispondenza di ciascuno dei componenti di cui sopra viene nominato un supplente, il quale partecipa alle sedute d'esame solo in caso di assenza o di impedimento del titolare.
+
+Le funzioni di segreteria sono svolte da un funzionario designato dal direttore dell'ufficio provinciale della M.C.T.C., capoluogo di regione.
+
+In caso di assenza od impedimento dei segretari le funzioni di segreteria sono svolte da altro funzionario del medesimo ufficio provinciale, da nominarsi in qualita' di supplente in seno alla corrispondente commissione d'esame.
+
+Gli esami hanno frequenza almeno bimestrale e si svolgono con sede nel capoluogo di regione per i candidati residenti nella regione medesima.
+
+Avverso la mancata ammissione all'esame e' ammesso ricorso al Ministro dei trasporti.
+
+## Art. 11. — Attivita' delle commissioni d'esame
+
+Le commissioni di esame, valutata la regolarita' delle domande di ammissione, redigono il relativo elenco dei candidati ammessi che e' affisso a cura della segreteria, nei locali dell'ufficio provinciale M.C.T.C. capoluogo di regione.
+
+La data dell'esame deve essere comunicata agli interessati a mezzo lettera raccomandata A.R. da inviare al domicilio indicato nella domanda, almeno venti giorni prima della data stessa.
+
+## Art. 12. — Modalita' per lo svolgimento dell'esame
+
+L'esame consiste in una prova scritta basata su domande relative alle materie riportate nell'allegato D, che vengono predisposte dalle singole commissioni d'esame.
+
+Il Ministero dei trasporti - Direzione generale M.C.T.C., a modifica di quanto indicato nel precedente comma, puo' provvedere alla predisposizione di un sistema di esami mediante quiz quale modalita' alternativa rispetto alla previsione del precedente comma.
+
+A tal fine deve essere elaborato un numero di quiz congruo per ogni gruppo di materie.
+
+## Art. 13. — Materie di esame per trasporti nazionali ed internazionali
+
+L'esame per i candidati che intendono essere abilitati a dirigere imprese che svolgono esclusivamente trasporti nazionali, verte sulle materie specificate nell'elenco di cui all'allegato A.
+
+Per i candidati che intendono effettuare anche trasporti internazionali, l'esame, oltre che sulle materie specificate nell'elenco di cui all'allegato A, verte anche su quelle specificate nell'elenco di cui all'allegato B.
+
+## Art. 14. — Modalita' per la ripetizione dell'esame
+
+I candidati che non abbiano superato l'esame alla prima prova possono ripresentare domanda di ammissione ad una seconda prova, che non puo' essere sostenuta prima di quattro mesi dalla prima, fatta salva la documentazione gia' prodotta.
+
+I candidati che abbiano sostenuto la seconda prova con esito negativo non possono ripresentare ulteriori domande di ammissione prima di dodici mesi dalla data dell'ultimo esame non superato.
+
+## Art. 15. — Attestato di idoneita' professionale
+
+Le Commissioni trasmettono, al termine di ogni sessione d'esame, l'elenco dei candidati che abbiano superato l'esame di idoneita' professionale all'ufficio provinciale della motorizzazione civile e dei trasporti in concessione capoluogo di regione, che rilascia all'interessato l'attestato di cui all'art. 6 del presente regolamento.
+
+L'attestato deve essere conforme ai modelli di cui agli allegati E ed F.
+
+## Art. 16. — Imprese da abilitare
+
+Le imprese di trasporto che intendono esercitare la professione di trasportatore di viaggiatori su strada debbono dimostrare all'autorita' competente (Stato, regione e comuni) di essere in possesso dei requisiti di cui ai precedenti articoli, all'atto della prima richiesta per ottenere una concessione, autorizzazione o licenza abilitante all'autotrasporto di viaggiatori su strada, allegando i seguenti documenti.
+
+Per il requisito della idoneita' finanziaria alla domanda dovra' essere allegata una relazione illustrativa di tutti gli elementi indicati nell'art. 5, comma 2, del presente regolamento; le imprese tenute a formare e depositare il bilancio in uffici pubblici dovranno allegare altresi' copia dell'ultimo bilancio; le imprese che intendono avvalersi della facolta' di cui all'art. 5, comma 3, allegheranno l'attestato ivi previsto.
+
+Per il requisito della idoneita' professionale l'attestato di cui agli articoli 6 e 7 del presente regolamento.
+
+Le imprese di cui al comma 1 del presente articolo, all'atto di ulteriori richieste di concessioni, autorizzazioni o licenze, debbono presentare all'autorita' concedente (Stato, regione, comuni) se diversa da quella che ha rilasciato il primo titolo abilitante al trasporto, copia della concessione, autorizzazione o licenza gia' posseduta, convalidata dal competente ente concedente che ne certifichi la validita' attuale.
+
+Coloro i quali nel termine stabilito non forniscano la prova di cui al comma precedente decadono dalla concessione, autorizzazione o licenza.
+
+## Art. 17. — Verifica e perdita dei requisiti
+
+In ogni momento, qualora venga accertato da parte dell'ente competente, anche a prescindere dalla verifica quinquennale di cui al comma 3, il venir meno anche di uno solo dei requisiti di idoneita' morale e finanziaria di cui all'art. 3, l'ente stesso procede alla revoca del titolo abilitativo all'autotrasporto.
+
+Ai fini della valutazione da parte dell'ente competente del permanere del requisito dell'idoneita' morale, ai sensi e per gli effetti dell'art. 4, comma 2, lettera C, l'ufficio provinciale M.C.T.C. nella cui circoscrizione e' immatricolato il veicolo, deve comunicare all'ente competente medesimo le violazioni accertate rela- tive alle materie di cui alla disposizione sopra indicata.
+
+Allo scadere di ciascun quinquennio dalla data del rilascio del titolo abilitativo all'autotrasporto di viaggiatori, rilasciato dopo l'entrata in vigore del presente regolamento, l'ente competente al rilascio delle concessioni, autorizzazioni o licenze deve provvedere d'ufficio ad una verifica dei requisiti in base ai quali l'impresa ha acceduto alla professione di trasportatore.
+
+La verifica quinquennale non comporta mai la ripetizione dell'esame di idoneita' professionale.
+
+## Art. 18. — Proseguimento dell'attivita'
+
+Qualora, col decesso del titolare dell'impresa individuale, l'impresa stessa risulti priva di un gestore munito dell'idoneita' professionale, e' consentito l'esercizio provvisorio da parte degli eredi, per la durata di un anno. L'esercizio provvisorio puo' essere prorogato di sei mesi, per gravi e comprovati motivi. Alla scadenza dell'esercizio provvisorio l'impresa dovra' risultare munita del titolo di idoneita' professionale, in uno dei modi previsti dall'art. 8.
+
+La stessa regola si applica all'esercizio provvisorio del legale rappresentante del titolare incapace fisicamente o giuridicamente.
+
+Nel caso di decesso o sopravvenuta incapacita' del dirigente, munito del titolo d'idoneita' professionale, dell'impresa persona giuridica, le relative funzioni possono essere assunte provvisoriamente da un dirigente sprovvisto del titolo, per la durata di un anno. Il termine puo' essere prorogato di sei mesi, per gravi e comprovati motivi.
+
+Nei casi di cui ai commi precedenti, l'esercizio dell'impresa o le funzioni dirigenziali possono essere assunti a titolo definitivo da una persona che, pur non avendo il titolo d'idoneita' professionale, abbia svolto effettivamente funzioni di gestione o dirigenziali nella stessa azienda, per almeno cinque anni.
+
+Non e' ammessa deroga al requisito dell'idoneita' morale, neppure nel caso di gestione ad esercizio provvisorio.
+
+## Art. 19. — Imprese esonerate
+
+Sono esonerate dalla dimostrazione del possesso dei requisiti di cui all'art. 3, lettere b) e c), le imprese che alla data dell'entrata in vigore della legge del 29 dicembre 1990, n. 428, sono gia' titolari di concessioni, di autorizzazioni e di licenze per l'autotrasporto di viaggiatori.
+
+Le imprese esonerate, all'atto di ulteriori richieste di concessioni, autorizzazioni o licenze, dopo l'entrata in vigore del presente decreto, per un periodo di non oltre cinque anni da tale data, debbono presentare all'autorita' competente (Stato, regione, comuni) se diversa da quella che ha rilasciato il titolo abilitante del trasporto del quale e' gia' titolare, copia della concessione, autorizzazione o licenza gia' posseduta, convalidata dell'ente competente che ne certifichi la validita' attuale.
+
+Le imprese individuali e le societa', risultanti dalla trasformazione di imprese individuali e dalla trasformazione e fusione di societa', continuano, per un periodo di non oltre cinque anni dalla data di entrata in vigore del presente regolamento ad essere esonerate, sempre che' possano indicare il nominativo di almeno una persona che svolga attivita' di trasporto a livello direzionale, nell'ambito dell'impresa stessa, da almeno cinque anni in maniera permanente ed effettiva.
+
+## Art. 20. — Disposizione transitoria
+
+Le imprese che sono diventate titolari di concessioni, autorizzazioni o licenza nel periodo intercorrente tra l'entrata in vigore della legge 29 dicembre 1990, n. 428, e del presente regolamento, hanno tempo diciotto mesi per dimostrare il possesso dei requisiti di cui all'art. 3.
+

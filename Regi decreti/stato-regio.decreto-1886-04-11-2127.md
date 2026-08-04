@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1886-04-11
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1886-04-11;2127
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:59Z
+---
+
+REGIO DECRETO
+                11 aprile 1886
+                MMCXXVII
+                Che costituisce in corpo morale la pia opera Bughi-Frova in Cornate e ne approva lo statuto. (8602127R)
+
+Entrata in vigore del provvedimento: 03/06/1886
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

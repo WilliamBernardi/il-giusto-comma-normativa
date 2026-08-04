@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 1815
+data: 1923-07-05
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1923-07-05;1815
+codice_redazionale: 023U1815
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:07:20Z
+---
+
+REGIO DECRETO
+                05 luglio 1923
+                1815
+                Radiazione dal quadro del R. naviglio di alcune unita'. (023U1815)
+
+Entrata in vigore del provvedimento: 14/09/1923
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

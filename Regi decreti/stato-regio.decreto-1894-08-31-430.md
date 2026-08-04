@@ -1,0 +1,34 @@
+---
+tipo: REGIO DECRETO
+numero: 430
+data: 1894-08-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1894-08-31;430
+codice_redazionale: 094U0430
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:19:07Z
+---
+
+REGIO DECRETO
+                31 agosto 1894
+                430
+                Che istituisce in Beirut un corso commerciale per l'insegnamento della lingua e letteratura italiana, della computisteria e ragioneria ed istituzione di Banco Modello e della lingua francese ed arabache approva il nuovo ruolo organico per l'Istituto di Belle Arti di Lucca. (094U0430)
+
+Entrata in vigore del provvedimento: 23/10/1894
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+
+## Art. 3. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

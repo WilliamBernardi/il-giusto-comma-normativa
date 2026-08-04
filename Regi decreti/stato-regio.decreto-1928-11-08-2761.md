@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 2761
+data: 1928-11-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-11-08;2761
+codice_redazionale: 028U2761
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:13:50Z
+---
+
+REGIO DECRETO
+                08 novembre 1928
+                2761
+                Approvazione del nuovo statuto della Societa' di mutua assistenza fra gli impiegati civili, in Roma. (028U2761)
+
+Entrata in vigore del provvedimento: 04/01/1929
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

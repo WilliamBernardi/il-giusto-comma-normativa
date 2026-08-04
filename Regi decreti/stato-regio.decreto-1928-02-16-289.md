@@ -1,0 +1,30 @@
+---
+tipo: REGIO DECRETO
+numero: 289
+data: 1928-02-16
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1928-02-16;289
+codice_redazionale: 028U0289
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:10:31Z
+---
+
+REGIO DECRETO
+                16 febbraio 1928
+                289
+                Riconoscimento giuridico di ventiquattro Federazioni provinciali fasciste dei commercianti. (028U0289)
+
+Entrata in vigore del provvedimento: 18/03/1928
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+
+## Art. 2. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

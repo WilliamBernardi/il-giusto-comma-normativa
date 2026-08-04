@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1888-12-09
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1888-12-09;3167
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:20:34Z
+---
+
+REGIO DECRETO
+                09 dicembre 1888
+                MMMCLXVII
+                Che da' facolta' al comune di Butera (Caltanissetta) ad applicare nel 1888 la tassa sul bestiame. (8803167R)
+
+Entrata in vigore del provvedimento: 12/01/1889
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

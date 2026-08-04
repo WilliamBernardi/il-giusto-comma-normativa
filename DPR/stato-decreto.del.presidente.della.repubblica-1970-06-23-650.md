@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 650
+data: 1970-06-23
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1970-06-23;650
+codice_redazionale: 070U0650
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                23 giugno 1970
+                650
+                Autorizzazione all'Ente nazionale di previdenza e assistenza dei veterinari ad acquistare una porzione di immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 23 giugno 1970, col quale, sulla proposta del Ministro per il lavoro e la previdenza sociale, l'Ente nazionale di previdenza e assistenza dei veterinari (E.N.P.A.V.) viene autorizzato ad acquistare per il prezzo di lire 244.000.000 la porzione dell'immobile costituito da un piano terreno di mq. 244 complessivi e da un terzo e quarto piano di dieci vani e mezzo ciascuno, sito in Roma alla via Castelfidardo, 41, distinto nel nuovo catasto urbano del comune di Roma alla partita numero 191579, di proprieta' della: "Aziende chimiche riunite Angelini Francesco - A.C.R.A.F. - Societa' per azioni", come da rogito 6 settembre 1968 per dottor Vincenzo Salerno, coadiutore del notaio Nicola Maselli, repertorio n. 51898.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 8 settembre 1970
+ Atti del Governo, registro n. 237, foglio n. 82. - CARUSO
+

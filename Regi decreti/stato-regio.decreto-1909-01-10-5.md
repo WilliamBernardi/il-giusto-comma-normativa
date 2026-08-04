@@ -1,0 +1,47 @@
+---
+tipo: REGIO DECRETO
+data: 1909-01-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1909-01-10;5
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:03Z
+---
+
+REGIO DECRETO
+                10 gennaio 1909
+                V
+                Che autorizza l'accettazione del lascito «Celoni» a favore della Biblioteca nazionale centrale di Firenze. (0900005R)
+
+Entrata in vigore del provvedimento: 20/02/1909
+
+## Art. 1.
+
+VITTORIO EMANUELE III 
+ 
+ per grazia di Dio e per volonta' della Nazione 
+ 
+ RE D'ITALIA 
+ 
+ Ritenuto che con testamento olografo 29 agosto 1905 pubblicato il 7 dicembre 1906 a ministero del R. notaio di Firenze avv. Tommaso Stefanini, il sig. dottor Pietro Coloni lascio' alla Biblioteca nazionale centrale di Firenze, per esservi conservate, la grande enciclopedia Meyer ed altre opere letterarie italiane; 
+ 
+ Udito il parere del Consiglio di Stato; 
+ 
+ Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; 
+ 
+ Abbiamo decretato e decretiamo: 
+ 
+ Il Ministero della pubblica istruzione e' autorizzato ad accettare il lascito sopradescritto alla condizione di conservare le opere legate nella Biblioteca nazionale centrale di Firenze. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 10 gennaio 1909. 
+ 
+ VITTORIO EMANUELE. 
+ 
+ Rava. 
+ 
+ Visto, Il guardasigilli: Orlando.
+

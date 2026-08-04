@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 842
+data: 1955-06-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-30;842
+codice_redazionale: 055U0842
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 giugno 1955
+                842
+                Autorizzazione alla Cassa scolastica del Liceo-ginnasio statale di Eboli (Salerno) ad accettare una donazione.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 giugno 1953, col quale, sulla proposta del Ministro per la pubblica istruzione, la Cassa scolastica del Liceo ginnasio statale di Eboli (Salerno) viene autorizzata accettare la donazioni di L. 500.000 (cinquecentomila) da investirsi in titoli di Stato, fatta dalla signora Jenice Lina ved. Perito, allo scopo di istruire, col relativo reddito due premi di studio annui intitolati al nome di "Enrico Perito". L'ammontare dei premi e' di tre quinti della rendita per il primo e di due quinti per il secondo.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti addi' 16 settembre 1955
+ Atti del Governo registro n. 92 foglio n 171- E. GRECO
+

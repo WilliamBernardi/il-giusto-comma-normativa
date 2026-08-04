@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 802
+data: 1983-11-21
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1983-11-21;802
+codice_redazionale: 083U0802
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                21 novembre 1983
+                802
+                Autorizzazione all'Unione italiana dei ciechi, in Roma, ad acquistare un immobile.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 21 novembre 1983, col quale, sulla proposta del Presidente del Consiglio dei Ministri, l'Unione italiana dei ciechi, in Roma, viene autorizzata ad acquistare, al convenuto prezzo di L. 50.000.000, un immobile sito in Brindisi, via Santa Margherita n. 21, censito al nuovo catasto edilizio urbano alla partita 510, foglio 190, mappale 1890/2, di proprieta' dei signori Maria Elisabetta Errico quale usufruttuaria per un terzo e Giovanni, Carlo, Cecilia e Anna Maria Caputo quali proprietari. 
+ 
+Visto, il Guardasigilli: MARTINAZZOLI 
+ Registrato alla Corte dei conti, addi' 11 gennaio 1984 
+ Registro n. 1 Presidenza, foglio n. 85
+

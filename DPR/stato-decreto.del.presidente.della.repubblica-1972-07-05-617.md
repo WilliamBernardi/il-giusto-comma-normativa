@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 617
+data: 1972-07-05
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1972-07-05;617
+codice_redazionale: 072U0617
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:53Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                05 luglio 1972
+                617
+                Riconoscimento, agli effetti civili, della erezione della parrocchia del SS. Crocifisso, nel comune di S. Cataldo.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 5 luglio 1972, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Caltanissetta in data 20 maggio 1971, integrato con dichiarazione del 20 giugno 1971, relativo alla erezione della parrocchia del SS. Crocifisso, in localita' Borgo Palo del comune di S. Cataldo (Caltanissetta).
+
+Visto, il Guardasigilli: GONELLA
+ Registrato alla Corte dei conti, addi' 6 ottobre 1972
+ Atti del Governo, registro n. 251, foglio n. 102. - CARUSO
+

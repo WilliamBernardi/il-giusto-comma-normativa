@@ -1,0 +1,28 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1667
+data: 1948-12-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1948-12-24;1667
+codice_redazionale: 048U1667
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 dicembre 1948
+                1667
+                Riconoscimento, agli effetti civili, della erezione della parrocchia della Beata Maria Vergine Assunta in Cielo, in localita' Borgo Doganella del comune di Cisterna di Latina.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 24 dicembre 1948, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Velletri in data 1 novembre 1947, integrato con successivo decreto 1 giugno 1948, relativo alla erezione della parrocchia della Beata Maria Vergine Assunta in Cielo, in localita' Borgo Doganella del comune di Cisterna di Latina.
+
+Visto, il Guardasigilli: GRASSI
+ Registrato alla Corte dei conti, addi' 28 febbraio 1949
+

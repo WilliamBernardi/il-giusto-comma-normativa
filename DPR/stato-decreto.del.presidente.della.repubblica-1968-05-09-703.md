@@ -1,0 +1,32 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 703
+data: 1968-05-09
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1968-05-09;703
+codice_redazionale: 068U0703
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:55Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                09 maggio 1968
+                703
+                Assegnazione di due nuovi posti di professore di ruolo istituiti dall'art. 1 della legge 24 febbraio 1967, n. 62, per gli anni accademici 1966-67 e 1967-68, alla facolta' di scienze economiche e bancarie dell'Universita' di Siena.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Veduta la legge 24 febbraio 1967, n. 62, che all'art. 1 istituisce, tra l'altro, centocinquanta posti di professore universitario di ruolo per l'anno accademico 1966-67 e centocinquanta posti di professore universitario di ruolo per l'anno accademico 1967-68, il 5 per cento dei quali e, cioe', otto posti per ciascuno degli anni accademici 1966-67 e 1967-68, sono riservati per le esigenze delle facolta' e scuole delle universita' e degli istituti di istruzione universitaria, istituiti dopo il 31 dicembre 1965;
+ Veduto il decreto del Presidente della Repubblica 9 giugno 1967, in corso di pubblicazione nella Gazzetta Ufficiale, con il quale, alla facolta' di ingegneria della Universita' di Pavia, sono stati assegnati sette degli otto posti di professore universitario di ruolo, istituiti e riservati, per l'anno accademico 1966-67, per le esigenze delle facolta' e scuole delle universita' e degli istituti di istruzione universitaria istituiti dopo il 31 dicembre 1965, dal citato art. 1 della legge 24 febbraio 1967, n. 62;
+ Vedute le richieste di nuovi posti di professore di ruolo formulate dalla facolta' di scienze economiche e bancarie dell'Universita' di Siena, istituita con legge 13 giugno 1966, n. 543;
+ Sulla proposta del Ministro per la pubblica istruzione;
+
+ Decreta:
+
+ Alla facolta' di scienze economiche e bancarie della Universita' di Siena sono assegnati due nuovi posti di professore di ruolo, istituiti dall'art. 1 della legge 24 febbraio 1967, n. 62, uno per l'anno accademico 1966-67 e l'altro per l'anno accademico 1967-68.
+

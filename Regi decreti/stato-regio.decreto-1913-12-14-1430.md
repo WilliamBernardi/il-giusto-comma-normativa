@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 1430
+data: 1913-12-14
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1913-12-14;1430
+codice_redazionale: 013U1430
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2011-02-10
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:15:12Z
+---
+
+REGIO DECRETO
+                14 dicembre 1913
+                1430
+                Col quale sono approvate alcune varianti al piano della zona aperta del comune di Napoli. (013U1430)
+
+Entrata in vigore del provvedimento: 29/01/1914
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.P.R. 13 DICEMBRE 2010, N. 248))
+
+
+

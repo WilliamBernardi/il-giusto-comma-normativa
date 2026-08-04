@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1895-10-31
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-10-31;257
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:21Z
+---
+
+REGIO DECRETO
+                31 ottobre 1895
+                CCLVII
+                Che approva il nuovo statuto organico della cassa di risparmio di Carrara. (9500257R)
+
+Entrata in vigore del provvedimento: 01/12/1895
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

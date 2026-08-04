@@ -1,0 +1,638 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 150
+data: 2002-05-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:2002-05-30;150
+codice_redazionale: 002G0182
+vigente: true
+source: normattiva-opendata
+collection: DPR
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:44Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 maggio 2002
+                150
+                 Regolamento recante norme per l'applicazione del decreto legislativo 22 maggio 1999, n. 251, sulla disciplina dei titoli e dei marchi di identificazione dei metalli preziosi.
+
+Esperita la procedura d'informazione prevista dalla direttiva 98/34/CE del Parlamento europeo e del Consiglio, del 22 giugno 1998, che codifica la procedura di notifica 83/189/CE recepita con la legge 21 giugno 1986, n. 317, e successive modificazioni ed integrazioni;
+
+Sentito il parere del Comitato centrale metrico nella seduta del 22 maggio 2001;
+
+Udito il parere del Consiglio di Stato, espresso dalla sezione consultiva per gli atti normativi, nell'adunanza del 4 giugno 2001;
+
+Sulla proposta del Ministro delle attivita' produttive, di concerto con il Ministro dell'interno;
+
+## - Capo I Definizioni
+
+## Art. 1.
+
+1. Agli effetti del presente regolamento si intende: 
+ a) per "decreto", il decreto legislativo 22 maggio 1999, n. 251; 
+ b) per "metalli preziosi", il platino, il palladio, l'oro e l'argento; 
+ c) per "materie prime", i metalli preziosi puri e le loro leghe nelle seguenti forme: 
+ 1) i lingotti, i pani, le verghe, i bottoni, i granuli ed in genere ogni prodotto ricavato da fusione; 
+ 2) i laminati ed i trafilati, in lamine, barre, fili ed in genere ogni prodotto predisposto ad ogni processo di trasformazione; 
+ 3) i semilavorati di qualsiasi forma e dimensione, e cioe' i prodotti di processi tecnologici di qualsiasi natura meccanici e non, che pur presentando una struttura finita o semifinita non risultano diretti ad uno specifico uso o funzione, ma sono destinati ad essere intimamente inseriti in oggetti compositi, garantiti nel loro complesso dal produttore che opera il montaggio; 
+ 4) le polveri prodotte con processi di natura chimica o elettrochimica o meccanica; 
+ 5) le leghe brasanti, ad eccezione delle leghe per saldature "ad argento" destinate ad impieghi industriali estranei alla lavorazione dei metalli preziosi; 
+ d) per "marchio di identificazione", il marchio costituito da un'impronta poligonale, recante all'interno la sagoma di una stella a cinque punte, il numero caratteristico attribuito all'azienda assegnataria e la sigla della provincia ove la medesima ha la propria sede legale; 
+ e) per "titolo" delle materie prime e dei lavori in metalli preziosi, il rapporto in peso tra il fino ed il complesso dei metalli componenti la lega; 
+ f) per "tolleranze sui titoli", le tolleranze sui titoli legali degli oggetti, previste all'articolo 3, comma 4 del decreto; 
+ g) per "errori ammessi in sede di analisi", l'incertezza di misura dei metodi di analisi prevista dalle norme nazionali, europee o internazionali di cui all'allegato II. 
+ h) per "campioni d'analisi", le parti di metallo prelevato dalla materia prima o dal semilavorato o dall'oggetto, per eseguire il saggio tendente ad accertare l'esattezza del titolo. Tali campioni possono essere costituiti da interi oggetti, quando particolari caratteristiche costruttive o dimensionali degli stessi lo richiedono; 
+ i) per "personale della camera di commercio" il personale ispettivo di cui all'articolo 20 del decreto; 
+ l) per "registro", il registro degli assegnatari dei marchi di identificazione dei metalli preziosi, tenuto dalle camere di commercio, di cui all'articolo 14 del decreto; 
+ m) per "diritti di saggio e marchio", i diritti da versare ai sensi dell'articolo 7, commi 1 e 2 del decreto; 
+ n) per "indennita' di mora", le indennita' previste all'articolo 7, comma 3, del decreto; 
+ o) per "tipologia produttiva", la modalita' di produzione di un oggetto inerente alla forma finale ed al tipo di tecnologia impiegata; 
+ p) per "laboratori di analisi", i laboratori che effettuano il saggio dei metalli preziosi e rilasciano le relative certificazioni del titolo, di cui all'articolo 18 del decreto; 
+ ((q) per "saggio facoltativo", l'analisi delle leghe e degli oggetti contenenti metalli preziosi, richiesta facoltativamente dagli interessati, ed eseguita da un laboratorio di prova o di taratura accreditato per la certificazione del titolo dei metalli preziosi e delle loro leghe da un organismo nazionale di accreditamento ai sensi del regolamento (CE) n. 765/2008;)) 
+ r) per "verbale di prelevamento", il verbale redatto dal personale della camera di commercio, in sede di vigilanza, di cui all'articolo 21 del decreto; 
+ s) per "certificazione aggiuntiva", la facolta' riconosciuta al fabbricante o suo mandatario, ai sensi dell'articolo 19 del decreto, di garantire la conformita' dei propri prodotti alle disposizioni dello stesso decreto; 
+ s-bis) per "laminazione", il processo meccanico di deformazione plastica ottenuto mediante il passaggio, anche ripetuto, tra due cilindri del prodotto proveniente dalla fusione; 
+ s-ter) per "placcatura", l'applicazione, mediante trattamento meccanico o termico, di una sottile lastra di metallo prezioso su una lastra di altro metallo.
+
+## - Capo II I metalli preziosi e loro titoli legali prelevamento di campioni, metodi di analisi
+
+## Art. 2.
+
+L'obbligo del marchio di identificazione e della indicazione del titolo si applica alle materie prime ed ai lavori in metalli preziosi anche se eseguiti per conto del committente e con materiali da questi forniti.
+
+Nelle materie prime contenenti in misura commercialmente valutabile altri metalli preziosi, oltre quello prevalente, all'indicazione del titolo di questo puo' essere aggiunta anche quella del titolo degli altri metalli preziosi presenti nella lega.
+
+Il titolo delle materie prime e dei lavori in metalli preziosi si intende garantito a fusione quando, indipendentemente dalla eventuale eterogeneita' della lega o dalla natura composita delle diverse parti dell'oggetto, corrisponde al titolo dichiarato espresso in millesimi.
+
+Ai sensi del comma 3 si considera come fino il platino eventualmente presente nelle rispettive leghe.
+
+## Art. 3.
+
+In sede di controllo del titolo, si considera garantito a fusione il titolo della materia prima o dell'oggetto, determinato con l'osservanza dei metodi di analisi e con le modalita' di prelievo dei campioni di analisi di cui agli articoli 7 e seguenti, tenuto conto delle eventuali tolleranze sul titolo nominale e degli errori ammessi in sede di analisi.
+
+## Art. 4.
+
+Gli oggetti in metalli preziosi aventi un titolo effettivo compreso tra due titoli legali rispettivamente ammessi, sono marchiati con il titolo legale inferiore.
+
+E' ammesso che i lavori in metalli preziosi portino impresso, il titolo effettivo, quando questo risulta superiore ai massimi titoli legali rispettivamente consentiti, e cioe' di 950/1000 per il platino e il palladio, di 750/1000 per l'oro e di 925/1000 per l'argento.
+
+Le materie prime possono essere prodotte a qualsiasi titolo, ma devono recare impressa l'indicazione del loro titolo reale.
+
+Il marchio d'identificazione e l'indicazione del titolo sono impressi sulle materie prime e sugli oggetti in metallo prezioso prima di essere posti in commercio.
+
+Le materie prime e gli oggetti di metalli preziosi si intendono pronti per la vendita, ad eccezione dell'ipotesi prevista all'articolo 20, comma 1, quando recano impresso il titolo ed il marchio di identificazione ed hanno ultimato il ciclo produttivo o, comunque, quando lasciano la sede del fabbricante, importatore o commerciante di materie prime, per essere consegnati all'acquirente.
+
+Chiunque vende al dettaglio oggetti di metalli preziosi espone un cartello indicante, in cifre, in maniera chiara e ben visibile, i relativi titoli di cui ai commi da 1 a 5.
+
+La tabella di comparazione di cui all'articolo 5, comma 4, del decreto riporta le informazioni esplicative secondo lo schema riportato all'allegato I.
+
+## Art. 5.
+
+In relazione alla riconosciuta difficolta' di imprimere il prescritto marchio d'identificazione e l'indicazione del titolo, senza danni, sulle casse da orologio in metallo prezioso, successivamente al montaggio di queste o all'introduzione in esse delle relative macchine, e' consentito che le casse da orologio allo stato grezzo siano importate, in temporanea, in territorio nazionale da Paesi che non sono membri dell'Unione europea o dello Spazio economico europeo, per l'apposizione del prescritto marchio di identificazione dell'importatore.
+
+La stessa facolta' e' accordata all'importatore di oggetti in metalli preziosi totalmente smaltati, o recanti pietre preziose o comunque aventi caratteristiche di fragilita' tali da impedirne la marchiatura, responsabile della commercializzazione in Italia.
+
+## Art. 6.
+
+La tolleranza di dieci millesimi, e' ammessa sul titolo medio, a fusione completa dei lavori in platino, o in palladio, a saldatura semplice, e cioe' per i lavori nei quali le saldature, anche se plurime, sono tutte effettuate con leghe brasanti dello stesso titolo.
+
+Sui lavori di cui al comma 1 il titolo della lega costitutiva, saldature escluse, non e' inferiore al titolo tollerato dall'articolo 3, comma 4, lettera a), del decreto.
+
+La tolleranza di 3 millesimi sui lavori in oro eseguiti col metodo della microfusione in cera persa con iniezione centrifuga, e' ammessa sui soli oggetti che recano l'indicazione del titolo di 753 millesimi, applicato con la speciale impronta prevista nell'allegato V di cui all'articolo 16.
+
+Il riconoscimento delle caratteristiche costruttive previste dal decreto ai fini dell'eventuale concessione delle tolleranze sul titolo nominale di cui ai commi da 1 a 3, si effettua a vista seguendo i criteri indicati negli stessi commi.
+
+In caso di dubbi o di contestazioni sull'esito del riconoscimento a vista di cui al comma 4, in tutti i casi in cui cio' si renda necessario ai sensi del decreto, detto esame e' integrato da ulteriori indagini, non escluse quelle da effettuare con le modalita' di prelievo di campioni di analisi di cui agli articoli 7 e seguenti.
+
+## Art. 7.
+
+Ai fini della costituzione del campione di analisi il quantitativo di metallo da prelevare e' tale da consentire per ciascuno di essi, l'esecuzione di almeno quattro saggi, come previsto dall'articolo 44.
+
+Il prelevamento di campioni di analisi di materie prime, portanti impresso il titolo dichiarato ed il marchio d'identificazione, tranne che nel caso previsto dall'articolo 20, comma 1, si effettua col metodo della trapanatura o della cesoiatura o dell'unghiatura in piu' punti, compatibilmente con le caratteristiche dimensionali del pezzo, dopo aver pulito le porzioni di superficie prescelte, avendo cura che materiali estranei, eventualmente aderenti al metallo prezioso o agli utensili impiegati, non abbiano a mescolarsi col campione prelevato; per i semilavorati puo' procedersi anche con il metodo della raschiatura.
+
+Una parte della materia prelevata, sigillata dal personale delle Camere di commercio, puo' essere lasciata in consegna all'interessato, se egli ne fa espressa richiesta, per eventuali contestazioni e ripetizioni dei saggi.
+
+## Art. 8.
+
+Negli oggetti in platino le eventuali saldature sono effettuate con leghe aventi un contenuto complessivo di metalli preziosi non inferiore a 800 millesimi.
+
+Negli oggetti in palladio le eventuali saldature sono effettuate con leghe aventi un contenuto complessivo di metalli preziosi non inferiore a 700 millesimi.
+
+Negli oggetti in argento le eventuali saldature sono effettuate con lega d'argento avente un titolo non inferiore a 550 millesimi.
+
+## Art. 9.
+
+Il prelevamento di campioni da oggetti di metalli preziosi finiti gia' muniti, nei modi previsti dal presente regolamento, del marchio d'identificazione e dell'impronta del titolo legale e pronti alla vendita, si effettua con i metodi della trapanatura, della cesoiatura, previo accertamento che l'oggetto e gli utensili da impiegare siano convenientemente puliti.
+
+Ferma restando l'esigenza di disporre dei quantitativi minimi di metallo di cui all'articolo 7, comma 2, si evita, laddove cio' sia tecnicamente possibile, ogni eccessivo danneggiamento dell'oggetto. A tal fine il possessore dell'oggetto ha la facolta' di procedere personalmente, o con l'ausilio di persona di sua fiducia, alla effettuazione dell'operazione secondo il metodo scelto dal personale delle camere di commercio.
+
+Parte della materia prelevata puo' essere trattenuta dal possessore dell'oggetto, con le modalita' e per gli scopi di cui all'articolo 7, comma 2, unitamente a quanto resta dell'oggetto.
+
+## Art. 10.
+
+Il ricorso alla fusione completa dell'oggetto puo' essere operata nei casi in cui il risultato del primo ed, eventualmente, del secondo saggio da' adito a fondati dubbi circa l'effettiva corrispondenza dei campioni di analisi, prelevati con i metodi di cui all'articolo 9, alla composizione dell'oggetto da cui derivano. Lo stesso procedimento e' eseguito quando cio' e' esplicitamente richiesto dal possessore dell'oggetto, e a suo carico.
+
+La fusione dell'oggetto e' eseguita presso i laboratori di analisi, o presso l'officina, idoneamente attrezzata, del titolare del marchio di identificazione secondo le direttive e alla presenza di personale della camera di commercio.
+
+## Art. 11.
+
+I metodi ufficiali di analisi per l'accertamento dei titoli delle materie prime e dei lavori in metalli preziosi, ai fini della legge, sono quelli riportati all'allegato II.
+
+Per tutti i metalli preziosi, le analisi sono eseguite con doppia determinazione del titolo, per ciascun campione di analisi prelevato dalla lega in esame.
+
+((
+
+Sono altresi' da considerarsi metodi ufficiali di analisi tutti quelli previsti dalle norme per la determinazione del titolo delle leghe di metalli preziosi, emanate da organismi di normazione nazionale, europea o internazionale, a condizione che comportino un'incertezza di misura eguale o minore a quella dei metodi indicati nell'allegato II.
+
+))
+
+I metodi ufficiali di analisi, di cui all'allegato II previsto dal comma 1, sono periodicamente aggiornati con decreto del Ministro dello sviluppo economico di natura non regolamentare, anche in relazione all'evoluzione delle norme di cui al comma 3.
+
+## - Capo III Marchio di identificazione e titoli
+
+## Art. 12.
+
+Le caratteristiche e le dimensioni nominali del marchio di identificazione sono riportate nell'allegato III.
+
+((
+
+In relazione alle esigenze degli oggetti da marchiare, la matrice del marchio di identificazione e' realizzata a cura delle Camere di commercio, in una serie di cinque diverse grandezze.
+
+Le caratteristiche dell'impronta sono tali da risultare incise sull'oggetto e non impresse a rilievo, la stella, il numero e la sigla di cui al comma 1 e, per le impronte della quinta grandezza, anche il contorno poligonale dell'impronta medesima.
+
+))
+
+Oltre che nelle quattro grandezze di cui ai commi da 1 a 3, il Ministero delle attivita' produttive dispone, con suo decreto, sentito il Comitato centrale metrico, che il marchio di identificazione puo' essere realizzato anche in altre grandezze, quando cio' e' espressamente richiesto da esigenze di carattere tecnico.
+
+Per le stesse esigenze di cui al comma 4 e con le stesse modalita', possono essere disposte, per i fusti dei punzoni, dimensioni normalizzate diverse da quelle previste dall'articolo 15, comma 3, e per le impronte dei titoli legali e per le impronte del marchio delle Camere di commercio.
+
+Il marchio di identificazione e l'indicazione del titolo legale sugli oggetti in metallo prezioso previsti dall'articolo 4 del decreto possono essere impressi anche mediante tecnologia laser.
+
+Con uno o piu' decreti del Ministro dello sviluppo economico di natura non regolamentare sono stabilite le disposizioni tecniche di dettaglio indispensabili all'attuazione del presente regolamento relativamente alle modalita' per l'applicazione della tecnologia laser, nonche' per la sicurezza informatica e per l'esecuzione di controlli in relazione all'utilizzo di tale tecnologia.
+
+## Art. 13.
+
+Nell'ipotesi di cui all'articolo 5, comma 2, del decreto, l'importatore all'atto in cui pone in commercio nel territorio della Repubblica e dello Spazio economico europeo gli oggetti importati, assume tutte le responsabilita' e gli oneri imposti dal decreto e dal presente regolamento ai produttori nazionali.
+
+## Art. 14.
+
+E' fatto divieto di apporre il proprio marchio di identificazione su oggetti in metalli preziosi o loro leghe, di fabbricazione altrui, ad eccezione delle ipotesi di cui agli articoli 5, comma 2, e 17 del decreto.
+
+Quando all'esecuzione di oggetti in metalli preziosi concorrono vari fabbricanti, l'obbligo dell'apposizione del marchio di identificazione e dell'impronta del titolo incombe al fabbricante che cura l'immissione in commercio del prodotto finito, ad eccezione dell'ipotesi di cui all'articolo 17 del decreto.
+
+Ai fini indicati dal comma 2, lo scambio delle parti dell'oggetto si effettua con le norme stabilite all'articolo 19 per i semilavorati.
+
+((
+
+L'obbligo di munirsi del marchio di identificazione non sussiste per chiunque esegue, esclusivamente per conto di terzi titolari del marchio stesso, lavorazioni parziali e per chiunque esegue, su oggetti usati, riparazioni per conto di privati committenti.
+
+))
+
+I predetti operatori sono pero' tenuti a procurarsi e ad esibire, in sede di eventuali controlli operati ai sensi dell'articolo 21 del decreto, documenti giustificativi atti a comprovare l'origine e la proprieta' degli oggetti detenuti presso il proprio laboratorio.
+
+## Art. 15.
+
+I marchi di identificazione sono ricavati, a cura del titolare dei marchi stessi o di persona da lui delegata, dalle rispettive matrici depositate presso le Camere di commercio; l'operazione e' effettuata presso le predette Camere di commercio o, a richiesta dell'interessato, presso l'azienda, o presso idoneo laboratorio specializzato da essa indicato, alla presenza di personale qualificato delle camere di commercio.
+
+La riproduzione del marchio si ottiene mediante compressione del fusto vergine contro la relativa matrice; ogni altra tecnica di riproduzione e' tassativamente esclusa.
+
+I fusti destinati a ricevere l'impronta del marchio sono ricavati da profilati in acciaio, a sezione quadrata, aventi caratteristiche normalizzate, secondo quanto indicato dall'allegato IV.
+
+Puo' essere anche autorizzata qualsiasi altra forma e dimensione, per la realizzazione di punzoni di tipo speciale, destinati o meno ad essere inseriti in appositi attrezzi o dispositivi meccanici, a condizione che risulti in ogni caso possibile l'apposizione, su di essi, del bollo di autenticazione previsto dall'articolo 11, comma 3, del decreto.
+
+E' anche autorizzato l'allestimento di punzoni recanti, oltre l'impronta del marchio di identificazione, quella del titolo legale ed, eventualmente, del marchio o sigla di cui all'articolo 9 del decreto.
+
+Le autorizzazioni di cui ai commi 4 e 5 sono concesse, dalle camere di commercio competenti per territorio, agli interessati che ne presentano motivata richiesta, allegando alla domanda il disegno quotato dei punzoni stessi e dell'alloggiamento del dispositivo destinato a contenerli.
+
+Il bollo di autenticazione e' costituito da una figura geometrica, identificata nell'allegato VI, recante all'interno il numero caratteristico che distingue la camera di commercio.
+
+La consegna dei punzoni si effettua contro ricevuta rilasciata dal titolare del marchio o dalla persona da questi delegata, e nella quale i punzoni sono indicati per quantita' e tipo.
+
+Dell'avvenuta consegna la camera di commercio prende debita nota.
+
+## Art. 16.
+
+A norma dell'articolo 8, comma 4, del decreto, le figure geometriche racchiudenti le cifre dei titoli legali sono rigorosamente normalizzate, e hanno le forme e le dimensioni indicate nell'allegato V.
+
+Le cifre che indicano il titolo risultano incise sull'oggetto e non impresse a rilievo; dette cifre e la figura che le racchiude costituiscono nel loro complesso l'impronta del titolo legale.
+
+In relazione alle caratteristiche degli oggetti da marchiare, l'impronta di ciascun titolo legale e' realizzata in una serie di quattro diverse grandezze, aventi le dimensioni di cui all'allegato V.
+
+Ciascuno degli assegnatari del marchio di identificazione provvede direttamente, sotto la propria responsabilita', alla costruzione dei punzoni recanti le impronte dei titoli legali, attenendosi rigorosamente alle norme di cui ai commi da 1 a 3.
+
+E' in facolta' dei predetti assegnatari di limitare la propria dotazione alle sole impronte e alle sole grandezze delle medesime che interessano la propria attivita'.
+
+## Art. 17.
+
+L'indicazione del titolo reale sulle materie prime si appone con l'impiego delle impronte di cui all'articolo 16 nei soli casi in cui il titolo predetto corrisponde esattamente ad uno dei titoli legali ammessi dal decreto.
+
+In tutti i casi diversi da quelli considerati nel comma 1, il titolo reale si appone con l'impiego di impronte non normalizzate, facendo precedere le cifre indicanti i millesimi e i decimi di millesimo di metallo fine, dai simboli Pt, Pd, Au, Ag, rispettivamente per il platino, il palladio, l'oro e l'argento e facendole seguire dal simbolo 0/00. ((PERIODO SOPPRESSO DAL D.P.R. 26 NOVEMBRE 2014, N. 195)).
+
+L'indicazione del titolo delle materie prime e' sempre accompagnato dal marchio di identificazione del produttore.
+
+Le camere di commercio, in quanto detentrici delle matrici, verificano l'autenticita' dei marchi di identificazione impressi sulle materie prime e sui lavori di metalli preziosi recanti la sigla della provincia di propria competenza, e rilasciano apposita dichiarazione di autenticita'.
+
+## Art. 18.
+
+La bollatura degli oggetti in metalli preziosi si effettua con l'apposizione del marchio di identificazione e della indicazione del titolo legale, avendo cura di impiegare, in relazione alle caratteristiche e dimensioni dell'oggetto da marchiare, impronte di grandezze corrispondenti, secondo il disposto di cui agli articoli 12, comma 2, e 16, comma 5.
+
+## Art. 19.
+
+Le materie prime di platino, palladio, oro e argento, in piccoli grani, in fili e fogli sottili, in polvere, eccetera, ed i semilavorati in genere che, in relazione alla loro particolare struttura od alle loro ridotte dimensioni, non consentono la marchiatura, sono posti in vendita in involucri chiusi e sigillati.
+
+Gli involucri sono costituiti di qualsiasi materiale idoneo allo scopo e sono confezionati anche all'atto della vendita, ma non devono potersi aprire dopo eseguita tale confezione e sigillatura se non per lacerazione dell'involucro stesso o rottura dei sigilli.
+
+I sigilli sono apposti su laminetta in metallo o lega metallica, non ferrosi, o anche in materiale plastico, sulla quale e' incisa la parola "sigillo", seguita dalla indicazione del titolo e del marchio di identificazione del produttore. In alternativa all'uso della laminetta le indicazioni del titolo e del marchio di identificazione sono riportate sull'involucro stesso purche' esso renda evidente ogni tentativo di manomissione che possa essere effettuato su di esso o su tali indicazioni.
+
+Il Ministero delle attivita' produttive autorizza, con suo decreto, sentito il parere del Comitato centrale metrico, l'uso di ulteriori materiali, per le laminette di cui al comma 3, od altre forme di apposizione di sigilli riconosciuti idonei allo scopo.
+
+I materiali contenuti negli involucri sigillati di cui ai precedenti commi sono sempre accompagnati da documento (fattura, certificato di garanzia o documento di trasporto) fornito dal venditore in cui risultano indicati, oltre la ragione sociale e l'indirizzo del medesimo, il titolo, la specificazione merceologica e la quantita' dei materiali stessi.
+
+I semilavorati in genere formano oggetto di scambio, anche se sprovvisti del marchio di identificazione e del titolo, quando lo scambio avviene tra aziende titolari di marchio e l'acquirente ne fa espressa richiesta e sempreche' i semilavorati stessi siano contenuti negli involucri sigillati di cui ai commi da 1 a 5.
+
+## Art. 20.
+
+Gli oggetti che, in ragione della loro delicatezza o complessita' di forma, o per la presenza di perle, pietre preziose o smalti, non consentono l'impressione del marchio, possono essere marchiati dal produttore, ancora prima di essere finiti, quando risultano ancora allo stato grezzo e non sono stati montati nelle loro diverse parti.
+
+Il marchio di identificazione e l'impronta del titolo legale sono impressi su di una parte principale dell'oggetto, e cioe' sulla parte che risulta di peso o volume prevalente o che serve di supporto principale ad altre parti dell'oggetto stesso purche' tecnicamente idoneo alla punzonatura, e' pero' ammesso che i bolli siano apposti in qualsiasi altra parte, se quella principale, per la presenza di gemme o smalti, risulta chiaramente soggetta a danneggiamenti per effetto dell'applicazione dei bolli stessi.
+
+Il marchio di identificazione e l'impronta del titolo legale, sugli oggetti composti di piu' parti dello stesso metallo smontabili manualmente, sono apposti su ciascuna di tali parti, salvo il caso che queste sono di peso inferiore a un grammo e risultano percio' esenti dalla marchiatura a norma dell'articolo 12 del decreto; fermo restando l'obbligo della corrispondenza del titolo delle parti stesse al titolo legale impresso su di uno di esse, unitamente al marchio di identificazione.
+
+Per le catenine i bolli si applicano su anellini terminali che risultano tali da non potersi asportare senza deformazione delle maglie contigue.
+
+Per gli oggetti che non consentono una diretta marchiatura, il marchio di identificazione e l'indicazione del titolo legale sono apposti su piastrina dello stesso metallo dell'oggetto, unita ad esso mediante saldatura con tale metallo.
+
+Lo stesso sistema di cui al comma 5 e' adottato per tutti i lavori aventi particolare pregio artistico e per i gioielli recanti perle e pietre preziose od altre sostanze pregiate quali corallo, tartaruga, ambra, giada, nei quali il valore di esecuzione, o il valore delle perle, delle pietre ed altre sostanze, supera di almeno dieci volte il valore del metallo. L'accertamento delle predette condizioni si effettua sulla base delle relative fatturazioni o in caso di dubbio, e' affidato ad esperti debitamente riconosciuti a norma dell'articolo 12, comma 3, del decreto.
+
+## Art. 21.
+
+Nelle casse da orologio il marchio di identificazione e l'indicazione del titolo legale si applicano soltanto sul fondello e non sulla "lunetta" (cerchietto porta vetro) e sulla "carrure" (contorno porta movimento); i bolli sono applicati anche all'interno del predetto fondello, a condizione che questo sia apribile, agevolmente senza danno, per ogni possibile controllo. Le parti non marchiate sono allo stesso titolo del fondello e si intendono garantite dalla indicazione apposta su questo.
+
+I braccialetti ed ogni altro complemento o ornamento accessorio, applicato agli orologi, sono considerati a tutti gli effetti parti staccabili e sono sottoposti a specifica marchiatura.
+
+## Art. 22.
+
+Gli oggetti di fabbricazione mista di due o piu' metalli preziosi portano l'indicazione del titolo su ciascuno dei metalli componenti, in tutti i casi in cui ciascuno di questi, se di peso superiore a un grammo, costituisce una parte nettamente distinta da ogni altra parte dell'oggetto e risulta tecnicamente atta a ricevere l'impronta.
+
+## Art. 23.
+
+Per leghe saldanti a base di argento si intendono quelle il cui contenuto di detto metallo e' tale da consentirne l'impiego nella produzione argentiera. Le leghe cosiddette "da saldatura ad argento" usate per la saldatura dei metalli comuni sono vendute come metallo non prezioso.
+
+## Art. 24.
+
+L'esonero dell'apposizione del marchio di identificazione e della indicazione del titolo, di cui all'articolo 12, comma 1, lettera f), del decreto, si intende esclusivamente concesso alle monete coniate dall'Istituto Poligrafico e Zecca dello Stato e dai corrispondenti Istituti esteri, che hanno corso legale, e che, se fuori corso, risultano sempre emesse dagli Istituti stessi.
+
+L'applicazione del marchio d'identificazione e della indicazione del titolo e' obbligatoria quando le monete di cui al comma 1 sono riprodotte al di fuori degli Istituti di Stato che le abbiano legittimamente emesse, anche se tale riproduzione risulta autorizzata.
+
+L'obbligo di cui al comma 2 incombe, in ogni caso, ai produttori ed importatori di medaglie commemorative o di gettoni premio e di pseudo monetazioni di qualsiasi natura.
+
+## Art. 25.
+
+((
+
+Gli oggetti destinati ad essere esportati fuori dello Spazio economico europeo (SEE), del territorio degli Stati firmatari dell'EFTA, parti contraenti dell'accordo SEE o della Turchia possono essere prodotti senza il marchio di identificazione.
+
+))
+
+Gli oggetti destinati ad essere commercializzati nei Paesi dello Spazio economico europeo possono, altresi', essere prodotti senza il marchio di identificazione, sempreche' rispettino le norme vigenti nel Paese di destinazione.
+
+Il produttore e' pero' soggetto a tutte le norme di legge per quanto concerne la corrispondenza del titolo reale degli oggetti di cui ai commi 1 e 2, al titolo indicato.
+
+E' consentita l'apposizione di eventuali marchi speciali, richiesti dagli importatori stranieri.
+
+Per gli oggetti che all'atto dell'esportazione o della commercializzazione nello Spazio economico europeo sono regolarmente provvisti del marchio di identificazione e della indicazione del titolo ((...)) l'esportatore e' tenuto, a tutti gli effetti, alla osservanza degli obblighi di legge.
+
+Gli oggetti da esportare verso Paesi con i quali sussiste l'ipotesi di cui all'articolo 5, comma 3, del decreto, sono muniti, obbligatoriamente, del marchio di identificazione nonche' dell'impronta del titolo legale, ovvero della indicazione di uno dei titoli considerati legali nel Paese di destinazione.
+
+Gli oggetti il cui titolo reale e' inferiore al piu' basso dei titoli legali previsti dalla legge, se non sono esportati, sono venduti come oggetti di metallo non prezioso.
+
+## - Capo IV Il registro degli assegnatari dei marchi di identificazione
+
+## Art. 26.
+
+Ai sensi del comma 1, lettera b), il marchio di identificazione e' anche assegnato, a domanda, a quelle aziende commerciali che, pur esercitando come attivita' principale la vendita di prodotti finiti di fabbricazione altrui, risultano dotate di un proprio laboratorio, idoneo alla fabbricazione di oggetti in metalli preziosi. La concessione e' subordinata all'accertamento di tale requisito, da effettuarsi a spese dell'azienda interessata, dalla camera di commercio competente per territorio.
+
+## Art. 27.
+
+La domanda di iscrizione al registro e' presentata alla camera di commercio, industria e artigianato della provincia ove l'azienda richiedente ha la propria sede legale.
+
+Per le aziende industriali, la documentazione da allegare alla domanda di concessione del marchio e' corredata da una autocertificazione sulla quale e' indicato, per gli effetti dell'articolo 7, comma 1, del decreto, il numero dei dipendenti dell'azienda stessa.
+
+In detto numero sono inclusi tutti i prestatori di lavoro subordinato dell'azienda, indipendentemente dalle rispettive qualifiche, operai, impiegati, dirigenti amministrativi o tecnici, e dal loro eventuale impiego in settori dell'impresa anche non direttamente connessi con la lavorazione dei metalli preziosi.
+
+## Art. 28.
+
+Il suddetto registro dei fabbricanti ed importatori comprende tutti gli assegnatari dei marchi di identificazione.
+
+La consultazione del registro da parte della pubblica amministrazione e' gratuita.
+
+## Art. 29.
+
+Il numero caratteristico da riprodurre sul marchio di identificazione, e' assegnato alle imprese richiedenti, nell'ordine di ricevimento delle rispettive domande di concessione, rispettando la pregressa numerazione.
+
+La numerazione prosegue nell'ambito di ciascuna provincia senza soluzione di continuita'.
+
+Il numero caratteristico dei marchi per qualsiasi motivo scaduti, ritirati o annullati non e' piu' attribuito.
+
+Eccezioni al disposto di cui al comma 3 sono fatte con provvedimento della camera di commercio competente, per quelle ditte cui il marchio e' stato ritirato ai sensi dell'articolo 7, comma 4, del decreto e che, all'atto della eventuale ripresa della propria attivita' e della presentazione della nuova domanda di iscrizione nel registro e di concessione del marchio, richiedono l'attribuzione dello stesso numero precedentemente posseduto.
+
+Dei marchi di identificazione comunque scaduti, ritirati o annullati, e di quelli eventualmente riattribuiti ai sensi del comma 4, viene data cronologicamente notizia nella Gazzetta Ufficiale della Repubblica italiana.
+
+Sulla stessa Gazzetta Ufficiale e' data altresi' notizia degli eventuali smarrimenti o furti di punzoni recanti l'impronta del marchio di identificazione.
+
+La denuncia di tali smarrimenti o furti e' fatta dall'interessato alla camera di commercio entro quarantotto ore.
+
+Il segretario generale della camera di commercio competente ha facolta' di disporre, che all'azienda che ha smarrito uno o piu' punzoni e' assegnato un nuovo numero caratteristico di marchio, quando risulta accertato l'uso abusivo dei punzoni smarriti.
+
+I punzoni dei marchi comunque scaduti; ritirati od annullati, e quelli resi inservibili dall'uso, sono riconsegnati alla competente camera di commercio, che ne prende debita nota e ne rilascia ricevuta all'interessato, dopo averne accertata l'autenticita'.
+
+La deformazione dei punzoni di cui al comma 9 e' effettuata dalla stessa camera di commercio almeno ogni sei mesi ed e' parimenti registrata.
+
+## Art. 30.
+
+Il marchio di identificazione e' assegnato all'impresa, e ad essa rimane attribuito indipendentemente dalle eventuali variazioni delle persone fisiche titolari della relativa licenza di pubblica sicurezza, ove richiesta.
+
+((
+
+Il trasferimento, per atto tra vivi o a causa di morte, di proprieta' dell'impresa o del ramo d'azienda che produce oggetti in metallo prezioso, comporta, altresi', il trasferimento a chi subentra del marchio di identificazione, sempreche' il subentrante continui l'esercizio della medesima attivita', sia in possesso della licenza di pubblica sicurezza, ove richiesta, e comunichi alla camera di commercio i dati di cui all'articolo 27, comma 2, lettere a), b) e d), del presente regolamento entro il termine di trenta giorni.
+
+))
+
+Entro il medesimo termine l'impresa segnala alla camera di commercio competente anche le variazioni di cui al comma 1.
+
+Alle imprese che svolgono la propria attivita' in piu' sedi o stabilimenti, e' assegnato un unico marchio.
+
+## Art. 31.
+
+All'atto di accoglimento della domanda di concessione del marchio di identificazione la camera di commercio riscuote i diritti di saggio e marchio.
+
+Le imprese artigiane che perdono i requisiti di cui alla legge 5 agosto 1985, n. 443, sono tenute ad effettuare un versamento integrativo per il raggiungimento dell'importo del diritto di saggio e marchio stabilito per le aziende industriali.
+
+Ai fini di cui al comma 2 la camera di commercio notifica all'impresa l'obbligo di effettuare il versamento predetto e di munirsi della licenza di pubblica sicurezza.
+
+I diritti di saggio e marchio, le indennita' di mora e i versamenti integrativi sono versati alle camere di commercio secondo modalita' stabilite dalle stesse.
+
+All'atto del pagamento del diritto relativo al rinnovo annuale del marchio da effettuare ai sensi dell'articolo 7, comma 2, del decreto, le aziende industriali producono, aggiornata, la dichiarazione di cui all'articolo 27.
+
+## Art. 32.
+
+Oltre che per il caso previsto dall'articolo 7, comma 4, del decreto, si procede al ritiro del marchio e alla cancellazione dal registro, per decadenza della licenza, di cui all'articolo 127 del testo unico delle leggi di pubblica sicurezza di cui al regio decreto 18 giugno 1931, n. 773.
+
+## - Capo V Marchi tradizionali di fabbrica, marchio per il saggio facoltativo
+
+## Art. 33.
+
+((
+
+I produttori che intendono avvalersi della facolta' di cui all'articolo 9 del decreto, di apporre, in aggiunta al marchio di identificazione, marchi tradizionali di fabbrica o sigle particolari, li depositano preventivamente, su supporto cartaceo o informatico, presso la competente camera di commercio.
+
+I produttori hanno, altresi', la facolta' di apporre, con l'osservanza delle condizioni di cui all'articolo 9 del decreto e delle modalita' di cui al comma 1, marchi collettivi o, su richiesta e per conto di committenti, l'indicazione del nominativo dei medesimi, della loro ragione sociale o apposite sigle identificative indicate dai singoli clienti.
+
+Il rispetto delle disposizioni di cui all'articolo 9 del decreto e' accertato dagli organi incaricati dei controlli di cui all'articolo 20 del decreto.
+
+))
+
+## Art. 34.
+
+((
+
+Il marchio di cui all'articolo 13 del decreto e' costituito dall'immagine di profilo della testa dell'Italia turrita all'interno di un cerchio sotto cui e' un cartiglio riportante la sigla della provincia.
+
+Il marchio di cui al comma 1 e' realizzato in una serie di quattro diverse grandezze; le sue caratteristiche e dimensioni sono indicate nell'Allegato VII.
+
+Il marchio di cui al comma 1 puo' essere apposto anche con tecnologia laser.
+
+Il marchio di cui al comma 1 e' apposto sugli oggetti in metalli preziosi che, gia' muniti dell'indicazione del titolo legale e del marchio di identificazione, risultano, attraverso l'analisi, conformi ai requisiti di cui all'Allegato XI.
+
+Per ottenere l'apposizione del marchio di cui al comma 1 gli interessati si rivolgono alla camera di commercio competente, la quale si avvale per le analisi di un laboratorio di prova o di taratura accreditato per la certificazione del titolo dei metalli preziosi e delle loro leghe in conformita' alla norma UNI CEI EN ISO/IEC 17025 da un organismo nazionale di accreditamento designato ai sensi del regolamento (CE) n. 765/2008. I laboratori accreditati possono appartenere anche alla stessa camera competente, o a un'altra camera di commercio, o a un'azienda speciale di una delle suddette camere.
+
+Al fine di avvalersi del saggio facoltativo e di ottenere l'apposizione del relativo marchio, gli interessati dichiarano di conoscere ed applicare i requisiti tecnici di cui all'Allegato XI, nonche' di accettare l'eventuale danneggiamento di uno o piu' oggetti tra quelli presentati che puo' derivare dall'applicazione di uno dei metodi di analisi previsti dal presente regolamento.
+
+A richiesta del presentatore, in sostituzione dell'apposizione sugli oggetti del marchio di cui all'articolo 13 del decreto, la Camera di commercio puo', in caso di esito positivo delle analisi, rilasciare un certificato di analisi, indicante la data, il peso, il titolo ed il metallo prezioso relativo, che e' posto, insieme agli oggetti cui si riferisce, all'interno di un involucro sigillato, a cura del laboratorio che ha effettuato le analisi. Tale involucro reca all'esterno i sigilli comprovanti l'avvenuta certificazione.
+
+Nel caso in cui dall'analisi gli oggetti, per cui e' stato richiesto il saggio facoltativo, risultano non conformi ai requisiti tecnici di cui all'Allegato XI, gli stessi sono resi all'interessato e possono essere posti in vendita solo dopo che sono stati adeguati a quanto prescritto dalle norme del decreto e del presente regolamento.
+
+))
+
+## Art. 35.
+
+((
+
+Nel caso di apposizione, ai sensi dell'articolo 34, su tutti gli oggetti del marchio di cui all'articolo 13 del decreto, gli interessati possono inoltre richiedere l'apposizione di marchi e indicazioni previsti da convenzioni o accordi internazionali di cui l'Italia sia firmataria.
+
+I marchi o indicazioni di cui al comma 1 possono essere apposti anche con tecnologia laser.
+
+Il marchio di cui all'articolo 13 del decreto puo', altresi', essere apposto sulle materie prime, a garanzia del titolo reale riscontrato in sede di analisi. A tal fine il laboratorio di cui all'articolo 34, comma 5, provvede direttamente ad imprimere tale titolo, espresso in millesimi e decimi di millesimi, accanto al predetto marchio.
+
+L'apposizione del marchio e del titolo di cui al comma 3 sono, in ogni caso, subordinati alla preventiva apposizione da parte del produttore, del proprio marchio di identificazione.
+
+Le spese per il saggio e per l'applicazione sulle materie prime e sugli oggetti del marchio di cui all'articolo 13 del decreto e dei marchi e indicazioni di cui al comma 1, sono a carico del richiedente.
+
+Ai soli fini dell'applicazione del marchio facoltativo di cui all'articolo 34, il numero di oggetti da prelevare da un lotto e il numero di campioni presi da tali oggetti per essere esaminati e analizzati e' riportato nell'Allegato XII, che disciplina le linee guida per il campionamento.
+
+))
+
+## - Capo VI Oggetti placcati, dorati, argentati e rinforzati o di fabbricazione mista
+
+## Art. 36. — ((1. Sugli oggetti costituiti di metalli comuni recanti rivestimenti di oro, di argento, di platino o di palladio puo' essere impresso il termine, rispettivamente, "dorato", "argentato", "platinato" o "palladiato" a condizione che la massa del metallo prezioso fino sia non inferiore ad 0,01g su ciascun cm² di superficie dell'oggetto stesso e che tale massa di metallo prezioso sia rilevata con i metodi di analisi di cui all'articolo 11 mediante prelievo di un campione avente spessore minimo di 1 mm ovvero pari allo spessore dell'oggetto, se inferiore.))
+
+((2))
+                                ((1-bis. Sugli oggetti di cui al comma 1 possono, inoltre, essere impressi i termini "laminato" o "placcato", seguiti dal simbolo chimico del metallo prezioso, a condizione che il rivestimento sia ottenuto, rispettivamente, con la tecnica di lavorazione, di cui all'articolo 1, comma 1, lettere s-bis) o s- ter).))
+                                ((2))
+
+Il marchio particolare di fabbrica, privo dell'indicazione relativa al peso, e' depositato dagli interessati presso la camera di commercio competente per territorio, che stabilisce se lo stesso e' conforme alle prescrizioni del modello unificato di cui al comma 2 ed ha facolta' di vietare, in caso di difformita', l'uso del marchio stesso.
+
+Con provvedimento del Ministero delle attivita' produttive si possono disporre variazioni e modifiche del modello unificato di cui al comma 2, in relazione alle esigenze che possono in concreto manifestarsi.
+
+Contro i provvedimenti adottati dal funzionario responsabile ai sensi del comma 3 e' ammesso ricorso gerarchico al Segretario generale della stessa camera di commercio, che puo' richiedere parere tecnico al Ministero delle attivita' produttive.
+
+Sugli oggetti costituiti da una lamina di metallo prezioso applicata su una lastra di metallo comune e' consentita l'apposizione, nell'ordine, di tutti i seguenti elementi: sigla della provincia in cui l'azienda ha sede legale, simbolo chimico del metallo prezioso, indicazione in cifra della massa di fino arrotondata al grammo seguita dal simbolo "g", e sigla del produttore coincidente con il numero caratteristico assegnato dalla camera di commercio ai sensi dell'articolo 29.
+
+La denominazione "gioielleria" "oreficeria" e "argenteria" non sono applicabili agli oggetti di cui ai commi 1, 2 e 6. Su tali oggetti e' vietata l'impressione del marchio di identificazione, nonche' qualsiasi indicazione di titolo in millesimi o in carati, a norma dell'articolo 15 del decreto e, salvo quanto previsto ai commi 2 e 6, qualsiasi indicazione concernente la quantita' del metallo prezioso del rivestimento.
+
+--------------
+                            AGGIORNAMENTO (2)
+                            
+ Il D.P.R. 26 novembre 2014, n. 195 ha disposto (con l'art. 1, comma 2) che "Le disposizioni di cui al comma 1 dell'articolo 36 del decreto del Presidente della Repubblica n. 150 del 2002, come modificate dalla lettera l) del comma 1 del presente articolo, si applicano a decorrere dal centoventesimo giorno successivo alla data di entrata in vigore del presente regolamento. Gli oggetti realizzati in conformita' alle norme anteriormente vigenti possono essere commercializzati per ulteriori 12 mesi".
+
+## Art. 37.
+
+Gli oggetti che, per loro natura o per gli usi cui sono destinati, sono completati con materiali diversi, non metallici, quali legno, osso, avorio, cuoio, porcellana, smalto, cristallo, marmi e pietre dure, sono soggetti all'obbligo della apposizione del titolo e del marchio, e non delle altre indicazioni di cui all'articolo 39, a condizione che i materiali non metallici siano fissati alle parti in metallo prezioso con adesivi o con collegamenti metallici chiaramente visibili.
+
+Le lastre in metallo prezioso realizzate con la tecnica dello stampaggio a cui, a completamento, viene aggiunto successivamente un materiale plastico, o similare, portano impresso comunque il titolo ed il marchio di identificazione.
+
+## Art. 38.
+
+Sugli oggetti in lega di metallo prezioso e' fatto divieto di depositare metalli non preziosi, ad eccezione di iridio, osmio, rodio e rutenio, con il metodo di deposizione galvanica o metodi simili.
+
+## Art. 39.
+
+Negli oggetti cavi di platino, palladio, oro e argento, e' vietata l'introduzione di metalli non preziosi e di sostanze di qualsiasi genere.
+
+## Art. 40.
+
+Nei casi di cui al comma 1, lettere a) e b), le molle non sono campionate per la determinazione del titolo.
+
+Se gli oggetti di cui al comma 1, lettere a) e b), sono provvisti di molle di peso superiore a quelli indicati, o di organi in acciaio di varia natura, quali viti, perni, cerniere e simili, e' impressa l'indicazione "M" (metallo) racchiusa in un quadrato ed il peso complessivo delle parti in acciaio espresse in grammi e decimi di grammo seguito dal simbolo "g".
+
+## - Capo VII Responsabilita' degli operatori, funzioni di vigilanza delle camere di commercio
+
+## Art. 41.
+
+I commercianti all'ingrosso ed i rivenditori di oggetti in metalli preziosi hanno l'obbligo di controllare all'atto dell'acquisto della merce, la effettiva corrispondenza di essa alle indicazioni riportate nei documenti che li accompagnano, nonche' la presenza e la leggibilita' delle impronte del marchio e del titolo impresse sugli oggetti ed ogni altra eventuale indicazione la cui presenza e' imposta o consentita dal presente regolamento.
+
+## Art. 42.
+
+La vigilanza sulla produzione e sul commercio dei metalli preziosi e' esercitata dal personale delle Camere di commercio anche nei confronti di coloro che producono, importano o rivendono oggetti placcati, argentati o rinforzati o di fabbricazione mista.
+
+Il suddetto personale, per esercitare le funzioni di agenti e ufficiali di polizia giudiziaria, ha frequentato con esito positivo un apposito corso teorico-pratico di formazione, inoltre, nell'esercizio della sua azione di vigilanza, esibisce la tessera di cui all'articolo 20, comma 2 del decreto.
+
+## Art. 43.
+
+Il personale di cui all'articolo 42 ha libero accesso ai locali delle aziende soggette alla sua vigilanza, ai sensi dell'articolo 21 del decreto, in tutto il tempo in cui questi sono aperti al pubblico o vi si esercita una normale attivita' lavorativa.
+
+Quando i locali sono chiusi si procede, per accertare l'osservanza delle norme del decreto e del presente regolamento, nelle forme di legge.
+
+In caso di rifiuto del libero accesso, da parte del titolare dell'azienda o di chi lo sostituisce, il personale preposto alla vigilanza puo' far ricorso all'ausilio della forza pubblica.
+
+L'assenza del titolare o rappresentante legale della azienda non costituisce causa di impedimento per il libero accesso del personale ispettivo della camera di commercio.
+
+## Art. 44.
+
+Il prelevamento delle materie prime, dei semilavorati e degli oggetti, in sede di vigilanza, si effettua tenendo presenti, quanto alla qualita' e quantita' degli oggetti o delle parti di oggetto da prelevare, le modalita' di prelievo dei campioni di analisi, e tenendo presente altresi' l'esigenza di effettuare per ciascun campione di analisi, almeno quattro saggi, ove si manifesti la necessita' di ripetere il saggio, per esigenza del laboratorio di analisi o su richiesta delle parti o dell'autorita' giudiziaria.
+
+Puo' essere prelevato l'intero oggetto, anche se di peso o di volume rilevante, se l'interessato preferisce non procedere, seduta stante, al ricavo dei campioni di analisi.
+
+Gli oggetti in platino, palladio, oro e argento di piccola mole o di scarso peso sono prelevati nel numero di due o piu' esemplari, scelti a caso.
+
+Il produttore, importatore o commerciante ha la facolta' di asportare dagli oggetti sottoposti a prelievo, preventivamente, le eventuali pietre preziose.
+
+## Art. 45.
+
+All'atto del prelevamento di oggetti da sottoporre ad accertamento del titolo su di esso impresso, il produttore, importatore o commerciante ha il diritto di far inserire nel verbale eventuali dichiarazioni che ritiene utili ai fini dell'accertamento stesso ed in particolare, segnalazioni atte a favorire la classificazione dell'oggetto in una delle categorie per le quali e' ammessa una tolleranza sul titolo, a norma dell'articolo 3, comma 4, del decreto.
+
+Il verbale di prelevamento delle materie prime o degli oggetti da sottoporre al controllo del titolo e' sottoscritto dal funzionario della camera di commercio che opera il prelevamento e dal titolare dell'azienda o da persona che ha il potere di rappresentarlo.
+
+Il detto titolare, o il suo rappresentante, e' avvertito agli effetti delle disposizioni di cui agli articoli 21 e 22 del decreto.
+
+Sul verbale di cui al comma 2, oltre alle indicazioni prescritte a norma dell'articolo 21, comma 3, del decreto, sono indicati il luogo e le circostanze in cui si effettua il prelevamento ed ogni altra indicazione atta ad identificare compiutamente le persone dei verbalizzati.
+
+Se il prelevamento effettuato presso aziende commerciali o che operano nei casi previsti dall'articolo 17 del decreto riguarda oggetti con marchi di identificazione altrui, il titolare della azienda, o chi nell'occasione lo rappresenta, ha la facolta' di far inserire a verbale la formale richiesta che i reperti siano trattenuti presso la camera di commercio competente per almeno cinque giorni, prima dei successivi adempimenti di cui all'articolo 46, affinche' il produttore o i produttori, opportunamente avvertiti da esso titolare, abbiano modo di intervenire in tempo utile con proprie eventuali deduzioni.
+
+In caso di assenza del titolare dell'azienda e di persona che ha il potere di rappresentarlo, le materie prime o gli oggetti prelevati sono chiusi in plichi sigillati dallo stesso funzionario che ha operato il prelevamento, e dati in consegna alla persona, che, al momento, ha in affidamento l'azienda. La consegna e' effettuata con verbale, nel quale e' notificato l'obbligo di presentare i plichi sigillati presso la sede della camera di commercio, entro il termine indicato dal verbalizzante secondo le esigenze del servizio, comunque non inferiore alle successive ventiquattro ore.
+
+La procedura della consegna diretta dei campioni presso la camera di commercio da parte dell'azienda puo' anche essere disposta dal funzionario che ha proceduto al prelievo. In tal caso si osservano le modalita' del comma 6 relativamente alla chiusura e suggellatura dei campioni e al termine di consegna.
+
+## Art. 46.
+
+I campioni relativi a materie prime, semilavorati e oggetti prelevati a norma degli articoli 44 e 45, racchiusi in involucri autosigillanti debitamente firmati dal funzionario che ha effettuato il prelevamento e dal proprietario dello stesso materiale prelevato o da chi nella occasione lo rappresenta, sono consegnati o inviati al prescelto laboratorio di analisi, per l'esecuzione dei necessari saggi, a cura dello stesso funzionario della camera di commercio competente che ha effettuato il prelevamento.
+
+## Art. 47.
+
+Il risultato del saggio e' trasmesso dal laboratorio di analisi alla camera di commercio competente, mediante apposito certificato accompagnandolo con i campioni e gli oggetti prelevati e con i residui dei campioni e degli oggetti stessi.
+
+Se il titolo e' riscontrato conforme a quello legale o dichiarato, tenuto conto delle tolleranze eventualmente ammesse e dell'errore massimo ammissibile in sede di analisi, i campioni e gli oggetti prelevati, con i residui dei campioni e degli oggetti stessi, sono ritirati dal proprietario presso la competente camera di commercio entro e non oltre sessanta giorni dalla data di ricevimento della relativa comunicazione effettuata a cura della stessa camera; trascorso tale termine la restituzione e' effettuata d'ufficio da parte della camera di commercio a spese del proprietario stesso.
+
+Copia del certificato di cui al comma 1 e' rilasciata all'interessato, su richiesta del medesimo.
+
+Se il titolo e' riscontrato non conforme a quello legale o dichiarato, tenuto conto delle tolleranze eventualmente ammesse e dell'errore massimo ammissibile in sede di analisi, la competente camera di commercio applica le sanzioni di cui all'articolo 25 del decreto e ne da' comunicazione al Questore, ai sensi del comma 3, dello stesso articolo.
+
+Nel caso di cui al comma 4 i frammenti degli oggetti e dei campioni, prelevati e non utilizzati per l'effettuazione del saggio, ed i residui del saggio medesimo sono trattenuti dalla camera di commercio, per gli eventuali adempimenti previsti dagli articoli 25 e 26 del decreto e dalle norme vigenti in materia di sanzioni.
+
+## - Capo VIII Sistemi di certificazione, laboratori di analisi
+
+## Art. 48.
+
+I laboratori di analisi, operano, oltreche' secondo quanto stabilito nel presente regolamento, secondo i criteri generali espressi dalla norma di cui all'allegato X con particolare riferimento alle prove sui metalli preziosi eseguite secondo i metodi previsti all'articolo 11 ed assicurano la riferibilita' delle misure ai campioni nazionali.
+
+I responsabili tecnici dei suddetti laboratori sono muniti del diploma di laurea o equivalente in chimica o in chimica industriale oppure del diploma di perito chimico.
+
+## Art. 49.
+
+Ai fini dell'abilitazione di cui all'articolo 18, comma 1, del decreto, i laboratori interessati sono sottoposti a visite ispettive periodiche, condotte in conformita' ai criteri generali espressi dalla norma di cui all'allegato X, da parte di ispettori per la qualita' in possesso dei requisiti di cui all'articolo 50.
+
+La vigilanza sui laboratori gia' abilitati ha periodicita' annuale e la conferma dell'abilitazione e' subordinata al buon esito della visita ispettiva ed alla soluzione delle eventuali non conformita' emerse.
+
+Le visite ispettive sono finalizzate a verificare che il laboratorio operi secondo quanto stabilito dal presente regolamento.
+
+Al termine della visita ispettiva e' redatto il rapporto di verifica che, assieme ad una lista di controllo ed alla documentazione comprovante la soluzione delle eventuali non conformita', e' trasmessa dall'ispettore alla camera di commercio competente per territorio.
+ Questa provvede al rilascio o meno dell'abilitazione oppure alla sua conferma nel caso di laboratori gia' abilitati.
+
+La lista di controllo e la modulistica utilizzata dagli ispettori e' stabilita uniformemente da Unioncamere a livello nazionale ed eventualmente aggiornata, sentito il Ministero delle attivita' produttive.
+
+I costi relativi alle procedure di abilitazione, alle visite ispettive e alla relativa conferma annuale, sono a carico del laboratorio richiedente l'abilitazione.
+
+Presso ogni camera di commercio e' tenuto un registro dei laboratori abilitati che e' aggiornato a cura della camera e che la pubblica amministrazione ha facolta' di consultare gratuitamente anche mediante tecniche informatiche e telematiche. Tale registro e' pubblico.
+
+## Art. 50.
+
+Gli ispettori per la qualita' sono iscritti da ciascuna camera di commercio in un elenco consultabile su tutto il territorio nazionale. Essi sono scelti con criteri di imparzialita' e rotazione ed operano con modalita' omogenee stabilite da Unioncamere su tutto il territorio nazionale, sentito il Ministero delle attivita' produttive.
+
+La cancellazione dall'elenco avviene per perdita di tali requisiti o con provvedimento motivato del segretario generale della camera di commercio.
+
+## Art. 51.
+
+Il fabbricante o il suo mandatario che si avvale della facolta' di certificazione aggiuntiva si rivolge ad uno dei laboratori di analisi, oppure ad un organismo di certificazione che opera secondo le norme di cui all'allegato X e che risulta rivolto al settore produttivo dei metalli preziosi, che e' accreditato da un organismo che opera secondo la norma di cui al suddetto allegato X e che ha stipulato ampi accordi di mutuo riconoscimento in ambito europeo.
+
+Se l'organismo di certificazione non provvede direttamente all'analisi di saggio, si rivolge ad uno dei laboratori di cui all'articolo 48 oppure ad un laboratorio accreditato per l'analisi dei metalli preziosi secondo le norme di cui all'allegato X che applica metodi di analisi di cui all'articolo 11 e opera nell'ambito dell'Unione europea.
+
+## Art. 52.
+
+Al fine di richiedere la certificazione aggiuntiva, gli interessati presentano al laboratorio o all'organismo prescelto una domanda nella quale sia specificata la finalita' di garantire la conformita' degli oggetti, dei semilavorati e delle materie prime alle disposizioni del presente regolamento.
+
+In tale domanda, inoltre, l'interessato autorizza il laboratorio o l'organismo prescelto a svolgere periodicamente, e comunque almeno tre volte l'anno, presso le sedi di produzione e deposito, controlli sui lavori pronti per la vendita, mediante prelievi di campioni da sottoporre ad analisi di saggio.
+
+Le modalita' di prelievo sono quelle indicate agli articoli 7 e seguenti.
+
+Per ogni tipologia produttiva e tipo di lega utilizzata il numero di esemplari che costituisce il campione di saggio e' fissato dallo schema riportato all'allegato VIII, che puo' essere modificato con decreto del Ministro delle attivita' produttive.
+
+I laboratori e gli organismi di certificazione trasmettono alla rispettiva camera di commercio competente per territorio, annualmente, un elenco aggiornato delle aziende che si avvalgono della certificazione aggiuntiva.
+
+## Art. 53.
+
+A seguito della domanda di certificazione, il laboratorio o l'organismo prescelto svolge una prima visita presso l'azienda, atta a verificare che i prodotti pronti per la vendita siano conformi alle norme di legge, in particolare per quel che riguarda l'apposizione dei marchi, e prelevano un campione di analisi con le modalita' di cui all'articolo 52.
+
+Se l'esito della prima visita e' positivo, anche per quel che riguarda l'analisi del campione prelevato, il laboratorio o l'organismo rilascia all'azienda, entro sessanta giorni dalla visita, la certificazione di cui all'articolo 51.
+
+Su richiesta, il laboratorio o l'organismo puo' concedere all'azienda certificata l'uso di un logo, la cui utilizzazione da parte dell'azienda medesima e' condizionata alla permanenza della certificazione.
+
+Le caratteristiche e le modalita' d'uso del logo sono stabilite dal laboratorio o dall'organismo che rilascia la certificazione.
+
+L'impronta del logo suddetto e' depositata presso la camera di commercio competente per territorio. All'atto dell'aggiornamento dell'elenco delle aziende certificate di cui all'articolo 52, comma 5, tale impronta e' altresi' riprodotta sul registro, a fianco dell'indicazione del laboratorio o organismo che certifica l'azienda interessata.
+
+Il funzionario responsabile stabilisce se l'impronta di cui al comma 4 contiene eventuali indicazioni atte a ingenerare equivoci con i titoli ed i marchi di identificazione, ed ha la facolta' di vietare, in caso affermativo, l'uso del marchio stesso. Contro tale provvedimento e' ammesso ricorso gerarchico al segretario generale della camera di commercio competente, che puo' richiedere parere tecnico al Ministero delle attivita' produttive.
+
+## Art. 54.
+
+Copia dei certificati di analisi dei campioni di cui all'articolo 53, comma 1, sono inviati all'azienda interessata che li conserva per almeno cinque anni.
+
+Se il laboratorio o l'organismo di certificazione verifica che i campioni saggiati non sono conformi alle disposizioni di legge o che comunque il titolo reale riscontrato sugli oggetti e' inferiore a quello indicato, revoca la certificazione e ne da' comunicazione immediata alla camera di commercio competente, che provvede a cancellarla come azienda certificata secondo quanto previsto all'articolo 28, comma 1, lettera l).
+
+Nel caso di cui al comma 2, l'azienda interessata puo' richiedere nuovamente la certificazione aggiuntiva non prima di sei mesi.
+
+## - Capo IX Sanzioni
+
+## Art. 55.
+
+Salva l'applicazione delle maggiori pene stabilite dalle leggi vigenti qualora il fatto costituisca reato, la inosservanza delle disposizioni del presente regolamento, non rientranti tra quelle gia' previste nell'articolo 25 del decreto, e' punita con la sanzione amministrativa da euro 30,99 ad euro 309,87.
+
+## Art. 56.
+
+Se le infrazioni si riferiscono alla dubbia autenticita' dei marchi, si procede al sequestro ed all'inoltro all'autorita' giudiziaria.
+
+Se le infrazioni si riferiscono all'eccessiva usura dei marchi di identificazione, ovvero all'assenza ed all'incompletezza od alla illeggibilita' delle impronte del marchio o del titolo apposte sulle materie prime o sugli oggetti, si procede al sequestro.
+
+Il sequestro di cui al comma 2 e' effettuato, con le stesse modalita' previste dall'articolo 46, anche per gli oggetti gia' posti in commercio se non recano le indicazioni prescritte.
+
+## - Capo X Norme finali
+
+## Art. 57.
+
+Il riferimento, negli articoli 11, 48, 49, 50 e 51, alle norme tecniche di cui agli allegati II e X puo' essere modificato o variato con provvedimento del Ministero delle attivita' produttive, in relazione alle esigenze che possono in concreto manifestarsi.
+
+## Art. 58.
+
+E' abrogato il decreto del Presidente della Repubblica 30 dicembre 1970, n. 1496.
+

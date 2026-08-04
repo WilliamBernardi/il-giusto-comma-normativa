@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 74
+data: 1982-01-08
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1982-01-08;74
+codice_redazionale: 082U0074
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                08 gennaio 1982
+                74
+                Modificazione allo statuto dell'Associazione nazionale allevatori di suini, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 8 gennaio 1982, col quale, sulla proposta del Ministro dell'agricoltura e delle foreste, viene approvata la modificazione all'art. 16 dello statuto dell'Associazione nazionale allevatori di suini, in Roma, eretta in ente morale con decreto del Presidente della Repubblica 23 dicembre 1962, n. 2031.
+
+Visto, il Guardasigilli: DARIDA
+ Registrato alla Corte dei conti, addi' 5 marzo 1982
+ Registro n. 3 Agricoltura, foglio n. 132
+

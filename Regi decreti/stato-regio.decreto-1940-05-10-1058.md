@@ -1,0 +1,32 @@
+---
+tipo: REGIO DECRETO
+numero: 1058
+data: 1940-05-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1940-05-10;1058
+codice_redazionale: 040U1058
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:38Z
+---
+
+REGIO DECRETO
+                10 maggio 1940
+                1058
+                Riconoscimento della personalita' giuridica dell'Istituto delle Suore
+Benedettine della Divina Provvidenza, con Casa madre in Voghera (Pavia). (040U1058)
+
+Entrata in vigore del provvedimento: 25/08/1940
+
+## Art. 1.
+
+N.
+
+R. decreto 10 maggio 1940, col quale, sulla proposta del DUCE del Fascismo, Capo del Governo, Ministro per l'interno, viene riconosciuta la personalita' giuridica dell'Istituto delle Suore Benedettine della Divina Provvidenza, con Casa madre in Voghera (Pavia), e viene autorizzato il trasferimento a favore del medesimo di beni immobili del complessivo valore di L. 555.000 da esso posseduti da epoca anteriore al Concordato con la Santa Sede, attualmente intestati a terzi; viene inoltre autorizzato ad accettare la donazione fatta, a suo favore, dalle suore Bonacina Daria di Zaccaele e Bonacasa Piera fu Giuseppe, di una casa con stalla, portico e fienile situata in Voghera, via dello Scalo n. 5, composta di piani 3 e vani 26, con sotterraneo di vani 3, col reddito imponibile di L. 3600, alle donanti pervenuta per acquisto, ed avente un valore di L. 95.000. 
+ 
+ Visto, il Guardasigilli: Grandi 
+ 
+ Registrato alla Corte dei conti, addi' 11 luglio 1940-XVIII
+

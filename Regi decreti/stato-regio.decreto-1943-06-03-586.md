@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 586
+data: 1943-06-03
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1943-06-03;586
+codice_redazionale: 043U0586
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:06:18Z
+---
+
+REGIO DECRETO
+                03 giugno 1943
+                586
+                Autorizzazione al Ministro per le finanze ad accettare una donazione a favore dello Stato. (043U0586)
+
+Entrata in vigore del provvedimento: 22/07/1943
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

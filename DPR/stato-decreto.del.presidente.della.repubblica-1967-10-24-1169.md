@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 1169
+data: 1967-10-24
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1967-10-24;1169
+codice_redazionale: 067U1169
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:58Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                24 ottobre 1967
+                1169
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di S. Achille martire, in Roma.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 26 ottobre 1967, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vicario generale di S.S. il Sommo Pontefice per la citta' di Roma in data 21 ottobre 1957, integrato con altro decreto del 17 gennaio 1967 e con due dichiarazioni del 28 febbraio 1967, relativo alla erezione della parrocchia di S. Achille martire, in Roma - Villaggio Talenti, ed alla istituzione di due benefici coadiutoriali nella parrocchia stessa.
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 4 dicembre 1967
+ Atti del Governo, registro n. 216, foglio n. 18. - GRECO
+

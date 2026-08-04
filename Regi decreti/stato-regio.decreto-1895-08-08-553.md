@@ -1,0 +1,27 @@
+---
+tipo: REGIO DECRETO
+data: 1895-08-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1895-08-08;553
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:27:27Z
+---
+
+REGIO DECRETO
+                08 agosto 1895
+                DLIII
+                Che erige in ente morale l'orfanatrofio femminile Cantello in Butera (Caltanissetta). (9500553R)
+
+Entrata in vigore del provvedimento: 28/12/1893
+
+## Art. 1.
+
+Con cui l'orfanatrofio femminile Cantello in Butera (Caltanissetta), e' eretto in ente morale sotto l'amministrazione del sacerdote don Matteo Provenzano, di Gaetano Gullo e del notaio Salvatore Danieli come risulta dal testamento 21 settembre 1886, della fu Carmela Cantello, ed e' autorizzato ad accettare l'eredita' in L. 20,000 lorde disposte a suo favore dalla fondatrice stessa. - Firmato UMBERTO - Contrassegnato Crispi - Visto Calenda. 
+ 
+ Registrato alla Corte dei Conti addi' 6 dicembre 1895. 
+ 
+ Reg. 202. Atti del Governo a f. 119.
+

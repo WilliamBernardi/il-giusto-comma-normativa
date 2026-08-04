@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 900
+data: 1957-09-02
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1957-09-02;900
+codice_redazionale: 057U0900
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:51Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                02 settembre 1957
+                900
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia della Beatissima Vergine Maria, sotto il titolo "Madonna del Passo", in contrada Borgo Pineta del comune di Avezzano (L'Aquila).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 2 settembre 1957, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano dei Marsi in data 1° novembre 1956, integrato con postilla 2 febbraio 1957 e due dichiarazioni rispettivamente del 27 dicembre 1956 e 2 aprile 1957, relativo alla erezione della parrocchia della Beatissima Vergine Maria, sotto il titolo "Madonna del Passo", in contrada Borgo Pineta del comune di Avezzano (L'Aquila). 
+ 
+Visto, il Guardasigilli: GONELLA 
+ Registrato alla Corte dei conti, addi' 7 ottobre 1957 
+ Atti del Governo, registro n. 108, foglio n. 40. - RELLEVA
+

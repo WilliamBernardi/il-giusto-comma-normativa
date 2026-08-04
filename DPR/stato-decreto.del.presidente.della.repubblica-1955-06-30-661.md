@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 661
+data: 1955-06-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1955-06-30;661
+codice_redazionale: 055U0661
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:57Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 giugno 1955
+                661
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia dei Santi Filippo e Giacomo Apostolo, in localita' Villanova del Judrio del comune di San Giovanni al Natisone (Udine).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 giugno 1955, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Udine in data 3 maggio 1954, relativo alla erezione della parrocchia dei Santi Filippo e Giacomo Apostolo, in localita' Villanova del Judrio del comune di San Giovanni al Natisone (Udine).
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 1 agosto 1955
+ Atti del Governo, registro n. 92, foglio n. 18. - CARLOMAGNO
+

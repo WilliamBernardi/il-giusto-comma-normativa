@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 377
+data: 1920-02-07
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1920-02-07;377
+codice_redazionale: 020U0377
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:24:32Z
+---
+
+REGIO DECRETO
+                07 febbraio 1920
+                377
+                Cambiamento di denominazione di Comune. (020U0377)
+
+Entrata in vigore del provvedimento: 02/05/1920
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

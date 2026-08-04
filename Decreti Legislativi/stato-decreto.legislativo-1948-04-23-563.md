@@ -1,0 +1,48 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 563
+data: 1948-04-23
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1948-04-23;563
+codice_redazionale: 048U0563
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 1953-03-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:29Z
+---
+
+DECRETO LEGISLATIVO
+                23 aprile 1948
+                563
+                Ripristino del tribunale di Saluzzo e delle preture di Aiello Calabro, Biancavilla, Cascia, Cervaro, Gibellina, Giovinazzo, Mascalucia, Oria, Orzinuovi, Poppi, Sant'Agata de' Goti ed Urbania.
+
+Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia, di concerto con il Ministro per il tesoro;
+
+## Art. 1.
+
+E' ricostituita la sede del tribunale nel comune di Saluzzo.
+
+## Art. 2.
+
+E' ricostituita la sede della pretura nei comuni di Aiello Calabro, Biancavilla, Cascia, Cervaro, Gibellina, Giovinazzo, Mascalucia, Oria, Orzinuovi, Poppi, Sant'Agata de' Goti ed Urbania.
+
+## Art. 3.
+
+I comuni di Monterelli, Oriolo Romano e Sant'Oreste, sono distaccati dalle preture da cui attualmente dipendono ed aggregati:
+Monterchi alla pretura di San Sepolcro; Oriolo Romano alla pretura di Ronciglione e Sant'Oreste alla pretura di Castelnuovo di Porto.
+
+## Art. 4.
+
+Alle tabelle A, B, C, e D, annesse al decreto 30 gennaio 1941, n. 12, con le varianti successive, sono apportate le modifiche di cui alle tabelle A, B, C e D, unite al presente decreto e vistate dal Ministro proponente e da quello per il tesoro.
+
+## Art. 5.
+
+Le piante organiche del personale della magistratura, delle cancellerie e segretarie giudiziarie, degli ufficiali giudiziari e degli uscieri risultanti dalle tabelle: G, annessa al decreto 28 settembre 1933, n. 1282; H, I ed M, annesse al decreto 30 gennaio 1941, n. 12; C ed E, annesse al decreto 8 agosto 1942, n. 1881; F, annessa al decreto 4 gennaio 1947, n. 64; E, annessa al decreto 24 gennaio 1947, n. 322; E, G, M, ed N, annesse al decreto 5 agosto 1947, n. 945; E, annessa al decreto 21 dicembre 1947, n. 1641, ed F, annessa al decreto 27 dicembre 1947, n. 1700 - per la parte relativa agli uffici cui si riferiscono - sono modificate come dalle tabelle E, F, G, H, I ed L, unite al presente decreto e vistate dal Ministro per la grazia e giustizia e dal Ministro per il tesoro.
+
+## Art. 6.
+
+Con successivo decreto del Ministro per la grazia e giustizia sara' fissata, la data in cui gli uffici indicati negli articoli 1 e 2 dovranno incominciare a funzionare.
+ Da tale data, gli affari civili e penali in corso presso gli uffici competenti secondo le circoscrizioni attualmente in vigore - fatta eccezione per le cause civili gia' passate in decisione e per i procedimenti penali per cui e' stato dichiarato aperto il dibattimento - saranno devoluti alla cognizione degli uffici, secondo la circoscrizione modificata ai sensi del presente decreto legislativo.
+

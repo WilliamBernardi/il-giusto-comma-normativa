@@ -1,0 +1,36 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 115
+data: 1979-04-10
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1979-04-10;115
+codice_redazionale: 079U0115
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:50Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                10 aprile 1979
+                115
+                Convocazione dei comizi per la elezione del Senato della Repubblica e della Camera dei deputati.
+
+## Art. 1.
+
+IL PRESIDENTE DELLA REPUBBLICA
+
+ Visto il proprio decreto in data 2 aprile 1979, n. 96, relativo allo scioglimento della Camera dei deputati e del Senato della Repubblica;
+ Visti gli articoli 61 e 87, terzo comma, della Costituzione;
+ Visto il testo unico delle leggi per l'elezione della Camera dei deputati, approvato con decreto presidenziale 30 marzo 1957, n. 361, e successive modificazioni;
+ Vista la legge 6 febbraio 1948, n. 29, recante norme per l'elezione del Senato della Repubblica, e successive modificazioni;
+ Vista la legge 23 aprile 1976, n. 136, recante norme per la riduzione dei termini e semplificazione del procedimento elettorale;
+ Sentito il Consiglio dei Ministri;
+ Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno;
+
+ Decreta:
+
+ I comizi per la elezione del Senato della Repubblica e della Camera dei deputati sono convocati per il giorno di domenica 3 giugno 1979.
+ La prima riunione delle Camere avra' luogo il giorno di mercoledi 20 giugno 1979.
+

@@ -1,0 +1,85 @@
+---
+tipo: DECRETO-LEGGE
+numero: 535
+data: 1987-11-29
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1987-11-29;535
+codice_redazionale: 087U0535
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1988-05-21
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                29 novembre 1987
+                535
+                Norme in materia di occupazione e di previdenza, nonche' misure immediate per il potenziamento del sistema informativo dei servizi centrali e periferici del Ministero del lavoro e della previdenza sociale.
+
+Decreto-Legge decaduto per mancata conversione.
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 20 MAGGIO 1988, N. 160
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA L. 20 MAGGIO 1988, N. 160
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 12.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+
+## Art. 13.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 20 MAGGIO 1988, N. 160
+

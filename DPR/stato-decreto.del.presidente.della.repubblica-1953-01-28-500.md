@@ -1,0 +1,31 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 500
+data: 1953-01-28
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1953-01-28;500
+codice_redazionale: 053U0500
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:03Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                28 gennaio 1953
+                500
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia
+della Visitazione di Maria SS.ma, in frazione Porto Vado del comune
+di Vado Ligure (Savona).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 28 gennaio 1953, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto del Vescovo di Savona e Noli in data 2 luglio 1952, relativo all'erezione della parrocchia della Visitazione di Maria SS.ma, in frazione Porto Vado del comune di Vado Ligure (Savona).
+
+Visto, il Guardasigilli: ZOLI
+ Registrato alla Corte dei conti, addi' 10 luglio 1953
+ Atti dei Governo, registro n. 78, foglio n. 10. - PALLA
+

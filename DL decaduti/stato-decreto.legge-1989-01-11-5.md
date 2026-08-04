@@ -1,0 +1,91 @@
+---
+tipo: DECRETO-LEGGE
+numero: 5
+data: 1989-01-11
+titolo: ""
+urn: urn:nir:stato:decreto.legge:1989-01-11;5
+codice_redazionale: 089G0024
+vigente: true
+source: normattiva-opendata
+collection: DL decaduti
+vigenza_date: 1989-05-23
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:41:49Z
+---
+
+DECRETO-LEGGE
+                11 gennaio 1989
+                5
+                 Misure di sostegno e di reindustrializzazione in attuazione del piano di risanamento della siderurgia e proroga del trattamento straordinario di cassa integrazione salariale in favore dei dipendenti delle societa' GEPI.
+
+Entrata in vigore del decreto: 12/01/1989.Decreto-Legge decaduto per mancata conversione.
+
+## - Capo I MISURE DI SOSTEGNO SOCIALE
+
+## Art. 1.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 2.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 3.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 4.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 5.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 6.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 7.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## - Capo II INCENTIVI PER LA REINDUSTRIALIZZAZIONE
+
+## Art. 8.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 9.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 10.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 11.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 12.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+
+## Art. 13.
+
+DECRETO DECADUTO; I SUOI EFFETTI SONO STATI FATTI SALVI DALLA
+ L. 15 MAGGIO 1989, N. 181
+

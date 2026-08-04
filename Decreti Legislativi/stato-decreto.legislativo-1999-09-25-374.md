@@ -1,0 +1,83 @@
+---
+tipo: DECRETO LEGISLATIVO
+numero: 374
+data: 1999-09-25
+titolo: ""
+urn: urn:nir:stato:decreto.legislativo:1999-09-25;374
+codice_redazionale: 099G0450
+vigente: true
+source: normattiva-opendata
+collection: Decreti Legislativi
+vigenza_date: 2010-12-18
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:45:23Z
+---
+
+DECRETO LEGISLATIVO
+                25 settembre 1999
+                374
+                 Estensione delle disposizioni in materia di riciclaggio dei
+capitali di provenienza illecita ed attivita' finanziarie
+particolarmente suscettibili di utilizzazione a fini di riciclaggio,
+a norma dell'articolo 15 della legge 6 febbraio 1996, n. 52.
+
+Entrata in vigore del decreto: 11/11/1999
+
+Considerata la necessita' di estendere l'ambito di applicazione delle disposizioni antiriciclaggio a soggetti ed attivita' sinora non disciplinati;
+
+Acquisiti i pareri delle competenti commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro del tesoro, del bilancio e della programmazione economica, di concerto con i Ministri della giustizia, dell'interno e delle finanze;
+
+## Art. 1. — (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 2007, N. 231 ))
+
+
+
+## Art. 2. — Requisiti di onorabilita'
+
+Quando non sono espressamente previsti da specifiche norme di settore o dal presente decreto, costituiscono requisiti di onorabilita' per l'esercizio delle attivita' di cui all'articolo 1 quelli di cui all'articolo 11 del regio decreto 18 giugno 1931, n. 773.
+
+## Art. 3. — Agenzia in attivita' finanziaria
+
+L'esercizio professionale nei confronti del pubblico dell'agenzia in attivita' finanziaria, indicata nell'articolo 1, comma 1, lettera n), e' riservato ai soggetti iscritti in un elenco istituito presso l'UIC.
+
+Il Ministro del tesoro, del bilancio e della programmazione economica, con regolamento, adottato sentito l'UIC, specifica il contenuto dell'attivita' indicata al comma 1, stabilisce le condizioni di compatibilita' con lo svolgimento di altre attivita' professionali, prevede in quali circostanze ricorra l'esercizio nei confronti del pubblico e ne disciplina l'esercizio nel territorio della Repubblica da parte di soggetti aventi sede legale all'estero.
+
+Nei casi di perdita dei requisiti di onorabilita' in capo ai soggetti indicati nella lettera b), numero 2), del comma 3, si applicano gli articoli 108, comma 3, e 109, comma 2, del testo unico bancario.
+
+I soggetti indicati nella lettera b) del comma 3 svolgono la propria attivita' esclusivamente per il tramite di persone fisiche iscritte nell'elenco.
+
+L'UIC esercita il controllo sui soggetti iscritti nell'elenco per verificare l'osservanza delle disposizioni del presente decreto.
+A tal fine, puo' richiedere la comunicazione di dati e notizie e la trasmissione di dati e documenti fissando i relativi termini. Esso puo', altresi', chiedere la collaborazione del nucleo speciale di polizia valutaria della Guardia di finanza.
+
+L'UIC disciplina la procedura e i termini per l'iscrizione nell'elenco, nonche' le forme di pubblicita' dell'elenco stesso.
+
+Il Ministro del tesoro, del bilancio e della programmazione economica, su proposta dell'UIC, dispone la cancellazione dall'elenco per gravi violazioni di norme di legge, delle norme del presente decreto legislativo o delle disposizioni emanate ai sensi di esso. Il Ministro del tesoro, del bilancio e della programmazione economica, sentito l'UIC, disciplina la procedura per la sospensione cautelare dall'elenco.(3) ((4))
+
+------------
+                        AGGIORNAMENTO (3)
+                         Il D.Lgs. 13 agosto 2010, n. 141 ha disposto (con l'art. 28, comma 1, lettera a)) l'abrogazione del presente articolo a decorrere dalla data di entrata in vigore delle disposizioni di attuazione del titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385 e del medesimo D.lgs. 13 agosto 2010, n. 141.
+ Ha inoltre disposto (con l'art. 28, comma 2) che dalla medesima data ogni riferimento all'elenco degli agenti previsto dal presente articolo, si intende effettuato ai corrispondenti elenchi previsti dagli articoli 128-quater e 128-sexies del decreto legislativo 1° settembre 1993, n. 385.
+                        ----------------
+                        AGGIORNAMENTO (4)
+                         Il D.Lgs. 14 dicembre 2010, n. 218 nel modificare l'art. 28, comma 1 del D.Lgs. 13 agosto 2010, n. 141 ha conseguentemente disposto (con l'art. 15, comma 1) che ""Fino alla data di entrata in vigore delle disposizioni di attuazione del Titolo VI-bis del decreto legislativo 1° settembre 1993, n. 385, e del titolo IV del presente decreto, ovvero se posteriore, fino alla costituzione dell'Organismo, continuano ad applicarsi le seguenti disposizioni e le relative norme di attuazione:
+ (...)
+ a) l'articolo 3 del decreto legislativo 25 settembre 1999, n. 374 (...)".
+ Ha inoltre disposto (con l'art. 16, comma 8) che "Le disposizioni modificate, introdotte o sostituite dal presente decreto si applicano a decorrere dalla data di entrata in vigore dei corrispondenti articoli del decreto legislativo 13 agosto 2010, n. 141. I termini di conclusione dei procedimenti amministrativi, stabiliti da norme di legge o di regolamento, pendenti alla data del 19 settembre 2010, sono prorogati fino a 120 giorni successivi alla data di entrata in vigore del presente decreto".
+
+## Art. 4. — (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 2007, N. 231 ))
+
+
+
+## Art. 5. — (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 2007, N. 231 ))
+
+
+
+## Art. 6. — (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 2007, N. 231 ))
+
+
+
+## Art. 7. — (( ARTICOLO ABROGATO DAL D.LGS. 21 NOVEMBRE 2007, N. 231 ))
+
+
+

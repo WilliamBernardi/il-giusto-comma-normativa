@@ -1,0 +1,41 @@
+---
+tipo: REGIO DECRETO
+numero: 4793
+data: 1879-03-13
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1879-03-13;4793
+codice_redazionale: 079U4793
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:28:43Z
+---
+
+REGIO DECRETO
+                13 marzo 1879
+                4793
+                Che autorizza il comune di San Giovanni di Cammarata (Girgenti) ad assumere la denominazione di San Giovanni Gemini. (079U4793)
+
+Entrata in vigore del provvedimento: 22/04/1879
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Presidente del Consiglio dei Ministri, Ministro Segretario di Stato per gli affari dell'Interno,
+
+Veduta la istanza fatta dal Consiglio comunale di S. Giovanni di Cammarata con deliberazione 26 giugno 1878, perche' sia sostituito all'appellativo attuale del comune quello di Gemini;
+
+## Art. 1.
+
+Il comune di San Giovanni di Cammarata, nella provincia di Girgenti, e' autorizzato ad assumere la denominazione di San Giovanni Gemini. 
+ 
+ Ordiniamo che il presente decreto, munito del sigillo dello Stato, sia inserto nella Raccolta ufficiale delle leggi e dei decreti del Regno d'Italia, mandando a chiunque spetti di osservarlo e di farlo osservare. 
+ 
+ Dato a Roma, addi' 13 marzo 1879. 
+ 
+ UMBERTO. 
+ 
+ Depretis.
+

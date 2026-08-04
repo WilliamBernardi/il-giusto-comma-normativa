@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 808
+data: 1956-05-29
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1956-05-29;808
+codice_redazionale: 056U0808
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:48Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                29 maggio 1956
+                808
+                Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria Ausiliatrice, in localita' "La Cava" del comune di Forli'.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 29 maggio 1956, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Forli' in data 17 dicembre 1955, integrato con dichiarazione del 20 febbraio 1956, relativo alla erezione della parrocchia di Santa Maria Ausiliatrice, in localita' "La Cava" del comune di Forli'.
+
+Visto, il Guardasigilli: MORO
+ Registrato alla Corte dei conti, addi' 21 luglio 1956
+ Atti dei Governo, registro n. 99, foglio n. 115. - CARLOMAGNO
+

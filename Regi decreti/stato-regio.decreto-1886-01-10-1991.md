@@ -1,0 +1,24 @@
+---
+tipo: REGIO DECRETO
+data: 1886-01-10
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1886-01-10;1991
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2025-05-09
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:25:37Z
+---
+
+REGIO DECRETO
+                10 gennaio 1886
+                MDCCCCXCI
+                Che scioglie l'amministrazione dell'opera pia Vallacca-Camoggi in Polverigi, e ne affida temporaneamente la gestione ad un delegato straordinario. (8601991R)
+
+Entrata in vigore del provvedimento: 28/02/1886
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DALLA L. 7 APRILE 2025, N. 56))
+
+
+

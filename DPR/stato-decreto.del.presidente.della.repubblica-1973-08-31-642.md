@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 642
+data: 1973-08-31
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1973-08-31;642
+codice_redazionale: 073U0642
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:47:59Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                31 agosto 1973
+                642
+                Riconoscimento, agli effetti civili, della erezione della parrocchia di Maria Santissima del Carmelo, nel comune di Misilmeri.
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 31 agosto 1973, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'ordinario diocesano di Palermo in data 28 marzo 1968, integrato con due dichiarazioni del 23 marzo 1971 e 5 dicembre 1972, relativo alla erezione della parrocchia di Maria Santissima del Carmelo, in frazione Portella di Mare del comune di Misilmeri (Palermo).
+
+Visto, il Guardasigilli: ZAGARI
+ Registrato alla Corte dei conti, addi' 27 ottobre 1973
+ Atti di Governo, registro n. 261, foglio n. 67. - VALENTINI
+

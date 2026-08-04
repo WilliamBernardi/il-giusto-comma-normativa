@@ -1,0 +1,33 @@
+---
+tipo: REGIO DECRETO
+numero: 560
+data: 1939-02-08
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1939-02-08;560
+codice_redazionale: 039U0560
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:29:15Z
+---
+
+REGIO DECRETO
+                08 febbraio 1939
+                560
+                Riconoscimento, agli effetti civili, della nuova parrocchia di S.
+Giuseppe, in Modena. (039U0560)
+
+Entrata in vigore del provvedimento: 28/04/1939
+
+## Art. 1.
+
+N.
+
+R. decreto 8 febbraio 1939, col quale, sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per l'interno, vengono riconosciuti agli effetti civili i decreti dell'Arcivescovo di Modena in data, 13 settembre 1929-VII e 10 novembre 1937-XVI, relativi alla erezione della parrocchia di S.
+Giuseppe nella Chiesa detta «Tempio Monumentale dei caduti in guerra» in Modena. 
+ 
+ Visto, il Guardasigilli: Solmi 
+ 
+ Registrato alla Corte del conti, addi' 1° aprile 1939-XVII
+

@@ -1,0 +1,26 @@
+---
+tipo: REGIO DECRETO
+numero: 803
+data: 1914-08-06
+titolo: ""
+urn: urn:nir:stato:regio.decreto:1914-08-06;803
+codice_redazionale: 014U0803
+vigente: true
+source: normattiva-opendata
+collection: Regi decreti
+vigenza_date: 2010-12-16
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T10:08:48Z
+---
+
+REGIO DECRETO
+                06 agosto 1914
+                803
+                Col quale viene sospesa la facolta' di emigrare ai militari del R. esercito e della R. marina. (014U0803)
+
+Entrata in vigore del provvedimento: 26/08/1914
+
+## Art. 1. — ((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))
+
+
+

@@ -1,0 +1,29 @@
+---
+tipo: DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+numero: 492
+data: 1966-05-30
+titolo: ""
+urn: urn:nir:stato:decreto.del.presidente.della.repubblica:1966-05-30;492
+codice_redazionale: 066U0492
+vigente: true
+source: normattiva-opendata
+collection: DPR
+zip_date: 2026-08-02
+fetched_at: 2026-08-02T09:48:10Z
+---
+
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+                30 maggio 1966
+                492
+                Riconoscimento, agli effetti civili, della erezione della Parrocchia della Sacra Famiglia di Gesu', Maria e Giuseppe, in Suzzara (Mantova).
+
+## Art. 1.
+
+N.
+
+Decreto del Presidente della Repubblica 30 maggio 1966, col quale, sulla proposta del Ministro per l'interno, viene riconosciuto, agli effetti civili, il decreto dell'Ordinario diocesano di Mantova in data 26 luglio 1965, integrato con postilla e dichiarazione del 27 luglio successivo, relativo alla erezione della Parrocchia della Sacra Famiglia di Gesu', Maria e Giuseppe, in Suzzara (Mantova).
+
+Visto, il Guardasigilli: REALE
+ Registrato alla Corte dei conti, addi' 30 giugno 1966
+ Atti del Governo, registro n. 204, foglio n. 13. - DI PRETORO
+
