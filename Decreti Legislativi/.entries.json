@@ -1,5 +1,5 @@
 {
-  "zip_date": "2026-08-04",
+  "zip_date": "2026-08-05",
   "entries": {
     "DECRETO LEGISLATIVO_19470327_1884/1948-12-29_047U1884_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "d27aabe4592de387501987e3f17ae35af01f131202f271ded78b971cbeab3bd2"
@@ -6469,8 +6469,10 @@
     "DECRETO LEGISLATIVO_20110331_58/2011-04-29_011G0099_VIGENZA_2025-06-18_V0.xml": {
       "sha256": "f0fcd2be388f339cca866a66521479a9ea659fb90e5762b460083a1d7219e5c5"
     },
-    "DECRETO LEGISLATIVO_20110411_54/2011-04-27_011G0097_VIGENZA_2025-06-18_V0.xml": {
-      "sha256": "4e8e1e093df7bd64e413b705eeba9369993fa5b68bad493c04dd086ddd5a2b1c"
+    "DECRETO LEGISLATIVO_20110411_54/2011-04-27_011G0097_VIGENZA_2026-08-05_V0.xml": {
+      "sha256": "b31b5e9f1d6745c0802eec64a492369d51ce8beaa0321c447111128ce235ea94",
+      "out": "Decreti Legislativi/stato-decreto.legislativo-2011-04-11-54.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2011-04-11;54"
     },
     "DECRETO LEGISLATIVO_20110411_61/2011-05-04_011G0101_VIGENZA_2025-09-30_V0.xml": {
       "sha256": "e0d75d2c046532f9cfda42b4527c71afeaa0be1c6a25000179cc8b7889074c33"
@@ -8748,6 +8750,11 @@
     },
     "DECRETO LEGISLATIVO_20260625_128/2026-07-23_26G00145_ORIGINALE_V0.xml": {
       "sha256": "d49dab91bbbc1a911a2a252bb5b0e1614bab80e6af3e0df1de71739576602132"
+    },
+    "DECRETO LEGISLATIVO_20260626_138/2026-08-03_26G00156_ORIGINALE_V0.xml": {
+      "sha256": "55024c3381a953a75d0751778b0233a617491d73e418e9c4188bbcc322934410",
+      "out": "Decreti Legislativi/stato-decreto.legislativo-2026-06-26-138.md",
+      "urn": "urn:nir:stato:decreto.legislativo:2026-06-26;138"
     },
     "DECRETO LEGISLATIVO_20260703_136/2026-07-31_26G00152_ORIGINALE_V0.xml": {
       "sha256": "85c942b80f079ca6c2a651e60488f262fe8d73fa6232caea632e6e96ee0c0fb8"

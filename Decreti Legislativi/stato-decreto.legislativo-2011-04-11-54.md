@@ -8,9 +8,9 @@ codice_redazionale: 011G0097
 vigente: true
 source: normattiva-opendata
 collection: Decreti Legislativi
-vigenza_date: 2023-01-14
-zip_date: 2026-08-02
-fetched_at: 2026-08-02T09:45:22Z
+vigenza_date: 2026-08-05
+zip_date: 2026-08-05
+fetched_at: 2026-08-05
 ---
 
 DECRETO LEGISLATIVO
